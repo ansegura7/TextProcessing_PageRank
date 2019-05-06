@@ -24,13 +24,17 @@ follows:
     - Initialization: s = [s(V1), . . . , s(Vn)] = [1/n, . . . , 1/n], where n = |V|.
     - Score nodes in a graph using their PageRank obtained by iteratively computing the equation.
     - Where α is a damping factor (α = 0.85) and p =  [1/n, . . . , 1/n].
+
 ![Unigrams and Direct (Full) comparison](https://raw.githubusercontent.com/ansegura7/TextProcessing_PageRank/master/images/page-rank-single.PNG)
 
 - Weighted PageRank: assume the weight Wij of an edge (Vi, Vj) is calculated as the number of times the corresponding words Wi and Wj are adjacent in text. Run PageRank on each word graph corresponding to each document in the collection using:
+
 ![Unigrams and Direct (Full) comparison](https://raw.githubusercontent.com/ansegura7/TextProcessing_PageRank/master/images/page-rank-weighted.PNG)
 
 - Mean reciprocal rank (MRR):
+
 ![Unigrams and Direct (Full) comparison](https://raw.githubusercontent.com/ansegura7/TextProcessing_PageRank/master/images/mrr-formula.PNG)
+
 Rd is the rank at which the first correct prediction was found for d ∈ D.
 
 ## Program Description
