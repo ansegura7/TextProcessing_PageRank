@@ -5,7 +5,7 @@
 - Created On: June 27, 2018
 
 ## Abstract
-The goal of this project is to use PageRank to derive a ranking of words in a document based on their PageRank scores. The PageRank score of a word serves as an indicator of the importance of the word in the text.
+The goal of this project is to use PageRank to derive a ranking of words in a document based on their PageRank scores. The PageRank score of a word serves as an indicator of the importance of the word in the text. Also compare the MRR of the above PageRank algorithm with the MRR of a ranking of words based on their TF-IDF ranking scheme.
 
 The project name is: **HW2_PageRank** and it was created using the Eclipse IDE. The program solves all the questions in a single execution (run).
 
@@ -17,6 +17,21 @@ For point 5, a function was created that calculates the TF-IDF scores for each w
 
 ## Data
 For this project, it was used the WWW collection consisting of titles and abstracts of research articles published in the WWW conference.
+
+## Algorithms
+- Simple PageRank: run PageRank on each word graph corresponding to each document in the collection as
+follows:
+    - Initialization: s = [s(V1), . . . , s(Vn)] = [1/n, . . . , 1/n], where n = |V|.
+    - Score nodes in a graph using their PageRank obtained by iteratively computing the equation.
+    - Where α is a damping factor (α = 0.85) and p =  [1/n, . . . , 1/n].
+![Unigrams and Direct (Full) comparison](https://raw.githubusercontent.com/ansegura7/TextProcessing_PageRank/master/images/page-rank-single.PNG)
+
+- Weighted PageRank: assume the weight Wij of an edge (Vi, Vj) is calculated as the number of times the corresponding words Wi and Wj are adjacent in text. Run PageRank on each word graph corresponding to each document in the collection using:
+![Unigrams and Direct (Full) comparison](https://raw.githubusercontent.com/ansegura7/TextProcessing_PageRank/master/images/page-rank-weighted.PNG)
+
+- Mean reciprocal rank (MRR):
+![Unigrams and Direct (Full) comparison](https://raw.githubusercontent.com/ansegura7/TextProcessing_PageRank/master/images/mrr-formula.PNG)
+Rd is the rank at which the first correct prediction was found for d ∈ D.
 
 ## Program Description
 The program has 7 classes. Each of them is described below:
