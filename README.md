@@ -102,9 +102,9 @@ File class: **Porter.java**
 - Remove stop-words
 
 ## Program Execution Rules
-A .JAR file of the program was created. The JAR name is: KD_HW2_v1.7.jar and have 3 parameters: data path, n-grams size and comparison type.
+A .JAR file of the program was created. The JAR name is: KD_HW2_v1.7.jar and you must send the path of the "data/www/" directory as a parameter, the n-grams size and the comparison type as parameters.
 
-Therefore, to run the program you should go into the project directory of the VDI and then execute the following command:
+Therefore, to run the program you should go into the HW2 directory on your machine and then execute the following command:
 ~~~
     cd HW2
     java -jar KD_HW2_v1.7.jar data/ [UNIGRAMS|NGRAMS] [DIRECT|BY_TOKENS]
@@ -117,8 +117,7 @@ Execution examples:
     java -jar KD_HW2_v1.7.jar data/ NGRAMS DIRECT			(DEFAULT CONFIGURATION)
     java -jar KD_HW2_v1.7.jar data/ NGRAMS BY_TOKENS
 ~~~
-The .JAR program must be run with Java 7 or higher.  
-**NOTE**: You must send the path of the "data/www/" directory as a parameter, the n-grams size and the comparison  type.
+The .JAR program must be run with Java 7 or higher.
 
 ## Program Output
 1. Show the MRR Scores: Using only Unigrams and Direct (Full) comparison
