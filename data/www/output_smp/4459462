@@ -1,0 +1,69 @@
+File name: 4459462
+
+Graph edges count: 18
+ analyt - process: 1
+ collabor - filteringbas: 2
+ context - inform: 1
+ devic - mcommerc: 1
+ experiment - result: 1
+ filteringbas - framework: 2
+ handheld - devic: 1
+ mcommerc - platform: 1
+ multidimension - collabor: 1
+ onlin - analyt: 1
+ person - servic: 2
+ previou - work: 1
+ promis - research: 1
+ rapid - growth: 1
+ research - area: 1
+ user - content: 1
+ wellfound - mechan: 1
+ wireless - technologi: 1
+
+PageRank scores count: 30
+ analyt: 0.03637203678490855
+ area: 0.05057679169144716
+ collabor: 0.03637203678490855
+ content: 0.03637203678490855
+ context: 0.019660560424274894
+ devic: 0.03637203678490855
+ experiment: 0.019660560424274894
+ filteringbas: 0.05057679169144716
+ framework: 0.06265083336200497
+ growth: 0.03637203678490855
+ handheld: 0.019660560424274894
+ inform: 0.03637203678490855
+ mcommerc: 0.05057679169144716
+ mechan: 0.03637203678490855
+ multidimension: 0.019660560424274894
+ onlin: 0.019660560424274894
+ person: 0.019660560424274894
+ platform: 0.06265083336200497
+ previou: 0.019660560424274894
+ process: 0.05057679169144716
+ promis: 0.019660560424274894
+ rapid: 0.019660560424274894
+ research: 0.03637203678490855
+ result: 0.03637203678490855
+ servic: 0.03637203678490855
+ technologi: 0.03637203678490855
+ user: 0.019660560424274894
+ wellfound: 0.019660560424274894
+ wireless: 0.019660560424274894
+ work: 0.03637203678490855
+
+N-grams list: 10
+ collabor filteringbas framework
+ mcommerc platform
+ handheld devic mcommerc
+ onlin analyt process
+ promis research area
+ framework
+ previou work
+ wellfound mechan
+ context inform
+ user content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

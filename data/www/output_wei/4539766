@@ -1,0 +1,66 @@
+File name: 4539766
+
+Graph edges count: 21
+ continu - xml: 1
+ current - summari: 1
+ data - stream: 3
+ data - structur: 2
+ depthfirstsearch - manner: 1
+ effect - subtre: 1
+ effect - summari: 1
+ essenti - inform: 1
+ frequent - queri: 3
+ frequent - tree: 1
+ number - method: 1
+ numer - approach: 1
+ onlin - algorithm: 1
+ onlin - mine: 1
+ queri - tree: 4
+ subtre - numer: 1
+ summari - data: 2
+ tree - pattern: 1
+ tree - structur: 1
+ xml - data: 3
+ xml - queri: 1
+
+PageRank scores count: 24
+ algorithm: 0.03158454575102838
+ approach: 0.06382433229768116
+ continu: 0.022164593509493596
+ current: 0.022164593509493596
+ data: 0.09116574367873582
+ depthfirstsearch: 0.022164593509493596
+ effect: 0.022164593509493596
+ essenti: 0.022164593509493596
+ frequent: 0.022164593509493596
+ inform: 0.04100449799256315
+ manner: 0.04100449799256315
+ method: 0.04100449799256315
+ mine: 0.03158454575102838
+ number: 0.022164593509493596
+ numer: 0.04901145739786771
+ onlin: 0.022164593509493596
+ pattern: 0.04984541754475108
+ queri: 0.04500797769521543
+ stream: 0.06865912278564887
+ structur: 0.08084177039552126
+ subtre: 0.03158454575102838
+ summari: 0.05042445023409793
+ tree: 0.06513135067119409
+ xml: 0.04100449799256315
+
+N-grams list: 10
+ xml data stream
+ effect summari data
+ current summari data
+ continu xml data
+ xml queri tree
+ tree structur
+ frequent tree pattern
+ frequent queri tree
+ effect subtre numer
+ structur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

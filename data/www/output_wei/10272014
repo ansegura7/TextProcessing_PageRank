@@ -1,0 +1,95 @@
+File name: 10272014
+
+Graph edges count: 35
+ author - post: 1
+ challeng - task: 1
+ complex - page: 1
+ data - extrac: 1
+ data - resourc: 1
+ encourag - inform: 1
+ experiment - result: 1
+ extrac - method: 1
+ extrac - perform: 1
+ forum - page: 1
+ forum - site: 2
+ forum - web: 1
+ import - data: 1
+ individu - page: 1
+ inform - extrac: 2
+ layout - design: 1
+ list - page: 1
+ logic - network: 1
+ markov - logic: 1
+ object - page: 1
+ pagelevel - knowledg: 1
+ page - layout: 1
+ post - author: 1
+ post - content: 1
+ post - page: 1
+ post - time: 1
+ post - titl: 1
+ sitelevel - knowledg: 4
+ structur - data: 4
+ task - due: 1
+ titl - post: 1
+ unrestrict - user: 1
+ unstructur - web: 1
+ web - applic: 1
+ web - forum: 4
+
+PageRank scores count: 39
+ applic: 0.017392933571243743
+ author: 0.020300971958220983
+ challeng: 0.012336743430471258
+ complex: 0.012336743430471258
+ content: 0.020300971958220983
+ data: 0.0333092072622724
+ design: 0.0727948493551267
+ due: 0.031736272474887306
+ encourag: 0.012336743430471258
+ experiment: 0.012336743430471258
+ extrac: 0.04589268556135308
+ forum: 0.032561503993561204
+ import: 0.012336743430471258
+ individu: 0.012336743430471258
+ inform: 0.022822975346371826
+ knowledg: 0.0333092072622724
+ layout: 0.0711271787774803
+ list: 0.012336743430471258
+ logic: 0.022822975346371826
+ markov: 0.012336743430471258
+ method: 0.031841134794046315
+ network: 0.031736272474887306
+ object: 0.012336743430471258
+ page: 0.06916521922042478
+ pagelevel: 0.012336743430471258
+ perform: 0.031841134794046315
+ post: 0.04684839377747273
+ resourc: 0.026493156516937025
+ result: 0.022822975346371826
+ site: 0.026175382627674285
+ sitelevel: 0.012336743430471258
+ structur: 0.012336743430471258
+ task: 0.022822975346371826
+ time: 0.020300971958220983
+ titl: 0.020300971958220983
+ unrestrict: 0.012336743430471258
+ unstructur: 0.012336743430471258
+ user: 0.022822975346371826
+ web: 0.029742294944973338
+
+N-grams list: 10
+ complex page layout
+ post page
+ post titl post
+ inform extrac method
+ web forum web
+ structur data extrac
+ web forum site
+ author post time
+ object page
+ list page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

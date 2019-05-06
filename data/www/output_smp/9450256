@@ -1,0 +1,75 @@
+File name: 9450256
+
+Graph edges count: 23
+ ajax - intrusion: 1
+ asynchron - commun: 1
+ asynchron - request: 1
+ client - behavior: 1
+ client - request: 1
+ code - gener: 1
+ commun - framework: 1
+ controlflow - analysi: 1
+ dynam - code: 1
+ foil - mimicri: 1
+ intrusionpreven - proxi: 1
+ intrusion - detec: 1
+ javascript - program: 1
+ mimicri - attack: 1
+ modern - web: 1
+ numer - challeng: 1
+ random - asynchron: 1
+ real - applic: 1
+ static - analysi: 1
+ static - controlflow: 1
+ web - applic: 2
+ web - browser: 1
+ widelyus - web: 1
+
+PageRank scores count: 31
+ ajax: 0.01904233706602811
+ analysi: 0.0502003610903166
+ applic: 0.05707940535541925
+ asynchron: 0.035228323572152005
+ attack: 0.04898641210235732
+ behavior: 0.027135330319090052
+ browser: 0.040893418849295364
+ challeng: 0.035228323572152005
+ client: 0.01904233706602811
+ code: 0.035228323572152005
+ commun: 0.03401437458419271
+ controlflow: 0.027135330319090052
+ detec: 0.04898641210235732
+ dynam: 0.01904233706602811
+ foil: 0.01904233706602811
+ framework: 0.04795455546259191
+ gener: 0.04898641210235732
+ intrusion: 0.035228323572152005
+ intrusionpreven: 0.01904233706602811
+ javascript: 0.01904233706602811
+ mimicri: 0.035228323572152005
+ modern: 0.01904233706602811
+ numer: 0.01904233706602811
+ program: 0.035228323572152005
+ proxi: 0.035228323572152005
+ random: 0.01904233706602811
+ real: 0.01904233706602811
+ request: 0.042107367837254654
+ static: 0.01904233706602811
+ web: 0.05141431007827589
+ widelyus: 0.01904233706602811
+
+N-grams list: 10
+ widelyus web applic
+ modern web applic
+ asynchron commun framework
+ ajax intrusion detec
+ foil mimicri attack
+ dynam code gener
+ random asynchron request
+ static controlflow analysi
+ web browser
+ real applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

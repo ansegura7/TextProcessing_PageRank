@@ -1,0 +1,74 @@
+File name: 8942104
+
+Graph edges count: 22
+ adword - â: 1
+ bet - system: 1
+ content - provid: 1
+ dynam - rank: 1
+ editori - sugges: 1
+ effici - queri: 1
+ googl - adword: 1
+ increment - updat: 1
+ inform - filter: 1
+ inform - retriev: 1
+ larg - scale: 1
+ ordinari - inform: 1
+ perform - issu: 1
+ promotion - campaign: 1
+ queri - search: 1
+ retriev - system: 1
+ scale - deploy: 1
+ search - increment: 1
+ select - target: 1
+ specif - content: 1
+ sugges - promotion: 1
+ user - queri: 1
+
+PageRank scores count: 31
+ adword: 0.030708541497821564
+ bet: 0.016599211620444088
+ campaign: 0.05289546272999764
+ content: 0.030708541497821564
+ deploy: 0.04270147189359242
+ dynam: 0.016599211620444088
+ editori: 0.016599211620444088
+ effici: 0.016599211620444088
+ filter: 0.02965034175701825
+ googl: 0.016599211620444088
+ increment: 0.06308945356640286
+ inform: 0.030708541497821564
+ issu: 0.030708541497821564
+ larg: 0.016599211620444088
+ ordinari: 0.016599211620444088
+ perform: 0.016599211620444088
+ promotion: 0.04270147189359242
+ provid: 0.04270147189359242
+ queri: 0.04481787137519904
+ rank: 0.030708541497821564
+ retriev: 0.02965034175701825
+ scale: 0.030708541497821564
+ search: 0.054694402289363266
+ select: 0.016599211620444088
+ specif: 0.016599211620444088
+ sugges: 0.030708541497821564
+ system: 0.055911331991287075
+ target: 0.030708541497821564
+ updat: 0.07022524715188652
+ user: 0.016599211620444088
+ â: 0.04270147189359242
+
+N-grams list: 10
+ increment updat
+ effici queri search
+ larg scale deploy
+ editori sugges promotion
+ googl adword â
+ retriev system
+ ordinari inform retriev
+ content provid
+ bet system
+ user queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

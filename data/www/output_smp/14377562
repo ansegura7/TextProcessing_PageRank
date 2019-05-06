@@ -1,0 +1,104 @@
+File name: 14377562
+
+Graph edges count: 36
+ adhoc - replan: 1
+ backup - servic: 1
+ basic - idea: 1
+ decision - maker: 3
+ divers - servic: 1
+ expens - adhoc: 1
+ flexibl - integr: 1
+ hisher - person: 1
+ human - decision: 1
+ initi - composi: 1
+ initi - plan: 1
+ major - problem: 1
+ multiobject - approach: 1
+ nonfunc - requir: 1
+ person - risk: 1
+ potenti - cost: 1
+ previou - approach: 1
+ repair - cost: 1
+ risk - prefer: 1
+ robust - servic: 1
+ select - servic: 1
+ selec - interfac: 1
+ selec - task: 1
+ sequenti - applic: 1
+ servic - cluster: 1
+ servic - composi: 2
+ servic - failur: 1
+ servic - function: 1
+ servic - selec: 2
+ servic - web: 1
+ substanti - problem: 1
+ suffici - number: 1
+ suffici - reliabl: 1
+ suitabl - servic: 1
+ web - servic: 1
+ workflow - previou: 1
+
+PageRank scores count: 47
+ adhoc: 0.022632276786400913
+ applic: 0.022632276786400913
+ approach: 0.04186971205484169
+ backup: 0.012233663127784277
+ basic: 0.012233663127784277
+ cluster: 0.024252903924466725
+ composi: 0.029452210753775042
+ cost: 0.033030890445017544
+ decision: 0.022632276786400913
+ divers: 0.012233663127784277
+ expens: 0.012233663127784277
+ failur: 0.024252903924466725
+ flexibl: 0.012233663127784277
+ function: 0.024252903924466725
+ hisher: 0.012233663127784277
+ human: 0.012233663127784277
+ idea: 0.022632276786400913
+ initi: 0.012233663127784277
+ integr: 0.022632276786400913
+ interfac: 0.022541148210573552
+ major: 0.012233663127784277
+ maker: 0.03147109839622505
+ multiobject: 0.012233663127784277
+ nonfunc: 0.012233663127784277
+ number: 0.017432969957092592
+ person: 0.022632276786400913
+ plan: 0.017432969957092592
+ potenti: 0.012233663127784277
+ prefer: 0.03898409676457557
+ previou: 0.022632276786400913
+ problem: 0.033030890445017544
+ reliabl: 0.017432969957092592
+ repair: 0.012233663127784277
+ replan: 0.03147109839622505
+ requir: 0.022632276786400913
+ risk: 0.03147109839622505
+ robust: 0.012233663127784277
+ selec: 0.024252903924466725
+ select: 0.012233663127784277
+ sequenti: 0.012233663127784277
+ servic: 0.08484170158644601
+ substanti: 0.012233663127784277
+ suffici: 0.012233663127784277
+ suitabl: 0.012233663127784277
+ task: 0.022541148210573552
+ web: 0.024252903924466725
+ workflow: 0.012233663127784277
+
+N-grams list: 10
+ servic selec task
+ robust servic composi
+ suitabl servic selec
+ divers servic web
+ servic composi
+ servic failur
+ servic function
+ servic cluster
+ select servic
+ backup servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

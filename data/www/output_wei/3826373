@@ -1,0 +1,69 @@
+File name: 3826373
+
+Graph edges count: 25
+ data - mine: 2
+ data - set: 1
+ gener - framework: 1
+ human - visual: 1
+ inform - visual: 3
+ larg - web: 1
+ mine - analysi: 1
+ mine - techniqu: 1
+ mine - web: 1
+ signific - challeng: 1
+ site - usag: 1
+ structur - complex: 1
+ usag - data: 1
+ usag - log: 1
+ visual - diagram: 1
+ visual - method: 1
+ visual - percep: 1
+ visual - techniqu: 1
+ visual - web: 2
+ web - data: 1
+ web - domain: 1
+ web - mine: 2
+ web - site: 2
+ web - structur: 1
+ web - usag: 1
+
+PageRank scores count: 23
+ analysi: 0.044908425407175594
+ challeng: 0.0434600004585036
+ complex: 0.050942196185471716
+ data: 0.060865940133165694
+ diagram: 0.032477540883179036
+ domain: 0.03229447458500505
+ framework: 0.0434600004585036
+ gener: 0.023491892139731674
+ human: 0.023491892139731674
+ inform: 0.023491892139731674
+ larg: 0.023491892139731674
+ log: 0.052063357687892324
+ method: 0.032477540883179036
+ mine: 0.07558775866517134
+ percep: 0.032477540883179036
+ set: 0.04073724295717814
+ signific: 0.023491892139731674
+ site: 0.041097057030278425
+ structur: 0.03229447458500505
+ techniqu: 0.05389407415062296
+ usag: 0.06722697435771319
+ visual: 0.06342810877727552
+ web: 0.08284783121284224
+
+N-grams list: 10
+ mine web usag
+ visual web mine
+ web site usag
+ data mine techniqu
+ larg web data
+ inform visual techniqu
+ data mine
+ web site
+ human visual percep
+ inform visual method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

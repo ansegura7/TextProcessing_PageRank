@@ -1,0 +1,93 @@
+File name: 1267363
+
+Graph edges count: 33
+ apach - web: 1
+ applicationlevel - multicast: 1
+ cach - consist: 1
+ commun - overhead: 1
+ consist - guarante: 1
+ consist - mainten: 1
+ consist - mechan: 1
+ consist - semant: 1
+ content - distribu: 2
+ cooper - consist: 1
+ cooper - leas: 3
+ detail - experiment: 1
+ distribu - network: 2
+ experiment - evalu: 1
+ flexibl - scalabl: 1
+ interproxi - commun: 1
+ larg - number: 1
+ messag - overhead: 1
+ multipl - proxi: 1
+ origin - leas: 1
+ proxi - cach: 1
+ proxi - cooper: 1
+ scalabl - consist: 1
+ scalabl - manner: 2
+ server - messag: 1
+ server - notif: 1
+ singl - leas: 1
+ space - overhead: 1
+ squid - proxi: 1
+ standalon - proxi: 1
+ state - space: 1
+ twin - challeng: 1
+ web - server: 1
+
+PageRank scores count: 39
+ apach: 0.013189047625259426
+ applicationlevel: 0.013189047625259426
+ cach: 0.03308802322986958
+ challeng: 0.024399738106729938
+ commun: 0.024399738106729938
+ consist: 0.06574616593870337
+ content: 0.013189047625259426
+ cooper: 0.03308802322986958
+ detail: 0.013189047625259426
+ distribu: 0.024399738106729938
+ evalu: 0.03392882501597987
+ experiment: 0.024399738106729938
+ flexibl: 0.013189047625259426
+ guarante: 0.02716010788723389
+ interproxi: 0.013189047625259426
+ larg: 0.013189047625259426
+ leas: 0.04967283846089502
+ mainten: 0.02716010788723389
+ manner: 0.023558936320619648
+ mechan: 0.02716010788723389
+ messag: 0.02760879825705087
+ multicast: 0.024399738106729938
+ multipl: 0.013189047625259426
+ network: 0.03392882501597987
+ notif: 0.02760879825705087
+ number: 0.024399738106729938
+ origin: 0.013189047625259426
+ overhead: 0.07813608092519356
+ proxi: 0.046821119069670965
+ scalabl: 0.024399738106729938
+ semant: 0.02716010788723389
+ server: 0.03392882501597987
+ singl: 0.013189047625259426
+ space: 0.024399738106729938
+ squid: 0.013189047625259426
+ standalon: 0.013189047625259426
+ state: 0.013189047625259426
+ twin: 0.013189047625259426
+ web: 0.024399738106729938
+
+N-grams list: 10
+ server messag overhead
+ cach consist mechan
+ scalabl consist mainten
+ state space overhead
+ interproxi commun overhead
+ cooper consist
+ squid proxi cach
+ multipl proxi cooper
+ consist semant
+ consist guarante
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

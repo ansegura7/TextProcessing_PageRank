@@ -1,0 +1,38 @@
+File name: 11034828
+
+Graph edges count: 8
+ collect - set: 1
+ recurr - dynam: 1
+ rsdc08 - dataset: 1
+ social - tag: 1
+ sugges - techniqu: 1
+ tag - recurr: 1
+ tag - sugges: 1
+ techniqu - etc: 1
+
+PageRank scores count: 11
+ collect: 0.04926183450148024
+ dataset: 0.09113439382773843
+ dynam: 0.12405669359800894
+ etc: 0.15471002405978784
+ recurr: 0.08799395187826907
+ rsdc08: 0.04926183450148024
+ set: 0.09113439382773843
+ social: 0.04926183450148024
+ sugges: 0.08799395187826907
+ tag: 0.09113439382773843
+ techniqu: 0.12405669359800894
+
+N-grams list: 8
+ tag sugges techniqu
+ recurr dynam
+ tag recurr
+ etc
+ collect set
+ rsdc08 dataset
+ social tag
+ tag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

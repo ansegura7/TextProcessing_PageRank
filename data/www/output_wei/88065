@@ -1,0 +1,79 @@
+File name: 88065
+
+Graph edges count: 26
+ comput - model: 1
+ dynam - composi: 1
+ dynam - qo: 1
+ dynam - web: 1
+ fair - comput: 1
+ fair - dynam: 1
+ function - requir: 1
+ hypothet - phone: 1
+ market - place: 1
+ minim - overhead: 1
+ open - fair: 2
+ paradigm - web: 1
+ phone - servic: 1
+ place - applic: 1
+ qo - comput: 2
+ qo - registri: 1
+ qualitydriven - web: 1
+ secur - framework: 1
+ serviceori - comput: 1
+ servic - provid: 1
+ servic - request: 1
+ servic - selec: 3
+ standard - web: 1
+ suffici - trust: 1
+ vast - number: 1
+ web - servic: 7
+
+PageRank scores count: 32
+ applic: 0.042001986939231926
+ composi: 0.02459061906217925
+ comput: 0.05697753664001632
+ dynam: 0.029164644964121685
+ fair: 0.03020551052967116
+ framework: 0.03020551052967116
+ function: 0.01632730298901144
+ hypothet: 0.01632730298901144
+ market: 0.01632730298901144
+ minim: 0.01632730298901144
+ model: 0.06475820913302531
+ number: 0.03020551052967116
+ open: 0.01632730298901144
+ overhead: 0.03020551052967116
+ paradigm: 0.01632730298901144
+ phone: 0.03020551052967116
+ place: 0.03020551052967116
+ provid: 0.03303718819204176
+ qo: 0.02459061906217925
+ qualitydriven: 0.01632730298901144
+ registri: 0.023294645056628895
+ request: 0.03303718819204176
+ requir: 0.03020551052967116
+ secur: 0.01632730298901144
+ selec: 0.0664569585981024
+ servic: 0.09829344237076659
+ serviceori: 0.01632730298901144
+ standard: 0.01632730298901144
+ suffici: 0.01632730298901144
+ trust: 0.03020551052967116
+ vast: 0.01632730298901144
+ web: 0.06622524168415843
+
+N-grams list: 10
+ web servic selec
+ dynam web servic
+ qualitydriven web servic
+ paradigm web servic
+ standard web servic
+ web servic
+ hypothet phone servic
+ servic provid
+ servic request
+ dynam qo comput
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

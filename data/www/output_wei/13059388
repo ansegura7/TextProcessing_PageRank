@@ -1,0 +1,78 @@
+File name: 13059388
+
+Graph edges count: 24
+ action - knowledg: 1
+ appar - manag: 1
+ biolog - term: 1
+ build - process: 1
+ collabor - process: 1
+ collabor - web: 1
+ environment - commun: 1
+ food - gather: 1
+ gather - process: 1
+ interac - dynam: 1
+ manag - structur: 1
+ mound - build: 1
+ onlin - user: 1
+ signific - contribu: 1
+ stigmerg - behavior: 1
+ swarm - behavior: 1
+ termit - mound: 1
+ user - behavior: 1
+ valuabl - mechan: 1
+ virtual - pheromon: 1
+ web - interac: 1
+ web - particip: 1
+ web - site: 1
+ web - stigmergi: 2
+
+PageRank scores count: 33
+ action: 0.018250244154047572
+ appar: 0.018250244154047572
+ behavior: 0.07797416814816824
+ biolog: 0.018250244154047572
+ build: 0.04694875308628738
+ collabor: 0.018250244154047572
+ commun: 0.03376295168498801
+ contribu: 0.03376295168498801
+ dynam: 0.03752090508435832
+ environment: 0.018250244154047572
+ food: 0.018250244154047572
+ gather: 0.03376295168498801
+ interac: 0.022671365800365596
+ knowledg: 0.03376295168498801
+ manag: 0.03376295168498801
+ mechan: 0.03376295168498801
+ mound: 0.03376295168498801
+ onlin: 0.018250244154047572
+ particip: 0.022671365800365596
+ pheromon: 0.03376295168498801
+ process: 0.09461154697510188
+ signific: 0.018250244154047572
+ site: 0.022671365800365596
+ stigmerg: 0.018250244154047572
+ stigmergi: 0.027092487446683616
+ structur: 0.04694875308628738
+ swarm: 0.018250244154047572
+ term: 0.03376295168498801
+ termit: 0.018250244154047572
+ user: 0.03376295168498801
+ valuabl: 0.018250244154047572
+ virtual: 0.018250244154047572
+ web: 0.026006597919517788
+
+N-grams list: 10
+ food gather process
+ onlin user behavior
+ collabor process
+ termit mound build
+ appar manag structur
+ swarm behavior
+ stigmerg behavior
+ process
+ web interac dynam
+ behavior
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

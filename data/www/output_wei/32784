@@ -1,0 +1,81 @@
+File name: 32784
+
+Graph edges count: 24
+ applic - domain: 1
+ behavior - recent: 1
+ common - interest: 1
+ contrast - method: 1
+ graph - structur: 1
+ hyperlink - corpora: 1
+ inform - retriev: 1
+ interest - characterist: 1
+ linkbas - method: 1
+ link - graph: 1
+ low - accuraci: 1
+ mine - newsgroup: 1
+ newsgroup - post: 1
+ noisi - inform: 1
+ opposit - camp: 2
+ partition - author: 1
+ recent - advanc: 1
+ sharp - contrast: 1
+ social - behavior: 2
+ specif - applic: 1
+ statist - analysi: 1
+ text - yield: 1
+ typic - newsgroup: 1
+ yield - low: 1
+
+PageRank scores count: 36
+ accuraci: 0.048594564301590135
+ advanc: 0.048594564301590135
+ analysi: 0.028211648360865097
+ applic: 0.028211648360865097
+ author: 0.028211648360865097
+ behavior: 0.028211648360865097
+ camp: 0.028211648360865097
+ characterist: 0.03922944076125701
+ common: 0.015249539654521674
+ contrast: 0.028211648360865097
+ corpora: 0.028211648360865097
+ domain: 0.03922944076125701
+ graph: 0.028211648360865097
+ hyperlink: 0.015249539654521674
+ inform: 0.028211648360865097
+ interest: 0.028211648360865097
+ link: 0.015249539654521674
+ linkbas: 0.015249539654521674
+ low: 0.03922944076125701
+ method: 0.052191549467600434
+ mine: 0.015249539654521674
+ newsgroup: 0.04117375706720853
+ noisi: 0.015249539654521674
+ opposit: 0.015249539654521674
+ partition: 0.015249539654521674
+ post: 0.05024723316164892
+ recent: 0.03922944076125701
+ retriev: 0.03922944076125701
+ sharp: 0.015249539654521674
+ social: 0.015249539654521674
+ specif: 0.015249539654521674
+ statist: 0.015249539654521674
+ structur: 0.03922944076125701
+ text: 0.015249539654521674
+ typic: 0.015249539654521674
+ yield: 0.028211648360865097
+
+N-grams list: 10
+ newsgroup post
+ social behavior recent
+ text yield low
+ contrast method
+ linkbas method
+ inform retriev
+ interest characterist
+ applic domain
+ graph structur
+ mine newsgroup
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

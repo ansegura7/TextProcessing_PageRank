@@ -1,0 +1,66 @@
+File name: 4302914
+
+Graph edges count: 19
+ approachdetect - templat: 1
+ classifi - score: 1
+ detec - problem: 1
+ dom - node: 1
+ extens - experi: 1
+ global - smooth: 1
+ humanlabel - test: 1
+ isoton - regres: 1
+ isoton - smooth: 1
+ main - idea: 1
+ pagelevel - templat: 2
+ pernod - classifi: 1
+ power - abstrac: 1
+ regres - problem: 1
+ templat - detec: 2
+ templat - score: 1
+ test - data: 1
+ theautomat - gener: 1
+ train - data: 1
+
+PageRank scores count: 26
+ abstrac: 0.041408678475601056
+ approachdetect: 0.02238306944627084
+ classifi: 0.041408678475601056
+ data: 0.07660605517986195
+ detec: 0.04806764163586663
+ dom: 0.02238306944627084
+ experi: 0.041408678475601056
+ extens: 0.02238306944627084
+ gener: 0.041408678475601056
+ global: 0.02238306944627084
+ humanlabel: 0.02238306944627084
+ idea: 0.041408678475601056
+ isoton: 0.02238306944627084
+ main: 0.02238306944627084
+ node: 0.041408678475601056
+ pagelevel: 0.02238306944627084
+ pernod: 0.02238306944627084
+ power: 0.02238306944627084
+ problem: 0.09035205770355302
+ regres: 0.03189587396093595
+ score: 0.08326501834012752
+ smooth: 0.050921482990266165
+ templat: 0.06043428750493127
+ test: 0.041408678475601056
+ theautomat: 0.02238306944627084
+ train: 0.02238306944627084
+
+N-grams list: 10
+ pernod classifi score
+ isoton regres problem
+ templat score
+ humanlabel test data
+ pagelevel templat detec
+ train data
+ problem
+ approachdetect templat
+ global smooth
+ isoton smooth
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

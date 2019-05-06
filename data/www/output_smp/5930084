@@ -1,0 +1,92 @@
+File name: 5930084
+
+Graph edges count: 32
+ challeng - problem: 1
+ cluster - user: 1
+ common - interest: 3
+ common - user: 1
+ descript - tag: 1
+ discoveri - approach: 1
+ discoveri - system: 1
+ facebook - myspac: 1
+ frequent - cooccurr: 1
+ gener - usergener: 1
+ human - user: 2
+ interest - discoveri: 3
+ interest - topic: 2
+ internet - social: 1
+ kei - observ: 1
+ larg - amount: 1
+ main - challeng: 1
+ network - human: 1
+ network - system: 1
+ onlin - connec: 3
+ realworld - trace: 1
+ research - commun: 1
+ similar - docum: 1
+ social - interest: 4
+ social - network: 2
+ system - isid: 1
+ tagbas - social: 1
+ usergener - tag: 2
+ user - commun: 1
+ user - interest: 2
+ user - tag: 1
+ web - content: 1
+
+PageRank scores count: 39
+ amount: 0.025459948830455936
+ approach: 0.02875307044689505
+ challeng: 0.025459948830455936
+ cluster: 0.013762134502949157
+ common: 0.013762134502949157
+ commun: 0.040670165947252465
+ connec: 0.025459948830455936
+ content: 0.025459948830455936
+ cooccurr: 0.025459948830455936
+ descript: 0.013762134502949157
+ discoveri: 0.03527279045634328
+ docum: 0.025459948830455936
+ facebook: 0.013762134502949157
+ frequent: 0.013762134502949157
+ gener: 0.013762134502949157
+ human: 0.026322662637109563
+ interest: 0.050613308125633236
+ internet: 0.013762134502949157
+ isid: 0.04887869329684629
+ kei: 0.013762134502949157
+ larg: 0.013762134502949157
+ main: 0.013762134502949157
+ myspac: 0.025459948830455936
+ network: 0.029554183845083314
+ observ: 0.025459948830455936
+ onlin: 0.013762134502949157
+ problem: 0.0354030910088367
+ realworld: 0.013762134502949157
+ research: 0.013762134502949157
+ similar: 0.013762134502949157
+ social: 0.03715776315796272
+ system: 0.04131359858105546
+ tag: 0.062311122453140015
+ tagbas: 0.013762134502949157
+ topic: 0.03527279045634328
+ trace: 0.025459948830455936
+ user: 0.05368311923575246
+ usergener: 0.025459948830455936
+ web: 0.013762134502949157
+
+N-grams list: 10
+ discoveri system isid
+ social interest discoveri
+ common user interest
+ user tag
+ social network system
+ user interest
+ internet social interest
+ tagbas social interest
+ gener usergener tag
+ user commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

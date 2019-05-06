@@ -1,0 +1,60 @@
+File name: 4750029
+
+Graph edges count: 17
+ analysi - algorithm: 2
+ distribu - attribut: 1
+ experiment - result: 1
+ hierarchi - structur: 2
+ improv - leverag: 1
+ law - distribu: 2
+ link - analysi: 2
+ pagerank - algorithm: 3
+ part - special: 1
+ powerrank - algorithm: 3
+ powerrank - web: 1
+ power - law: 2
+ special - treatment: 1
+ top - web: 1
+ web - graph: 2
+ web - link: 1
+ web - page: 3
+
+PageRank scores count: 22
+ algorithm: 0.11017455273073243
+ analysi: 0.054127861580675056
+ attribut: 0.08220002682310729
+ distribu: 0.066358472993353
+ experiment: 0.025795324778757237
+ graph: 0.040869467696343496
+ hierarchi: 0.025795324778757237
+ improv: 0.025795324778757237
+ law: 0.04772135084070089
+ leverag: 0.04772135084070089
+ link: 0.03333239623755037
+ page: 0.048406539155136624
+ pagerank: 0.025795324778757237
+ part: 0.025795324778757237
+ power: 0.025795324778757237
+ powerrank: 0.025795324778757237
+ result: 0.04772135084070089
+ special: 0.04772135084070089
+ structur: 0.04772135084070089
+ top: 0.025795324778757237
+ treatment: 0.066358472993353
+ web: 0.0532028573561868
+
+N-grams list: 10
+ link analysi algorithm
+ analysi algorithm
+ part special treatment
+ power law distribu
+ pagerank algorithm
+ powerrank algorithm
+ top web page
+ powerrank web link
+ algorithm
+ web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,60 @@
+File name: 4336347
+
+Graph edges count: 17
+ australian - feder: 1
+ conven - search: 1
+ engin - googl: 1
+ engin - retriev: 1
+ googl - yahoo: 1
+ govern - web: 1
+ import - inform: 2
+ inform - page: 5
+ kei - featur: 1
+ local - govern: 1
+ metasearch - engin: 1
+ month - studi: 1
+ relev - page: 1
+ search - engin: 2
+ web - content: 1
+ web - coverag: 2
+ web - page: 2
+
+PageRank scores count: 22
+ australian: 0.024570249067846984
+ content: 0.035315433241443164
+ conven: 0.024570249067846984
+ coverag: 0.04606061741503935
+ engin: 0.0840916774347063
+ featur: 0.04545496077551692
+ feder: 0.04545496077551692
+ googl: 0.060309211977597164
+ govern: 0.04545496077551692
+ import: 0.024570249067846984
+ inform: 0.04545496077551692
+ kei: 0.024570249067846984
+ local: 0.024570249067846984
+ metasearch: 0.024570249067846984
+ month: 0.024570249067846984
+ page: 0.10558204578189867
+ relev: 0.024570249067846984
+ retriev: 0.060309211977597164
+ search: 0.04545496077551692
+ studi: 0.04545496077551692
+ web: 0.06320696572703637
+ yahoo: 0.07583307924880457
+
+N-grams list: 10
+ search engin googl
+ web page
+ conven search engin
+ inform page
+ engin retriev
+ local govern web
+ relev page
+ web coverag
+ metasearch engin
+ page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

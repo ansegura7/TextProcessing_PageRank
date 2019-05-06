@@ -1,0 +1,59 @@
+File name: 3610927
+
+Graph edges count: 16
+ dangl - page: 1
+ encourag - result: 1
+ experiment - result: 1
+ inaccur - outcom: 1
+ incomplet - inform: 1
+ inher - incomplet: 1
+ link - structur: 1
+ pagerank - algorithm: 1
+ page - rank: 2
+ popular - wai: 1
+ predict - rank: 2
+ previou - method: 1
+ rank - approach: 1
+ structur - pagerank: 1
+ web - page: 1
+ web - structur: 1
+
+PageRank scores count: 22
+ algorithm: 0.08388230456874121
+ approach: 0.10122929540604865
+ dangl: 0.024009675899387458
+ encourag: 0.024009675899387458
+ experiment: 0.024009675899387458
+ inaccur: 0.024009675899387458
+ incomplet: 0.04441790041386679
+ inform: 0.06176489125117423
+ inher: 0.024009675899387458
+ link: 0.024009675899387458
+ method: 0.04441790041386679
+ outcom: 0.04441790041386679
+ page: 0.05462201267110647
+ pagerank: 0.07043838666982795
+ popular: 0.024009675899387458
+ predict: 0.024009675899387458
+ previou: 0.024009675899387458
+ rank: 0.09084661118430729
+ result: 0.06482612492834613
+ structur: 0.05462201267110647
+ wai: 0.04441790041386679
+ web: 0.024009675899387458
+
+N-grams list: 10
+ page rank approach
+ pagerank algorithm
+ web structur pagerank
+ page rank
+ inher incomplet inform
+ predict rank
+ encourag result
+ experiment result
+ algorithm
+ dangl page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,112 @@
+File name: 4639066
+
+Graph edges count: 35
+ algorithm - simplic: 1
+ automat - manner: 1
+ breathtak - speed: 1
+ content - produc: 1
+ cup - soccer: 1
+ data - set: 1
+ fresh - content: 1
+ geograph - interest: 1
+ geospati - represent: 1
+ high - recal: 1
+ infer - perform: 1
+ intellig - aggreg: 1
+ languag - processinginform: 1
+ learn - techniqu: 1
+ locat - infer: 1
+ machin - learn: 1
+ mass - collabor: 1
+ middlewar - engin: 1
+ mobil - devic: 1
+ natur - languag: 1
+ navig - capabl: 1
+ new - item: 1
+ processinginform - retriev: 1
+ recal - percentag: 1
+ relev - updat: 1
+ retriev - commun: 1
+ rssenabl - content: 1
+ rss - navig: 1
+ search - result: 1
+ soccer - data: 1
+ tempor - rss: 1
+ time - person: 1
+ topic - peopl: 1
+ video - search: 1
+ world - cup: 1
+
+PageRank scores count: 56
+ aggreg: 0.018503767829724328
+ algorithm: 0.010002036664715854
+ automat: 0.010002036664715854
+ breathtak: 0.010002036664715854
+ capabl: 0.03187274008670016
+ collabor: 0.018503767829724328
+ commun: 0.03709386573841099
+ content: 0.02700549899473281
+ cup: 0.018503767829724328
+ data: 0.03187274008670016
+ devic: 0.018503767829724328
+ engin: 0.018503767829724328
+ fresh: 0.010002036664715854
+ geograph: 0.010002036664715854
+ geospati: 0.010002036664715854
+ high: 0.010002036664715854
+ infer: 0.018503767829724328
+ intellig: 0.010002036664715854
+ interest: 0.018503767829724328
+ item: 0.018503767829724328
+ languag: 0.018503767829724328
+ learn: 0.018503767829724328
+ locat: 0.010002036664715854
+ machin: 0.010002036664715854
+ manner: 0.018503767829724328
+ mass: 0.010002036664715854
+ middlewar: 0.010002036664715854
+ mobil: 0.010002036664715854
+ natur: 0.010002036664715854
+ navig: 0.025730239319981536
+ new: 0.010002036664715854
+ peopl: 0.018503767829724328
+ percentag: 0.025730239319981536
+ perform: 0.025730239319981536
+ person: 0.018503767829724328
+ processinginform: 0.025730239319981536
+ produc: 0.032956710810238744
+ recal: 0.018503767829724328
+ relev: 0.010002036664715854
+ represent: 0.018503767829724328
+ result: 0.025730239319981536
+ retriev: 0.03187274008670016
+ rss: 0.018503767829724328
+ rssenabl: 0.010002036664715854
+ search: 0.018503767829724328
+ set: 0.03709386573841099
+ simplic: 0.018503767829724328
+ soccer: 0.025730239319981536
+ speed: 0.018503767829724328
+ techniqu: 0.025730239319981536
+ tempor: 0.010002036664715854
+ time: 0.010002036664715854
+ topic: 0.010002036664715854
+ updat: 0.018503767829724328
+ video: 0.010002036664715854
+ world: 0.010002036664715854
+
+N-grams list: 10
+ data set
+ retriev commun
+ content produc
+ navig capabl
+ video search result
+ high recal percentag
+ world cup soccer
+ tempor rss navig
+ natur languag processinginform
+ locat infer perform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

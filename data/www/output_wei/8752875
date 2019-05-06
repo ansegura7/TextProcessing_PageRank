@@ -1,0 +1,123 @@
+File name: 8752875
+
+Graph edges count: 46
+ aix - rs6000: 1
+ benchmark - applic: 1
+ client - web: 1
+ content - router: 1
+ cpu - util: 1
+ data - transfer: 2
+ experiment - evalu: 1
+ experiment - testb: 1
+ file - size: 1
+ file - transfer: 1
+ implement - socketlevel: 1
+ iplevel - implement: 1
+ ip - layer: 1
+ kernel - servic: 1
+ larg - fraction: 1
+ packet - loss: 1
+ perform - benefit: 1
+ previou - studi: 1
+ process - overhead: 1
+ proxi - cach: 1
+ proxi - server: 4
+ recoveri - delai: 1
+ rel - reduc: 1
+ request - process: 1
+ request - rate: 1
+ request - type: 1
+ respons - time: 2
+ rs6000 - machin: 1
+ server - data: 1
+ server - tcp: 1
+ small - file: 1
+ socketlevel - implement: 2
+ splice - benefit: 1
+ splice - client: 1
+ splice - kernel: 1
+ splice - servic: 1
+ ssl - connec: 1
+ ssl - tunnel: 1
+ tcp - characterist: 1
+ tcp - connec: 1
+ tcp - splice: 5
+ transfer - overhead: 2
+ wan - environ: 1
+ web - client: 1
+ web - proxi: 4
+ web - server: 1
+
+PageRank scores count: 56
+ aix: 0.009043924159082423
+ applic: 0.01673125969430248
+ benchmark: 0.009043924159082423
+ benefit: 0.021331156560079823
+ cach: 0.012842044498426432
+ characterist: 0.011564454024468143
+ client: 0.016968311072359764
+ connec: 0.015408121792078172
+ content: 0.009043924159082423
+ cpu: 0.009043924159082423
+ data: 0.02075730477376477
+ delai: 0.01673125969430248
+ environ: 0.01673125969430248
+ evalu: 0.01288759192669245
+ experiment: 0.009043924159082423
+ file: 0.01673125969430248
+ fraction: 0.01673125969430248
+ implement: 0.08799494532319481
+ ip: 0.009043924159082423
+ iplevel: 0.009043924159082423
+ kernel: 0.013643821024859767
+ larg: 0.009043924159082423
+ layer: 0.01673125969430248
+ loss: 0.01673125969430248
+ machin: 0.023265494899239528
+ overhead: 0.04763799389478004
+ packet: 0.009043924159082423
+ perform: 0.009043924159082423
+ previou: 0.009043924159082423
+ process: 0.011606369337489108
+ proxi: 0.022341884349082415
+ rate: 0.011606369337489108
+ recoveri: 0.009043924159082423
+ reduc: 0.01673125969430248
+ rel: 0.009043924159082423
+ request: 0.009043924159082423
+ respons: 0.009043924159082423
+ router: 0.01673125969430248
+ rs6000: 0.01673125969430248
+ server: 0.02756089556395846
+ servic: 0.02524106889599057
+ size: 0.016154709529160975
+ small: 0.009043924159082423
+ socketlevel: 0.08383961369937121
+ splice: 0.021646573486011036
+ ssl: 0.009043924159082423
+ studi: 0.01673125969430248
+ tcp: 0.02075730477376477
+ testb: 0.01288759192669245
+ time: 0.01673125969430248
+ transfer: 0.03379841858686103
+ tunnel: 0.01288759192669245
+ type: 0.011606369337489108
+ util: 0.01673125969430248
+ wan: 0.009043924159082423
+ web: 0.023466988570588224
+
+N-grams list: 10
+ iplevel implement socketlevel
+ socketlevel implement
+ data transfer overhead
+ implement
+ web proxi server
+ request process overhead
+ tcp splice servic
+ web client web
+ tcp splice benefit
+ server tcp connec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

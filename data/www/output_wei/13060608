@@ -1,0 +1,102 @@
+File name: 13060608
+
+Graph edges count: 36
+ analysi - applic: 1
+ annot - gold: 1
+ aspectlevel - sentim: 1
+ automat - construc: 1
+ automat - tool: 1
+ batteri - aspect: 1
+ central - role: 1
+ classif - task: 1
+ contextawar - sentim: 1
+ contextdepend - sentim: 2
+ custom - feedback: 1
+ data - set: 1
+ domain - specif: 1
+ feedback - survei: 1
+ gold - standard: 1
+ high - qualiti: 1
+ hotel - review: 1
+ human - annot: 1
+ laptop - review: 1
+ opinion - data: 1
+ opinion - text: 1
+ optim - approach: 1
+ optim - framework: 1
+ optim - sentim: 1
+ qualiti - lexicon: 1
+ quantit - evalu: 1
+ screen - aspect: 1
+ sentim - analysi: 1
+ sentim - classif: 1
+ sentim - lexicon: 6
+ sentim - word: 1
+ text - collec: 1
+ topic - domain: 1
+ unlabel - opinion: 1
+ web - opinion: 1
+ word - specif: 1
+
+PageRank scores count: 45
+ analysi: 0.016897904320987128
+ annot: 0.02295174223883907
+ applic: 0.026769565828968285
+ approach: 0.015921478850365843
+ aspect: 0.03349713732154891
+ aspectlevel: 0.012406347156129227
+ automat: 0.012406347156129227
+ batteri: 0.012406347156129227
+ central: 0.012406347156129227
+ classif: 0.016897904320987128
+ collec: 0.03505258309624862
+ construc: 0.017679044697484148
+ contextawar: 0.012406347156129227
+ contextdepend: 0.012406347156129227
+ custom: 0.012406347156129227
+ data: 0.026642630517787515
+ domain: 0.02295174223883907
+ evalu: 0.02295174223883907
+ feedback: 0.02295174223883907
+ framework: 0.015921478850365843
+ gold: 0.031915328059142434
+ high: 0.012406347156129227
+ hotel: 0.012406347156129227
+ human: 0.012406347156129227
+ laptop: 0.012406347156129227
+ lexicon: 0.05886467104828981
+ opinion: 0.03349713732154891
+ optim: 0.012406347156129227
+ qualiti: 0.02295174223883907
+ quantit: 0.012406347156129227
+ review: 0.03349713732154891
+ role: 0.02295174223883907
+ screen: 0.012406347156129227
+ sentim: 0.04755766409849537
+ set: 0.03505258309624862
+ specif: 0.04627854673198149
+ standard: 0.03953437600640029
+ survei: 0.031915328059142434
+ task: 0.026769565828968285
+ text: 0.026642630517787515
+ tool: 0.017679044697484148
+ topic: 0.012406347156129227
+ unlabel: 0.012406347156129227
+ web: 0.012406347156129227
+ word: 0.016897904320987128
+
+N-grams list: 10
+ contextdepend sentim lexicon
+ contextawar sentim lexicon
+ optim sentim lexicon
+ sentim word specif
+ sentim lexicon
+ high qualiti lexicon
+ sentim analysi applic
+ aspectlevel sentim classif
+ unlabel opinion text
+ web opinion data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

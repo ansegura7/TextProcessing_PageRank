@@ -1,0 +1,93 @@
+File name: 11850677
+
+Graph edges count: 34
+ aggreg - user: 1
+ ambigu - queri: 1
+ bing - imag: 1
+ dispar - user: 1
+ human - expert: 1
+ human - judgment: 1
+ imag - ranker: 1
+ imag - rerank: 1
+ imag - search: 3
+ noisi - due: 1
+ origin - rank: 1
+ origin - result: 1
+ origin - search: 1
+ queri - unknown: 1
+ querydepend - imag: 1
+ queryimag - pair: 1
+ rank - score: 1
+ relev - judgment: 1
+ rerank - algorithm: 2
+ search - engin: 4
+ search - result: 1
+ secondari - task: 1
+ similar - imag: 1
+ static - ranker: 1
+ suboptim - ranker: 1
+ suboptim - result: 1
+ tail - queri: 1
+ textual - featur: 1
+ textual - queri: 1
+ unknown - user: 1
+ user - intent: 1
+ user - queri: 1
+ visual - featur: 2
+ wide - rang: 1
+
+PageRank scores count: 38
+ aggreg: 0.012517090208743547
+ algorithm: 0.029577571236005785
+ ambigu: 0.012517090208743547
+ bing: 0.012517090208743547
+ dispar: 0.012517090208743547
+ due: 0.02315661688617556
+ engin: 0.03885062803716628
+ expert: 0.017836853547459553
+ featur: 0.02847638022489157
+ human: 0.012517090208743547
+ imag: 0.04443567024103959
+ intent: 0.05710435870637016
+ judgment: 0.02847638022489157
+ noisi: 0.012517090208743547
+ origin: 0.012517090208743547
+ pair: 0.02315661688617556
+ queri: 0.08370317539995019
+ querydepend: 0.012517090208743547
+ queryimag: 0.012517090208743547
+ rang: 0.02315661688617556
+ rank: 0.016063599101220887
+ ranker: 0.0360304441658683
+ relev: 0.012517090208743547
+ rerank: 0.02007115414972028
+ result: 0.027966746897042576
+ score: 0.0261711494447813
+ search: 0.03872579092415108
+ secondari: 0.012517090208743547
+ similar: 0.012517090208743547
+ static: 0.012517090208743547
+ suboptim: 0.012517090208743547
+ tail: 0.012517090208743547
+ task: 0.02315661688617556
+ textual: 0.012517090208743547
+ unknown: 0.08366479439124885
+ user: 0.10491121200610556
+ visual: 0.012517090208743547
+ wide: 0.012517090208743547
+
+N-grams list: 10
+ dispar user queri
+ ambigu queri unknown
+ user intent
+ imag search engin
+ aggreg user
+ tail queri
+ textual queri
+ bing imag search
+ queri
+ imag ranker
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

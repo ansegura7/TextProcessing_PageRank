@@ -1,0 +1,63 @@
+File name: 8934619
+
+Graph edges count: 18
+ applic - develop: 1
+ applic - server: 3
+ complex - interac: 1
+ design - issu: 1
+ gener - infrastructur: 1
+ infrastructur - applic: 1
+ kaon - server: 1
+ ongo - work: 1
+ proprietari - solution: 1
+ semant - technologi: 1
+ semant - web: 5
+ short - overview: 1
+ softwar - modul: 1
+ solution - develop: 1
+ sophist - semant: 1
+ underli - concept: 1
+ web - applic: 1
+ work - kaon: 1
+
+PageRank scores count: 24
+ applic: 0.09066089455416171
+ complex: 0.02216207527335015
+ concept: 0.04099983925569778
+ design: 0.02216207527335015
+ develop: 0.09554281882621198
+ gener: 0.02216207527335015
+ infrastructur: 0.04099983925569778
+ interac: 0.04099983925569778
+ issu: 0.04099983925569778
+ kaon: 0.05701193864069326
+ modul: 0.04099983925569778
+ ongo: 0.02216207527335015
+ overview: 0.04099983925569778
+ proprietari: 0.02216207527335015
+ semant: 0.04099983925569778
+ server: 0.10915310330345813
+ short: 0.02216207527335015
+ softwar: 0.02216207527335015
+ solution: 0.04099983925569778
+ sophist: 0.02216207527335015
+ technologi: 0.039587006957021706
+ underli: 0.02216207527335015
+ web: 0.039587006957021706
+ work: 0.04099983925569778
+
+N-grams list: 10
+ infrastructur applic server
+ applic server
+ applic develop
+ proprietari solution develop
+ ongo work kaon
+ server
+ sophist semant web
+ develop
+ applic
+ semant technologi
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

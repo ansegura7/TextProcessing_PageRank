@@ -1,0 +1,70 @@
+File name: 95414
+
+Graph edges count: 21
+ b2b - lifecycl: 1
+ businesstobusi - ecommerc: 2
+ descrip - languag: 3
+ ecommerc - interac: 1
+ ecommerc - lifecycl: 1
+ electron - commerc: 1
+ eservic - approach: 1
+ interac - protocol: 1
+ matchmak - queri: 1
+ messag - content: 1
+ messag - protocol: 1
+ negoti - propos: 1
+ ontologi - messag: 1
+ queri - negoti: 1
+ semant - web: 2
+ servic - descrip: 2
+ specif - standard: 1
+ standard - protocol: 1
+ web - support: 1
+ widespread - standard: 1
+ wide - varieti: 1
+
+PageRank scores count: 28
+ approach: 0.03612403725169302
+ b2b: 0.019526506622536768
+ businesstobusi: 0.019526506622536768
+ commerc: 0.03612403725169302
+ content: 0.0348792224545063
+ descrip: 0.03612403725169302
+ ecommerc: 0.03612403725169302
+ electron: 0.019526506622536768
+ eservic: 0.019526506622536768
+ interac: 0.0348792224545063
+ languag: 0.05023193828647583
+ lifecycl: 0.05147675308366255
+ matchmak: 0.019526506622536768
+ messag: 0.03612403725169302
+ negoti: 0.05023193828647583
+ ontologi: 0.019526506622536768
+ propos: 0.062223654166041226
+ protocol: 0.10933989423955855
+ queri: 0.03612403725169302
+ semant: 0.019526506622536768
+ servic: 0.019526506622536768
+ specif: 0.019526506622536768
+ standard: 0.05272156788084928
+ support: 0.05023193828647583
+ varieti: 0.03612403725169302
+ web: 0.03612403725169302
+ wide: 0.019526506622536768
+ widespread: 0.019526506622536768
+
+N-grams list: 10
+ specif standard protocol
+ messag protocol
+ interac protocol
+ protocol
+ businesstobusi ecommerc lifecycl
+ servic descrip languag
+ matchmak queri negoti
+ semant web support
+ ontologi messag content
+ businesstobusi ecommerc interac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,76 @@
+File name: 4065606
+
+Graph edges count: 24
+ block - import: 2
+ consist - view: 1
+ content - featur: 1
+ featur - vector: 1
+ hierarch - structur: 1
+ import - estim: 1
+ import - model: 1
+ import - valu: 1
+ learn - block: 1
+ learn - problem: 1
+ mine - search: 1
+ multipl - segment: 1
+ page - previou: 1
+ page - segment: 1
+ previou - work: 1
+ segment - algorithm: 1
+ semant - block: 1
+ spatial - featur: 1
+ uniform - approach: 1
+ unimport - block: 1
+ user - studi: 1
+ visionbas - page: 1
+ web - mine: 1
+ web - page: 7
+
+PageRank scores count: 31
+ algorithm: 0.06010853059796973
+ approach: 0.03276061288908762
+ block: 0.05533887312345881
+ consist: 0.01770843939950682
+ content: 0.01770843939950682
+ estim: 0.03605327583993342
+ featur: 0.04781278637866841
+ hierarch: 0.01770843939950682
+ import: 0.06474648155444682
+ learn: 0.01770843939950682
+ mine: 0.025234526144297217
+ model: 0.03605327583993342
+ multipl: 0.01770843939950682
+ page: 0.040286699633878015
+ previou: 0.03483028674390498
+ problem: 0.025234526144297217
+ search: 0.039157786622159456
+ segment: 0.049882460233485776
+ semant: 0.01770843939950682
+ spatial: 0.01770843939950682
+ structur: 0.03276061288908762
+ studi: 0.03276061288908762
+ uniform: 0.01770843939950682
+ unimport: 0.01770843939950682
+ user: 0.01770843939950682
+ valu: 0.03605327583993342
+ vector: 0.058349307821374964
+ view: 0.03276061288908762
+ visionbas: 0.01770843939950682
+ web: 0.01770843939950682
+ work: 0.04731418313182605
+
+N-grams list: 10
+ block import estim
+ learn block import
+ visionbas page segment
+ featur vector
+ import valu
+ web page previou
+ web mine search
+ unimport block
+ semant block
+ multipl segment
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

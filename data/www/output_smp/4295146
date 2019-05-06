@@ -1,0 +1,74 @@
+File name: 4295146
+
+Graph edges count: 24
+ applic - contain: 1
+ arbitrari - granular: 1
+ behavior - xml: 1
+ busi - applic: 1
+ componentbas - techniqu: 1
+ contemporari - busi: 1
+ core - technologi: 1
+ data - process: 1
+ divers - xml: 1
+ extens - integr: 1
+ high - degre: 1
+ integr - xml: 1
+ process - architectur: 1
+ sampl - applic: 1
+ serversid - xml: 1
+ virtual - machin: 1
+ webbas - applic: 1
+ xmlbase - applic: 1
+ xml - applic: 2
+ xml - data: 4
+ xml - process: 1
+ xml - virtual: 1
+ xvm - compon: 1
+ xvm - framework: 1
+
+PageRank scores count: 29
+ applic: 0.10410150913522716
+ arbitrari: 0.016760744704871218
+ architectur: 0.07180664042294575
+ behavior: 0.016760744704871218
+ busi: 0.031007377704011754
+ compon: 0.023884061204441486
+ componentbas: 0.016760744704871218
+ contain: 0.10524702746981429
+ contemporari: 0.016760744704871218
+ core: 0.016760744704871218
+ data: 0.03500533908939557
+ degre: 0.031007377704011754
+ divers: 0.016760744704871218
+ extens: 0.016760744704871218
+ framework: 0.023884061204441486
+ granular: 0.031007377704011754
+ high: 0.016760744704871218
+ integr: 0.031007377704011754
+ machin: 0.04651528293085745
+ process: 0.0647598773153818
+ sampl: 0.016760744704871218
+ serversid: 0.016760744704871218
+ techniqu: 0.031007377704011754
+ technologi: 0.031007377704011754
+ virtual: 0.03500533908939557
+ webbas: 0.016760744704871218
+ xml: 0.0858569147507028
+ xmlbase: 0.016760744704871218
+ xvm: 0.016760744704871218
+
+N-grams list: 10
+ xml applic contain
+ serversid xml applic
+ xml data process
+ xml virtual machin
+ contemporari busi applic
+ divers xml data
+ process architectur
+ extens integr xml
+ xmlbase applic
+ sampl applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,64 @@
+File name: 700335
+
+Graph edges count: 18
+ advanc - servic: 1
+ automat - composi: 1
+ cardiovascular - domain: 1
+ composi - knowledg: 2
+ current - web: 1
+ heterogen - platform: 1
+ intend - goal: 1
+ knowledg - manag: 1
+ manual - discoveri: 1
+ medic - servic: 1
+ multipl - organ: 1
+ semant - web: 2
+ servic - discoveri: 2
+ servic - flow: 1
+ servic - standard: 1
+ softwar - agent: 1
+ web - resourc: 2
+ web - servic: 3
+
+PageRank scores count: 25
+ advanc: 0.022896655943399468
+ agent: 0.04235881349528901
+ automat: 0.022896655943399468
+ cardiovascular: 0.022896655943399468
+ composi: 0.04235881349528901
+ current: 0.022896655943399468
+ discoveri: 0.06731903055558736
+ domain: 0.04235881349528901
+ flow: 0.04785687300369781
+ goal: 0.04235881349528901
+ heterogen: 0.022896655943399468
+ intend: 0.022896655943399468
+ knowledg: 0.05890164741439514
+ manag: 0.07296305624563533
+ manual: 0.022896655943399468
+ medic: 0.022896655943399468
+ multipl: 0.022896655943399468
+ organ: 0.04235881349528901
+ platform: 0.04235881349528901
+ resourc: 0.04917056863845035
+ semant: 0.022896655943399468
+ servic: 0.08809488374222946
+ softwar: 0.022896655943399468
+ standard: 0.04785687300369781
+ web: 0.06182097104717856
+
+N-grams list: 10
+ web servic discoveri
+ advanc servic discoveri
+ composi knowledg manag
+ current web servic
+ web servic
+ servic flow
+ medic servic
+ web resourc
+ composi knowledg
+ manual discoveri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

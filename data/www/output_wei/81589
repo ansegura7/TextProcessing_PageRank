@@ -1,0 +1,79 @@
+File name: 81589
+
+Graph edges count: 23
+ applic - setup: 1
+ content - compos: 1
+ content - rule: 1
+ cumbersom - process: 1
+ data - extrac: 1
+ dtd - docum: 1
+ extrac - part: 1
+ format - part: 1
+ larg - number: 1
+ pervas - devic: 1
+ present - rule: 1
+ run - time: 1
+ separ - set: 1
+ setup - stage: 1
+ standard - dtd: 1
+ systemat - method: 2
+ wireless - pervas: 1
+ wireless - web: 1
+ wml - docum: 2
+ xml - schema: 1
+ xslt - engin: 1
+ xslt - gener: 1
+ xslt - stylesheet: 2
+
+PageRank scores count: 35
+ applic: 0.018629345877092893
+ compos: 0.026546817874857374
+ content: 0.018629345877092893
+ cumbersom: 0.018629345877092893
+ data: 0.018629345877092893
+ devic: 0.04119414107072166
+ docum: 0.06375893626435043
+ dtd: 0.03446428987262185
+ engin: 0.022588081875975132
+ extrac: 0.03446428987262185
+ format: 0.018629345877092893
+ gener: 0.022588081875975132
+ larg: 0.018629345877092893
+ method: 0.03446428987262185
+ number: 0.03446428987262185
+ part: 0.06375893626435043
+ pervas: 0.026546817874857374
+ present: 0.018629345877092893
+ process: 0.03446428987262185
+ rule: 0.042381761870386336
+ run: 0.018629345877092893
+ schema: 0.03446428987262185
+ separ: 0.018629345877092893
+ set: 0.03446428987262185
+ setup: 0.03446428987262185
+ stage: 0.047923992268821464
+ standard: 0.018629345877092893
+ stylesheet: 0.026546817874857374
+ systemat: 0.018629345877092893
+ time: 0.03446428987262185
+ web: 0.026546817874857374
+ wireless: 0.018629345877092893
+ wml: 0.018629345877092893
+ xml: 0.018629345877092893
+ xslt: 0.018629345877092893
+
+N-grams list: 10
+ standard dtd docum
+ data extrac part
+ applic setup stage
+ wireless pervas devic
+ format part
+ wml docum
+ part
+ present rule
+ content rule
+ larg number
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,85 @@
+File name: 11394824
+
+Graph edges count: 26
+ advanc - email: 2
+ behavior - pattern: 1
+ behavior - profil: 1
+ domin - factor: 1
+ email - commun: 1
+ email - featur: 2
+ email - respons: 1
+ email - social: 1
+ email - usag: 1
+ enterpr - size: 1
+ friendsoffriend - relationship: 1
+ largescal - enterpr: 1
+ larg - number: 1
+ leasteffort - repli: 1
+ limit - portion: 1
+ list - size: 1
+ main - question: 1
+ recipi - list: 1
+ repli - probabl: 1
+ respons - time: 1
+ signific - insight: 1
+ socialnetwork - type: 1
+ social - graph: 1
+ threemonth - period: 1
+ threshold - behavior: 1
+ total - enterpr: 1
+
+PageRank scores count: 38
+ advanc: 0.01646913313894266
+ behavior: 0.030467896307043923
+ commun: 0.021648675511140126
+ domin: 0.01646913313894266
+ email: 0.030467896307043923
+ enterpr: 0.044466659475145186
+ factor: 0.030467896307043923
+ featur: 0.021648675511140126
+ friendsoffriend: 0.01646913313894266
+ graph: 0.034870507323411765
+ insight: 0.030467896307043923
+ larg: 0.01646913313894266
+ largescal: 0.01646913313894266
+ leasteffort: 0.01646913313894266
+ limit: 0.01646913313894266
+ list: 0.030467896307043923
+ main: 0.01646913313894266
+ number: 0.030467896307043923
+ pattern: 0.029417989069436327
+ period: 0.030467896307043923
+ portion: 0.030467896307043923
+ probabl: 0.042366844999929994
+ profil: 0.029417989069436327
+ question: 0.030467896307043923
+ recipi: 0.01646913313894266
+ relationship: 0.030467896307043923
+ repli: 0.030467896307043923
+ respons: 0.021648675511140126
+ signific: 0.01646913313894266
+ size: 0.08016350555380339
+ social: 0.021648675511140126
+ socialnetwork: 0.01646913313894266
+ threemonth: 0.01646913313894266
+ threshold: 0.01646913313894266
+ time: 0.034870507323411765
+ total: 0.01646913313894266
+ type: 0.030467896307043923
+ usag: 0.021648675511140126
+
+N-grams list: 10
+ total enterpr size
+ recipi list size
+ email social graph
+ email respons time
+ repli probabl
+ advanc email featur
+ largescal enterpr
+ behavior pattern
+ behavior profil
+ email commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,62 @@
+File name: 13518670
+
+Graph edges count: 19
+ anchor - text: 2
+ commerci - link: 1
+ commerci - page: 1
+ engin - optim: 1
+ engin - result: 1
+ graph - analysi: 1
+ high - effici: 1
+ link - detec: 1
+ link - graph: 1
+ mark - sampl: 1
+ outgo - commerci: 1
+ relev - result: 1
+ result - search: 1
+ russian - web: 1
+ search - engin: 3
+ text - categor: 1
+ text - topic: 1
+ web - page: 1
+ web - search: 1
+
+PageRank scores count: 22
+ analysi: 0.05230632571288878
+ anchor: 0.020962083115734515
+ categor: 0.03744352096548078
+ commerci: 0.03877985376410885
+ detec: 0.036875579526063844
+ effici: 0.03877985376410885
+ engin: 0.11661589055337512
+ graph: 0.036875579526063844
+ high: 0.020962083115734515
+ link: 0.03744352096548078
+ mark: 0.020962083115734515
+ optim: 0.07052383517952354
+ outgo: 0.020962083115734515
+ page: 0.05392495881522704
+ relev: 0.020962083115734515
+ result: 0.08834160582789788
+ russian: 0.020962083115734515
+ sampl: 0.03877985376410885
+ search: 0.11253389444756638
+ text: 0.03877985376410885
+ topic: 0.03744352096548078
+ web: 0.03877985376410885
+
+N-grams list: 10
+ search engin result
+ search engin optim
+ web search engin
+ relev result
+ outgo commerci link
+ anchor text topic
+ anchor text categor
+ commerci page
+ web page
+ graph analysi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

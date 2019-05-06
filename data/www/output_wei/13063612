@@ -1,0 +1,75 @@
+File name: 13063612
+
+Graph edges count: 23
+ bm25f - formul: 1
+ coher - block: 1
+ content - qualiti: 3
+ difficult - queri: 1
+ divers - natur: 1
+ docum - content: 1
+ experiment - result: 1
+ irrelev - queri: 1
+ linear - docum: 1
+ main - content: 1
+ main - discours: 1
+ primari - content: 1
+ qualiti - estim: 1
+ queri - match: 1
+ rank - web: 1
+ retriev - function: 2
+ search - rank: 1
+ segment - content: 2
+ singl - section: 1
+ structur - docum: 1
+ unrel - main: 1
+ web - page: 7
+ web - search: 1
+
+PageRank scores count: 31
+ block: 0.029175207409752952
+ bm25f: 0.015770382383650243
+ coher: 0.015770382383650243
+ content: 0.09117252315547797
+ difficult: 0.015770382383650243
+ discours: 0.028169845532795248
+ divers: 0.015770382383650243
+ docum: 0.04258003243585566
+ estim: 0.0950473553895858
+ experiment: 0.015770382383650243
+ formul: 0.029175207409752952
+ function: 0.029175207409752952
+ irrelev: 0.015770382383650243
+ linear: 0.015770382383650243
+ main: 0.029175207409752952
+ match: 0.05196340995412754
+ natur: 0.029175207409752952
+ page: 0.048452692258762135
+ primari: 0.015770382383650243
+ qualiti: 0.09326702706580652
+ queri: 0.04258003243585566
+ rank: 0.03314377360887368
+ result: 0.029175207409752952
+ retriev: 0.015770382383650243
+ search: 0.020439283794380515
+ section: 0.029175207409752952
+ segment: 0.015770382383650243
+ singl: 0.015770382383650243
+ structur: 0.015770382383650243
+ unrel: 0.015770382383650243
+ web: 0.043942601512755496
+
+N-grams list: 10
+ segment content qualiti
+ content qualiti
+ unrel main content
+ docum content
+ irrelev queri match
+ primari content
+ web search rank
+ estim
+ web page
+ content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

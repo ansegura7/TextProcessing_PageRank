@@ -1,0 +1,91 @@
+File name: 3763098
+
+Graph edges count: 29
+ 24x7 - basi: 1
+ busi - interac: 1
+ busi - process: 1
+ cluster - approach: 1
+ common - techniqu: 1
+ commun - web: 1
+ connect - failur: 1
+ connect - problem: 1
+ coordin - servic: 2
+ coordin - web: 1
+ critic - compon: 1
+ crucial - issu: 1
+ fast - spread: 1
+ group - commun: 1
+ infrastructur - wsreplic: 1
+ link - overload: 1
+ missioncrit - system: 1
+ network - disconnec: 1
+ network - due: 1
+ rapid - accept: 1
+ servic - autonomi: 1
+ servic - due: 1
+ servic - infrastructur: 1
+ servic - technologi: 1
+ servic - wsmulticast: 1
+ transac - coordin: 1
+ wan - replic: 1
+ web - servic: 10
+ wsreplic - framework: 1
+
+PageRank scores count: 41
+ 24x7: 0.01484601292503159
+ accept: 0.02746512391130844
+ approach: 0.02746512391130844
+ autonomi: 0.026559544959155745
+ basi: 0.02746512391130844
+ busi: 0.01484601292503159
+ cluster: 0.01484601292503159
+ common: 0.01484601292503159
+ commun: 0.02746512391130844
+ compon: 0.02746512391130844
+ connect: 0.01484601292503159
+ coordin: 0.02746512391130844
+ critic: 0.01484601292503159
+ crucial: 0.01484601292503159
+ disconnec: 0.021155568418170016
+ due: 0.03286910045229418
+ failur: 0.021155568418170016
+ fast: 0.01484601292503159
+ framework: 0.04665439514429846
+ group: 0.01484601292503159
+ infrastructur: 0.026559544959155745
+ interac: 0.021155568418170016
+ issu: 0.02746512391130844
+ link: 0.01484601292503159
+ missioncrit: 0.01484601292503159
+ network: 0.01484601292503159
+ overload: 0.02746512391130844
+ problem: 0.021155568418170016
+ process: 0.021155568418170016
+ rapid: 0.01484601292503159
+ replic: 0.02746512391130844
+ servic: 0.06890312961249503
+ spread: 0.02746512391130844
+ system: 0.02746512391130844
+ techniqu: 0.02746512391130844
+ technologi: 0.026559544959155745
+ transac: 0.01484601292503159
+ wan: 0.01484601292503159
+ web: 0.049864045911949845
+ wsmulticast: 0.026559544959155745
+ wsreplic: 0.03742162614031397
+
+N-grams list: 10
+ web servic due
+ coordin web servic
+ web servic autonomi
+ web servic technologi
+ web servic
+ coordin servic
+ servic wsmulticast
+ group commun web
+ wsreplic framework
+ servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

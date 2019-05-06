@@ -1,0 +1,63 @@
+File name: 6857889
+
+Graph edges count: 18
+ complex - inform: 1
+ digit - librari: 1
+ evalu - methodologi: 1
+ facet - interfac: 1
+ facet - search: 6
+ inform - space: 1
+ interact - facet: 1
+ keyvalu - metadata: 1
+ person - facet: 1
+ popular - method: 1
+ queri - refin: 1
+ repeat - benchmark: 1
+ search - algorithm: 1
+ search - engin: 1
+ search - experi: 1
+ search - facet: 1
+ search - interfac: 1
+ search - system: 1
+
+PageRank scores count: 24
+ algorithm: 0.035079382520156174
+ benchmark: 0.049026128047562026
+ complex: 0.026500609755438935
+ digit: 0.026500609755438935
+ engin: 0.035079382520156174
+ evalu: 0.026500609755438935
+ experi: 0.035079382520156174
+ facet: 0.08013041910440236
+ inform: 0.049026128047562026
+ interact: 0.026500609755438935
+ interfac: 0.06913481042596933
+ keyvalu: 0.026500609755438935
+ librari: 0.049026128047562026
+ metadata: 0.049026128047562026
+ method: 0.049026128047562026
+ methodologi: 0.049026128047562026
+ person: 0.026500609755438935
+ popular: 0.026500609755438935
+ queri: 0.026500609755438935
+ refin: 0.049026128047562026
+ repeat: 0.026500609755438935
+ search: 0.06055603766125211
+ space: 0.06817281859586664
+ system: 0.035079382520156174
+
+N-grams list: 10
+ facet search system
+ facet search engin
+ facet search algorithm
+ interact facet search
+ person facet search
+ facet interfac
+ complex inform space
+ facet search
+ search interfac
+ search experi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,78 @@
+File name: 13059270
+
+Graph edges count: 23
+ databas - techniqu: 2
+ editingasasequenceofsearch - approach: 1
+ end - user: 1
+ instant - question: 1
+ interact - supplementari: 1
+ local - sensit: 1
+ novic - user: 1
+ numer - topic: 1
+ question - databas: 1
+ question - search: 1
+ repeat - question: 1
+ research - field: 1
+ semant - space: 1
+ sensit - hash: 1
+ servercli - cach: 1
+ servic - provid: 1
+ similar - question: 2
+ similar - search: 1
+ supplementari - inform: 1
+ unconsci - editingasasequenceofsearch: 1
+ usersupport - tool: 1
+ user - opportun: 1
+ yahoo - answer: 1
+
+PageRank scores count: 34
+ answer: 0.03158654071889259
+ approach: 0.04392236540505469
+ cach: 0.03158654071889259
+ databas: 0.04077793950466043
+ editingasasequenceofsearch: 0.03158654071889259
+ end: 0.017073805793995995
+ field: 0.03158654071889259
+ hash: 0.04392236540505469
+ inform: 0.04392236540505469
+ instant: 0.017073805793995995
+ interact: 0.017073805793995995
+ local: 0.017073805793995995
+ novic: 0.017073805793995995
+ numer: 0.017073805793995995
+ opportun: 0.05625819009121679
+ provid: 0.03158654071889259
+ question: 0.05577443226038692
+ repeat: 0.017073805793995995
+ research: 0.017073805793995995
+ search: 0.04561551781295929
+ semant: 0.017073805793995995
+ sensit: 0.03158654071889259
+ servercli: 0.017073805793995995
+ servic: 0.017073805793995995
+ similar: 0.017073805793995995
+ space: 0.03158654071889259
+ supplementari: 0.03158654071889259
+ techniqu: 0.051735054372957355
+ tool: 0.03158654071889259
+ topic: 0.03158654071889259
+ unconsci: 0.017073805793995995
+ user: 0.04609927564378918
+ usersupport: 0.017073805793995995
+ yahoo: 0.017073805793995995
+
+N-grams list: 10
+ instant question search
+ user opportun
+ question databas
+ unconsci editingasasequenceofsearch approach
+ interact supplementari inform
+ local sensit hash
+ databas techniqu
+ similar question
+ repeat question
+ end user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

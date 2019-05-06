@@ -1,0 +1,68 @@
+File name: 6378094
+
+Graph edges count: 19
+ blog - post: 1
+ empir - measur: 1
+ ephemer - content: 1
+ gener - model: 1
+ hand - content: 1
+ inform - longev: 1
+ multipl - page: 1
+ page - updat: 1
+ persist - content: 1
+ previou - approach: 1
+ real - web: 1
+ recent - blog: 1
+ recrawl - schedul: 2
+ schedul - polici: 1
+ sustain - period: 1
+ true - content: 1
+ web - crawler: 1
+ web - data: 1
+ web - page: 1
+
+PageRank scores count: 28
+ approach: 0.04040576856048989
+ blog: 0.04040576856048989
+ content: 0.09610020630603003
+ crawler: 0.033289257070781994
+ data: 0.033289257070781994
+ empir: 0.02184095597864319
+ ephemer: 0.02184095597864319
+ gener: 0.02184095597864319
+ hand: 0.02184095597864319
+ inform: 0.02184095597864319
+ longev: 0.04040576856048989
+ measur: 0.04040576856048989
+ model: 0.04040576856048989
+ multipl: 0.02184095597864319
+ page: 0.0518540696526287
+ period: 0.04040576856048989
+ persist: 0.02184095597864319
+ polici: 0.056185859255059596
+ post: 0.056185859255059596
+ previou: 0.02184095597864319
+ real: 0.02184095597864319
+ recent: 0.02184095597864319
+ recrawl: 0.02184095597864319
+ schedul: 0.04040576856048989
+ sustain: 0.02184095597864319
+ true: 0.02184095597864319
+ updat: 0.06591691518337758
+ web: 0.04040576856048989
+
+N-grams list: 10
+ multipl page updat
+ recent blog post
+ recrawl schedul polici
+ ephemer content
+ true content
+ hand content
+ persist content
+ real web data
+ web page
+ web crawler
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

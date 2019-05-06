@@ -1,0 +1,140 @@
+File name: 4298392
+
+Graph edges count: 56
+ activ - domain: 1
+ adhoc - clicklevel: 1
+ bic - loglikelihood: 1
+ busi - intellig: 1
+ clicklevel - threshold: 1
+ complex - model: 1
+ conserv - adhoc: 1
+ cumul - distribu: 1
+ cumul - plot: 1
+ current - industri: 1
+ data - set: 1
+ distribu - metric: 1
+ distribu - plot: 1
+ empir - distribu: 1
+ exponenti - distribu: 1
+ graphic - analysi: 1
+ heoret - distribu: 1
+ high - varianc: 1
+ inappropri - statist: 1
+ industri - practic: 1
+ intellig - system: 1
+ internet - connect: 1
+ larg - set: 1
+ law - distribu: 1
+ loglikelihood - method: 1
+ loglog - space: 2
+ main - websit: 1
+ metric - busi: 1
+ mixtur - distribu: 1
+ mixtur - model: 2
+ model - distribu: 1
+ model - web: 1
+ multipl - class: 1
+ onlin - busi: 1
+ power - law: 1
+ prior - research: 1
+ problemat - due: 1
+ quantit - analysi: 1
+ rigor - statist: 1
+ robot - remov: 1
+ robot - traffic: 1
+ robust - cumul: 1
+ robust - methodologi: 1
+ robust - model: 1
+ scalefre - power: 1
+ scalesensit - zipfmandelbrot: 1
+ sound - threshold: 1
+ statist - method: 2
+ statist - methodologi: 1
+ varianc - robot: 1
+ web - activ: 1
+ web - metric: 1
+ yahoo - domain: 1
+ yahoo - main: 1
+ yahoo - portal: 1
+ zipfmandelbrot - mixtur: 1
+
+PageRank scores count: 63
+ activ: 0.015097033307951981
+ adhoc: 0.013468837086588036
+ analysi: 0.019657221693939297
+ bic: 0.007280452479236776
+ busi: 0.048754501377585385
+ class: 0.013468837086588036
+ clicklevel: 0.018728964002836607
+ complex: 0.007280452479236776
+ connect: 0.013468837086588036
+ conserv: 0.007280452479236776
+ cumul: 0.009343247348353862
+ current: 0.007280452479236776
+ data: 0.007280452479236776
+ distribu: 0.06215414803941358
+ domain: 0.022175725660113048
+ due: 0.013468837086588036
+ empir: 0.007280452479236776
+ exponenti: 0.007280452479236776
+ graphic: 0.007280452479236776
+ heoret: 0.007280452479236776
+ high: 0.007280452479236776
+ inappropri: 0.007280452479236776
+ industri: 0.013468837086588036
+ intellig: 0.04872177865018436
+ internet: 0.007280452479236776
+ larg: 0.007280452479236776
+ law: 0.018728964002836607
+ loglikelihood: 0.013468837086588036
+ loglog: 0.007280452479236776
+ main: 0.009343247348353862
+ method: 0.029868056296068875
+ methodologi: 0.014912793494969996
+ metric: 0.041512546224702754
+ mixtur: 0.018728964002836607
+ model: 0.02614471155731253
+ multipl: 0.007280452479236776
+ onlin: 0.007280452479236776
+ plot: 0.037666845519037935
+ portal: 0.009343247348353862
+ power: 0.013468837086588036
+ practic: 0.018728964002836607
+ prior: 0.007280452479236776
+ problemat: 0.007280452479236776
+ quantit: 0.007280452479236776
+ remov: 0.015240262180442332
+ research: 0.013468837086588036
+ rigor: 0.007280452479236776
+ robot: 0.018728964002836607
+ robust: 0.007280452479236776
+ scalefre: 0.007280452479236776
+ scalesensit: 0.007280452479236776
+ set: 0.019657221693939297
+ sound: 0.007280452479236776
+ space: 0.013468837086588036
+ statist: 0.019657221693939297
+ system: 0.04869396433189348
+ threshold: 0.02938845648899915
+ traffic: 0.015240262180442332
+ varianc: 0.013468837086588036
+ web: 0.0183919548910946
+ websit: 0.015222212725337558
+ yahoo: 0.007280452479236776
+ zipfmandelbrot: 0.013468837086588036
+
+N-grams list: 10
+ web metric busi
+ distribu metric
+ intellig system
+ model distribu
+ robust cumul distribu
+ heoret distribu
+ empir distribu
+ exponenti distribu
+ distribu
+ rigor statist method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

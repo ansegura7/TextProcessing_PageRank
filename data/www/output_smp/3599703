@@ -1,0 +1,60 @@
+File name: 3599703
+
+Graph edges count: 14
+ adjac - matrix: 1
+ common - belief: 1
+ core - compon: 1
+ factor - î: 1
+ limit - pagerank: 1
+ markov - chain: 1
+ meaning - valu: 1
+ natur - modif: 1
+ origin - sugges: 1
+ rank - scheme: 1
+ small - î: 1
+ standard - preprocess: 1
+ stationari - state: 1
+ sugges - î: 1
+
+PageRank scores count: 25
+ adjac: 0.026579839191972883
+ belief: 0.04917270250514984
+ chain: 0.04917270250514984
+ common: 0.026579839191972883
+ compon: 0.04917270250514984
+ core: 0.026579839191972883
+ factor: 0.026579839191972883
+ limit: 0.026579839191972883
+ markov: 0.026579839191972883
+ matrix: 0.04917270250514984
+ meaning: 0.026579839191972883
+ modif: 0.04917270250514984
+ natur: 0.026579839191972883
+ origin: 0.026579839191972883
+ pagerank: 0.04917270250514984
+ preprocess: 0.04917270250514984
+ rank: 0.026579839191972883
+ scheme: 0.04917270250514984
+ small: 0.026579839191972883
+ standard: 0.026579839191972883
+ state: 0.04917270250514984
+ stationari: 0.026579839191972883
+ sugges: 0.04917270250514984
+ valu: 0.04917270250514984
+ î: 0.11356236294770415
+
+N-grams list: 10
+ origin sugges î
+ small î
+ factor î
+ î
+ natur modif
+ markov chain
+ common belief
+ core compon
+ adjac matrix
+ limit pagerank
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

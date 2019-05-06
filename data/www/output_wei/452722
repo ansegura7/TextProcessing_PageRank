@@ -1,0 +1,50 @@
+File name: 452722
+
+Graph edges count: 11
+ certifi - email: 1
+ easi - implement: 1
+ email - reader: 1
+ light - onlin: 2
+ publickei - infrastructur: 1
+ scalabl - easi: 1
+ secur - scalabl: 1
+ special - softwar: 1
+ standard - email: 1
+ viabl - deploy: 1
+ web - browser: 1
+
+PageRank scores count: 18
+ browser: 0.05995956780495315
+ certifi: 0.03241057719186657
+ deploy: 0.05995956780495315
+ easi: 0.08337620982607676
+ email: 0.08750855841803974
+ implement: 0.10328035554403181
+ infrastructur: 0.05995956780495315
+ light: 0.03241057719186657
+ onlin: 0.05995956780495315
+ publickei: 0.03241057719186657
+ reader: 0.10679285184720035
+ scalabl: 0.05995956780495315
+ secur: 0.03241057719186657
+ softwar: 0.05995956780495315
+ special: 0.03241057719186657
+ standard: 0.03241057719186657
+ viabl: 0.03241057719186657
+ web: 0.03241057719186657
+
+N-grams list: 10
+ standard email reader
+ secur scalabl easi
+ certifi email
+ implement
+ publickei infrastructur
+ web browser
+ light onlin
+ viabl deploy
+ special softwar
+ email
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

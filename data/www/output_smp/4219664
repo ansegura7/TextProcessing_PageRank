@@ -1,0 +1,68 @@
+File name: 4219664
+
+Graph edges count: 21
+ browser - cach: 2
+ browser - exten: 1
+ browser - state: 5
+ cach - method: 1
+ clientsid - browser: 2
+ cooper - privaci: 1
+ crossdomain - track: 1
+ current - browser: 1
+ gener - notion: 1
+ hyperlink - clientsid: 1
+ longterm - browser: 1
+ modern - web: 1
+ persist - browser: 1
+ persist - clientsid: 1
+ persit - basi: 1
+ privaci - attack: 2
+ track - user: 1
+ true - privaci: 1
+ unavoid - consequ: 1
+ web - featur: 1
+ web - privaci: 1
+
+PageRank scores count: 26
+ attack: 0.07964805789955234
+ basi: 0.037178220772187874
+ browser: 0.10166233747638131
+ cach: 0.04890066450417535
+ clientsid: 0.04571916338201482
+ consequ: 0.037178220772187874
+ cooper: 0.020096335552533987
+ crossdomain: 0.020096335552533987
+ current: 0.020096335552533987
+ exten: 0.04890066450417535
+ featur: 0.035897079380713834
+ gener: 0.020096335552533987
+ hyperlink: 0.020096335552533987
+ longterm: 0.020096335552533987
+ method: 0.06166190038108304
+ modern: 0.020096335552533987
+ notion: 0.037178220772187874
+ persist: 0.020096335552533987
+ persit: 0.020096335552533987
+ privaci: 0.0700608498200216
+ state: 0.04890066450417535
+ track: 0.037178220772187874
+ true: 0.020096335552533987
+ unavoid: 0.020096335552533987
+ user: 0.05169782320889368
+ web: 0.037178220772187874
+
+N-grams list: 10
+ browser cach method
+ web privaci attack
+ persist browser state
+ longterm browser state
+ cooper privaci attack
+ persist clientsid browser
+ hyperlink clientsid browser
+ browser state
+ browser exten
+ browser cach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

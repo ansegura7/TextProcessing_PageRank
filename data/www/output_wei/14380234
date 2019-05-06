@@ -1,0 +1,101 @@
+File name: 14380234
+
+Graph edges count: 32
+ accuraci - coverag: 1
+ activ - yahoo: 1
+ answer - categori: 1
+ answer - communitybas: 1
+ answer - site: 1
+ automat - question: 1
+ baidu - zhidao: 1
+ communitybas - question: 1
+ complex - detail: 1
+ english - question: 1
+ high - qualiti: 1
+ human - answer: 1
+ incom - english: 1
+ kei - challeng: 1
+ languag - process: 1
+ larg - repositori: 1
+ leverag - concept: 1
+ natur - languag: 1
+ offlin - data: 1
+ onlin - data: 1
+ past - answer: 3
+ person - question: 1
+ qualiti - similar: 1
+ queryperform - predic: 1
+ questiontitl - level: 1
+ question - answer: 1
+ signific - fraction: 1
+ social - natur: 1
+ statist - model: 1
+ success - rate: 1
+ unansw - question: 1
+ wide - rang: 1
+
+PageRank scores count: 48
+ accuraci: 0.010747027196525816
+ activ: 0.010747027196525816
+ answer: 0.10508799100418655
+ automat: 0.010747027196525816
+ baidu: 0.010747027196525816
+ categori: 0.040521963888197954
+ challeng: 0.01988200031357276
+ communitybas: 0.040521963888197954
+ complex: 0.010747027196525816
+ concept: 0.01988200031357276
+ coverag: 0.01988200031357276
+ data: 0.0290169734306197
+ detail: 0.01988200031357276
+ english: 0.01988200031357276
+ fraction: 0.01988200031357276
+ high: 0.010747027196525816
+ human: 0.010747027196525816
+ incom: 0.010747027196525816
+ kei: 0.010747027196525816
+ languag: 0.027646727463062657
+ larg: 0.010747027196525816
+ level: 0.01988200031357276
+ leverag: 0.010747027196525816
+ model: 0.01988200031357276
+ natur: 0.01988200031357276
+ offlin: 0.010747027196525816
+ onlin: 0.010747027196525816
+ past: 0.010747027196525816
+ person: 0.010747027196525816
+ predic: 0.01988200031357276
+ process: 0.03424674554012907
+ qualiti: 0.01988200031357276
+ queryperform: 0.010747027196525816
+ question: 0.0894953128970885
+ questiontitl: 0.010747027196525816
+ rang: 0.01988200031357276
+ rate: 0.01988200031357276
+ repositori: 0.01988200031357276
+ signific: 0.010747027196525816
+ similar: 0.027646727463062657
+ site: 0.040521963888197954
+ social: 0.010747027196525816
+ statist: 0.010747027196525816
+ success: 0.010747027196525816
+ unansw: 0.010747027196525816
+ wide: 0.010747027196525816
+ yahoo: 0.01988200031357276
+ zhidao: 0.01988200031357276
+
+N-grams list: 10
+ question answer site
+ past answer communitybas
+ answer categori
+ incom english question
+ past answer
+ human answer
+ answer
+ unansw question
+ automat question
+ person question
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

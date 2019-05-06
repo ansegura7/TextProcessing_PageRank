@@ -1,0 +1,112 @@
+File name: 4512427
+
+Graph edges count: 36
+ automat - manner: 1
+ breathtak - speed: 1
+ brows - techniqu: 1
+ comput - mobil: 1
+ content - access: 1
+ content - produc: 1
+ entertain - experi: 1
+ experi - suitabl: 1
+ fresh - content: 2
+ geocod - rss: 1
+ geograph - interest: 1
+ geospati - represent: 1
+ innov - interfac: 1
+ interfac - design: 1
+ iptv - environ: 2
+ iptv - experi: 1
+ mass - collabor: 1
+ meaning - manner: 1
+ mobil - devic: 1
+ mobil - phone: 1
+ mous - click: 1
+ previou - work: 1
+ relev - updat: 1
+ remot - control: 1
+ rssenabl - content: 1
+ rssenabl - inform: 1
+ signific - lack: 1
+ tempor - brows: 1
+ time - person: 1
+ topic - peopl: 1
+ tv - audienc: 1
+ tv - demand: 1
+ user - interac: 1
+ weben - environ: 1
+ web - content: 2
+ web - experi: 1
+
+PageRank scores count: 55
+ access: 0.025840165033723658
+ audienc: 0.016678940155767655
+ automat: 0.01170451940755625
+ breathtak: 0.01170451940755625
+ brows: 0.02165336090397906
+ click: 0.02165336090397906
+ collabor: 0.02165336090397906
+ comput: 0.01170451940755625
+ content: 0.03326034264980567
+ control: 0.02165336090397906
+ demand: 0.016678940155767655
+ design: 0.03010987617593845
+ devic: 0.020907197791747347
+ entertain: 0.01170451940755625
+ environ: 0.02828592190159427
+ experi: 0.02828592190159427
+ fresh: 0.01170451940755625
+ geocod: 0.01170451940755625
+ geograph: 0.01170451940755625
+ geospati: 0.01170451940755625
+ inform: 0.016678940155767655
+ innov: 0.01170451940755625
+ interac: 0.02165336090397906
+ interest: 0.02165336090397906
+ interfac: 0.02165336090397906
+ iptv: 0.01170451940755625
+ lack: 0.02165336090397906
+ manner: 0.031602202400401874
+ mass: 0.01170451940755625
+ meaning: 0.01170451940755625
+ mobil: 0.02165336090397906
+ mous: 0.01170451940755625
+ peopl: 0.02165336090397906
+ person: 0.02165336090397906
+ phone: 0.020907197791747347
+ previou: 0.01170451940755625
+ produc: 0.025840165033723658
+ relev: 0.01170451940755625
+ remot: 0.01170451940755625
+ represent: 0.02165336090397906
+ rss: 0.02165336090397906
+ rssenabl: 0.01170451940755625
+ signific: 0.01170451940755625
+ speed: 0.02165336090397906
+ suitabl: 0.035747553023911374
+ techniqu: 0.03010987617593845
+ tempor: 0.01170451940755625
+ time: 0.01170451940755625
+ topic: 0.01170451940755625
+ tv: 0.01170451940755625
+ updat: 0.02165336090397906
+ user: 0.01170451940755625
+ web: 0.01170451940755625
+ weben: 0.01170451940755625
+ work: 0.02165336090397906
+
+N-grams list: 10
+ web experi suitabl
+ web content access
+ tempor brows techniqu
+ innov interfac design
+ content produc
+ comput mobil phone
+ rssenabl content
+ web content
+ fresh content
+ meaning manner
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

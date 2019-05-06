@@ -1,0 +1,73 @@
+File name: 812761
+
+Graph edges count: 22
+ apibas - interfac: 2
+ data - represent: 1
+ design - goal: 1
+ experiment - result: 1
+ firstclass - construct: 1
+ imper - natur: 1
+ inplac - updat: 1
+ level - apibas: 1
+ preliminari - experiment: 1
+ program - languag: 2
+ prototyp - compil: 1
+ represent - format: 1
+ research - languag: 1
+ runtim - apibas: 1
+ univers - data: 1
+ xj - design: 1
+ xj - program: 1
+ xmlbase - program: 1
+ xml - data: 2
+ xml - process: 1
+ xml - schema: 1
+ xml - support: 1
+
+PageRank scores count: 30
+ apibas: 0.05242079727178872
+ compil: 0.03591795368622561
+ construct: 0.03591795368622561
+ data: 0.04251909112045085
+ design: 0.02766653189344405
+ experiment: 0.03591795368622561
+ firstclass: 0.01941511010066249
+ format: 0.06663799702075135
+ goal: 0.042931662210089934
+ imper: 0.01941511010066249
+ inplac: 0.01941511010066249
+ interfac: 0.06397278778168292
+ languag: 0.07346192284338171
+ level: 0.01941511010066249
+ natur: 0.03591795368622561
+ preliminari: 0.01941511010066249
+ process: 0.022715678817775115
+ program: 0.04416937547900717
+ prototyp: 0.01941511010066249
+ represent: 0.05555633755304572
+ research: 0.01941511010066249
+ result: 0.04994537073395426
+ runtim: 0.01941511010066249
+ schema: 0.022715678817775115
+ support: 0.022715678817775115
+ univers: 0.01941511010066249
+ updat: 0.03591795368622561
+ xj: 0.01941511010066249
+ xml: 0.01941511010066249
+ xmlbase: 0.01941511010066249
+
+N-grams list: 10
+ xmlbase program languag
+ level apibas interfac
+ runtim apibas interfac
+ program languag
+ univers data represent
+ preliminari experiment result
+ research languag
+ design goal
+ format
+ xj program
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

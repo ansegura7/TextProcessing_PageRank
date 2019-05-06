@@ -1,0 +1,126 @@
+File name: 13896241
+
+Graph edges count: 48
+ advers - interac: 1
+ applic - traffic: 1
+ behavior - measur: 1
+ cellular - carrier: 1
+ cellular - network: 2
+ commerci - cellular: 1
+ control - algorithm: 1
+ counterintuit - behavior: 1
+ direct - consequ: 1
+ dispar - respons: 1
+ endus - devic: 1
+ energi - consump: 1
+ energi - impact: 1
+ facebook - period: 1
+ handset - radio: 1
+ import - mechan: 1
+ keepal - poll: 1
+ largescal - investig: 1
+ manag - polici: 2
+ mobil - applic: 2
+ moder - aggress: 1
+ networkwid - largescal: 1
+ networkwid - origin: 1
+ network - radio: 1
+ optim - cellular: 1
+ optim - strategi: 1
+ origin - impact: 1
+ packet - trace: 1
+ pattern - applic: 1
+ period - transfer: 7
+ popular - applic: 1
+ popular - smartphon: 1
+ radio - energi: 1
+ radio - resourc: 2
+ remot - server: 1
+ resourceineffici - mobil: 1
+ resourc - control: 1
+ resourc - manag: 2
+ smartphon - applic: 1
+ smartphon - traffic: 1
+ specif - radio: 1
+ total - handset: 1
+ traffic - pattern: 2
+ traffic - shape: 1
+ traffic - volum: 1
+ transfer - pattern: 1
+ user - behavior: 1
+ wifi - network: 1
+
+PageRank scores count: 57
+ advers: 0.007958903066626239
+ aggress: 0.01472397067325854
+ algorithm: 0.024706960415017475
+ applic: 0.06703486714075409
+ behavior: 0.02148903827989084
+ carrier: 0.01565416746917048
+ cellular: 0.018106504476574692
+ commerci: 0.007958903066626239
+ consequ: 0.01472397067325854
+ consump: 0.019703596880460285
+ control: 0.019703596880460285
+ counterintuit: 0.007958903066626239
+ devic: 0.01472397067325854
+ direct: 0.007958903066626239
+ dispar: 0.007958903066626239
+ endus: 0.007958903066626239
+ energi: 0.027634573679609524
+ facebook: 0.007958903066626239
+ handset: 0.01472397067325854
+ impact: 0.029343818219911322
+ import: 0.007958903066626239
+ interac: 0.01472397067325854
+ investig: 0.01759912440607727
+ keepal: 0.007958903066626239
+ largescal: 0.01134143686994239
+ manag: 0.019703596880460285
+ measur: 0.026224585604533453
+ mechan: 0.01472397067325854
+ mobil: 0.01472397067325854
+ moder: 0.007958903066626239
+ network: 0.022419235075802787
+ networkwid: 0.007958903066626239
+ optim: 0.007958903066626239
+ origin: 0.01134143686994239
+ packet: 0.007958903066626239
+ pattern: 0.04512699601966627
+ period: 0.01472397067325854
+ polici: 0.024706960415017475
+ poll: 0.01472397067325854
+ popular: 0.007958903066626239
+ radio: 0.046295695559960666
+ remot: 0.007958903066626239
+ resourc: 0.027634573679609524
+ resourceineffici: 0.007958903066626239
+ respons: 0.01472397067325854
+ server: 0.01472397067325854
+ shape: 0.02772385960160468
+ smartphon: 0.01134143686994239
+ specif: 0.007958903066626239
+ strategi: 0.01134143686994239
+ total: 0.007958903066626239
+ trace: 0.01472397067325854
+ traffic: 0.06975865468352115
+ transfer: 0.020474278138895994
+ user: 0.007958903066626239
+ volum: 0.02772385960160468
+ wifi: 0.007958903066626239
+
+N-grams list: 10
+ traffic pattern applic
+ applic traffic pattern
+ traffic shape
+ traffic volum
+ resourceineffici mobil applic
+ cellular network radio
+ popular smartphon applic
+ specif radio resourc
+ mobil applic
+ smartphon traffic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

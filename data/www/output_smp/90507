@@ -1,0 +1,73 @@
+File name: 90507
+
+Graph edges count: 22
+ applic - scenario: 1
+ commun - due: 1
+ composit - servic: 1
+ data - deliveri: 1
+ data - multicast: 1
+ great - import: 1
+ high - flexibl: 1
+ internet - research: 1
+ largescal - servic: 1
+ larg - network: 1
+ onetomani - applic: 1
+ optim - goal: 1
+ performancerel - aspect: 1
+ qo - servic: 1
+ research - commun: 1
+ runtim - performancerel: 1
+ servic - composi: 2
+ servic - execu: 1
+ servic - multicast: 1
+ servic - network: 1
+ widearea - applic: 1
+ wide - area: 1
+
+PageRank scores count: 30
+ applic: 0.05223030663542519
+ area: 0.03578743232427281
+ aspect: 0.049763875488752336
+ commun: 0.049763875488752336
+ composi: 0.03393760896426817
+ composit: 0.01934455801312044
+ data: 0.01934455801312044
+ deliveri: 0.02756599516869663
+ due: 0.06164385217855992
+ execu: 0.03393760896426817
+ flexibl: 0.03578743232427281
+ goal: 0.03578743232427281
+ great: 0.01934455801312044
+ high: 0.01934455801312044
+ import: 0.03578743232427281
+ internet: 0.01934455801312044
+ larg: 0.01934455801312044
+ largescal: 0.01934455801312044
+ multicast: 0.04215904611984436
+ network: 0.05038048327542055
+ onetomani: 0.01934455801312044
+ optim: 0.01934455801312044
+ performancerel: 0.03578743232427281
+ qo: 0.01934455801312044
+ research: 0.03578743232427281
+ runtim: 0.01934455801312044
+ scenario: 0.06374031865323186
+ servic: 0.06867318094657757
+ wide: 0.01934455801312044
+ widearea: 0.01934455801312044
+
+N-grams list: 10
+ largescal servic network
+ onetomani applic scenario
+ servic multicast
+ internet research commun
+ runtim performancerel aspect
+ servic composi
+ servic execu
+ qo servic
+ composit servic
+ widearea applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

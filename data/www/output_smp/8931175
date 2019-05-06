@@ -1,0 +1,63 @@
+File name: 8931175
+
+Graph edges count: 17
+ classbas - random: 1
+ effici - pagerank: 1
+ graph - aggreg: 2
+ pagebas - random: 1
+ pagerank - approxim: 1
+ pagerank - distribu: 1
+ probabl - distribu: 2
+ quasiequival - vertic: 1
+ random - walk: 2
+ rankord - correl: 1
+ simplist - implement: 1
+ spearman - rankord: 1
+ speedup - factor: 1
+ stationari - probabl: 1
+ web - host: 1
+ web - page: 1
+ wellknown - pagerank: 1
+
+PageRank scores count: 25
+ aggreg: 0.04395865510276822
+ approxim: 0.05102768207199715
+ classbas: 0.02376143519068552
+ correl: 0.06112629202803851
+ distribu: 0.08839253890935013
+ effici: 0.02376143519068552
+ factor: 0.04395865510276822
+ graph: 0.02376143519068552
+ host: 0.03386004514672687
+ implement: 0.04395865510276822
+ page: 0.03386004514672687
+ pagebas: 0.02376143519068552
+ pagerank: 0.0641558750148509
+ probabl: 0.04395865510276822
+ quasiequival: 0.02376143519068552
+ random: 0.0641558750148509
+ rankord: 0.04395865510276822
+ simplist: 0.02376143519068552
+ spearman: 0.02376143519068552
+ speedup: 0.02376143519068552
+ stationari: 0.02376143519068552
+ vertic: 0.04395865510276822
+ walk: 0.07829392895330879
+ web: 0.02376143519068552
+ wellknown: 0.02376143519068552
+
+N-grams list: 10
+ wellknown pagerank distribu
+ pagebas random walk
+ classbas random walk
+ stationari probabl distribu
+ effici pagerank approxim
+ probabl distribu
+ spearman rankord correl
+ distribu
+ simplist implement
+ quasiequival vertic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

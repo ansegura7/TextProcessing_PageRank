@@ -1,0 +1,69 @@
+File name: 13059173
+
+Graph edges count: 22
+ automat - imag: 2
+ auxiliari - term: 1
+ auxiliari - text: 3
+ correl - network: 1
+ dombas - web: 1
+ imag - annot: 1
+ imag - cluster: 1
+ largescal - databas: 1
+ page - segment: 1
+ posit - result: 1
+ relev - auxiliari: 2
+ relev - rerank: 1
+ rerank - process: 1
+ similar - context: 1
+ term - correl: 1
+ term - list: 1
+ text - block: 2
+ text - term: 2
+ visuallysimilar - imag: 1
+ visual - similar: 1
+ web - imag: 2
+ web - page: 2
+
+PageRank scores count: 26
+ annot: 0.05281775553922339
+ automat: 0.021283268196078082
+ auxiliari: 0.030328657179411262
+ block: 0.035806770882442426
+ cluster: 0.05281775553922339
+ context: 0.054751207434410865
+ correl: 0.04197925952414727
+ databas: 0.039374046162744446
+ dombas: 0.021283268196078082
+ imag: 0.07419879374857721
+ largescal: 0.021283268196078082
+ list: 0.04197925952414727
+ network: 0.05696563879160326
+ page: 0.03801723781524447
+ posit: 0.021283268196078082
+ process: 0.04706262679857766
+ relev: 0.021283268196078082
+ rerank: 0.030328657179411262
+ result: 0.039374046162744446
+ segment: 0.053597920339035876
+ similar: 0.039374046162744446
+ term: 0.04869645018369221
+ text: 0.03417294749732787
+ visual: 0.021283268196078082
+ visuallysimilar: 0.021283268196078082
+ web: 0.039374046162744446
+
+N-grams list: 10
+ automat imag cluster
+ automat imag annot
+ term correl network
+ visual similar context
+ web imag
+ auxiliari text term
+ relev rerank process
+ dombas web page
+ visuallysimilar imag
+ term list
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

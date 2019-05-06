@@ -1,0 +1,60 @@
+File name: 4478865
+
+Graph edges count: 17
+ automat - cluster: 1
+ automat - retriev: 1
+ compar - content: 3
+ compar - inform: 1
+ compar - page: 1
+ compar - web: 2
+ cw - system: 1
+ experi - result: 1
+ meaning - theme: 1
+ page - level: 1
+ repres - keyphras: 1
+ search - problem: 1
+ search - system: 1
+ view - mode: 1
+ web - page: 1
+ web - search: 1
+ web - user: 1
+
+PageRank scores count: 22
+ automat: 0.031838732272648725
+ cluster: 0.045370193488524425
+ compar: 0.031838732272648725
+ content: 0.043437127600542184
+ cw: 0.031838732272648725
+ experi: 0.031838732272648725
+ inform: 0.03570486404861321
+ keyphras: 0.05890165470440013
+ level: 0.0717178815417224
+ meaning: 0.031838732272648725
+ mode: 0.05890165470440013
+ page: 0.04691664619891022
+ problem: 0.05013520090240066
+ repres: 0.031838732272648725
+ result: 0.05890165470440013
+ retriev: 0.045370193488524425
+ search: 0.04305051442294573
+ system: 0.07719812333415207
+ theme: 0.05890165470440013
+ user: 0.04305051442294573
+ view: 0.031838732272648725
+ web: 0.039570995824577695
+
+N-grams list: 10
+ page level
+ compar web search
+ cw system
+ search problem
+ view mode
+ meaning theme
+ experi result
+ repres keyphras
+ web page
+ web user
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

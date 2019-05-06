@@ -1,0 +1,63 @@
+File name: 4641758
+
+Graph edges count: 18
+ initi - analysi: 1
+ larg - onlin: 1
+ media - repositori: 1
+ media - share: 1
+ onlin - commun: 1
+ onlin - media: 2
+ search - servic: 2
+ share - servic: 1
+ small - number: 1
+ social - aspect: 1
+ social - connec: 1
+ social - dynam: 1
+ social - interac: 1
+ social - network: 1
+ textbas - page: 1
+ video - share: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 24
+ analysi: 0.04909623737466827
+ aspect: 0.031050052826141556
+ commun: 0.04740440757324389
+ connec: 0.031050052826141556
+ dynam: 0.031050052826141556
+ initi: 0.026538506689009877
+ interac: 0.031050052826141556
+ larg: 0.026538506689009877
+ media: 0.04740440757324389
+ network: 0.031050052826141556
+ number: 0.04909623737466827
+ onlin: 0.04909623737466827
+ page: 0.04909623737466827
+ repositori: 0.04668537990763853
+ search: 0.026538506689009877
+ servic: 0.10795288137897063
+ share: 0.06924311059329692
+ small: 0.026538506689009877
+ social: 0.026538506689009877
+ textbas: 0.026538506689009877
+ video: 0.026538506689009877
+ web: 0.0682703084574779
+ wide: 0.04909623737466827
+ world: 0.026538506689009877
+
+N-grams list: 10
+ share servic
+ world wide web
+ search servic
+ larg onlin media
+ media share
+ onlin media
+ onlin commun
+ video share
+ initi analysi
+ small number
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

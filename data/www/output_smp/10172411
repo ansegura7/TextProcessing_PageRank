@@ -1,0 +1,111 @@
+File name: 10172411
+
+Graph edges count: 38
+ advertis - campaign: 1
+ advertis - contextu: 1
+ ad - evalu: 1
+ ad - featur: 1
+ ad - impres: 1
+ ad - selec: 1
+ bid - selec: 1
+ budget - advertis: 1
+ chang - ad: 1
+ complic - process: 1
+ content - match: 1
+ contextu - ad: 1
+ contextu - advertis: 3
+ critic - factor: 1
+ data - set: 1
+ distinct - page: 2
+ effici - twolevel: 1
+ experiment - result: 1
+ forecast - ad: 1
+ gener - web: 1
+ histor - data: 1
+ impres - estim: 1
+ impres - hundr: 1
+ individu - blogger: 1
+ intend - audienc: 1
+ larg - margin: 1
+ major - newspap: 1
+ orthogon - critic: 1
+ page - hundr: 1
+ real - time: 1
+ searchbas - method: 1
+ search - algorithm: 1
+ signific - sourc: 1
+ small - textual: 1
+ textual - ad: 1
+ total - number: 1
+ twolevel - search: 1
+ web - page: 1
+
+PageRank scores count: 52
+ ad: 0.05576567060331263
+ advertis: 0.02978141168675451
+ algorithm: 0.03418042892465512
+ audienc: 0.019843500101396298
+ bid: 0.010726216271025027
+ blogger: 0.019843500101396298
+ budget: 0.010726216271025027
+ campaign: 0.023383315760463444
+ chang: 0.010726216271025027
+ complic: 0.010726216271025027
+ content: 0.010726216271025027
+ contextu: 0.023383315760463444
+ critic: 0.019843500101396298
+ data: 0.019843500101396298
+ distinct: 0.010726216271025027
+ effici: 0.010726216271025027
+ estim: 0.020321196404698608
+ evalu: 0.02257642103551284
+ experiment: 0.010726216271025027
+ factor: 0.02759319135721188
+ featur: 0.02257642103551284
+ forecast: 0.010726216271025027
+ gener: 0.010726216271025027
+ histor: 0.010726216271025027
+ hundr: 0.051525100314144284
+ impres: 0.02257642103551284
+ individu: 0.010726216271025027
+ intend: 0.010726216271025027
+ larg: 0.010726216271025027
+ major: 0.010726216271025027
+ margin: 0.019843500101396298
+ match: 0.019843500101396298
+ method: 0.019843500101396298
+ newspap: 0.019843500101396298
+ number: 0.019843500101396298
+ orthogon: 0.010726216271025027
+ page: 0.03671047518758316
+ process: 0.019843500101396298
+ real: 0.010726216271025027
+ result: 0.019843500101396298
+ search: 0.02759319135721188
+ searchbas: 0.010726216271025027
+ selec: 0.031693704865884104
+ set: 0.02759319135721188
+ signific: 0.010726216271025027
+ small: 0.010726216271025027
+ sourc: 0.019843500101396298
+ textual: 0.019843500101396298
+ time: 0.019843500101396298
+ total: 0.010726216271025027
+ twolevel: 0.019843500101396298
+ web: 0.019843500101396298
+
+N-grams list: 10
+ distinct page hundr
+ forecast ad impres
+ ad selec
+ small textual ad
+ contextu ad
+ ad featur
+ ad evalu
+ contextu advertis contextu
+ impres hundr
+ gener web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

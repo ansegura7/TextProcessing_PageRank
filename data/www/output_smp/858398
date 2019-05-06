@@ -1,0 +1,58 @@
+File name: 858398
+
+Graph edges count: 15
+ certificatebas - authent: 1
+ certif - verif: 2
+ contextsensit - certif: 1
+ eavesdrop - attack: 1
+ form - vulner: 1
+ maninthemiddl - attack: 1
+ password - warn: 1
+ secur - error: 2
+ secur - site: 1
+ secur - train: 1
+ specif - password: 1
+ user - studi: 1
+ verif - error: 1
+ verif - failur: 1
+ web - browser: 2
+
+PageRank scores count: 22
+ attack: 0.07718337841652585
+ authent: 0.052884907433545486
+ browser: 0.052884907433545486
+ certif: 0.052884907433545486
+ certificatebas: 0.02858643645056513
+ contextsensit: 0.02858643645056513
+ eavesdrop: 0.02858643645056513
+ error: 0.06793983508008374
+ failur: 0.05984034475242361
+ form: 0.02858643645056513
+ maninthemiddl: 0.02858643645056513
+ password: 0.052884907433545486
+ secur: 0.02858643645056513
+ site: 0.03668592677822524
+ specif: 0.02858643645056513
+ studi: 0.052884907433545486
+ train: 0.03668592677822524
+ user: 0.02858643645056513
+ verif: 0.07353860776907879
+ vulner: 0.052884907433545486
+ warn: 0.07353860776907879
+ web: 0.02858643645056513
+
+N-grams list: 10
+ certif verif error
+ specif password warn
+ contextsensit certif verif
+ verif failur
+ maninthemiddl attack
+ eavesdrop attack
+ secur error
+ user studi
+ form vulner
+ web browser
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

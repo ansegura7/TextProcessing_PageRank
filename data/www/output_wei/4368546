@@ -1,0 +1,71 @@
+File name: 4368546
+
+Graph edges count: 20
+ clusgat - system: 1
+ clusteringbas - rss: 2
+ commerci - weblog: 1
+ content - inform: 1
+ effici - cluster: 1
+ flexibl - time: 1
+ hierarch - structur: 1
+ increment - cluster: 1
+ interest - stori: 1
+ link - inform: 1
+ multipl - rss: 1
+ previou - work: 1
+ recent - year: 1
+ rss - aggreg: 2
+ rss - clusgat: 1
+ rss - feed: 1
+ similar - topic: 1
+ system - current: 1
+ time - window: 1
+ weblog - read: 1
+
+PageRank scores count: 30
+ aggreg: 0.04310974585763456
+ clusgat: 0.03159206637646211
+ cluster: 0.054200844617282105
+ clusteringbas: 0.02007438689528967
+ commerci: 0.02007438689528967
+ content: 0.02007438689528967
+ current: 0.05996288371327977
+ effici: 0.02007438689528967
+ feed: 0.03159206637646211
+ flexibl: 0.02007438689528967
+ hierarch: 0.02007438689528967
+ increment: 0.02007438689528967
+ inform: 0.054200844617282105
+ interest: 0.02007438689528967
+ link: 0.02007438689528967
+ multipl: 0.02007438689528967
+ previou: 0.02007438689528967
+ read: 0.051641360288132675
+ recent: 0.02007438689528967
+ rss: 0.054200844617282105
+ similar: 0.02007438689528967
+ stori: 0.03713761575628589
+ structur: 0.03713761575628589
+ system: 0.04692764331528247
+ time: 0.03713761575628589
+ topic: 0.03713761575628589
+ weblog: 0.03713761575628589
+ window: 0.051641360288132675
+ work: 0.03713761575628589
+ year: 0.03713761575628589
+
+N-grams list: 10
+ rss clusgat system
+ clusteringbas rss aggreg
+ flexibl time window
+ system current
+ weblog read
+ rss feed
+ effici cluster
+ content inform
+ increment cluster
+ multipl rss
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

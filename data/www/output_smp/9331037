@@ -1,0 +1,90 @@
+File name: 9331037
+
+Graph edges count: 28
+ comprehens - experi: 1
+ data - sourc: 1
+ detec - approach: 1
+ detec - method: 1
+ divers - spectrum: 1
+ econom - loss: 1
+ fals - posit: 2
+ hybrid - phish: 2
+ identitybas - compon: 1
+ ident - discoveri: 1
+ inform - extrac: 1
+ inform - retriev: 1
+ ir - algorithm: 1
+ keywordsretriev - compon: 1
+ keyword - retriev: 1
+ low - fals: 1
+ phish - detec: 2
+ phish - pattern: 1
+ posit - rate: 3
+ prior - knowledg: 1
+ retriev - phish: 1
+ search - engin: 1
+ secur - threat: 1
+ signific - secur: 1
+ specif - implement: 1
+ train - data: 1
+ tremend - econom: 1
+ true - posit: 1
+
+PageRank scores count: 41
+ algorithm: 0.025688756458720725
+ approach: 0.02927740413727402
+ compon: 0.03749169861543025
+ comprehens: 0.013885814302011204
+ data: 0.025688756458720725
+ detec: 0.03621550549473603
+ discoveri: 0.025688756458720725
+ divers: 0.013885814302011204
+ econom: 0.025688756458720725
+ engin: 0.025688756458720725
+ experi: 0.025688756458720725
+ extrac: 0.019787285380365966
+ fals: 0.025688756458720725
+ hybrid: 0.013885814302011204
+ ident: 0.013885814302011204
+ identitybas: 0.013885814302011204
+ implement: 0.025688756458720725
+ inform: 0.013885814302011204
+ ir: 0.013885814302011204
+ keyword: 0.013885814302011204
+ keywordsretriev: 0.013885814302011204
+ knowledg: 0.025688756458720725
+ loss: 0.035721257291923825
+ low: 0.013885814302011204
+ method: 0.02927740413727402
+ pattern: 0.03621550549473603
+ phish: 0.052540449865234894
+ posit: 0.04752419944863334
+ prior: 0.013885814302011204
+ rate: 0.05428138383334954
+ retriev: 0.03159022753707549
+ search: 0.013885814302011204
+ secur: 0.025688756458720725
+ signific: 0.013885814302011204
+ sourc: 0.035721257291923825
+ specif: 0.013885814302011204
+ spectrum: 0.025688756458720725
+ threat: 0.035721257291923825
+ train: 0.013885814302011204
+ tremend: 0.013885814302011204
+ true: 0.013885814302011204
+
+N-grams list: 10
+ fals posit rate
+ true posit rate
+ hybrid phish detec
+ keyword retriev phish
+ phish pattern
+ low fals posit
+ tremend econom loss
+ signific secur threat
+ data sourc
+ rate
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,47 @@
+File name: 13059044
+
+Graph edges count: 10
+ ambiguousfacet - queri: 1
+ diversif - problem: 1
+ effici - diversif: 1
+ linear - time: 1
+ object - function: 1
+ optim - solution: 1
+ origin - formul: 1
+ queri - log: 3
+ result - diversif: 1
+ search - result: 3
+
+PageRank scores count: 16
+ ambiguousfacet: 0.0357090250097084
+ diversif: 0.122214138095727
+ effici: 0.0357090250097084
+ formul: 0.06606169626796055
+ function: 0.06606169626796055
+ linear: 0.0357090250097084
+ log: 0.09186146683747486
+ object: 0.0357090250097084
+ optim: 0.0357090250097084
+ origin: 0.0357090250097084
+ problem: 0.13959104239107636
+ queri: 0.06606169626796055
+ result: 0.06606169626796055
+ search: 0.0357090250097084
+ solution: 0.06606169626796055
+ time: 0.06606169626796055
+
+N-grams list: 10
+ result diversif problem
+ queri log
+ effici diversif
+ problem
+ ambiguousfacet queri
+ optim solution
+ search result
+ linear time
+ object function
+ origin formul
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

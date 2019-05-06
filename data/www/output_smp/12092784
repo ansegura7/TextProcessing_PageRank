@@ -1,0 +1,88 @@
+File name: 12092784
+
+Graph edges count: 29
+ benchmark - data: 1
+ complex - rdf: 1
+ databas - structur: 1
+ extrem - case: 1
+ graph - featur: 1
+ group - ident: 1
+ import - factor: 1
+ multipl - piec: 1
+ overlap - group: 1
+ partition - rdf: 1
+ prior - art: 1
+ queri - rdf: 1
+ rdf - data: 5
+ rdf - group: 1
+ rdf - queri: 1
+ rdf - tripl: 1
+ realworld - applic: 1
+ relat - databas: 1
+ semant - web: 1
+ signatur - tree: 2
+ specif - constraint: 1
+ store - index: 1
+ tree - index: 1
+ tripl - store: 2
+ tripl - tabl: 1
+ typic - queri: 1
+ uobm - benchmark: 1
+ vertic - databas: 1
+ web - technologi: 1
+
+PageRank scores count: 38
+ applic: 0.025882544784128384
+ art: 0.025882544784128384
+ benchmark: 0.025882544784128384
+ case: 0.025882544784128384
+ complex: 0.013990564748177505
+ constraint: 0.025882544784128384
+ data: 0.051492936604525065
+ databas: 0.037774524820079265
+ extrem: 0.013990564748177505
+ factor: 0.025882544784128384
+ featur: 0.025882544784128384
+ graph: 0.013990564748177505
+ group: 0.04138475357396682
+ ident: 0.04916760634469191
+ import: 0.013990564748177505
+ index: 0.058536974593793444
+ multipl: 0.013990564748177505
+ overlap: 0.013990564748177505
+ partition: 0.013990564748177505
+ piec: 0.025882544784128384
+ prior: 0.013990564748177505
+ queri: 0.04138475357396682
+ rdf: 0.07295156641659366
+ realworld: 0.013990564748177505
+ relat: 0.013990564748177505
+ semant: 0.013990564748177505
+ signatur: 0.013990564748177505
+ specif: 0.013990564748177505
+ store: 0.02652499403115558
+ structur: 0.04609891084524488
+ tabl: 0.02652499403115558
+ technologi: 0.03599072781468663
+ tree: 0.025882544784128384
+ tripl: 0.029492773538015937
+ typic: 0.013990564748177505
+ uobm: 0.013990564748177505
+ vertic: 0.013990564748177505
+ web: 0.025882544784128384
+
+N-grams list: 10
+ queri rdf data
+ complex rdf queri
+ rdf data
+ partition rdf tripl
+ rdf group
+ signatur tree index
+ vertic databas structur
+ uobm benchmark data
+ group ident
+ store index
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

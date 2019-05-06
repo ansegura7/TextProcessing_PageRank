@@ -1,0 +1,90 @@
+File name: 4281337
+
+Graph edges count: 32
+ activ - learn: 4
+ automat - text: 1
+ batch - mode: 2
+ categor - model: 1
+ classif - model: 2
+ data - mine: 1
+ extens - experi: 1
+ fisher - inform: 2
+ human - effort: 1
+ import - research: 1
+ inform - docum: 1
+ inform - matrix: 1
+ label - text: 1
+ largescal - text: 4
+ learn - algorithm: 1
+ learn - largescal: 1
+ learn - techniqu: 1
+ model - uncertainti: 1
+ mode - activ: 2
+ promis - tool: 1
+ reliabl - classif: 1
+ research - topic: 1
+ singl - unlabel: 1
+ stateoftheart - activ: 1
+ text - categor: 7
+ text - docum: 2
+ uniqu - inform: 1
+ unlabel - docum: 1
+ web - data: 1
+ web - docum: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 37
+ activ: 0.04237061753310831
+ algorithm: 0.0260919490454171
+ automat: 0.012380019732098848
+ batch: 0.012380019732098848
+ categor: 0.0360118089673392
+ classif: 0.022903036504382867
+ data: 0.025915250055449167
+ docum: 0.08322069296199837
+ effort: 0.022903036504382867
+ experi: 0.022903036504382867
+ extens: 0.012380019732098848
+ fisher: 0.012380019732098848
+ human: 0.012380019732098848
+ import: 0.012380019732098848
+ inform: 0.03342605327666689
+ label: 0.012380019732098848
+ largescal: 0.0260919490454171
+ learn: 0.048395044635240914
+ matrix: 0.026586092374682277
+ mine: 0.034407982279230635
+ mode: 0.022903036504382867
+ model: 0.0624576383830626
+ promis: 0.012380019732098848
+ reliabl: 0.012380019732098848
+ research: 0.022903036504382867
+ singl: 0.012380019732098848
+ stateoftheart: 0.012380019732098848
+ techniqu: 0.0260919490454171
+ text: 0.05560420996527141
+ tool: 0.022903036504382867
+ topic: 0.03184760076082428
+ uncertainti: 0.06546901235770206
+ uniqu: 0.012380019732098848
+ unlabel: 0.022903036504382867
+ web: 0.03184760076082428
+ wide: 0.022903036504382867
+ world: 0.012380019732098848
+
+N-grams list: 10
+ text categor model
+ label text docum
+ text docum
+ learn largescal text
+ model uncertainti
+ singl unlabel docum
+ largescal text categor
+ activ learn algorithm
+ inform docum
+ automat text categor
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

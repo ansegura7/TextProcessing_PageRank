@@ -1,0 +1,76 @@
+File name: 320669
+
+Graph edges count: 27
+ base - format: 1
+ complet - docum: 1
+ cuyper - multimedia: 1
+ datadriven - timebas: 1
+ docum - transform: 1
+ format - model: 1
+ format - vocabulari: 2
+ fullyfledg - timebas: 1
+ kei - properti: 1
+ mediacentr - present: 1
+ mediacentr - transform: 1
+ mediacentr - web: 1
+ multimedia - style: 1
+ multimedia - transform: 1
+ process - chain: 1
+ style - languag: 1
+ textbas - format: 1
+ textflow - base: 1
+ timebas - mediacentr: 2
+ timebas - multimedia: 1
+ transform - engin: 1
+ transform - format: 1
+ transform - process: 1
+ vocabulari - timebas: 1
+ web - present: 1
+ xml - world: 1
+ xsl - css: 1
+
+PageRank scores count: 28
+ base: 0.0269670085410925
+ chain: 0.04559473901641167
+ complet: 0.014576761373563516
+ css: 0.0269670085410925
+ cuyper: 0.014576761373563516
+ datadriven: 0.014576761373563516
+ docum: 0.0269670085410925
+ engin: 0.03649173732220633
+ format: 0.07180394174966394
+ fullyfledg: 0.014576761373563516
+ kei: 0.014576761373563516
+ languag: 0.04554538972278669
+ mediacentr: 0.0634988352232294
+ model: 0.03492121184229256
+ multimedia: 0.05142804546592544
+ present: 0.06025098133851889
+ process: 0.03649173732220633
+ properti: 0.0269670085410925
+ style: 0.03643368094039094
+ textbas: 0.014576761373563516
+ textflow: 0.014576761373563516
+ timebas: 0.08633306916060808
+ transform: 0.07734697517198004
+ vocabulari: 0.055265662311021604
+ web: 0.03256809834522399
+ world: 0.0269670085410925
+ xml: 0.014576761373563516
+ xsl: 0.014576761373563516
+
+N-grams list: 10
+ vocabulari timebas mediacentr
+ transform format vocabulari
+ datadriven timebas mediacentr
+ fullyfledg timebas multimedia
+ cuyper multimedia transform
+ mediacentr transform
+ textbas format model
+ complet docum transform
+ textflow base format
+ web present
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

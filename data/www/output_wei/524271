@@ -1,0 +1,51 @@
+File name: 524271
+
+Graph edges count: 11
+ box - model: 1
+ cut - algorithm: 1
+ dom - tree: 1
+ ocr - commun: 1
+ position - data: 1
+ tabl - elem: 1
+ tabular - data: 2
+ visual - cue: 2
+ web - page: 2
+ wellknown - xy: 1
+ xy - cut: 1
+
+PageRank scores count: 19
+ algorithm: 0.10479173603318086
+ box: 0.03288486597361812
+ commun: 0.06083700205119353
+ cue: 0.06083700205119353
+ cut: 0.08459631771713262
+ data: 0.08878913812876893
+ dom: 0.03288486597361812
+ elem: 0.06083700205119353
+ model: 0.06083700205119353
+ ocr: 0.03288486597361812
+ page: 0.06083700205119353
+ position: 0.03288486597361812
+ tabl: 0.03288486597361812
+ tabular: 0.03288486597361812
+ tree: 0.06083700205119353
+ visual: 0.03288486597361812
+ web: 0.03288486597361812
+ wellknown: 0.03288486597361812
+ xy: 0.06083700205119353
+
+N-grams list: 10
+ wellknown xy cut
+ position data
+ tabular data
+ algorithm
+ visual cue
+ web page
+ tabl elem
+ box model
+ ocr commun
+ dom tree
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

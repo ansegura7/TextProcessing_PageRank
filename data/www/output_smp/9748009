@@ -1,0 +1,60 @@
+File name: 9748009
+
+Graph edges count: 15
+ altern - aspect: 1
+ baselin - method: 1
+ cut - model: 3
+ descrip - length: 1
+ experiment - result: 1
+ good - recommend: 2
+ mdlbase - tree: 3
+ minimum - descrip: 1
+ phrasebas - vsm: 1
+ question - recommend: 2
+ real - question: 1
+ topic - term: 1
+ treecut - problem: 1
+ tree - cut: 3
+ wordbas - vsm: 1
+
+PageRank scores count: 24
+ altern: 0.024842174559750085
+ aspect: 0.045958022935537655
+ baselin: 0.024842174559750085
+ cut: 0.06390649405495709
+ descrip: 0.045958022935537655
+ experiment: 0.024842174559750085
+ good: 0.024842174559750085
+ length: 0.06390649405495709
+ mdlbase: 0.024842174559750085
+ method: 0.045958022935537655
+ minimum: 0.024842174559750085
+ model: 0.0791626945064636
+ phrasebas: 0.024842174559750085
+ problem: 0.045958022935537655
+ question: 0.045958022935537655
+ real: 0.024842174559750085
+ recommend: 0.08502234243074468
+ result: 0.045958022935537655
+ term: 0.045958022935537655
+ topic: 0.024842174559750085
+ tree: 0.045958022935537655
+ treecut: 0.024842174559750085
+ vsm: 0.06707387131132522
+ wordbas: 0.024842174559750085
+
+N-grams list: 10
+ minimum descrip length
+ mdlbase tree cut
+ question recommend
+ good recommend
+ wordbas vsm
+ phrasebas vsm
+ recommend
+ model
+ real question
+ altern aspect
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

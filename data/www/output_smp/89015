@@ -1,0 +1,61 @@
+File name: 89015
+
+Graph edges count: 17
+ augment - interact: 1
+ complex - plot: 1
+ computerbas - interact: 1
+ cyberdrama - gener: 2
+ digit - gener: 1
+ digit - version: 1
+ dispers - player: 1
+ drama - gener: 1
+ event - synchron: 2
+ interact - cyberdrama: 1
+ interact - entertain: 1
+ interact - storytel: 2
+ main - novelti: 1
+ obsolet - event: 1
+ posit - result: 1
+ storytel - activ: 1
+ synchron - servic: 1
+
+PageRank scores count: 23
+ activ: 0.06297125334894865
+ augment: 0.025185982741305332
+ complex: 0.025185982741305332
+ computerbas: 0.025185982741305332
+ cyberdrama: 0.04445325953840391
+ digit: 0.025185982741305332
+ dispers: 0.025185982741305332
+ drama: 0.025185982741305332
+ entertain: 0.04445325953840391
+ event: 0.04659406807141487
+ gener: 0.09508338134411295
+ interact: 0.06800215340152439
+ main: 0.025185982741305332
+ novelti: 0.04659406807141487
+ obsolet: 0.025185982741305332
+ player: 0.04659406807141487
+ plot: 0.04659406807141487
+ posit: 0.025185982741305332
+ result: 0.04659406807141487
+ servic: 0.08025828225301211
+ storytel: 0.04445325953840391
+ synchron: 0.06479094060200798
+ version: 0.035890025406360104
+
+N-grams list: 10
+ interact cyberdrama gener
+ event synchron servic
+ interact storytel activ
+ cyberdrama gener
+ computerbas interact entertain
+ drama gener
+ digit gener
+ interact storytel
+ event synchron
+ gener
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

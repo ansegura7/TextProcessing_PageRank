@@ -1,0 +1,103 @@
+File name: 735741
+
+Graph edges count: 35
+ broadcast - video: 1
+ capac - plan: 2
+ challeng - optim: 1
+ client - network: 2
+ educ - broadcast: 1
+ extractor - object: 1
+ flow - graph: 1
+ inordin - delai: 1
+ multimedia - applic: 1
+ multimedia - docum: 3
+ multimedia - stream: 1
+ network - server: 1
+ object - extractor: 1
+ object - represent: 1
+ object - schedul: 1
+ ongo - project: 1
+ oper - flow: 1
+ optim - perform: 1
+ optim - problem: 1
+ perform - subject: 1
+ plan - techniqu: 1
+ plan - tool: 1
+ preced - relat: 1
+ realtim - applic: 1
+ realtim - constraint: 1
+ represent - object: 1
+ resourc - manag: 1
+ retriev - cost: 1
+ server - resourc: 1
+ softwar - modul: 1
+ stagger - number: 1
+ system - tuner: 1
+ video - conferenc: 1
+ webcap - project: 1
+ web - resourc: 2
+
+PageRank scores count: 47
+ applic: 0.01845598050056617
+ broadcast: 0.021406623151126906
+ capac: 0.011571147649257785
+ challeng: 0.011571147649257785
+ client: 0.011571147649257785
+ conferenc: 0.036872908377816094
+ constraint: 0.016488885400192343
+ cost: 0.021406623151126906
+ delai: 0.021406623151126906
+ docum: 0.017472432950379257
+ educ: 0.011571147649257785
+ extractor: 0.028648827236835542
+ flow: 0.021406623151126906
+ graph: 0.02976677732771565
+ inordin: 0.011571147649257785
+ manag: 0.05127327394699022
+ modul: 0.021406623151126906
+ multimedia: 0.011571147649257785
+ network: 0.021406623151126906
+ number: 0.021406623151126906
+ object: 0.06027414707915056
+ ongo: 0.011571147649257785
+ oper: 0.011571147649257785
+ optim: 0.021406623151126906
+ perform: 0.02066896248848672
+ plan: 0.021406623151126906
+ preced: 0.011571147649257785
+ problem: 0.02066896248848672
+ project: 0.03124209865299602
+ realtim: 0.011571147649257785
+ relat: 0.021406623151126906
+ represent: 0.028648827236835542
+ resourc: 0.04670838387968521
+ retriev: 0.011571147649257785
+ schedul: 0.028648827236835542
+ server: 0.02976677732771565
+ softwar: 0.011571147649257785
+ stagger: 0.011571147649257785
+ stream: 0.013538242749631611
+ subject: 0.029139765764471498
+ system: 0.011571147649257785
+ techniqu: 0.02066896248848672
+ tool: 0.02066896248848672
+ tuner: 0.021406623151126906
+ video: 0.02976677732771565
+ web: 0.011571147649257785
+ webcap: 0.011571147649257785
+
+N-grams list: 10
+ object extractor object
+ represent object schedul
+ web resourc manag
+ server resourc
+ optim perform subject
+ educ broadcast video
+ client network server
+ oper flow graph
+ object
+ web resourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,52 @@
+File name: 887601
+
+Graph edges count: 13
+ automat - web: 1
+ contextbas - method: 1
+ docum - summar: 1
+ dynam - content: 1
+ dynam - natur: 1
+ fix - content: 1
+ main - type: 1
+ page - descrip: 1
+ page - summar: 1
+ tempor - dimen: 1
+ timeawar - techniqu: 1
+ web - docum: 2
+ web - page: 4
+
+PageRank scores count: 18
+ automat: 0.03501507836812228
+ content: 0.0796593032874782
+ contextbas: 0.03501507836812228
+ descrip: 0.0654971630491714
+ dimen: 0.06477789498102621
+ docum: 0.05336881527941304
+ dynam: 0.03501507836812228
+ fix: 0.03501507836812228
+ main: 0.03501507836812228
+ method: 0.06477789498102621
+ natur: 0.04989648667457425
+ page: 0.07172255219070381
+ summar: 0.11086065603667249
+ techniqu: 0.06477789498102621
+ tempor: 0.03501507836812228
+ timeawar: 0.03501507836812228
+ type: 0.06477789498102621
+ web: 0.06477789498102621
+
+N-grams list: 10
+ web page summar
+ web docum summar
+ automat web page
+ web page
+ web docum
+ fix content
+ dynam content
+ main type
+ timeawar techniqu
+ tempor dimen
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

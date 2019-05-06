@@ -1,0 +1,87 @@
+File name: 97953
+
+Graph edges count: 28
+ content - structur: 1
+ docum - retriev: 1
+ expan - term: 1
+ good - inform: 1
+ improv - relev: 1
+ inform - retriev: 2
+ inform - unit: 1
+ interac - part: 1
+ irrelev - inform: 1
+ multipl - topic: 1
+ navig - decor: 1
+ page - segment: 3
+ perform - improv: 1
+ queri - expan: 1
+ relev - feedback: 2
+ segment - method: 1
+ segment - scheme: 1
+ semant - content: 1
+ semant - level: 1
+ simpl - dom: 1
+ track - dataset: 1
+ tradition - docum: 1
+ vip - algorithm: 1
+ visionbas - page: 1
+ visual - cue: 1
+ web - inform: 2
+ web - page: 3
+ web - track: 1
+
+PageRank scores count: 38
+ algorithm: 0.028051952975070717
+ content: 0.021607585399716633
+ cue: 0.028051952975070717
+ dataset: 0.02987785712142104
+ decor: 0.028051952975070717
+ docum: 0.028051952975070717
+ dom: 0.028051952975070717
+ expan: 0.028051952975070717
+ feedback: 0.04831948899955931
+ good: 0.01516321782436255
+ improv: 0.028051952975070717
+ inform: 0.045236933176014946
+ interac: 0.01516321782436255
+ irrelev: 0.01516321782436255
+ level: 0.021607585399716633
+ method: 0.03406938119855759
+ multipl: 0.01516321782436255
+ navig: 0.01516321782436255
+ page: 0.0344963205504248
+ part: 0.028051952975070717
+ perform: 0.01516321782436255
+ queri: 0.01516321782436255
+ relev: 0.03900737785317266
+ retriev: 0.06464163998624779
+ scheme: 0.03406938119855759
+ segment: 0.04448509029222363
+ semant: 0.01516321782436255
+ simpl: 0.01516321782436255
+ structur: 0.03352966541412168
+ term: 0.03900737785317266
+ topic: 0.028051952975070717
+ track: 0.017311340349480578
+ tradition: 0.01516321782436255
+ unit: 0.027980348890900116
+ vip: 0.01516321782436255
+ visionbas: 0.01516321782436255
+ visual: 0.01516321782436255
+ web: 0.01516321782436255
+
+N-grams list: 10
+ web inform retriev
+ improv relev feedback
+ page segment scheme
+ tradition docum retriev
+ visionbas page segment
+ web page segment
+ good inform unit
+ relev feedback
+ queri expan term
+ segment method
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

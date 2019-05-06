@@ -1,0 +1,92 @@
+File name: 10119
+
+Graph edges count: 32
+ analysi - techniqu: 1
+ applic - area: 1
+ autom - composi: 1
+ autom - reason: 1
+ back - end: 1
+ broad - applic: 1
+ composit - servic: 1
+ composi - tool: 1
+ damloil - ontologi: 1
+ daml - composit: 1
+ daml - damloil: 1
+ daml - descrip: 1
+ decision - procedur: 1
+ firstord - logic: 1
+ kei - applic: 1
+ logic - languag: 1
+ manual - web: 1
+ net - formal: 1
+ petri - net: 2
+ reason - technologi: 1
+ relev - subset: 1
+ semant - web: 2
+ servic - composi: 1
+ servic - descrip: 1
+ servic - develop: 1
+ servic - simul: 1
+ servic - task: 1
+ servic - web: 1
+ simul - verif: 2
+ standalon - tool: 1
+ webaccess - program: 1
+ web - servic: 10
+
+PageRank scores count: 39
+ analysi: 0.014259481418257799
+ applic: 0.03850059982929606
+ area: 0.04698499127315944
+ autom: 0.014259481418257799
+ back: 0.014259481418257799
+ broad: 0.014259481418257799
+ composi: 0.0303924767348734
+ composit: 0.01829966782009751
+ daml: 0.014259481418257799
+ damloil: 0.01829966782009751
+ decision: 0.014259481418257799
+ descrip: 0.02837238353395355
+ develop: 0.024332197132113837
+ end: 0.026380040623776926
+ firstord: 0.014259481418257799
+ formal: 0.036682515948468185
+ kei: 0.014259481418257799
+ languag: 0.036682515948468185
+ logic: 0.026380040623776926
+ manual: 0.014259481418257799
+ net: 0.026380040623776926
+ ontologi: 0.02981419906534068
+ petri: 0.014259481418257799
+ procedur: 0.026380040623776926
+ program: 0.026380040623776926
+ reason: 0.020319761021017364
+ relev: 0.014259481418257799
+ semant: 0.014259481418257799
+ servic: 0.07110151709421006
+ simul: 0.024332197132113837
+ standalon: 0.014259481418257799
+ subset: 0.026380040623776926
+ task: 0.024332197132113837
+ techniqu: 0.026380040623776926
+ technologi: 0.03153127828612256
+ tool: 0.052213645665609404
+ verif: 0.03494184879774465
+ web: 0.04857331554315209
+ webaccess: 0.014259481418257799
+
+N-grams list: 10
+ web servic web
+ web servic task
+ web servic develop
+ web servic simul
+ manual web servic
+ web servic
+ daml composit servic
+ kei applic area
+ servic descrip
+ composi tool
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

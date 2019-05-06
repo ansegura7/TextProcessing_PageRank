@@ -1,0 +1,58 @@
+File name: 395645
+
+Graph edges count: 15
+ adapt - elearn: 2
+ adapt - hypermedia: 1
+ adapt - system: 1
+ architectur - attempt: 1
+ componentbas - assembli: 1
+ integr - architectur: 1
+ intellig - learn: 1
+ intellig - tutor: 1
+ learn - activ: 1
+ manag - system: 1
+ popular - approach: 1
+ reusabl - intellig: 1
+ teacherlevel - reusabl: 1
+ underus - technologi: 1
+ webbas - educ: 1
+
+PageRank scores count: 22
+ activ: 0.07739467629163502
+ adapt: 0.027846666854051537
+ approach: 0.051516333679995335
+ architectur: 0.051516333679995335
+ assembli: 0.051516333679995335
+ attempt: 0.07163555048204757
+ componentbas: 0.027846666854051537
+ educ: 0.051516333679995335
+ elearn: 0.0357365557960328
+ hypermedia: 0.0357365557960328
+ integr: 0.027846666854051537
+ intellig: 0.07163555048204757
+ learn: 0.05829177580892175
+ manag: 0.027846666854051537
+ popular: 0.027846666854051537
+ reusabl: 0.051516333679995335
+ system: 0.05940622262197661
+ teacherlevel: 0.027846666854051537
+ technologi: 0.051516333679995335
+ tutor: 0.05829177580892175
+ underus: 0.027846666854051537
+ webbas: 0.027846666854051537
+
+N-grams list: 10
+ reusabl intellig learn
+ integr architectur attempt
+ intellig tutor
+ manag system
+ adapt system
+ teacherlevel reusabl
+ webbas educ
+ popular approach
+ underus technologi
+ componentbas assembli
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

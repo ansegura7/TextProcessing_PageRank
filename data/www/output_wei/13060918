@@ -1,0 +1,99 @@
+File name: 13060918
+
+Graph edges count: 34
+ applic - composi: 1
+ case - studi: 1
+ collabor - work: 1
+ complex - task: 1
+ consult - annot: 1
+ dblp - web: 1
+ desktop - environ: 3
+ desktop - metaphor: 2
+ embed - mindmap: 1
+ explor - paradigm: 1
+ file - explor: 1
+ googl - picasa: 1
+ mindmap - metaphor: 1
+ minim - delai: 1
+ picasa - web: 1
+ power - mechan: 1
+ project - manag: 1
+ radic - differ: 1
+ simpl - task: 1
+ site - wikipedia: 1
+ ubiquit - access: 1
+ userdriven - composi: 2
+ user - interfac: 1
+ web - applic: 11
+ web - browser: 2
+ web - content: 1
+ web - desktop: 1
+ web - environ: 1
+ web - resourc: 1
+ web - site: 1
+ wide - rang: 1
+ wide - web: 1
+ work - project: 1
+ world - wide: 1
+
+PageRank scores count: 44
+ access: 0.024350848617362305
+ annot: 0.024350848617362305
+ applic: 0.041938898021587005
+ browser: 0.018394671264674825
+ case: 0.013162620874249895
+ collabor: 0.013162620874249895
+ complex: 0.013162620874249895
+ composi: 0.05999891193571126
+ consult: 0.013162620874249895
+ content: 0.01577864606946236
+ dblp: 0.013162620874249895
+ delai: 0.024350848617362305
+ desktop: 0.01577864606946236
+ differ: 0.024350848617362305
+ embed: 0.013162620874249895
+ environ: 0.02382575556488816
+ explor: 0.024350848617362305
+ file: 0.013162620874249895
+ googl: 0.013162620874249895
+ interfac: 0.024350848617362305
+ manag: 0.04194433674340657
+ mechan: 0.024350848617362305
+ metaphor: 0.03922558186262505
+ mindmap: 0.024350848617362305
+ minim: 0.013162620874249895
+ paradigm: 0.033860842199007854
+ picasa: 0.024350848617362305
+ power: 0.013162620874249895
+ project: 0.033860842199007854
+ radic: 0.013162620874249895
+ rang: 0.023511731536628874
+ resourc: 0.01577864606946236
+ simpl: 0.013162620874249895
+ site: 0.01577864606946236
+ studi: 0.024350848617362305
+ task: 0.035539076360474715
+ ubiquit: 0.013162620874249895
+ user: 0.013162620874249895
+ userdriven: 0.013162620874249895
+ web: 0.05539818060449924
+ wide: 0.024350848617362305
+ wikipedia: 0.0265744700332929
+ work: 0.024350848617362305
+ world: 0.013162620874249895
+
+N-grams list: 10
+ web applic composi
+ web applic
+ googl picasa web
+ world wide web
+ dblp web site
+ web environ
+ web browser
+ userdriven composi
+ file explor paradigm
+ collabor work project
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

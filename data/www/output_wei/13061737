@@ -1,0 +1,61 @@
+File name: 13061737
+
+Graph edges count: 17
+ actual - distribu: 2
+ averag - precision: 1
+ cascad - model: 1
+ effect - measur: 6
+ engin - effect: 1
+ entropi - assump: 1
+ entropi - method: 2
+ intentawar - effect: 2
+ intentawar - measur: 1
+ maximum - entropi: 3
+ previou - work: 1
+ relev - docum: 1
+ result - list: 1
+ retriev - measur: 1
+ search - engin: 1
+ tradition - effect: 1
+ tradition - relev: 1
+
+PageRank scores count: 23
+ actual: 0.025716333836587703
+ assump: 0.03919597882259909
+ averag: 0.025716333836587703
+ cascad: 0.025716333836587703
+ distribu: 0.04757521759768725
+ docum: 0.05686524319615456
+ effect: 0.09165729984923801
+ engin: 0.04757521759768725
+ entropi: 0.04757521759768725
+ intentawar: 0.025716333836587703
+ list: 0.04757521759768725
+ maximum: 0.025716333836587703
+ measur: 0.13277021705657274
+ method: 0.05267562380861048
+ model: 0.04757521759768725
+ precision: 0.04757521759768725
+ previou: 0.025716333836587703
+ relev: 0.03664577571713748
+ result: 0.025716333836587703
+ retriev: 0.025716333836587703
+ search: 0.025716333836587703
+ tradition: 0.025716333836587703
+ work: 0.04757521759768725
+
+N-grams list: 10
+ intentawar effect measur
+ tradition effect measur
+ effect measur
+ search engin effect
+ intentawar measur
+ retriev measur
+ measur
+ maximum entropi method
+ maximum entropi assump
+ relev docum
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

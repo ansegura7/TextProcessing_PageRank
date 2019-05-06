@@ -1,0 +1,79 @@
+File name: 13064722
+
+Graph edges count: 24
+ base - framework: 1
+ categori - inform: 1
+ categori - time: 1
+ classif - base: 1
+ classif - problem: 1
+ concept - summar: 1
+ coverag - divers: 1
+ dirichlet - alloc: 1
+ experiment - result: 1
+ good - summari: 1
+ import - properti: 1
+ import - vector: 2
+ import - visual: 1
+ kernel - logist: 1
+ latent - dirichlet: 1
+ logist - regres: 1
+ machin - formul: 1
+ metadata - inform: 1
+ semant - properti: 1
+ small - number: 1
+ stateoftheart - summar: 1
+ summar - method: 1
+ underli - classif: 1
+ vector - machin: 1
+
+PageRank scores count: 34
+ alloc: 0.04539308692842318
+ base: 0.031519300884702006
+ categori: 0.017645514840980828
+ classif: 0.032644202455814536
+ concept: 0.017645514840980828
+ coverag: 0.017645514840980828
+ dirichlet: 0.032644202455814536
+ divers: 0.032644202455814536
+ experiment: 0.017645514840980828
+ formul: 0.050811362829281864
+ framework: 0.04443692059297754
+ good: 0.017645514840980828
+ import: 0.017645514840980828
+ inform: 0.04014354626323138
+ kernel: 0.017645514840980828
+ latent: 0.017645514840980828
+ logist: 0.032644202455814536
+ machin: 0.03901864469211886
+ metadata: 0.017645514840980828
+ method: 0.05814197140103182
+ number: 0.032644202455814536
+ problem: 0.031519300884702006
+ properti: 0.03639387435952296
+ regres: 0.04539308692842318
+ result: 0.032644202455814536
+ semant: 0.017645514840980828
+ small: 0.017645514840980828
+ stateoftheart: 0.017645514840980828
+ summar: 0.04764289007064824
+ summari: 0.032644202455814536
+ time: 0.025144858648397682
+ underli: 0.017645514840980828
+ vector: 0.025144858648397682
+ visual: 0.021395186744689255
+
+N-grams list: 10
+ stateoftheart summar method
+ classif base framework
+ kernel logist regres
+ latent dirichlet alloc
+ import vector machin
+ underli classif problem
+ concept summar
+ method
+ categori inform
+ metadata inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

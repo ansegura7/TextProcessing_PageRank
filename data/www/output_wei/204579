@@ -1,0 +1,119 @@
+File name: 204579
+
+Graph edges count: 47
+ alias - payload: 2
+ browser - cach: 2
+ cach - hierarchi: 1
+ cach - manag: 2
+ client - trace: 1
+ compaq - corpor: 1
+ conven - cach: 2
+ conven - web: 1
+ data - payload: 1
+ hopbyhop - protocol: 1
+ ident - data: 1
+ implic - alias: 1
+ infinitecapac - conven: 1
+ larg - client: 1
+ larg - number: 1
+ larg - proxi: 1
+ manag - polici: 1
+ multipl - url: 1
+ payload - size: 1
+ payload - transfer: 5
+ perform - impact: 1
+ perform - implic: 1
+ protocol - exten: 1
+ proxi - trace: 1
+ proxytobrows - payload: 1
+ redund - payload: 2
+ redund - proxytobrows: 1
+ redund - transfer: 2
+ repli - metadata: 1
+ repli - payload: 1
+ research - literatur: 1
+ resultsurlindex - cach: 1
+ set - size: 1
+ share - proxi: 1
+ similar - resultsurlindex: 1
+ simpl - hopbyhop: 1
+ success - transac: 1
+ transfer - due: 1
+ urlindex - cach: 1
+ useriniti - transac: 1
+ webtv - network: 1
+ webtv - system: 1
+ webtv - workload: 1
+ web - cach: 1
+ web - transac: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 51
+ alias: 0.020730279992770394
+ browser: 0.009374914637770671
+ cach: 0.06222052720799745
+ client: 0.012031140451805694
+ compaq: 0.009374914637770671
+ conven: 0.01734359207987574
+ corpor: 0.01734359207987574
+ data: 0.01734359207987574
+ due: 0.055113981808424306
+ exten: 0.02987433735758596
+ hierarchi: 0.02700406401336995
+ hopbyhop: 0.01734359207987574
+ ident: 0.009374914637770671
+ impact: 0.013359253358823205
+ implic: 0.013359253358823205
+ infinitecapac: 0.009374914637770671
+ larg: 0.009374914637770671
+ literatur: 0.01734359207987574
+ manag: 0.04463321338896922
+ metadata: 0.013359253358823205
+ multipl: 0.009374914637770671
+ network: 0.012031140451805694
+ number: 0.012031140451805694
+ payload: 0.05823286820467738
+ perform: 0.009374914637770671
+ polici: 0.04731314601839451
+ protocol: 0.02411696790566505
+ proxi: 0.019999817893910764
+ proxytobrows: 0.010968650126191684
+ redund: 0.009374914637770671
+ repli: 0.009374914637770671
+ research: 0.009374914637770671
+ resultsurlindex: 0.01734359207987574
+ set: 0.009374914637770671
+ share: 0.009374914637770671
+ similar: 0.009374914637770671
+ simpl: 0.009374914637770671
+ size: 0.025593248408871703
+ success: 0.009374914637770671
+ system: 0.012031140451805694
+ trace: 0.03660122923162966
+ transac: 0.03765043842817349
+ transfer: 0.053810667259592514
+ url: 0.01734359207987574
+ urlindex: 0.009374914637770671
+ useriniti: 0.009374914637770671
+ web: 0.029030985661629843
+ webtv: 0.009374914637770671
+ wide: 0.01734359207987574
+ workload: 0.012031140451805694
+ world: 0.009374914637770671
+
+N-grams list: 10
+ redund payload transfer
+ urlindex cach manag
+ browser cach manag
+ payload transfer
+ conven web cach
+ similar resultsurlindex cach
+ infinitecapac conven cach
+ ident data payload
+ payload size
+ conven cach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

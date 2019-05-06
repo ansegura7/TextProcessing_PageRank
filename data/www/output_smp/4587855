@@ -1,0 +1,69 @@
+File name: 4587855
+
+Graph edges count: 20
+ activ - commun: 1
+ activ - contribu: 1
+ activ - particip: 1
+ commun - network: 1
+ cultur - capit: 4
+ cultur - code: 1
+ discus - forum: 1
+ great - interest: 1
+ inform - overload: 1
+ invis - particip: 1
+ main - hypothesi: 1
+ onlin - commun: 1
+ onlin - forum: 1
+ open - univers: 1
+ passiv - atten: 1
+ recept - particip: 1
+ situat - anteced: 1
+ situat - variabl: 1
+ social - commun: 1
+ virtual - commun: 2
+
+PageRank scores count: 28
+ activ: 0.02336607829583402
+ anteced: 0.033296661571563475
+ atten: 0.04322724484729293
+ capit: 0.033296661571563475
+ code: 0.033296661571563475
+ commun: 0.07963938352496762
+ contribu: 0.02998646714632032
+ cultur: 0.02336607829583402
+ discus: 0.02336607829583402
+ forum: 0.05315782812302238
+ great: 0.02336607829583402
+ hypothesi: 0.04322724484729293
+ inform: 0.02336607829583402
+ interest: 0.04322724484729293
+ invis: 0.02336607829583402
+ main: 0.02336607829583402
+ network: 0.09105955429205648
+ onlin: 0.02336607829583402
+ open: 0.02336607829583402
+ overload: 0.04322724484729293
+ particip: 0.06970880024923816
+ passiv: 0.02336607829583402
+ recept: 0.02336607829583402
+ situat: 0.02336607829583402
+ social: 0.02336607829583402
+ univers: 0.04322724484729293
+ variabl: 0.033296661571563475
+ virtual: 0.02336607829583402
+
+N-grams list: 10
+ social commun network
+ activ commun
+ virtual commun
+ onlin commun
+ invis particip
+ recept particip
+ activ particip
+ commun
+ onlin forum
+ discus forum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

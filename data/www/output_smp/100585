@@ -1,0 +1,51 @@
+File name: 100585
+
+Graph edges count: 12
+ infecti - diseas: 1
+ inform - diffusion: 1
+ inform - propag: 1
+ larg - collec: 1
+ lowoverhead - person: 1
+ macroscop - character: 1
+ person - publish: 1
+ propag - network: 1
+ scopic - character: 1
+ topic - propag: 1
+ underli - propag: 1
+ world - event: 1
+
+PageRank scores count: 18
+ character: 0.0903652261222441
+ collec: 0.06191691419487095
+ diffusion: 0.04769275823118438
+ diseas: 0.06191691419487095
+ event: 0.06191691419487095
+ infecti: 0.03346860226749781
+ inform: 0.03346860226749781
+ larg: 0.03346860226749781
+ lowoverhead: 0.03346860226749781
+ macroscop: 0.03346860226749781
+ network: 0.12236957704053887
+ person: 0.06191691419487095
+ propag: 0.10458938208593066
+ publish: 0.08609797933313812
+ scopic: 0.03346860226749781
+ topic: 0.03346860226749781
+ underli: 0.03346860226749781
+ world: 0.03346860226749781
+
+N-grams list: 10
+ underli propag network
+ lowoverhead person publish
+ topic propag
+ inform propag
+ macroscop character
+ scopic character
+ propag
+ larg collec
+ infecti diseas
+ world event
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,62 @@
+File name: 804815
+
+Graph edges count: 17
+ approxim - duplic: 2
+ approxim - string: 2
+ data - integr: 4
+ data - set: 1
+ dimension - grid: 1
+ experiment - result: 1
+ grid - space: 1
+ high - dimension: 1
+ integr - algorithm: 1
+ map - method: 1
+ oracl - sql: 1
+ real - data: 1
+ real - world: 1
+ textual - represent: 1
+ web - data: 2
+ web - mine: 1
+ world - entiti: 1
+
+PageRank scores count: 24
+ algorithm: 0.0648027675428086
+ approxim: 0.025732615607796334
+ data: 0.04760533887442322
+ dimension: 0.04760533887442322
+ duplic: 0.036668977241109776
+ entiti: 0.056901246262739645
+ experiment: 0.025732615607796334
+ grid: 0.06619715365105606
+ high: 0.025732615607796334
+ integr: 0.0459648846294262
+ map: 0.025732615607796334
+ method: 0.04760533887442322
+ mine: 0.036668977241109776
+ oracl: 0.025732615607796334
+ real: 0.025732615607796334
+ represent: 0.04760533887442322
+ result: 0.04760533887442322
+ set: 0.0459648846294262
+ space: 0.08200019621119398
+ sql: 0.04760533887442322
+ string: 0.036668977241109776
+ textual: 0.025732615607796334
+ web: 0.025732615607796334
+ world: 0.036668977241109776
+
+N-grams list: 10
+ data integr algorithm
+ high dimension grid
+ real data set
+ web data integr
+ real world entiti
+ data integr
+ space
+ map method
+ experiment result
+ oracl sql
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

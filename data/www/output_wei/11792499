@@ -1,0 +1,104 @@
+File name: 11792499
+
+Graph edges count: 34
+ activityact - correl: 1
+ activ - histori: 1
+ activ - recommend: 1
+ addition - input: 1
+ collabor - locat: 1
+ collect - matrix: 1
+ daili - life: 1
+ exerc - facil: 1
+ factor - method: 1
+ geograph - databas: 1
+ gp - dataset: 1
+ gp - histori: 1
+ histori - data: 1
+ interest - locat: 3
+ larg - citi: 1
+ larg - gp: 1
+ locationbas - servic: 1
+ locationbas - social: 1
+ locationrel - queri: 1
+ locat - data: 2
+ locat - featur: 1
+ matrix - factor: 1
+ nest - build: 1
+ nest - etc: 1
+ nice - food: 1
+ olymp - park: 1
+ outdoor - exerc: 1
+ social - network: 1
+ specif - activ: 1
+ specif - place: 1
+ squar - bird: 1
+ stateoftheart - baselin: 1
+ tiananmen - squar: 1
+ tour - guid: 1
+
+PageRank scores count: 49
+ activ: 0.018035135291200186
+ activityact: 0.012656235292070305
+ addition: 0.012656235292070305
+ baselin: 0.023414035290330065
+ bird: 0.03255816528885086
+ build: 0.018035135291200186
+ citi: 0.018035135291200186
+ collabor: 0.012656235292070305
+ collect: 0.012656235292070305
+ correl: 0.023414035290330065
+ daili: 0.012656235292070305
+ data: 0.05580846053508977
+ databas: 0.023414035290330065
+ dataset: 0.020321167790830385
+ etc: 0.018035135291200186
+ exerc: 0.023414035290330065
+ facil: 0.03255816528885086
+ factor: 0.03255816528885086
+ featur: 0.02233825529050409
+ food: 0.023414035290330065
+ geograph: 0.012656235292070305
+ gp: 0.018035135291200186
+ guid: 0.023414035290330065
+ histori: 0.027986100289590466
+ input: 0.023414035290330065
+ interest: 0.012656235292070305
+ larg: 0.012656235292070305
+ life: 0.023414035290330065
+ locat: 0.03417183528858982
+ locationbas: 0.012656235292070305
+ locationrel: 0.012656235292070305
+ matrix: 0.023414035290330065
+ method: 0.040330675787593535
+ nest: 0.012656235292070305
+ network: 0.027986100289590466
+ nice: 0.012656235292070305
+ olymp: 0.012656235292070305
+ outdoor: 0.012656235292070305
+ park: 0.023414035290330065
+ place: 0.018035135291200186
+ queri: 0.023414035290330065
+ recommend: 0.020321167790830385
+ servic: 0.018035135291200186
+ social: 0.018035135291200186
+ specif: 0.012656235292070305
+ squar: 0.023414035290330065
+ stateoftheart: 0.012656235292070305
+ tiananmen: 0.012656235292070305
+ tour: 0.012656235292070305
+
+N-grams list: 10
+ gp histori data
+ locat data
+ tiananmen squar bird
+ outdoor exerc facil
+ collect matrix factor
+ locationbas social network
+ locat featur
+ larg gp dataset
+ collabor locat
+ interest locat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

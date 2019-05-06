@@ -1,0 +1,77 @@
+File name: 178963
+
+Graph edges count: 23
+ crucial - inform: 1
+ current - recommend: 1
+ flickr - data: 1
+ imag - retriev: 1
+ irrelev - tag: 1
+ largescal - web: 1
+ learningbas - multimod: 1
+ learn - problem: 1
+ loss - tag: 1
+ multimod - recommend: 2
+ optim - combin: 1
+ rankboost - algorithm: 1
+ rank - featur: 2
+ recommend - strategi: 1
+ relat - tag: 1
+ semant - loss: 2
+ semant - object: 1
+ singl - modal: 1
+ social - tag: 1
+ tag - cooccurr: 1
+ tag - recommend: 2
+ visual - correl: 2
+ web - imag: 1
+
+PageRank scores count: 33
+ algorithm: 0.03034325732970981
+ combin: 0.03034325732970981
+ cooccurr: 0.04959123608819954
+ correl: 0.03034325732970981
+ crucial: 0.016401760718762058
+ current: 0.016401760718762058
+ data: 0.03034325732970981
+ featur: 0.03034325732970981
+ flickr: 0.016401760718762058
+ imag: 0.0421935294490154
+ inform: 0.03034325732970981
+ irrelev: 0.016401760718762058
+ largescal: 0.016401760718762058
+ learn: 0.016401760718762058
+ learningbas: 0.016401760718762058
+ loss: 0.023372509024235932
+ modal: 0.03034325732970981
+ multimod: 0.03034325732970981
+ object: 0.023372509024235932
+ optim: 0.016401760718762058
+ problem: 0.03034325732970981
+ rank: 0.016401760718762058
+ rankboost: 0.016401760718762058
+ recommend: 0.08932450142940064
+ relat: 0.016401760718762058
+ retriev: 0.05226626075042515
+ semant: 0.016401760718762058
+ singl: 0.016401760718762058
+ social: 0.016401760718762058
+ strategi: 0.0923275869337526
+ tag: 0.07809288322220585
+ visual: 0.016401760718762058
+ web: 0.03034325732970981
+
+N-grams list: 10
+ tag recommend
+ learningbas multimod recommend
+ tag cooccurr
+ multimod recommend
+ semant loss tag
+ current recommend
+ irrelev tag
+ social tag
+ relat tag
+ strategi
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

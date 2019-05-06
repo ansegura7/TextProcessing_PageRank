@@ -1,0 +1,41 @@
+File name: 333547
+
+Graph edges count: 8
+ distant - time: 1
+ predict - accuraci: 1
+ probabilist - model: 1
+ search - topic: 1
+ tempor - dynam: 1
+ topic - dynam: 3
+ topic - transition: 2
+ web - search: 1
+
+PageRank scores count: 12
+ accuraci: 0.09245781612139461
+ distant: 0.04997719790345655
+ dynam: 0.158026650340782
+ model: 0.09245781612139461
+ predict: 0.04997719790345655
+ probabilist: 0.04997719790345655
+ search: 0.09245781612139461
+ tempor: 0.04997719790345655
+ time: 0.09245781612139461
+ topic: 0.12856634160664196
+ transition: 0.09368975404971482
+ web: 0.04997719790345655
+
+N-grams list: 10
+ search topic dynam
+ topic dynam
+ topic transition
+ tempor dynam
+ probabilist model
+ web search
+ distant time
+ predict accuraci
+ model
+ accuraci
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

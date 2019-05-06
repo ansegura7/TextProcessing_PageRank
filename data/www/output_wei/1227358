@@ -1,0 +1,66 @@
+File name: 1227358
+
+Graph edges count: 20
+ anim - typograph: 1
+ annot - techniqu: 1
+ arakn - environ: 1
+ css - xlink: 1
+ docum - project: 1
+ dom - css: 1
+ fluid - annot: 3
+ fluid - docum: 1
+ fluid - open: 1
+ hypermedia - applic: 1
+ hypermedia - prototyp: 1
+ hypermedia - structur: 1
+ open - hypermedia: 3
+ power - annot: 1
+ recentlydevelop - fluid: 1
+ research - prototyp: 1
+ thirdparti - web: 1
+ web - page: 2
+ web - standard: 2
+ xlink - xpointer: 1
+
+PageRank scores count: 25
+ anim: 0.02259224491258651
+ annot: 0.06311143616331041
+ applic: 0.036145530317790144
+ arakn: 0.02259224491258651
+ css: 0.04179565308828505
+ docum: 0.029697505937594973
+ dom: 0.02259224491258651
+ environ: 0.04179565308828505
+ fluid: 0.04179565308828505
+ hypermedia: 0.04783512495954224
+ open: 0.029697505937594973
+ page: 0.040355397475107656
+ power: 0.02259224491258651
+ project: 0.04783512495954224
+ prototyp: 0.05534893849348868
+ recentlydevelop: 0.02259224491258651
+ research: 0.02259224491258651
+ standard: 0.040355397475107656
+ structur: 0.036145530317790144
+ techniqu: 0.07623696565140035
+ thirdparti: 0.02259224491258651
+ typograph: 0.04179565308828505
+ web: 0.04179565308828505
+ xlink: 0.05811855003762881
+ xpointer: 0.071993012444571
+
+N-grams list: 10
+ power annot techniqu
+ dom css xlink
+ fluid docum project
+ open hypermedia applic
+ fluid annot
+ thirdparti web page
+ hypermedia prototyp
+ recentlydevelop fluid open
+ hypermedia structur
+ web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

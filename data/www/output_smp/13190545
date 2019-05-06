@@ -1,0 +1,96 @@
+File name: 13190545
+
+Graph edges count: 32
+ aggreg - new: 1
+ algorithm - capabl: 1
+ approach - scale: 1
+ carlo - estim: 1
+ cluster - categor: 1
+ dynam - data: 1
+ effici - parallel: 1
+ group - incom: 1
+ hybrid - cluster: 1
+ incom - new: 1
+ infer - algorithm: 1
+ internet - new: 1
+ kei - compon: 1
+ kei - entiti: 1
+ major - internet: 1
+ memori - cost: 1
+ mont - carlo: 1
+ new - articl: 2
+ new - cluster: 1
+ new - new: 1
+ new - portal: 1
+ new - site: 1
+ parallel - infer: 1
+ preval - topic: 1
+ sequenti - mont: 1
+ stream - new: 1
+ tdt - dataset: 1
+ tempor - structur: 1
+ tightlyfocus - storylin: 1
+ topic - model: 1
+ unifi - analysi: 1
+ unifi - framework: 1
+
+PageRank scores count: 43
+ aggreg: 0.012481228484935231
+ algorithm: 0.039772994720806726
+ analysi: 0.0177857505910327
+ approach: 0.012481228484935231
+ articl: 0.027423364728250476
+ capabl: 0.04628827399762094
+ carlo: 0.03210796027749588
+ categor: 0.04480877807379265
+ cluster: 0.03803240894044543
+ compon: 0.0177857505910327
+ cost: 0.023090272697130175
+ data: 0.023090272697130175
+ dataset: 0.023090272697130175
+ dynam: 0.012481228484935231
+ effici: 0.012481228484935231
+ entiti: 0.0177857505910327
+ estim: 0.039772994720806726
+ framework: 0.0177857505910327
+ group: 0.012481228484935231
+ hybrid: 0.012481228484935231
+ incom: 0.023090272697130175
+ infer: 0.03210796027749588
+ internet: 0.023090272697130175
+ kei: 0.012481228484935231
+ major: 0.012481228484935231
+ memori: 0.012481228484935231
+ model: 0.03210796027749588
+ mont: 0.023090272697130175
+ new: 0.08789491673776167
+ parallel: 0.023090272697130175
+ portal: 0.027423364728250476
+ preval: 0.012481228484935231
+ scale: 0.023090272697130175
+ sequenti: 0.012481228484935231
+ site: 0.027423364728250476
+ storylin: 0.023090272697130175
+ stream: 0.012481228484935231
+ structur: 0.023090272697130175
+ tdt: 0.012481228484935231
+ tempor: 0.012481228484935231
+ tightlyfocus: 0.012481228484935231
+ topic: 0.023090272697130175
+ unifi: 0.012481228484935231
+
+N-grams list: 10
+ stream new new
+ aggreg new articl
+ major internet new
+ group incom new
+ new portal
+ algorithm capabl
+ cluster categor
+ sequenti mont carlo
+ effici parallel infer
+ topic model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

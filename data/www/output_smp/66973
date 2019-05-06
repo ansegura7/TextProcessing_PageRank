@@ -1,0 +1,73 @@
+File name: 66973
+
+Graph edges count: 25
+ altern - approach: 1
+ comput - web: 1
+ design - choic: 1
+ displai - updat: 1
+ fat - client: 2
+ high - packet: 1
+ lossi - network: 1
+ lossi - wireless: 4
+ loss - rate: 1
+ mobil - client: 1
+ mobil - wireless: 1
+ packet - loss: 1
+ remot - thin: 1
+ superior - web: 1
+ thinclient - approach: 1
+ thinclient - comput: 2
+ thinclient - system: 1
+ thin - client: 3
+ thin - server: 2
+ web - applic: 2
+ web - browser: 3
+ wireless - lan: 1
+ wireless - network: 4
+ wireless - system: 2
+ wireless - thinclient: 2
+
+PageRank scores count: 27
+ altern: 0.02150353745202828
+ applic: 0.04924508228252168
+ approach: 0.0482693937098951
+ browser: 0.04924508228252168
+ choic: 0.039781544286252316
+ client: 0.06582770402502157
+ comput: 0.029991386875671065
+ design: 0.02150353745202828
+ displai: 0.02150353745202828
+ fat: 0.02150353745202828
+ high: 0.02150353745202828
+ lan: 0.029957115612856897
+ loss: 0.05531785009534275
+ lossi: 0.02150353745202828
+ mobil: 0.02150353745202828
+ network: 0.03909611902996891
+ packet: 0.039781544286252316
+ rate: 0.06852371003306962
+ remot: 0.02150353745202828
+ server: 0.038410693773685514
+ superior: 0.02150353745202828
+ system: 0.03844496503649968
+ thin: 0.039781544286252316
+ thinclient: 0.029957115612856897
+ updat: 0.039781544286252316
+ web: 0.06527422313057273
+ wireless: 0.039781544286252316
+
+N-grams list: 10
+ high packet loss
+ web applic
+ web browser
+ thin client
+ lossi wireless network
+ wireless thinclient comput
+ mobil wireless system
+ remot thin server
+ lossi wireless lan
+ mobil client
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,60 @@
+File name: 4383484
+
+Graph edges count: 18
+ casebas - reason: 1
+ crosscompani - data: 2
+ crosscompani - effort: 2
+ crosscompani - model: 2
+ data - set: 2
+ effort - estim: 3
+ effort - model: 4
+ estim - techniqu: 1
+ predic - accuraci: 1
+ previou - studi: 2
+ singlecompani - data: 3
+ singlecompani - effort: 1
+ singlecompani - model: 1
+ singl - compani: 2
+ stepwis - regres: 1
+ web - compani: 1
+ web - cross: 1
+ web - project: 3
+
+PageRank scores count: 21
+ accuraci: 0.058031402307924564
+ casebas: 0.03136832557185111
+ compani: 0.06691909455328238
+ cross: 0.040256017817208924
+ crosscompani: 0.03136832557185111
+ data: 0.049143710062566744
+ effort: 0.049143710062566744
+ estim: 0.052254402348441975
+ model: 0.0700297868391576
+ predic: 0.03136832557185111
+ previou: 0.03136832557185111
+ project: 0.040256017817208924
+ reason: 0.058031402307924564
+ regres: 0.058031402307924564
+ set: 0.07314047912503285
+ singl: 0.03136832557185111
+ singlecompani: 0.03136832557185111
+ stepwis: 0.03136832557185111
+ studi: 0.058031402307924564
+ techniqu: 0.07578456756802678
+ web: 0.03136832557185111
+
+N-grams list: 10
+ effort estim techniqu
+ crosscompani data set
+ singlecompani data set
+ crosscompani effort model
+ singlecompani effort model
+ effort model
+ crosscompani model
+ effort estim
+ singlecompani model
+ singl compani
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

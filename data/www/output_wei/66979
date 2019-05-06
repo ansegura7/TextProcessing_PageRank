@@ -1,0 +1,29 @@
+File name: 66979
+
+Graph edges count: 6
+ admis - control: 1
+ control - scheme: 1
+ predict - server: 1
+ respons - time: 1
+ server - respons: 1
+ web - access: 1
+
+PageRank scores count: 9
+ access: 0.10958660673957633
+ admis: 0.059236003643014234
+ control: 0.10958660673957633
+ predict: 0.059236003643014234
+ respons: 0.15238461937165412
+ scheme: 0.15238461937165412
+ server: 0.10958660673957633
+ time: 0.18876293010892026
+ web: 0.059236003643014234
+
+N-grams list: 3
+ predict server respons
+ admis control scheme
+ time
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

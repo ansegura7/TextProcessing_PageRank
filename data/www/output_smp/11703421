@@ -1,0 +1,69 @@
+File name: 11703421
+
+Graph edges count: 20
+ chatroulett - omegl: 1
+ chat - servic: 2
+ chat - session: 1
+ dempstershaf - theori: 1
+ detec - algorithm: 1
+ detec - method: 1
+ flasher - detec: 1
+ imag - detec: 1
+ imag - trace: 1
+ individu - detector: 1
+ kei - contribu: 1
+ kei - problem: 1
+ motionbas - skin: 1
+ obscen - content: 2
+ onlin - video: 2
+ realworld - data: 1
+ servic - onlin: 1
+ skin - detec: 1
+ underag - minor: 1
+ video - chat: 3
+
+PageRank scores count: 28
+ algorithm: 0.04914140895302897
+ chat: 0.08041267883948783
+ chatroulett: 0.01864816410711912
+ content: 0.03449910359817037
+ contribu: 0.02657363385264475
+ data: 0.03449910359817037
+ dempstershaf: 0.01864816410711912
+ detec: 0.07174881140214082
+ detector: 0.03449910359817037
+ flasher: 0.01864816410711912
+ imag: 0.01864816410711912
+ individu: 0.01864816410711912
+ kei: 0.01864816410711912
+ method: 0.04914140895302897
+ minor: 0.03449910359817037
+ motionbas: 0.01864816410711912
+ obscen: 0.01864816410711912
+ omegl: 0.03449910359817037
+ onlin: 0.06354818382893535
+ problem: 0.02657363385264475
+ realworld: 0.01864816410711912
+ servic: 0.05282355261390144
+ session: 0.05282355261390144
+ skin: 0.03449910359817037
+ theori: 0.03449910359817037
+ trace: 0.02657363385264475
+ underag: 0.01864816410711912
+ video: 0.07266413497925729
+
+N-grams list: 10
+ onlin video chat
+ video chat session
+ servic onlin video
+ imag detec algorithm
+ chat servic
+ motionbas skin detec
+ flasher detec
+ individu detector
+ obscen content
+ dempstershaf theori
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

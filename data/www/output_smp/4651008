@@ -1,0 +1,51 @@
+File name: 4651008
+
+Graph edges count: 12
+ checker - spin: 2
+ data - constraint: 1
+ data - stream: 3
+ formal - verif: 1
+ fundament - task: 1
+ histori - check: 1
+ input - languag: 1
+ linear - tempor: 1
+ model - checker: 2
+ stream - histori: 1
+ tempor - logic: 1
+ xml - data: 1
+
+PageRank scores count: 18
+ check: 0.09977531762161726
+ checker: 0.05877423357456252
+ constraint: 0.056748905255439075
+ data: 0.05877423357456252
+ formal: 0.03176985598625001
+ fundament: 0.03176985598625001
+ histori: 0.08000642545337322
+ input: 0.03176985598625001
+ languag: 0.05877423357456252
+ linear: 0.03176985598625001
+ logic: 0.08172795452462815
+ model: 0.03176985598625001
+ spin: 0.08172795452462815
+ stream: 0.056748905255439075
+ task: 0.05877423357456252
+ tempor: 0.05877423357456252
+ verif: 0.05877423357456252
+ xml: 0.03176985598625001
+
+N-grams list: 10
+ histori check
+ model checker spin
+ linear tempor logic
+ xml data stream
+ data constraint
+ data stream
+ fundament task
+ input languag
+ formal verif
+ verif
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

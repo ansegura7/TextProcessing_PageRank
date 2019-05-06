@@ -1,0 +1,54 @@
+File name: 8935942
+
+Graph edges count: 15
+ 3d - interfac: 1
+ 3d - visual: 1
+ bookmark - system: 1
+ commerci - web: 1
+ histori - function: 2
+ histori - list: 1
+ load - function: 1
+ lookahead - load: 1
+ main - function: 1
+ marker - function: 1
+ page - user: 1
+ support - system: 1
+ web - bookmark: 1
+ web - browser: 1
+ web - page: 3
+
+PageRank scores count: 18
+ 3d: 0.033685817989911104
+ bookmark: 0.05134280091962284
+ browser: 0.05134280091962284
+ commerci: 0.033685817989911104
+ function: 0.15823913000760742
+ histori: 0.033685817989911104
+ interfac: 0.04800229063562332
+ list: 0.04800229063562332
+ load: 0.062318763281335544
+ lookahead: 0.033685817989911104
+ main: 0.033685817989911104
+ marker: 0.033685817989911104
+ page: 0.05134280091962284
+ support: 0.033685817989911104
+ system: 0.10596014406301496
+ user: 0.07732719877159053
+ visual: 0.04800229063562332
+ web: 0.062318763281335544
+
+N-grams list: 10
+ lookahead load function
+ marker function
+ histori function
+ main function
+ web page user
+ function
+ bookmark system
+ commerci web browser
+ support system
+ web bookmark
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

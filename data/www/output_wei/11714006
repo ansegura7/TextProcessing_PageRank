@@ -1,0 +1,86 @@
+File name: 11714006
+
+Graph edges count: 28
+ addition - softwar: 1
+ collabor - content: 1
+ construc - process: 2
+ content - creation: 1
+ effect - knowledg: 1
+ experienc - user: 1
+ express - rule: 1
+ hint - warn: 1
+ keywordbas - kiwi: 1
+ kiwi - queri: 1
+ knowledg - manag: 1
+ kwql - languag: 1
+ languag - kiwi: 1
+ languag - kwql: 1
+ queri - construc: 2
+ queri - languag: 2
+ semant - web: 2
+ semant - wiki: 1
+ showcas - viskwql: 1
+ simpl - list: 1
+ syntact - error: 1
+ twin - languag: 1
+ visual - form: 1
+ visual - interfac: 1
+ visual - render: 1
+ web - browser: 1
+ web - queri: 1
+ wiki - philosophi: 1
+
+PageRank scores count: 37
+ addition: 0.012870202191890955
+ browser: 0.021439611817991682
+ collabor: 0.012870202191890955
+ construc: 0.047183429047509426
+ content: 0.023809874054998265
+ creation: 0.03310859513863948
+ effect: 0.012870202191890955
+ error: 0.023809874054998265
+ experienc: 0.012870202191890955
+ express: 0.012870202191890955
+ form: 0.01651675947959339
+ hint: 0.012870202191890955
+ interfac: 0.01651675947959339
+ keywordbas: 0.012870202191890955
+ kiwi: 0.06976162846025336
+ knowledg: 0.023809874054998265
+ kwql: 0.05882195659714605
+ languag: 0.1081217676050558
+ list: 0.023809874054998265
+ manag: 0.03310859513863948
+ philosophi: 0.026909447749545342
+ process: 0.05297611917391092
+ queri: 0.08073699959607196
+ render: 0.01651675947959339
+ rule: 0.023809874054998265
+ semant: 0.012870202191890955
+ showcas: 0.012870202191890955
+ simpl: 0.012870202191890955
+ softwar: 0.023809874054998265
+ syntact: 0.012870202191890955
+ twin: 0.012870202191890955
+ user: 0.023809874054998265
+ viskwql: 0.023809874054998265
+ visual: 0.012870202191890955
+ warn: 0.023809874054998265
+ web: 0.020163316767295828
+ wiki: 0.01651675947959339
+
+N-grams list: 10
+ queri construc process
+ twin languag kwql
+ languag kiwi
+ kwql languag
+ keywordbas kiwi queri
+ semant web queri
+ languag
+ queri
+ effect knowledg manag
+ collabor content creation
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

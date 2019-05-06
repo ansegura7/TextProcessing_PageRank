@@ -1,0 +1,58 @@
+File name: 9413558
+
+Graph edges count: 17
+ field - model: 1
+ good - keyword: 1
+ import - problem: 1
+ keyword - gener: 2
+ keyword - sugges: 1
+ larg - queri: 1
+ learn - problem: 1
+ markov - random: 1
+ meaning - result: 1
+ model - search: 1
+ queri - log: 3
+ random - field: 1
+ real - queri: 1
+ search - engin: 3
+ search - model: 1
+ search - result: 1
+ semisupervis - learn: 1
+
+PageRank scores count: 20
+ engin: 0.05520509265493981
+ field: 0.05956705428297078
+ gener: 0.041361185894249385
+ good: 0.023155317505528
+ import: 0.023155317505528
+ keyword: 0.0428373373852268
+ larg: 0.023155317505528
+ learn: 0.0428373373852268
+ log: 0.07629677118071476
+ markov: 0.023155317505528
+ meaning: 0.023155317505528
+ model: 0.10583708879546497
+ problem: 0.07924907416266957
+ queri: 0.06251935726492559
+ random: 0.0428373373852268
+ real: 0.023155317505528
+ result: 0.07488711253463862
+ search: 0.11311684264080081
+ semisupervis: 0.023155317505528
+ sugges: 0.041361185894249385
+
+N-grams list: 10
+ search model search
+ search result
+ search engin
+ real queri log
+ larg queri log
+ semisupervis learn problem
+ queri log
+ markov random field
+ good keyword sugges
+ model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

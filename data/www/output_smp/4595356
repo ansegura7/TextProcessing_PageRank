@@ -1,0 +1,129 @@
+File name: 4595356
+
+Graph edges count: 48
+ 10gb - 2million: 1
+ 2million - docum: 1
+ aggreg - function: 1
+ answer - span: 1
+ answer - type: 1
+ candid - answer: 1
+ data - integr: 1
+ data - reduc: 1
+ docum - trec: 1
+ extens - perform: 1
+ extrac - data: 1
+ final - index: 1
+ flexibl - trainabl: 1
+ gb - index: 1
+ ground - predic: 1
+ hamburg - munich: 1
+ high - accuraci: 1
+ index - overhead: 1
+ index - space: 1
+ index - structur: 1
+ inform - extrac: 1
+ inform - retriev: 1
+ integr - question: 1
+ kei - data: 1
+ kei - technic: 1
+ nextgener - inform: 1
+ parameter - aggreg: 1
+ past - log: 1
+ perform - studi: 1
+ person - place: 1
+ place - distanc: 1
+ power - class: 1
+ proxim - queri: 1
+ proxim - search: 1
+ queri - log: 1
+ queri - processor: 1
+ queri - time: 1
+ question - answer: 1
+ reduc - step: 1
+ retriev - engin: 1
+ technic - problem: 1
+ textprocess - applic: 1
+ text - proxim: 1
+ total - index: 1
+ trainabl - parameter: 1
+ trec - corpu: 1
+ trec - queri: 1
+ typeannot - corpora: 1
+
+PageRank scores count: 60
+ 10gb: 0.008551222264658495
+ 2million: 0.015819761189618215
+ accuraci: 0.015819761189618215
+ aggreg: 0.027249538649117378
+ answer: 0.0369949895084823
+ applic: 0.015819761189618215
+ candid: 0.008551222264658495
+ class: 0.015819761189618215
+ corpora: 0.015819761189618215
+ corpu: 0.020132276190533382
+ data: 0.02516891938184766
+ distanc: 0.02199801927583398
+ docum: 0.02199801927583398
+ engin: 0.021534649919367797
+ extens: 0.008551222264658495
+ extrac: 0.015274620770246237
+ final: 0.008551222264658495
+ flexibl: 0.008551222264658495
+ function: 0.03171333011640827
+ gb: 0.008551222264658495
+ ground: 0.008551222264658495
+ hamburg: 0.008551222264658495
+ high: 0.008551222264658495
+ index: 0.030356839039537658
+ inform: 0.015819761189618215
+ integr: 0.019248013001943752
+ kei: 0.008551222264658495
+ log: 0.023428869020185865
+ munich: 0.015819761189618215
+ nextgener: 0.008551222264658495
+ overhead: 0.017152326659194167
+ parameter: 0.02199801927583398
+ past: 0.008551222264658495
+ perform: 0.015819761189618215
+ person: 0.008551222264658495
+ place: 0.015819761189618215
+ power: 0.008551222264658495
+ predic: 0.015819761189618215
+ problem: 0.0189088902327261
+ processor: 0.016160330095226147
+ proxim: 0.015819761189618215
+ queri: 0.026855674696121122
+ question: 0.024912033316310683
+ reduc: 0.019248013001943752
+ retriev: 0.015274620770246237
+ search: 0.015274620770246237
+ space: 0.017152326659194167
+ span: 0.02427409280576347
+ step: 0.024912033316310683
+ structur: 0.017152326659194167
+ studi: 0.02199801927583398
+ technic: 0.012185491727138356
+ text: 0.008551222264658495
+ textprocess: 0.008551222264658495
+ time: 0.016160330095226147
+ total: 0.008551222264658495
+ trainabl: 0.015819761189618215
+ trec: 0.027249538649117378
+ type: 0.02427409280576347
+ typeannot: 0.008551222264658495
+
+N-grams list: 10
+ integr question answer
+ answer span
+ answer type
+ aggreg function
+ inform extrac data
+ total index space
+ final index overhead
+ trec queri
+ kei data reduc
+ text proxim queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

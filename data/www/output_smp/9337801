@@ -1,0 +1,66 @@
+File name: 9337801
+
+Graph edges count: 20
+ aggreg - p2p: 1
+ compar - analysi: 1
+ distribu - model: 1
+ edg - network: 1
+ emul - experi: 1
+ extens - analysi: 1
+ flowlevel - distribu: 1
+ internet - traffic: 2
+ larg - edg: 1
+ main - constitu: 1
+ manag - strategi: 1
+ network - manag: 1
+ network - simul: 1
+ p2p - applic: 1
+ p2p - traffic: 6
+ peertop - traffic: 1
+ synthet - workload: 1
+ traffic - peertop: 1
+ web - applic: 1
+ web - traffic: 1
+
+PageRank scores count: 25
+ aggreg: 0.015338084209054059
+ analysi: 0.04141282736444596
+ applic: 0.03391633870727079
+ compar: 0.015338084209054059
+ constitu: 0.02837545578675001
+ distribu: 0.02837545578675001
+ edg: 0.02837545578675001
+ emul: 0.015338084209054059
+ experi: 0.02837545578675001
+ extens: 0.015338084209054059
+ flowlevel: 0.015338084209054059
+ internet: 0.015338084209054059
+ larg: 0.015338084209054059
+ main: 0.015338084209054059
+ manag: 0.03210740340086547
+ model: 0.03945722162779157
+ network: 0.03945722162779157
+ p2p: 0.02837545578675001
+ peertop: 0.19909454392319814
+ simul: 0.03210740340086547
+ strategi: 0.042629377099789714
+ synthet: 0.015338084209054059
+ traffic: 0.21618408603694064
+ web: 0.015338084209054059
+ workload: 0.02837545578675001
+
+N-grams list: 10
+ peertop traffic peertop
+ aggreg p2p traffic
+ p2p traffic
+ internet traffic
+ web traffic
+ network manag strategi
+ flowlevel distribu model
+ larg edg network
+ network simul
+ p2p applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,78 @@
+File name: 4602742
+
+Graph edges count: 25
+ applicationspecif - session: 1
+ applic - develop: 1
+ busi - process: 1
+ busi - servic: 1
+ core - busi: 1
+ core - servic: 1
+ data - servic: 1
+ develop - environ: 1
+ global - organ: 1
+ interoper - advantag: 1
+ interoper - problem: 1
+ legaci - system: 1
+ local - session: 1
+ multipl - channel: 1
+ oper - organ: 1
+ perform - avail: 1
+ servicebas - deploy: 1
+ servicebas - method: 1
+ session - compon: 1
+ session - manag: 2
+ session - servic: 1
+ unifi - view: 1
+ web - desktop: 1
+ web - servic: 1
+ web - session: 1
+
+PageRank scores count: 32
+ advantag: 0.028951890761637896
+ applic: 0.02031711632395642
+ applicationspecif: 0.02031711632395642
+ avail: 0.03758666519931937
+ busi: 0.028951890761637896
+ channel: 0.03758666519931937
+ compon: 0.03749072326112291
+ core: 0.02031711632395642
+ data: 0.02031711632395642
+ deploy: 0.028951890761637896
+ desktop: 0.02607363261574407
+ develop: 0.03758666519931937
+ environ: 0.052265781743377884
+ global: 0.02031711632395642
+ interoper: 0.02031711632395642
+ legaci: 0.02031711632395642
+ local: 0.02031711632395642
+ manag: 0.03749072326112291
+ method: 0.028951890761637896
+ multipl: 0.02031711632395642
+ oper: 0.02031711632395642
+ organ: 0.05485621407468232
+ perform: 0.02031711632395642
+ problem: 0.028951890761637896
+ process: 0.03262166989765252
+ servic: 0.08145611643965112
+ servicebas: 0.02031711632395642
+ session: 0.06061273036646998
+ system: 0.03758666519931937
+ unifi: 0.02031711632395642
+ view: 0.03758666519931937
+ web: 0.02031711632395642
+
+N-grams list: 10
+ session servic
+ core busi servic
+ local session compon
+ applic develop environ
+ core servic
+ web servic
+ data servic
+ session manag
+ servic
+ web session
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

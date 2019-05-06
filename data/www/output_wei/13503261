@@ -1,0 +1,90 @@
+File name: 13503261
+
+Graph edges count: 29
+ accuraci - measur: 1
+ binari - webpag: 1
+ binaryclassif - task: 1
+ budgetari - consider: 1
+ challeng - problem: 1
+ classif - problem: 1
+ class - distribu: 3
+ costeffici - approach: 1
+ experiment - result: 1
+ fals - posit: 1
+ imbalanc - class: 1
+ larg - sampl: 1
+ lowervari - threshold: 1
+ minor - class: 1
+ posit - rate: 1
+ random - sampl: 1
+ sampleset - construc: 1
+ sampl - set: 2
+ sampl - size: 1
+ skew - class: 1
+ stratifi - sampl: 1
+ suffici - number: 1
+ threshold - estim: 1
+ threshold - selec: 3
+ threshold - set: 2
+ true - class: 1
+ uniform - random: 1
+ webpag - classif: 2
+ webpag - popul: 1
+
+PageRank scores count: 40
+ accuraci: 0.014143729760470044
+ approach: 0.026165900056869577
+ binari: 0.014143729760470044
+ binaryclassif: 0.014143729760470044
+ budgetari: 0.014143729760470044
+ challeng: 0.014143729760470044
+ class: 0.06223241094606819
+ classif: 0.02897107312602947
+ consider: 0.026165900056869577
+ construc: 0.026165900056869577
+ costeffici: 0.014143729760470044
+ distribu: 0.067041279064628
+ estim: 0.0178505656018599
+ experiment: 0.014143729760470044
+ fals: 0.014143729760470044
+ imbalanc: 0.014143729760470044
+ larg: 0.014143729760470044
+ lowervari: 0.014143729760470044
+ measur: 0.026165900056869577
+ minor: 0.014143729760470044
+ number: 0.026165900056869577
+ popul: 0.021557401443249757
+ posit: 0.026165900056869577
+ problem: 0.050791312213994626
+ random: 0.026165900056869577
+ rate: 0.03638474480880919
+ result: 0.026165900056869577
+ sampl: 0.060429085401608254
+ sampleset: 0.014143729760470044
+ selec: 0.025264237284639612
+ set: 0.055800549837494426
+ size: 0.03126530395759238
+ skew: 0.014143729760470044
+ stratifi: 0.014143729760470044
+ suffici: 0.014143729760470044
+ task: 0.026165900056869577
+ threshold: 0.026165900056869577
+ true: 0.014143729760470044
+ uniform: 0.014143729760470044
+ webpag: 0.026165900056869577
+
+N-grams list: 10
+ imbalanc class distribu
+ true class distribu
+ skew class distribu
+ sampl set
+ larg sampl size
+ uniform random sampl
+ threshold set
+ fals posit rate
+ minor class
+ stratifi sampl
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

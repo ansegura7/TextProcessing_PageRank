@@ -1,0 +1,111 @@
+File name: 11643476
+
+Graph edges count: 36
+ alloc - effici: 1
+ allpai - contest: 1
+ cheap - talk: 2
+ competit - softwar: 1
+ competi - phase: 1
+ deep - understand: 1
+ design - effici: 1
+ develop - portal: 1
+ empir - analysi: 1
+ final - project: 1
+ individu - perform: 1
+ individu - specif: 1
+ monei - glori: 1
+ multipl - simultan: 1
+ open - contest: 1
+ posit - effect: 1
+ project - payment: 1
+ project - qualiti: 1
+ project - requir: 1
+ registr - phase: 1
+ reput - system: 1
+ signific - evid: 1
+ signific - predictor: 1
+ signific - surplu: 1
+ simultan - allpai: 1
+ softwar - develop: 1
+ special - atten: 1
+ specif - trait: 1
+ strateg - behavior: 2
+ strateg - choic: 1
+ surplu - gain: 1
+ talk - mechan: 1
+ topcodercom - crowdsourc: 1
+ topcod - contest: 1
+ uniqu - dataset: 1
+ web - phenomenon: 1
+
+PageRank scores count: 54
+ alloc: 0.011673333437096298
+ allpai: 0.030029650266930226
+ analysi: 0.02159566685862815
+ atten: 0.02159566685862815
+ behavior: 0.018288222384784197
+ cheap: 0.011673333437096298
+ choic: 0.01498077791094025
+ competi: 0.011673333437096298
+ competit: 0.011673333437096298
+ contest: 0.0570432030070507
+ crowdsourc: 0.02159566685862815
+ dataset: 0.02159566685862815
+ deep: 0.011673333437096298
+ design: 0.011673333437096298
+ develop: 0.030029650266930226
+ effect: 0.02159566685862815
+ effici: 0.031518000280160004
+ empir: 0.011673333437096298
+ evid: 0.01498077791094025
+ final: 0.011673333437096298
+ gain: 0.02440699466139551
+ glori: 0.02159566685862815
+ individu: 0.011673333437096298
+ mechan: 0.030029650266930226
+ monei: 0.011673333437096298
+ multipl: 0.011673333437096298
+ open: 0.011673333437096298
+ payment: 0.017792105713707606
+ perform: 0.016634500147862226
+ phase: 0.031518000280160004
+ phenomenon: 0.02159566685862815
+ portal: 0.037198536163986995
+ posit: 0.011673333437096298
+ predictor: 0.01498077791094025
+ project: 0.02159566685862815
+ qualiti: 0.017792105713707606
+ registr: 0.011673333437096298
+ reput: 0.011673333437096298
+ requir: 0.017792105713707606
+ signific: 0.011673333437096298
+ simultan: 0.02159566685862815
+ softwar: 0.02159566685862815
+ special: 0.011673333437096298
+ specif: 0.016634500147862226
+ strateg: 0.011673333437096298
+ surplu: 0.01498077791094025
+ system: 0.02159566685862815
+ talk: 0.02159566685862815
+ topcod: 0.011673333437096298
+ topcodercom: 0.011673333437096298
+ trait: 0.02581265856277919
+ understand: 0.02159566685862815
+ uniqu: 0.011673333437096298
+ web: 0.011673333437096298
+
+N-grams list: 10
+ simultan allpai contest
+ open contest
+ topcod contest
+ competit softwar develop
+ cheap talk mechan
+ contest
+ individu specif trait
+ final project qualiti
+ signific surplu gain
+ competi phase
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

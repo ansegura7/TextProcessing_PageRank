@@ -1,0 +1,68 @@
+File name: 4654266
+
+Graph edges count: 20
+ analyz - user: 1
+ empir - evid: 1
+ experiment - result: 1
+ good - method: 1
+ iibas - algorithm: 1
+ interac - inform: 1
+ intern - topic: 1
+ local - search: 1
+ multipl - term: 1
+ origin - queri: 2
+ queri - log: 1
+ queri - reformul: 1
+ queri - topic: 1
+ reformul - behavior: 1
+ reformul - problem: 1
+ search - engin: 1
+ search - result: 1
+ term - queri: 1
+ topic - detec: 1
+ topic - level: 1
+
+PageRank scores count: 27
+ algorithm: 0.04054783041253491
+ analyz: 0.02191774616893779
+ behavior: 0.04026566226159543
+ detec: 0.0481834480651242
+ empir: 0.02191774616893779
+ engin: 0.03915057409426513
+ evid: 0.04054783041253491
+ experiment: 0.02191774616893779
+ good: 0.02191774616893779
+ iibas: 0.02191774616893779
+ inform: 0.04054783041253491
+ interac: 0.02191774616893779
+ intern: 0.02191774616893779
+ level: 0.0481834480651242
+ local: 0.02191774616893779
+ log: 0.0431715672768415
+ method: 0.04054783041253491
+ multipl: 0.02191774616893779
+ origin: 0.02191774616893779
+ problem: 0.04026566226159543
+ queri: 0.07501348626318959
+ reformul: 0.0431715672768415
+ result: 0.05778065833786225
+ search: 0.04054783041253491
+ term: 0.04054783041253491
+ topic: 0.06180165152043862
+ user: 0.04054783041253491
+
+N-grams list: 10
+ queri topic detec
+ queri reformul problem
+ multipl term queri
+ local search result
+ queri log
+ topic level
+ origin queri
+ intern topic
+ reformul behavior
+ search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

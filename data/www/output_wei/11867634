@@ -1,0 +1,98 @@
+File name: 11867634
+
+Graph edges count: 36
+ balanc - purpos: 1
+ benchmark - collec: 1
+ compar - compres: 1
+ compres - host: 1
+ compres - perform: 1
+ compres - result: 1
+ docum - index: 1
+ docum - reorder: 1
+ docum - searchabl: 1
+ effici - queri: 1
+ experiment - evalu: 1
+ host - distribu: 3
+ index - compact: 1
+ index - compres: 1
+ index - partition: 2
+ index - search: 1
+ index - size: 4
+ industri - standard: 1
+ invert - index: 1
+ larg - benchmark: 1
+ load - balanc: 1
+ local - indexparti: 1
+ modern - search: 1
+ onlin - docum: 3
+ process - perform: 1
+ purpos - random: 1
+ queri - process: 2
+ quick - docum: 1
+ search - engin: 2
+ search - queri: 1
+ server - index: 1
+ sheer - size: 1
+ standard - random: 1
+ time - complex: 1
+ time - docum: 1
+ web - page: 1
+
+PageRank scores count: 41
+ balanc: 0.024281408570231356
+ benchmark: 0.024281408570231356
+ collec: 0.03376428299833523
+ compact: 0.017569537481276577
+ compar: 0.013125085713638572
+ complex: 0.018703247141934966
+ compres: 0.028725860337869363
+ distribu: 0.03119955326826822
+ docum: 0.041015892855120535
+ effici: 0.013125085713638572
+ engin: 0.02940307323843121
+ evalu: 0.024281408570231356
+ experiment: 0.013125085713638572
+ host: 0.02126407947603489
+ index: 0.04705890106910829
+ indexparti: 0.024281408570231356
+ industri: 0.013125085713638572
+ invert: 0.013125085713638572
+ larg: 0.013125085713638572
+ load: 0.013125085713638572
+ local: 0.013125085713638572
+ modern: 0.013125085713638572
+ onlin: 0.013125085713638572
+ page: 0.024281408570231356
+ partition: 0.022013989248914585
+ perform: 0.05584414301795117
+ process: 0.0406824276963721
+ purpos: 0.03376428299833523
+ queri: 0.032420402332627676
+ quick: 0.013125085713638572
+ random: 0.062463923546920166
+ reorder: 0.024746255355922724
+ result: 0.02126407947603489
+ search: 0.028725860337869363
+ searchabl: 0.024746255355922724
+ server: 0.013125085713638572
+ sheer: 0.013125085713638572
+ size: 0.04205921564078338
+ standard: 0.024281408570231356
+ time: 0.013125085713638572
+ web: 0.013125085713638572
+
+N-grams list: 10
+ index search engin
+ search queri process
+ quick docum index
+ industri standard random
+ compar compres perform
+ index size
+ invert index compres
+ effici queri process
+ compres host distribu
+ modern search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

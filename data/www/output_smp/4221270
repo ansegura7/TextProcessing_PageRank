@@ -1,0 +1,58 @@
+File name: 4221270
+
+Graph edges count: 16
+ advertis - keyword: 1
+ advertis - target: 1
+ baselin - system: 1
+ contextu - advertis: 1
+ docum - frequenc: 1
+ frequenc - presenc: 1
+ invers - docum: 1
+ keyword - invers: 1
+ potenti - keyword: 1
+ queri - log: 1
+ search - queri: 1
+ substanti - sourc: 1
+ term - frequenc: 1
+ unseen - page: 1
+ web - page: 3
+ web - todai: 1
+
+PageRank scores count: 21
+ advertis: 0.04260978813494027
+ baselin: 0.023032317910778526
+ contextu: 0.023032317910778526
+ docum: 0.08647922813161969
+ frequenc: 0.11611713204681702
+ invers: 0.07464342378922492
+ keyword: 0.060718948092289886
+ log: 0.05925063782547776
+ page: 0.05239852324702114
+ potenti: 0.023032317910778526
+ presenc: 0.12173188015057299
+ queri: 0.04260978813494027
+ search: 0.023032317910778526
+ sourc: 0.04260978813494027
+ substanti: 0.023032317910778526
+ system: 0.04260978813494027
+ target: 0.04114147786812814
+ term: 0.023032317910778526
+ todai: 0.0328210530228594
+ unseen: 0.023032317910778526
+ web: 0.023032317910778526
+
+N-grams list: 10
+ docum frequenc presenc
+ potenti keyword invers
+ term frequenc
+ search queri log
+ advertis keyword
+ advertis target
+ web page
+ unseen page
+ substanti sourc
+ contextu advertis
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

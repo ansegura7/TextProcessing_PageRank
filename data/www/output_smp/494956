@@ -1,0 +1,84 @@
+File name: 494956
+
+Graph edges count: 28
+ academ - new: 1
+ academ - research: 1
+ activ - onlin: 1
+ authorit - new: 1
+ commerci - interest: 1
+ commerci - search: 1
+ continu - onlin: 1
+ europ - sport: 1
+ googl - yahoo: 1
+ import - activ: 1
+ index - new: 1
+ interest - event: 1
+ new - articl: 5
+ new - inform: 1
+ new - search: 1
+ new - sourc: 3
+ new - stori: 1
+ nielsen - netrat: 1
+ onlin - process: 1
+ rank - algorithm: 1
+ rank - framework: 2
+ rank - measur: 1
+ rank - new: 1
+ recent - survei: 1
+ search - engin: 2
+ sport - busi: 1
+ world - u: 1
+ yahoo - msn: 1
+
+PageRank scores count: 35
+ academ: 0.017074091847729407
+ activ: 0.031587069918299404
+ algorithm: 0.020702336365371905
+ articl: 0.026761504709834877
+ authorit: 0.017074091847729407
+ busi: 0.0439231012782839
+ commerci: 0.017074091847729407
+ continu: 0.017074091847729407
+ engin: 0.04598938653108131
+ europ: 0.017074091847729407
+ event: 0.03775508559829165
+ framework: 0.020702336365371905
+ googl: 0.017074091847729407
+ import: 0.017074091847729407
+ index: 0.017074091847729407
+ inform: 0.026761504709834877
+ interest: 0.024330580883014406
+ measur: 0.020702336365371905
+ msn: 0.0439231012782839
+ netrat: 0.031587069918299404
+ new: 0.0569847815417969
+ nielsen: 0.017074091847729407
+ onlin: 0.058436079348853906
+ process: 0.06674475929425522
+ rank: 0.017074091847729407
+ recent: 0.017074091847729407
+ research: 0.024330580883014406
+ search: 0.03401799374511988
+ sourc: 0.026761504709834877
+ sport: 0.031587069918299404
+ stori: 0.026761504709834877
+ survei: 0.031587069918299404
+ u: 0.031587069918299404
+ world: 0.017074091847729407
+ yahoo: 0.031587069918299404
+
+N-grams list: 10
+ continu onlin process
+ academ new search
+ import activ onlin
+ authorit new sourc
+ rank new inform
+ commerci search engin
+ europ sport busi
+ googl yahoo msn
+ new articl
+ new sourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

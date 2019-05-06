@@ -1,0 +1,60 @@
+File name: 14348154
+
+Graph edges count: 19
+ behavior - data: 2
+ clickthrough - data: 2
+ datalimit - search: 1
+ datarich - market: 1
+ experiment - result: 1
+ french - languag: 1
+ interlingu - classif: 2
+ languag - behavior: 1
+ languag - clickthrough: 1
+ languag - data: 1
+ languag - queri: 2
+ queri - intent: 2
+ rank - model: 1
+ relev - rank: 1
+ search - languag: 4
+ search - market: 1
+ search - result: 1
+ small - clickthrough: 1
+ web - search: 2
+
+PageRank scores count: 20
+ behavior: 0.04139695901740972
+ classif: 0.04922863633101633
+ clickthrough: 0.06401552165598479
+ data: 0.13099756758979506
+ datalimit: 0.026610073692441262
+ datarich: 0.026610073692441262
+ experiment: 0.026610073692441262
+ french: 0.026610073692441262
+ intent: 0.06179748885723952
+ interlingu: 0.026610073692441262
+ languag: 0.06958534270573391
+ market: 0.06958534270573391
+ model: 0.06845441457380515
+ queri: 0.04139695901740972
+ rank: 0.04922863633101633
+ relev: 0.026610073692441262
+ result: 0.06958534270573391
+ search: 0.07184719896959141
+ small: 0.026610073692441262
+ web: 0.026610073692441262
+
+N-grams list: 10
+ search languag data
+ languag clickthrough data
+ languag behavior data
+ small clickthrough data
+ search languag queri
+ behavior data
+ datalimit search market
+ search result
+ search languag
+ rank model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

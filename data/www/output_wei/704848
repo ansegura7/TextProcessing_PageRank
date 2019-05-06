@@ -1,0 +1,90 @@
+File name: 704848
+
+Graph edges count: 29
+ adapt - xlink: 1
+ bluetooth - sensor: 1
+ collabor - handl: 1
+ collabor - web: 1
+ contextawar - hycon: 1
+ design - issu: 1
+ digit - materi: 1
+ displai - surfac: 1
+ ebag - infrastructur: 3
+ electron - schoolbag: 1
+ field - test: 1
+ gener - infrastructur: 1
+ hycon - framework: 1
+ interact - school: 1
+ interact - whiteboard: 1
+ logout - mechan: 1
+ multipl - interact: 1
+ nomad - learn: 1
+ school - children: 1
+ school - environ: 1
+ school - kid: 1
+ school - materi: 1
+ sensor - network: 1
+ ubiquit - login: 1
+ ubiquit - web: 2
+ web - infrastructur: 1
+ web - integr: 1
+ web - servic: 1
+ xlink - structur: 1
+
+PageRank scores count: 40
+ adapt: 0.016063939835190666
+ bluetooth: 0.016063939835190666
+ children: 0.022161459997945145
+ collabor: 0.016063939835190666
+ contextawar: 0.016063939835190666
+ design: 0.016063939835190666
+ digit: 0.016063939835190666
+ displai: 0.016063939835190666
+ ebag: 0.016063939835190666
+ electron: 0.016063939835190666
+ environ: 0.022161459997945145
+ field: 0.016063939835190666
+ framework: 0.04132448522602799
+ gener: 0.016063939835190666
+ handl: 0.0228911142651467
+ hycon: 0.029718288695102728
+ infrastructur: 0.05243760804812308
+ integr: 0.02512891032829895
+ interact: 0.029718288695102728
+ issu: 0.029718288695102728
+ kid: 0.022161459997945145
+ learn: 0.029718288695102728
+ login: 0.020615389455161354
+ logout: 0.016063939835190666
+ materi: 0.03581580885785722
+ mechan: 0.029718288695102728
+ multipl: 0.016063939835190666
+ network: 0.04132448522602799
+ nomad: 0.016063939835190666
+ school: 0.028694212530609324
+ schoolbag: 0.029718288695102728
+ sensor: 0.029718288695102728
+ servic: 0.02512891032829895
+ structur: 0.04132448522602799
+ surfac: 0.029718288695102728
+ test: 0.029718288695102728
+ ubiquit: 0.016063939835190666
+ web: 0.03199401350508808
+ whiteboard: 0.028694212530609324
+ xlink: 0.029718288695102728
+
+N-grams list: 10
+ ubiquit web infrastructur
+ bluetooth sensor network
+ contextawar hycon framework
+ adapt xlink structur
+ interact school environ
+ multipl interact whiteboard
+ collabor web servic
+ ubiquit web integr
+ ebag infrastructur
+ gener infrastructur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,51 @@
+File name: 8939289
+
+Graph edges count: 11
+ adapt - layout: 1
+ compat - exten: 1
+ constraint - svg: 2
+ custom - elem: 1
+ devic - charaterist: 1
+ expressionbas - attribut: 2
+ graphic - standard: 1
+ onewai - constraint: 1
+ signific - exten: 1
+ user - interac: 2
+ web - graphic: 1
+
+PageRank scores count: 19
+ adapt: 0.03356267830172848
+ attribut: 0.0620909548581977
+ charaterist: 0.0620909548581977
+ compat: 0.03356267830172848
+ constraint: 0.0620909548581977
+ custom: 0.03356267830172848
+ devic: 0.03356267830172848
+ elem: 0.0620909548581977
+ expressionbas: 0.03356267830172848
+ exten: 0.0906192314146669
+ graphic: 0.0620909548581977
+ interac: 0.0620909548581977
+ layout: 0.0620909548581977
+ onewai: 0.03356267830172848
+ signific: 0.03356267830172848
+ standard: 0.08633998993119653
+ svg: 0.08633998993119653
+ user: 0.03356267830172848
+ web: 0.03356267830172848
+
+N-grams list: 10
+ web graphic standard
+ constraint svg
+ compat exten
+ signific exten
+ custom elem
+ onewai constraint
+ expressionbas attribut
+ user interac
+ devic charaterist
+ adapt layout
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

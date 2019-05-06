@@ -1,0 +1,76 @@
+File name: 4590503
+
+Graph edges count: 23
+ accuraci - precision: 1
+ classifi - composi: 1
+ databas - directori: 1
+ directori - hiddenwebcrawl: 1
+ effectiveand - scalabl: 1
+ entri - point: 2
+ focus - crawler: 1
+ formschema - match: 1
+ form - featur: 1
+ hiddenweb - inform: 1
+ high - accuraci: 1
+ inform - sucha: 1
+ metasearch - onlin: 1
+ modular - classifi: 1
+ onlin - databas: 4
+ onlin - databasedomain: 1
+ partitioningth - space: 1
+ real - web: 1
+ scalabl - solution: 1
+ similar - onlin: 1
+ sucha - metasearch: 1
+ web - data: 1
+ web - form: 2
+
+PageRank scores count: 32
+ accuraci: 0.027957984813553726
+ classifi: 0.027957984813553726
+ composi: 0.03887671131506322
+ crawler: 0.027957984813553726
+ data: 0.023033853254049445
+ databas: 0.06195896336705725
+ databasedomain: 0.02682405900942123
+ directori: 0.06777754308554122
+ effectiveand: 0.015112424223542555
+ entri: 0.015112424223542555
+ featur: 0.04142441416541544
+ focus: 0.015112424223542555
+ form: 0.03095528228455633
+ formschema: 0.015112424223542555
+ hiddenweb: 0.015112424223542555
+ hiddenwebcrawl: 0.0727233358462526
+ high: 0.015112424223542555
+ inform: 0.027957984813553726
+ match: 0.027957984813553726
+ metasearch: 0.04815762884134629
+ modular: 0.015112424223542555
+ onlin: 0.06889196932869808
+ partitioningth: 0.015112424223542555
+ point: 0.027957984813553726
+ precision: 0.03887671131506322
+ real: 0.015112424223542555
+ scalabl: 0.027957984813553726
+ similar: 0.015112424223542555
+ solution: 0.03887671131506322
+ space: 0.027957984813553726
+ sucha: 0.03887671131506322
+ web: 0.027957984813553726
+
+N-grams list: 10
+ metasearch onlin databas
+ directori hiddenwebcrawl
+ onlin databas
+ onlin databasedomain
+ similar onlin
+ effectiveand scalabl solution
+ modular classifi composi
+ hiddenweb inform sucha
+ high accuraci precision
+ form featur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

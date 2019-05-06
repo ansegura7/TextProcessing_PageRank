@@ -1,0 +1,93 @@
+File name: 884729
+
+Graph edges count: 33
+ altavista - alltheweb: 1
+ approxim - algorithm: 1
+ boolean - oper: 1
+ complex - queri: 1
+ data - mine: 1
+ documentatatim - evalu: 1
+ effici - algorithm: 1
+ effici - approxim: 1
+ engin - queri: 1
+ full - set: 1
+ googl - inktomi: 1
+ inktomi - altavista: 1
+ metadata - valu: 1
+ mine - associ: 1
+ modern - objectori: 1
+ multifacet - search: 1
+ objectori - approach: 1
+ popular - web: 1
+ primit - method: 1
+ primit - term: 1
+ queri - result: 1
+ queri - term: 1
+ random - sampl: 2
+ realworld - data: 1
+ result - set: 1
+ sampl - applic: 1
+ sampl - web: 1
+ searchengin - result: 1
+ search - engin: 3
+ search - result: 1
+ small - random: 1
+ uniform - random: 1
+ web - search: 2
+
+PageRank scores count: 39
+ algorithm: 0.03106019812984915
+ alltheweb: 0.037544695634150985
+ altavista: 0.030309098032825766
+ applic: 0.028281127770862644
+ approach: 0.030309098032825766
+ approxim: 0.016789296286404947
+ associ: 0.037544695634150985
+ boolean: 0.011781962306249085
+ complex: 0.011781962306249085
+ data: 0.021796630266560806
+ documentatatim: 0.011781962306249085
+ effici: 0.011781962306249085
+ engin: 0.03487988637742417
+ evalu: 0.021796630266560806
+ full: 0.011781962306249085
+ googl: 0.011781962306249085
+ inktomi: 0.021796630266560806
+ metadata: 0.011781962306249085
+ method: 0.016789296286404947
+ mine: 0.030309098032825766
+ modern: 0.011781962306249085
+ multifacet: 0.011781962306249085
+ objectori: 0.021796630266560806
+ oper: 0.021796630266560806
+ popular: 0.011781962306249085
+ primit: 0.011781962306249085
+ queri: 0.05144453368737135
+ random: 0.03181129822687253
+ realworld: 0.011781962306249085
+ result: 0.0667584811548687
+ sampl: 0.038821565799090726
+ search: 0.05434805663805902
+ searchengin: 0.011781962306249085
+ set: 0.0785413392481992
+ small: 0.011781962306249085
+ term: 0.03865322310353776
+ uniform: 0.011781962306249085
+ valu: 0.021796630266560806
+ web: 0.038295795731174365
+
+N-grams list: 10
+ engin queri result
+ result set
+ sampl web search
+ search result
+ popular web search
+ full set
+ queri term
+ data mine associ
+ search engin
+ uniform random sampl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

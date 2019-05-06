@@ -1,0 +1,65 @@
+File name: 3613072
+
+Graph edges count: 21
+ allxqueri - implement: 1
+ boolean - queri: 1
+ complet - implement: 1
+ complet - xqueri: 1
+ compos - fulltext: 1
+ conform - implement: 1
+ fulltext - languag: 1
+ fulltext - queri: 1
+ fulltext - search: 2
+ keyworddist - predic: 1
+ keyword - search: 1
+ queri - result: 1
+ refer - implement: 1
+ research - problem: 1
+ search - boolean: 1
+ search - primit: 1
+ topk - queri: 1
+ w3c - specif: 1
+ xml - queri: 1
+ xqueri - fulltext: 4
+ xqueri - implement: 1
+
+PageRank scores count: 23
+ allxqueri: 0.022240997455240708
+ boolean: 0.051052694490553406
+ complet: 0.022240997455240708
+ compos: 0.022240997455240708
+ conform: 0.022240997455240708
+ fulltext: 0.06269737182632355
+ implement: 0.09379584651811389
+ keyword: 0.022240997455240708
+ keyworddist: 0.022240997455240708
+ languag: 0.03556418896833446
+ predic: 0.04114584529219531
+ primit: 0.051052694490553406
+ problem: 0.04114584529219531
+ queri: 0.11676867495921406
+ refer: 0.022240997455240708
+ research: 0.022240997455240708
+ result: 0.12149437117057266
+ search: 0.06779222831838282
+ specif: 0.04114584529219531
+ topk: 0.022240997455240708
+ w3c: 0.022240997455240708
+ xml: 0.022240997455240708
+ xqueri: 0.03169342137371801
+
+N-grams list: 10
+ fulltext queri result
+ compos fulltext search
+ complet xqueri implement
+ keyword search boolean
+ xml queri
+ topk queri
+ fulltext search
+ xqueri fulltext languag
+ result
+ queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

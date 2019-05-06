@@ -1,0 +1,55 @@
+File name: 3628005
+
+Graph edges count: 12
+ averag - pagerank: 1
+ experiment - result: 1
+ factor - î: 1
+ link - farm: 1
+ markov - chain: 1
+ preliminari - experiment: 1
+ rank - totalrank: 1
+ ration - function: 1
+ recent - result: 1
+ stationari - state: 1
+ transition - matrix: 1
+ web - graph: 1
+
+PageRank scores count: 22
+ averag: 0.030374364036752994
+ chain: 0.056192573467993036
+ experiment: 0.056192573467993036
+ factor: 0.030374364036752994
+ farm: 0.056192573467993036
+ function: 0.056192573467993036
+ graph: 0.056192573467993036
+ link: 0.030374364036752994
+ markov: 0.030374364036752994
+ matrix: 0.056192573467993036
+ pagerank: 0.056192573467993036
+ preliminari: 0.030374364036752994
+ rank: 0.030374364036752994
+ ration: 0.030374364036752994
+ recent: 0.030374364036752994
+ result: 0.10395626091578712
+ state: 0.056192573467993036
+ stationari: 0.030374364036752994
+ totalrank: 0.056192573467993036
+ transition: 0.030374364036752994
+ web: 0.030374364036752994
+ î: 0.056192573467993036
+
+N-grams list: 10
+ preliminari experiment result
+ recent result
+ web graph
+ markov chain
+ ration function
+ rank totalrank
+ link farm
+ transition matrix
+ averag pagerank
+ stationari state
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

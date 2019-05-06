@@ -1,0 +1,43 @@
+File name: 13533459
+
+Graph edges count: 9
+ commun - resourc: 1
+ eleven - system: 1
+ open - commun: 1
+ rulebas - system: 1
+ rule - engin: 2
+ semant - inform: 1
+ semant - web: 1
+ web - initi: 1
+ web - scale: 1
+
+PageRank scores count: 13
+ commun: 0.0923441692144506
+ eleven: 0.04991576714294627
+ engin: 0.0923441692144506
+ inform: 0.07112996817869843
+ initi: 0.0801460036188931
+ open: 0.04991576714294627
+ resourc: 0.12840831097522928
+ rule: 0.04991576714294627
+ rulebas: 0.04991576714294627
+ scale: 0.0801460036188931
+ semant: 0.04991576714294627
+ system: 0.13477257128595493
+ web: 0.07112996817869843
+
+N-grams list: 10
+ open commun resourc
+ semant web initi
+ rulebas system
+ eleven system
+ web scale
+ rule engin
+ system
+ semant inform
+ commun
+ rule
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

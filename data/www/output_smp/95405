@@ -1,0 +1,88 @@
+File name: 95405
+
+Graph edges count: 28
+ architectur - choic: 1
+ central - point: 1
+ common - protocol: 1
+ decentr - natur: 1
+ direct - access: 1
+ end - user: 2
+ import - architectur: 1
+ import - sociolog: 1
+ inappropri - choic: 1
+ inform - ontolog: 1
+ marri - content: 1
+ ontolog - specif: 1
+ pointandclick - access: 1
+ pointandclick - interfac: 1
+ present - knowledg: 1
+ rdf - metadata: 1
+ relev - inform: 1
+ represent - end: 1
+ semant - web: 5
+ singl - represent: 1
+ singl - type: 1
+ site - design: 1
+ sociolog - forc: 1
+ standalon - client: 1
+ user - applic: 1
+ web - browser: 3
+ web - content: 1
+ web - site: 1
+
+PageRank scores count: 39
+ access: 0.03473913194448807
+ applic: 0.05264510256259472
+ architectur: 0.02175967605314088
+ browser: 0.023273945907131385
+ central: 0.015269948107467284
+ choic: 0.04674512864398422
+ client: 0.028249403998814475
+ common: 0.015269948107467284
+ content: 0.03625340179847857
+ decentr: 0.015269948107467284
+ design: 0.03505280212852896
+ direct: 0.015269948107467284
+ end: 0.03376567275263703
+ forc: 0.03376567275263703
+ import: 0.015269948107467284
+ inappropri: 0.015269948107467284
+ inform: 0.028249403998814475
+ interfac: 0.02175967605314088
+ knowledg: 0.028249403998814475
+ marri: 0.015269948107467284
+ metadata: 0.028249403998814475
+ natur: 0.028249403998814475
+ ontolog: 0.03928194150645958
+ point: 0.028249403998814475
+ pointandclick: 0.015269948107467284
+ present: 0.015269948107467284
+ protocol: 0.028249403998814475
+ rdf: 0.015269948107467284
+ relev: 0.015269948107467284
+ represent: 0.02175967605314088
+ semant: 0.015269948107467284
+ singl: 0.015269948107467284
+ site: 0.023273945907131385
+ sociolog: 0.02175967605314088
+ specif: 0.04865959838795792
+ standalon: 0.015269948107467284
+ type: 0.02175967605314088
+ user: 0.04397076994720876
+ web: 0.028249403998814475
+
+N-grams list: 10
+ end user applic
+ web site design
+ import architectur choic
+ relev inform ontolog
+ semant web content
+ singl represent end
+ import sociolog forc
+ semant web browser
+ inappropri choic
+ marri content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

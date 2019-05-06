@@ -1,0 +1,80 @@
+File name: 4171391
+
+Graph edges count: 27
+ common - concept: 1
+ companion - languag: 1
+ contrast - xcerpt: 1
+ current - mainstream: 1
+ data - format: 1
+ emphversatil - semistructur: 1
+ heterogen - data: 1
+ languag - construct: 2
+ languag - visxcerpt: 1
+ languag - xcerpt: 2
+ mainstream - web: 1
+ mere - render: 1
+ optim - techniqu: 1
+ queri - languag: 5
+ rdf - data: 1
+ reason - xcerpt: 1
+ semant - web: 1
+ semistructur - queri: 1
+ uniqu - featur: 1
+ versatil - web: 1
+ visual - companion: 1
+ web - data: 2
+ web - queri: 2
+ web - reason: 1
+ xcerpt - applic: 1
+ xcerpt - project: 1
+ xqueri - xslt: 1
+
+PageRank scores count: 32
+ applic: 0.047355538103795565
+ common: 0.014429788693805116
+ companion: 0.02669510908353946
+ concept: 0.02669510908353946
+ construct: 0.038094029386660344
+ contrast: 0.014429788693805116
+ current: 0.014429788693805116
+ data: 0.056428289928320476
+ emphversatil: 0.014429788693805116
+ featur: 0.02669510908353946
+ format: 0.06239383513287752
+ heterogen: 0.014429788693805116
+ languag: 0.08352084950419493
+ mainstream: 0.02669510908353946
+ mere: 0.014429788693805116
+ optim: 0.014429788693805116
+ project: 0.047355538103795565
+ queri: 0.05458849186986032
+ rdf: 0.014429788693805116
+ reason: 0.031897649148851785
+ render: 0.02669510908353946
+ semant: 0.014429788693805116
+ semistructur: 0.02669510908353946
+ techniqu: 0.02669510908353946
+ uniqu: 0.014429788693805116
+ versatil: 0.014429788693805116
+ visual: 0.014429788693805116
+ visxcerpt: 0.038094029386660344
+ web: 0.061651272194282354
+ xcerpt: 0.0774723515529187
+ xqueri: 0.014429788693805116
+ xslt: 0.02669510908353946
+
+N-grams list: 10
+ queri languag xcerpt
+ languag xcerpt applic
+ queri languag
+ versatil web queri
+ xcerpt project
+ visual companion languag
+ languag construct
+ data format
+ web data
+ semant web reason
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

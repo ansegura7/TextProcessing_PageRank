@@ -1,0 +1,63 @@
+File name: 597001
+
+Graph edges count: 17
+ accur - model: 1
+ adequ - commun: 1
+ asynchron - commun: 1
+ bpel - process: 1
+ buffer - structur: 1
+ commun - model: 4
+ complex - buffer: 1
+ composi - scenario: 1
+ effici - perform: 1
+ effici - reason: 1
+ execu - framework: 1
+ kei - aspect: 1
+ parametr - model: 1
+ servic - composi: 5
+ synchron - commun: 2
+ verif - approach: 1
+ web - servic: 4
+
+PageRank scores count: 25
+ accur: 0.02296257387490564
+ adequ: 0.02296257387490564
+ approach: 0.04248076166857544
+ aspect: 0.04248076166857544
+ asynchron: 0.02296257387490564
+ bpel: 0.02296257387490564
+ buffer: 0.04248076166857544
+ commun: 0.08151713725591501
+ complex: 0.02296257387490564
+ composi: 0.05907122129319477
+ effici: 0.02296257387490564
+ execu: 0.02296257387490564
+ framework: 0.04248076166857544
+ kei: 0.02296257387490564
+ model: 0.131288516129773
+ parametr: 0.02296257387490564
+ perform: 0.03272166777174054
+ process: 0.04248076166857544
+ reason: 0.03272166777174054
+ scenario: 0.07317311197412119
+ servic: 0.04248076166857544
+ structur: 0.05907122129319477
+ synchron: 0.02296257387490564
+ verif: 0.02296257387490564
+ web: 0.02296257387490564
+
+N-grams list: 10
+ adequ commun model
+ synchron commun model
+ commun model
+ servic composi scenario
+ parametr model
+ accur model
+ model
+ web servic composi
+ complex buffer structur
+ asynchron commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

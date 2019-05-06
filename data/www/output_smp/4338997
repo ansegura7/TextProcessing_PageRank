@@ -1,0 +1,63 @@
+File name: 4338997
+
+Graph edges count: 18
+ conceptu - model: 1
+ domainspecif - metamodel: 1
+ domain - model: 1
+ highlevel - represent: 1
+ major - interest: 1
+ ontolog - domain: 1
+ person - data: 1
+ person - recommend: 1
+ portal - content: 1
+ profil - ontolog: 1
+ semant - person: 1
+ semant - reason: 1
+ success - user: 1
+ user - access: 1
+ user - navig: 1
+ user - profil: 1
+ web - applic: 2
+ web - portal: 1
+
+PageRank scores count: 24
+ access: 0.03839183579245083
+ applic: 0.03589395254515633
+ conceptu: 0.025188738628179882
+ content: 0.05569859829156276
+ data: 0.04044366845987132
+ domain: 0.0743372678221785
+ domainspecif: 0.025188738628179882
+ highlevel: 0.025188738628179882
+ interest: 0.046599166462132774
+ major: 0.025188738628179882
+ metamodel: 0.046599166462132774
+ model: 0.1097858441109845
+ navig: 0.03839183579245083
+ ontolog: 0.05782179905176309
+ person: 0.03589395254515633
+ portal: 0.03589395254515633
+ profil: 0.03839183579245083
+ reason: 0.03589395254515633
+ recommend: 0.04044366845987132
+ represent: 0.046599166462132774
+ semant: 0.025188738628179882
+ success: 0.025188738628179882
+ user: 0.046599166462132774
+ web: 0.025188738628179882
+
+N-grams list: 10
+ domain model
+ user profil ontolog
+ conceptu model
+ web portal content
+ success user navig
+ user access
+ person data
+ person recommend
+ major interest
+ highlevel represent
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

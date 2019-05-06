@@ -1,0 +1,88 @@
+File name: 497719
+
+Graph edges count: 29
+ acceler - method: 1
+ accur - rank: 1
+ adapt - pagerank: 1
+ aggreg - principl: 1
+ aggreg - techniqu: 1
+ algorithm - updat: 1
+ excit - featur: 1
+ famou - pagerank: 1
+ frequent - updat: 1
+ iter - aggreg: 3
+ lumpabl - algorithm: 1
+ markov - chain: 2
+ monthli - basi: 1
+ node - lumpabl: 1
+ origin - pagerank: 1
+ pagerank - acceler: 1
+ pagerank - algorithm: 1
+ pagerank - comput: 1
+ pagerank - vector: 2
+ person - rank: 1
+ quadrat - extrapol: 1
+ rank - vector: 1
+ realtim - person: 1
+ search - engin: 1
+ slowconverg - state: 1
+ small - subset: 1
+ updat - pagerank: 1
+ valuabl - rank: 1
+ web - googl: 1
+
+PageRank scores count: 38
+ acceler: 0.03043580452319187
+ accur: 0.012935052829585658
+ adapt: 0.012935052829585658
+ aggreg: 0.023929847734733466
+ algorithm: 0.05077617509771531
+ basi: 0.023929847734733466
+ chain: 0.023929847734733466
+ comput: 0.03043580452319187
+ engin: 0.023929847734733466
+ excit: 0.012935052829585658
+ extrapol: 0.023929847734733466
+ famou: 0.012935052829585658
+ featur: 0.023929847734733466
+ frequent: 0.012935052829585658
+ googl: 0.023929847734733466
+ iter: 0.012935052829585658
+ lumpabl: 0.023929847734733466
+ markov: 0.012935052829585658
+ method: 0.03880548993848453
+ monthli: 0.012935052829585658
+ node: 0.012935052829585658
+ origin: 0.012935052829585658
+ pagerank: 0.10294559600327297
+ person: 0.023929847734733466
+ principl: 0.023105238116847383
+ quadrat: 0.012935052829585658
+ rank: 0.05526501321440472
+ realtim: 0.012935052829585658
+ search: 0.012935052829585658
+ slowconverg: 0.012935052829585658
+ small: 0.012935052829585658
+ state: 0.023929847734733466
+ subset: 0.023929847734733466
+ techniqu: 0.023105238116847383
+ updat: 0.06708959983197726
+ valuabl: 0.012935052829585658
+ vector: 0.09491181744904208
+ web: 0.012935052829585658
+
+N-grams list: 10
+ algorithm updat pagerank
+ famou pagerank vector
+ pagerank vector
+ pagerank acceler method
+ origin pagerank algorithm
+ valuabl rank vector
+ pagerank comput
+ adapt pagerank
+ pagerank
+ realtim person rank
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,84 @@
+File name: 51477
+
+Graph edges count: 26
+ assess - process: 1
+ bottomup - semiautomat: 1
+ case - studi: 1
+ chatti - web: 1
+ commun - infrastructur: 1
+ data - sourc: 2
+ emerg - semant: 1
+ formal - framework: 1
+ global - agreem: 2
+ global - phenomenon: 1
+ global - semant: 1
+ inform - share: 1
+ larg - amount: 1
+ local - interac: 1
+ local - schema: 1
+ p2p - system: 1
+ pairwis - local: 1
+ preexist - global: 1
+ qualiti - rate: 1
+ semant - criteria: 1
+ semant - interoper: 2
+ semant - model: 1
+ semant - qualiti: 1
+ semiautomat - manner: 1
+ share - parti: 1
+ system - p2p: 1
+
+PageRank scores count: 37
+ agreem: 0.02630547262608384
+ amount: 0.027244296351717347
+ assess: 0.014726646676603972
+ bottomup: 0.014726646676603972
+ case: 0.014726646676603972
+ chatti: 0.014726646676603972
+ commun: 0.014726646676603972
+ criteria: 0.02034237726210171
+ data: 0.014726646676603972
+ emerg: 0.014726646676603972
+ formal: 0.014726646676603972
+ framework: 0.027244296351717347
+ global: 0.027244296351717347
+ inform: 0.014726646676603972
+ infrastructur: 0.027244296351717347
+ interac: 0.02630547262608384
+ interoper: 0.02595810784759945
+ larg: 0.014726646676603972
+ local: 0.027244296351717347
+ manner: 0.03788429857556372
+ model: 0.02034237726210171
+ p2p: 0.09817764451069312
+ pairwis: 0.014726646676603972
+ parti: 0.03788429857556372
+ phenomenon: 0.02051605965134391
+ preexist: 0.014726646676603972
+ process: 0.027244296351717347
+ qualiti: 0.02034237726210171
+ rate: 0.032017667349390426
+ schema: 0.02630547262608384
+ semant: 0.033033709326457286
+ semiautomat: 0.027244296351717347
+ share: 0.027244296351717347
+ sourc: 0.027244296351717347
+ studi: 0.027244296351717347
+ system: 0.09817764451069312
+ web: 0.027244296351717347
+
+N-grams list: 10
+ system p2p system
+ system
+ inform share parti
+ bottomup semiautomat manner
+ preexist global semant
+ pairwis local interac
+ semant interoper
+ global agreem
+ local schema
+ semant criteria
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

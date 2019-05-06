@@ -1,0 +1,10 @@
+"C:/Users/Andres/Documents/Uniandes/MINE-4205 - Knowledge Discovery From Social and Information Networks/HW2/Data/www" UNIGRAMS DIRECT
+"C:/Users/Andres/Documents/Uniandes/MINE-4205 - Knowledge Discovery From Social and Information Networks/HW2/Data/www" UNIGRAMS BY_TOKENS
+"C:/Users/Andres/Documents/Uniandes/MINE-4205 - Knowledge Discovery From Social and Information Networks/HW2/Data/www" NGRAMS DIRECT
+"C:/Users/Andres/Documents/Uniandes/MINE-4205 - Knowledge Discovery From Social and Information Networks/HW2/Data/www" NGRAMS BY_TOKENS
+
+
+java -jar KD_HW2_v1.7.jar data/ UNIGRAMS DIRECT
+java -jar KD_HW2_v1.7.jar data/ UNIGRAMS BY_TOKENS
+java -jar KD_HW2_v1.7.jar data/ NGRAMS DIRECT
+java -jar KD_HW2_v1.7.jar data/ NGRAMS BY_TOKENS

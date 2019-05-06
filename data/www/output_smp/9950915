@@ -1,0 +1,84 @@
+File name: 9950915
+
+Graph edges count: 25
+ balanc - issu: 1
+ data - set: 1
+ divers - coverag: 2
+ docum - summar: 1
+ duc2001 - data: 1
+ enhanc - divers: 1
+ exponenti - growth: 1
+ extractbas - summar: 2
+ graph - structur: 1
+ import - role: 1
+ larg - extent: 1
+ learn - framework: 1
+ main - inform: 1
+ optim - problem: 1
+ output - variabl: 1
+ perform - improv: 1
+ rel - import: 1
+ roug - metric: 1
+ signific - perform: 1
+ structur - learn: 1
+ structur - svm: 1
+ suffici - coverag: 1
+ summari - divers: 1
+ summar - problem: 1
+ unsupervis - approach: 1
+
+PageRank scores count: 38
+ approach: 0.028528113202637293
+ balanc: 0.015420601731155293
+ coverag: 0.0639183941756387
+ data: 0.028528113202637293
+ divers: 0.04163562467411929
+ docum: 0.015420601731155293
+ duc2001: 0.015420601731155293
+ enhanc: 0.015420601731155293
+ exponenti: 0.015420601731155293
+ extent: 0.028528113202637293
+ extractbas: 0.015420601731155293
+ framework: 0.03883389409709001
+ graph: 0.015420601731155293
+ growth: 0.028528113202637293
+ import: 0.028528113202637293
+ improv: 0.03966949795339699
+ inform: 0.028528113202637293
+ issu: 0.028528113202637293
+ larg: 0.015420601731155293
+ learn: 0.027545049842276143
+ main: 0.015420601731155293
+ metric: 0.028528113202637293
+ optim: 0.015420601731155293
+ output: 0.015420601731155293
+ perform: 0.028528113202637293
+ problem: 0.0639183941756387
+ rel: 0.015420601731155293
+ role: 0.03966949795339699
+ roug: 0.015420601731155293
+ set: 0.03966949795339699
+ signific: 0.015420601731155293
+ structur: 0.028528113202637293
+ suffici: 0.015420601731155293
+ summar: 0.04163562467411929
+ summari: 0.015420601731155293
+ svm: 0.027545049842276143
+ unsupervis: 0.015420601731155293
+ variabl: 0.028528113202637293
+
+N-grams list: 10
+ enhanc divers coverag
+ summari divers coverag
+ extractbas summar problem
+ structur learn framework
+ signific perform improv
+ duc2001 data set
+ optim problem
+ suffici coverag
+ import role
+ extractbas summar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

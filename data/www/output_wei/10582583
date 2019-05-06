@@ -1,0 +1,44 @@
+File name: 10582583
+
+Graph edges count: 8
+ current - corpu: 1
+ disput - claim: 3
+ factual - claim: 1
+ inform - credibl: 1
+ select - text: 1
+ statist - classifi: 1
+ tool - extract: 1
+ wide - rang: 1
+
+PageRank scores count: 15
+ claim: 0.12385321100917428
+ classifi: 0.0848623853211009
+ corpu: 0.0848623853211009
+ credibl: 0.0848623853211009
+ current: 0.04587155963302751
+ disput: 0.04587155963302751
+ extract: 0.0848623853211009
+ factual: 0.04587155963302751
+ inform: 0.04587155963302751
+ rang: 0.0848623853211009
+ select: 0.04587155963302751
+ statist: 0.04587155963302751
+ text: 0.0848623853211009
+ tool: 0.04587155963302751
+ wide: 0.04587155963302751
+
+N-grams list: 10
+ factual claim
+ disput claim
+ current corpu
+ statist classifi
+ select text
+ wide rang
+ tool extract
+ inform credibl
+ claim
+ corpu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

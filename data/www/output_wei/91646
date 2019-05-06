@@ -1,0 +1,54 @@
+File name: 91646
+
+Graph edges count: 12
+ advertis - descrip: 1
+ electron - marketplac: 1
+ facilit - compliant: 1
+ gener - properti: 1
+ good - correspond: 1
+ matchmak - facilit: 1
+ match - categor: 1
+ neoclass - reason: 1
+ principl - matchmak: 1
+ structur - subsump: 1
+ subsump - algorithm: 1
+ system - rank: 1
+
+PageRank scores count: 21
+ advertis: 0.029427668629737398
+ algorithm: 0.07570267754999946
+ categor: 0.05444118696501419
+ compliant: 0.09377494454723694
+ correspond: 0.05444118696501419
+ descrip: 0.05444118696501419
+ electron: 0.029427668629737398
+ facilit: 0.07570267754999946
+ gener: 0.029427668629737398
+ good: 0.029427668629737398
+ marketplac: 0.05444118696501419
+ match: 0.029427668629737398
+ matchmak: 0.05444118696501419
+ neoclass: 0.029427668629737398
+ principl: 0.029427668629737398
+ properti: 0.05444118696501419
+ rank: 0.05444118696501419
+ reason: 0.05444118696501419
+ structur: 0.029427668629737398
+ subsump: 0.05444118696501419
+ system: 0.029427668629737398
+
+N-grams list: 10
+ matchmak facilit compliant
+ structur subsump algorithm
+ gener properti
+ good correspond
+ system rank
+ neoclass reason
+ match categor
+ electron marketplac
+ advertis descrip
+ principl matchmak
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

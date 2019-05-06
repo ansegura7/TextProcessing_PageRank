@@ -1,0 +1,87 @@
+File name: 4517659
+
+Graph edges count: 27
+ aka - cea2014: 1
+ baselin - remot: 1
+ capabl - inform: 1
+ consum - devic: 2
+ domain - mobil: 1
+ highend - tv: 1
+ industrywid - effort: 1
+ interfac - technologi: 1
+ larg - industrywid: 1
+ major - compani: 1
+ mobil - domain: 1
+ mobil - phone: 1
+ networken - devic: 1
+ network - allianc: 1
+ output - devic: 1
+ pc - domain: 1
+ remot - render: 1
+ remot - user: 2
+ session - migrat: 1
+ short - overview: 1
+ true - interoper: 1
+ true - mobil: 1
+ tv - domain: 1
+ user - interfac: 2
+ web4c - framework: 1
+ webbas - applic: 1
+ wide - rang: 1
+
+PageRank scores count: 39
+ aka: 0.013630226183237292
+ allianc: 0.025215918438988988
+ applic: 0.025215918438988988
+ baselin: 0.013630226183237292
+ capabl: 0.013630226183237292
+ cea2014: 0.025215918438988988
+ compani: 0.025215918438988988
+ consum: 0.013630226183237292
+ devic: 0.048387302950492386
+ domain: 0.08595579073797614
+ effort: 0.03506375685637793
+ framework: 0.025215918438988988
+ highend: 0.013630226183237292
+ industrywid: 0.025215918438988988
+ inform: 0.025215918438988988
+ interfac: 0.037361585820435354
+ interoper: 0.019423072311113142
+ larg: 0.013630226183237292
+ major: 0.013630226183237292
+ migrat: 0.025215918438988988
+ mobil: 0.09248549996139671
+ network: 0.013630226183237292
+ networken: 0.013630226183237292
+ output: 0.013630226183237292
+ overview: 0.025215918438988988
+ pc: 0.013630226183237292
+ phone: 0.05293656780908379
+ rang: 0.025215918438988988
+ remot: 0.025215918438988988
+ render: 0.020774736407617504
+ session: 0.013630226183237292
+ short: 0.013630226183237292
+ technologi: 0.04538757413060734
+ true: 0.013630226183237292
+ tv: 0.025215918438988988
+ user: 0.02791924663199772
+ web4c: 0.013630226183237292
+ webbas: 0.013630226183237292
+ wide: 0.013630226183237292
+
+N-grams list: 10
+ pc domain mobil
+ mobil phone
+ tv domain
+ true mobil
+ remot user interfac
+ domain
+ interfac technologi
+ larg industrywid effort
+ baselin remot user
+ networken devic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

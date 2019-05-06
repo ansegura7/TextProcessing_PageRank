@@ -1,0 +1,103 @@
+File name: 527600
+
+Graph edges count: 31
+ academ - research: 1
+ audit - offic: 1
+ averag - distanc: 1
+ compani - intern: 1
+ connect - compon: 1
+ czech - republ: 1
+ dimension - analysi: 1
+ doc - file: 1
+ egovern - websit: 1
+ evalu - techniqu: 1
+ experiment - valu: 1
+ govern - audit: 1
+ inform - measur: 1
+ intern - organ: 1
+ leagu - tabl: 1
+ multi - dimension: 1
+ nation - popul: 1
+ network - analysi: 1
+ nonhyperlink - content: 1
+ offic - site: 1
+ path - length: 1
+ preliminari - work: 1
+ previou - work: 1
+ quantit - evalu: 1
+ respect - nation: 1
+ signific - differ: 1
+ social - network: 1
+ statist - properti: 1
+ subject - measur: 1
+ uk - site: 1
+ web - structur: 1
+
+PageRank scores count: 51
+ academ: 0.012045054526456215
+ analysi: 0.049926751012161014
+ audit: 0.022283350873943997
+ averag: 0.012045054526456215
+ compani: 0.012045054526456215
+ compon: 0.022283350873943997
+ connect: 0.012045054526456215
+ content: 0.022283350873943997
+ czech: 0.012045054526456215
+ differ: 0.022283350873943997
+ dimension: 0.022283350873943997
+ distanc: 0.022283350873943997
+ doc: 0.012045054526456215
+ egovern: 0.012045054526456215
+ evalu: 0.022283350873943997
+ experiment: 0.012045054526456215
+ file: 0.022283350873943997
+ govern: 0.012045054526456215
+ inform: 0.012045054526456215
+ intern: 0.022283350873943997
+ leagu: 0.012045054526456215
+ length: 0.022283350873943997
+ measur: 0.03252164722143178
+ multi: 0.012045054526456215
+ nation: 0.022283350873943997
+ network: 0.022283350873943997
+ nonhyperlink: 0.012045054526456215
+ offic: 0.030985902769308613
+ organ: 0.030985902769308613
+ path: 0.012045054526456215
+ popul: 0.030985902769308613
+ preliminari: 0.012045054526456215
+ previou: 0.012045054526456215
+ properti: 0.022283350873943997
+ quantit: 0.012045054526456215
+ republ: 0.022283350873943997
+ research: 0.022283350873943997
+ respect: 0.012045054526456215
+ signific: 0.012045054526456215
+ site: 0.048621368227856315
+ social: 0.012045054526456215
+ statist: 0.012045054526456215
+ structur: 0.022283350873943997
+ subject: 0.012045054526456215
+ tabl: 0.022283350873943997
+ techniqu: 0.030985902769308613
+ uk: 0.012045054526456215
+ valu: 0.022283350873943997
+ web: 0.012045054526456215
+ websit: 0.022283350873943997
+ work: 0.03252164722143178
+
+N-grams list: 10
+ multi dimension analysi
+ social network analysi
+ respect nation popul
+ compani intern organ
+ govern audit offic
+ uk site
+ evalu techniqu
+ analysi
+ site
+ subject measur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

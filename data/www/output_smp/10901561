@@ -1,0 +1,80 @@
+File name: 10901561
+
+Graph edges count: 26
+ aggreg - heurist: 1
+ consolid - entiti: 1
+ consolid - extern: 1
+ data - aggreg: 1
+ data - mashup: 1
+ embedd - data: 1
+ end - user: 1
+ entiti - descrip: 2
+ extern - servic: 1
+ holist - approach: 1
+ index - logic: 1
+ inform - space: 1
+ larg - scale: 1
+ live - view: 1
+ logic - reason: 1
+ mashup - machin: 1
+ ontologi - consolid: 1
+ peculiar - characterist: 1
+ reason - data: 1
+ respons - user: 1
+ rich - entiti: 1
+ scale - semant: 1
+ semant - web: 1
+ user - applic: 1
+ user - interac: 1
+ web - index: 1
+
+PageRank scores count: 33
+ aggreg: 0.04457017767232262
+ applic: 0.027966020681746615
+ approach: 0.024091798957499997
+ characterist: 0.024091798957499997
+ consolid: 0.024091798957499997
+ data: 0.07422960856762716
+ descrip: 0.042203785518352945
+ embedd: 0.013022594031081079
+ end: 0.013022594031081079
+ entiti: 0.034330813514437494
+ extern: 0.023261608588018574
+ heurist: 0.050907245052555304
+ holist: 0.013022594031081079
+ index: 0.048295999179730764
+ inform: 0.013022594031081079
+ interac: 0.027966020681746615
+ larg: 0.013022594031081079
+ live: 0.013022594031081079
+ logic: 0.05407419333385223
+ machin: 0.050907245052555304
+ mashup: 0.04457017767232262
+ ontologi: 0.013022594031081079
+ peculiar: 0.013022594031081079
+ reason: 0.058985658364855476
+ respons: 0.013022594031081079
+ rich: 0.013022594031081079
+ scale: 0.024091798957499997
+ semant: 0.03350062314495608
+ servic: 0.03279496133089687
+ space: 0.024091798957499997
+ user: 0.03516100388391891
+ view: 0.024091798957499997
+ web: 0.041498123704293746
+
+N-grams list: 10
+ reason data aggreg
+ web index logic
+ embedd data mashup
+ consolid entiti descrip
+ rich entiti descrip
+ end user applic
+ respons user interac
+ data
+ larg scale semant
+ ontologi consolid extern
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

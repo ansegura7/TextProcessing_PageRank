@@ -1,0 +1,70 @@
+File name: 10754076
+
+Graph edges count: 21
+ citat - context: 1
+ citat - place: 1
+ citat - recommend: 3
+ citeseerx - digit: 1
+ contextawar - approach: 1
+ contextawar - citat: 2
+ contextbas - relev: 1
+ core - idea: 1
+ digit - librari: 1
+ empir - evalu: 1
+ extens - empir: 1
+ good - candid: 1
+ high - qualiti: 2
+ local - context: 1
+ nonparametr - probabilist: 1
+ place - citat: 1
+ probabilist - model: 1
+ prototyp - system: 1
+ qualiti - citat: 1
+ recommend - system: 2
+ small - number: 1
+
+PageRank scores count: 28
+ approach: 0.027357042437140287
+ candid: 0.03551616035698914
+ citat: 0.09729618465469012
+ citeseerx: 0.01919792451729143
+ context: 0.06308341443605052
+ contextawar: 0.01919792451729143
+ contextbas: 0.01919792451729143
+ core: 0.01919792451729143
+ digit: 0.03551616035698914
+ empir: 0.03551616035698914
+ evalu: 0.049386660820732196
+ extens: 0.01919792451729143
+ good: 0.01919792451729143
+ high: 0.01919792451729143
+ idea: 0.03551616035698914
+ librari: 0.049386660820732196
+ local: 0.01919792451729143
+ model: 0.049386660820732196
+ nonparametr: 0.01919792451729143
+ number: 0.03551616035698914
+ place: 0.0467651785963528
+ probabilist: 0.03551616035698914
+ prototyp: 0.01919792451729143
+ qualiti: 0.03551616035698914
+ recommend: 0.0467651785963528
+ relev: 0.03551616035698914
+ small: 0.01919792451729143
+ system: 0.0752665662710982
+
+N-grams list: 10
+ contextawar citat recommend
+ citat context
+ high qualiti citat
+ place citat
+ citat place
+ recommend system
+ citeseerx digit librari
+ extens empir evalu
+ nonparametr probabilist model
+ citat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

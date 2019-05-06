@@ -1,0 +1,93 @@
+File name: 13063418
+
+Graph edges count: 31
+ addition - malici: 1
+ central - server: 3
+ client - honeypot: 1
+ common - server: 1
+ detec - coverag: 1
+ detec - method: 1
+ detec - system: 2
+ distribu - network: 1
+ download - attack: 3
+ download - detec: 1
+ drivebi - detec: 2
+ drivebi - download: 5
+ experiment - result: 1
+ expressionbas - signatur: 1
+ fals - posit: 1
+ highinterac - client: 1
+ largescal - evalu: 1
+ larg - number: 1
+ larg - percentag: 1
+ low - fals: 1
+ malici - content: 1
+ malici - webpag: 2
+ malwar - distribu: 1
+ malwar - execut: 1
+ posit - rate: 1
+ previou - method: 1
+ produc - drivebi: 1
+ regular - expressionbas: 1
+ secondari - url: 1
+ success - drivebi: 1
+ webpag - exploit: 1
+
+PageRank scores count: 41
+ addition: 0.014133990078717172
+ attack: 0.03791505936785876
+ central: 0.014133990078717172
+ client: 0.02614788164562677
+ common: 0.014133990078717172
+ content: 0.02154255654497809
+ coverag: 0.020791375460286688
+ detec: 0.03132887238385654
+ distribu: 0.02014093586217197
+ download: 0.03730363810061425
+ drivebi: 0.038161773212536367
+ evalu: 0.02614788164562677
+ execut: 0.02014093586217197
+ experiment: 0.014133990078717172
+ exploit: 0.038742444638270326
+ expressionbas: 0.02614788164562677
+ fals: 0.02614788164562677
+ highinterac: 0.014133990078717172
+ honeypot: 0.03635968947749993
+ larg: 0.014133990078717172
+ largescal: 0.014133990078717172
+ low: 0.014133990078717172
+ malici: 0.02614788164562677
+ malwar: 0.014133990078717172
+ method: 0.03280526702719628
+ network: 0.031253785561563344
+ number: 0.02014093586217197
+ percentag: 0.02014093586217197
+ posit: 0.03635968947749993
+ previou: 0.014133990078717172
+ produc: 0.014133990078717172
+ rate: 0.045039726134592104
+ regular: 0.014133990078717172
+ result: 0.02614788164562677
+ secondari: 0.014133990078717172
+ server: 0.038161773212536367
+ signatur: 0.03635968947749993
+ success: 0.014133990078717172
+ system: 0.0274487608418562
+ url: 0.02614788164562677
+ webpag: 0.02895112301123901
+
+N-grams list: 10
+ drivebi download attack
+ drivebi download detec
+ drivebi detec system
+ malici webpag exploit
+ success drivebi download
+ produc drivebi detec
+ highinterac client honeypot
+ low fals posit
+ regular expressionbas signatur
+ drivebi download
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

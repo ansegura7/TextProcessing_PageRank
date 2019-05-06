@@ -1,0 +1,77 @@
+File name: 4377606
+
+Graph edges count: 25
+ altern - method: 2
+ commerci - databas: 1
+ complex - task: 1
+ current - commerci: 1
+ data - transform: 2
+ diskbas - merg: 1
+ heterogen - data: 1
+ highperform - xmltoxml: 1
+ mappingdriven - xml: 1
+ precis - semant: 1
+ scalabl - diskbas: 1
+ schemamap - tool: 1
+ schema - clio: 1
+ schema - map: 2
+ sourc - data: 1
+ sourc - valu: 1
+ target - data: 1
+ target - schema: 1
+ threephas - framework: 2
+ transform - clio: 1
+ transform - framework: 1
+ userfriendli - mean: 1
+ xmltoxml - transform: 1
+ xml - databas: 1
+ xml - transform: 1
+
+PageRank scores count: 31
+ altern: 0.017651646953822184
+ clio: 0.07075607520042893
+ commerci: 0.03265554686457104
+ complex: 0.017651646953822184
+ current: 0.017651646953822184
+ data: 0.0476594467753199
+ databas: 0.05928746920615026
+ diskbas: 0.03265554686457104
+ framework: 0.07506969642476921
+ heterogen: 0.017651646953822184
+ highperform: 0.017651646953822184
+ map: 0.028341925640230744
+ mappingdriven: 0.017651646953822184
+ mean: 0.03265554686457104
+ merg: 0.04540886178870757
+ method: 0.03265554686457104
+ precis: 0.017651646953822184
+ scalabl: 0.017651646953822184
+ schema: 0.02515359690919661
+ schemamap: 0.017651646953822184
+ semant: 0.03265554686457104
+ sourc: 0.017651646953822184
+ target: 0.017651646953822184
+ task: 0.03265554686457104
+ threephas: 0.017651646953822184
+ tool: 0.03265554686457104
+ transform: 0.09979799896517216
+ userfriendli: 0.017651646953822184
+ valu: 0.02515359690919661
+ xml: 0.03265554686457104
+ xmltoxml: 0.03265554686457104
+
+N-grams list: 10
+ transform framework
+ highperform xmltoxml transform
+ mappingdriven xml transform
+ data transform
+ target schema clio
+ current commerci databas
+ transform
+ scalabl diskbas merg
+ threephas framework
+ xml databas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

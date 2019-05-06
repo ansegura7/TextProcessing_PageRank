@@ -1,0 +1,94 @@
+File name: 14371347
+
+Graph edges count: 29
+ conflict - sourc: 1
+ consensusbas - approach: 2
+ consensu - problem: 1
+ current - temperatur: 1
+ formal - approach: 1
+ gibb - sampl: 1
+ hidden - semimarkovian: 1
+ hidden - state: 2
+ historyagnost - consensusbas: 1
+ historybas - techniqu: 1
+ inform - integr: 1
+ interest - true: 1
+ kei - challeng: 1
+ noisi - observ: 1
+ noisi - sourc: 2
+ price - sport: 1
+ realworld - dataset: 1
+ realworld - entiti: 2
+ realworld - updat: 2
+ semimarkovian - process: 1
+ sourc - reliabl: 1
+ sourc - valu: 1
+ sport - score: 1
+ static - valu: 1
+ stock - price: 1
+ tempor - aspect: 1
+ uncertain - environ: 1
+ unknown - map: 1
+ weight - consensu: 1
+
+PageRank scores count: 44
+ approach: 0.0493517401985966
+ aspect: 0.026676616323565727
+ challeng: 0.026676616323565727
+ conflict: 0.014419792607332827
+ consensu: 0.026676616323565727
+ consensusbas: 0.026676616323565727
+ current: 0.014419792607332827
+ dataset: 0.01850540051274379
+ entiti: 0.01850540051274379
+ environ: 0.026676616323565727
+ formal: 0.014419792607332827
+ gibb: 0.014419792607332827
+ hidden: 0.014419792607332827
+ historyagnost: 0.014419792607332827
+ historybas: 0.014419792607332827
+ inform: 0.014419792607332827
+ integr: 0.026676616323565727
+ interest: 0.014419792607332827
+ kei: 0.014419792607332827
+ map: 0.026676616323565727
+ noisi: 0.014419792607332827
+ observ: 0.020548204465449277
+ price: 0.026676616323565727
+ problem: 0.037094916482363696
+ process: 0.03188576640296471
+ realworld: 0.014419792607332827
+ reliabl: 0.02836192958454775
+ sampl: 0.026676616323565727
+ score: 0.04595047161734197
+ semimarkovian: 0.020548204465449277
+ sourc: 0.032805028181682176
+ sport: 0.037094916482363696
+ state: 0.020548204465449277
+ static: 0.014419792607332827
+ stock: 0.014419792607332827
+ techniqu: 0.026676616323565727
+ temperatur: 0.026676616323565727
+ tempor: 0.014419792607332827
+ true: 0.026676616323565727
+ uncertain: 0.014419792607332827
+ unknown: 0.014419792607332827
+ updat: 0.01850540051274379
+ valu: 0.04061875330078065
+ weight: 0.014419792607332827
+
+N-grams list: 10
+ historyagnost consensusbas approach
+ stock price sport
+ consensusbas approach
+ sourc valu
+ hidden semimarkovian process
+ formal approach
+ consensu problem
+ sourc reliabl
+ static valu
+ conflict sourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

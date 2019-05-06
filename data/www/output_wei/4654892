@@ -1,0 +1,40 @@
+File name: 4654892
+
+Graph edges count: 10
+ automat - extrac: 1
+ automat - search: 1
+ ecommerc - search: 1
+ group - elem: 1
+ interfac - integr: 1
+ interfac - schema: 1
+ schema - integr: 1
+ search - engin: 1
+ search - interfac: 4
+ web - search: 2
+
+PageRank scores count: 11
+ automat: 0.04610120655501532
+ ecommerc: 0.04610120655501532
+ elem: 0.08528723212677833
+ engin: 0.07059247253736721
+ extrac: 0.06569421934089682
+ group: 0.04610120655501532
+ integr: 0.19855933729515582
+ interfac: 0.14406627048442286
+ schema: 0.10732937151089504
+ search: 0.14406627048442286
+ web: 0.04610120655501532
+
+N-grams list: 8
+ interfac schema integr
+ automat search interfac
+ web search interfac
+ search interfac
+ ecommerc search engin
+ integr
+ group elem
+ automat extrac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

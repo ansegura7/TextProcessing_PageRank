@@ -1,0 +1,82 @@
+File name: 14395695
+
+Graph edges count: 28
+ addition - clue: 1
+ behavior - result: 1
+ clickthrough - statist: 1
+ control - user: 1
+ cursor - movem: 3
+ docum - relev: 3
+ dwell - time: 3
+ estim - docum: 1
+ experiment - result: 1
+ explicit - judgment: 1
+ interac - behavior: 1
+ knowledg - pcb: 1
+ land - page: 1
+ nonrelev - docum: 1
+ page - dwell: 1
+ page - examin: 1
+ postclick - behavior: 1
+ postclick - searcher: 3
+ queri - result: 1
+ result - click: 1
+ result - clickthrough: 1
+ result - relev: 1
+ searcher - behavior: 2
+ searcher - interac: 1
+ search - result: 1
+ time - inform: 1
+ uniqu - queri: 1
+ user - studi: 1
+
+PageRank scores count: 33
+ addition: 0.014707539314222222
+ behavior: 0.04993807090963084
+ click: 0.044538380545629065
+ clickthrough: 0.044538380545629065
+ clue: 0.027208947731311113
+ control: 0.014707539314222222
+ cursor: 0.014707539314222222
+ docum: 0.039710356148399996
+ dwell: 0.02627134210002944
+ estim: 0.014707539314222222
+ examin: 0.02627134210002944
+ experiment: 0.014707539314222222
+ explicit: 0.014707539314222222
+ inform: 0.04618999239858238
+ interac: 0.023614792811398052
+ judgment: 0.027208947731311113
+ knowledg: 0.014707539314222222
+ land: 0.014707539314222222
+ movem: 0.027208947731311113
+ nonrelev: 0.014707539314222222
+ page: 0.027208947731311113
+ pcb: 0.027208947731311113
+ postclick: 0.014707539314222222
+ queri: 0.027208947731311113
+ relev: 0.07829218327176908
+ result: 0.10528532199320065
+ search: 0.014707539314222222
+ searcher: 0.020958243522766665
+ statist: 0.052565162778006935
+ studi: 0.03783514488583667
+ time: 0.037038180099247246
+ uniqu: 0.014707539314222222
+ user: 0.027208947731311113
+
+N-grams list: 10
+ result clickthrough statist
+ search result relev
+ uniqu queri result
+ estim docum relev
+ experiment result
+ docum relev
+ result
+ page dwell time
+ postclick searcher behavior
+ control user studi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

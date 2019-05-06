@@ -1,0 +1,54 @@
+File name: 405904
+
+Graph edges count: 14
+ analysi - classif: 1
+ descrip - logic: 1
+ detail - semant: 1
+ galen - ontologi: 1
+ global - interoper: 1
+ larg - descrip: 1
+ logic - ontologi: 1
+ medic - term: 1
+ mere - fragment: 1
+ ontologi - segment: 1
+ owl - ontologi: 1
+ relev - segment: 2
+ semant - web: 1
+ web - ontologi: 1
+
+PageRank scores count: 19
+ analysi: 0.024887686537099298
+ classif: 0.0460422200936337
+ descrip: 0.0460422200936337
+ detail: 0.024887686537099298
+ fragment: 0.0460422200936337
+ galen: 0.024887686537099298
+ global: 0.024887686537099298
+ interoper: 0.0460422200936337
+ larg: 0.024887686537099298
+ logic: 0.06402357361668795
+ medic: 0.024887686537099298
+ mere: 0.024887686537099298
+ ontologi: 0.17603682879853758
+ owl: 0.024887686537099298
+ relev: 0.024887686537099298
+ segment: 0.19567352457239065
+ semant: 0.0460422200936337
+ term: 0.0460422200936337
+ web: 0.06402357361668795
+
+N-grams list: 10
+ web ontologi segment
+ relev segment
+ owl ontologi
+ galen ontologi
+ segment
+ ontologi
+ larg descrip logic
+ semant web
+ analysi classif
+ medic term
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

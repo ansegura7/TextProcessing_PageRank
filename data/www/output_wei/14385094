@@ -1,0 +1,61 @@
+File name: 14385094
+
+Graph edges count: 18
+ cluster - approach: 1
+ commun - detec: 3
+ commun - structur: 1
+ complet - network: 1
+ distanc - metric: 2
+ empir - studi: 1
+ hierarch - cluster: 1
+ incomplet - inform: 4
+ inform - network: 6
+ inform - region: 1
+ linkbas - distanc: 1
+ local - inform: 1
+ local - region: 1
+ network - commun: 1
+ network - data: 1
+ realworld - applic: 1
+ realworld - inform: 1
+ recent - advanc: 1
+
+PageRank scores count: 22
+ advanc: 0.046583638674995854
+ applic: 0.03588199195236168
+ approach: 0.06477643810347397
+ cluster: 0.046583638674995854
+ commun: 0.06603005957669683
+ complet: 0.02518034522972749
+ data: 0.06603005957669683
+ detec: 0.06727450820987171
+ distanc: 0.046583638674995854
+ empir: 0.02518034522972749
+ hierarch: 0.02518034522972749
+ incomplet: 0.02518034522972749
+ inform: 0.06798693212026423
+ linkbas: 0.02518034522972749
+ local: 0.02518034522972749
+ metric: 0.06477643810347397
+ network: 0.09611697493404552
+ realworld: 0.02518034522972749
+ recent: 0.02518034522972749
+ region: 0.04413754799553661
+ structur: 0.03921173288977557
+ studi: 0.046583638674995854
+
+N-grams list: 10
+ network commun detec
+ realworld inform network
+ incomplet inform network
+ complet network data
+ inform network
+ local inform region
+ hierarch cluster approach
+ commun detec
+ distanc metric
+ commun structur
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

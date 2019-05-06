@@ -1,0 +1,108 @@
+File name: 13526048
+
+Graph edges count: 36
+ algorithm - initrank: 1
+ algorithm - pagerank: 1
+ australia - product: 1
+ baselin - method: 1
+ case - studi: 1
+ cloud - comput: 1
+ comput - collabor: 1
+ direct - time: 1
+ extract - featur: 1
+ famou - rumor: 1
+ googl - cloud: 1
+ high - effect: 1
+ hit - initrank: 1
+ initi - detec: 2
+ initi - indic: 1
+ initi - rank: 1
+ link - inform: 1
+ offici - announc: 1
+ optim - framework: 1
+ queri - keyword: 1
+ rank - algorithm: 1
+ search - techniqu: 1
+ sort - wellknown: 1
+ system - framework: 1
+ tcl - graph: 1
+ tid - problem: 1
+ timestamp - web: 1
+ time - content: 1
+ time - sort: 1
+ topic - initi: 4
+ topic - queri: 1
+ web - docum: 5
+ web - mine: 1
+ wellknown - link: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 51
+ algorithm: 0.024513366390375917
+ announc: 0.021059104145531794
+ australia: 0.011383299538125294
+ baselin: 0.011383299538125294
+ case: 0.011383299538125294
+ cloud: 0.021059104145531794
+ collabor: 0.036274306890678516
+ comput: 0.02928353806182732
+ content: 0.020333418799976306
+ detec: 0.019510975408346752
+ direct: 0.011383299538125294
+ docum: 0.038979500595499254
+ effect: 0.021059104145531794
+ extract: 0.011383299538125294
+ famou: 0.011383299538125294
+ featur: 0.021059104145531794
+ framework: 0.030734908752938293
+ googl: 0.011383299538125294
+ graph: 0.021059104145531794
+ high: 0.011383299538125294
+ hit: 0.011383299538125294
+ indic: 0.015447137473236025
+ inform: 0.04177079888236276
+ initi: 0.01912394322405049
+ initrank: 0.03147728486144156
+ keyword: 0.0227039909287909
+ link: 0.03574999922851467
+ method: 0.021059104145531794
+ mine: 0.016902539749600085
+ offici: 0.011383299538125294
+ optim: 0.011383299538125294
+ pagerank: 0.021801480254035062
+ problem: 0.021059104145531794
+ product: 0.021059104145531794
+ queri: 0.013318460459606593
+ rank: 0.015447137473236025
+ rumor: 0.021059104145531794
+ search: 0.011383299538125294
+ sort: 0.020333418799976306
+ studi: 0.021059104145531794
+ system: 0.011383299538125294
+ tcl: 0.011383299538125294
+ techniqu: 0.021059104145531794
+ tid: 0.011383299538125294
+ time: 0.021059104145531794
+ timestamp: 0.011383299538125294
+ topic: 0.011383299538125294
+ web: 0.038959342669233815
+ wellknown: 0.028666705518105153
+ wide: 0.021059104145531794
+ world: 0.011383299538125294
+
+N-grams list: 10
+ timestamp web docum
+ web docum
+ link inform
+ world wide web
+ wellknown link
+ rank algorithm pagerank
+ googl cloud comput
+ algorithm initrank
+ web mine
+ direct time sort
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

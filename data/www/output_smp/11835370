@@ -1,0 +1,62 @@
+File name: 11835370
+
+Graph edges count: 17
+ bottleneck - characterist: 1
+ bottleneck - scenario: 1
+ broad - varieti: 1
+ bursti - profil: 1
+ characterist - guid: 1
+ dynam - resourc: 1
+ effici - resourc: 1
+ endtoend - respons: 1
+ guid - resourc: 1
+ multiti - system: 1
+ parameterfre - algorithm: 1
+ power - save: 1
+ resourc - alloc: 2
+ respons - time: 1
+ simpl - statist: 1
+ system - bottleneck: 1
+ workload - bursti: 1
+
+PageRank scores count: 24
+ algorithm: 0.03936261128228063
+ alloc: 0.11283357502295263
+ bottleneck: 0.054735306769549685
+ broad: 0.021277087179611152
+ bursti: 0.03936261128228063
+ characterist: 0.04453959255666977
+ dynam: 0.021277087179611152
+ effici: 0.021277087179611152
+ endtoend: 0.021277087179611152
+ guid: 0.059135740852780457
+ multiti: 0.021277087179611152
+ parameterfre: 0.021277087179611152
+ power: 0.021277087179611152
+ profil: 0.054735306769549685
+ resourc: 0.10771351510981349
+ respons: 0.03936261128228063
+ save: 0.03936261128228063
+ scenario: 0.04453959255666977
+ simpl: 0.021277087179611152
+ statist: 0.03936261128228063
+ system: 0.03936261128228063
+ time: 0.054735306769549685
+ varieti: 0.03936261128228063
+ workload: 0.021277087179611152
+
+N-grams list: 10
+ guid resourc alloc
+ effici resourc alloc
+ system bottleneck characterist
+ dynam resourc
+ endtoend respons time
+ bottleneck scenario
+ bursti profil
+ broad varieti
+ power save
+ simpl statist
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,85 @@
+File name: 11701167
+
+Graph edges count: 30
+ analysi - task: 1
+ case - page: 1
+ complex - analysi: 1
+ crawler - gener: 2
+ crawl - process: 1
+ creepi - crawler: 2
+ customiz - set: 1
+ data - extrac: 2
+ decision - task: 1
+ easi - crawler: 1
+ easi - nc2: 1
+ express - analysi: 1
+ extract - data: 1
+ focus - crawler: 1
+ focus - structurebas: 1
+ focus - task: 1
+ gener - web: 1
+ homogen - knowledg: 1
+ knowledg - site: 1
+ network - site: 1
+ precis - data: 1
+ queri - engin: 1
+ queri - web: 1
+ social - network: 2
+ standard - xml: 1
+ structurebas - crawler: 1
+ web - crawler: 1
+ web - page: 1
+ wide - varieti: 1
+ xml - queri: 3
+
+PageRank scores count: 34
+ analysi: 0.03454921433500722
+ case: 0.012796005309261933
+ complex: 0.012796005309261933
+ crawl: 0.012796005309261933
+ crawler: 0.09048634171563867
+ creepi: 0.012796005309261933
+ customiz: 0.012796005309261933
+ data: 0.03454921433500722
+ decision: 0.012796005309261933
+ easi: 0.012796005309261933
+ engin: 0.02678603786394437
+ express: 0.012796005309261933
+ extrac: 0.042162837494018064
+ extract: 0.012796005309261933
+ focus: 0.012796005309261933
+ gener: 0.08970939675091481
+ homogen: 0.012796005309261933
+ knowledg: 0.023672609822134576
+ nc2: 0.018234307565698257
+ network: 0.023672609822134576
+ page: 0.0674641954967249
+ precis: 0.012796005309261933
+ process: 0.023672609822134576
+ queri: 0.03291772365807632
+ set: 0.023672609822134576
+ site: 0.053039442006890716
+ social: 0.012796005309261933
+ standard: 0.012796005309261933
+ structurebas: 0.016421540146886147
+ task: 0.05666497684451492
+ varieti: 0.023672609822134576
+ web: 0.103039033214942
+ wide: 0.012796005309261933
+ xml: 0.023672609822134576
+
+N-grams list: 10
+ web crawler
+ easi crawler gener
+ gener web
+ web page
+ focus structurebas crawler
+ complex analysi task
+ focus crawler
+ creepi crawler
+ crawler
+ gener
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

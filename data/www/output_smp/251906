@@ -1,0 +1,67 @@
+File name: 251906
+
+Graph edges count: 18
+ automat - produc: 1
+ autom - content: 1
+ book - builder: 1
+ book - collec: 1
+ book - domain: 1
+ content - deliveri: 1
+ ditabbu - digit: 1
+ expens - task: 1
+ exten - mechan: 1
+ flexibl - exten: 1
+ hypermedia - content: 1
+ navig - capabl: 1
+ playback - platform: 1
+ power - navig: 1
+ specif - user: 1
+ timebas - hypermedia: 2
+ user - profil: 1
+ wide - rang: 1
+
+PageRank scores count: 28
+ autom: 0.021482680931166804
+ automat: 0.021482680931166804
+ book: 0.021482680931166804
+ builder: 0.02756944052833073
+ capabl: 0.0552641966954266
+ collec: 0.02756944052833073
+ content: 0.07352447548691839
+ deliveri: 0.08397848509504743
+ digit: 0.03974295972265859
+ ditabbu: 0.021482680931166804
+ domain: 0.02756944052833073
+ expens: 0.021482680931166804
+ exten: 0.03974295972265859
+ flexibl: 0.021482680931166804
+ hypermedia: 0.03974295972265859
+ mechan: 0.0552641966954266
+ navig: 0.03974295972265859
+ platform: 0.03974295972265859
+ playback: 0.021482680931166804
+ power: 0.021482680931166804
+ produc: 0.03974295972265859
+ profil: 0.0552641966954266
+ rang: 0.03974295972265859
+ specif: 0.021482680931166804
+ task: 0.03974295972265859
+ timebas: 0.021482680931166804
+ user: 0.03974295972265859
+ wide: 0.021482680931166804
+
+N-grams list: 10
+ autom content deliveri
+ timebas hypermedia content
+ power navig capabl
+ flexibl exten mechan
+ user profil
+ content
+ wide rang
+ automat produc
+ ditabbu digit
+ expens task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,79 @@
+File name: 13060083
+
+Graph edges count: 23
+ autonom - intellig: 1
+ commun - detec: 1
+ comprehens - studi: 1
+ conceptu - underpin: 1
+ game - theoret: 2
+ game - theori: 2
+ incent - network: 1
+ influenti - individu: 1
+ market - queri: 1
+ mathemat - model: 1
+ natur - tool: 1
+ network - analysi: 4
+ network - format: 1
+ pertin - problem: 1
+ queri - incent: 1
+ ration - agent: 1
+ relev - concept: 1
+ rigor - foundat: 1
+ rigor - mathemat: 1
+ social - network: 6
+ strateg - interac: 2
+ theoret - model: 2
+ viral - market: 1
+
+PageRank scores count: 35
+ agent: 0.03100640446188027
+ analysi: 0.04923177259576145
+ autonom: 0.01676021862804339
+ commun: 0.01676021862804339
+ comprehens: 0.01676021862804339
+ concept: 0.03100640446188027
+ conceptu: 0.01676021862804339
+ detec: 0.03100640446188027
+ format: 0.04923177259576145
+ foundat: 0.02388331154496183
+ game: 0.01676021862804339
+ incent: 0.05340853168558876
+ individu: 0.03100640446188027
+ influenti: 0.01676021862804339
+ intellig: 0.03100640446188027
+ interac: 0.03100640446188027
+ market: 0.03100640446188027
+ mathemat: 0.02388331154496183
+ model: 0.05736184825447851
+ natur: 0.01676021862804339
+ network: 0.07640365639463072
+ pertin: 0.01676021862804339
+ problem: 0.03100640446188027
+ queri: 0.04311566242064162
+ ration: 0.01676021862804339
+ relev: 0.01676021862804339
+ rigor: 0.01676021862804339
+ social: 0.01676021862804339
+ strateg: 0.01676021862804339
+ studi: 0.03100640446188027
+ theoret: 0.02388331154496183
+ theori: 0.02388331154496183
+ tool: 0.03100640446188027
+ underpin: 0.03100640446188027
+ viral: 0.01676021862804339
+
+N-grams list: 10
+ social network format
+ social network analysi
+ incent network
+ game theoret model
+ rigor mathemat model
+ social network
+ viral market queri
+ influenti individu
+ comprehens studi
+ relev concept
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,46 @@
+File name: 555790
+
+Graph edges count: 10
+ actual - web: 1
+ crawler - simul: 1
+ import - page: 1
+ modern - search: 1
+ pagerank - calcul: 1
+ partial - pagerank: 1
+ practic - reason: 1
+ search - engin: 1
+ web - graph: 1
+ web - page: 2
+
+PageRank scores count: 15
+ actual: 0.040294147275108286
+ calcul: 0.10365669386521606
+ crawler: 0.040294147275108286
+ engin: 0.10365669386521606
+ graph: 0.06141499613847754
+ import: 0.040294147275108286
+ modern: 0.040294147275108286
+ page: 0.11678587018568884
+ pagerank: 0.07454417245895031
+ partial: 0.040294147275108286
+ practic: 0.040294147275108286
+ reason: 0.07454417245895031
+ search: 0.07454417245895031
+ simul: 0.07454417245895031
+ web: 0.07454417245895031
+
+N-grams list: 10
+ actual web page
+ partial pagerank calcul
+ modern search engin
+ web page
+ import page
+ web graph
+ page
+ crawler simul
+ practic reason
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

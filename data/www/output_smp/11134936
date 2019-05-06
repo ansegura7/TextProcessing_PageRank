@@ -1,0 +1,73 @@
+File name: 11134936
+
+Graph edges count: 21
+ ambigu - nois: 1
+ approach - cluster: 1
+ challeng - due: 1
+ cluster - similar: 1
+ common - taxonomi: 1
+ directori - project: 1
+ empir - result: 1
+ folksonomi - learn: 3
+ learn - method: 1
+ open - directori: 1
+ person - hierarchi: 2
+ photoshar - site: 1
+ refer - taxonomi: 1
+ relat - cluster: 1
+ similar - hierarchi: 1
+ site - flickr: 1
+ social - metadata: 1
+ spars - ambigu: 1
+ stateoftheart - folksonomi: 1
+ structur - metadata: 2
+ tag - statist: 1
+
+PageRank scores count: 31
+ ambigu: 0.03275938013940444
+ approach: 0.01770777304832672
+ challeng: 0.01770777304832672
+ cluster: 0.047810987230482146
+ common: 0.01770777304832672
+ directori: 0.03275938013940444
+ due: 0.03275938013940444
+ empir: 0.01770777304832672
+ flickr: 0.045553246166820494
+ folksonomi: 0.03275938013940444
+ hierarchi: 0.08235442550450549
+ learn: 0.045553246166820494
+ metadata: 0.047810987230482146
+ method: 0.05642803229012414
+ nois: 0.045553246166820494
+ open: 0.01770777304832672
+ person: 0.01770777304832672
+ photoshar: 0.01770777304832672
+ project: 0.045553246166820494
+ refer: 0.01770777304832672
+ relat: 0.01770777304832672
+ result: 0.03275938013940444
+ similar: 0.058347112194236536
+ site: 0.03275938013940444
+ social: 0.01770777304832672
+ spars: 0.01770777304832672
+ stateoftheart: 0.01770777304832672
+ statist: 0.03275938013940444
+ structur: 0.01770777304832672
+ tag: 0.01770777304832672
+ taxonomi: 0.047810987230482146
+
+N-grams list: 10
+ approach cluster similar
+ person hierarchi
+ stateoftheart folksonomi learn
+ open directori project
+ spars ambigu nois
+ photoshar site flickr
+ hierarchi
+ folksonomi learn
+ common taxonomi
+ social metadata
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

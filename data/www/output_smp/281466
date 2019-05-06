@@ -1,0 +1,80 @@
+File name: 281466
+
+Graph edges count: 24
+ apibas - interfac: 2
+ data - represent: 1
+ design - goal: 1
+ firstclass - construct: 1
+ imper - natur: 1
+ inplac - updat: 1
+ java - â: 1
+ lowlevel - apibas: 1
+ past - work: 1
+ preliminari - experi: 1
+ program - languag: 2
+ prototyp - compil: 1
+ represent - format: 1
+ research - languag: 1
+ runtim - apibas: 1
+ tradition - lowlevel: 1
+ xj - design: 1
+ xj - program: 1
+ xmlbase - program: 1
+ xml - data: 2
+ xml - process: 1
+ xml - schema: 1
+ xml - support: 1
+ xpath - standard: 1
+
+PageRank scores count: 35
+ apibas: 0.05974692659561993
+ compil: 0.03229563599763239
+ construct: 0.03229563599763239
+ data: 0.02116673440385366
+ design: 0.02487636826844657
+ experi: 0.03229563599763239
+ firstclass: 0.01745710053926075
+ format: 0.04758860160441666
+ goal: 0.038602013567440335
+ imper: 0.01745710053926075
+ inplac: 0.01745710053926075
+ interfac: 0.06824198814553768
+ java: 0.01745710053926075
+ languag: 0.06605330416542787
+ lowlevel: 0.03229563599763239
+ natur: 0.03229563599763239
+ past: 0.01745710053926075
+ preliminari: 0.01745710053926075
+ process: 0.02116673440385366
+ program: 0.03971490372681821
+ prototyp: 0.01745710053926075
+ represent: 0.03544882478253636
+ research: 0.01745710053926075
+ runtim: 0.01745710053926075
+ schema: 0.02116673440385366
+ standard: 0.03229563599763239
+ support: 0.02116673440385366
+ tradition: 0.01745710053926075
+ updat: 0.03229563599763239
+ work: 0.03229563599763239
+ xj: 0.01745710053926075
+ xml: 0.01745710053926075
+ xmlbase: 0.01745710053926075
+ xpath: 0.01745710053926075
+ â: 0.03229563599763239
+
+N-grams list: 10
+ runtim apibas interfac
+ xmlbase program languag
+ tradition lowlevel apibas
+ program languag
+ data represent format
+ research languag
+ interfac
+ design goal
+ xj program
+ past work
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

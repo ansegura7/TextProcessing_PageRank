@@ -1,0 +1,50 @@
+File name: 13543554
+
+Graph edges count: 13
+ experiment - result: 1
+ graphbas - framework: 2
+ peopl - entiti: 1
+ peopl - name: 1
+ peopl - search: 1
+ relev - inform: 1
+ search - result: 1
+ specif - person: 1
+ tag - discoveri: 1
+ tag - peopl: 1
+ web - data: 1
+ web - peopl: 1
+ web - search: 2
+
+PageRank scores count: 16
+ data: 0.053351425086429025
+ discoveri: 0.05924086811545041
+ entiti: 0.06169480271087599
+ experiment: 0.04157253902838625
+ framework: 0.07690919720251456
+ graphbas: 0.04157253902838625
+ inform: 0.07690919720251456
+ name: 0.06169480271087599
+ peopl: 0.07101975417349318
+ person: 0.07690919720251456
+ relev: 0.04157253902838625
+ result: 0.1393618326560955
+ search: 0.07347368876891876
+ specif: 0.04157253902838625
+ tag: 0.04157253902838625
+ web: 0.04157253902838625
+
+N-grams list: 10
+ web search result
+ web peopl search
+ experiment result
+ tag peopl entiti
+ peopl name
+ specif person
+ relev inform
+ graphbas framework
+ web search
+ tag discoveri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

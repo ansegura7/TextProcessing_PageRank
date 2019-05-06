@@ -1,0 +1,77 @@
+File name: 555734
+
+Graph edges count: 23
+ annotea - base: 1
+ base - collabor: 1
+ collabor - support: 1
+ debug - cue: 1
+ debug - experi: 1
+ descrip - logic: 1
+ develop - environ: 2
+ environ - swoop: 1
+ extens - undoredo: 1
+ gener - improv: 1
+ hard - task: 1
+ hypertextu - ontologi: 1
+ larg - number: 1
+ limit - support: 1
+ logic - reason: 1
+ mere - detec: 1
+ ontologi - develop: 2
+ owl - debug: 1
+ owl - ontologi: 3
+ reason - pellet: 1
+ semant - web: 1
+ simpl - debug: 1
+ unsatisfi - concept: 1
+
+PageRank scores count: 33
+ annotea: 0.016344381428625095
+ base: 0.03023710564295643
+ collabor: 0.04204592122513807
+ concept: 0.03023710564295643
+ cue: 0.030671253274654278
+ debug: 0.03371028669653926
+ descrip: 0.016344381428625095
+ detec: 0.03023710564295643
+ develop: 0.050902532911774274
+ environ: 0.059611534403633225
+ experi: 0.030671253274654278
+ extens: 0.016344381428625095
+ gener: 0.016344381428625095
+ hard: 0.016344381428625095
+ hypertextu: 0.016344381428625095
+ improv: 0.03023710564295643
+ larg: 0.016344381428625095
+ limit: 0.016344381428625095
+ logic: 0.03023710564295643
+ mere: 0.016344381428625095
+ number: 0.03023710564295643
+ ontologi: 0.040656648803704926
+ owl: 0.016344381428625095
+ pellet: 0.05208341446999245
+ reason: 0.04204592122513807
+ semant: 0.016344381428625095
+ simpl: 0.016344381428625095
+ support: 0.06597613868432378
+ swoop: 0.06701418567171334
+ task: 0.03023710564295643
+ undoredo: 0.03023710564295643
+ unsatisfi: 0.016344381428625095
+ web: 0.03023710564295643
+
+N-grams list: 10
+ ontologi develop environ
+ environ swoop
+ hypertextu ontologi develop
+ annotea base collabor
+ descrip logic reason
+ limit support
+ simpl debug cue
+ owl debug experi
+ swoop
+ support
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,63 @@
+File name: 11204787
+
+Graph edges count: 17
+ archiv - coher: 1
+ archiv - web: 1
+ busi - analyst: 1
+ coher - section: 1
+ complet - content: 1
+ data - qualiti: 3
+ entir - web: 2
+ high - load: 1
+ high - longterm: 1
+ ideal - case: 1
+ larg - web: 1
+ polit - specif: 1
+ preliminari - experi: 1
+ recrawl - entir: 1
+ time - span: 1
+ web - archiv: 3
+ web - site: 6
+
+PageRank scores count: 25
+ analyst: 0.042487430982463624
+ archiv: 0.06879868755439204
+ busi: 0.022966178909439795
+ case: 0.042487430982463624
+ coher: 0.05220562329232179
+ complet: 0.022966178909439795
+ content: 0.042487430982463624
+ data: 0.022966178909439795
+ entir: 0.042487430982463624
+ experi: 0.042487430982463624
+ high: 0.022966178909439795
+ ideal: 0.022966178909439795
+ larg: 0.022966178909439795
+ load: 0.03272680494595171
+ longterm: 0.03272680494595171
+ polit: 0.022966178909439795
+ preliminari: 0.022966178909439795
+ qualiti: 0.042487430982463624
+ recrawl: 0.022966178909439795
+ section: 0.06734096305244407
+ site: 0.06879868755439204
+ span: 0.042487430982463624
+ specif: 0.042487430982463624
+ time: 0.022966178909439795
+ web: 0.10784119170043971
+
+N-grams list: 10
+ web archiv web
+ entir web site
+ larg web site
+ web site
+ web archiv
+ recrawl entir web
+ archiv coher
+ coher section
+ site
+ archiv
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

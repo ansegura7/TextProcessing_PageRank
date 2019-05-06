@@ -1,0 +1,98 @@
+File name: 4513151
+
+Graph edges count: 33
+ annot - browser: 1
+ annot - data: 2
+ annot - match: 1
+ annot - set: 2
+ del - icio: 1
+ effect - approach: 1
+ effect - brows: 1
+ effect - larg: 1
+ effici - brows: 1
+ favorit - url: 1
+ great - demand: 1
+ hierarch - relat: 1
+ huge - number: 1
+ inform - elsab: 1
+ largescal - social: 1
+ larg - annot: 1
+ larg - scale: 3
+ match - work: 1
+ ordinari - user: 1
+ promis - result: 1
+ prototyp - system: 1
+ scale - annot: 2
+ scale - social: 1
+ semant - hierarch: 1
+ semant - relat: 1
+ servic - provid: 1
+ similar - resourc: 1
+ small - annot: 1
+ social - annot: 6
+ tag - cloud: 1
+ timerel - brows: 1
+ time - inform: 1
+ topdown - fashion: 1
+
+PageRank scores count: 44
+ annot: 0.07118460032685307
+ approach: 0.017625614748109926
+ brows: 0.04097383168716463
+ browser: 0.028860972827723753
+ cloud: 0.02540835372779483
+ data: 0.028860972827723753
+ del: 0.013734245258267476
+ demand: 0.02540835372779483
+ effect: 0.013734245258267476
+ effici: 0.013734245258267476
+ elsab: 0.03533134592689308
+ fashion: 0.02540835372779483
+ favorit: 0.013734245258267476
+ great: 0.013734245258267476
+ hierarch: 0.019571299493031154
+ huge: 0.013734245258267476
+ icio: 0.02540835372779483
+ inform: 0.02540835372779483
+ larg: 0.017625614748109926
+ largescal: 0.013734245258267476
+ match: 0.028860972827723753
+ number: 0.02540835372779483
+ ordinari: 0.013734245258267476
+ promis: 0.013734245258267476
+ prototyp: 0.013734245258267476
+ provid: 0.02540835372779483
+ relat: 0.03620690406210764
+ resourc: 0.02540835372779483
+ result: 0.02540835372779483
+ scale: 0.021225131526214195
+ semant: 0.013734245258267476
+ servic: 0.013734245258267476
+ set: 0.028860972827723753
+ similar: 0.013734245258267476
+ small: 0.013734245258267476
+ social: 0.034429034626435866
+ system: 0.02540835372779483
+ tag: 0.013734245258267476
+ time: 0.013734245258267476
+ timerel: 0.013734245258267476
+ topdown: 0.013734245258267476
+ url: 0.02540835372779483
+ user: 0.02540835372779483
+ work: 0.038266072161832664
+
+N-grams list: 10
+ annot match work
+ largescal social annot
+ larg annot data
+ small annot set
+ larg scale annot
+ social annot
+ annot browser
+ time inform elsab
+ larg scale social
+ annot
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

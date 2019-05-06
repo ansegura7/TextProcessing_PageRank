@@ -1,0 +1,46 @@
+File name: 3609012
+
+Graph edges count: 11
+ academ - public: 1
+ addition - search: 1
+ book - new: 1
+ effici - open: 1
+ metasearch - engin: 2
+ open - sourc: 2
+ public - domain: 1
+ search - engin: 2
+ short - paper: 1
+ sourc - metasearch: 2
+ web - book: 1
+
+PageRank scores count: 15
+ academ: 0.032856631525814736
+ addition: 0.032856631525814736
+ book: 0.060784768322757254
+ domain: 0.0845236846001584
+ effici: 0.032856631525814736
+ engin: 0.17352018352071535
+ metasearch: 0.10470176343594938
+ new: 0.0845236846001584
+ open: 0.060784768322757254
+ paper: 0.060784768322757254
+ public: 0.060784768322757254
+ search: 0.060784768322757254
+ short: 0.032856631525814736
+ sourc: 0.0845236846001584
+ web: 0.032856631525814736
+
+N-grams list: 9
+ metasearch engin
+ addition search engin
+ open sourc metasearch
+ search engin
+ academ public domain
+ effici open sourc
+ web book new
+ engin
+ short paper
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

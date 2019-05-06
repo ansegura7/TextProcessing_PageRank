@@ -1,0 +1,93 @@
+File name: 9339436
+
+Graph edges count: 30
+ analysi - techniqu: 1
+ audio - fingerprint: 1
+ audio - track: 1
+ automat - content: 1
+ autom - organ: 1
+ captur - devic: 1
+ communitycontribut - collec: 1
+ concert - video: 1
+ content - analysi: 1
+ content - match: 1
+ descript - text: 1
+ event - content: 1
+ import - principl: 1
+ improv - represent: 1
+ kei - moment: 1
+ link - structur: 1
+ live - music: 2
+ media - content: 1
+ multipl - clip: 1
+ multipl - contributor: 1
+ music - captur: 1
+ music - event: 1
+ prefer - audio: 1
+ short - video: 1
+ singl - event: 1
+ social - media: 1
+ synchron - algorithm: 1
+ usercontribut - content: 1
+ vari - set: 1
+ video - clip: 1
+
+PageRank scores count: 42
+ algorithm: 0.02408513124795094
+ analysi: 0.049057608365975246
+ audio: 0.02408513124795094
+ autom: 0.013018989863757264
+ automat: 0.013018989863757264
+ captur: 0.023255170644136416
+ clip: 0.04843064229317702
+ collec: 0.02408513124795094
+ communitycontribut: 0.013018989863757264
+ concert: 0.013018989863757264
+ content: 0.08479674941698348
+ contributor: 0.0185520605558541
+ descript: 0.013018989863757264
+ devic: 0.03278588491127322
+ event: 0.03432131202833009
+ fingerprint: 0.023255170644136416
+ import: 0.013018989863757264
+ improv: 0.013018989863757264
+ kei: 0.013018989863757264
+ link: 0.013018989863757264
+ live: 0.013018989863757264
+ match: 0.049057608365975246
+ media: 0.02408513124795094
+ moment: 0.02408513124795094
+ multipl: 0.013018989863757264
+ music: 0.02408513124795094
+ organ: 0.02408513124795094
+ prefer: 0.013018989863757264
+ principl: 0.02408513124795094
+ represent: 0.02408513124795094
+ set: 0.02408513124795094
+ short: 0.013018989863757264
+ singl: 0.013018989863757264
+ social: 0.013018989863757264
+ structur: 0.02408513124795094
+ synchron: 0.013018989863757264
+ techniqu: 0.054717956974836224
+ text: 0.02408513124795094
+ track: 0.023255170644136416
+ usercontribut: 0.013018989863757264
+ vari: 0.013018989863757264
+ video: 0.03515127263214461
+
+N-grams list: 10
+ content analysi techniqu
+ automat content match
+ social media content
+ event content
+ usercontribut content
+ short video clip
+ live music event
+ multipl clip
+ live music captur
+ prefer audio track
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

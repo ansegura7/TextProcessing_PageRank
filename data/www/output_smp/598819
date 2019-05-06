@@ -1,0 +1,66 @@
+File name: 598819
+
+Graph edges count: 20
+ access - pattern: 1
+ content - interven: 1
+ experiment - valid: 1
+ frequent - travers: 1
+ graphbas - represent: 1
+ graph - restructur: 1
+ hot - spot: 3
+ interven - orand: 1
+ larg - access: 1
+ orand - site: 1
+ popular - hot: 1
+ popular - travers: 1
+ popular - web: 2
+ site - graph: 1
+ site - maintain: 1
+ spot - identif: 1
+ travers - pattern: 1
+ twofold - contribu: 1
+ visual - tool: 1
+ web - hot: 2
+
+PageRank scores count: 25
+ access: 0.03750331832306308
+ content: 0.020272063958412474
+ contribu: 0.03750331832306308
+ experiment: 0.020272063958412474
+ frequent: 0.020272063958412474
+ graph: 0.04772683692828984
+ graphbas: 0.020272063958412474
+ hot: 0.04812925851459762
+ identif: 0.07227670759985985
+ interven: 0.03750331832306308
+ larg: 0.020272063958412474
+ maintain: 0.04772683692828984
+ orand: 0.0521498845330161
+ pattern: 0.08890989384427071
+ popular: 0.020272063958412474
+ represent: 0.03750331832306308
+ restructur: 0.060839875347458834
+ site: 0.06459946581147616
+ spot: 0.061181933695820444
+ tool: 0.03750331832306308
+ travers: 0.04324706977794661
+ twofold: 0.020272063958412474
+ valid: 0.03750331832306308
+ visual: 0.020272063958412474
+ web: 0.026015815413296006
+
+N-grams list: 10
+ site graph restructur
+ frequent travers pattern
+ larg access pattern
+ spot identif
+ popular hot spot
+ site maintain
+ content interven orand
+ popular web hot
+ popular travers
+ spot
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

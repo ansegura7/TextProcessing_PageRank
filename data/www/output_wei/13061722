@@ -1,0 +1,94 @@
+File name: 13061722
+
+Graph edges count: 31
+ account - consum: 1
+ aggreg - demand: 1
+ consum - demograph: 1
+ consum - prefer: 1
+ decision - mechan: 1
+ demand - data: 1
+ demand - estim: 1
+ demograph - heterogen: 1
+ extens - user: 1
+ hotel - search: 1
+ individu - consum: 1
+ inform - retriev: 1
+ internet - onlin: 1
+ larg - number: 1
+ onlin - search: 1
+ overwhelm - prefer: 1
+ product - search: 3
+ rank - comparison: 1
+ rank - techniqu: 1
+ relev - docum: 1
+ search - engin: 1
+ solid - theoret: 1
+ specif - user: 1
+ stateoftheart - baselin: 1
+ strong - stateoftheart: 1
+ theoret - foundat: 1
+ theoret - model: 1
+ theori - model: 2
+ userprovid - rank: 1
+ user - studi: 1
+ util - theori: 1
+
+PageRank scores count: 42
+ account: 0.01316967813306643
+ aggreg: 0.01316967813306643
+ baselin: 0.03387899699731339
+ comparison: 0.023524337565189915
+ consum: 0.035558130959279365
+ data: 0.023524337565189915
+ decision: 0.01316967813306643
+ demand: 0.024363904546172897
+ demograph: 0.02828188379076016
+ docum: 0.024363904546172897
+ engin: 0.06099701048306381
+ estim: 0.023524337565189915
+ extens: 0.01316967813306643
+ foundat: 0.023524337565189915
+ heterogen: 0.037209279355212566
+ hotel: 0.01316967813306643
+ individu: 0.01316967813306643
+ inform: 0.01316967813306643
+ internet: 0.01316967813306643
+ larg: 0.01316967813306643
+ mechan: 0.024363904546172897
+ model: 0.04423365642943687
+ number: 0.024363904546172897
+ onlin: 0.024363904546172897
+ overwhelm: 0.01316967813306643
+ prefer: 0.03947611020386663
+ product: 0.01316967813306643
+ rank: 0.024363904546172897
+ relev: 0.01316967813306643
+ retriev: 0.024363904546172897
+ search: 0.05626744982352633
+ solid: 0.01316967813306643
+ specif: 0.01316967813306643
+ stateoftheart: 0.024363904546172897
+ strong: 0.01316967813306643
+ studi: 0.04339408944845388
+ techniqu: 0.023524337565189915
+ theoret: 0.024363904546172897
+ theori: 0.024363904546172897
+ user: 0.035558130959279365
+ userprovid: 0.01316967813306643
+ util: 0.01316967813306643
+
+N-grams list: 10
+ product search engin
+ internet onlin search
+ extens user studi
+ account consum demograph
+ consum prefer
+ strong stateoftheart baselin
+ hotel search
+ product search
+ theori model
+ theoret model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

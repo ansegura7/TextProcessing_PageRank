@@ -1,0 +1,124 @@
+File name: 9944113
+
+Graph edges count: 48
+ applicationlevel - benchmark: 1
+ attract - altern: 1
+ common - graph: 1
+ commun - detec: 1
+ complex - graph: 1
+ critic - evalu: 1
+ current - graph: 1
+ direct - measur: 1
+ experi - access: 1
+ facebook - social: 1
+ graph - data: 1
+ graph - dataset: 2
+ graph - metric: 2
+ graph - model: 6
+ graph - properti: 1
+ high - fidel: 1
+ high - time: 1
+ kei - disadvantag: 1
+ larg - dataset: 1
+ measurementcalibr - graph: 2
+ measurementcalibr - synthet: 1
+ measur - research: 1
+ metric - valu: 1
+ model - paramet: 1
+ multipl - synthet: 1
+ network - experi: 1
+ network - system: 1
+ numer - graph: 1
+ origin - graph: 3
+ popular - graph: 1
+ privat - inform: 1
+ realist - complex: 1
+ realist - synthet: 1
+ real - dataset: 1
+ real - graph: 1
+ real - social: 2
+ resourc - cost: 1
+ share - dataset: 1
+ share - real: 1
+ small - number: 2
+ social - graph: 3
+ social - network: 3
+ social - web: 1
+ statist - confid: 1
+ synthet - graph: 5
+ valuabl - dataset: 1
+ valu - similar: 1
+ web - search: 1
+
+PageRank scores count: 55
+ access: 0.02367220715385674
+ altern: 0.017933999182938004
+ applicationlevel: 0.00969405361239892
+ attract: 0.00969405361239892
+ benchmark: 0.017933999182938004
+ common: 0.00969405361239892
+ commun: 0.00969405361239892
+ complex: 0.01381402639766846
+ confid: 0.017933999182938004
+ cost: 0.017933999182938004
+ critic: 0.00969405361239892
+ current: 0.00969405361239892
+ data: 0.026542373319799813
+ dataset: 0.051056211392153585
+ detec: 0.017933999182938004
+ direct: 0.00969405361239892
+ disadvantag: 0.017933999182938004
+ evalu: 0.017933999182938004
+ experi: 0.016444886519362142
+ facebook: 0.00969405361239892
+ fidel: 0.01381402639766846
+ graph: 0.09910776298471113
+ high: 0.00969405361239892
+ inform: 0.017933999182938004
+ kei: 0.00969405361239892
+ larg: 0.00969405361239892
+ measur: 0.017933999182938004
+ measurementcalibr: 0.00969405361239892
+ metric: 0.026542373319799813
+ model: 0.026542373319799813
+ multipl: 0.00969405361239892
+ network: 0.015884312722266404
+ number: 0.017933999182938004
+ numer: 0.00969405361239892
+ origin: 0.00969405361239892
+ paramet: 0.03225507093422876
+ popular: 0.00969405361239892
+ privat: 0.00969405361239892
+ properti: 0.026542373319799813
+ real: 0.01381402639766846
+ realist: 0.00969405361239892
+ research: 0.02493795291789622
+ resourc: 0.00969405361239892
+ search: 0.023195719426325364
+ share: 0.00969405361239892
+ similar: 0.03711086390649336
+ small: 0.00969405361239892
+ social: 0.021847973328944066
+ statist: 0.00969405361239892
+ synthet: 0.026173944753477084
+ system: 0.016444886519362142
+ time: 0.01381402639766846
+ valu: 0.03225507093422876
+ valuabl: 0.00969405361239892
+ web: 0.015884312722266404
+
+N-grams list: 10
+ real graph dataset
+ common graph metric
+ numer graph model
+ measurementcalibr graph model
+ popular graph model
+ current graph metric
+ realist synthet graph
+ multipl synthet graph
+ measurementcalibr synthet graph
+ real social graph
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

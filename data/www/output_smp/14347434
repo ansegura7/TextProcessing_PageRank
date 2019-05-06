@@ -1,0 +1,84 @@
+File name: 14347434
+
+Graph edges count: 30
+ access - web: 1
+ adapt - characterist: 1
+ archiv - web: 1
+ content - extrac: 1
+ crawler - awar: 1
+ extrac - methodologi: 1
+ forum - social: 1
+ geoloc - servic: 1
+ intellig - crawl: 1
+ meaning - web: 1
+ network - geoloc: 1
+ pagelevel - archiv: 1
+ phd - work: 1
+ social - network: 1
+ social - web: 1
+ steadi - growth: 1
+ structur - content: 1
+ web - access: 1
+ web - applic: 4
+ web - archiv: 1
+ web - archivist: 1
+ web - browser: 1
+ web - crawler: 2
+ web - data: 1
+ web - forum: 1
+ web - page: 3
+ web - site: 1
+ web - standard: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 33
+ access: 0.025129179532649495
+ adapt: 0.015613092479328355
+ applic: 0.025129179532649495
+ archiv: 0.038400308140078596
+ archivist: 0.025129179532649495
+ awar: 0.036972895866281184
+ browser: 0.025129179532649495
+ characterist: 0.02888422108675746
+ content: 0.02888422108675746
+ crawl: 0.02888422108675746
+ crawler: 0.025129179532649495
+ data: 0.025129179532649495
+ extrac: 0.0401646804030722
+ forum: 0.025129179532649495
+ geoloc: 0.04224068181597558
+ growth: 0.02888422108675746
+ intellig: 0.015613092479328355
+ meaning: 0.015613092479328355
+ methodologi: 0.04975307082193972
+ network: 0.03132657397792309
+ page: 0.025129179532649495
+ pagelevel: 0.015613092479328355
+ phd: 0.015613092479328355
+ servic: 0.05151767482746553
+ site: 0.025129179532649495
+ social: 0.036972895866281184
+ standard: 0.025129179532649495
+ steadi: 0.015613092479328355
+ structur: 0.015613092479328355
+ web: 0.12314935659931645
+ wide: 0.02888422108675746
+ work: 0.02888422108675746
+ world: 0.015613092479328355
+
+N-grams list: 10
+ archiv web crawler
+ web crawler awar
+ web forum social
+ access web applic
+ world wide web
+ meaning web data
+ web archiv
+ social web
+ web archivist
+ web applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

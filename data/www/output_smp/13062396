@@ -1,0 +1,51 @@
+File name: 13062396
+
+Graph edges count: 12
+ commun - network: 1
+ degre - close: 1
+ fast - spread: 1
+ function - import: 2
+ function - requir: 1
+ network - measur: 1
+ network - metric: 1
+ rank - node: 1
+ reallif - network: 1
+ rel - import: 1
+ typic - function: 1
+ viral - market: 1
+
+PageRank scores count: 18
+ close: 0.06453300776140229
+ commun: 0.03488270689805529
+ degre: 0.03488270689805529
+ fast: 0.03488270689805529
+ function: 0.06453300776140229
+ import: 0.09195953605999825
+ market: 0.06453300776140229
+ measur: 0.07491061306357373
+ metric: 0.07491061306357373
+ network: 0.0941833086247493
+ node: 0.06453300776140229
+ rank: 0.03488270689805529
+ reallif: 0.03488270689805529
+ rel: 0.03488270689805529
+ requir: 0.06230923519665126
+ spread: 0.06453300776140229
+ typic: 0.03488270689805529
+ viral: 0.03488270689805529
+
+N-grams list: 10
+ network metric
+ network measur
+ typic function requir
+ function import
+ reallif network
+ commun network
+ rel import
+ viral market
+ rank node
+ fast spread
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

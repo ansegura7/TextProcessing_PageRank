@@ -1,0 +1,124 @@
+File name: 440184
+
+Graph edges count: 43
+ approxim - strategi: 1
+ autonom - heterogen: 1
+ challeng - problem: 1
+ commerci - rdbm: 1
+ cosin - similar: 1
+ databas - manag: 1
+ data - integr: 3
+ data - set: 1
+ detail - perform: 1
+ error - incomplet: 1
+ exact - answer: 1
+ experiment - result: 1
+ front - end: 1
+ fundament - task: 1
+ global - identifi: 1
+ heterogen - web: 1
+ incomplet - inform: 1
+ inform - retriev: 1
+ kei - aspect: 1
+ manag - system: 1
+ perform - evalu: 1
+ potenti - string: 1
+ process - effici: 1
+ queri - process: 1
+ reallif - data: 1
+ relat - databas: 1
+ retriev - field: 1
+ robust - reason: 1
+ similar - metric: 2
+ sql - queri: 1
+ standard - format: 1
+ standard - unmodifi: 1
+ string - match: 1
+ textual - attribut: 1
+ textual - data: 1
+ textual - represent: 1
+ transcrip - error: 1
+ unmodifi - relat: 1
+ webbas - front: 1
+ web - data: 1
+ web - servic: 1
+ web - site: 1
+ web - sourc: 1
+
+PageRank scores count: 60
+ answer: 0.0167685988261217
+ approxim: 0.009064107473579299
+ aspect: 0.0167685988261217
+ attribut: 0.0116322712577601
+ autonom: 0.009064107473579299
+ challeng: 0.009064107473579299
+ commerci: 0.009064107473579299
+ cosin: 0.009064107473579299
+ data: 0.024291713611406338
+ databas: 0.02610066397688869
+ detail: 0.009064107473579299
+ effici: 0.02888391147799463
+ end: 0.023317416475782747
+ error: 0.0167685988261217
+ evalu: 0.023317416475782747
+ exact: 0.009064107473579299
+ experiment: 0.009064107473579299
+ field: 0.03763722486897283
+ format: 0.0129163531498505
+ front: 0.0167685988261217
+ fundament: 0.009064107473579299
+ global: 0.009064107473579299
+ heterogen: 0.0167685988261217
+ identifi: 0.0167685988261217
+ incomplet: 0.023317416475782747
+ inform: 0.02888391147799463
+ integr: 0.01938808575842699
+ kei: 0.009064107473579299
+ manag: 0.031249671853934683
+ match: 0.023317416475782747
+ metric: 0.023317416475782747
+ perform: 0.0167685988261217
+ potenti: 0.009064107473579299
+ problem: 0.0167685988261217
+ process: 0.023317416475782747
+ queri: 0.0167685988261217
+ rdbm: 0.0167685988261217
+ reallif: 0.009064107473579299
+ reason: 0.0167685988261217
+ relat: 0.020043007650952224
+ represent: 0.0116322712577601
+ result: 0.0167685988261217
+ retriev: 0.03361543222987474
+ robust: 0.009064107473579299
+ servic: 0.014019058474683132
+ set: 0.01938808575842699
+ similar: 0.0167685988261217
+ site: 0.014019058474683132
+ sourc: 0.014019058474683132
+ sql: 0.009064107473579299
+ standard: 0.009064107473579299
+ strategi: 0.0167685988261217
+ string: 0.0167685988261217
+ system: 0.03562632854942378
+ task: 0.0167685988261217
+ textual: 0.009064107473579299
+ transcrip: 0.009064107473579299
+ unmodifi: 0.0129163531498505
+ web: 0.023317416475782747
+ webbas: 0.009064107473579299
+
+N-grams list: 10
+ inform retriev field
+ databas manag system
+ queri process effici
+ web data integr
+ reallif data set
+ autonom heterogen web
+ potenti string match
+ webbas front end
+ detail perform evalu
+ transcrip error incomplet
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

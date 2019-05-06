@@ -1,0 +1,71 @@
+File name: 402587
+
+Graph edges count: 23
+ concret - inform: 1
+ data - model: 1
+ docum - format: 1
+ full - potenti: 1
+ inform - integr: 1
+ integr - scenario: 1
+ modeltheoret - semant: 1
+ queri - languag: 1
+ rdf - semant: 1
+ rdf - world: 1
+ reason - capabl: 1
+ semant - web: 1
+ semant - xml: 1
+ standard - docum: 1
+ standard - model: 1
+ unifi - model: 2
+ w3c - standard: 2
+ web - applic: 1
+ xml - queri: 1
+ xml - syntax: 1
+ xml - world: 1
+ xml - xqueri: 1
+ yinyang - web: 1
+
+PageRank scores count: 27
+ applic: 0.06969169218634298
+ capabl: 0.03798366931597147
+ concret: 0.020531713143768362
+ data: 0.020531713143768362
+ docum: 0.03667477260305624
+ format: 0.05170526985636616
+ full: 0.020531713143768362
+ inform: 0.03798366931597147
+ integr: 0.05281783206234411
+ languag: 0.04527790527891439
+ model: 0.07157868494746245
+ modeltheoret: 0.020531713143768362
+ potenti: 0.03798366931597147
+ queri: 0.029113167217818852
+ rdf: 0.020531713143768362
+ reason: 0.020531713143768362
+ scenario: 0.06542687039676086
+ semant: 0.04670964740207302
+ standard: 0.03798366931597147
+ syntax: 0.029113167217818852
+ unifi: 0.020531713143768362
+ w3c: 0.020531713143768362
+ web: 0.057835269461852495
+ world: 0.037839145303920414
+ xml: 0.04038331328964939
+ xqueri: 0.029113167217818852
+ yinyang: 0.020531713143768362
+
+N-grams list: 10
+ w3c standard model
+ web applic
+ xml queri languag
+ concret inform integr
+ rdf semant xml
+ semant web
+ w3c standard docum
+ unifi model
+ data model
+ yinyang web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

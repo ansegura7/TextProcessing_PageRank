@@ -1,0 +1,91 @@
+File name: 13778833
+
+Graph edges count: 29
+ accuraci - crawl: 1
+ afterschool - program: 1
+ autom - mechan: 1
+ classif - accuraci: 1
+ contextu - inform: 2
+ crawl - accuraci: 1
+ crawl - scalabl: 1
+ deploy - studi: 1
+ design - implement: 1
+ educ - resourc: 1
+ effici - classifi: 1
+ focus - crawler: 1
+ harvest - rate: 1
+ implement - evalu: 1
+ inform - portal: 2
+ inform - repositori: 1
+ largerscal - pilot: 1
+ larg - searchabl: 1
+ offlin - web: 1
+ ongo - largerscal: 1
+ pilot - deploy: 2
+ preliminari - deploy: 1
+ relev - page: 1
+ scalabl - crawl: 1
+ searchabl - inform: 1
+ secondari - school: 1
+ system - construct: 1
+ target - popul: 1
+ web - page: 2
+
+PageRank scores count: 41
+ accuraci: 0.07701339519502928
+ afterschool: 0.010859703200239148
+ autom: 0.010859703200239148
+ classif: 0.010859703200239148
+ classifi: 0.020090450920442423
+ construct: 0.020090450920442423
+ contextu: 0.010859703200239148
+ crawl: 0.13393633946961614
+ crawler: 0.020090450920442423
+ deploy: 0.043836549430665346
+ design: 0.010859703200239148
+ educ: 0.010859703200239148
+ effici: 0.010859703200239148
+ evalu: 0.027936586482615208
+ focus: 0.010859703200239148
+ harvest: 0.010859703200239148
+ implement: 0.020090450920442423
+ inform: 0.03716733420281848
+ larg: 0.010859703200239148
+ largerscal: 0.020090450920442423
+ mechan: 0.020090450920442423
+ offlin: 0.010859703200239148
+ ongo: 0.010859703200239148
+ page: 0.03716733420281848
+ pilot: 0.027936586482615208
+ popul: 0.020090450920442423
+ portal: 0.026655820236437002
+ preliminari: 0.010859703200239148
+ program: 0.020090450920442423
+ rate: 0.020090450920442423
+ relev: 0.010859703200239148
+ repositori: 0.026655820236437002
+ resourc: 0.020090450920442423
+ scalabl: 0.06778264747482601
+ school: 0.020090450920442423
+ searchabl: 0.020090450920442423
+ secondari: 0.010859703200239148
+ studi: 0.04812077021630468
+ system: 0.010859703200239148
+ target: 0.010859703200239148
+ web: 0.020090450920442423
+
+N-grams list: 10
+ scalabl crawl accuraci
+ classif accuraci crawl
+ preliminari deploy studi
+ contextu inform portal
+ pilot deploy
+ larg searchabl inform
+ design implement evalu
+ ongo largerscal pilot
+ web page
+ relev page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

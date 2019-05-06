@@ -1,0 +1,72 @@
+File name: 4518507
+
+Graph edges count: 22
+ auxiliari - data: 1
+ cach - local: 1
+ compact - xml: 1
+ constant - factor: 1
+ constant - time: 2
+ databas - oper: 1
+ databas - size: 1
+ data - structur: 1
+ effici - queri: 1
+ inform - theoret: 1
+ major - factor: 1
+ memori - footprint: 1
+ navig - oper: 1
+ small - memori: 1
+ space - requir: 1
+ standard - api: 1
+ storag - scheme: 1
+ theoret - minimum: 1
+ time - effici: 1
+ xml - data: 1
+ xml - databas: 1
+ xml - storag: 1
+
+PageRank scores count: 29
+ api: 0.036896535963735023
+ auxiliari: 0.019944073493910825
+ cach: 0.019944073493910825
+ compact: 0.019944073493910825
+ constant: 0.019944073493910825
+ data: 0.04735055448679328
+ databas: 0.030398092016969084
+ effici: 0.04650293136330207
+ factor: 0.04254735678700976
+ footprint: 0.05130612906308559
+ inform: 0.019944073493910825
+ local: 0.036896535963735023
+ major: 0.019944073493910825
+ memori: 0.036896535963735023
+ minimum: 0.05130612906308559
+ navig: 0.019944073493910825
+ oper: 0.04981572507094688
+ queri: 0.059471565152717586
+ requir: 0.036896535963735023
+ scheme: 0.045782451708334546
+ size: 0.032863262601122684
+ small: 0.019944073493910825
+ space: 0.019944073493910825
+ standard: 0.019944073493910825
+ storag: 0.030398092016969084
+ structur: 0.06019204480768511
+ theoret: 0.036896535963735023
+ time: 0.03124571514046029
+ xml: 0.036896535963735023
+
+N-grams list: 10
+ auxiliari data structur
+ small memori footprint
+ inform theoret minimum
+ effici queri
+ xml databas size
+ compact xml storag
+ xml data
+ databas oper
+ time effici
+ storag scheme
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

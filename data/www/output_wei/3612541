@@ -1,0 +1,70 @@
+File name: 3612541
+
+Graph edges count: 20
+ content - locat: 1
+ daili - live: 1
+ detec - rapid: 1
+ geograph - locat: 1
+ geograph - sourc: 1
+ human - activ: 1
+ kei - challeng: 1
+ local - search: 1
+ locationbas - web: 1
+ locationspecif - inform: 1
+ locat - classif: 1
+ popular - mobil: 1
+ provid - locat: 1
+ rapid - pervasion: 1
+ resourc - geograph: 1
+ search - environ: 1
+ unifi - system: 1
+ web - applic: 1
+ web - due: 1
+ web - resourc: 3
+
+PageRank scores count: 29
+ activ: 0.036833014054667455
+ applic: 0.026171349716140744
+ challeng: 0.036833014054667455
+ classif: 0.08467662988207267
+ content: 0.019909737326847275
+ daili: 0.019909737326847275
+ detec: 0.019909737326847275
+ due: 0.026171349716140744
+ environ: 0.051217799273314615
+ geograph: 0.05280012564736581
+ human: 0.019909737326847275
+ inform: 0.036833014054667455
+ kei: 0.019909737326847275
+ live: 0.036833014054667455
+ local: 0.019909737326847275
+ locat: 0.07619634418261811
+ locationbas: 0.019909737326847275
+ locationspecif: 0.019909737326847275
+ mobil: 0.036833014054667455
+ pervasion: 0.051217799273314615
+ popular: 0.019909737326847275
+ provid: 0.019909737326847275
+ rapid: 0.036833014054667455
+ resourc: 0.038694574494727685
+ search: 0.036833014054667455
+ sourc: 0.04234979072697774
+ system: 0.036833014054667455
+ unifi: 0.019909737326847275
+ web: 0.036833014054667455
+
+N-grams list: 10
+ locat classif
+ web resourc geograph
+ local search environ
+ detec rapid pervasion
+ content locat
+ provid locat
+ geograph sourc
+ locationbas web applic
+ locat
+ web resourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

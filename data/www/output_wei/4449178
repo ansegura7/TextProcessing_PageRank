@@ -1,0 +1,64 @@
+File name: 4449178
+
+Graph edges count: 17
+ bias - pagerank: 1
+ bia - pagerank: 1
+ directori - categori: 1
+ docum - import: 1
+ effici - metric: 1
+ gener - docum: 1
+ map - qualiti: 1
+ odp - level: 1
+ onesizefitsal - measur: 1
+ open - directori: 1
+ pagerank - pagerank: 1
+ page - rank: 1
+ qualit - analysi: 1
+ special - categori: 1
+ specif - search: 1
+ topic - specif: 1
+ util - analysi: 1
+
+PageRank scores count: 26
+ analysi: 0.04731239321855698
+ bia: 0.01752310859946555
+ bias: 0.01752310859946555
+ categori: 0.05997283918167084
+ directori: 0.032417750909011264
+ docum: 0.032417750909011264
+ effici: 0.01752310859946555
+ gener: 0.01752310859946555
+ import: 0.04507819687212512
+ level: 0.032417750909011264
+ map: 0.01752310859946555
+ measur: 0.032417750909011264
+ metric: 0.032417750909011264
+ odp: 0.01752310859946555
+ onesizefitsal: 0.01752310859946555
+ open: 0.01752310859946555
+ page: 0.01752310859946555
+ pagerank: 0.3154159547903798
+ qualit: 0.01752310859946555
+ qualiti: 0.032417750909011264
+ rank: 0.032417750909011264
+ search: 0.04507819687212512
+ special: 0.01752310859946555
+ specif: 0.032417750909011264
+ topic: 0.01752310859946555
+ util: 0.01752310859946555
+
+N-grams list: 10
+ pagerank pagerank
+ bia pagerank
+ bias pagerank
+ pagerank
+ open directori categori
+ topic specif search
+ gener docum import
+ special categori
+ qualit analysi
+ util analysi
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,99 @@
+File name: 10239456
+
+Graph edges count: 34
+ bandwidth - consump: 1
+ constant - size: 1
+ consump - problem: 1
+ current - queri: 1
+ docum - collec: 1
+ docum - refer: 1
+ experiment - result: 1
+ fulltext - retriev: 1
+ good - retriev: 1
+ index - featur: 2
+ index - framework: 1
+ index - paramet: 1
+ index - term: 1
+ larg - docum: 1
+ major - obstacl: 1
+ nonredund - wrt: 1
+ p2p - network: 2
+ p2p - text: 1
+ peertop - text: 1
+ popular - distribu: 1
+ queri - answer: 1
+ queri - log: 1
+ queri - popular: 1
+ queri - statist: 1
+ querydriven - index: 2
+ retriev - perform: 1
+ scalabl - p2p: 1
+ scalabl - text: 1
+ storagebandwidth - requir: 1
+ structur - p2p: 1
+ term - set: 2
+ text - retriev: 3
+ theoret - analysi: 1
+ user - queri: 1
+
+PageRank scores count: 44
+ analysi: 0.02419535971010363
+ answer: 0.020582403969608424
+ bandwidth: 0.013078572816272232
+ collec: 0.023361600693066274
+ constant: 0.013078572816272232
+ consump: 0.02419535971010363
+ current: 0.013078572816272232
+ distribu: 0.03057361619043939
+ docum: 0.02419535971010363
+ experiment: 0.013078572816272232
+ featur: 0.01822008675466925
+ framework: 0.01822008675466925
+ fulltext: 0.013078572816272232
+ good: 0.013078572816272232
+ index: 0.02419535971010363
+ larg: 0.013078572816272232
+ log: 0.020582403969608424
+ major: 0.013078572816272232
+ network: 0.025723917908005444
+ nonredund: 0.013078572816272232
+ obstacl: 0.02419535971010363
+ p2p: 0.029753753157019325
+ paramet: 0.01822008675466925
+ peertop: 0.013078572816272232
+ perform: 0.07372724591434071
+ popular: 0.020582403969608424
+ problem: 0.033644628569860315
+ queri: 0.03531214660393503
+ querydriven: 0.013078572816272232
+ refer: 0.023361600693066274
+ requir: 0.02419535971010363
+ result: 0.02419535971010363
+ retriev: 0.07135138011537469
+ scalabl: 0.013078572816272232
+ set: 0.028565646557741096
+ size: 0.02419535971010363
+ statist: 0.020582403969608424
+ storagebandwidth: 0.013078572816272232
+ structur: 0.013078572816272232
+ term: 0.01822008675466925
+ text: 0.04239909824875254
+ theoret: 0.013078572816272232
+ user: 0.013078572816272232
+ wrt: 0.02419535971010363
+
+N-grams list: 10
+ good retriev perform
+ scalabl text retriev
+ peertop text retriev
+ scalabl p2p text
+ fulltext retriev
+ retriev
+ index term set
+ bandwidth consump problem
+ current queri popular
+ structur p2p network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

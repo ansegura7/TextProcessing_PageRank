@@ -1,0 +1,106 @@
+File name: 10946910
+
+Graph edges count: 39
+ accuraci - advantag: 1
+ accuraci - gain: 1
+ accuraci - indic: 1
+ anchor - text: 2
+ correc - queri: 1
+ extens - studi: 1
+ good - accuraci: 1
+ inform - retriev: 1
+ inform - theoret: 1
+ languag - differ: 1
+ languag - model: 6
+ languag - style: 1
+ larg - scale: 1
+ long - queri: 1
+ mark - accuraci: 1
+ model - properti: 1
+ ngram - languag: 1
+ past - work: 1
+ perplex - metric: 1
+ process - task: 1
+ promis - result: 1
+ quantit - explan: 1
+ queri - bracket: 1
+ queri - process: 3
+ queri - segment: 1
+ queri - spell: 1
+ scale - analysi: 1
+ scale - languag: 1
+ scale - ngram: 1
+ search - queri: 4
+ signific - accuraci: 1
+ spell - correc: 1
+ style - discrep: 1
+ text - stream: 1
+ theoret - analysi: 1
+ webscal - languag: 1
+ web - count: 1
+ web - docum: 1
+ web - scale: 2
+
+PageRank scores count: 46
+ accuraci: 0.0419254467997383
+ advantag: 0.023688861607269976
+ analysi: 0.033253309192922326
+ anchor: 0.01180998501401079
+ bracket: 0.02447715006844212
+ correc: 0.03261556459440601
+ count: 0.01515614743464718
+ differ: 0.024586376727649555
+ discrep: 0.032708405232512915
+ docum: 0.01515614743464718
+ explan: 0.02184847227591996
+ extens: 0.01180998501401079
+ gain: 0.023688861607269976
+ good: 0.01180998501401079
+ indic: 0.023688861607269976
+ inform: 0.01180998501401079
+ languag: 0.045093147224607416
+ larg: 0.01180998501401079
+ long: 0.01180998501401079
+ mark: 0.01180998501401079
+ metric: 0.02184847227591996
+ model: 0.024586376727649555
+ ngram: 0.01894846484470175
+ past: 0.01180998501401079
+ perplex: 0.01180998501401079
+ process: 0.02447715006844212
+ promis: 0.01180998501401079
+ properti: 0.032708405232512915
+ quantit: 0.01180998501401079
+ queri: 0.05961019483565933
+ result: 0.02184847227591996
+ retriev: 0.016829228644965374
+ scale: 0.025194634696556348
+ search: 0.01180998501401079
+ segment: 0.02447715006844212
+ signific: 0.01180998501401079
+ spell: 0.02447715006844212
+ stream: 0.030381186448542756
+ studi: 0.02184847227591996
+ style: 0.024586376727649555
+ task: 0.03261556459440601
+ text: 0.02184847227591996
+ theoret: 0.016829228644965374
+ web: 0.01180998501401079
+ webscal: 0.01180998501401079
+ work: 0.02184847227591996
+
+N-grams list: 10
+ queri spell correc
+ queri process task
+ languag style discrep
+ languag model properti
+ search queri process
+ long queri segment
+ queri bracket
+ web scale languag
+ webscal languag model
+ good accuraci indic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

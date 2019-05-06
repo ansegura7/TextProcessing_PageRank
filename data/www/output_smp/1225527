@@ -1,0 +1,80 @@
+File name: 1225527
+
+Graph edges count: 25
+ basic - problem: 1
+ compres - navig: 1
+ compres - ratio: 1
+ content - search: 2
+ data - sourc: 1
+ detail - experi: 1
+ label - tree: 1
+ nativ - state: 1
+ search - oper: 1
+ standard - format: 1
+ standard - xml: 1
+ store - exchang: 1
+ succinct - tree: 1
+ theoret - algorithm: 1
+ time - perform: 1
+ tini - fraction: 1
+ tree - represent: 1
+ tree - structur: 1
+ xml - data: 3
+ xml - docum: 2
+ xml - file: 1
+ xml - index: 1
+ xml - represent: 1
+ xml - search: 1
+ zip - xml: 1
+
+PageRank scores count: 34
+ algorithm: 0.03540727739169579
+ basic: 0.019139068860376102
+ compres: 0.019139068860376102
+ content: 0.019139068860376102
+ data: 0.025307431261834816
+ detail: 0.019139068860376102
+ docum: 0.025307431261834816
+ exchang: 0.03540727739169579
+ experi: 0.03540727739169579
+ file: 0.025307431261834816
+ format: 0.027273173126035947
+ fraction: 0.03540727739169579
+ index: 0.025307431261834816
+ label: 0.019139068860376102
+ nativ: 0.019139068860376102
+ navig: 0.027273173126035947
+ oper: 0.05447836268455743
+ perform: 0.03540727739169579
+ problem: 0.03540727739169579
+ ratio: 0.027273173126035947
+ represent: 0.047269512779116396
+ search: 0.0415756397931545
+ sourc: 0.0406503854329357
+ standard: 0.019139068860376102
+ state: 0.03540727739169579
+ store: 0.019139068860376102
+ structur: 0.04110115037765768
+ succinct: 0.019139068860376102
+ theoret: 0.019139068860376102
+ time: 0.019139068860376102
+ tini: 0.019139068860376102
+ tree: 0.05167548592301547
+ xml: 0.04354138165735563
+ zip: 0.019139068860376102
+
+N-grams list: 10
+ succinct tree represent
+ content search oper
+ label tree structur
+ xml represent
+ standard xml data
+ xml search
+ xml index
+ xml docum
+ xml file
+ xml data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

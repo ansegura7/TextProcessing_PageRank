@@ -1,0 +1,54 @@
+File name: 4107674
+
+Graph edges count: 15
+ diffusionrank - algorithm: 1
+ diffusion - rate: 3
+ flow - model: 2
+ inform - diffusion: 1
+ inform - flow: 3
+ limit - time: 1
+ rank - inform: 1
+ rank - user: 2
+ ratebas - recommend: 1
+ recommend - algorithm: 1
+ recommend - perform: 1
+ specif - receiv: 1
+ specif - sender: 1
+ specif - user: 1
+ time - period: 2
+
+PageRank scores count: 18
+ algorithm: 0.09055220097522158
+ diffusion: 0.0437160894387252
+ diffusionrank: 0.034348867131425924
+ flow: 0.06245053405332376
+ inform: 0.0440810461519966
+ limit: 0.034348867131425924
+ model: 0.08743182107675111
+ perform: 0.06135566391350955
+ period: 0.08836246069559318
+ rank: 0.034348867131425924
+ rate: 0.07150754315434235
+ ratebas: 0.034348867131425924
+ receiv: 0.0440810461519966
+ recommend: 0.06354540419313795
+ sender: 0.0440810461519966
+ specif: 0.034348867131425924
+ time: 0.06354540419313795
+ user: 0.06354540419313795
+
+N-grams list: 10
+ inform flow model
+ ratebas recommend algorithm
+ limit time period
+ time period
+ diffusionrank algorithm
+ recommend perform
+ diffusion rate
+ inform flow
+ rank user
+ specif user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

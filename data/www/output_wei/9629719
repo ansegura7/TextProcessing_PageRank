@@ -1,0 +1,78 @@
+File name: 9629719
+
+Graph edges count: 23
+ comput - cost: 1
+ current - stateoftheart: 1
+ effect - approach: 1
+ expansionbas - algorithm: 1
+ expens - oper: 1
+ experiment - result: 1
+ extern - resourc: 1
+ fast - access: 1
+ match - algorithm: 1
+ match - queri: 1
+ neglig - increas: 1
+ offlin - process: 1
+ onlin - expan: 1
+ popular - queri: 2
+ queri - represent: 1
+ queri - time: 1
+ rare - queri: 3
+ relat - popular: 1
+ relev - advertis: 1
+ search - result: 1
+ search - system: 1
+ stateoftheart - match: 1
+ web - search: 1
+
+PageRank scores count: 34
+ access: 0.03217807345851944
+ advertis: 0.03217807345851944
+ algorithm: 0.051194662614258646
+ approach: 0.03217807345851944
+ comput: 0.01739355322082132
+ cost: 0.03217807345851944
+ current: 0.01739355322082132
+ effect: 0.01739355322082132
+ expan: 0.03217807345851944
+ expansionbas: 0.01739355322082132
+ expens: 0.01739355322082132
+ experiment: 0.01739355322082132
+ extern: 0.01739355322082132
+ fast: 0.01739355322082132
+ increas: 0.03217807345851944
+ match: 0.044744915660562844
+ neglig: 0.01739355322082132
+ offlin: 0.01739355322082132
+ onlin: 0.01739355322082132
+ oper: 0.03217807345851944
+ popular: 0.03217807345851944
+ process: 0.03217807345851944
+ queri: 0.07854602505400017
+ rare: 0.01739355322082132
+ relat: 0.01739355322082132
+ relev: 0.01739355322082132
+ represent: 0.0507756138687714
+ resourc: 0.03217807345851944
+ result: 0.04585375467839021
+ search: 0.03217807345851944
+ stateoftheart: 0.03217807345851944
+ system: 0.03106923444069208
+ time: 0.0507756138687714
+ web: 0.01739355322082132
+
+N-grams list: 10
+ queri represent
+ queri time
+ relat popular queri
+ match queri
+ popular queri
+ rare queri
+ web search result
+ current stateoftheart match
+ queri
+ expansionbas algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

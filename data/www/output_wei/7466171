@@ -1,0 +1,68 @@
+File name: 7466171
+
+Graph edges count: 20
+ coher - topic: 1
+ frequenc - analysi: 1
+ global - properti: 1
+ import - challeng: 1
+ minim - cluster: 1
+ model - method: 1
+ multigrain - model: 2
+ multigrain - topic: 2
+ onlin - review: 1
+ onlin - user: 1
+ opinionbas - summari: 1
+ previou - work: 1
+ product - opinion: 1
+ product - type: 1
+ ratabl - aspect: 2
+ standard - model: 1
+ standard - topic: 2
+ term - frequenc: 1
+ topic - model: 3
+ user - review: 2
+
+PageRank scores count: 27
+ analysi: 0.056040435525134005
+ aspect: 0.04030118784120424
+ challeng: 0.04030118784120424
+ cluster: 0.04030118784120424
+ coher: 0.0217844258601104
+ frequenc: 0.04030118784120424
+ global: 0.0217844258601104
+ import: 0.0217844258601104
+ method: 0.09814292307964613
+ minim: 0.0217844258601104
+ model: 0.08983352614063027
+ multigrain: 0.0217844258601104
+ onlin: 0.0217844258601104
+ opinion: 0.03104280685065732
+ opinionbas: 0.0217844258601104
+ previou: 0.0217844258601104
+ product: 0.0217844258601104
+ properti: 0.04030118784120424
+ ratabl: 0.0217844258601104
+ review: 0.057429192673716045
+ standard: 0.0217844258601104
+ summari: 0.04030118784120424
+ term: 0.0217844258601104
+ topic: 0.06190407681914705
+ type: 0.03104280685065732
+ user: 0.03104280685065732
+ work: 0.04030118784120424
+
+N-grams list: 10
+ multigrain topic model
+ standard topic model
+ term frequenc analysi
+ standard model
+ multigrain model
+ onlin user review
+ method
+ model
+ user review
+ multigrain topic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

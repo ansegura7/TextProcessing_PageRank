@@ -1,0 +1,71 @@
+File name: 9947418
+
+Graph edges count: 23
+ applicationspecif - secur: 1
+ applic - compon: 1
+ build - web: 1
+ explicitlyspecifi - privileg: 1
+ finegrain - privileg: 1
+ java - servlet: 1
+ lesstrust - code: 1
+ limit - explicitlyspecifi: 1
+ model - applic: 1
+ objectcap - languag: 1
+ privilegesepar - compon: 1
+ privileg - separ: 2
+ program - model: 1
+ review - applicationspecif: 1
+ rich - secur: 1
+ secur - polici: 1
+ secur - properti: 2
+ secur - review: 1
+ servlet - framework: 1
+ thirdparti - lesstrust: 1
+ webmail - applic: 1
+ web - applic: 4
+ web - framework: 1
+
+PageRank scores count: 27
+ applic: 0.07275675050575958
+ applicationspecif: 0.04989751577700165
+ build: 0.01728702120718968
+ code: 0.04447086205549546
+ compon: 0.09382422716319655
+ explicitlyspecifi: 0.031980989233300915
+ finegrain: 0.01728702120718968
+ framework: 0.05806278247964835
+ java: 0.01728702120718968
+ languag: 0.031980989233300915
+ lesstrust: 0.031980989233300915
+ limit: 0.01728702120718968
+ model: 0.031980989233300915
+ objectcap: 0.01728702120718968
+ polici: 0.038365291315937404
+ privileg: 0.05916483008160669
+ privilegesepar: 0.01728702120718968
+ program: 0.01728702120718968
+ properti: 0.038365291315937404
+ review: 0.038365291315937404
+ rich: 0.01728702120718968
+ secur: 0.07439388374122198
+ separ: 0.06757712677655536
+ servlet: 0.031980989233300915
+ thirdparti: 0.01728702120718968
+ web: 0.031980989233300915
+ webmail: 0.01728702120718968
+
+N-grams list: 10
+ applic compon
+ review applicationspecif secur
+ finegrain privileg separ
+ rich secur polici
+ privileg separ
+ build web applic
+ secur review
+ secur properti
+ privilegesepar compon
+ limit explicitlyspecifi privileg
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

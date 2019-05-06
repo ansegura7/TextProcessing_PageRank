@@ -1,0 +1,55 @@
+File name: 6158247
+
+Graph edges count: 13
+ addition - featur: 1
+ baselin - algorithm: 1
+ base - ranker: 3
+ complementari - sourc: 1
+ empir - studi: 1
+ inform - rank: 1
+ inform - retriev: 2
+ kei - challeng: 1
+ label - instanc: 1
+ rank - function: 3
+ rank - inform: 3
+ rank - refin: 4
+ small - set: 1
+
+PageRank scores count: 21
+ addition: 0.03287608896414117
+ algorithm: 0.06082076458366117
+ base: 0.03287608896414117
+ baselin: 0.03287608896414117
+ challeng: 0.06082076458366117
+ complementari: 0.03287608896414117
+ empir: 0.03287608896414117
+ featur: 0.06082076458366117
+ function: 0.04796701013568864
+ inform: 0.04796701013568864
+ instanc: 0.06082076458366117
+ kei: 0.03287608896414117
+ label: 0.03287608896414117
+ rank: 0.05326207060525773
+ ranker: 0.06082076458366117
+ refin: 0.04796701013568864
+ retriev: 0.05326207060525773
+ set: 0.06082076458366117
+ small: 0.03287608896414117
+ sourc: 0.06082076458366117
+ studi: 0.06082076458366117
+
+N-grams list: 10
+ inform rank inform
+ rank refin
+ inform retriev
+ rank inform
+ rank function
+ baselin algorithm
+ small set
+ addition featur
+ base ranker
+ label instanc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

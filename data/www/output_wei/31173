@@ -1,0 +1,78 @@
+File name: 31173
+
+Graph edges count: 25
+ annot - mode: 1
+ annot - tool: 1
+ asm - dublin: 1
+ author - mode: 1
+ componentbas - ontologydriven: 1
+ crawler - infer: 1
+ docum - manag: 1
+ domain - ontologi: 1
+ dublin - core: 1
+ framework - cream: 2
+ infer - servic: 1
+ interlink - machineunderstand: 1
+ interrel - defini: 1
+ machineunderstand - data: 1
+ metadata - crawler: 1
+ ontologybas - framework: 1
+ ontologydriven - web: 1
+ page - author: 1
+ relat - metadata: 1
+ rigid - templatelik: 1
+ schema - asm: 1
+ semant - web: 1
+ servic - docum: 1
+ templatelik - schema: 1
+ web - page: 3
+
+PageRank scores count: 32
+ annot: 0.01297969787108186
+ asm: 0.04136142972843623
+ author: 0.05610807009533081
+ componentbas: 0.01297969787108186
+ core: 0.05389607404029662
+ crawler: 0.033390272773358085
+ cream: 0.033390272773358085
+ data: 0.033390272773358085
+ defini: 0.02401244106150144
+ docum: 0.05389607404029662
+ domain: 0.01297969787108186
+ dublin: 0.04813691314025266
+ framework: 0.02401244106150144
+ infer: 0.04136142972843623
+ interlink: 0.01297969787108186
+ interrel: 0.01297969787108186
+ machineunderstand: 0.02401244106150144
+ manag: 0.05879136080533399
+ metadata: 0.02401244106150144
+ mode: 0.06618792904732283
+ ontologi: 0.02401244106150144
+ ontologybas: 0.01297969787108186
+ ontologydriven: 0.02401244106150144
+ page: 0.05073926144029288
+ relat: 0.01297969787108186
+ rigid: 0.01297969787108186
+ schema: 0.033390272773358085
+ semant: 0.01297969787108186
+ servic: 0.04813691314025266
+ templatelik: 0.02401244106150144
+ tool: 0.018496069466291648
+ web: 0.04442301596377766
+
+N-grams list: 10
+ servic docum manag
+ asm dublin core
+ author mode
+ page author
+ metadata crawler infer
+ web page
+ componentbas ontologydriven web
+ annot mode
+ rigid templatelik schema
+ interlink machineunderstand data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

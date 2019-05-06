@@ -1,0 +1,58 @@
+File name: 4319028
+
+Graph edges count: 14
+ autogener - queri: 1
+ crawledfrom - delici: 1
+ dataset - crawledfrom: 1
+ experiment - result: 1
+ favorit - webpag: 1
+ good - summari: 1
+ latent - semant: 1
+ page - rank: 1
+ preliminari - experiment: 1
+ semant - associ: 1
+ social - annot: 5
+ sprbenefit - web: 1
+ web - search: 3
+ web - user: 2
+
+PageRank scores count: 23
+ annot: 0.050081212777477006
+ associ: 0.06963995668651869
+ autogener: 0.027070925825663242
+ crawledfrom: 0.050081212777477006
+ dataset: 0.027070925825663242
+ delici: 0.06963995668651869
+ experiment: 0.050081212777477006
+ favorit: 0.027070925825663242
+ good: 0.027070925825663242
+ latent: 0.027070925825663242
+ page: 0.027070925825663242
+ preliminari: 0.027070925825663242
+ queri: 0.050081212777477006
+ rank: 0.050081212777477006
+ result: 0.06963995668651869
+ search: 0.05261234434217651
+ semant: 0.050081212777477006
+ social: 0.027070925825663242
+ sprbenefit: 0.027070925825663242
+ summari: 0.050081212777477006
+ user: 0.04409853817000542
+ web: 0.050081212777477006
+ webpag: 0.050081212777477006
+
+N-grams list: 10
+ preliminari experiment result
+ dataset crawledfrom delici
+ latent semant associ
+ sprbenefit web search
+ web search
+ web user
+ favorit webpag
+ autogener queri
+ page rank
+ good summari
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

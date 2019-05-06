@@ -1,0 +1,126 @@
+File name: 431669
+
+Graph edges count: 47
+ averag - request: 2
+ cachecontrol - featur: 1
+ cach - valid: 1
+ client - cach: 1
+ client - workload: 1
+ commerci - web: 1
+ comprehens - studi: 1
+ content - deliveri: 3
+ current - usag: 1
+ deliveri - network: 1
+ deliveri - optim: 1
+ expir - time: 1
+ farm - workload: 1
+ implicit - expir: 1
+ indiscrimin - usag: 1
+ interest - observ: 1
+ larg - number: 1
+ larg - server: 1
+ larg - web: 1
+ major - isp: 1
+ mandatori - cach: 1
+ maximum - valu: 1
+ origin - server: 1
+ peak - request: 1
+ perform - benefit: 1
+ perform - characterist: 1
+ popular - site: 1
+ potenti - perform: 1
+ previou - client: 1
+ request - rate: 2
+ request - ratio: 1
+ server - farm: 2
+ signific - reason: 1
+ simul - analysi: 1
+ simul - result: 1
+ site - perform: 1
+ site - popul: 1
+ site - popular: 1
+ squid - proxi: 1
+ suboptim - perform: 1
+ systemat - studi: 1
+ uncach - respons: 1
+ web - server: 1
+ web - site: 7
+ web - technologi: 1
+ widespread - indiscrimin: 1
+ workload - studi: 1
+
+PageRank scores count: 58
+ analysi: 0.01328678833645781
+ averag: 0.00932406199049671
+ benefit: 0.02484536398735955
+ cach: 0.02458055842244695
+ cachecontrol: 0.00932406199049671
+ characterist: 0.02484536398735955
+ client: 0.017249514682418914
+ commerci: 0.00932406199049671
+ comprehens: 0.00932406199049671
+ content: 0.00932406199049671
+ current: 0.00932406199049671
+ deliveri: 0.017249514682418914
+ expir: 0.017249514682418914
+ farm: 0.02782852634971062
+ featur: 0.017249514682418914
+ implicit: 0.00932406199049671
+ indiscrimin: 0.017249514682418914
+ interest: 0.00932406199049671
+ isp: 0.017249514682418914
+ larg: 0.00932406199049671
+ major: 0.00932406199049671
+ mandatori: 0.00932406199049671
+ maximum: 0.00932406199049671
+ network: 0.016655105730524748
+ number: 0.011965879554470777
+ observ: 0.017249514682418914
+ optim: 0.016655105730524748
+ origin: 0.00932406199049671
+ peak: 0.00932406199049671
+ perform: 0.03652070505893719
+ popul: 0.020669799675092783
+ popular: 0.020669799675092783
+ potenti: 0.00932406199049671
+ previou: 0.00932406199049671
+ proxi: 0.017249514682418914
+ rate: 0.023589876835956675
+ ratio: 0.016456969413226694
+ reason: 0.017249514682418914
+ request: 0.025174967374341117
+ respons: 0.017249514682418914
+ result: 0.01328678833645781
+ server: 0.02176995806966343
+ signific: 0.00932406199049671
+ simul: 0.00932406199049671
+ site: 0.040043777170847776
+ squid: 0.00932406199049671
+ studi: 0.05943791753295308
+ suboptim: 0.00932406199049671
+ systemat: 0.00932406199049671
+ technologi: 0.011202687813767157
+ time: 0.023986149470552786
+ uncach: 0.00932406199049671
+ usag: 0.03191160216247499
+ valid: 0.03021753664957662
+ valu: 0.017249514682418914
+ web: 0.01989133224639298
+ widespread: 0.00932406199049671
+ workload: 0.04030935312777877
+
+N-grams list: 10
+ web site perform
+ potenti perform benefit
+ web server farm
+ larg web site
+ commerci web site
+ comprehens studi
+ systemat studi
+ previou client workload
+ mandatori cach valid
+ site popular
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

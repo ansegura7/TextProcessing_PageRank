@@ -1,0 +1,80 @@
+File name: 4332212
+
+Graph edges count: 27
+ behavior - predic: 1
+ empir - experi: 1
+ gener - sentim: 1
+ hmm - structur: 1
+ latent - topic: 1
+ life - cycl: 1
+ model - facet: 1
+ opinion - track: 1
+ potenti - applic: 1
+ probabilist - model: 1
+ result - summar: 1
+ search - result: 1
+ sentim - dynam: 1
+ sentim - mixtur: 1
+ sentim - model: 2
+ summar - opinion: 1
+ text - collec: 1
+ topicsenti - analysi: 1
+ topicsenti - mixtur: 1
+ topic - facet: 2
+ topic - life: 1
+ topic - model: 1
+ topic - sentim: 1
+ tsm - model: 1
+ user - behavior: 1
+ weblog - collec: 2
+ weblog - dataset: 1
+
+PageRank scores count: 32
+ analysi: 0.024538104928075677
+ applic: 0.03185648709960702
+ behavior: 0.03185648709960702
+ collec: 0.03917486927113836
+ cycl: 0.03761056508197354
+ dataset: 0.024538104928075677
+ dynam: 0.028163753428888497
+ empir: 0.017219722756544334
+ experi: 0.03185648709960702
+ facet: 0.07856499404533913
+ gener: 0.017219722756544334
+ hmm: 0.017219722756544334
+ latent: 0.017219722756544334
+ life: 0.023989226265210828
+ mixtur: 0.03548213560041984
+ model: 0.06420678562368036
+ opinion: 0.05487279902907309
+ potenti: 0.017219722756544334
+ predic: 0.044297736791210296
+ probabilist: 0.017219722756544334
+ result: 0.03185648709960702
+ search: 0.017219722756544334
+ sentim: 0.038625990608273514
+ structur: 0.03185648709960702
+ summar: 0.044297736791210296
+ text: 0.017219722756544334
+ topic: 0.03185648709960702
+ topicsenti: 0.017219722756544334
+ track: 0.06386160193125646
+ tsm: 0.017219722756544334
+ user: 0.017219722756544334
+ weblog: 0.017219722756544334
+
+N-grams list: 10
+ model facet
+ latent topic facet
+ gener sentim model
+ opinion track
+ topic facet
+ topic sentim mixtur
+ sentim model
+ topic model
+ topic life cycl
+ user behavior predic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,100 @@
+File name: 14377272
+
+Graph edges count: 33
+ ambigu - visual: 1
+ content - collec: 1
+ content - onlin: 1
+ cover - snow: 1
+ earthobserv - satellit: 1
+ ecolog - phenomena: 2
+ enorm - collec: 1
+ geotag - timestamp: 1
+ ground - snow: 1
+ imag - featur: 1
+ largescal - monitor: 1
+ larg - degre: 1
+ larg - noisi: 1
+ machin - learn: 1
+ media - websit: 1
+ mine - photoshar: 1
+ mislead - tag: 1
+ noisi - social: 1
+ photoshar - websit: 1
+ share - dataset: 1
+ share - user: 1
+ snow - cover: 1
+ snow - fall: 1
+ social - media: 1
+ social - share: 2
+ surfac - station: 1
+ textual - expres: 1
+ timestamp - photo: 1
+ truth - data: 1
+ usergener - content: 1
+ veget - densiti: 1
+ visual - content: 1
+ visual - snapshot: 1
+
+PageRank scores count: 46
+ ambigu: 0.012536557259785714
+ collec: 0.037238668037950354
+ content: 0.033049499076110087
+ cover: 0.03505821030106261
+ data: 0.023192630930603572
+ dataset: 0.022871783212421292
+ degre: 0.017864594095194645
+ densiti: 0.023192630930603572
+ earthobserv: 0.012536557259785714
+ ecolog: 0.012536557259785714
+ enorm: 0.012536557259785714
+ expres: 0.023192630930603572
+ fall: 0.03505821030106261
+ featur: 0.023192630930603572
+ geotag: 0.012536557259785714
+ ground: 0.012536557259785714
+ imag: 0.012536557259785714
+ larg: 0.012536557259785714
+ largescal: 0.012536557259785714
+ learn: 0.023192630930603572
+ machin: 0.012536557259785714
+ media: 0.024318178712083707
+ mine: 0.012536557259785714
+ mislead: 0.012536557259785714
+ monitor: 0.023192630930603572
+ noisi: 0.017864594095194645
+ onlin: 0.026582594367132503
+ phenomena: 0.023192630930603572
+ photo: 0.03225029355079875
+ photoshar: 0.023192630930603572
+ satellit: 0.023192630930603572
+ share: 0.024318178712083707
+ snapshot: 0.022393425405292232
+ snow: 0.052992103710217016
+ social: 0.027721462240701163
+ station: 0.023192630930603572
+ surfac: 0.012536557259785714
+ tag: 0.023192630930603572
+ textual: 0.012536557259785714
+ timestamp: 0.023192630930603572
+ truth: 0.012536557259785714
+ user: 0.022871783212421292
+ usergener: 0.012536557259785714
+ veget: 0.012536557259785714
+ visual: 0.023192630930603572
+ websit: 0.0529207454560699
+
+N-grams list: 10
+ social media websit
+ ground snow cover
+ mine photoshar websit
+ snow fall
+ social share user
+ usergener content onlin
+ content collec
+ ambigu visual content
+ geotag timestamp photo
+ larg noisi social
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

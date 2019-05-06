@@ -1,0 +1,47 @@
+File name: 10358404
+
+Graph edges count: 12
+ adapt - new: 3
+ adapt - process: 1
+ interest - profil: 1
+ new - deliveri: 1
+ new - system: 3
+ open - user: 2
+ person - new: 1
+ previou - studi: 1
+ system - yournew: 1
+ user - model: 1
+ user - profil: 2
+ user - studi: 1
+
+PageRank scores count: 14
+ adapt: 0.04268379709723503
+ deliveri: 0.08395369341562414
+ interest: 0.04268379709723503
+ model: 0.06505722074236905
+ new: 0.09710563839620968
+ open: 0.04268379709723503
+ person: 0.04268379709723503
+ previou: 0.04268379709723503
+ process: 0.06082441086355992
+ profil: 0.10133844827501882
+ studi: 0.10133844827501882
+ system: 0.08395369341562414
+ user: 0.07896502462988479
+ yournew: 0.11404443650051556
+
+N-grams list: 10
+ adapt new system
+ person new system
+ adapt new deliveri
+ open user profil
+ open user model
+ user studi
+ user profil
+ interest profil
+ previou studi
+ yournew
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

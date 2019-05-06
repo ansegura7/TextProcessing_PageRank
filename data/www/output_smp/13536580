@@ -1,0 +1,69 @@
+File name: 13536580
+
+Graph edges count: 18
+ actual - data: 1
+ advertis - system: 3
+ cach - hit: 1
+ contentmatch - applic: 1
+ contextu - advertis: 2
+ efficiencyaccuraci - tradeoff: 2
+ extens - experi: 1
+ fundament - characterist: 1
+ gener - model: 1
+ longrang - depend: 1
+ minim - impact: 1
+ nearestneighbor - cach: 1
+ page - request: 1
+ real - data: 1
+ similar - cach: 3
+ simpl - gener: 1
+ theoret - bound: 1
+ web - applic: 1
+
+PageRank scores count: 30
+ actual: 0.02075119319360863
+ advertis: 0.03838970740817596
+ applic: 0.0560282216227433
+ bound: 0.03838970740817596
+ cach: 0.0560282216227433
+ characterist: 0.03838970740817596
+ contentmatch: 0.02075119319360863
+ contextu: 0.02075119319360863
+ data: 0.0560282216227433
+ depend: 0.03838970740817596
+ efficiencyaccuraci: 0.02075119319360863
+ experi: 0.03838970740817596
+ extens: 0.02075119319360863
+ fundament: 0.02075119319360863
+ gener: 0.03838970740817596
+ hit: 0.06837518157294044
+ impact: 0.03838970740817596
+ longrang: 0.02075119319360863
+ minim: 0.02075119319360863
+ model: 0.0533824444905582
+ nearestneighbor: 0.02075119319360863
+ page: 0.02075119319360863
+ real: 0.02075119319360863
+ request: 0.03838970740817596
+ similar: 0.02075119319360863
+ simpl: 0.02075119319360863
+ system: 0.0533824444905582
+ theoret: 0.02075119319360863
+ tradeoff: 0.03838970740817596
+ web: 0.02075119319360863
+
+N-grams list: 10
+ cach hit
+ contextu advertis system
+ simpl gener model
+ advertis system
+ web applic
+ real data
+ actual data
+ nearestneighbor cach
+ similar cach
+ contentmatch applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

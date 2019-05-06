@@ -1,0 +1,85 @@
+File name: 14389220
+
+Graph edges count: 27
+ agent - trust: 1
+ credit - network: 4
+ empir - game: 1
+ equilibrium - credit: 1
+ exchang - economi: 1
+ fix - set: 1
+ format - game: 1
+ game - analysi: 1
+ heurist - strategi: 1
+ high - rate: 1
+ model - trust: 1
+ nash - equilibria: 2
+ nash - equilibrium: 1
+ network - credit: 1
+ potenti - game: 1
+ short - social: 1
+ similar - starlik: 1
+ social - distanc: 1
+ social - network: 1
+ social - optima: 1
+ social - optimum: 1
+ special - case: 1
+ starlik - structur: 2
+ star - structur: 1
+ strateg - format: 1
+ strong - sens: 1
+ unbound - myopic: 1
+
+PageRank scores count: 37
+ agent: 0.012409231641058834
+ analysi: 0.05747490749951912
+ case: 0.022957078535958842
+ credit: 0.15183560713037347
+ distanc: 0.01728761082995009
+ economi: 0.022957078535958842
+ empir: 0.012409231641058834
+ equilibria: 0.017683155088508838
+ equilibrium: 0.017683155088508838
+ exchang: 0.012409231641058834
+ fix: 0.012409231641058834
+ format: 0.022957078535958842
+ game: 0.05301844218642387
+ heurist: 0.012409231641058834
+ high: 0.012409231641058834
+ model: 0.012409231641058834
+ myopic: 0.022957078535958842
+ nash: 0.012409231641058834
+ network: 0.14634788817790273
+ optima: 0.01728761082995009
+ optimum: 0.01728761082995009
+ potenti: 0.012409231641058834
+ rate: 0.022957078535958842
+ sens: 0.022957078535958842
+ set: 0.022957078535958842
+ short: 0.012409231641058834
+ similar: 0.012409231641058834
+ social: 0.022957078535958842
+ special: 0.012409231641058834
+ star: 0.012409231641058834
+ starlik: 0.022957078535958842
+ strateg: 0.012409231641058834
+ strategi: 0.022957078535958842
+ strong: 0.012409231641058834
+ structur: 0.04247059529152386
+ trust: 0.03350492543085885
+ unbound: 0.012409231641058834
+
+N-grams list: 10
+ credit network credit
+ equilibrium credit network
+ credit network
+ social network
+ credit
+ network
+ empir game analysi
+ similar starlik structur
+ format game
+ potenti game
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

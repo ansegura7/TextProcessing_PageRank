@@ -1,0 +1,60 @@
+File name: 713424
+
+Graph edges count: 17
+ associ - rule: 1
+ emphgener - closur: 1
+ frequent - gener: 1
+ gener - associ: 2
+ gener - pattern: 1
+ knowledg - discoveri: 1
+ method - gpclose: 1
+ mine - algorithm: 1
+ mine - gener: 1
+ mine - rdf: 1
+ overgener - problem: 1
+ overgener - reduc: 1
+ pattern - mine: 1
+ rdf - metadata: 2
+ semant - web: 1
+ systemat - overgener: 1
+ web - era: 1
+
+PageRank scores count: 22
+ algorithm: 0.04299995622540086
+ associ: 0.06188743290997403
+ closur: 0.04684823014781468
+ discoveri: 0.04684823014781468
+ emphgener: 0.025323367647467395
+ era: 0.06514436327310988
+ frequent: 0.025323367647467395
+ gener: 0.06452481872574815
+ gpclose: 0.04684823014781468
+ knowledg: 0.025323367647467395
+ metadata: 0.06187333241593215
+ method: 0.025323367647467395
+ mine: 0.06238796084969105
+ overgener: 0.04684823014781468
+ pattern: 0.04360540027872071
+ problem: 0.04523386546028864
+ rdf: 0.04299995622540086
+ reduc: 0.04523386546028864
+ rule: 0.07792769155156741
+ semant: 0.025323367647467395
+ systemat: 0.025323367647467395
+ web: 0.04684823014781468
+
+N-grams list: 10
+ gener associ rule
+ mine gener associ
+ mine rdf metadata
+ semant web era
+ frequent gener pattern
+ systemat overgener reduc
+ mine algorithm
+ rdf metadata
+ overgener problem
+ method gpclose
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

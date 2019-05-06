@@ -1,0 +1,70 @@
+File name: 13621384
+
+Graph edges count: 22
+ analysi - social: 1
+ automat - discoveri: 1
+ bipartit - graph: 1
+ cluster - analysi: 1
+ content - data: 1
+ core - latent: 1
+ dens - interac: 1
+ factor - model: 1
+ factor - social: 1
+ forum - analysi: 1
+ graph - model: 1
+ joint - nonneg: 1
+ latent - topic: 1
+ matrix - factor: 2
+ network - model: 1
+ nonneg - matrix: 2
+ semant - analysi: 1
+ simultan - automat: 1
+ social - featur: 1
+ social - media: 2
+ topic - detec: 1
+ web - forum: 3
+
+PageRank scores count: 27
+ analysi: 0.0722144542591352
+ automat: 0.03126898546036281
+ bipartit: 0.016902154302898816
+ cluster: 0.016902154302898816
+ content: 0.016902154302898816
+ core: 0.016902154302898816
+ data: 0.03126898546036281
+ dens: 0.016902154302898816
+ detec: 0.05386082745547495
+ discoveri: 0.04348079194420721
+ factor: 0.05386082745547495
+ featur: 0.04556848706222532
+ forum: 0.03126898546036281
+ graph: 0.03126898546036281
+ interac: 0.03126898546036281
+ joint: 0.016902154302898816
+ latent: 0.03126898546036281
+ matrix: 0.04348079194420721
+ media: 0.07423481982155182
+ model: 0.08073847477024805
+ network: 0.016902154302898816
+ nonneg: 0.03126898546036281
+ semant: 0.016902154302898816
+ simultan: 0.016902154302898816
+ social: 0.1011752920917406
+ topic: 0.04348079194420721
+ web: 0.016902154302898816
+
+N-grams list: 10
+ analysi social media
+ social media
+ social featur
+ factor model
+ bipartit graph model
+ nonneg matrix factor
+ forum analysi
+ social
+ network model
+ topic detec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

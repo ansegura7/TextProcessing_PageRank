@@ -1,0 +1,38 @@
+File name: 8934865
+
+Graph edges count: 8
+ common - languag: 1
+ common - technolog: 1
+ commun - particip: 1
+ cultur - heritag: 1
+ region - cultur: 1
+ rich - region: 1
+ technolog - structur: 1
+ vari - degre: 1
+
+PageRank scores count: 12
+ common: 0.04909089793388683
+ commun: 0.04909089793388683
+ cultur: 0.12628633493492386
+ degre: 0.09081816117769063
+ heritag: 0.1564342826285721
+ languag: 0.06995452955578874
+ particip: 0.09081816117769063
+ region: 0.09081816117769063
+ rich: 0.04909089793388683
+ structur: 0.10855224805630725
+ technolog: 0.06995452955578874
+ vari: 0.04909089793388683
+
+N-grams list: 7
+ rich region cultur
+ common technolog structur
+ heritag
+ commun particip
+ vari degre
+ common languag
+ commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

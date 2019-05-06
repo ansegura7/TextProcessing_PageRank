@@ -1,0 +1,49 @@
+File name: 9665390
+
+Graph edges count: 13
+ contentbas - dissemin: 1
+ data - dissemin: 1
+ data - publish: 2
+ data - schema: 1
+ experiment - result: 1
+ heterogen - data: 1
+ heterogen - problem: 1
+ heterogen - xml: 1
+ import - challeng: 1
+ recent - research: 1
+ relev - data: 1
+ schema - heterogen: 1
+ xml - data: 3
+
+PageRank scores count: 15
+ challeng: 0.06456618320777244
+ contentbas: 0.034900639571768886
+ data: 0.14657881582392548
+ dissemin: 0.10609684918732008
+ experiment: 0.034900639571768886
+ heterogen: 0.09986725176609787
+ import: 0.034900639571768886
+ problem: 0.06319636231893076
+ publish: 0.07643130555131654
+ recent: 0.034900639571768886
+ relev: 0.034900639571768886
+ research: 0.06456618320777244
+ result: 0.06456618320777244
+ schema: 0.07643130555131654
+ xml: 0.06319636231893076
+
+N-grams list: 10
+ heterogen data schema
+ xml data dissemin
+ heterogen xml data
+ schema heterogen problem
+ data publish
+ xml data
+ relev data
+ data
+ contentbas dissemin
+ dissemin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

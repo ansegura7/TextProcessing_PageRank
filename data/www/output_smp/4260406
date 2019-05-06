@@ -1,0 +1,109 @@
+File name: 4260406
+
+Graph edges count: 38
+ access - individu: 1
+ aforemen - function: 1
+ apach - jetspe: 1
+ conceptu - elearn: 1
+ csduoc - portal: 1
+ curriculum - portal: 2
+ declar - queri: 1
+ dynam - web: 1
+ educ - institu: 2
+ effect - open: 1
+ elearn - onlin: 1
+ elearn - portal: 1
+ elearn - system: 1
+ end - effect: 1
+ function - semant: 1
+ group - knowledg: 1
+ jetspe - framework: 1
+ learn - interac: 1
+ navig - path: 1
+ onlin - curriculum: 3
+ openend - continuum: 1
+ peertop - elearn: 1
+ peertop - learn: 1
+ person - view: 1
+ pluggabl - web: 1
+ portal - gui: 1
+ portal - platform: 1
+ portal - space: 1
+ prerequisit - partof: 1
+ queri - languag: 1
+ runtim - portlet: 1
+ scalabl - elearn: 1
+ schema - navig: 1
+ semant - relationship: 1
+ semant - web: 2
+ share - knowledg: 1
+ web - compon: 1
+ web - page: 1
+
+PageRank scores count: 50
+ access: 0.01095155378548913
+ aforemen: 0.01095155378548913
+ apach: 0.01095155378548913
+ compon: 0.02860718677977938
+ conceptu: 0.01095155378548913
+ continuum: 0.02026037450315489
+ csduoc: 0.01095155378548913
+ curriculum: 0.028502559513588117
+ declar: 0.01095155378548913
+ dynam: 0.01095155378548913
+ educ: 0.01095155378548913
+ effect: 0.02026037450315489
+ elearn: 0.03422360557965353
+ end: 0.01095155378548913
+ framework: 0.028172872113170787
+ function: 0.02026037450315489
+ group: 0.01095155378548913
+ gui: 0.02630375464771656
+ individu: 0.02026037450315489
+ institu: 0.02026037450315489
+ interac: 0.024216623308162835
+ jetspe: 0.02026037450315489
+ knowledg: 0.02956919522082065
+ languag: 0.028172872113170787
+ learn: 0.015605964144322011
+ navig: 0.02026037450315489
+ onlin: 0.02064824203305763
+ open: 0.028172872113170787
+ openend: 0.01095155378548913
+ page: 0.02860718677977938
+ partof: 0.02026037450315489
+ path: 0.028172872113170787
+ peertop: 0.01095155378548913
+ person: 0.01095155378548913
+ platform: 0.02630375464771656
+ pluggabl: 0.01095155378548913
+ portal: 0.05418423833727329
+ portlet: 0.02026037450315489
+ prerequisit: 0.01095155378548913
+ queri: 0.02026037450315489
+ relationship: 0.02292502443358671
+ runtim: 0.01095155378548913
+ scalabl: 0.01095155378548913
+ schema: 0.01095155378548913
+ semant: 0.028172872113170787
+ share: 0.01095155378548913
+ space: 0.02630375464771656
+ system: 0.02064824203305763
+ view: 0.02026037450315489
+ web: 0.041542665868918235
+
+N-grams list: 10
+ onlin curriculum portal
+ conceptu elearn portal
+ function semant web
+ curriculum portal
+ pluggabl web compon
+ dynam web page
+ portal gui
+ semant web
+ scalabl elearn system
+ peertop elearn onlin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

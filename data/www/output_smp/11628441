@@ -1,0 +1,81 @@
+File name: 11628441
+
+Graph edges count: 24
+ automat - assess: 1
+ commerc - portal: 1
+ contextu - inform: 1
+ context - inform: 3
+ detail - commentari: 1
+ gener - framework: 1
+ inform - decision: 1
+ larg - quantiti: 1
+ onlin - review: 1
+ predic - onlin: 1
+ previou - work: 1
+ product - servic: 1
+ qualiti - predic: 3
+ real - commerc: 1
+ regular - constraint: 1
+ review - help: 1
+ review - qualiti: 4
+ review - text: 1
+ social - context: 5
+ social - network: 1
+ standalon - docum: 1
+ textbas - predictor: 1
+ train - data: 1
+ unlabel - review: 1
+
+PageRank scores count: 36
+ assess: 0.02842805811748555
+ automat: 0.015366517901343541
+ commentari: 0.02842805811748555
+ commerc: 0.02842805811748555
+ constraint: 0.02842805811748555
+ context: 0.021897288009414546
+ contextu: 0.015366517901343541
+ data: 0.02842805811748555
+ decision: 0.05535115788800827
+ detail: 0.015366517901343541
+ docum: 0.02842805811748555
+ framework: 0.02842805811748555
+ gener: 0.015366517901343541
+ help: 0.03664363029174576
+ inform: 0.047040752925487914
+ larg: 0.015366517901343541
+ network: 0.021897288009414546
+ onlin: 0.054903084529477245
+ portal: 0.039530367301206265
+ predic: 0.04651360058306189
+ predictor: 0.02842805811748555
+ previou: 0.015366517901343541
+ product: 0.015366517901343541
+ qualiti: 0.03664363029174576
+ quantiti: 0.02842805811748555
+ real: 0.015366517901343541
+ regular: 0.015366517901343541
+ review: 0.07509567996754121
+ servic: 0.02842805811748555
+ social: 0.015366517901343541
+ standalon: 0.015366517901343541
+ text: 0.03664363029174576
+ textbas: 0.015366517901343541
+ train: 0.015366517901343541
+ unlabel: 0.015366517901343541
+ work: 0.02842805811748555
+
+N-grams list: 10
+ review qualiti predic
+ onlin review
+ review text
+ review qualiti
+ review help
+ inform decision
+ unlabel review
+ social context inform
+ real commerc portal
+ review
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,44 @@
+File name: 812969
+
+Graph edges count: 10
+ artificiallycr - page: 1
+ classif - algorithm: 1
+ content - analysi: 1
+ nonspam - page: 1
+ previouslyundescrib - techniqu: 1
+ search - engin: 1
+ spam - page: 2
+ spam - web: 1
+ web - page: 1
+ web - spam: 1
+
+PageRank scores count: 13
+ algorithm: 0.08929759449412634
+ analysi: 0.08929759449412634
+ artificiallycr: 0.048268969996825055
+ classif: 0.048268969996825055
+ content: 0.048268969996825055
+ engin: 0.08929759449412634
+ nonspam: 0.048268969996825055
+ page: 0.2045703537290159
+ previouslyundescrib: 0.048268969996825055
+ search: 0.048268969996825055
+ spam: 0.07819985189899317
+ techniqu: 0.08929759449412634
+ web: 0.07042559641453514
+
+N-grams list: 10
+ spam web page
+ spam page
+ nonspam page
+ artificiallycr page
+ page
+ web spam
+ content analysi
+ search engin
+ classif algorithm
+ previouslyundescrib techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

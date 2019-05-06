@@ -1,0 +1,58 @@
+File name: 14373837
+
+Graph edges count: 17
+ abund - weak: 1
+ causal - effect: 1
+ diffusion - onlin: 1
+ domin - role: 1
+ field - experi: 1
+ inform - diffusion: 2
+ inform - onlin: 1
+ inform - propag: 1
+ inform - share: 1
+ largescal - field: 1
+ network - technologi: 1
+ onlin - inform: 1
+ onlin - social: 1
+ rel - role: 1
+ social - network: 3
+ social - signal: 1
+ weak - ti: 3
+
+PageRank scores count: 20
+ abund: 0.026918120670234327
+ causal: 0.026918120670234327
+ diffusion: 0.0472281485259001
+ domin: 0.026918120670234327
+ effect: 0.0497985232399335
+ experi: 0.06924686542417781
+ field: 0.0497985232399335
+ inform: 0.05973537343883365
+ largescal: 0.026918120670234327
+ network: 0.06499942289960765
+ onlin: 0.07721706213611583
+ propag: 0.037073134598067214
+ rel: 0.026918120670234327
+ role: 0.07267892580963269
+ share: 0.037073134598067214
+ signal: 0.03961188808002543
+ social: 0.05973537343883365
+ technologi: 0.0821676325555887
+ ti: 0.06924686542417781
+ weak: 0.0497985232399335
+
+N-grams list: 10
+ social network technologi
+ inform diffusion onlin
+ onlin inform diffusion
+ largescal field experi
+ abund weak ti
+ inform onlin
+ social network
+ weak ti
+ rel role
+ domin role
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

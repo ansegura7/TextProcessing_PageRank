@@ -1,0 +1,76 @@
+File name: 4036152
+
+Graph edges count: 21
+ actual - algorithm: 1
+ algorithm - thatperform: 1
+ amaximum - cover: 1
+ arriv - rate: 1
+ asth - averag: 1
+ averag - number: 1
+ cover - formul: 1
+ difficult - task: 1
+ discoveri - problem: 1
+ effici - discoveri: 1
+ high - arriv: 1
+ histor - statist: 1
+ inher - difficulti: 1
+ monthli - basi: 1
+ perfect - estim: 1
+ perfect - foreknowledg: 1
+ previou - studi: 1
+ realist - set: 1
+ simpl - algorithm: 1
+ toyield - link: 1
+ web - previou: 1
+
+PageRank scores count: 34
+ actual: 0.0178388262052357
+ algorithm: 0.04816483075413638
+ amaximum: 0.0178388262052357
+ arriv: 0.03300182847968604
+ asth: 0.0178388262052357
+ averag: 0.03300182847968604
+ basi: 0.03300182847968604
+ cover: 0.03300182847968604
+ difficult: 0.0178388262052357
+ difficulti: 0.03300182847968604
+ discoveri: 0.03300182847968604
+ effici: 0.0178388262052357
+ estim: 0.02542032734246087
+ foreknowledg: 0.02542032734246087
+ formul: 0.04589038041296883
+ high: 0.0178388262052357
+ histor: 0.0178388262052357
+ inher: 0.0178388262052357
+ link: 0.03300182847968604
+ monthli: 0.0178388262052357
+ number: 0.04589038041296883
+ perfect: 0.0178388262052357
+ previou: 0.03300182847968604
+ problem: 0.04589038041296883
+ rate: 0.04589038041296883
+ realist: 0.0178388262052357
+ set: 0.03300182847968604
+ simpl: 0.0178388262052357
+ statist: 0.03300182847968604
+ studi: 0.04589038041296883
+ task: 0.03300182847968604
+ thatperform: 0.05877893234625162
+ toyield: 0.0178388262052357
+ web: 0.0178388262052357
+
+N-grams list: 10
+ simpl algorithm thatperform
+ web previou studi
+ high arriv rate
+ amaximum cover formul
+ asth averag number
+ discoveri problem
+ actual algorithm
+ monthli basi
+ effici discoveri
+ inher difficulti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

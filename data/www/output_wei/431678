@@ -1,0 +1,54 @@
+File name: 431678
+
+Graph edges count: 12
+ confus - implementor: 1
+ docum - rational: 1
+ failur - difficulti: 1
+ fundament - defini: 1
+ http1 - 1: 1
+ implementor - interoper: 1
+ interoper - failur: 1
+ long - specif: 1
+ major - factor: 1
+ numer - problem: 1
+ protocol - design: 1
+ unfortun - choic: 1
+
+PageRank scores count: 21
+ 1: 0.05267990320423733
+ choic: 0.05267990320423733
+ confus: 0.028475623353641795
+ defini: 0.05267990320423733
+ design: 0.05267990320423733
+ difficulti: 0.10560558663254575
+ docum: 0.028475623353641795
+ factor: 0.05267990320423733
+ failur: 0.0907411332692988
+ fundament: 0.028475623353641795
+ http1: 0.028475623353641795
+ implementor: 0.05267990320423733
+ interoper: 0.07325354107724352
+ long: 0.028475623353641795
+ major: 0.028475623353641795
+ numer: 0.028475623353641795
+ problem: 0.05267990320423733
+ protocol: 0.028475623353641795
+ rational: 0.05267990320423733
+ specif: 0.05267990320423733
+ unfortun: 0.028475623353641795
+
+N-grams list: 10
+ failur difficulti
+ confus implementor interoper
+ http1 1
+ major factor
+ unfortun choic
+ fundament defini
+ long specif
+ protocol design
+ numer problem
+ docum rational
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

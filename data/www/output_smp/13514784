@@ -1,0 +1,72 @@
+File name: 13514784
+
+Graph edges count: 24
+ applic - infrastructur: 1
+ atombas - distribu: 1
+ chang - manag: 1
+ common - characterist: 1
+ comput - infrastructur: 1
+ configur - inform: 1
+ configur - manag: 2
+ current - servic: 1
+ decentr - approach: 1
+ decentr - servic: 1
+ incid - manag: 1
+ manag - approach: 1
+ manag - databas: 1
+ manag - domain: 1
+ manag - process: 2
+ manag - respons: 1
+ process - coordin: 1
+ restbas - manag: 1
+ rest - access: 1
+ servic - applic: 1
+ servic - manag: 5
+ servic - process: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 27
+ access: 0.03915657392377749
+ applic: 0.034808783170529226
+ approach: 0.046783198600251256
+ atombas: 0.02116571563447432
+ chang: 0.02116571563447432
+ characterist: 0.03915657392377749
+ common: 0.02116571563447432
+ comput: 0.02116571563447432
+ configur: 0.02116571563447432
+ coordin: 0.0648819270773807
+ current: 0.02116571563447432
+ databas: 0.03778776945559967
+ decentr: 0.02116571563447432
+ distribu: 0.03915657392377749
+ domain: 0.03778776945559967
+ incid: 0.02116571563447432
+ inform: 0.030161144779125907
+ infrastructur: 0.06874403961872733
+ manag: 0.09777678718309031
+ process: 0.05143083699165457
+ respons: 0.03778776945559967
+ rest: 0.02116571563447432
+ restbas: 0.02116571563447432
+ servic: 0.048152003068429074
+ web: 0.054448803469685184
+ wide: 0.03915657392377749
+ world: 0.02116571563447432
+
+N-grams list: 10
+ servic manag process
+ decentr servic manag
+ current servic manag
+ servic process coordin
+ configur manag databas
+ servic manag
+ manag respons
+ manag domain
+ chang manag
+ incid manag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

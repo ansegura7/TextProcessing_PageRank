@@ -1,0 +1,57 @@
+File name: 13063484
+
+Graph edges count: 13
+ automat - evalu: 1
+ concern - reader: 1
+ controversi - point: 1
+ edit - histori: 1
+ human - knowledg: 1
+ initi - effort: 1
+ knowledg - todai: 1
+ open - environ: 1
+ page - wikipedia: 1
+ polem - topic: 1
+ polit - differ: 1
+ regular - editor: 1
+ wikipedia - page: 2
+
+PageRank scores count: 23
+ automat: 0.022519563871113032
+ concern: 0.022519563871113032
+ controversi: 0.022519563871113032
+ differ: 0.04166119316155911
+ edit: 0.022519563871113032
+ editor: 0.04166119316155911
+ effort: 0.04166119316155911
+ environ: 0.04166119316155911
+ evalu: 0.04166119316155911
+ histori: 0.04166119316155911
+ human: 0.022519563871113032
+ initi: 0.022519563871113032
+ knowledg: 0.04166119316155911
+ open: 0.022519563871113032
+ page: 0.1501304258074202
+ point: 0.04166119316155911
+ polem: 0.022519563871113032
+ polit: 0.022519563871113032
+ reader: 0.04166119316155911
+ regular: 0.022519563871113032
+ todai: 0.05793157805843827
+ topic: 0.04166119316155911
+ wikipedia: 0.1501304258074202
+
+N-grams list: 10
+ wikipedia page wikipedia
+ wikipedia page
+ human knowledg todai
+ concern reader
+ controversi point
+ edit histori
+ polem topic
+ regular editor
+ polit differ
+ open environ
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

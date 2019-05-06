@@ -1,0 +1,60 @@
+File name: 9955857
+
+Graph edges count: 17
+ bad - perform: 1
+ bay - classifi: 1
+ bay - tradition: 1
+ cancel - problem: 1
+ contradic - pair: 1
+ discrimin - evid: 1
+ evid - cancel: 1
+ experiment - result: 1
+ intrins - limit: 1
+ low - perform: 1
+ modifi - naiv: 1
+ naiv - bay: 5
+ pair - problem: 1
+ real - webscal: 1
+ tradition - naiv: 1
+ webscal - classif: 1
+ webscal - taxonomi: 2
+
+PageRank scores count: 22
+ bad: 0.021706626356926186
+ bay: 0.10321759256858126
+ cancel: 0.055840296303192614
+ classif: 0.03308451633901499
+ classifi: 0.06557410025481056
+ contradic: 0.021706626356926186
+ discrimin: 0.021706626356926186
+ evid: 0.040157258760313445
+ experiment: 0.021706626356926186
+ intrins: 0.021706626356926186
+ limit: 0.040157258760313445
+ low: 0.021706626356926186
+ modifi: 0.021706626356926186
+ naiv: 0.09589524397690243
+ pair: 0.040157258760313445
+ perform: 0.05860789116370071
+ problem: 0.10330454816090633
+ real: 0.021706626356926186
+ result: 0.040157258760313445
+ taxonomi: 0.0444624063211038
+ tradition: 0.06557410025481056
+ webscal: 0.040157258760313445
+
+N-grams list: 10
+ naiv bay tradition
+ naiv bay classifi
+ modifi naiv bay
+ naiv bay
+ contradic pair problem
+ discrimin evid cancel
+ real webscal taxonomi
+ problem
+ webscal taxonomi
+ bad perform
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

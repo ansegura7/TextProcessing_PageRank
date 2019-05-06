@@ -1,0 +1,89 @@
+File name: 9605960
+
+Graph edges count: 32
+ cach - evic: 1
+ cach - hit: 1
+ cach - problem: 1
+ cost - factor: 1
+ cost - save: 1
+ engin - queri: 1
+ evic - polici: 1
+ featurebas - cach: 1
+ hit - ratio: 1
+ invert - list: 1
+ larg - web: 1
+ list - cach: 1
+ main - contribu: 1
+ main - techniqu: 1
+ major - cost: 1
+ perform - gain: 1
+ perform - gap: 1
+ previou - method: 1
+ previou - work: 1
+ process - perform: 1
+ queri - distribu: 1
+ queri - process: 2
+ queri - result: 1
+ relat - problem: 1
+ result - cach: 5
+ search - engin: 2
+ signific - improv: 1
+ total - cost: 1
+ web - search: 2
+ weight - cach: 1
+ weight - result: 1
+ zipfbas - queri: 1
+
+PageRank scores count: 36
+ cach: 0.07679361135780123
+ contribu: 0.01860388542638741
+ cost: 0.03524946712368141
+ distribu: 0.02570220301057482
+ engin: 0.04160253080481528
+ evic: 0.03481354807866643
+ factor: 0.028036381721520676
+ featurebas: 0.013055358193956076
+ gain: 0.03245747895396108
+ gap: 0.03245747895396108
+ hit: 0.03481354807866643
+ improv: 0.02415241265881874
+ invert: 0.013055358193956076
+ larg: 0.013055358193956076
+ list: 0.02415241265881874
+ main: 0.013055358193956076
+ major: 0.013055358193956076
+ method: 0.01860388542638741
+ perform: 0.0456520488470706
+ polici: 0.042646874060822536
+ previou: 0.013055358193956076
+ problem: 0.04591060254352909
+ process: 0.03834904782719356
+ queri: 0.05951456384291173
+ ratio: 0.042646874060822536
+ relat: 0.013055358193956076
+ result: 0.03125073024300615
+ save: 0.028036381721520676
+ search: 0.03358490895395201
+ signific: 0.013055358193956076
+ techniqu: 0.01860388542638741
+ total: 0.013055358193956076
+ web: 0.02415241265881874
+ weight: 0.013055358193956076
+ work: 0.01860388542638741
+ zipfbas: 0.013055358193956076
+
+N-grams list: 10
+ queri result cach
+ cach hit ratio
+ queri process perform
+ weight cach problem
+ featurebas cach evic
+ weight result cach
+ invert list cach
+ result cach
+ web search engin
+ zipfbas queri distribu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

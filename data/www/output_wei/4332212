@@ -1,0 +1,80 @@
+File name: 4332212
+
+Graph edges count: 27
+ behavior - predic: 1
+ empir - experi: 1
+ gener - sentim: 1
+ hmm - structur: 1
+ latent - topic: 1
+ life - cycl: 1
+ model - facet: 1
+ opinion - track: 1
+ potenti - applic: 1
+ probabilist - model: 1
+ result - summar: 1
+ search - result: 1
+ sentim - dynam: 1
+ sentim - mixtur: 1
+ sentim - model: 2
+ summar - opinion: 1
+ text - collec: 1
+ topicsenti - analysi: 1
+ topicsenti - mixtur: 1
+ topic - facet: 2
+ topic - life: 1
+ topic - model: 1
+ topic - sentim: 1
+ tsm - model: 1
+ user - behavior: 1
+ weblog - collec: 2
+ weblog - dataset: 1
+
+PageRank scores count: 32
+ analysi: 0.02452070332991473
+ applic: 0.03183389555111737
+ behavior: 0.03183389555111737
+ collec: 0.04158481851272088
+ cycl: 0.036433893458253826
+ dataset: 0.02208297258951385
+ dynam: 0.025122213390108644
+ empir: 0.01720751110871209
+ experi: 0.03183389555111737
+ facet: 0.08557726537609683
+ gener: 0.01720751110871209
+ hmm: 0.01720751110871209
+ latent: 0.01720751110871209
+ life: 0.022619273352402044
+ mixtur: 0.03243540561131128
+ model: 0.0677014468000057
+ opinion: 0.054833885086799664
+ potenti: 0.01720751110871209
+ predic: 0.04426632232716185
+ probabilist: 0.01720751110871209
+ result: 0.03183389555111737
+ search: 0.01720751110871209
+ sentim: 0.03724565779480732
+ structur: 0.03183389555111737
+ summar: 0.04426632232716185
+ text: 0.01720751110871209
+ topic: 0.03183389555111737
+ topicsenti: 0.01720751110871209
+ track: 0.0638163134324918
+ tsm: 0.01720751110871209
+ user: 0.01720751110871209
+ weblog: 0.01720751110871209
+
+N-grams list: 10
+ model facet
+ latent topic facet
+ gener sentim model
+ opinion track
+ topic facet
+ sentim model
+ topic sentim mixtur
+ topic model
+ user behavior predic
+ search result summar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

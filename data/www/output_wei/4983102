@@ -1,0 +1,65 @@
+File name: 4983102
+
+Graph edges count: 18
+ busi - domain: 1
+ educ - govern: 1
+ enforc - standard: 1
+ ethic - robot: 1
+ exclusion - protocol: 1
+ focus - crawler: 1
+ govern - new: 1
+ largescal - studi: 1
+ openaccess - natur: 1
+ robot - activ: 1
+ robot - exclusion: 1
+ robot - rule: 1
+ server - side: 1
+ standard - ethic: 1
+ statist - analysi: 1
+ unregul - openaccess: 1
+ web - robot: 3
+ web - scale: 1
+
+PageRank scores count: 26
+ activ: 0.04571528880933264
+ analysi: 0.04059188851971729
+ busi: 0.021941561362009348
+ crawler: 0.04059188851971729
+ domain: 0.04059188851971729
+ educ: 0.021941561362009348
+ enforc: 0.021941561362009348
+ ethic: 0.056444666603769046
+ exclusion: 0.04571528880933264
+ focus: 0.021941561362009348
+ govern: 0.04059188851971729
+ largescal: 0.021941561362009348
+ natur: 0.056444666603769046
+ new: 0.056444666603769046
+ openaccess: 0.04059188851971729
+ protocol: 0.06079955684994209
+ robot: 0.08390727334349399
+ rule: 0.04571528880933264
+ scale: 0.026604143151436332
+ server: 0.021941561362009348
+ side: 0.04059188851971729
+ standard: 0.04059188851971729
+ statist: 0.021941561362009348
+ studi: 0.04059188851971729
+ unregul: 0.021941561362009348
+ web: 0.021941561362009348
+
+N-grams list: 10
+ robot exclusion protocol
+ web robot activ
+ web robot rule
+ unregul openaccess natur
+ enforc standard ethic
+ educ govern new
+ web robot
+ robot
+ busi domain
+ focus crawler
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

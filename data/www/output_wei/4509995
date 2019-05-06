@@ -1,0 +1,47 @@
+File name: 4509995
+
+Graph edges count: 11
+ docum - manag: 2
+ electron - docum: 1
+ manag - system: 1
+ metadata - gener: 1
+ net - technologi: 1
+ ontologybas - person: 1
+ ontologybas - search: 1
+ person - docum: 1
+ retriev - tool: 1
+ search - engin: 1
+ semiautomat - metadata: 1
+
+PageRank scores count: 15
+ docum: 0.10589330395648124
+ electron: 0.03459152436308085
+ engin: 0.07649050824786252
+ gener: 0.08898669642402549
+ manag: 0.12460083272608989
+ metadata: 0.06399432007169957
+ net: 0.03459152436308085
+ ontologybas: 0.03459152436308085
+ person: 0.049292922217390206
+ retriev: 0.03459152436308085
+ search: 0.049292922217390206
+ semiautomat: 0.03459152436308085
+ system: 0.14050223218025726
+ technologi: 0.06399432007169957
+ tool: 0.06399432007169957
+
+N-grams list: 10
+ manag system
+ docum manag
+ ontologybas person docum
+ semiautomat metadata gener
+ ontologybas search engin
+ system
+ electron docum
+ retriev tool
+ net technologi
+ metadata
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

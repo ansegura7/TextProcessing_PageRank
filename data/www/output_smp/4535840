@@ -1,0 +1,63 @@
+File name: 4535840
+
+Graph edges count: 17
+ access - control: 4
+ adequ - secur: 1
+ control - enforc: 2
+ control - polici: 2
+ conversationbas - web: 2
+ convers - due: 1
+ convers - natur: 1
+ enterpr - applic: 1
+ final - state: 1
+ independ - oper: 1
+ main - approach: 1
+ orient - comput: 1
+ privaci - support: 1
+ secur - requir: 1
+ servic - orient: 1
+ servic - servic: 1
+ web - servic: 6
+
+PageRank scores count: 25
+ access: 0.022916580297607576
+ adequ: 0.022916580297607576
+ applic: 0.04239567355057402
+ approach: 0.04239567355057402
+ comput: 0.07943348609203708
+ control: 0.04239567355057402
+ convers: 0.022916580297607576
+ conversationbas: 0.022916580297607576
+ due: 0.0326561269240908
+ enforc: 0.04093474155660153
+ enterpr: 0.022916580297607576
+ final: 0.022916580297607576
+ independ: 0.022916580297607576
+ main: 0.022916580297607576
+ natur: 0.0326561269240908
+ oper: 0.04239567355057402
+ orient: 0.0664904702649672
+ polici: 0.04093474155660153
+ privaci: 0.022916580297607576
+ requir: 0.058952902815595495
+ secur: 0.04239567355057402
+ servic: 0.10252679278295512
+ state: 0.04239567355057402
+ support: 0.04239567355057402
+ web: 0.04239567355057402
+
+N-grams list: 10
+ servic orient comput
+ conversationbas web servic
+ web servic
+ access control polici
+ access control enforc
+ secur requir
+ control enforc
+ privaci support
+ adequ secur
+ enterpr applic
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

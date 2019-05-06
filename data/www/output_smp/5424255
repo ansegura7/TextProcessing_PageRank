@@ -1,0 +1,70 @@
+File name: 5424255
+
+Graph edges count: 21
+ 802154base - sensor: 1
+ coarsegrain - ondemand: 1
+ digit - divid: 1
+ import - criteria: 1
+ lowpow - 802154base: 1
+ network - equip: 1
+ network - set: 1
+ ondemand - power: 1
+ power - effici: 1
+ power - onoff: 1
+ power - optim: 1
+ preliminari - estim: 1
+ prototyp - system: 1
+ remot - site: 1
+ rural - network: 1
+ sensor - mote: 1
+ signific - power: 1
+ system - configur: 1
+ typic - rural: 1
+ typic - system: 1
+ world - typic: 1
+
+PageRank scores count: 28
+ 802154base: 0.036018186994136885
+ coarsegrain: 0.019469290267101022
+ configur: 0.06309631926374933
+ criteria: 0.036018186994136885
+ digit: 0.019469290267101022
+ divid: 0.036018186994136885
+ effici: 0.03834882328319444
+ equip: 0.04030693701155278
+ estim: 0.036018186994136885
+ import: 0.019469290267101022
+ lowpow: 0.019469290267101022
+ mote: 0.06204132709740079
+ network: 0.04902975704576885
+ ondemand: 0.036018186994136885
+ onoff: 0.03834882328319444
+ optim: 0.03834882328319444
+ power: 0.06663364593915325
+ preliminari: 0.019469290267101022
+ prototyp: 0.019469290267101022
+ remot: 0.019469290267101022
+ rural: 0.0347770197396092
+ sensor: 0.05008474921211738
+ set: 0.04030693701155278
+ signific: 0.019469290267101022
+ site: 0.036018186994136885
+ system: 0.05132591646664506
+ typic: 0.036018186994136885
+ world: 0.019469290267101022
+
+N-grams list: 10
+ coarsegrain ondemand power
+ typic rural network
+ world typic system
+ lowpow 802154base sensor
+ power effici
+ power optim
+ network equip
+ signific power
+ prototyp system
+ configur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,70 @@
+File name: 10659466
+
+Graph edges count: 20
+ current - semant: 1
+ good - behavior: 1
+ intend - mean: 1
+ issu - due: 1
+ larg - amount: 1
+ larg - scale: 3
+ object - feasibl: 1
+ onlin - semant: 1
+ ontologi - term: 1
+ previou - work: 1
+ redund - problem: 1
+ scale - experi: 1
+ scale - integr: 2
+ semant - data: 1
+ semant - descrip: 1
+ semant - inform: 1
+ semant - resourc: 1
+ semant - web: 4
+ sens - integr: 1
+ web - applic: 1
+
+PageRank scores count: 29
+ amount: 0.027643360748707598
+ applic: 0.06441473020649875
+ behavior: 0.042177498874316745
+ current: 0.022798648040171215
+ data: 0.029339010196695332
+ descrip: 0.029339010196695332
+ due: 0.042177498874316745
+ experi: 0.033376270787142316
+ feasibl: 0.042177498874316745
+ good: 0.022798648040171215
+ inform: 0.029339010196695332
+ integr: 0.06333274436825896
+ intend: 0.022798648040171215
+ issu: 0.022798648040171215
+ larg: 0.022798648040171215
+ mean: 0.042177498874316745
+ object: 0.022798648040171215
+ onlin: 0.022798648040171215
+ ontologi: 0.022798648040171215
+ previou: 0.022798648040171215
+ problem: 0.042177498874316745
+ redund: 0.022798648040171215
+ resourc: 0.029339010196695332
+ scale: 0.03733278616578037
+ semant: 0.06155634970846228
+ sens: 0.022798648040171215
+ term: 0.042177498874316745
+ web: 0.04896009666626768
+ work: 0.042177498874316745
+
+N-grams list: 10
+ semant web applic
+ current semant web
+ larg scale integr
+ onlin semant inform
+ semant web
+ larg scale experi
+ semant data
+ semant resourc
+ semant descrip
+ sens integr
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

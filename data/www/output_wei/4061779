@@ -1,0 +1,56 @@
+File name: 4061779
+
+Graph edges count: 15
+ 20newsgroup - dataset: 1
+ binari - svm: 1
+ classif - method: 1
+ class - label: 1
+ docum - taxonomi: 1
+ group - similar: 1
+ hierarch - classif: 2
+ hierarch - structur: 1
+ label - docum: 1
+ multiclass - classif: 1
+ predefin - taxonomi: 1
+ similar - class: 1
+ suitabl - hierarch: 1
+ techniqu - group: 1
+ web - content: 1
+
+PageRank scores count: 20
+ 20newsgroup: 0.023182674113313637
+ binari: 0.023182674113313637
+ class: 0.07387448889633806
+ classif: 0.06719111713842069
+ content: 0.042887947109630224
+ dataset: 0.042887947109630224
+ docum: 0.09626226533723448
+ group: 0.042887947109630224
+ hierarch: 0.042887947109630224
+ label: 0.085975989675201
+ method: 0.08029512368097122
+ multiclass: 0.023182674113313637
+ predefin: 0.023182674113313637
+ similar: 0.05963742915649934
+ structur: 0.03533425912770887
+ suitabl: 0.023182674113313637
+ svm: 0.042887947109630224
+ taxonomi: 0.12471087264627952
+ techniqu: 0.023182674113313637
+ web: 0.023182674113313637
+
+N-grams list: 10
+ docum taxonomi
+ hierarch classif method
+ label docum
+ class label
+ predefin taxonomi
+ techniqu group similar
+ taxonomi
+ hierarch classif
+ suitabl hierarch structur
+ docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

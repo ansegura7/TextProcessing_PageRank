@@ -1,0 +1,82 @@
+File name: 4795633
+
+Graph edges count: 27
+ access - control: 2
+ analysi - servic: 1
+ analysi - task: 1
+ analysi - tool: 2
+ autom - fashion: 1
+ comparison - verif: 1
+ control - languag: 1
+ control - polici: 1
+ decid - fragment: 1
+ descrip - logic: 2
+ dl - reason: 2
+ empir - evalu: 1
+ express - subset: 1
+ firstord - logic: 1
+ logicbas - analysi: 1
+ offtheshelf - dl: 1
+ open - sourc: 1
+ polici - analysi: 1
+ polici - comparison: 1
+ polici - redund: 1
+ polici - xacml: 1
+ popular - access: 1
+ proposi - logicbas: 1
+ reason - pellet: 1
+ rich - express: 1
+ sourc - dl: 1
+ web - access: 1
+
+PageRank scores count: 34
+ access: 0.04132281337086766
+ analysi: 0.04717809819532966
+ autom: 0.01530474569291395
+ comparison: 0.02311138559322247
+ control: 0.05042913705815146
+ decid: 0.01530474569291395
+ descrip: 0.01530474569291395
+ dl: 0.052380492133998
+ empir: 0.01530474569291395
+ evalu: 0.02831377953189081
+ express: 0.02831377953189081
+ fashion: 0.02831377953189081
+ firstord: 0.01530474569291395
+ fragment: 0.02831377953189081
+ languag: 0.03673712894262832
+ logic: 0.04132281337086766
+ logicbas: 0.02831377953189081
+ offtheshelf: 0.01530474569291395
+ open: 0.01530474569291395
+ pellet: 0.06615868509870436
+ polici: 0.03673712894262832
+ popular: 0.01530474569291395
+ proposi: 0.01530474569291395
+ reason: 0.05982816400681225
+ redund: 0.02311138559322247
+ rich: 0.01530474569291395
+ servic: 0.028671873514924024
+ sourc: 0.02831377953189081
+ subset: 0.03937145829502113
+ task: 0.028671873514924024
+ tool: 0.028671873514924024
+ verif: 0.034949423447153044
+ web: 0.01530474569291395
+ xacml: 0.02311138559322247
+
+N-grams list: 10
+ offtheshelf dl reason
+ reason pellet
+ polici analysi tool
+ popular access control
+ web access control
+ open sourc dl
+ polici comparison verif
+ proposi logicbas analysi
+ analysi servic
+ analysi task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

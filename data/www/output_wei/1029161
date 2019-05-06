@@ -1,0 +1,79 @@
+File name: 1029161
+
+Graph edges count: 23
+ advertis - resum: 1
+ attribut - name: 2
+ automat - data: 1
+ classifi - advertis: 1
+ data - extrac: 1
+ effect - search: 1
+ extrac - techniqu: 1
+ free - text: 1
+ high - precision: 1
+ high - reflect: 1
+ imprec - partial: 1
+ index - structur: 1
+ inform - classifi: 1
+ larg - fraction: 1
+ limit - success: 1
+ low - reflect: 1
+ numer - valuei: 1
+ partial - correspond: 1
+ product - inform: 1
+ real - dataset: 1
+ reflect - dataset: 1
+ specif - docum: 1
+ valuei - pair: 1
+
+PageRank scores count: 35
+ advertis: 0.05122727534414338
+ attribut: 0.016075715010126196
+ automat: 0.016075715010126196
+ classifi: 0.04135477686354963
+ correspond: 0.04135477686354963
+ data: 0.029740072768733458
+ dataset: 0.06082648666956499
+ docum: 0.029740072768733458
+ effect: 0.016075715010126196
+ extrac: 0.04135477686354963
+ fraction: 0.029740072768733458
+ free: 0.016075715010126196
+ high: 0.016075715010126196
+ imprec: 0.016075715010126196
+ index: 0.016075715010126196
+ inform: 0.029740072768733458
+ larg: 0.016075715010126196
+ limit: 0.016075715010126196
+ low: 0.016075715010126196
+ name: 0.029740072768733458
+ numer: 0.016075715010126196
+ pair: 0.04135477686354963
+ partial: 0.029740072768733458
+ precision: 0.022907893889429827
+ product: 0.016075715010126196
+ real: 0.016075715010126196
+ reflect: 0.036572251648037096
+ resum: 0.05961889905264807
+ search: 0.029740072768733458
+ specif: 0.016075715010126196
+ structur: 0.029740072768733458
+ success: 0.029740072768733458
+ techniqu: 0.05122727534414338
+ text: 0.029740072768733458
+ valuei: 0.029740072768733458
+
+N-grams list: 10
+ high reflect dataset
+ advertis resum
+ imprec partial correspond
+ automat data extrac
+ numer valuei pair
+ product inform classifi
+ real dataset
+ low reflect
+ techniqu
+ specif docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

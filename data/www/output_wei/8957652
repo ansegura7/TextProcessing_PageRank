@@ -1,0 +1,47 @@
+File name: 8957652
+
+Graph edges count: 12
+ depend - model: 1
+ fine - grain: 1
+ grain - operationlevel: 1
+ object - level: 1
+ operationlevel - web: 1
+ precis - captur: 1
+ precis - model: 1
+ retriev - area: 1
+ retriev - depend: 1
+ retriev - latenc: 1
+ retriev - process: 1
+ web - retriev: 6
+
+PageRank scores count: 14
+ area: 0.06457516951571429
+ captur: 0.051462688175137376
+ depend: 0.06457516951571429
+ fine: 0.03611416714044728
+ grain: 0.06681120920982747
+ latenc: 0.06457516951571429
+ level: 0.06681120920982747
+ model: 0.10635158226349452
+ object: 0.03611416714044728
+ operationlevel: 0.09290369496880063
+ precis: 0.03611416714044728
+ process: 0.06457516951571429
+ retriev: 0.13393412882478592
+ web: 0.11508230786392781
+
+N-grams list: 10
+ web retriev latenc
+ web retriev process
+ web retriev depend
+ web retriev area
+ web retriev
+ fine grain operationlevel
+ precis model
+ model
+ object level
+ precis captur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

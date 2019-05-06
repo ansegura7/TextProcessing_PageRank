@@ -1,0 +1,66 @@
+File name: 7792435
+
+Graph edges count: 19
+ access - ubr: 1
+ busi - registri: 2
+ crawler - engin: 1
+ effici - access: 1
+ experiment - valid: 1
+ explor - engin: 1
+ major - challeng: 1
+ mobil - devic: 1
+ multipl - ubr: 3
+ multipl - uddi: 1
+ primit - search: 1
+ search - method: 1
+ servic - crawler: 1
+ servic - repositori: 1
+ time - effect: 1
+ uddi - api: 1
+ uddi - busi: 2
+ valid - result: 1
+ web - servic: 6
+
+PageRank scores count: 26
+ access: 0.04201266199181178
+ api: 0.036463016438163666
+ busi: 0.036463016438163666
+ challeng: 0.04201266199181178
+ crawler: 0.04056492836912097
+ devic: 0.04201266199181178
+ effect: 0.04201266199181178
+ effici: 0.022709547022600963
+ engin: 0.0764928511055646
+ experiment: 0.022709547022600963
+ explor: 0.022709547022600963
+ major: 0.022709547022600963
+ method: 0.058420309715640974
+ mobil: 0.022709547022600963
+ multipl: 0.022709547022600963
+ primit: 0.022709547022600963
+ registri: 0.053703110995040076
+ repositori: 0.04056492836912097
+ result: 0.058420309715640974
+ search: 0.04201266199181178
+ servic: 0.04201266199181178
+ time: 0.022709547022600963
+ ubr: 0.06807186720024638
+ uddi: 0.03236110450720637
+ valid: 0.04201266199181178
+ web: 0.022709547022600963
+
+N-grams list: 10
+ primit search method
+ experiment valid result
+ uddi busi registri
+ access ubr
+ web servic crawler
+ web servic repositori
+ explor engin
+ multipl uddi busi
+ multipl ubr
+ engin
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

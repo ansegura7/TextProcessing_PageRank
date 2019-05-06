@@ -1,0 +1,88 @@
+File name: 13539372
+
+Graph edges count: 31
+ citat - corpu: 1
+ dblp - citat: 1
+ diffusionbas - proxim: 1
+ dynam - rerank: 1
+ effici - branch: 1
+ entir - dblp: 1
+ entir - graph: 1
+ entityrel - graph: 1
+ fast - dynam: 1
+ graph - theoret: 1
+ graph - topologi: 1
+ irrelev - node: 1
+ irrelev - result: 1
+ kei - intuition: 1
+ label - exampl: 1
+ label - node: 1
+ larg - graph: 1
+ posit - relev: 1
+ predic - task: 1
+ proxim - measur: 1
+ quantifi - predic: 1
+ relev - feedback: 1
+ relev - node: 1
+ relev - result: 1
+ rerank - search: 1
+ sampl - algorithm: 1
+ search - result: 1
+ simpl - sampl: 1
+ specif - node: 1
+ theoret - measur: 1
+ user - feedback: 1
+
+PageRank scores count: 36
+ algorithm: 0.037618600039702424
+ branch: 0.027053220631078515
+ citat: 0.03233591033539047
+ corpu: 0.042108886288367585
+ dblp: 0.0208382915671821
+ diffusionbas: 0.014623362503285685
+ dynam: 0.027053220631078515
+ effici: 0.014623362503285685
+ entir: 0.014623362503285685
+ entityrel: 0.014623362503285685
+ exampl: 0.0208382915671821
+ fast: 0.014623362503285685
+ feedback: 0.03471829980988409
+ graph: 0.04569800782276776
+ intuition: 0.027053220631078515
+ irrelev: 0.014623362503285685
+ kei: 0.014623362503285685
+ label: 0.014623362503285685
+ larg: 0.014623362503285685
+ measur: 0.0665568634934701
+ node: 0.04714815793767693
+ posit: 0.014623362503285685
+ predic: 0.027053220631078515
+ proxim: 0.027053220631078515
+ quantifi: 0.014623362503285685
+ relev: 0.027053220631078515
+ rerank: 0.037618600039702424
+ result: 0.06811266740246552
+ sampl: 0.027053220631078515
+ search: 0.046599172537032746
+ simpl: 0.014623362503285685
+ specif: 0.014623362503285685
+ task: 0.037618600039702424
+ theoret: 0.03404501582796198
+ topologi: 0.03404501582796198
+ user: 0.014623362503285685
+
+N-grams list: 10
+ rerank search result
+ graph theoret measur
+ diffusionbas proxim measur
+ relev result
+ irrelev result
+ graph topologi
+ simpl sampl algorithm
+ fast dynam rerank
+ quantifi predic task
+ posit relev feedback
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

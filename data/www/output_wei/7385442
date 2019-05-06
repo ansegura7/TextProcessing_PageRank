@@ -1,0 +1,93 @@
+File name: 7385442
+
+Graph edges count: 31
+ behavior - programm: 1
+ busi - function: 1
+ clear - understand: 1
+ code - detail: 1
+ comput - model: 2
+ declar - serversid: 1
+ ideal - program: 1
+ ideal - world: 1
+ interac - state: 1
+ languag - bass: 1
+ languag - moss: 1
+ meta - properti: 1
+ navig - behavior: 1
+ problemat - aspect: 1
+ program - concept: 1
+ program - model: 1
+ proper - abstrac: 1
+ realist - web: 1
+ secur - guarante: 2
+ secur - serversid: 1
+ secur - vulner: 1
+ serversid - script: 2
+ solid - web: 1
+ specif - web: 1
+ state - mainten: 1
+ subtl - code: 1
+ user - navig: 1
+ web - applic: 3
+ web - interac: 1
+ web - program: 3
+ whimsic - user: 1
+
+PageRank scores count: 41
+ abstrac: 0.025704539468811724
+ applic: 0.031862711955451754
+ aspect: 0.025704539468811724
+ bass: 0.019799442563814437
+ behavior: 0.04427606923502819
+ busi: 0.013894345658817149
+ clear: 0.013894345658817149
+ code: 0.025704539468811724
+ comput: 0.013894345658817149
+ concept: 0.02994566442450799
+ declar: 0.013894345658817149
+ detail: 0.03574320420730712
+ function: 0.025704539468811724
+ guarante: 0.019799442563814437
+ ideal: 0.013894345658817149
+ interac: 0.019883801091028684
+ languag: 0.013894345658817149
+ mainten: 0.040070585757079946
+ meta: 0.013894345658817149
+ model: 0.04175585823450257
+ moss: 0.019799442563814437
+ navig: 0.03574320420730712
+ problemat: 0.013894345658817149
+ program: 0.037767808860449045
+ programm: 0.05152900450859111
+ proper: 0.013894345658817149
+ properti: 0.025704539468811724
+ realist: 0.013894345658817149
+ script: 0.03825287039193096
+ secur: 0.013894345658817149
+ serversid: 0.02865708792131037
+ solid: 0.013894345658817149
+ specif: 0.013894345658817149
+ state: 0.030795576586191524
+ subtl: 0.013894345658817149
+ understand: 0.025704539468811724
+ user: 0.025704539468811724
+ vulner: 0.01684689411131579
+ web: 0.049324927088800874
+ whimsic: 0.013894345658817149
+ world: 0.019799442563814437
+
+N-grams list: 10
+ realist web program
+ web interac state
+ behavior programm
+ solid web applic
+ specif web applic
+ ideal program model
+ web program
+ web applic
+ secur serversid script
+ declar serversid script
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

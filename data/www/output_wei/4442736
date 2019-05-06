@@ -1,0 +1,53 @@
+File name: 4442736
+
+Graph edges count: 14
+ acm - sigmod: 1
+ data - set: 1
+ docum - cluster: 1
+ docum - similar: 2
+ elem - semant: 2
+ favor - perform: 1
+ previou - work: 1
+ propor - transport: 2
+ sigmod - data: 1
+ similar - calcul: 1
+ transport - problem: 1
+ transport - similar: 2
+ xml - docum: 3
+ xml - elem: 1
+
+PageRank scores count: 18
+ acm: 0.030737134108037186
+ calcul: 0.108496320188726
+ cluster: 0.04499788362024527
+ data: 0.07907127749292567
+ docum: 0.05033205710191089
+ elem: 0.03726877510599509
+ favor: 0.030737134108037186
+ perform: 0.05686369809986879
+ previou: 0.030737134108037186
+ problem: 0.04684851523633334
+ propor: 0.030737134108037186
+ semant: 0.06241559294813301
+ set: 0.097947719977024
+ sigmod: 0.05686369809986879
+ similar: 0.09148139538904566
+ transport: 0.05686369809986879
+ work: 0.05686369809986879
+ xml: 0.030737134108037186
+
+N-grams list: 10
+ similar calcul
+ propor transport similar
+ xml docum similar
+ acm sigmod data
+ xml docum cluster
+ transport problem
+ elem semant
+ set
+ previou work
+ favor perform
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

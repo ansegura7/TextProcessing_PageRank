@@ -1,0 +1,65 @@
+File name: 4384059
+
+Graph edges count: 19
+ ar - mine: 1
+ associ - rule: 1
+ confid - level: 1
+ content - tree: 1
+ data - selec: 1
+ effici - associ: 1
+ effici - data: 1
+ gener - metapattern: 1
+ index - content: 1
+ larg - ar: 1
+ memori - constraint: 1
+ mine - ar: 1
+ multirel - databas: 1
+ raw - data: 1
+ rule - mine: 1
+ taskrelev - concept: 1
+ xarmin - raw: 1
+ xml - data: 1
+ xml - docum: 3
+
+PageRank scores count: 25
+ ar: 0.2235892669904597
+ associ: 0.02057311154476396
+ concept: 0.026708951830044438
+ confid: 0.01443727125948348
+ constraint: 0.026708951830044438
+ content: 0.026708951830044438
+ data: 0.04634364074294197
+ databas: 0.026708951830044438
+ docum: 0.023641031687404196
+ effici: 0.01443727125948348
+ gener: 0.01443727125948348
+ index: 0.01443727125948348
+ larg: 0.01443727125948348
+ level: 0.026708951830044438
+ memori: 0.01443727125948348
+ metapattern: 0.026708951830044438
+ mine: 0.23162391135074595
+ multirel: 0.01443727125948348
+ raw: 0.026708951830044438
+ rule: 0.031924416072532845
+ selec: 0.05382936589098416
+ taskrelev: 0.01443727125948348
+ tree: 0.03713988031502125
+ xarmin: 0.01443727125948348
+ xml: 0.01443727125948348
+
+N-grams list: 10
+ ar mine
+ mine ar
+ larg ar
+ mine
+ effici data selec
+ xarmin raw data
+ index content tree
+ effici associ rule
+ xml data
+ confid level
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

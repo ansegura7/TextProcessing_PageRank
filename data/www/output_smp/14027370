@@ -1,0 +1,85 @@
+File name: 14027370
+
+Graph edges count: 29
+ ab - test: 1
+ bucket - test: 4
+ context - user: 1
+ featur - product: 1
+ gener - framework: 1
+ minim - number: 1
+ network - bucket: 3
+ random - user: 1
+ rate - estim: 1
+ real - social: 1
+ recent - work: 1
+ sampl - algorithm: 2
+ sampl - techniqu: 1
+ satisfac - function: 1
+ satisfac - rate: 3
+ simpl - gener: 1
+ simpl - sampl: 1
+ social - network: 1
+ social - servic: 1
+ split - test: 1
+ test - ab: 1
+ test - bucket: 1
+ theoret - result: 1
+ tradition - case: 1
+ unbias - user: 1
+ uniform - sampl: 1
+ user - base: 1
+ user - satisfac: 4
+ work - backstrom: 1
+
+PageRank scores count: 35
+ ab: 0.09313645448301454
+ algorithm: 0.02177312866938319
+ backstrom: 0.028477342740127486
+ base: 0.027771635995838612
+ bucket: 0.1099440367761612
+ case: 0.020479332971520256
+ context: 0.011069909714335273
+ estim: 0.03051183647501695
+ featur: 0.011069909714335273
+ framework: 0.024478337855823873
+ function: 0.02287285501256668
+ gener: 0.015774621342927765
+ minim: 0.011069909714335273
+ network: 0.01977362622723138
+ number: 0.020479332971520256
+ product: 0.020479332971520256
+ random: 0.011069909714335273
+ rate: 0.02287285501256668
+ real: 0.011069909714335273
+ recent: 0.011069909714335273
+ result: 0.020479332971520256
+ sampl: 0.02518404460011275
+ satisfac: 0.027771635995838612
+ servic: 0.01977362622723138
+ simpl: 0.011069909714335273
+ social: 0.020479332971520256
+ split: 0.011069909714335273
+ techniqu: 0.02177312866938319
+ test: 0.19309774002974064
+ theoret: 0.011069909714335273
+ tradition: 0.011069909714335273
+ unbias: 0.011069909714335273
+ uniform: 0.011069909714335273
+ user: 0.03929817948589022
+ work: 0.020479332971520256
+
+N-grams list: 10
+ network bucket test
+ bucket test
+ split test ab
+ test
+ user satisfac function
+ user satisfac rate
+ unbias user satisfac
+ user base
+ recent work backstrom
+ simpl sampl algorithm
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

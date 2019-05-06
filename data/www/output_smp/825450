@@ -1,0 +1,83 @@
+File name: 825450
+
+Graph edges count: 26
+ biolog - concept: 1
+ biolog - ontologi: 2
+ biolog - relationship: 1
+ complex - ontologi: 1
+ divers - collec: 1
+ emerg - framework: 1
+ experiment - domain: 1
+ experiment - lifecycl: 1
+ glycobiologi - research: 1
+ glycoproteom - data: 1
+ glycoproteom - experiment: 1
+ glycoproteom - similar: 1
+ heterogen - data: 1
+ high - throughput: 2
+ informat - solution: 1
+ instanc - base: 1
+ knowledg - model: 1
+ larg - dataset: 1
+ larg - scale: 1
+ larg - volum: 1
+ life - scienc: 1
+ nativ - biolog: 1
+ ontologi - high: 1
+ ontologi - schema: 1
+ semant - structur: 1
+ throughput - glycoproteom: 2
+
+PageRank scores count: 36
+ base: 0.03175903928745207
+ biolog: 0.03175903928745207
+ collec: 0.03175903928745207
+ complex: 0.017167048263487607
+ concept: 0.02616544272826569
+ data: 0.04781761078260578
+ dataset: 0.02203104527147576
+ divers: 0.017167048263487607
+ domain: 0.03128793666091016
+ emerg: 0.017167048263487607
+ experiment: 0.03322561975864132
+ framework: 0.03175903928745207
+ glycobiologi: 0.017167048263487607
+ glycoproteom: 0.05667731115936604
+ heterogen: 0.017167048263487607
+ high: 0.03448895760818542
+ informat: 0.017167048263487607
+ instanc: 0.017167048263487607
+ knowledg: 0.017167048263487607
+ larg: 0.017167048263487607
+ life: 0.017167048263487607
+ lifecycl: 0.03128793666091016
+ model: 0.03175903928745207
+ nativ: 0.017167048263487607
+ ontologi: 0.040757433752230156
+ relationship: 0.02616544272826569
+ research: 0.03175903928745207
+ scale: 0.02203104527147576
+ schema: 0.03448895760818542
+ scienc: 0.03175903928745207
+ semant: 0.017167048263487607
+ similar: 0.03322561975864132
+ solution: 0.03175903928745207
+ structur: 0.03175903928745207
+ throughput: 0.04648266223044522
+ volum: 0.02203104527147576
+
+N-grams list: 10
+ high throughput glycoproteom
+ ontologi high throughput
+ biolog ontologi schema
+ glycoproteom data
+ glycoproteom similar
+ nativ biolog relationship
+ biolog ontologi
+ heterogen data
+ experiment domain
+ experiment lifecycl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,80 @@
+File name: 13062337
+
+Graph edges count: 23
+ biomed - entiti: 1
+ causal - factor: 1
+ complex - diseas: 1
+ constraintbas - reason: 1
+ conveni - access: 1
+ dierent - type: 1
+ diseasedetermin - ontologi: 1
+ entiti - dido: 1
+ environment - factor: 1
+ factordiseas - chain: 1
+ handcraft - sourc: 1
+ human - diseas: 1
+ knowledg - base: 2
+ knowledg - discoveri: 1
+ molecular - determin: 1
+ pattern - learn: 1
+ reason - method: 1
+ relat - fact: 1
+ robust - pattern: 1
+ semant - graph: 1
+ textual - sourc: 1
+ textual - web: 1
+ web - sourc: 2
+
+PageRank scores count: 36
+ access: 0.032813781788351086
+ base: 0.025275480566702865
+ biomed: 0.017737179345054643
+ causal: 0.017737179345054643
+ chain: 0.032813781788351086
+ complex: 0.017737179345054643
+ constraintbas: 0.017737179345054643
+ conveni: 0.017737179345054643
+ determin: 0.032813781788351086
+ dido: 0.04562889386515307
+ dierent: 0.017737179345054643
+ discoveri: 0.025275480566702865
+ diseas: 0.047890384231647536
+ diseasedetermin: 0.017737179345054643
+ entiti: 0.032813781788351086
+ environment: 0.017737179345054643
+ fact: 0.032813781788351086
+ factor: 0.047890384231647536
+ factordiseas: 0.017737179345054643
+ graph: 0.032813781788351086
+ handcraft: 0.017737179345054643
+ human: 0.017737179345054643
+ knowledg: 0.017737179345054643
+ learn: 0.04562889386515307
+ method: 0.04562889386515307
+ molecular: 0.017737179345054643
+ ontologi: 0.032813781788351086
+ pattern: 0.032813781788351086
+ reason: 0.032813781788351086
+ relat: 0.017737179345054643
+ robust: 0.017737179345054643
+ semant: 0.017737179345054643
+ sourc: 0.061836241491696746
+ textual: 0.017737179345054643
+ type: 0.032813781788351086
+ web: 0.025275480566702865
+
+N-grams list: 10
+ textual web sourc
+ robust pattern learn
+ biomed entiti dido
+ constraintbas reason method
+ web sourc
+ handcraft sourc
+ textual sourc
+ environment factor
+ complex diseas
+ causal factor
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

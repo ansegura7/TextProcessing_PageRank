@@ -1,0 +1,105 @@
+File name: 68146
+
+Graph edges count: 36
+ asynchron - commun: 1
+ asynchron - xml: 1
+ bpel - specif: 1
+ bpel - web: 1
+ checker - spin: 1
+ check - properti: 1
+ composit - web: 4
+ convers - set: 1
+ data - manipul: 1
+ detail - level: 1
+ finitest - verif: 1
+ finit - state: 1
+ global - sequenc: 1
+ incom - messag: 1
+ input - languag: 1
+ input - queue: 2
+ intermedi - represent: 3
+ larg - class: 1
+ messag - content: 1
+ model - checker: 3
+ partial - verif: 1
+ promela - input: 1
+ rich - data: 1
+ spin - model: 1
+ state - model: 1
+ suffici - condition: 1
+ synchroniz - result: 1
+ synchron - commun: 1
+ target - verif: 1
+ unbound - input: 1
+ unbound - queue: 1
+ verif - languag: 2
+ verif - tool: 1
+ web - servic: 7
+ xml - messag: 1
+ xpath - expres: 2
+
+PageRank scores count: 48
+ asynchron: 0.009469325206021941
+ bpel: 0.009469325206021941
+ check: 0.009469325206021941
+ checker: 0.09592943943571877
+ class: 0.017518251631140593
+ commun: 0.021542714843699916
+ composit: 0.009469325206021941
+ condition: 0.017518251631140593
+ content: 0.03410910122491641
+ convers: 0.009469325206021941
+ data: 0.017518251631140593
+ detail: 0.009469325206021941
+ expres: 0.017518251631140593
+ finit: 0.009469325206021941
+ finitest: 0.009469325206021941
+ global: 0.009469325206021941
+ incom: 0.009469325206021941
+ input: 0.021542714843699916
+ intermedi: 0.009469325206021941
+ languag: 0.03291182341918001
+ larg: 0.009469325206021941
+ level: 0.017518251631140593
+ manipul: 0.024359839092491443
+ messag: 0.028987971786934668
+ model: 0.10171779608891747
+ partial: 0.009469325206021941
+ promela: 0.009469325206021941
+ properti: 0.017518251631140593
+ queue: 0.022649442227153732
+ represent: 0.017518251631140593
+ result: 0.017518251631140593
+ rich: 0.009469325206021941
+ sequenc: 0.017518251631140593
+ servic: 0.02778063282316687
+ set: 0.017518251631140593
+ specif: 0.013493788418581268
+ spin: 0.09100936117226592
+ state: 0.017518251631140593
+ suffici: 0.009469325206021941
+ synchron: 0.009469325206021941
+ synchroniz: 0.009469325206021941
+ target: 0.009469325206021941
+ tool: 0.02375616961060754
+ unbound: 0.009469325206021941
+ verif: 0.03361610448137789
+ web: 0.021542714843699916
+ xml: 0.013493788418581268
+ xpath: 0.009469325206021941
+
+N-grams list: 10
+ model checker spin
+ spin model checker
+ finit state model
+ checker
+ spin
+ target verif languag
+ finitest verif tool
+ verif languag
+ promela input languag
+ messag content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,85 @@
+File name: 3922783
+
+Graph edges count: 27
+ algorithm - hybrid: 1
+ approxim - solution: 1
+ bandwidth - consump: 1
+ connec - model: 1
+ current - p2p: 1
+ direct - connec: 1
+ direct - graph: 1
+ experiment - result: 1
+ genet - algorithm: 2
+ high - bandwidth: 1
+ high - qualiti: 1
+ hybrid - peertop: 1
+ inform - retriev: 1
+ longest - path: 1
+ long - path: 1
+ network - topologi: 1
+ p2p - network: 3
+ path - problem: 1
+ polynomi - time: 1
+ poor - semiparallel: 1
+ problem - model: 1
+ propag - model: 2
+ queri - propag: 2
+ relev - level: 1
+ relev - peer: 1
+ result - garout: 1
+ semiparallel - search: 1
+
+PageRank scores count: 37
+ algorithm: 0.027284525986667443
+ approxim: 0.014748392425225647
+ bandwidth: 0.021016459205946546
+ connec: 0.021016459205946546
+ consump: 0.032612382750280215
+ current: 0.014748392425225647
+ direct: 0.014748392425225647
+ experiment: 0.014748392425225647
+ garout: 0.03794023951389298
+ genet: 0.014748392425225647
+ graph: 0.021016459205946546
+ high: 0.014748392425225647
+ hybrid: 0.03794023951389298
+ inform: 0.014748392425225647
+ level: 0.021016459205946546
+ long: 0.014748392425225647
+ longest: 0.014748392425225647
+ model: 0.09711078992389825
+ network: 0.03794023951389298
+ p2p: 0.027284525986667443
+ path: 0.03982065954810925
+ peer: 0.021016459205946546
+ peertop: 0.046997596012034674
+ polynomi: 0.014748392425225647
+ poor: 0.014748392425225647
+ problem: 0.0485959530411185
+ propag: 0.027284525986667443
+ qualiti: 0.021016459205946546
+ queri: 0.014748392425225647
+ relev: 0.014748392425225647
+ result: 0.027284525986667443
+ retriev: 0.027284525986667443
+ search: 0.03794023951389298
+ semiparallel: 0.027284525986667443
+ solution: 0.027284525986667443
+ time: 0.027284525986667443
+ topologi: 0.046997596012034674
+
+N-grams list: 10
+ problem model
+ queri propag model
+ direct connec model
+ longest path problem
+ genet algorithm hybrid
+ poor semiparallel search
+ current p2p network
+ high bandwidth consump
+ result garout
+ p2p network
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

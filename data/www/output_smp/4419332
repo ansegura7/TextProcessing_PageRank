@@ -1,0 +1,62 @@
+File name: 4419332
+
+Graph edges count: 18
+ analysi - mechan: 1
+ audiovideo - analysi: 1
+ audio - analysi: 1
+ colorlumin - analysi: 1
+ experiment - evalu: 1
+ high - avail: 1
+ high - level: 2
+ level - semant: 1
+ level - video: 1
+ metadata - descrip: 1
+ new - program: 1
+ semant - descrip: 1
+ speech - detec: 1
+ video - analysi: 1
+ video - segment: 2
+ video - stream: 3
+ web - index: 1
+ web - world: 1
+
+PageRank scores count: 23
+ analysi: 0.10540668583850553
+ audio: 0.026319252172445223
+ audiovideo: 0.026319252172445223
+ avail: 0.037504934345734445
+ colorlumin: 0.026319252172445223
+ descrip: 0.08461063839799866
+ detec: 0.04869061651902366
+ evalu: 0.04869061651902366
+ experiment: 0.026319252172445223
+ high: 0.026319252172445223
+ index: 0.037504934345734445
+ level: 0.037504934345734445
+ mechan: 0.11591493513517492
+ metadata: 0.026319252172445223
+ new: 0.026319252172445223
+ program: 0.04869061651902366
+ segment: 0.038292592798770224
+ semant: 0.04225884926938236
+ speech: 0.026319252172445223
+ stream: 0.038292592798770224
+ video: 0.04225884926938236
+ web: 0.026319252172445223
+ world: 0.037504934345734445
+
+N-grams list: 10
+ audiovideo analysi mechan
+ video analysi
+ audio analysi
+ colorlumin analysi
+ mechan
+ metadata descrip
+ high level video
+ high level semant
+ descrip
+ video segment
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

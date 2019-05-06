@@ -1,0 +1,80 @@
+File name: 10460575
+
+Graph edges count: 23
+ amazon - mechan: 1
+ breadcrumb - vacat: 1
+ bu - tour: 1
+ citi - travel: 1
+ endtoend - approach: 1
+ extens - user: 1
+ flickr - data: 1
+ frequent - labori: 1
+ geotempor - breadcrumb: 2
+ high - qualiti: 1
+ labori - task: 1
+ latent - sourc: 1
+ latitudelongitud - inform: 1
+ mechan - turk: 1
+ popular - rich: 1
+ qualiti - itinerari: 1
+ rich - media: 1
+ semant - metadata: 1
+ site - flickr: 1
+ skill - interac: 1
+ travel - itinerari: 2
+ user - studi: 1
+ vacat - plan: 1
+
+PageRank scores count: 36
+ amazon: 0.015957457418522215
+ approach: 0.029521296224266094
+ breadcrumb: 0.029521296224266094
+ bu: 0.015957457418522215
+ citi: 0.015957457418522215
+ data: 0.0410505592091484
+ endtoend: 0.015957457418522215
+ extens: 0.015957457418522215
+ flickr: 0.029521296224266094
+ frequent: 0.015957457418522215
+ geotempor: 0.015957457418522215
+ high: 0.015957457418522215
+ inform: 0.029521296224266094
+ interac: 0.029521296224266094
+ itinerari: 0.06614366099977458
+ labori: 0.029521296224266094
+ latent: 0.015957457418522215
+ latitudelongitud: 0.015957457418522215
+ mechan: 0.029521296224266094
+ media: 0.0410505592091484
+ metadata: 0.029521296224266094
+ plan: 0.05085043274629836
+ popular: 0.015957457418522215
+ qualiti: 0.029521296224266094
+ rich: 0.029521296224266094
+ semant: 0.015957457418522215
+ site: 0.015957457418522215
+ skill: 0.015957457418522215
+ sourc: 0.029521296224266094
+ studi: 0.0410505592091484
+ task: 0.0410505592091484
+ tour: 0.029521296224266094
+ travel: 0.029521296224266094
+ turk: 0.0410505592091484
+ user: 0.029521296224266094
+ vacat: 0.0410505592091484
+
+N-grams list: 10
+ high qualiti itinerari
+ citi travel itinerari
+ travel itinerari
+ extens user studi
+ popular rich media
+ geotempor breadcrumb vacat
+ frequent labori task
+ amazon mechan turk
+ flickr data
+ plan
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

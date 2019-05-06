@@ -1,0 +1,132 @@
+File name: 14376091
+
+Graph edges count: 49
+ account - individu: 1
+ blog - servic: 1
+ break - new: 1
+ challeng - task: 1
+ commun - tool: 1
+ content - recommend: 1
+ divers - geograph: 1
+ divers - set: 1
+ excit - set: 1
+ eyewit - account: 1
+ factori - code: 1
+ foursquar - gowalla: 1
+ geograph - divers: 1
+ geograph - locat: 1
+ geograph - topic: 1
+ geotag - messag: 1
+ gowalla - facebook: 1
+ high - accuraci: 1
+ human - mobil: 1
+ indispens - commun: 1
+ individu - expres: 1
+ interest - distribu: 1
+ interest - topic: 1
+ languag - variat: 1
+ linguist - characterist: 1
+ locat - estim: 1
+ locat - servic: 1
+ locat - share: 1
+ markovian - natur: 1
+ messag - due: 1
+ model - divers: 1
+ network - servic: 1
+ new - eyewit: 1
+ onlin - social: 1
+ onlin - user: 1
+ previou - method: 1
+ problem - previou: 1
+ profil - content: 1
+ protest - group: 1
+ reason - perform: 1
+ share - servic: 1
+ sheer - amount: 1
+ social - network: 1
+ spars - factori: 1
+ stream - blog: 1
+ topic - divers: 1
+ topic - track: 1
+ twitter - stream: 1
+ user - profil: 1
+
+PageRank scores count: 62
+ account: 0.026911684390493344
+ accuraci: 0.015623619384901796
+ amount: 0.015623619384901796
+ blog: 0.021725276144681012
+ break: 0.008445199667514483
+ challeng: 0.008445199667514483
+ characterist: 0.015623619384901796
+ code: 0.021725276144681012
+ commun: 0.015623619384901796
+ content: 0.02431848026758717
+ distribu: 0.012034409526208139
+ divers: 0.02914994407226789
+ due: 0.021725276144681012
+ estim: 0.012510508546924488
+ excit: 0.008445199667514483
+ expres: 0.03506731135703323
+ eyewit: 0.021725276144681012
+ facebook: 0.021725276144681012
+ factori: 0.015623619384901796
+ foursquar: 0.008445199667514483
+ geograph: 0.02083392761780406
+ geotag: 0.008445199667514483
+ gowalla: 0.015623619384901796
+ group: 0.015623619384901796
+ high: 0.008445199667514483
+ human: 0.008445199667514483
+ indispens: 0.008445199667514483
+ individu: 0.03132013139943383
+ interest: 0.008445199667514483
+ languag: 0.008445199667514483
+ linguist: 0.008445199667514483
+ locat: 0.01434814684582077
+ markovian: 0.008445199667514483
+ messag: 0.015623619384901796
+ method: 0.021725276144681012
+ mobil: 0.015623619384901796
+ model: 0.008445199667514483
+ natur: 0.015623619384901796
+ network: 0.0186744477647914
+ new: 0.015623619384901796
+ onlin: 0.008445199667514483
+ perform: 0.015623619384901796
+ previou: 0.015623619384901796
+ problem: 0.008445199667514483
+ profil: 0.0186744477647914
+ protest: 0.008445199667514483
+ reason: 0.008445199667514483
+ recommend: 0.029115907894963575
+ servic: 0.05748420721477457
+ set: 0.028012347335191368
+ share: 0.012510508546924488
+ sheer: 0.008445199667514483
+ social: 0.012034409526208139
+ spars: 0.008445199667514483
+ stream: 0.015623619384901796
+ task: 0.015623619384901796
+ tool: 0.021725276144681012
+ topic: 0.017937356704514427
+ track: 0.016068577176574294
+ twitter: 0.008445199667514483
+ user: 0.012034409526208139
+ variat: 0.015623619384901796
+
+N-grams list: 10
+ account individu expres
+ locat share servic
+ locat servic
+ topic divers geograph
+ servic
+ divers set
+ user profil content
+ twitter stream blog
+ foursquar gowalla facebook
+ problem previou method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

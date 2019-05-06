@@ -1,0 +1,64 @@
+File name: 8952931
+
+Graph edges count: 19
+ awar - encod: 1
+ design - implement: 1
+ encod - techniqu: 1
+ equival - form: 1
+ equival - techniqu: 1
+ exact - recoveri: 1
+ messag - size: 1
+ mobil - wireless: 1
+ offlin - protocol: 1
+ optim - techniqu: 1
+ soap - messag: 1
+ soap - prototyp: 1
+ space - equival: 1
+ underli - wsdl: 1
+ web - servic: 1
+ wireless - link: 1
+ wireless - soap: 4
+ wireless - web: 1
+ wsdl - awar: 1
+
+PageRank scores count: 24
+ awar: 0.059064006263999026
+ design: 0.022959769198833444
+ encod: 0.07316417452323261
+ equival: 0.04247557301784187
+ exact: 0.022959769198833444
+ form: 0.04101188773141624
+ implement: 0.04247557301784187
+ link: 0.034994514887221974
+ messag: 0.03783243802590278
+ mobil: 0.022959769198833444
+ offlin: 0.022959769198833444
+ optim: 0.022959769198833444
+ protocol: 0.04247557301784187
+ prototyp: 0.03783243802590278
+ recoveri: 0.04247557301784187
+ servic: 0.05270510685297212
+ size: 0.05511734152085081
+ soap: 0.034994514887221974
+ space: 0.022959769198833444
+ techniqu: 0.12271723989517239
+ underli: 0.022959769198833444
+ web: 0.034994514887221974
+ wireless: 0.04247557301784187
+ wsdl: 0.04247557301784187
+
+N-grams list: 10
+ space equival techniqu
+ wsdl awar encod
+ optim techniqu
+ techniqu
+ wireless soap prototyp
+ mobil wireless web
+ messag size
+ equival form
+ wireless soap
+ wireless link
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

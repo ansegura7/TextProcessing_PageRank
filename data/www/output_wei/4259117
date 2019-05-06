@@ -1,0 +1,87 @@
+File name: 4259117
+
+Graph edges count: 29
+ account - global: 1
+ approach - individu: 1
+ budget - constraint: 1
+ busi - applic: 1
+ busi - logic: 1
+ compon - servic: 5
+ composit - servic: 3
+ composit - web: 1
+ driven - web: 1
+ durat - reliabl: 1
+ effici - linear: 1
+ experiment - result: 1
+ global - constraint: 1
+ global - plan: 2
+ individu - web: 1
+ linear - program: 1
+ multipl - criteria: 1
+ optim - problem: 1
+ organiz - boundari: 1
+ plan - approach: 2
+ price - durat: 1
+ processdriven - composi: 1
+ process - model: 2
+ program - method: 1
+ promis - approach: 1
+ qualiti - driven: 1
+ servic - composi: 1
+ servic - selec: 1
+ web - servic: 4
+
+PageRank scores count: 37
+ account: 0.012759163918802045
+ applic: 0.018181808584292917
+ approach: 0.04581922089607804
+ boundari: 0.02360445324978378
+ budget: 0.012759163918802045
+ busi: 0.012759163918802045
+ compon: 0.012759163918802045
+ composi: 0.0658068580493344
+ composit: 0.012759163918802045
+ constraint: 0.030292381670555854
+ criteria: 0.02360445324978378
+ driven: 0.02360445324978378
+ durat: 0.02360445324978378
+ effici: 0.012759163918802045
+ experiment: 0.012759163918802045
+ global: 0.02360445324978378
+ individu: 0.05170550168046838
+ linear: 0.02360445324978378
+ logic: 0.018181808584292917
+ method: 0.04065867072275257
+ model: 0.02360445324978378
+ multipl: 0.012759163918802045
+ optim: 0.012759163918802045
+ organiz: 0.012759163918802045
+ plan: 0.026135020760346184
+ price: 0.012759163918802045
+ problem: 0.02360445324978378
+ process: 0.012759163918802045
+ processdriven: 0.012759163918802045
+ program: 0.03282294918111826
+ promis: 0.012759163918802045
+ qualiti: 0.012759163918802045
+ reliabl: 0.03282294918111826
+ result: 0.02360445324978378
+ selec: 0.05496156871835266
+ servic: 0.09929977599894263
+ web: 0.07948394794226181
+
+N-grams list: 10
+ composit web servic
+ web servic
+ approach individu web
+ servic composi
+ servic selec
+ qualiti driven web
+ composit servic
+ compon servic
+ servic
+ global plan approach
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

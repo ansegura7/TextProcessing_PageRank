@@ -1,0 +1,52 @@
+File name: 3603269
+
+Graph edges count: 12
+ class - descrip: 1
+ deep - web: 4
+ discoveri - system: 1
+ effect - exploit: 1
+ focus - crawl: 1
+ kei - compon: 1
+ massiv - deep: 1
+ modular - architectur: 1
+ servic - class: 1
+ sourcebias - analysi: 1
+ web - data: 1
+ web - discoveri: 1
+
+PageRank scores count: 19
+ analysi: 0.05770261146229237
+ architectur: 0.05770261146229237
+ class: 0.05770261146229237
+ compon: 0.05770261146229237
+ crawl: 0.05770261146229237
+ data: 0.06529167451711346
+ deep: 0.05770261146229237
+ descrip: 0.08023782053337683
+ discoveri: 0.06529167451711346
+ effect: 0.03119060079042831
+ exploit: 0.05770261146229237
+ focus: 0.03119060079042831
+ kei: 0.03119060079042831
+ massiv: 0.03119060079042831
+ modular: 0.03119060079042831
+ servic: 0.03119060079042831
+ sourcebias: 0.03119060079042831
+ system: 0.08668852412997474
+ web: 0.08023782053337683
+
+N-grams list: 10
+ deep web discoveri
+ servic class descrip
+ massiv deep web
+ deep web
+ effect exploit
+ kei compon
+ modular architectur
+ focus crawl
+ sourcebias analysi
+ system
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

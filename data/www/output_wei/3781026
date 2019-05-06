@@ -1,0 +1,64 @@
+File name: 3781026
+
+Graph edges count: 18
+ continu - search: 5
+ data - object: 1
+ fresh - result: 1
+ optim - method: 1
+ qualiti - threshold: 1
+ relev - inform: 1
+ respect - data: 1
+ respect - inform: 1
+ respect - stock: 1
+ sale - offer: 1
+ search - engin: 1
+ search - queri: 5
+ search - system: 1
+ short - period: 1
+ threshold - classif: 1
+ web - search: 1
+ wide - web: 2
+ world - wide: 2
+
+PageRank scores count: 25
+ classif: 0.06052429983487179
+ continu: 0.023527424619969595
+ data: 0.030193528262294315
+ engin: 0.035059664883626315
+ fresh: 0.023527424619969595
+ inform: 0.05019183918926847
+ method: 0.04352573554694376
+ object: 0.04919192364291976
+ offer: 0.04352573554694376
+ optim: 0.023527424619969595
+ period: 0.04352573554694376
+ qualiti: 0.023527424619969595
+ queri: 0.08118862593825321
+ relev: 0.023527424619969595
+ respect: 0.023527424619969595
+ result: 0.04352573554694376
+ sale: 0.023527424619969595
+ search: 0.09497139040658477
+ short: 0.023527424619969595
+ stock: 0.030193528262294315
+ system: 0.035059664883626315
+ threshold: 0.04352573554694376
+ web: 0.06052429983487179
+ wide: 0.04352573554694376
+ world: 0.023527424619969595
+
+N-grams list: 10
+ continu search queri
+ web search system
+ search engin
+ world wide web
+ threshold classif
+ respect data object
+ queri
+ respect inform
+ relev inform
+ sale offer
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

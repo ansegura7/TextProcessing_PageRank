@@ -1,0 +1,107 @@
+File name: 3606160
+
+Graph edges count: 37
+ aggreg - continu: 1
+ attract - tradeoff: 1
+ clientpullbas - techniqu: 1
+ continu - queri: 2
+ data - aggreg: 1
+ data - item: 2
+ data - sourc: 2
+ decision - make: 1
+ dynam - data: 1
+ feed - road: 1
+ ideal - algorithm: 1
+ incoher - accept: 1
+ interfac - special: 1
+ larg - decreas: 1
+ limit - incoher: 1
+ live - sourc: 1
+ markov - chain: 1
+ messag - overhead: 1
+ multipl - feed: 1
+ multipl - queri: 1
+ multipl - sourc: 1
+ onlin - decision: 1
+ probabilist - approach: 1
+ process - techniqu: 1
+ queri - process: 1
+ queri - result: 1
+ refresh - overhead: 1
+ small - increas: 1
+ special - queri: 1
+ standard - web: 1
+ stock - portfolio: 1
+ toler - incoher: 1
+ tradeoff - properti: 1
+ user - desir: 1
+ virtual - databas: 1
+ web - data: 1
+ web - infrastructur: 1
+
+PageRank scores count: 49
+ accept: 0.03728168863602851
+ aggreg: 0.019765942319150853
+ algorithm: 0.020932055835099467
+ approach: 0.020932055835099467
+ attract: 0.011314624775729441
+ chain: 0.020932055835099467
+ clientpullbas: 0.011314624775729441
+ continu: 0.028115675747007667
+ data: 0.02982817956501674
+ databas: 0.020932055835099467
+ decision: 0.020932055835099467
+ decreas: 0.020932055835099467
+ desir: 0.020932055835099467
+ dynam: 0.011314624775729441
+ feed: 0.014520435128852783
+ ideal: 0.011314624775729441
+ incoher: 0.030549486894469492
+ increas: 0.020932055835099467
+ infrastructur: 0.020210748505646713
+ interfac: 0.011314624775729441
+ item: 0.019765942319150853
+ larg: 0.011314624775729441
+ limit: 0.011314624775729441
+ live: 0.011314624775729441
+ make: 0.029106872235563987
+ markov: 0.011314624775729441
+ messag: 0.011314624775729441
+ multipl: 0.011314624775729441
+ onlin: 0.011314624775729441
+ overhead: 0.030549486894469492
+ portfolio: 0.020932055835099467
+ probabilist: 0.011314624775729441
+ process: 0.03520430273952807
+ properti: 0.029106872235563987
+ queri: 0.05621100697364385
+ refresh: 0.011314624775729441
+ result: 0.03520430273952807
+ road: 0.023656994635254308
+ small: 0.011314624775729441
+ sourc: 0.03258918373164422
+ special: 0.020932055835099467
+ standard: 0.011314624775729441
+ stock: 0.011314624775729441
+ techniqu: 0.05085571316369832
+ toler: 0.011314624775729441
+ tradeoff: 0.020932055835099467
+ user: 0.011314624775729441
+ virtual: 0.011314624775729441
+ web: 0.020932055835099467
+
+N-grams list: 10
+ queri result
+ interfac special queri
+ process techniqu
+ continu queri
+ limit incoher accept
+ web data aggreg
+ multipl queri
+ data sourc
+ clientpullbas techniqu
+ onlin decision make
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

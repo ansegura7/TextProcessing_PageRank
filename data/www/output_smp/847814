@@ -1,0 +1,63 @@
+File name: 847814
+
+Graph edges count: 17
+ applic - builder: 2
+ basic - requir: 1
+ client - concern: 1
+ client - devic: 1
+ commerci - web: 1
+ execu - target: 1
+ formbas - web: 1
+ marshal - input: 1
+ mvcbase - applic: 1
+ output - data: 1
+ paramet - pass: 1
+ program - model: 2
+ separ - client: 1
+ server - concern: 1
+ type - check: 1
+ web - applic: 4
+ web - program: 1
+
+PageRank scores count: 25
+ applic: 0.0703791316189548
+ basic: 0.023479276603487843
+ builder: 0.08330153847959942
+ check: 0.04343666171645252
+ client: 0.04343666171645252
+ commerci: 0.023479276603487843
+ concern: 0.06189724294594483
+ data: 0.04343666171645252
+ devic: 0.04193985783298016
+ execu: 0.023479276603487843
+ formbas: 0.023479276603487843
+ input: 0.04343666171645252
+ marshal: 0.023479276603487843
+ model: 0.06633776113357946
+ mvcbase: 0.023479276603487843
+ output: 0.023479276603487843
+ paramet: 0.023479276603487843
+ pass: 0.04343666171645252
+ program: 0.05042174650599014
+ requir: 0.04343666171645252
+ separ: 0.023479276603487843
+ server: 0.023479276603487843
+ target: 0.04343666171645252
+ type: 0.023479276603487843
+ web: 0.06339404682941718
+
+N-grams list: 10
+ mvcbase applic builder
+ commerci web applic
+ formbas web applic
+ applic builder
+ web applic
+ separ client concern
+ program model
+ web program
+ server concern
+ client devic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

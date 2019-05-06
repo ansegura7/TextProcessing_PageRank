@@ -1,0 +1,85 @@
+File name: 281471
+
+Graph edges count: 27
+ applic - server: 1
+ byte - sequenc: 2
+ clientsid - usecas: 1
+ deltars - perform: 1
+ docum - fragment: 1
+ extens - markup: 1
+ googl - web: 1
+ infrastructur - middlewar: 1
+ java - api: 1
+ markup - languag: 1
+ memor - xml: 1
+ parser - compli: 1
+ partial - pars: 1
+ runtim - overhead: 1
+ safe - xml: 1
+ sequenc - memor: 1
+ serversid - usecas: 1
+ servic - applic: 1
+ signific - runtim: 1
+ similar - xml: 1
+ syntact - analysi: 1
+ usecas - scenario: 2
+ web - servic: 2
+ xmlbase - infrastructur: 1
+ xml - docum: 3
+ xml - parser: 2
+ xml - process: 1
+
+PageRank scores count: 37
+ analysi: 0.025171185533670662
+ api: 0.025171185533670662
+ applic: 0.04335736708174772
+ byte: 0.013606046234416575
+ clientsid: 0.013606046234416575
+ compli: 0.04118362686833229
+ deltars: 0.013606046234416575
+ docum: 0.032444212510489075
+ extens: 0.013606046234416575
+ fragment: 0.04118362686833229
+ googl: 0.013606046234416575
+ infrastructur: 0.025171185533670662
+ java: 0.013606046234416575
+ languag: 0.03500155393803664
+ markup: 0.025171185533670662
+ memor: 0.03500155393803664
+ middlewar: 0.03500155393803664
+ overhead: 0.03500155393803664
+ pars: 0.025171185533670662
+ parser: 0.032444212510489075
+ partial: 0.013606046234416575
+ perform: 0.025171185533670662
+ process: 0.032444212510489075
+ runtim: 0.025171185533670662
+ safe: 0.013606046234416575
+ scenario: 0.04483192234240261
+ sequenc: 0.025171185533670662
+ server: 0.05045980825390213
+ serversid: 0.013606046234416575
+ servic: 0.03500155393803664
+ signific: 0.013606046234416575
+ similar: 0.013606046234416575
+ syntact: 0.013606046234416575
+ usecas: 0.03673632483292475
+ web: 0.025171185533670662
+ xml: 0.06648764568025589
+ xmlbase: 0.013606046234416575
+
+N-grams list: 10
+ xml docum fragment
+ safe xml parser
+ similar xml docum
+ web servic applic
+ xml parser
+ xml docum
+ xml process
+ clientsid usecas scenario
+ serversid usecas scenario
+ extens markup languag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

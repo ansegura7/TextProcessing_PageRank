@@ -1,0 +1,70 @@
+File name: 1167068
+
+Graph edges count: 20
+ agent - servic: 1
+ data - model: 1
+ descrip - framework: 1
+ environ - todai: 1
+ htmlbase - world: 1
+ larg - number: 1
+ machineunderstand - abstrac: 1
+ machin - access: 1
+ network - protocol: 1
+ resourc - descrip: 1
+ semant - virtual: 2
+ semant - web: 1
+ systemindepend - softwar: 1
+ system - boundari: 1
+ ve - softwar: 1
+ ve - system: 2
+ virtual - environ: 4
+ web - idea: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 29
+ abstrac: 0.03607901841342272
+ access: 0.03607901841342272
+ agent: 0.019502172115363633
+ boundari: 0.045472564648989536
+ data: 0.019502172115363633
+ descrip: 0.03607901841342272
+ environ: 0.045472564648989536
+ framework: 0.050169337766772945
+ htmlbase: 0.019502172115363633
+ idea: 0.07702313806769959
+ larg: 0.019502172115363633
+ machin: 0.019502172115363633
+ machineunderstand: 0.019502172115363633
+ model: 0.03607901841342272
+ network: 0.019502172115363633
+ number: 0.03607901841342272
+ protocol: 0.03607901841342272
+ resourc: 0.019502172115363633
+ semant: 0.019502172115363633
+ servic: 0.03607901841342272
+ softwar: 0.04160463384610908
+ system: 0.03055340298073636
+ systemindepend: 0.019502172115363633
+ todai: 0.05815385206700475
+ ve: 0.019502172115363633
+ virtual: 0.03055340298073636
+ web: 0.067671724649807
+ wide: 0.050169337766772945
+ world: 0.03607901841342272
+
+N-grams list: 10
+ semant web idea
+ resourc descrip framework
+ htmlbase world wide
+ semant virtual environ
+ ve system boundari
+ virtual environ
+ web
+ ve softwar
+ systemindepend softwar
+ todai
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

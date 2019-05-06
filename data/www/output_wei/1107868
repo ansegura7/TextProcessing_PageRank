@@ -1,0 +1,51 @@
+File name: 1107868
+
+Graph edges count: 12
+ advanc - tag: 1
+ arbitrari - web: 1
+ folksonomybas - rank: 1
+ group - structur: 1
+ multimediabas - fashion: 1
+ rank - algorithm: 1
+ rank - strategi: 1
+ resourc - share: 1
+ share - system: 1
+ tag - function: 1
+ user - interfac: 1
+ web - resourc: 1
+
+PageRank scores count: 18
+ advanc: 0.030569114762379588
+ algorithm: 0.05460408124430053
+ arbitrari: 0.030569114762379588
+ fashion: 0.056552862310402234
+ folksonomybas: 0.030569114762379588
+ function: 0.07863904772622149
+ group: 0.030569114762379588
+ interfac: 0.056552862310402234
+ multimediabas: 0.030569114762379588
+ rank: 0.056552862310402234
+ resourc: 0.07863904772622149
+ share: 0.09741230532966785
+ strategi: 0.05460408124430053
+ structur: 0.056552862310402234
+ system: 0.11336957429259727
+ tag: 0.056552862310402234
+ user: 0.030569114762379588
+ web: 0.056552862310402234
+
+N-grams list: 10
+ resourc share system
+ arbitrari web resourc
+ advanc tag function
+ folksonomybas rank strategi
+ system
+ rank algorithm
+ group structur
+ multimediabas fashion
+ user interfac
+ resourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

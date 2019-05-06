@@ -1,0 +1,44 @@
+File name: 4503664
+
+Graph edges count: 9
+ b2b - integr: 2
+ dynam - b2b: 1
+ heterogen - system: 1
+ rosettanet - specif: 2
+ semant - web: 1
+ sw - environ: 1
+ sw - technologi: 1
+ web - servic: 1
+ wsmx - sw: 1
+
+PageRank scores count: 14
+ b2b: 0.08054860128442363
+ dynam: 0.043539784478066834
+ environ: 0.07777294002394688
+ heterogen: 0.043539784478066834
+ integr: 0.11200609556982694
+ rosettanet: 0.043539784478066834
+ semant: 0.043539784478066834
+ servic: 0.11200609556982694
+ specif: 0.08054860128442363
+ sw: 0.08054860128442363
+ system: 0.08054860128442363
+ technologi: 0.07777294002394688
+ web: 0.08054860128442363
+ wsmx: 0.043539784478066834
+
+N-grams list: 10
+ dynam b2b integr
+ semant web servic
+ wsmx sw environ
+ b2b integr
+ sw technologi
+ heterogen system
+ rosettanet specif
+ sw
+ technologi
+ heterogen
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,50 @@
+File name: 9678834
+
+Graph edges count: 12
+ assign - weight: 1
+ base - recommend: 1
+ content - base: 1
+ featur - weight: 1
+ human - judgment: 1
+ linear - regres: 1
+ network - analysi: 1
+ network - graph: 1
+ recommend - system: 2
+ regres - equat: 1
+ social - network: 2
+ weight - valu: 1
+
+PageRank scores count: 17
+ analysi: 0.05707028551117645
+ assign: 0.03194977495377268
+ base: 0.059107083664479455
+ content: 0.03194977495377268
+ equat: 0.08219079606858021
+ featur: 0.03194977495377268
+ graph: 0.05707028551117645
+ human: 0.03194977495377268
+ judgment: 0.059107083664479455
+ linear: 0.03194977495377268
+ network: 0.059107083664479455
+ recommend: 0.08219079606858021
+ regres: 0.059107083664479455
+ social: 0.03194977495377268
+ system: 0.10181195161206585
+ valu: 0.10527450847268097
+ weight: 0.08626439237518622
+
+N-grams list: 10
+ weight valu
+ recommend system
+ content base recommend
+ linear regres equat
+ social network graph
+ social network analysi
+ assign weight
+ featur weight
+ human judgment
+ content
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

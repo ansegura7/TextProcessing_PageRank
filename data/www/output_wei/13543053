@@ -1,0 +1,84 @@
+File name: 13543053
+
+Graph edges count: 28
+ cluster - experi: 1
+ cluster - techniqu: 1
+ discrimin - aspect: 1
+ discrimin - power: 1
+ divers - result: 1
+ divers - search: 1
+ dynam - weight: 1
+ extens - cluster: 1
+ human - assessor: 1
+ human - percep: 1
+ imag - content: 1
+ imag - imag: 1
+ imag - search: 3
+ lightweight - cluster: 1
+ perform - evalu: 1
+ relev - result: 1
+ repres - imag: 1
+ result - due: 1
+ result - set: 1
+ rich - imag: 1
+ search - engin: 1
+ search - result: 3
+ textual - descrip: 1
+ textual - inform: 1
+ user - queri: 1
+ visual - diversif: 2
+ visual - featur: 1
+ weight - function: 1
+
+PageRank scores count: 35
+ aspect: 0.02418989176936201
+ assessor: 0.02418989176936201
+ cluster: 0.045833479141949074
+ content: 0.026362942811400135
+ descrip: 0.02418989176936201
+ discrimin: 0.01697536264516632
+ divers: 0.01697536264516632
+ diversif: 0.026594734810760568
+ due: 0.047572710466789576
+ dynam: 0.01697536264516632
+ engin: 0.028100297316540016
+ evalu: 0.031404420893557695
+ experi: 0.03645459128049468
+ extens: 0.01697536264516632
+ featur: 0.021785048727963444
+ function: 0.04366912040469036
+ human: 0.01697536264516632
+ imag: 0.05522105930818288
+ inform: 0.02418989176936201
+ lightweight: 0.01697536264516632
+ percep: 0.02418989176936201
+ perform: 0.01697536264516632
+ power: 0.02418989176936201
+ queri: 0.031404420893557695
+ relev: 0.01697536264516632
+ repres: 0.01697536264516632
+ result: 0.07199375403187447
+ rich: 0.01697536264516632
+ search: 0.052352632268063456
+ set: 0.047572710466789576
+ techniqu: 0.03645459128049468
+ textual: 0.01697536264516632
+ user: 0.01697536264516632
+ visual: 0.01697536264516632
+ weight: 0.031404420893557695
+
+N-grams list: 10
+ imag search result
+ imag imag search
+ divers search result
+ divers result set
+ extens cluster experi
+ lightweight cluster techniqu
+ rich imag content
+ dynam weight function
+ relev result
+ repres imag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

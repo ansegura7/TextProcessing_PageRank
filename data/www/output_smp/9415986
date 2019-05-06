@@ -1,0 +1,85 @@
+File name: 9415986
+
+Graph edges count: 25
+ amazoncom - help: 1
+ amazon - book: 1
+ book - review: 1
+ case - studi: 1
+ collect - opinionevalu: 1
+ help - vote: 1
+ iffer - countri: 1
+ largescal - collec: 1
+ market - research: 1
+ mathemat - model: 1
+ model - consist: 1
+ model - opinion: 1
+ natur - mathemat: 1
+ offer - mechan: 1
+ offlin - set: 1
+ onlin - commun: 1
+ onlin - set: 1
+ opinionevalu - behavior: 1
+ opinion - evalu: 3
+ polit - campaign: 1
+ review - help: 1
+ social - psychologi: 1
+ subtl - wai: 1
+ unexpect - differ: 1
+ user - popul: 1
+
+PageRank scores count: 39
+ amazon: 0.014947415692254756
+ amazoncom: 0.014947415692254756
+ behavior: 0.038452226868325355
+ book: 0.027652719030671298
+ campaign: 0.027652719030671298
+ case: 0.014947415692254756
+ collec: 0.027652719030671298
+ collect: 0.014947415692254756
+ commun: 0.02130006736146303
+ consist: 0.03128961211129303
+ countri: 0.027652719030671298
+ differ: 0.027652719030671298
+ evalu: 0.04154358598685383
+ help: 0.06033711186874785
+ iffer: 0.014947415692254756
+ largescal: 0.014947415692254756
+ market: 0.014947415692254756
+ mathemat: 0.027652719030671298
+ mechan: 0.027652719030671298
+ model: 0.038452226868325355
+ natur: 0.014947415692254756
+ offer: 0.014947415692254756
+ offlin: 0.014947415692254756
+ onlin: 0.014947415692254756
+ opinion: 0.03128961211129303
+ opinionevalu: 0.027652719030671298
+ polit: 0.014947415692254756
+ popul: 0.027652719030671298
+ psychologi: 0.027652719030671298
+ research: 0.027652719030671298
+ review: 0.038452226868325355
+ set: 0.034005370699879564
+ social: 0.014947415692254756
+ studi: 0.027652719030671298
+ subtl: 0.014947415692254756
+ unexpect: 0.014947415692254756
+ user: 0.014947415692254756
+ vote: 0.06623396078069042
+ wai: 0.027652719030671298
+
+N-grams list: 10
+ amazoncom help vote
+ model opinion evalu
+ review help
+ amazon book review
+ collect opinionevalu behavior
+ natur mathemat model
+ opinion evalu
+ help
+ onlin set
+ offlin set
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

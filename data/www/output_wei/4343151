@@ -1,0 +1,41 @@
+File name: 4343151
+
+Graph edges count: 9
+ changeless - period: 1
+ chang - detec: 1
+ consecut - page: 1
+ multipl - past: 1
+ page - version: 1
+ past - page: 1
+ past - web: 3
+ time - line: 1
+ web - resourc: 1
+
+PageRank scores count: 13
+ chang: 0.044283792685424546
+ changeless: 0.044283792685424546
+ consecut: 0.044283792685424546
+ detec: 0.0819250164680354
+ line: 0.0819250164680354
+ multipl: 0.044283792685424546
+ page: 0.09933408246749292
+ past: 0.0819250164680354
+ period: 0.0819250164680354
+ resourc: 0.1263181347666521
+ time: 0.044283792685424546
+ version: 0.12871776278279354
+ web: 0.09651099068379712
+
+N-grams list: 8
+ consecut page version
+ multipl past web
+ past page
+ past web
+ resourc
+ chang detec
+ time line
+ changeless period
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

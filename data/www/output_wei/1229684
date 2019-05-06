@@ -1,0 +1,45 @@
+File name: 1229684
+
+Graph edges count: 9
+ analog - statem: 1
+ broad - rang: 1
+ databas - schema: 1
+ ic - satisfac: 1
+ integr - constraint: 1
+ knowledg - base: 1
+ posit - queri: 1
+ relat - databas: 3
+ schema - statem: 1
+
+PageRank scores count: 15
+ analog: 0.04047087867336459
+ base: 0.07487112554572449
+ broad: 0.04047087867336459
+ constraint: 0.07487112554572449
+ databas: 0.07487112554572449
+ ic: 0.04047087867336459
+ integr: 0.04047087867336459
+ knowledg: 0.04047087867336459
+ posit: 0.04047087867336459
+ queri: 0.07487112554572449
+ rang: 0.07487112554572449
+ relat: 0.04047087867336459
+ satisfac: 0.07487112554572449
+ schema: 0.1041113353872304
+ statem: 0.16336576062487032
+
+N-grams list: 10
+ relat databas schema
+ analog statem
+ statem
+ posit queri
+ relat databas
+ knowledg base
+ ic satisfac
+ broad rang
+ integr constraint
+ constraint
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

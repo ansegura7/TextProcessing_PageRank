@@ -1,0 +1,100 @@
+File name: 11807460
+
+Graph edges count: 35
+ account - featur: 1
+ analysi - process: 1
+ analysi - techniqu: 1
+ analysi - tool: 2
+ benign - forward: 1
+ costli - analysi: 1
+ costli - dynam: 1
+ detec - model: 1
+ drivebydownload - exploit: 2
+ dynam - analysi: 2
+ exploit - research: 1
+ fast - filter: 1
+ javascript - code: 1
+ label - dataset: 1
+ largescal - analysi: 1
+ largescal - botnet: 1
+ largescal - detec: 1
+ larg - set: 1
+ machinelearn - techniqu: 1
+ malici - activ: 1
+ malici - behavior: 1
+ malici - code: 2
+ malici - content: 1
+ malici - page: 1
+ malici - script: 1
+ malici - web: 3
+ neglig - amount: 1
+ page - malici: 1
+ popular - mean: 1
+ real - browser: 1
+ reliabl - filter: 1
+ singl - page: 1
+ static - analysi: 1
+ virtual - environ: 1
+ web - page: 8
+
+PageRank scores count: 44
+ account: 0.013415997087132515
+ activ: 0.018469694652306995
+ amount: 0.024819594611195154
+ analysi: 0.05057271901970328
+ behavior: 0.018469694652306995
+ benign: 0.013415997087132515
+ botnet: 0.01721719626182006
+ browser: 0.024819594611195154
+ code: 0.03492698974154411
+ content: 0.018469694652306995
+ costli: 0.013415997087132515
+ dataset: 0.024819594611195154
+ detec: 0.01721719626182006
+ drivebydownload: 0.013415997087132515
+ dynam: 0.019117795849163836
+ environ: 0.024819594611195154
+ exploit: 0.024819594611195154
+ fast: 0.013415997087132515
+ featur: 0.024819594611195154
+ filter: 0.03622319213525779
+ forward: 0.024819594611195154
+ javascript: 0.013415997087132515
+ label: 0.013415997087132515
+ larg: 0.013415997087132515
+ largescal: 0.013415997087132515
+ machinelearn: 0.013415997087132515
+ malici: 0.0594552522043742
+ mean: 0.024819594611195154
+ model: 0.028050613909679566
+ neglig: 0.013415997087132515
+ page: 0.05416382178388756
+ popular: 0.013415997087132515
+ process: 0.02416269987881946
+ real: 0.013415997087132515
+ reliabl: 0.013415997087132515
+ research: 0.034512652506648395
+ script: 0.018469694652306995
+ set: 0.024819594611195154
+ singl: 0.013415997087132515
+ static: 0.013415997087132515
+ techniqu: 0.035566297402882106
+ tool: 0.03490940267050641
+ virtual: 0.013415997087132515
+ web: 0.028577089782655947
+
+N-grams list: 10
+ malici web page
+ malici page
+ static analysi techniqu
+ costli analysi tool
+ malici code
+ costli dynam analysi
+ web page
+ malici script
+ malici behavior
+ malici content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

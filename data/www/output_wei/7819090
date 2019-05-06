@@ -1,0 +1,70 @@
+File name: 7819090
+
+Graph edges count: 21
+ addition - contextu: 1
+ annot - task: 1
+ collect - knowledg: 1
+ empir - evalu: 1
+ famili - friend: 1
+ flickr - tag: 1
+ import - facet: 1
+ knowledg - onlin: 1
+ onlin - commun: 1
+ onlin - photo: 1
+ origin - tag: 1
+ photo - annot: 1
+ photo - servic: 1
+ recommend - strategi: 1
+ relev - tag: 1
+ repres - snapshot: 1
+ semant - inform: 1
+ tag - character: 1
+ tag - photo: 1
+ tag - recommend: 2
+ user - tag: 1
+
+PageRank scores count: 28
+ addition: 0.019302534377372636
+ annot: 0.04414552948546047
+ character: 0.03735040402021605
+ collect: 0.019302534377372636
+ commun: 0.040406236493833854
+ contextu: 0.035709688598139375
+ empir: 0.019302534377372636
+ evalu: 0.035709688598139375
+ facet: 0.035709688598139375
+ famili: 0.019302534377372636
+ flickr: 0.019302534377372636
+ friend: 0.035709688598139375
+ import: 0.019302534377372636
+ inform: 0.035709688598139375
+ knowledg: 0.035709688598139375
+ onlin: 0.04965576968579111
+ origin: 0.019302534377372636
+ photo: 0.05845410613667727
+ recommend: 0.055398273663059466
+ relev: 0.019302534377372636
+ repres: 0.019302534377372636
+ semant: 0.019302534377372636
+ servic: 0.04414552948546047
+ snapshot: 0.035709688598139375
+ strategi: 0.06639106699097318
+ tag: 0.08493115126043961
+ task: 0.056826234440014035
+ user: 0.019302534377372636
+
+N-grams list: 10
+ tag recommend strategi
+ user tag photo
+ flickr tag recommend
+ photo annot task
+ tag character
+ collect knowledg onlin
+ relev tag
+ origin tag
+ photo servic
+ onlin commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

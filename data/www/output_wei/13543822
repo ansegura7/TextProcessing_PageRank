@@ -1,0 +1,42 @@
+File name: 13543822
+
+Graph edges count: 8
+ host - graph: 1
+ intern - structur: 1
+ largescal - studi: 1
+ nation - graph: 1
+ nation - web: 1
+ previou - work: 1
+ structur - differ: 1
+ webscal - crawl: 1
+
+PageRank scores count: 13
+ crawl: 0.09403990341847755
+ differ: 0.13076629813191
+ graph: 0.1156436650146143
+ host: 0.05083238022620409
+ intern: 0.05083238022620409
+ largescal: 0.05083238022620409
+ nation: 0.05083238022620409
+ previou: 0.05083238022620409
+ structur: 0.09403990341847755
+ studi: 0.09403990341847755
+ web: 0.07243614182234082
+ webscal: 0.05083238022620409
+ work: 0.09403990341847755
+
+N-grams list: 10
+ structur differ
+ nation graph
+ host graph
+ previou work
+ intern structur
+ largescal studi
+ webscal crawl
+ nation web
+ graph
+ crawl
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

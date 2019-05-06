@@ -1,0 +1,70 @@
+File name: 4833040
+
+Graph edges count: 21
+ aroleori - process: 1
+ busi - goal: 1
+ choic - anditer: 1
+ choreographi - languag: 1
+ collabor - ofparticip: 1
+ common - busi: 1
+ domin - role: 2
+ fundament - issu: 1
+ implement - includingsemant: 1
+ includingsemant - projec: 1
+ issu - relatedto: 1
+ languag - structur: 1
+ natur - projec: 1
+ process - languag: 1
+ projec - domin: 1
+ relatedto - choreographi: 1
+ servic - peopl: 1
+ simpl - choreographi: 1
+ somenovel - languag: 1
+ theoret - foundat: 1
+ web - servic: 1
+
+PageRank scores count: 28
+ anditer: 0.029417506001034578
+ aroleori: 0.01590135459515383
+ busi: 0.029417506001034578
+ choic: 0.01590135459515383
+ choreographi: 0.06418780549266283
+ collabor: 0.01590135459515383
+ common: 0.01590135459515383
+ domin: 0.06216038278178071
+ foundat: 0.029417506001034578
+ fundament: 0.01590135459515383
+ goal: 0.040906234696033224
+ implement: 0.01590135459515383
+ includingsemant: 0.029417506001034578
+ issu: 0.029417506001034578
+ languag: 0.10898202077067738
+ natur: 0.01590135459515383
+ ofparticip: 0.029417506001034578
+ peopl: 0.040906234696033224
+ process: 0.029417506001034578
+ projec: 0.05442238610191398
+ relatedto: 0.040906234696033224
+ role: 0.06873767995966744
+ servic: 0.029417506001034578
+ simpl: 0.01590135459515383
+ somenovel: 0.01590135459515383
+ structur: 0.1085360722502296
+ theoret: 0.01590135459515383
+ web: 0.01590135459515383
+
+N-grams list: 10
+ somenovel languag structur
+ simpl choreographi languag
+ aroleori process languag
+ natur projec domin
+ domin role
+ languag
+ implement includingsemant projec
+ web servic peopl
+ common busi goal
+ fundament issu relatedto
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

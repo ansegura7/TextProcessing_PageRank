@@ -1,0 +1,54 @@
+File name: 9061374
+
+Graph edges count: 16
+ abstract - process: 4
+ abstract - wsbpel: 1
+ behavior - equival: 1
+ behavior - relationship: 1
+ busi - logic: 1
+ busi - process: 1
+ compat - notion: 2
+ execut - process: 3
+ execut - sibl: 1
+ observ - behavior: 2
+ process - wsbpel: 1
+ sibl - abstract: 1
+ syntact - rule: 1
+ underspecifi - abstract: 1
+ wsbpel - process: 1
+ wsbpel - specif: 2
+
+PageRank scores count: 17
+ abstract: 0.07656805131170735
+ behavior: 0.04917366714746232
+ busi: 0.0265803606202499
+ compat: 0.0265803606202499
+ equival: 0.047479169157921386
+ execut: 0.0265803606202499
+ logic: 0.037877013883856114
+ notion: 0.04917366714746232
+ observ: 0.0265803606202499
+ process: 0.1555750618711392
+ relationship: 0.047479169157921386
+ rule: 0.04917366714746232
+ sibl: 0.032228687252053
+ specif: 0.12395394702007546
+ syntact: 0.0265803606202499
+ underspecifi: 0.0265803606202499
+ wsbpel: 0.17183573518143952
+
+N-grams list: 10
+ abstract wsbpel process
+ wsbpel specif
+ underspecifi abstract process
+ abstract process
+ execut process
+ busi process
+ wsbpel
+ process
+ execut sibl abstract
+ behavior equival
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

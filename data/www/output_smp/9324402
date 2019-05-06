@@ -1,0 +1,64 @@
+File name: 9324402
+
+Graph edges count: 16
+ bayesian - network: 2
+ cheap - proxi: 1
+ clickthrough - rate: 1
+ dynam - bayesian: 2
+ editori - label: 1
+ implicit - feedback: 1
+ import - sourc: 1
+ label - data: 1
+ learn - web: 1
+ machin - learn: 1
+ main - difficulti: 1
+ position - bia: 1
+ relev - assess: 1
+ search - rank: 2
+ unbias - estim: 1
+ web - search: 2
+
+PageRank scores count: 27
+ assess: 0.04024997956905598
+ bayesian: 0.04024997956905598
+ bia: 0.04024997956905598
+ cheap: 0.021756745713003234
+ clickthrough: 0.021756745713003234
+ data: 0.05596922834670082
+ difficulti: 0.04024997956905598
+ dynam: 0.021756745713003234
+ editori: 0.021756745713003234
+ estim: 0.04024997956905598
+ feedback: 0.04024997956905598
+ implicit: 0.021756745713003234
+ import: 0.021756745713003234
+ label: 0.04024997956905598
+ learn: 0.04024997956905598
+ machin: 0.021756745713003234
+ main: 0.021756745713003234
+ network: 0.05596922834670082
+ position: 0.021756745713003234
+ proxi: 0.04024997956905598
+ rank: 0.08068774704954733
+ rate: 0.04024997956905598
+ relev: 0.021756745713003234
+ search: 0.06933058980769893
+ sourc: 0.04024997956905598
+ unbias: 0.021756745713003234
+ web: 0.05596922834670082
+
+N-grams list: 10
+ web search rank
+ search rank
+ dynam bayesian network
+ machin learn web
+ label data
+ cheap proxi
+ import sourc
+ implicit feedback
+ relev assess
+ unbias estim
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

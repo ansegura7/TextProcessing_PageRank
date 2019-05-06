@@ -1,0 +1,39 @@
+File name: 9067385
+
+Graph edges count: 7
+ effect - parallel: 1
+ fundament - issu: 1
+ good - guidelin: 1
+ multipl - architectur: 1
+ parallel - crawler: 4
+ reason - amount: 1
+ rel - merit: 1
+
+PageRank scores count: 13
+ amount: 0.09403990341847755
+ architectur: 0.09403990341847755
+ crawler: 0.13076629813191
+ effect: 0.05083238022620409
+ fundament: 0.05083238022620409
+ good: 0.05083238022620409
+ guidelin: 0.09403990341847755
+ issu: 0.09403990341847755
+ merit: 0.09403990341847755
+ multipl: 0.05083238022620409
+ parallel: 0.09403990341847755
+ reason: 0.05083238022620409
+ rel: 0.05083238022620409
+
+N-grams list: 8
+ effect parallel crawler
+ parallel crawler
+ rel merit
+ multipl architectur
+ reason amount
+ good guidelin
+ fundament issu
+ architectur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

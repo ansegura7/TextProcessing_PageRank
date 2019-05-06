@@ -1,0 +1,109 @@
+File name: 9019192
+
+Graph edges count: 38
+ addition - insight: 1
+ approach - commun: 1
+ citat - network: 1
+ commun - evolu: 2
+ dynam - network: 1
+ experiment - studi: 1
+ extens - experiment: 1
+ framework - commun: 1
+ human - interac: 1
+ inher - characterist: 1
+ innov - algorithm: 1
+ iter - algorithm: 1
+ low - time: 1
+ matrix - factor: 1
+ meaning - commun: 1
+ network - data: 1
+ noisi - data: 1
+ nonneg - matrix: 1
+ onlin - social: 1
+ optim - solution: 1
+ paper - citat: 1
+ proven - low: 1
+ real - dataset: 1
+ research - interest: 1
+ robust - unifi: 1
+ social - network: 2
+ social - statu: 1
+ synthet - dataset: 1
+ tempor - evolu: 1
+ tempor - smooth: 1
+ time - complex: 1
+ time - due: 1
+ time - slice: 1
+ tradition - approach: 1
+ tradition - method: 1
+ tradition - twostep: 1
+ twostep - approach: 1
+ unifi - process: 1
+
+PageRank scores count: 50
+ addition: 0.01106304295772666
+ algorithm: 0.029870215985861984
+ approach: 0.02626550782213605
+ characterist: 0.020466629471794326
+ citat: 0.020466629471794326
+ commun: 0.05219589763467763
+ complex: 0.01912661839353968
+ data: 0.06250849751177183
+ dataset: 0.029870215985861984
+ due: 0.01912661839353968
+ dynam: 0.01106304295772666
+ evolu: 0.06013134920423647
+ experiment: 0.020466629471794326
+ extens: 0.01106304295772666
+ factor: 0.028459678008751838
+ framework: 0.01106304295772666
+ human: 0.01106304295772666
+ inher: 0.01106304295772666
+ innov: 0.01106304295772666
+ insight: 0.020466629471794326
+ interac: 0.020466629471794326
+ interest: 0.020466629471794326
+ iter: 0.01106304295772666
+ low: 0.020466629471794326
+ matrix: 0.020466629471794326
+ meaning: 0.01106304295772666
+ method: 0.014197571795749216
+ network: 0.049461021223502946
+ noisi: 0.01106304295772666
+ nonneg: 0.01106304295772666
+ onlin: 0.01106304295772666
+ optim: 0.01106304295772666
+ paper: 0.01106304295772666
+ process: 0.028459678008751838
+ proven: 0.01106304295772666
+ real: 0.01106304295772666
+ research: 0.01106304295772666
+ robust: 0.01106304295772666
+ slice: 0.01912661839353968
+ smooth: 0.015764836214760495
+ social: 0.020466629471794326
+ solution: 0.020466629471794326
+ statu: 0.016861921308068385
+ studi: 0.028459678008751838
+ synthet: 0.01106304295772666
+ tempor: 0.01106304295772666
+ time: 0.028459678008751838
+ tradition: 0.01106304295772666
+ twostep: 0.014197571795749216
+ unifi: 0.020466629471794326
+
+N-grams list: 10
+ social network data
+ commun evolu
+ tradition approach commun
+ onlin social network
+ paper citat network
+ noisi data
+ tempor evolu
+ framework commun
+ meaning commun
+ data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

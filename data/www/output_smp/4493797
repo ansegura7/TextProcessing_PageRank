@@ -1,0 +1,83 @@
+File name: 4493797
+
+Graph edges count: 25
+ approach - toth: 1
+ compani - profil: 1
+ cours - product: 1
+ data - tupl: 1
+ direct - human: 1
+ empir - evalu: 1
+ encourag - improv: 1
+ extens - survei: 1
+ extrac - accuraci: 1
+ extrac - system: 1
+ featur - engin: 1
+ htmlembed - data: 1
+ human - supervi: 1
+ learn - framework: 1
+ machin - learn: 1
+ product - compani: 1
+ record - extrac: 3
+ relat - system: 1
+ similar - region: 1
+ simpl - twostag: 1
+ system - urest: 1
+ toth - problem: 1
+ twostag - machin: 1
+ unsupervis - record: 3
+ web - page: 1
+
+PageRank scores count: 37
+ accuraci: 0.030226016475358403
+ approach: 0.014439323548375316
+ compani: 0.0371451598281955
+ cours: 0.014439323548375316
+ data: 0.026712748564494335
+ direct: 0.014439323548375316
+ empir: 0.014439323548375316
+ encourag: 0.014439323548375316
+ engin: 0.026712748564494335
+ evalu: 0.026712748564494335
+ extens: 0.014439323548375316
+ extrac: 0.0371451598281955
+ featur: 0.014439323548375316
+ framework: 0.05355012654036558
+ htmlembed: 0.014439323548375316
+ human: 0.026712748564494335
+ improv: 0.026712748564494335
+ learn: 0.04601270940234149
+ machin: 0.0371451598281955
+ page: 0.026712748564494335
+ problem: 0.0371451598281955
+ product: 0.026712748564494335
+ profil: 0.04601270940234149
+ record: 0.026712748564494335
+ region: 0.026712748564494335
+ relat: 0.014439323548375316
+ similar: 0.014439323548375316
+ simpl: 0.014439323548375316
+ supervi: 0.0371451598281955
+ survei: 0.026712748564494335
+ system: 0.04249944149147742
+ toth: 0.026712748564494335
+ tupl: 0.0371451598281955
+ twostag: 0.026712748564494335
+ unsupervis: 0.014439323548375316
+ urest: 0.05056384881613113
+ web: 0.014439323548375316
+
+N-grams list: 10
+ learn framework
+ system urest
+ approach toth problem
+ htmlembed data tupl
+ unsupervis record extrac
+ direct human supervi
+ simpl twostag machin
+ cours product compani
+ extrac accuraci
+ relat system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

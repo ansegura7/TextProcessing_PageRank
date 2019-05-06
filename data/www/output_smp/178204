@@ -1,0 +1,87 @@
+File name: 178204
+
+Graph edges count: 29
+ applic - specif: 2
+ central - cluster: 1
+ central - databas: 2
+ cluster - architectur: 1
+ consist - model: 1
+ data - replic: 2
+ ecommerc - applic: 1
+ edg - server: 2
+ edg - servic: 5
+ effect - consist: 1
+ experiment - result: 1
+ kei - challeng: 1
+ objectbas - edg: 1
+ object - architectur: 1
+ onlin - bookstor: 1
+ perform - penalti: 1
+ relax - consist: 1
+ respons - time: 1
+ server - code: 1
+ server - system: 1
+ servic - architectur: 1
+ servic - system: 3
+ share - data: 1
+ specif - data: 1
+ specif - semant: 1
+ specif - subset: 1
+ tpcw - benchmark: 1
+ tradition - central: 2
+ web - servic: 1
+
+PageRank scores count: 37
+ applic: 0.028214722041617273
+ architectur: 0.06845835235364635
+ benchmark: 0.028214722041617273
+ bookstor: 0.028214722041617273
+ central: 0.028214722041617273
+ challeng: 0.028214722041617273
+ cluster: 0.027242457971264244
+ code: 0.026829245741364208
+ consist: 0.041178242979657644
+ data: 0.03933094124598689
+ databas: 0.027242457971264244
+ ecommerc: 0.015251201103576905
+ edg: 0.028214722041617273
+ effect: 0.015251201103576905
+ experiment: 0.015251201103576905
+ kei: 0.015251201103576905
+ model: 0.05025270763628589
+ object: 0.015251201103576905
+ objectbas: 0.015251201103576905
+ onlin: 0.015251201103576905
+ penalti: 0.028214722041617273
+ perform: 0.015251201103576905
+ relax: 0.015251201103576905
+ replic: 0.04868250116266576
+ respons: 0.015251201103576905
+ result: 0.028214722041617273
+ semant: 0.026367420307946518
+ server: 0.027242457971264244
+ servic: 0.040205978909304614
+ share: 0.015251201103576905
+ specif: 0.039233714838951585
+ subset: 0.026367420307946518
+ system: 0.04391678677781867
+ time: 0.028214722041617273
+ tpcw: 0.015251201103576905
+ tradition: 0.015251201103576905
+ web: 0.015251201103576905
+
+N-grams list: 10
+ edg servic architectur
+ edg servic system
+ applic specif data
+ effect consist model
+ applic specif semant
+ data replic
+ object architectur
+ edg server code
+ objectbas edg server
+ tradition central databas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

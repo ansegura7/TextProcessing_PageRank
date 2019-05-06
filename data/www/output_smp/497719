@@ -1,0 +1,88 @@
+File name: 497719
+
+Graph edges count: 29
+ acceler - method: 1
+ accur - rank: 1
+ adapt - pagerank: 1
+ aggreg - principl: 1
+ aggreg - techniqu: 1
+ algorithm - updat: 1
+ excit - featur: 1
+ famou - pagerank: 1
+ frequent - updat: 1
+ iter - aggreg: 3
+ lumpabl - algorithm: 1
+ markov - chain: 2
+ monthli - basi: 1
+ node - lumpabl: 1
+ origin - pagerank: 1
+ pagerank - acceler: 1
+ pagerank - algorithm: 1
+ pagerank - comput: 1
+ pagerank - vector: 2
+ person - rank: 1
+ quadrat - extrapol: 1
+ rank - vector: 1
+ realtim - person: 1
+ search - engin: 1
+ slowconverg - state: 1
+ small - subset: 1
+ updat - pagerank: 1
+ valuabl - rank: 1
+ web - googl: 1
+
+PageRank scores count: 38
+ acceler: 0.03505436274952002
+ accur: 0.012735167040099707
+ adapt: 0.012735167040099707
+ aggreg: 0.023560059024184458
+ algorithm: 0.05508041292007681
+ basi: 0.023560059024184458
+ chain: 0.023560059024184458
+ comput: 0.03505436274952002
+ engin: 0.023560059024184458
+ excit: 0.012735167040099707
+ extrapol: 0.023560059024184458
+ famou: 0.012735167040099707
+ featur: 0.023560059024184458
+ frequent: 0.012735167040099707
+ googl: 0.023560059024184458
+ iter: 0.012735167040099707
+ lumpabl: 0.023560059024184458
+ markov: 0.012735167040099707
+ method: 0.042531373523649434
+ monthli: 0.012735167040099707
+ node: 0.012735167040099707
+ origin: 0.012735167040099707
+ pagerank: 0.10503149177569758
+ person: 0.023560059024184458
+ principl: 0.0227481921253781
+ quadrat: 0.012735167040099707
+ rank: 0.05441100117882599
+ realtim: 0.012735167040099707
+ search: 0.012735167040099707
+ slowconverg: 0.012735167040099707
+ small: 0.012735167040099707
+ state: 0.023560059024184458
+ subset: 0.023560059024184458
+ techniqu: 0.0227481921253781
+ updat: 0.07037840815270745
+ valuabl: 0.012735167040099707
+ vector: 0.08130371375152211
+ web: 0.012735167040099707
+
+N-grams list: 10
+ algorithm updat pagerank
+ famou pagerank vector
+ pagerank vector
+ pagerank acceler method
+ origin pagerank algorithm
+ valuabl rank vector
+ pagerank comput
+ adapt pagerank
+ pagerank
+ node lumpabl algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

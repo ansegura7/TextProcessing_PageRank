@@ -1,0 +1,84 @@
+File name: 4333132
+
+Graph edges count: 28
+ account - product: 1
+ busi - context: 1
+ busi - entiti: 1
+ busi - process: 1
+ collabor - pim: 1
+ core - busi: 1
+ custom - supplier: 1
+ data - manag: 1
+ dynam - flexibl: 1
+ experiment - result: 1
+ import - kind: 1
+ inform - manag: 2
+ manag - commun: 1
+ manag - master: 1
+ master - data: 4
+ modern - enterpr: 1
+ ondemand - busi: 1
+ ontologi - repositori: 1
+ organiz - unit: 1
+ pim - system: 3
+ product - inform: 3
+ rich - busi: 1
+ semant - pim: 1
+ semant - web: 3
+ stateofart - ontologi: 1
+ supplier - account: 1
+ web - commun: 1
+ web - technologi: 2
+
+PageRank scores count: 35
+ account: 0.033184374093734995
+ busi: 0.04579379126637871
+ collabor: 0.012899659511655975
+ commun: 0.06600555192492963
+ context: 0.02587456703712994
+ core: 0.012899659511655975
+ custom: 0.012899659511655975
+ data: 0.06236388609043996
+ dynam: 0.012899659511655975
+ enterpr: 0.02386437009656355
+ entiti: 0.02587456703712994
+ experiment: 0.012899659511655975
+ flexibl: 0.02386437009656355
+ import: 0.012899659511655975
+ inform: 0.04784008037928709
+ kind: 0.02386437009656355
+ manag: 0.10657303101092398
+ master: 0.05819319563318297
+ modern: 0.012899659511655975
+ ondemand: 0.012899659511655975
+ ontologi: 0.02386437009656355
+ organiz: 0.012899659511655975
+ pim: 0.029346725389017347
+ process: 0.02587456703712994
+ product: 0.04110637749133072
+ repositori: 0.033184374093734995
+ result: 0.02386437009656355
+ rich: 0.012899659511655975
+ semant: 0.012899659511655975
+ stateofart: 0.012899659511655975
+ supplier: 0.02386437009656355
+ system: 0.03784437609232072
+ technologi: 0.020712015803402622
+ unit: 0.02386437009656355
+ web: 0.018382014804109767
+
+N-grams list: 10
+ master data manag
+ product inform manag
+ master data
+ semant web commun
+ product inform
+ rich busi context
+ core busi entiti
+ semant pim system
+ collabor pim system
+ busi process
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

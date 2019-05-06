@@ -1,0 +1,76 @@
+File name: 14122983
+
+Graph edges count: 22
+ branch - side: 1
+ coher - pictur: 1
+ complex - stori: 1
+ concis - structur: 1
+ effici - method: 1
+ good - map: 1
+ inform - map: 1
+ metro - map: 2
+ optim - problem: 1
+ pilot - user: 1
+ realworld - dataset: 1
+ salient - piec: 1
+ side - stori: 1
+ singl - coher: 1
+ stori - develop: 1
+ stori - spaghetti: 1
+ structur - set: 1
+ structur - summari: 1
+ theoret - guarante: 1
+ unfamiliar - territori: 1
+ user - interac: 1
+ user - studi: 1
+
+PageRank scores count: 33
+ branch: 0.018484587320035207
+ coher: 0.034196486542065134
+ complex: 0.018484587320035207
+ concis: 0.018484587320035207
+ dataset: 0.034196486542065134
+ develop: 0.04537157486373392
+ effici: 0.018484587320035207
+ good: 0.018484587320035207
+ guarante: 0.034196486542065134
+ inform: 0.018484587320035207
+ interac: 0.033018094100412884
+ map: 0.06562028498612497
+ method: 0.034196486542065134
+ metro: 0.018484587320035207
+ optim: 0.018484587320035207
+ pictur: 0.04755160088079058
+ piec: 0.034196486542065134
+ pilot: 0.018484587320035207
+ problem: 0.034196486542065134
+ realworld: 0.018484587320035207
+ salient: 0.018484587320035207
+ set: 0.033018094100412884
+ side: 0.034196486542065134
+ singl: 0.018484587320035207
+ spaghetti: 0.04537157486373392
+ stori: 0.0632635001028205
+ structur: 0.034196486542065134
+ studi: 0.033018094100412884
+ summari: 0.033018094100412884
+ territori: 0.034196486542065134
+ theoret: 0.018484587320035207
+ unfamiliar: 0.018484587320035207
+ user: 0.034196486542065134
+
+N-grams list: 10
+ complex stori spaghetti
+ branch side stori
+ stori develop
+ singl coher pictur
+ pilot user studi
+ concis structur set
+ inform map
+ good map
+ metro map
+ structur summari
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

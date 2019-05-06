@@ -1,0 +1,74 @@
+File name: 11081679
+
+Graph edges count: 24
+ aprioristyl - algorithm: 1
+ attribut - position: 1
+ attribut - valu: 2
+ content - redund: 2
+ effici - aprioristyl: 1
+ experiment - studi: 1
+ extens - experiment: 1
+ extrac - approach: 2
+ fix - position: 1
+ inform - extrac: 1
+ initi - site: 1
+ match - valu: 1
+ noisi - attribut: 1
+ position - configur: 1
+ reallif - web: 1
+ seed - databas: 1
+ seed - set: 1
+ structur - data: 1
+ suffici - match: 1
+ templatebas - site: 1
+ templatebas - web: 1
+ web - data: 1
+ web - inform: 1
+ web - site: 1
+
+PageRank scores count: 29
+ algorithm: 0.049233818633465286
+ approach: 0.05814684233613194
+ aprioristyl: 0.03540624469267668
+ attribut: 0.03540624469267668
+ configur: 0.06202432452869474
+ content: 0.0191385106446901
+ data: 0.04774260967906651
+ databas: 0.027272377668683394
+ effici: 0.0191385106446901
+ experiment: 0.03540624469267668
+ extens: 0.0191385106446901
+ extrac: 0.045892154931108035
+ fix: 0.0191385106446901
+ inform: 0.031474875631079924
+ initi: 0.0191385106446901
+ match: 0.03540624469267668
+ noisi: 0.0191385106446901
+ position: 0.05045389868706428
+ reallif: 0.0191385106446901
+ redund: 0.03540624469267668
+ seed: 0.0191385106446901
+ set: 0.027272377668683394
+ site: 0.0558764767030598
+ structur: 0.0191385106446901
+ studi: 0.049233818633465286
+ suffici: 0.0191385106446901
+ templatebas: 0.0191385106446901
+ valu: 0.06428147262785287
+ web: 0.04354011171666998
+
+N-grams list: 10
+ attribut position configur
+ web inform extrac
+ suffici match valu
+ templatebas web site
+ reallif web data
+ extrac approach
+ effici aprioristyl algorithm
+ extens experiment studi
+ attribut valu
+ templatebas site
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

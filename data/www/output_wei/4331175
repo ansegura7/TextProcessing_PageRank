@@ -1,0 +1,62 @@
+File name: 4331175
+
+Graph edges count: 18
+ annot - corpu: 1
+ annot - result: 1
+ benchmark - dataset: 1
+ essenti - part: 1
+ extrac - process: 2
+ extrac - recent: 1
+ hierarch - learn: 1
+ hierarch - perceptronlik: 1
+ inform - extrac: 3
+ learn - approach: 1
+ learn - system: 1
+ ontologi - structur: 1
+ ontologybas - inform: 2
+ perceptronlik - learn: 1
+ recent - work: 1
+ semant - annot: 1
+ stateoftheart - learn: 1
+ target - ontologi: 2
+
+PageRank scores count: 23
+ annot: 0.04458021328318662
+ approach: 0.059801494551650326
+ benchmark: 0.02409741258550628
+ corpu: 0.0430440032308606
+ dataset: 0.04458021328318662
+ essenti: 0.02409741258550628
+ extrac: 0.06199059387621491
+ hierarch: 0.02409741258550628
+ inform: 0.04458021328318662
+ learn: 0.08400960462622127
+ ontologi: 0.04458021328318662
+ ontologybas: 0.02409741258550628
+ part: 0.04458021328318662
+ perceptronlik: 0.03433881293434645
+ process: 0.059225415782028064
+ recent: 0.04166141418376717
+ result: 0.0430440032308606
+ semant: 0.02409741258550628
+ stateoftheart: 0.02409741258550628
+ structur: 0.06199059387621491
+ system: 0.059801494551650326
+ target: 0.02409741258550628
+ work: 0.059509614641708376
+
+N-grams list: 10
+ stateoftheart learn system
+ hierarch learn approach
+ inform extrac process
+ hierarch perceptronlik learn
+ ontologybas inform extrac
+ extrac process
+ semant annot result
+ ontologi structur
+ recent work
+ annot corpu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

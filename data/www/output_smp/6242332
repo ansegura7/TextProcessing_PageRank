@@ -1,0 +1,71 @@
+File name: 6242332
+
+Graph edges count: 22
+ author - environ: 2
+ author - tool: 1
+ builtin - compon: 2
+ clip - approach: 1
+ clip - web: 1
+ depend - web: 1
+ dynam - assess: 1
+ endus - site: 1
+ endus - support: 1
+ inform - stockquot: 1
+ limit - set: 1
+ multipl - marker: 1
+ popular - web: 1
+ preliminari - studi: 1
+ recent - survei: 1
+ target - clip: 1
+ target - web: 1
+ weather - inform: 1
+ web - author: 3
+ web - clip: 1
+ web - site: 2
+ web - sourc: 2
+
+PageRank scores count: 28
+ approach: 0.04300217096034496
+ assess: 0.040260205432276215
+ author: 0.04072726103058057
+ builtin: 0.02176227320663579
+ clip: 0.04997622714340078
+ compon: 0.040260205432276215
+ depend: 0.02176227320663579
+ dynam: 0.02176227320663579
+ endus: 0.02176227320663579
+ environ: 0.039071360362396376
+ inform: 0.040260205432276215
+ limit: 0.02176227320663579
+ marker: 0.040260205432276215
+ multipl: 0.02176227320663579
+ popular: 0.02176227320663579
+ preliminari: 0.02176227320663579
+ recent: 0.02176227320663579
+ set: 0.040260205432276215
+ site: 0.04997622714340078
+ sourc: 0.04072726103058057
+ stockquot: 0.055983447824070574
+ studi: 0.040260205432276215
+ support: 0.031011239319456003
+ survei: 0.040260205432276215
+ target: 0.02176227320663579
+ tool: 0.039071360362396376
+ weather: 0.02176227320663579
+ web: 0.08924700152444602
+
+N-grams list: 10
+ web author environ
+ depend web clip
+ target web site
+ popular web author
+ web site
+ web sourc
+ weather inform stockquot
+ clip approach
+ endus site
+ target clip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

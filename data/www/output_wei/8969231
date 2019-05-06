@@ -1,0 +1,58 @@
+File name: 8969231
+
+Graph edges count: 14
+ blind - user: 2
+ googl - interfac: 2
+ googl - ui: 1
+ project - focu: 1
+ remot - test: 1
+ research - project: 1
+ result - page: 1
+ screen - reader: 1
+ search - engin: 1
+ search - tool: 1
+ simpl - search: 1
+ specif - guidelin: 1
+ voic - synthes: 1
+ web - search: 1
+
+PageRank scores count: 23
+ blind: 0.028274545840107454
+ engin: 0.06071958719163075
+ focu: 0.07273626917367643
+ googl: 0.028274545840107454
+ guidelin: 0.05230790980419879
+ interfac: 0.04429678848283501
+ page: 0.05230790980419879
+ project: 0.05230790980419879
+ reader: 0.05230790980419879
+ remot: 0.028274545840107454
+ research: 0.028274545840107454
+ result: 0.028274545840107454
+ screen: 0.028274545840107454
+ search: 0.07634127376829011
+ simpl: 0.028274545840107454
+ specif: 0.028274545840107454
+ synthes: 0.05230790980419879
+ test: 0.05230790980419879
+ tool: 0.06071958719163075
+ ui: 0.03628566716147123
+ user: 0.05230790980419879
+ voic: 0.028274545840107454
+ web: 0.028274545840107454
+
+N-grams list: 10
+ web search tool
+ research project focu
+ search engin
+ simpl search
+ blind user
+ result page
+ remot test
+ specif guidelin
+ voic synthes
+ screen reader
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

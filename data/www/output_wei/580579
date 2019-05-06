@@ -1,0 +1,32 @@
+File name: 580579
+
+Graph edges count: 6
+ algorithm - rb: 1
+ backstep - featur: 1
+ back - step: 1
+ linkbas - rank: 1
+ random - surfer: 1
+ rank - algorithm: 1
+
+PageRank scores count: 10
+ algorithm: 0.14992023194655907
+ back: 0.05827802991119886
+ backstep: 0.05827802991119886
+ featur: 0.10781435533571788
+ linkbas: 0.05827802991119886
+ random: 0.05827802991119886
+ rank: 0.10781435533571788
+ rb: 0.18571022706577406
+ step: 0.10781435533571788
+ surfer: 0.10781435533571788
+
+N-grams list: 5
+ linkbas rank algorithm
+ rb
+ backstep featur
+ back step
+ random surfer
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

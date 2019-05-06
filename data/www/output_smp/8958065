@@ -1,0 +1,65 @@
+File name: 8958065
+
+Graph edges count: 19
+ agent - system: 3
+ autom - web: 1
+ base - metadata: 1
+ discoveri - execu: 1
+ execu - composi: 1
+ frontend - agent: 2
+ integr - frontend: 1
+ knowledg - represent: 1
+ ontologi - manag: 1
+ ontologi - share: 1
+ represent - languag: 1
+ research - area: 1
+ semant - web: 1
+ servic - discoveri: 1
+ servic - task: 1
+ sw - manag: 1
+ urgent - research: 1
+ web - servic: 4
+ xml - base: 1
+
+PageRank scores count: 25
+ agent: 0.05145312352618007
+ area: 0.05145312352618007
+ autom: 0.02000121419870945
+ base: 0.03700224626761248
+ composi: 0.07168977076714664
+ discoveri: 0.048010414532227194
+ execu: 0.06081006655110257
+ frontend: 0.03700224626761248
+ integr: 0.02000121419870945
+ knowledg: 0.02000121419870945
+ languag: 0.05145312352618007
+ manag: 0.045502762302064
+ metadata: 0.05145312352618007
+ ontologi: 0.02000121419870945
+ represent: 0.03700224626761248
+ research: 0.03700224626761248
+ semant: 0.02000121419870945
+ servic: 0.06590400078474765
+ share: 0.02850173023316097
+ sw: 0.02000121419870945
+ system: 0.06373636919596251
+ task: 0.048010414532227194
+ urgent: 0.02000121419870945
+ web: 0.05400327833651552
+ xml: 0.02000121419870945
+
+N-grams list: 10
+ discoveri execu composi
+ web servic task
+ frontend agent system
+ semant web servic
+ autom web servic
+ web servic
+ agent system
+ integr frontend agent
+ urgent research area
+ knowledg represent languag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

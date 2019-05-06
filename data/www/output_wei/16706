@@ -1,0 +1,58 @@
+File name: 16706
+
+Graph edges count: 17
+ connect - sensorequip: 1
+ handheld - devic: 1
+ identifi - resolu: 3
+ local - context: 1
+ nomad - user: 1
+ physic - entiti: 2
+ physic - hyperlink: 2
+ physic - world: 1
+ resolu - identifi: 1
+ resolu - servic: 2
+ sensorequip - devic: 1
+ ubiquit - identifi: 1
+ virtual - resourc: 1
+ virtual - web: 1
+ virtual - world: 1
+ web - formfil: 1
+ web - resourc: 2
+
+PageRank scores count: 20
+ connect: 0.029514009511243163
+ context: 0.05460091759579985
+ devic: 0.10101169755222972
+ entiti: 0.03954877274506584
+ formfil: 0.04024563130297019
+ handheld: 0.029514009511243163
+ hyperlink: 0.03954877274506584
+ identifi: 0.08293728894625858
+ local: 0.029514009511243163
+ nomad: 0.029514009511243163
+ physic: 0.029514009511243163
+ resolu: 0.10001070331149575
+ resourc: 0.05933955578954945
+ sensorequip: 0.05460091759579985
+ servic: 0.08618675221216063
+ ubiquit: 0.029514009511243163
+ user: 0.05460091759579985
+ virtual: 0.029514009511243163
+ web: 0.03787631220609539
+ world: 0.04289369382300673
+
+N-grams list: 10
+ ubiquit identifi resolu
+ resolu servic
+ connect sensorequip devic
+ identifi resolu
+ handheld devic
+ virtual web resourc
+ web resourc
+ virtual resourc
+ servic
+ nomad user
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

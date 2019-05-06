@@ -1,0 +1,57 @@
+File name: 254542
+
+Graph edges count: 14
+ automat - extrac: 1
+ biologi - experi: 1
+ build - domain: 1
+ difficult - task: 1
+ domain - ontologi: 5
+ extrac - method: 2
+ help - tool: 1
+ learn - domain: 1
+ reason - task: 1
+ semant - web: 1
+ servic - descrip: 4
+ textual - document: 1
+ time - consum: 1
+ web - servic: 6
+
+PageRank scores count: 22
+ automat: 0.026228390265332965
+ biologi: 0.026228390265332965
+ build: 0.026228390265332965
+ consum: 0.04852252199086598
+ descrip: 0.08358004412926666
+ difficult: 0.026228390265332965
+ document: 0.04852252199086598
+ domain: 0.070816653716399
+ experi: 0.04852252199086598
+ extrac: 0.04852252199086598
+ help: 0.026228390265332965
+ learn: 0.026228390265332965
+ method: 0.06747253395756905
+ ontologi: 0.08642254592427212
+ reason: 0.026228390265332965
+ semant: 0.026228390265332965
+ servic: 0.06747253395756905
+ task: 0.070816653716399
+ textual: 0.026228390265332965
+ time: 0.026228390265332965
+ tool: 0.04852252199086598
+ web: 0.04852252199086598
+
+N-grams list: 10
+ web servic descrip
+ build domain ontologi
+ learn domain ontologi
+ domain ontologi
+ automat extrac method
+ semant web servic
+ web servic
+ extrac method
+ difficult task
+ reason task
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

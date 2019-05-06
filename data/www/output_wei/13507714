@@ -1,0 +1,58 @@
+File name: 13507714
+
+Graph edges count: 15
+ classif - label: 1
+ classif - model: 1
+ class - label: 1
+ color - palett: 1
+ graphbas - approach: 1
+ graphbas - classif: 1
+ heterogen - network: 2
+ multilabel - classif: 1
+ mutual - influenc: 1
+ node - label: 1
+ node - type: 1
+ perform - gain: 1
+ random - surfer: 1
+ random - walk: 1
+ stateoftheart - techniqu: 1
+
+PageRank scores count: 22
+ approach: 0.04393571511157362
+ class: 0.03083208078005166
+ classif: 0.07014298377461753
+ color: 0.03083208078005166
+ gain: 0.05703934944309557
+ graphbas: 0.03083208078005166
+ heterogen: 0.03083208078005166
+ influenc: 0.05703934944309557
+ label: 0.09995375187882997
+ model: 0.060642848884264106
+ multilabel: 0.03083208078005166
+ mutual: 0.03083208078005166
+ network: 0.05703934944309557
+ node: 0.03083208078005166
+ palett: 0.05703934944309557
+ perform: 0.03083208078005166
+ random: 0.03083208078005166
+ stateoftheart: 0.03083208078005166
+ surfer: 0.04393571511157362
+ techniqu: 0.05703934944309557
+ type: 0.04393571511157362
+ walk: 0.04393571511157362
+
+N-grams list: 10
+ classif label
+ multilabel classif model
+ node label
+ class label
+ graphbas classif
+ mutual influenc
+ stateoftheart techniqu
+ heterogen network
+ color palett
+ perform gain
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

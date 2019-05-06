@@ -1,0 +1,84 @@
+File name: 734068
+
+Graph edges count: 25
+ analyt - behavior: 1
+ analyt - justif: 1
+ analyt - method: 1
+ closedform - formula: 1
+ factor - pagerank: 1
+ factor - î: 1
+ graph - valu: 1
+ iter - comput: 1
+ kth - deriv: 1
+ kth - iter: 1
+ maclaurin - polynomi: 1
+ markov - chain: 1
+ mathemat - analysi: 1
+ meaning - rank: 1
+ origin - sugges: 1
+ pagerank - deriv: 1
+ popular - belief: 1
+ power - method: 2
+ realworld - graph: 1
+ stationari - state: 1
+ sugges - î: 1
+ tight - connec: 1
+ tk - ît: 1
+ transition - matrix: 1
+ web - graph: 1
+
+PageRank scores count: 38
+ analysi: 0.03149472250595845
+ analyt: 0.01702417432754511
+ behavior: 0.021847690387016224
+ belief: 0.03149472250595845
+ chain: 0.03149472250595845
+ closedform: 0.01702417432754511
+ comput: 0.03764470548178411
+ connec: 0.03149472250595845
+ deriv: 0.04487997957099078
+ factor: 0.01702417432754511
+ formula: 0.03149472250595845
+ graph: 0.04596527068437179
+ iter: 0.02425944841675178
+ justif: 0.021847690387016224
+ kth: 0.01702417432754511
+ maclaurin: 0.01702417432754511
+ markov: 0.01702417432754511
+ mathemat: 0.01702417432754511
+ matrix: 0.03149472250595845
+ meaning: 0.01702417432754511
+ method: 0.03631823856542956
+ origin: 0.01702417432754511
+ pagerank: 0.02425944841675178
+ polynomi: 0.03149472250595845
+ popular: 0.01702417432754511
+ power: 0.01702417432754511
+ rank: 0.03149472250595845
+ realworld: 0.01702417432754511
+ state: 0.03149472250595845
+ stationari: 0.01702417432754511
+ sugges: 0.03149472250595845
+ tight: 0.01702417432754511
+ tk: 0.01702417432754511
+ transition: 0.01702417432754511
+ valu: 0.05609465440926113
+ web: 0.01702417432754511
+ î: 0.05102996254681646
+ ît: 0.03149472250595845
+
+N-grams list: 10
+ realworld graph valu
+ origin sugges î
+ pagerank deriv
+ factor î
+ web graph
+ iter comput
+ kth deriv
+ power method
+ analyt method
+ î
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

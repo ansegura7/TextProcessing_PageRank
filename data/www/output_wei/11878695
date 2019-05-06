@@ -1,0 +1,87 @@
+File name: 11878695
+
+Graph edges count: 27
+ api - interac: 1
+ estim - error: 1
+ extern - inform: 1
+ facebook - imdb: 1
+ good - size: 1
+ high - probabl: 1
+ independ - estim: 1
+ networklik - graph: 1
+ node - sampl: 1
+ nonuniqu - node: 1
+ obviou - traffic: 1
+ onlin - social: 1
+ priorart - algorithm: 1
+ privaci - concern: 1
+ public - api: 1
+ random - node: 1
+ real - social: 1
+ recent - year: 1
+ sampl - onlin: 1
+ size - estim: 2
+ social - network: 5
+ social - networklik: 1
+ sociolog - purpos: 1
+ suggest - algorithm: 1
+ theoret - result: 1
+ undirect - graph: 1
+ work - algorithm: 1
+
+PageRank scores count: 39
+ algorithm: 0.04767606204521837
+ api: 0.024845271770043375
+ concern: 0.024845271770043375
+ error: 0.05249906649084909
+ estim: 0.045963752774580244
+ extern: 0.013429876632455878
+ facebook: 0.013429876632455878
+ good: 0.013429876632455878
+ graph: 0.0444769772278547
+ high: 0.013429876632455878
+ imdb: 0.024845271770043375
+ independ: 0.013429876632455878
+ inform: 0.024845271770043375
+ interac: 0.034548357636992745
+ network: 0.06176111381024312
+ networklik: 0.023096124068013327
+ node: 0.03626066690763087
+ nonuniqu: 0.013429876632455878
+ obviou: 0.013429876632455878
+ onlin: 0.051043603610806676
+ priorart: 0.013429876632455878
+ privaci: 0.013429876632455878
+ probabl: 0.024845271770043375
+ public: 0.013429876632455878
+ purpos: 0.024845271770043375
+ random: 0.013429876632455878
+ real: 0.013429876632455878
+ recent: 0.013429876632455878
+ result: 0.024845271770043375
+ sampl: 0.04425144350394212
+ size: 0.024845271770043375
+ social: 0.06823233483922905
+ sociolog: 0.013429876632455878
+ suggest: 0.013429876632455878
+ theoret: 0.013429876632455878
+ traffic: 0.024845271770043375
+ undirect: 0.013429876632455878
+ work: 0.013429876632455878
+ year: 0.024845271770043375
+
+N-grams list: 10
+ sampl onlin social
+ real social network
+ social networklik graph
+ social network
+ estim error
+ random node sampl
+ good size estim
+ size estim
+ network
+ suggest algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

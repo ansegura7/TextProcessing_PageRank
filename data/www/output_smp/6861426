@@ -1,0 +1,57 @@
+File name: 6861426
+
+Graph edges count: 14
+ clickthrough - data: 1
+ engin - user: 1
+ extens - studi: 1
+ genealog - tree: 2
+ measur - docum: 1
+ page - relev: 1
+ real - queri: 1
+ relev - measur: 1
+ search - engin: 2
+ signific - fraction: 1
+ textual - content: 1
+ user - perspect: 1
+ web - genealog: 1
+ web - snapshot: 1
+
+PageRank scores count: 22
+ clickthrough: 0.02664570537843564
+ content: 0.04929455495010593
+ data: 0.04929455495010593
+ docum: 0.08490987090155748
+ engin: 0.04929455495010593
+ extens: 0.02664570537843564
+ fraction: 0.04929455495010593
+ genealog: 0.03797013016427079
+ measur: 0.06854607708602568
+ page: 0.02664570537843564
+ perspect: 0.08490987090155748
+ queri: 0.04929455495010593
+ real: 0.02664570537843564
+ relev: 0.04929455495010593
+ search: 0.02664570537843564
+ signific: 0.02664570537843564
+ snapshot: 0.03797013016427079
+ studi: 0.04929455495010593
+ textual: 0.02664570537843564
+ tree: 0.05892031601806581
+ user: 0.06854607708602568
+ web: 0.02664570537843564
+
+N-grams list: 10
+ search engin user
+ page relev measur
+ web genealog tree
+ genealog tree
+ docum
+ perspect
+ clickthrough data
+ search engin
+ extens studi
+ textual content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

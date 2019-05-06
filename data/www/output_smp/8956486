@@ -1,0 +1,62 @@
+File name: 8956486
+
+Graph edges count: 18
+ adapt - domain: 1
+ adapt - engin: 2
+ adapt - servic: 1
+ automat - adapt: 1
+ consum - devic: 1
+ descrip - match: 1
+ domain - knowledg: 1
+ domain - ontologi: 1
+ format - demand: 1
+ knowledgebas - engin: 1
+ media - adapt: 3
+ multimedia - format: 1
+ multistep - media: 1
+ origin - content: 1
+ semant - web: 1
+ singl - domain: 1
+ target - devic: 1
+ web - servic: 1
+
+PageRank scores count: 23
+ adapt: 0.08242345012380327
+ automat: 0.024082819612506433
+ consum: 0.024082819612506433
+ content: 0.0445532162831369
+ demand: 0.0619530534531728
+ descrip: 0.024082819612506433
+ devic: 0.06502361295376737
+ domain: 0.06790652715154781
+ engin: 0.06790652715154781
+ format: 0.0445532162831369
+ knowledg: 0.052943093651914255
+ knowledgebas: 0.024082819612506433
+ match: 0.0445532162831369
+ media: 0.0445532162831369
+ multimedia: 0.024082819612506433
+ multistep: 0.024082819612506433
+ ontologi: 0.052943093651914255
+ origin: 0.024082819612506433
+ semant: 0.024082819612506433
+ servic: 0.08530636432158373
+ singl: 0.024082819612506433
+ target: 0.024082819612506433
+ web: 0.0445532162831369
+
+N-grams list: 10
+ media adapt domain
+ automat adapt engin
+ adapt servic
+ semant web servic
+ multistep media adapt
+ adapt engin
+ singl domain ontologi
+ multimedia format demand
+ media adapt
+ domain knowledg
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

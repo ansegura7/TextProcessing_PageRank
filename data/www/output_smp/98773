@@ -1,0 +1,46 @@
+File name: 98773
+
+Graph edges count: 11
+ 3g - mobil: 1
+ addition - task: 1
+ devic - independ: 1
+ independ - mobil: 1
+ interac - manag: 4
+ mobil - applic: 1
+ mobil - phone: 1
+ multimod - applic: 1
+ multimod - interac: 1
+ phone - network: 1
+ wlan - environ: 1
+
+PageRank scores count: 14
+ 3g: 0.03841831324155599
+ addition: 0.03841831324155599
+ applic: 0.11062793412363808
+ devic: 0.03841831324155599
+ environ: 0.07107387949687857
+ independ: 0.07107387949687857
+ interac: 0.05474609636921728
+ manag: 0.08495249515539068
+ mobil: 0.13148667706922537
+ multimod: 0.03841831324155599
+ network: 0.11857344158813625
+ phone: 0.09430015099597677
+ task: 0.07107387949687857
+ wlan: 0.03841831324155599
+
+N-grams list: 10
+ 3g mobil phone
+ devic independ mobil
+ multimod interac manag
+ multimod applic
+ interac manag
+ network
+ applic
+ wlan environ
+ addition task
+ task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

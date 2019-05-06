@@ -1,0 +1,71 @@
+File name: 11556066
+
+Graph edges count: 20
+ attribut - grammar: 1
+ cpuintens - program: 1
+ css - selector: 1
+ devic - webpag: 1
+ fast - layout: 1
+ font - render: 1
+ hardwaredriven - speedup: 1
+ kei - compon: 1
+ layout - engin: 1
+ layout - problem: 1
+ match - layout: 1
+ mobil - devic: 2
+ parallel - architectur: 1
+ parallel - webpag: 1
+ popular - site: 1
+ power - constraint: 1
+ selector - match: 1
+ signific - time: 1
+ webpag - layout: 1
+ web - browser: 1
+
+PageRank scores count: 30
+ architectur: 0.026134165469614896
+ attribut: 0.018339765241835015
+ browser: 0.033928565697394775
+ compon: 0.033928565697394775
+ constraint: 0.033928565697394775
+ cpuintens: 0.018339765241835015
+ css: 0.018339765241835015
+ devic: 0.033928565697394775
+ engin: 0.06966199354165165
+ fast: 0.018339765241835015
+ font: 0.018339765241835015
+ grammar: 0.033928565697394775
+ hardwaredriven: 0.018339765241835015
+ kei: 0.018339765241835015
+ layout: 0.12075818423486266
+ match: 0.04717904608462058
+ mobil: 0.018339765241835015
+ parallel: 0.018339765241835015
+ popular: 0.018339765241835015
+ power: 0.018339765241835015
+ problem: 0.06966199354165165
+ program: 0.033928565697394775
+ render: 0.033928565697394775
+ selector: 0.033928565697394775
+ signific: 0.018339765241835015
+ site: 0.033928565697394775
+ speedup: 0.033928565697394775
+ time: 0.033928565697394775
+ web: 0.018339765241835015
+ webpag: 0.054973446312400455
+
+N-grams list: 10
+ fast layout engin
+ parallel webpag layout
+ layout problem
+ layout
+ mobil devic webpag
+ css selector match
+ hardwaredriven speedup
+ power constraint
+ font render
+ popular site
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

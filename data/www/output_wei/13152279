@@ -1,0 +1,42 @@
+File name: 13152279
+
+Graph edges count: 9
+ categori - structur: 1
+ central - topic: 1
+ commun - detec: 1
+ commun - structur: 1
+ detec - analysi: 1
+ distinct - commun: 1
+ relat - articl: 1
+ wikipedia - categori: 1
+ wikipedia - graph: 1
+
+PageRank scores count: 12
+ analysi: 0.12781973968461421
+ articl: 0.09389879866638326
+ categori: 0.07232745302680874
+ central: 0.0507561073872342
+ commun: 0.09389879866638326
+ detec: 0.09066309682044708
+ distinct: 0.0507561073872342
+ graph: 0.07232745302680874
+ relat: 0.0507561073872342
+ structur: 0.1521414318932345
+ topic: 0.09389879866638326
+ wikipedia: 0.0507561073872342
+
+N-grams list: 10
+ commun detec analysi
+ wikipedia categori structur
+ commun structur
+ relat articl
+ distinct commun
+ central topic
+ analysi
+ wikipedia graph
+ commun
+ wikipedia
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

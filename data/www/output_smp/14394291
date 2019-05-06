@@ -1,0 +1,100 @@
+File name: 14394291
+
+Graph edges count: 34
+ access - control: 1
+ cach - proxi: 2
+ cdn - server: 1
+ content - integr: 1
+ control - polici: 1
+ effici - design: 1
+ endtoend - secur: 1
+ endtoend - web: 2
+ evalu - experi: 1
+ http - content: 1
+ http - web: 1
+ integr - widespread: 1
+ intermedi - server: 1
+ leverag - cach: 1
+ maninthemiddl - attack: 1
+ mixedcont - problem: 1
+ mix - content: 1
+ neglig - perform: 1
+ open - wireless: 1
+ perform - cost: 1
+ perform - overhead: 1
+ practic - endtoend: 1
+ previouslyunidentifi - challeng: 1
+ progress - page: 1
+ protocol - httpi: 1
+ server - vendor: 1
+ univers - adop: 1
+ web - content: 1
+ web - infrastructur: 1
+ web - integr: 1
+ web - server: 1
+ web - site: 2
+ widespread - growth: 1
+ wireless - hotspot: 1
+
+PageRank scores count: 45
+ access: 0.012404368201370964
+ adop: 0.022948081172536283
+ attack: 0.022948081172536283
+ cach: 0.022948081172536283
+ cdn: 0.012404368201370964
+ challeng: 0.022948081172536283
+ content: 0.0328828947196168
+ control: 0.022948081172536283
+ cost: 0.022157302699698882
+ design: 0.022948081172536283
+ effici: 0.012404368201370964
+ endtoend: 0.022948081172536283
+ evalu: 0.012404368201370964
+ experi: 0.022948081172536283
+ growth: 0.055473431394643676
+ hotspot: 0.031910237198026804
+ http: 0.012404368201370964
+ httpi: 0.022948081172536283
+ infrastructur: 0.017067325262868825
+ integr: 0.04501778577454311
+ intermedi: 0.012404368201370964
+ leverag: 0.012404368201370964
+ maninthemiddl: 0.012404368201370964
+ mix: 0.012404368201370964
+ mixedcont: 0.012404368201370964
+ neglig: 0.012404368201370964
+ open: 0.012404368201370964
+ overhead: 0.022157302699698882
+ page: 0.022948081172536283
+ perform: 0.022948081172536283
+ polici: 0.031910237198026804
+ practic: 0.012404368201370964
+ previouslyunidentifi: 0.012404368201370964
+ problem: 0.022948081172536283
+ progress: 0.012404368201370964
+ protocol: 0.012404368201370964
+ proxi: 0.031910237198026804
+ secur: 0.022157302699698882
+ server: 0.03815475120519946
+ site: 0.017067325262868825
+ univers: 0.012404368201370964
+ vendor: 0.044835906725790506
+ web: 0.02742915918528154
+ widespread: 0.050669486109732605
+ wireless: 0.022948081172536283
+
+N-grams list: 10
+ content integr widespread
+ web server vendor
+ endtoend web integr
+ access control polici
+ open wireless hotspot
+ practic endtoend web
+ neglig perform overhead
+ http web site
+ growth
+ cach proxi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

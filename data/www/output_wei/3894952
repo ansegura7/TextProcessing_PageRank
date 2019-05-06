@@ -1,0 +1,80 @@
+File name: 3894952
+
+Graph edges count: 26
+ advert - spammer: 1
+ commerci - keyword: 1
+ doorwai - page: 1
+ doublefunnel - model: 1
+ endtoend - redirec: 1
+ engin - optim: 1
+ fivelay - doublefunnel: 1
+ legitim - advert: 1
+ legitim - websit: 1
+ preval - type: 1
+ promin - domain: 1
+ question - search: 1
+ rank - algorithm: 1
+ redirec - spam: 2
+ search - engin: 2
+ search - result: 1
+ spam - doorwai: 1
+ spam - doublefunnel: 1
+ spam - link: 1
+ spam - page: 2
+ target - spammer: 1
+ thirdparti - domain: 1
+ top - search: 1
+ unscrupul - syndic: 1
+ websit - owner: 1
+ web - spammer: 1
+
+PageRank scores count: 33
+ advert: 0.024635618670185728
+ algorithm: 0.031983083887609544
+ commerci: 0.017288153452761915
+ domain: 0.046678014322457176
+ doorwai: 0.02484869516149102
+ doublefunnel: 0.039543625596338644
+ endtoend: 0.017288153452761915
+ engin: 0.04373902823548765
+ fivelay: 0.017288153452761915
+ keyword: 0.031983083887609544
+ legitim: 0.017288153452761915
+ link: 0.02484869516149102
+ model: 0.050900235209649765
+ optim: 0.05446632745292642
+ owner: 0.03822842932241978
+ page: 0.05353062775748749
+ preval: 0.017288153452761915
+ promin: 0.017288153452761915
+ question: 0.017288153452761915
+ rank: 0.017288153452761915
+ redirec: 0.031983083887609544
+ result: 0.030513590844124784
+ search: 0.046678014322457176
+ spam: 0.04447377475723003
+ spammer: 0.06761829019211504
+ syndic: 0.031983083887609544
+ target: 0.017288153452761915
+ thirdparti: 0.017288153452761915
+ top: 0.017288153452761915
+ type: 0.031983083887609544
+ unscrupul: 0.017288153452761915
+ web: 0.017288153452761915
+ websit: 0.024635618670185728
+
+N-grams list: 10
+ spam doorwai page
+ fivelay doublefunnel model
+ question search engin
+ spam page
+ top search result
+ endtoend redirec spam
+ advert spammer
+ search engin
+ target spammer
+ web spammer
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

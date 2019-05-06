@@ -1,0 +1,56 @@
+File name: 13519640
+
+Graph edges count: 15
+ ad - system: 1
+ bid - amount: 1
+ busi - model: 1
+ ctr - impact: 1
+ impact - publish: 1
+ import - metric: 1
+ job - featur: 1
+ job - list: 3
+ job - option: 1
+ job - portal: 1
+ portal - recommend: 1
+ recommend - system: 1
+ regres - model: 1
+ revenu - advert: 1
+ system - job: 1
+
+PageRank scores count: 20
+ ad: 0.025796721456364063
+ advert: 0.047723934694273516
+ amount: 0.047723934694273516
+ bid: 0.025796721456364063
+ busi: 0.025796721456364063
+ ctr: 0.025796721456364063
+ featur: 0.0504420276563647
+ impact: 0.047723934694273516
+ import: 0.025796721456364063
+ job: 0.11597792198231485
+ list: 0.0504420276563647
+ metric: 0.047723934694273516
+ model: 0.06965114793218297
+ option: 0.0504420276563647
+ portal: 0.0504420276563647
+ publish: 0.06636206594649656
+ recommend: 0.06867244496427405
+ regres: 0.025796721456364063
+ revenu: 0.025796721456364063
+ system: 0.10609551957763028
+
+N-grams list: 10
+ ad system job
+ portal recommend system
+ job list
+ job featur
+ job option
+ ctr impact publish
+ job
+ busi model
+ regres model
+ import metric
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

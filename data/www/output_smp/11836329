@@ -1,0 +1,93 @@
+File name: 11836329
+
+Graph edges count: 31
+ aol - music: 1
+ automat - extrac: 1
+ bad - wrapper: 1
+ clickabl - structur: 1
+ comprehens - experi: 1
+ entiti - queri: 1
+ extrac - approach: 1
+ extrac - struclick: 1
+ good - scalabl: 1
+ high - accuraci: 1
+ human - label: 1
+ implicit - label: 2
+ import - observ: 1
+ import - web: 1
+ inform - extrac: 2
+ major - web: 1
+ queri - todai: 1
+ random - user: 1
+ relev - result: 1
+ result - snippet: 1
+ search - engin: 1
+ search - log: 1
+ small - amount: 1
+ structur - inform: 5
+ structur - web: 1
+ user - click: 1
+ user - queri: 1
+ web - content: 2
+ web - page: 1
+ web - search: 2
+ web - site: 3
+
+PageRank scores count: 41
+ accuraci: 0.026774850026071
+ amount: 0.026774850026071
+ aol: 0.014472891905984324
+ approach: 0.03519131156116655
+ automat: 0.014472891905984324
+ bad: 0.014472891905984324
+ click: 0.025852203167064495
+ clickabl: 0.014472891905984324
+ comprehens: 0.014472891905984324
+ content: 0.023887734229763154
+ engin: 0.024625178953633666
+ entiti: 0.014472891905984324
+ experi: 0.026774850026071
+ extrac: 0.048749222718075816
+ good: 0.014472891905984324
+ high: 0.014472891905984324
+ human: 0.014472891905984324
+ implicit: 0.014472891905984324
+ import: 0.014472891905984324
+ inform: 0.025852203167064495
+ label: 0.039076808146157674
+ log: 0.024625178953633666
+ major: 0.014472891905984324
+ music: 0.026774850026071
+ observ: 0.020623870966027663
+ page: 0.023887734229763154
+ queri: 0.03815416128715117
+ random: 0.014472891905984324
+ relev: 0.014472891905984324
+ result: 0.026774850026071
+ scalabl: 0.026774850026071
+ search: 0.023887734229763154
+ site: 0.023887734229763154
+ small: 0.014472891905984324
+ snippet: 0.03723151442814467
+ struclick: 0.03519131156116655
+ structur: 0.026774850026071
+ todai: 0.046903929000062815
+ user: 0.026774850026071
+ web: 0.04430514034719451
+ wrapper: 0.026774850026071
+
+N-grams list: 10
+ inform extrac approach
+ inform extrac struclick
+ entiti queri todai
+ web search log
+ clickabl structur web
+ import web site
+ major web search
+ web content
+ web page
+ web site
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

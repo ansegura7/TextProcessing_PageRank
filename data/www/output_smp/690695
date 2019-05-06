@@ -1,0 +1,106 @@
+File name: 690695
+
+Graph edges count: 38
+ aggreg - sens: 1
+ answer - qualiti: 1
+ consider - size: 1
+ current - content: 1
+ empir - comparison: 1
+ engin - qualiti: 1
+ engin - repositori: 1
+ engin - usag: 1
+ extens - empir: 1
+ exterior - tune: 1
+ import - subproblem: 1
+ inform - access: 1
+ live - web: 1
+ local - repositori: 1
+ page - refresh: 1
+ primari - gatewai: 1
+ prior - web: 1
+ qualiti - level: 1
+ quantit - character: 1
+ queri - answer: 1
+ real - web: 1
+ refresh - strategi: 1
+ scene - search: 1
+ schedul - object: 1
+ schedul - web: 1
+ search - engin: 7
+ search - queri: 1
+ search - repositori: 1
+ size - dynam: 1
+ tune - paramet: 1
+ usercentr - method: 1
+ usercentr - metric: 1
+ usercentr - web: 1
+ user - experi: 2
+ user - search: 1
+ web - data: 1
+ web - page: 7
+ web - todai: 1
+
+PageRank scores count: 47
+ access: 0.022062378865653237
+ aggreg: 0.011925610197650397
+ answer: 0.028596371002903402
+ character: 0.022062378865653237
+ comparison: 0.030678632233455648
+ consider: 0.011925610197650397
+ content: 0.022062378865653237
+ current: 0.011925610197650397
+ data: 0.026314190168065535
+ dynam: 0.030678632233455648
+ empir: 0.022062378865653237
+ engin: 0.019612659770885884
+ experi: 0.016993994531651818
+ extens: 0.011925610197650397
+ exterior: 0.011925610197650397
+ gatewai: 0.022062378865653237
+ import: 0.011925610197650397
+ inform: 0.011925610197650397
+ level: 0.04744663914340596
+ live: 0.011925610197650397
+ local: 0.011925610197650397
+ method: 0.015304533086984677
+ metric: 0.015304533086984677
+ object: 0.016993994531651818
+ page: 0.026314190168065535
+ paramet: 0.030678632233455648
+ primari: 0.011925610197650397
+ prior: 0.011925610197650397
+ qualiti: 0.041789445818535956
+ quantit: 0.011925610197650397
+ queri: 0.019612659770885884
+ real: 0.011925610197650397
+ refresh: 0.034292671840506106
+ repositori: 0.03530634870730639
+ scene: 0.011925610197650397
+ schedul: 0.011925610197650397
+ search: 0.027130763199654653
+ sens: 0.022062378865653237
+ size: 0.022062378865653237
+ strategi: 0.041074381262080586
+ subproblem: 0.022062378865653237
+ todai: 0.026314190168065535
+ tune: 0.022062378865653237
+ usag: 0.017482530466068066
+ user: 0.011925610197650397
+ usercentr: 0.011925610197650397
+ web: 0.05078322342499461
+
+N-grams list: 10
+ queri answer qualiti
+ real web data
+ schedul web page
+ prior web page
+ search engin qualiti
+ search engin repositori
+ web page
+ web todai
+ refresh strategi
+ consider size dynam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

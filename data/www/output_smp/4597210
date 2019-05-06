@@ -1,0 +1,80 @@
+File name: 4597210
+
+Graph edges count: 24
+ case - studi: 1
+ classroombas - teach: 1
+ dalam - talian: 1
+ elearn - initi: 1
+ environ - oper: 1
+ esprint - learn: 1
+ esprint - system: 1
+ gener - issu: 1
+ initi - implement: 1
+ integrasi - notakuliah: 1
+ learn - manag: 1
+ main - modul: 1
+ manag - system: 2
+ mod - elektronik: 1
+ notakuliah - dalam: 1
+ oper - system: 1
+ pengurusan - rangkaian: 1
+ practic - extrac: 1
+ putra - malaysia: 2
+ rangkaian - integrasi: 1
+ report - languag: 1
+ sistem - pengurusan: 1
+ standard - databas: 1
+ univers - putra: 2
+
+PageRank scores count: 35
+ case: 0.014923615401810851
+ classroombas: 0.014923615401810851
+ dalam: 0.061967873877627325
+ databas: 0.027608688493350075
+ elearn: 0.014923615401810851
+ elektronik: 0.027608688493350075
+ environ: 0.014923615401810851
+ esprint: 0.014923615401810851
+ extrac: 0.027608688493350075
+ gener: 0.014923615401810851
+ implement: 0.03839100062115842
+ initi: 0.027608688493350075
+ integrasi: 0.0475559659297955
+ issu: 0.027608688493350075
+ languag: 0.027608688493350075
+ learn: 0.021266151947580466
+ main: 0.014923615401810851
+ malaysia: 0.03839100062115842
+ manag: 0.03299984455725425
+ mod: 0.014923615401810851
+ modul: 0.027608688493350075
+ notakuliah: 0.055346186442137034
+ oper: 0.027608688493350075
+ pengurusan: 0.027608688493350075
+ practic: 0.014923615401810851
+ putra: 0.027608688493350075
+ rangkaian: 0.03839100062115842
+ report: 0.014923615401810851
+ sistem: 0.014923615401810851
+ standard: 0.014923615401810851
+ studi: 0.027608688493350075
+ system: 0.07278340504059413
+ talian: 0.06759630819779408
+ teach: 0.027608688493350075
+ univers: 0.014923615401810851
+
+N-grams list: 10
+ integrasi notakuliah dalam
+ environ oper system
+ manag system
+ esprint system
+ elearn initi implement
+ univers putra malaysia
+ sistem pengurusan rangkaian
+ system
+ esprint learn manag
+ talian
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

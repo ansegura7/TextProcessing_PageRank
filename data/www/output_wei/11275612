@@ -1,0 +1,85 @@
+File name: 11275612
+
+Graph edges count: 25
+ candid - relat: 1
+ column - header: 1
+ databas - attribut: 1
+ databas - tabl: 1
+ databas - tupl: 1
+ databas - vernacular: 1
+ entiti - relat: 1
+ foreign - kei: 2
+ frequent - pattern: 1
+ fundament - compon: 1
+ huge - number: 1
+ power - system: 1
+ relat - discoveri: 1
+ structur - data: 1
+ structur - inform: 1
+ target - page: 1
+ trustworthi - candid: 1
+ typic - type: 1
+ unstructur - text: 1
+ valuabl - structur: 1
+ vast - amount: 1
+ webscal - method: 1
+ web - domain: 1
+ web - tabl: 11
+ worldwid - web: 1
+
+PageRank scores count: 39
+ amount: 0.030717311488066935
+ attribut: 0.020132291988800625
+ candid: 0.030717311488066935
+ column: 0.01660395215571186
+ compon: 0.030717311488066935
+ data: 0.0296588095381403
+ databas: 0.01660395215571186
+ discoveri: 0.06490692447069711
+ domain: 0.018779761719449933
+ entiti: 0.01660395215571186
+ foreign: 0.01660395215571186
+ frequent: 0.01660395215571186
+ fundament: 0.01660395215571186
+ header: 0.030717311488066935
+ huge: 0.01660395215571186
+ inform: 0.0296588095381403
+ kei: 0.030717311488066935
+ method: 0.030717311488066935
+ number: 0.030717311488066935
+ page: 0.030717311488066935
+ pattern: 0.030717311488066935
+ power: 0.01660395215571186
+ relat: 0.05682702625292383
+ structur: 0.030717311488066935
+ system: 0.030717311488066935
+ tabl: 0.04406619718991945
+ target: 0.01660395215571186
+ text: 0.030717311488066935
+ trustworthi: 0.01660395215571186
+ tupl: 0.020132291988800625
+ type: 0.030717311488066935
+ typic: 0.01660395215571186
+ unstructur: 0.01660395215571186
+ valuabl: 0.01660395215571186
+ vast: 0.01660395215571186
+ vernacular: 0.020132291988800625
+ web: 0.030717311488066935
+ webscal: 0.01660395215571186
+ worldwid: 0.01660395215571186
+
+N-grams list: 10
+ entiti relat discoveri
+ candid relat
+ valuabl structur data
+ web tabl
+ databas tabl
+ structur inform
+ relat
+ web domain
+ trustworthi candid
+ webscal method
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

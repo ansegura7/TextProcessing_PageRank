@@ -1,0 +1,72 @@
+File name: 4786762
+
+Graph edges count: 23
+ automat - bid: 1
+ bid - algorithm: 2
+ bid - data: 1
+ bid - optim: 1
+ bid - perform: 1
+ bid - strategi: 2
+ budgetconstrain - advert: 1
+ budgetconstrain - bid: 1
+ competit - ratio: 1
+ keyword - auction: 1
+ knapsack - problem: 3
+ omnisci - bidder: 1
+ onlin - knapsack: 1
+ optim - competit: 1
+ optim - problem: 1
+ paramet - tune: 1
+ perform - ratio: 1
+ random - algorithm: 1
+ real - bid: 1
+ revenu - maxim: 1
+ search - auction: 1
+ snipe - heurist: 1
+ synthet - data: 1
+
+PageRank scores count: 28
+ advert: 0.030688032760820928
+ algorithm: 0.051281317902950756
+ auction: 0.05814574628366071
+ automat: 0.021535461586541002
+ bid: 0.06729831745794063
+ bidder: 0.039840603935100846
+ budgetconstrain: 0.021535461586541002
+ competit: 0.03555033619715714
+ data: 0.051281317902950756
+ heurist: 0.039840603935100846
+ keyword: 0.021535461586541002
+ knapsack: 0.039840603935100846
+ maxim: 0.039840603935100846
+ omnisci: 0.021535461586541002
+ onlin: 0.021535461586541002
+ optim: 0.03297617555439091
+ paramet: 0.021535461586541002
+ perform: 0.03297617555439091
+ problem: 0.06941484954199285
+ random: 0.021535461586541002
+ ratio: 0.07978299657535684
+ real: 0.021535461586541002
+ revenu: 0.021535461586541002
+ search: 0.021535461586541002
+ snipe: 0.021535461586541002
+ strategi: 0.03297617555439091
+ synthet: 0.021535461586541002
+ tune: 0.039840603935100846
+
+N-grams list: 10
+ optim competit ratio
+ real bid data
+ onlin knapsack problem
+ budgetconstrain bid optim
+ automat bid strategi
+ bid algorithm
+ perform ratio
+ knapsack problem
+ bid strategi
+ bid perform
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

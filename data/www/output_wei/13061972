@@ -1,0 +1,116 @@
+File name: 13061972
+
+Graph edges count: 41
+ applicationw - onlin: 1
+ basic - qualiti: 1
+ develop - world: 1
+ dwesa - south: 1
+ feedback - loop: 1
+ indepth - investig: 1
+ internet - connect: 2
+ internet - traffic: 2
+ internet - usag: 1
+ local - wireless: 1
+ macha - zambia: 2
+ malwar - traffic: 1
+ network - anomali: 1
+ network - design: 1
+ network - perform: 1
+ network - trace: 1
+ numer - network: 1
+ onlin - social: 1
+ onsit - interview: 1
+ peertop - traffic: 1
+ recent - effort: 1
+ remot - locat: 1
+ rural - africa: 2
+ rural - area: 1
+ rural - commun: 1
+ rural - wireless: 1
+ signific - malwar: 1
+ signific - part: 1
+ simpl - applic: 1
+ social - factor: 1
+ social - network: 1
+ south - africa: 1
+ strong - feedback: 1
+ system - updat: 1
+ traffic - character: 1
+ traffic - common: 1
+ traffic - demand: 1
+ urban - area: 1
+ user - behavior: 1
+ webbas - traffic: 1
+ wireless - network: 2
+
+PageRank scores count: 54
+ africa: 0.03263041970877352
+ anomali: 0.02229866427096834
+ applic: 0.020726618527461292
+ applicationw: 0.011203577582411509
+ area: 0.02263122671647125
+ basic: 0.011203577582411509
+ behavior: 0.020726618527461292
+ character: 0.024698520188292473
+ common: 0.024698520188292473
+ commun: 0.013108185771421466
+ connect: 0.015012793960431422
+ demand: 0.024698520188292473
+ design: 0.02229866427096834
+ develop: 0.011203577582411509
+ dwesa: 0.011203577582411509
+ effort: 0.020726618527461292
+ factor: 0.023452588997981794
+ feedback: 0.020726618527461292
+ indepth: 0.011203577582411509
+ internet: 0.011203577582411509
+ interview: 0.020726618527461292
+ investig: 0.020726618527461292
+ local: 0.011203577582411509
+ locat: 0.020726618527461292
+ loop: 0.02882120333075361
+ macha: 0.011203577582411509
+ malwar: 0.0159650980549364
+ network: 0.052212172652032145
+ numer: 0.011203577582411509
+ onlin: 0.020726618527461292
+ onsit: 0.011203577582411509
+ part: 0.0159650980549364
+ peertop: 0.011203577582411509
+ perform: 0.02229866427096834
+ qualiti: 0.020726618527461292
+ recent: 0.011203577582411509
+ remot: 0.011203577582411509
+ rural: 0.011203577582411509
+ signific: 0.011203577582411509
+ simpl: 0.011203577582411509
+ social: 0.02882120333075361
+ south: 0.020726618527461292
+ strong: 0.011203577582411509
+ system: 0.011203577582411509
+ trace: 0.02229866427096834
+ traffic: 0.047629209197226935
+ updat: 0.020726618527461292
+ urban: 0.011203577582411509
+ usag: 0.013108185771421466
+ user: 0.011203577582411509
+ webbas: 0.011203577582411509
+ wireless: 0.02263122671647125
+ world: 0.020726618527461292
+ zambia: 0.020726618527461292
+
+N-grams list: 10
+ rural wireless network
+ local wireless network
+ numer network anomali
+ internet traffic demand
+ peertop traffic common
+ signific malwar traffic
+ network trace
+ network design
+ network perform
+ traffic character
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

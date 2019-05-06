@@ -1,0 +1,115 @@
+File name: 9703157
+
+Graph edges count: 40
+ answer - question: 1
+ automat - question: 1
+ commun - question: 1
+ content - qualiti: 1
+ coupl - mutual: 2
+ cqa - archiv: 1
+ cqa - portal: 1
+ cqa - site: 1
+ gener - purpos: 1
+ gold - mine: 1
+ highqual - answer: 1
+ high - qualiti: 1
+ inform - retriev: 1
+ knowledg - repositori: 1
+ label - exampl: 1
+ larg - amount: 1
+ larg - fraction: 1
+ larg - scale: 1
+ mutual - reinforc: 2
+ past - question: 1
+ popular - forum: 1
+ previou - approach: 2
+ purpos - web: 1
+ qualiti - content: 1
+ qualiti - estim: 1
+ question - answer: 2
+ reinforc - commun: 1
+ reinforc - framework: 1
+ reliabl - user: 1
+ scale - evalu: 1
+ semisupervis - coupl: 1
+ social - media: 1
+ stateoftheart - method: 1
+ supervis - approach: 1
+ train - process: 1
+ user - reput: 1
+ valuabl - knowledg: 1
+ viabl - altern: 1
+ web - search: 1
+ year - cqa: 1
+
+PageRank scores count: 54
+ altern: 0.014001401433281529
+ amount: 0.00971268387714124
+ answer: 0.15943919785334032
+ approach: 0.02043447776749196
+ archiv: 0.011535388838500861
+ automat: 0.007568325099071097
+ commun: 0.017818226035822757
+ content: 0.021164650815210562
+ coupl: 0.014001401433281529
+ cqa: 0.014001401433281529
+ estim: 0.021164650815210562
+ evalu: 0.01582410639464115
+ exampl: 0.014001401433281529
+ forum: 0.014001401433281529
+ fraction: 0.00971268387714124
+ framework: 0.017818226035822757
+ gener: 0.007568325099071097
+ gold: 0.007568325099071097
+ high: 0.007568325099071097
+ highqual: 0.007568325099071097
+ inform: 0.007568325099071097
+ knowledg: 0.014001401433281529
+ label: 0.007568325099071097
+ larg: 0.007568325099071097
+ media: 0.014001401433281529
+ method: 0.014001401433281529
+ mine: 0.014001401433281529
+ mutual: 0.019469516317360398
+ past: 0.007568325099071097
+ popular: 0.007568325099071097
+ portal: 0.011535388838500861
+ previou: 0.007568325099071097
+ process: 0.014001401433281529
+ purpos: 0.014001401433281529
+ qualiti: 0.03199135462621051
+ question: 0.17110327768814523
+ reinforc: 0.024117413968827436
+ reliabl: 0.007568325099071097
+ repositori: 0.019469516317360398
+ reput: 0.019469516317360398
+ retriev: 0.014001401433281529
+ scale: 0.00971268387714124
+ search: 0.024117413968827436
+ semisupervis: 0.007568325099071097
+ site: 0.011535388838500861
+ social: 0.007568325099071097
+ stateoftheart: 0.007568325099071097
+ supervis: 0.007568325099071097
+ train: 0.007568325099071097
+ user: 0.014001401433281529
+ valuabl: 0.007568325099071097
+ viabl: 0.007568325099071097
+ web: 0.019469516317360398
+ year: 0.007568325099071097
+
+N-grams list: 10
+ commun question answer
+ automat question answer
+ highqual answer question
+ past question
+ question
+ answer
+ high qualiti content
+ coupl mutual reinforc
+ content qualiti
+ qualiti estim
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

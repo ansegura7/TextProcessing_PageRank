@@ -1,0 +1,78 @@
+File name: 13509697
+
+Graph edges count: 25
+ actual - data: 1
+ brazilian - marketplac: 2
+ commerci - activ: 1
+ compar - analysi: 1
+ cultur - influenc: 1
+ exponenti - rate: 1
+ fixedpric - good: 1
+ fixedpric - negoti: 1
+ fixedpric - onlin: 1
+ influenc - onlin: 1
+ interest - abil: 1
+ marketplac - ecommerc: 1
+ onlin - auction: 2
+ onlin - commerci: 1
+ onlin - negoti: 1
+ onlin - sale: 1
+ popular - worldwid: 1
+ sale - revenu: 1
+ seller - practic: 2
+ seller - profil: 1
+ sell - practic: 1
+ sell - strategi: 1
+ wide - web: 1
+ worldwid - marketplac: 1
+ world - wide: 1
+
+PageRank scores count: 32
+ abil: 0.03417334927858732
+ activ: 0.0437018930977204
+ actual: 0.01847208069112828
+ analysi: 0.03417334927858732
+ auction: 0.029682132243049556
+ brazilian: 0.01847208069112828
+ commerci: 0.029682132243049556
+ compar: 0.01847208069112828
+ cultur: 0.01847208069112828
+ data: 0.03417334927858732
+ ecommerc: 0.07220967243170684
+ exponenti: 0.01847208069112828
+ fixedpric: 0.01847208069112828
+ good: 0.02370583688694796
+ influenc: 0.03417334927858732
+ interest: 0.01847208069112828
+ marketplac: 0.06322069616538653
+ negoti: 0.03491588843886923
+ onlin: 0.05275318377374717
+ popular: 0.01847208069112828
+ practic: 0.03417334927858732
+ profil: 0.0263227149848578
+ rate: 0.03417334927858732
+ revenu: 0.0437018930977204
+ sale: 0.029682132243049556
+ sell: 0.01847208069112828
+ seller: 0.01847208069112828
+ strategi: 0.0263227149848578
+ web: 0.0475194275779275
+ wide: 0.03417334927858732
+ world: 0.01847208069112828
+ worldwid: 0.03417334927858732
+
+N-grams list: 10
+ brazilian marketplac ecommerc
+ onlin commerci activ
+ popular worldwid marketplac
+ fixedpric onlin negoti
+ cultur influenc onlin
+ world wide web
+ onlin sale
+ onlin auction
+ brazilian marketplac
+ sale revenu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

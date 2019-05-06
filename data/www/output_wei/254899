@@ -1,0 +1,97 @@
+File name: 254899
+
+Graph edges count: 33
+ analysi - algorithm: 1
+ analysi - section: 1
+ annot - runtim: 1
+ applic - bug: 1
+ applic - code: 1
+ applic - project: 1
+ applic - secur: 2
+ applic - vulner: 1
+ exploit - vulner: 1
+ flow - problem: 1
+ holist - approach: 1
+ inform - flow: 1
+ latticebas - static: 1
+ major - roadblock: 1
+ matur - popular: 1
+ opensourc - web: 1
+ potenti - runtim: 1
+ protec - secur: 1
+ recent - sharp: 1
+ runtim - guard: 1
+ runtim - inspec: 1
+ runtim - overhead: 2
+ runtim - protec: 1
+ secur - inform: 1
+ sharp - increas: 1
+ static - analysi: 4
+ suffici - annot: 1
+ type - system: 1
+ univers - accept: 1
+ unknown - vulner: 1
+ user - interven: 1
+ verif - tool: 1
+ web - applic: 8
+
+PageRank scores count: 43
+ accept: 0.02342962705445183
+ algorithm: 0.026511097936984973
+ analysi: 0.032579846268960724
+ annot: 0.02342962705445183
+ applic: 0.032579846268960724
+ approach: 0.02342962705445183
+ bug: 0.017280141494112767
+ code: 0.017280141494112767
+ exploit: 0.012664663272676667
+ flow: 0.05155215098157784
+ guard: 0.020033280981301766
+ holist: 0.012664663272676667
+ increas: 0.032579846268960724
+ inform: 0.04574998553988373
+ inspec: 0.020033280981301766
+ interven: 0.02342962705445183
+ latticebas: 0.012664663272676667
+ major: 0.012664663272676667
+ matur: 0.012664663272676667
+ opensourc: 0.012664663272676667
+ overhead: 0.027401898689926867
+ popular: 0.02342962705445183
+ potenti: 0.012664663272676667
+ problem: 0.05648399160701783
+ project: 0.017280141494112767
+ protec: 0.020033280981301766
+ recent: 0.012664663272676667
+ roadblock: 0.02342962705445183
+ runtim: 0.043344810050735885
+ section: 0.026511097936984973
+ secur: 0.03892390854965537
+ sharp: 0.02342962705445183
+ static: 0.02342962705445183
+ suffici: 0.012664663272676667
+ system: 0.02342962705445183
+ tool: 0.02342962705445183
+ type: 0.012664663272676667
+ univers: 0.012664663272676667
+ unknown: 0.012664663272676667
+ user: 0.012664663272676667
+ verif: 0.012664663272676667
+ vulner: 0.038810069057663106
+ web: 0.02342962705445183
+
+N-grams list: 10
+ secur inform flow
+ runtim protec secur
+ web applic secur
+ web applic vulner
+ potenti runtim overhead
+ suffici annot runtim
+ web applic code
+ web applic bug
+ recent sharp increas
+ latticebas static analysi
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

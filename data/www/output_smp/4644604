@@ -1,0 +1,71 @@
+File name: 4644604
+
+Graph edges count: 23
+ analysi - perform: 1
+ automat - search: 2
+ chines - search: 1
+ clickthrough - data: 2
+ commerci - chines: 1
+ data - analysi: 2
+ engin - perform: 2
+ evalu - method: 2
+ evalu - result: 1
+ experiment - result: 1
+ human - effort: 1
+ import - issu: 1
+ navig - type: 1
+ perform - evalu: 3
+ queri - topic: 1
+ search - engin: 4
+ search - user: 1
+ similar - evalu: 1
+ tradition - assessorbas: 1
+ tradition - evalu: 1
+ type - queri: 1
+ user - log: 1
+ web - search: 1
+
+PageRank scores count: 27
+ analysi: 0.04037342272761795
+ assessorbas: 0.022364286642120732
+ automat: 0.015694236240084723
+ chines: 0.029034337044156738
+ clickthrough: 0.015694236240084723
+ commerci: 0.015694236240084723
+ data: 0.029034337044156738
+ effort: 0.029034337044156738
+ engin: 0.044192026582783574
+ evalu: 0.11014302537702984
+ experiment: 0.015694236240084723
+ human: 0.015694236240084723
+ import: 0.015694236240084723
+ issu: 0.029034337044156738
+ log: 0.05325745883545076
+ method: 0.06250502202532242
+ navig: 0.015694236240084723
+ perform: 0.08757486815392601
+ queri: 0.04037342272761795
+ result: 0.07584512282939443
+ search: 0.067053624335762
+ similar: 0.015694236240084723
+ topic: 0.05001164555855999
+ tradition: 0.015694236240084723
+ type: 0.029034337044156738
+ user: 0.044192026582783574
+ web: 0.015694236240084723
+
+N-grams list: 10
+ perform evalu method
+ similar evalu result
+ perform evalu
+ tradition evalu method
+ automat search engin
+ web search engin
+ commerci chines search
+ search user
+ user log
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

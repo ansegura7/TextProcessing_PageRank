@@ -1,0 +1,59 @@
+File name: 14435710
+
+Graph edges count: 16
+ ambigu - textual: 1
+ base - unifi: 1
+ cooccurr - statist: 1
+ data - set: 1
+ empir - result: 1
+ entiti - mention: 2
+ knowledg - base: 6
+ public - data: 1
+ real - world: 1
+ rich - semant: 1
+ semant - knowledg: 2
+ stateoftheart - method: 1
+ textual - inconsist: 1
+ unifi - wikipedia: 1
+ world - entiti: 1
+ world - knowledg: 1
+
+PageRank scores count: 22
+ ambigu: 0.021965885599931127
+ base: 0.08467711611988449
+ cooccurr: 0.021965885599931127
+ data: 0.04063688835987258
+ empir: 0.021965885599931127
+ entiti: 0.03923656315287697
+ inconsist: 0.05650724070582282
+ knowledg: 0.07377791825876866
+ mention: 0.05531696427987655
+ method: 0.04063688835987258
+ public: 0.021965885599931127
+ real: 0.021965885599931127
+ result: 0.04063688835987258
+ rich: 0.021965885599931127
+ semant: 0.04063688835987258
+ set: 0.05650724070582282
+ stateoftheart: 0.021965885599931127
+ statist: 0.04063688835987258
+ textual: 0.04063688835987258
+ unifi: 0.09394143430183294
+ wikipedia: 0.10181610475648911
+ world: 0.04063688835987258
+
+N-grams list: 10
+ knowledg base unifi
+ knowledg base
+ rich semant knowledg
+ ambigu textual inconsist
+ public data set
+ world knowledg
+ semant knowledg
+ real world entiti
+ wikipedia
+ entiti mention
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

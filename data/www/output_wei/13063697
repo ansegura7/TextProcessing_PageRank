@@ -1,0 +1,80 @@
+File name: 13063697
+
+Graph edges count: 24
+ big - portion: 1
+ case - sparql: 1
+ challeng - aspect: 1
+ conjunct - queri: 3
+ dispar - sourc: 1
+ empti - result: 1
+ empti - rewrit: 1
+ equival - queri: 1
+ evalu - time: 1
+ exponenti - size: 1
+ input - sparql: 1
+ magnitud - improv: 1
+ multipl - view: 1
+ nativ - queri: 1
+ rdf - data: 3
+ rdf - store: 2
+ relat - case: 1
+ search - space: 1
+ secur - polici: 1
+ sparql - queri: 4
+ sparql - view: 3
+ view - materi: 1
+ virtual - sparql: 2
+ xml - case: 2
+
+PageRank scores count: 35
+ aspect: 0.030853945789319433
+ big: 0.01667780853476726
+ case: 0.045030083043871606
+ challeng: 0.01667780853476726
+ conjunct: 0.01667780853476726
+ data: 0.025183490887498567
+ dispar: 0.01667780853476726
+ empti: 0.01667780853476726
+ equival: 0.01667780853476726
+ evalu: 0.01667780853476726
+ exponenti: 0.01667780853476726
+ improv: 0.030853945789319433
+ input: 0.01667780853476726
+ magnitud: 0.01667780853476726
+ materi: 0.06869866306219516
+ multipl: 0.01667780853476726
+ nativ: 0.01667780853476726
+ polici: 0.030853945789319433
+ portion: 0.030853945789319433
+ queri: 0.09966896634784554
+ rdf: 0.01667780853476726
+ relat: 0.01667780853476726
+ result: 0.02376587716204335
+ rewrit: 0.02376587716204335
+ search: 0.01667780853476726
+ secur: 0.01667780853476726
+ size: 0.030853945789319433
+ sourc: 0.030853945789319433
+ space: 0.030853945789319433
+ sparql: 0.08330565363116246
+ store: 0.02234826343658813
+ time: 0.030853945789319433
+ view: 0.06120100532638575
+ virtual: 0.01667780853476726
+ xml: 0.01667780853476726
+
+N-grams list: 10
+ input sparql queri
+ sparql queri
+ virtual sparql view
+ relat case sparql
+ sparql view
+ view materi
+ conjunct queri
+ nativ queri
+ equival queri
+ queri
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

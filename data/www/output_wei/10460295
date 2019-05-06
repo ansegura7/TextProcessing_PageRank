@@ -1,0 +1,40 @@
+File name: 10460295
+
+Graph edges count: 9
+ composit - servic: 2
+ dynam - servic: 1
+ invoc - endpoint: 1
+ member - servic: 1
+ preliminari - result: 1
+ servic - adapt: 2
+ servic - composi: 2
+ servic - invoc: 1
+ subsequ - servic: 1
+
+PageRank scores count: 11
+ adapt: 0.12189999902323718
+ composi: 0.12189999902323718
+ composit: 0.048838140634309773
+ dynam: 0.048838140634309773
+ endpoint: 0.12140184998876723
+ invoc: 0.08536906982877349
+ member: 0.048838140634309773
+ preliminari: 0.048838140634309773
+ result: 0.09035056017347307
+ servic: 0.214887818790963
+ subsequ: 0.048838140634309773
+
+N-grams list: 9
+ servic invoc endpoint
+ dynam servic composi
+ subsequ servic adapt
+ servic adapt
+ servic composi
+ composit servic
+ member servic
+ servic
+ preliminari result
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

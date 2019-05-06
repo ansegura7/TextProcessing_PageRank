@@ -1,0 +1,58 @@
+File name: 13785303
+
+Graph edges count: 14
+ burden - site: 1
+ facebook - applic: 1
+ friendlist - manag: 2
+ group - friend: 1
+ inform - overload: 1
+ local - social: 1
+ manag - onlin: 1
+ network - structur: 1
+ onlin - social: 1
+ share - content: 1
+ social - network: 4
+ specif - list: 1
+ strong - correspond: 1
+ user - respons: 1
+
+PageRank scores count: 23
+ applic: 0.043573787502135364
+ burden: 0.0235533986498029
+ content: 0.043573787502135364
+ correspond: 0.043573787502135364
+ facebook: 0.0235533986498029
+ friend: 0.043573787502135364
+ friendlist: 0.0235533986498029
+ group: 0.0235533986498029
+ inform: 0.0235533986498029
+ list: 0.043573787502135364
+ local: 0.0235533986498029
+ manag: 0.043573787502135364
+ network: 0.10436820080084942
+ onlin: 0.06059111802661796
+ overload: 0.043573787502135364
+ respons: 0.043573787502135364
+ share: 0.0235533986498029
+ site: 0.043573787502135364
+ social: 0.09507623782476061
+ specif: 0.0235533986498029
+ strong: 0.0235533986498029
+ structur: 0.1122663693305249
+ user: 0.0235533986498029
+
+N-grams list: 10
+ social network structur
+ local social network
+ social network
+ friendlist manag onlin
+ structur
+ facebook applic
+ inform overload
+ friendlist manag
+ share content
+ strong correspond
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

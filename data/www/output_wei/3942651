@@ -1,0 +1,75 @@
+File name: 3942651
+
+Graph edges count: 21
+ approxim - state: 1
+ bloom - filter: 1
+ cach - state: 1
+ care - choic: 1
+ cdn - simul: 4
+ data - structur: 1
+ error - due: 1
+ experiment - result: 1
+ larg - fraction: 1
+ larg - memori: 1
+ magnitud - reduc: 1
+ memori - requir: 2
+ memori - save: 1
+ memori - space: 1
+ memoryeffici - cdn: 1
+ memoryeffici - data: 1
+ popular - object: 2
+ proxi - cach: 1
+ scalabl - techniqu: 1
+ small - subset: 1
+ user - librari: 1
+
+PageRank scores count: 33
+ approxim: 0.020301992132978047
+ bloom: 0.020301992132978047
+ cach: 0.03755868544600939
+ care: 0.020301992132978047
+ cdn: 0.028930338789493713
+ choic: 0.03755868544600939
+ data: 0.028930338789493713
+ due: 0.03755868544600939
+ error: 0.020301992132978047
+ experiment: 0.020301992132978047
+ filter: 0.03755868544600939
+ fraction: 0.028930338789493713
+ larg: 0.020301992132978047
+ librari: 0.03755868544600939
+ magnitud: 0.020301992132978047
+ memori: 0.028930338789493713
+ memoryeffici: 0.020301992132978047
+ object: 0.03755868544600939
+ popular: 0.020301992132978047
+ proxi: 0.020301992132978047
+ reduc: 0.03755868544600939
+ requir: 0.03259738611851287
+ result: 0.03755868544600939
+ save: 0.02644968912574546
+ scalabl: 0.020301992132978047
+ simul: 0.0448927801040477
+ small: 0.020301992132978047
+ space: 0.02644968912574546
+ state: 0.06948356807511737
+ structur: 0.0448927801040477
+ subset: 0.03755868544600939
+ techniqu: 0.03755868544600939
+ user: 0.020301992132978047
+
+N-grams list: 10
+ cach state
+ memoryeffici data structur
+ memoryeffici cdn simul
+ approxim state
+ larg memori save
+ cdn simul
+ state
+ memori requir
+ small subset
+ scalabl techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

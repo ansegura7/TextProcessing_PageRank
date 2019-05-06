@@ -1,0 +1,78 @@
+File name: 4644622
+
+Graph edges count: 25
+ access - site: 1
+ central - asia: 2
+ citizen - resourc: 1
+ commun - technologi: 1
+ develop - world: 1
+ geograph - area: 1
+ inform - seek: 2
+ inform - sourc: 1
+ internet - adop: 1
+ mobil - phone: 1
+ mobil - social: 2
+ multimethod - studi: 1
+ multiyear - multimethod: 1
+ network - softwar: 1
+ phone - usag: 1
+ predomin - pattern: 1
+ public - access: 1
+ public - institu: 1
+ signific - potenti: 2
+ social - network: 2
+ social - softwar: 2
+ technologi - adop: 1
+ technologi - usag: 1
+ usag - pattern: 1
+ world - social: 1
+
+PageRank scores count: 32
+ access: 0.025303005806577426
+ adop: 0.046810560742168245
+ area: 0.0328495163102935
+ asia: 0.0328495163102935
+ central: 0.01775649530286135
+ citizen: 0.01775649530286135
+ commun: 0.01775649530286135
+ develop: 0.01775649530286135
+ geograph: 0.01775649530286135
+ inform: 0.01775649530286135
+ institu: 0.025303005806577426
+ internet: 0.01775649530286135
+ mobil: 0.01775649530286135
+ multimethod: 0.0328495163102935
+ multiyear: 0.01775649530286135
+ network: 0.041446249525776725
+ pattern: 0.07627339550042642
+ phone: 0.022787502305338735
+ potenti: 0.0328495163102935
+ predomin: 0.01775649530286135
+ public: 0.01775649530286135
+ resourc: 0.0328495163102935
+ seek: 0.027818509307816118
+ signific: 0.01775649530286135
+ site: 0.03926405023845216
+ social: 0.05574059817156559
+ softwar: 0.07667556162268695
+ sourc: 0.022787502305338735
+ studi: 0.045678584166610824
+ technologi: 0.0328495163102935
+ usag: 0.051086916694274016
+ world: 0.0328495163102935
+
+N-grams list: 10
+ mobil social softwar
+ usag pattern
+ network softwar
+ develop world social
+ social network
+ multiyear multimethod studi
+ predomin pattern
+ mobil phone usag
+ technologi usag
+ public access site
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

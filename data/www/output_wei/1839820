@@ -1,0 +1,86 @@
+File name: 1839820
+
+Graph edges count: 32
+ autonom - process: 1
+ commun - object: 1
+ complex - semant: 1
+ concurr - interac: 1
+ data - state: 1
+ design - complex: 1
+ design - model: 1
+ domain - properti: 1
+ formal - model: 1
+ formal - tcoz: 1
+ integr - formal: 1
+ intric - data: 1
+ languag - time: 1
+ model - languag: 1
+ model - techniqu: 1
+ ontologi - domain: 1
+ power - model: 1
+ process - behavior: 2
+ semant - markup: 1
+ semant - web: 2
+ servic - design: 1
+ servic - semant: 1
+ servic - system: 1
+ state - autonom: 1
+ sw - ontologi: 1
+ sw - servic: 2
+ systemat - translat: 1
+ tcoz - approach: 1
+ tcoz - design: 1
+ time - commun: 1
+ translat - rule: 1
+ web - servic: 1
+
+PageRank scores count: 33
+ approach: 0.0215718819941265
+ autonom: 0.03907640294006479
+ behavior: 0.05091856640144778
+ commun: 0.046299732815824036
+ complex: 0.027984499345458203
+ concurr: 0.012262629879595118
+ data: 0.022685865277250968
+ design: 0.036992632541083356
+ domain: 0.02563911530658679
+ formal: 0.022685865277250968
+ integr: 0.012262629879595118
+ interac: 0.022685865277250968
+ intric: 0.012262629879595118
+ languag: 0.032683551973522386
+ markup: 0.026845855671825753
+ model: 0.048049227485945714
+ object: 0.05161740383251752
+ ontologi: 0.015737041678813735
+ power: 0.012262629879595118
+ process: 0.04547757237865019
+ properti: 0.034055877890193896
+ rule: 0.03154561536525844
+ semant: 0.051470205694992124
+ servic: 0.05442617475613753
+ state: 0.03154561536525844
+ sw: 0.012262629879595118
+ system: 0.027683380426551975
+ systemat: 0.012262629879595118
+ tcoz: 0.02190412262242678
+ techniqu: 0.032683551973522386
+ time: 0.04004364968916079
+ translat: 0.022685865277250968
+ web: 0.04142908146405639
+
+N-grams list: 10
+ semant web servic
+ autonom process behavior
+ servic semant markup
+ languag time commun
+ design complex semant
+ process behavior
+ sw servic system
+ power model techniqu
+ integr formal model
+ formal tcoz design
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

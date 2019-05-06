@@ -1,0 +1,74 @@
+File name: 1025710
+
+Graph edges count: 22
+ annot - media: 1
+ automat - integr: 1
+ clusteringbas - deriv: 1
+ content - provid: 1
+ docum - structur: 2
+ domainindepend - hypermedia: 1
+ domainindepend - manner: 1
+ hypermedia - docum: 1
+ hypermedia - gener: 1
+ local - semant: 1
+ media - item: 1
+ media - repositori: 2
+ quick - access: 1
+ rdf - browser: 1
+ rdf - present: 2
+ rdf - repositori: 1
+ rdf - store: 1
+ requir - docum: 1
+ searchandbrows - paradigm: 1
+ search - return: 1
+ semant - web: 1
+ univers - rdf: 1
+
+PageRank scores count: 31
+ access: 0.038249985623949656
+ annot: 0.02067566790483765
+ automat: 0.02067566790483765
+ browser: 0.027178165460909093
+ clusteringbas: 0.02067566790483765
+ content: 0.02067566790483765
+ deriv: 0.038249985623949656
+ docum: 0.05077168699881695
+ domainindepend: 0.02067566790483765
+ gener: 0.03319736927970495
+ hypermedia: 0.02946282676439365
+ integr: 0.038249985623949656
+ item: 0.031513163831623385
+ local: 0.02067566790483765
+ manner: 0.02946282676439365
+ media: 0.038249985623949656
+ paradigm: 0.038249985623949656
+ present: 0.033680663016980535
+ provid: 0.038249985623949656
+ quick: 0.02067566790483765
+ rdf: 0.038249985623949656
+ repositori: 0.04885315731448056
+ requir: 0.02067566790483765
+ return: 0.038249985623949656
+ search: 0.02067566790483765
+ searchandbrows: 0.02067566790483765
+ semant: 0.038249985623949656
+ store: 0.027178165460909093
+ structur: 0.06383160185383206
+ univers: 0.02067566790483765
+ web: 0.05318815568519486
+
+N-grams list: 10
+ docum structur
+ local semant web
+ annot media repositori
+ rdf repositori
+ media repositori
+ univers rdf browser
+ domainindepend hypermedia gener
+ hypermedia docum
+ rdf present
+ requir docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

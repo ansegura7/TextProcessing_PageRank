@@ -1,0 +1,86 @@
+File name: 3580371
+
+Graph edges count: 28
+ annot - approach: 1
+ automat - annot: 1
+ complex - text: 1
+ conceptu - metadata: 1
+ conceptu - open: 1
+ deep - annot: 2
+ docum - annot: 1
+ escienc - insilico: 1
+ experi - resourc: 1
+ gener - web: 1
+ grid - project: 1
+ hypermedia - servic: 1
+ hypertext - web: 1
+ insilico - experi: 1
+ manual - automat: 1
+ map - mechan: 1
+ open - hypermedia: 1
+ profession - knowledg: 1
+ proven - log: 4
+ scientif - data: 1
+ semant - web: 1
+ servic - environ: 1
+ silico - experi: 1
+ simpl - automat: 1
+ sophist - profession: 1
+ text - extrac: 1
+ web - applic: 1
+ web - docum: 1
+
+PageRank scores count: 37
+ annot: 0.08292977188636225
+ applic: 0.03314251479523472
+ approach: 0.08370107433269927
+ automat: 0.0356690742190867
+ complex: 0.01321076822929137
+ conceptu: 0.01321076822929137
+ data: 0.024439921224189035
+ deep: 0.01321076822929137
+ docum: 0.03314251479523472
+ environ: 0.04554581610016138
+ escienc: 0.01321076822929137
+ experi: 0.04521385426474972
+ extrac: 0.03398470126985205
+ gener: 0.01321076822929137
+ grid: 0.01321076822929137
+ hypermedia: 0.029212311247020544
+ hypertext: 0.01321076822929137
+ insilico: 0.024439921224189035
+ knowledg: 0.03398470126985205
+ log: 0.024439921224189035
+ manual: 0.01321076822929137
+ map: 0.01321076822929137
+ mechan: 0.024439921224189035
+ metadata: 0.018825344726740204
+ open: 0.018825344726740204
+ profession: 0.024439921224189035
+ project: 0.024439921224189035
+ proven: 0.01321076822929137
+ resourc: 0.051642544354328634
+ scientif: 0.01321076822929137
+ semant: 0.01321076822929137
+ servic: 0.03804123278925883
+ silico: 0.01321076822929137
+ simpl: 0.01321076822929137
+ sophist: 0.01321076822929137
+ text: 0.024439921224189035
+ web: 0.04689822721398437
+
+N-grams list: 10
+ simpl automat annot
+ experi resourc
+ deep annot
+ semant web applic
+ gener web docum
+ approach
+ servic environ
+ annot
+ escienc insilico experi
+ complex text extrac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

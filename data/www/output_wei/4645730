@@ -1,0 +1,55 @@
+File name: 4645730
+
+Graph edges count: 13
+ data - integr: 1
+ effici - pruningbas: 1
+ import - issu: 1
+ larg - scale: 1
+ multipl - sourc: 1
+ prune - tupl: 1
+ pruningbas - approach: 2
+ rank - answer: 1
+ scale - data: 1
+ topk - rank: 1
+ total - amount: 1
+ transmis - cost: 1
+ transmit - data: 1
+
+PageRank scores count: 21
+ amount: 0.05099702632204623
+ answer: 0.07091343254781833
+ approach: 0.07091343254781833
+ cost: 0.05099702632204623
+ data: 0.0943444986957855
+ effici: 0.02756596017407904
+ import: 0.02756596017407904
+ integr: 0.10775878406549672
+ issu: 0.05099702632204623
+ larg: 0.02756596017407904
+ multipl: 0.02756596017407904
+ prune: 0.02756596017407904
+ pruningbas: 0.05099702632204623
+ rank: 0.05099702632204623
+ scale: 0.05099702632204623
+ sourc: 0.05099702632204623
+ topk: 0.02756596017407904
+ total: 0.02756596017407904
+ transmis: 0.02756596017407904
+ transmit: 0.02756596017407904
+ tupl: 0.05099702632204623
+
+N-grams list: 10
+ larg scale data
+ effici pruningbas approach
+ topk rank answer
+ pruningbas approach
+ transmit data
+ integr
+ multipl sourc
+ prune tupl
+ total amount
+ import issu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

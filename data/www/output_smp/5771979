@@ -1,0 +1,61 @@
+File name: 5771979
+
+Graph edges count: 14
+ cohes - piec: 1
+ dom - tree: 1
+ empir - analysi: 1
+ graphtheoret - approach: 1
+ interest - aspect: 1
+ learn - framework: 1
+ optim - problem: 2
+ previou - heurist: 1
+ principl - manner: 1
+ rulebas - solution: 1
+ segment - problem: 1
+ signific - departur: 1
+ webpag - segment: 1
+ weight - graph: 1
+
+PageRank scores count: 26
+ analysi: 0.047899540423328356
+ approach: 0.047899540423328356
+ aspect: 0.047899540423328356
+ cohes: 0.025891643472069386
+ departur: 0.047899540423328356
+ dom: 0.025891643472069386
+ empir: 0.025891643472069386
+ framework: 0.047899540423328356
+ graph: 0.047899540423328356
+ graphtheoret: 0.025891643472069386
+ heurist: 0.047899540423328356
+ interest: 0.025891643472069386
+ learn: 0.025891643472069386
+ manner: 0.047899540423328356
+ optim: 0.025891643472069386
+ piec: 0.047899540423328356
+ previou: 0.025891643472069386
+ principl: 0.025891643472069386
+ problem: 0.08861414978315747
+ rulebas: 0.025891643472069386
+ segment: 0.047899540423328356
+ signific: 0.025891643472069386
+ solution: 0.047899540423328356
+ tree: 0.047899540423328356
+ webpag: 0.025891643472069386
+ weight: 0.025891643472069386
+
+N-grams list: 10
+ segment problem
+ optim problem
+ problem
+ learn framework
+ previou heurist
+ empir analysi
+ principl manner
+ signific departur
+ interest aspect
+ cohes piec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

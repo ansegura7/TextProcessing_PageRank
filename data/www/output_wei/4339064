@@ -1,0 +1,70 @@
+File name: 4339064
+
+Graph edges count: 21
+ averag - relev: 1
+ brand - awar: 1
+ engin - brand: 2
+ engin - market: 1
+ engin - qualiti: 1
+ engin - result: 2
+ equal - technic: 1
+ laboratori - studi: 1
+ larg - amount: 1
+ popular - trust: 1
+ qualiti - studi: 1
+ qualit - analysi: 1
+ relev - rate: 1
+ search - engin: 8
+ search - result: 1
+ search - traffic: 1
+ similar - interfac: 1
+ system - perform: 1
+ technic - qualiti: 1
+ user - view: 1
+ web - search: 1
+
+PageRank scores count: 28
+ amount: 0.03937080976870659
+ analysi: 0.03937080976870659
+ averag: 0.02128151879389546
+ awar: 0.050943735158024944
+ brand: 0.03489672513426998
+ engin: 0.04805366943661594
+ equal: 0.02128151879389546
+ interfac: 0.03937080976870659
+ laboratori: 0.02128151879389546
+ larg: 0.02128151879389546
+ market: 0.028089121964082715
+ perform: 0.03937080976870659
+ popular: 0.02128151879389546
+ qualit: 0.02128151879389546
+ qualiti: 0.06155431026748333
+ rate: 0.054746707097296066
+ relev: 0.03937080976870659
+ result: 0.03824324396461003
+ search: 0.03937080976870659
+ similar: 0.02128151879389546
+ studi: 0.09169197349606742
+ system: 0.02128151879389546
+ technic: 0.03937080976870659
+ traffic: 0.024628037624235516
+ trust: 0.03937080976870659
+ user: 0.02128151879389546
+ view: 0.03937080976870659
+ web: 0.02128151879389546
+
+N-grams list: 10
+ search engin qualiti
+ search engin result
+ search engin brand
+ equal technic qualiti
+ search engin market
+ averag relev rate
+ laboratori studi
+ web search engin
+ studi
+ search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

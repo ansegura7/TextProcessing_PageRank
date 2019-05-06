@@ -1,0 +1,67 @@
+File name: 4641421
+
+Graph edges count: 19
+ code - top: 1
+ connec - environ: 1
+ countri - code: 1
+ digit - divid: 1
+ divid - problem: 1
+ geograph - distribu: 1
+ geograph - locat: 2
+ home - countri: 1
+ level - domain: 1
+ nic - registr: 1
+ offshor - server: 2
+ registr - inform: 1
+ respons - time: 1
+ sampl - server: 1
+ server - site: 1
+ signific - aspect: 1
+ target - site: 1
+ top - level: 1
+ web - server: 1
+
+PageRank scores count: 27
+ aspect: 0.035486437566105845
+ code: 0.049345330075030974
+ connec: 0.019181858143840998
+ countri: 0.035486437566105845
+ digit: 0.019181858143840998
+ distribu: 0.024616717951262617
+ divid: 0.035486437566105845
+ domain: 0.07964953090735938
+ environ: 0.035486437566105845
+ geograph: 0.019181858143840998
+ home: 0.019181858143840998
+ inform: 0.049345330075030974
+ level: 0.07113843854531574
+ locat: 0.03005157775868423
+ nic: 0.019181858143840998
+ offshor: 0.019181858143840998
+ problem: 0.049345330075030974
+ registr: 0.035486437566105845
+ respons: 0.019181858143840998
+ sampl: 0.019181858143840998
+ server: 0.06809559641063553
+ signific: 0.019181858143840998
+ site: 0.09336769451514605
+ target: 0.019181858143840998
+ time: 0.035486437566105845
+ top: 0.06112538870761733
+ web: 0.019181858143840998
+
+N-grams list: 10
+ server site
+ level domain
+ countri code top
+ target site
+ digit divid problem
+ nic registr inform
+ sampl server
+ web server
+ offshor server
+ domain
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

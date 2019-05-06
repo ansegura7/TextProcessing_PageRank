@@ -1,0 +1,56 @@
+File name: 13064442
+
+Graph edges count: 13
+ adequ - coverag: 1
+ authorit - web: 1
+ decision - model: 1
+ enrich - candid: 2
+ import - concept: 1
+ indian - textbook: 1
+ kei - concept: 1
+ model - paramet: 1
+ syntact - complex: 1
+ technolog - solution: 1
+ tune - set: 1
+ version - authorit: 1
+ web - resourc: 1
+
+PageRank scores count: 22
+ adequ: 0.027908307256508752
+ authorit: 0.05163036842454118
+ candid: 0.05163036842454118
+ complex: 0.05163036842454118
+ concept: 0.07535242959257363
+ coverag: 0.05163036842454118
+ decision: 0.027908307256508752
+ enrich: 0.027908307256508752
+ import: 0.027908307256508752
+ indian: 0.027908307256508752
+ kei: 0.027908307256508752
+ model: 0.05163036842454118
+ paramet: 0.07179412041736875
+ resourc: 0.0889333096112722
+ set: 0.05163036842454118
+ solution: 0.05163036842454118
+ syntact: 0.027908307256508752
+ technolog: 0.027908307256508752
+ textbook: 0.05163036842454118
+ tune: 0.027908307256508752
+ version: 0.027908307256508752
+ web: 0.07179412041736875
+
+N-grams list: 10
+ version authorit web
+ model paramet
+ kei concept
+ import concept
+ resourc
+ tune set
+ decision model
+ syntact complex
+ indian textbook
+ technolog solution
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

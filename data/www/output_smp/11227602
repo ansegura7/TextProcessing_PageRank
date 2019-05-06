@@ -1,0 +1,84 @@
+File name: 11227602
+
+Graph edges count: 26
+ ascent - optim: 1
+ binari - friendship: 2
+ classif - accuraci: 1
+ coars - represent: 1
+ coordin - ascent: 1
+ friendship - indic: 1
+ friendship - relat: 1
+ heterogen - relationship: 1
+ interac - activ: 1
+ latent - variabl: 1
+ linkbas - latent: 1
+ link - format: 1
+ link - weight: 1
+ low - cost: 1
+ model - relationship: 1
+ network - previou: 1
+ onlin - social: 2
+ optim - procedur: 1
+ previou - work: 1
+ realworld - data: 1
+ relationship - inform: 1
+ relationship - strength: 3
+ social - network: 3
+ unsupervis - model: 1
+ user - similar: 1
+ variabl - model: 1
+
+PageRank scores count: 37
+ accuraci: 0.02586378070096848
+ activ: 0.02586378070096848
+ ascent: 0.02586378070096848
+ binari: 0.013980422000523504
+ classif: 0.013980422000523504
+ coars: 0.013980422000523504
+ coordin: 0.013980422000523504
+ cost: 0.02586378070096848
+ data: 0.02586378070096848
+ format: 0.019922101350745996
+ friendship: 0.02586378070096848
+ heterogen: 0.013980422000523504
+ indic: 0.024972528798435107
+ inform: 0.045359210494463176
+ interac: 0.013980422000523504
+ latent: 0.02586378070096848
+ link: 0.013980422000523504
+ linkbas: 0.013980422000523504
+ low: 0.013980422000523504
+ model: 0.056433720957863184
+ network: 0.03596463559634672
+ onlin: 0.013980422000523504
+ optim: 0.03596463559634672
+ previou: 0.044550362257418215
+ procedur: 0.044550362257418215
+ realworld: 0.013980422000523504
+ relat: 0.024972528798435107
+ relationship: 0.07383244351515218
+ represent: 0.02586378070096848
+ similar: 0.02586378070096848
+ social: 0.02586378070096848
+ strength: 0.045359210494463176
+ unsupervis: 0.013980422000523504
+ user: 0.013980422000523504
+ variabl: 0.03596463559634672
+ weight: 0.019922101350745996
+ work: 0.051848229919328984
+
+N-grams list: 10
+ model relationship strength
+ heterogen relationship strength
+ relationship inform
+ relationship strength
+ previou work
+ onlin social network
+ coordin ascent optim
+ linkbas latent variabl
+ unsupervis model
+ binari friendship relat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

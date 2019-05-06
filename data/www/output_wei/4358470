@@ -1,0 +1,43 @@
+File name: 4358470
+
+Graph edges count: 9
+ data - dissemin: 1
+ dissemin - replic: 1
+ explicit - mechan: 1
+ model - data: 1
+ p2p - databas: 1
+ queri - algebra: 2
+ replic - constraint: 1
+ transient - natur: 1
+ xml - p2p: 1
+
+PageRank scores count: 14
+ algebra: 0.07036827569910051
+ constraint: 0.14106485744124309
+ data: 0.07036827569910051
+ databas: 0.097849940127533
+ dissemin: 0.097849940127533
+ explicit: 0.038036905783297575
+ mechan: 0.07036827569910051
+ model: 0.038036905783297575
+ natur: 0.07036827569910051
+ p2p: 0.07036827569910051
+ queri: 0.038036905783297575
+ replic: 0.12120935489170062
+ transient: 0.038036905783297575
+ xml: 0.038036905783297575
+
+N-grams list: 9
+ replic constraint
+ model data dissemin
+ xml p2p databas
+ transient natur
+ queri algebra
+ explicit mechan
+ databas
+ data
+ queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

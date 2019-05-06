@@ -1,0 +1,51 @@
+File name: 9452474
+
+Graph edges count: 14
+ applic - feasibl: 1
+ base - wikipedia: 1
+ knowledg - base: 2
+ mine - multilingu: 2
+ model - algorithm: 1
+ multilingu - knowledg: 1
+ multilingu - topic: 2
+ multilingu - web: 1
+ multipl - type: 1
+ topic - model: 1
+ univers - topic: 1
+ web - applic: 1
+ web - inform: 1
+ wikipedia - concept: 1
+
+PageRank scores count: 16
+ algorithm: 0.10752790155495116
+ applic: 0.04969555995307683
+ base: 0.0692318532485773
+ concept: 0.10581465728861338
+ feasibl: 0.07240049261769169
+ inform: 0.04969555995307683
+ knowledg: 0.04596774893058932
+ mine: 0.030159266657576372
+ model: 0.09102192340867622
+ multilingu: 0.05579464331651628
+ multipl: 0.030159266657576372
+ topic: 0.07160312558952923
+ type: 0.05579464331651628
+ univers: 0.030159266657576372
+ web: 0.04596774893058932
+ wikipedia: 0.08900634191886707
+
+N-grams list: 10
+ topic model algorithm
+ wikipedia concept
+ multilingu knowledg base
+ mine multilingu topic
+ multilingu web applic
+ knowledg base
+ univers topic
+ web inform
+ wikipedia
+ multipl type
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

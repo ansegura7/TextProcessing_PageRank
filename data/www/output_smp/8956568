@@ -1,0 +1,34 @@
+File name: 8956568
+
+Graph edges count: 6
+ contextu - similar: 1
+ direct - link: 1
+ direct - social: 1
+ messag - board: 2
+ share - interest: 1
+ social - network: 2
+
+PageRank scores count: 10
+ board: 0.1266147660193344
+ contextu: 0.06844041406450509
+ direct: 0.06844041406450509
+ interest: 0.1266147660193344
+ link: 0.09752759004191976
+ messag: 0.06844041406450509
+ network: 0.1513388656001369
+ share: 0.06844041406450509
+ similar: 0.1266147660193344
+ social: 0.09752759004191976
+
+N-grams list: 7
+ direct social network
+ social network
+ contextu similar
+ messag board
+ share interest
+ direct link
+ messag
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

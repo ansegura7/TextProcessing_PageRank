@@ -1,0 +1,70 @@
+File name: 716006
+
+Graph edges count: 21
+ cach - hit: 1
+ cach - scheme: 1
+ driven - cach: 1
+ effici - polici: 1
+ engin - altavista: 1
+ engin - user: 1
+ hardwar - requir: 1
+ hit - ratio: 3
+ larg - cach: 1
+ popular - search: 1
+ predict - cach: 1
+ probabilist - model: 1
+ probabl - driven: 1
+ queri - result: 2
+ respons - time: 1
+ result - page: 1
+ search - engin: 5
+ search - result: 2
+ small - cach: 1
+ tradition - lru: 1
+ web - search: 1
+
+PageRank scores count: 28
+ altavista: 0.039661303516983576
+ cach: 0.0957559359246047
+ driven: 0.0345824268346547
+ effici: 0.018693203694407946
+ engin: 0.049336705464883834
+ hardwar: 0.018693203694407946
+ hit: 0.05938947646236494
+ larg: 0.018693203694407946
+ lru: 0.0345824268346547
+ model: 0.0345824268346547
+ page: 0.058507057105826245
+ polici: 0.0345824268346547
+ popular: 0.018693203694407946
+ predict: 0.018693203694407946
+ probabilist: 0.018693203694407946
+ probabl: 0.018693203694407946
+ queri: 0.018693203694407946
+ ratio: 0.06917425868741814
+ requir: 0.0345824268346547
+ respons: 0.018693203694407946
+ result: 0.04683982754284506
+ scheme: 0.05938947646236494
+ search: 0.05047164997490146
+ small: 0.018693203694407946
+ time: 0.0345824268346547
+ tradition: 0.018693203694407946
+ user: 0.039661303516983576
+ web: 0.018693203694407946
+
+N-grams list: 10
+ cach hit ratio
+ cach scheme
+ probabl driven cach
+ search engin user
+ search engin altavista
+ hit ratio
+ queri result page
+ web search engin
+ popular search engin
+ larg cach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

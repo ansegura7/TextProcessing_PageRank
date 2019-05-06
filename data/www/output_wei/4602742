@@ -1,0 +1,78 @@
+File name: 4602742
+
+Graph edges count: 25
+ applicationspecif - session: 1
+ applic - develop: 1
+ busi - process: 1
+ busi - servic: 1
+ core - busi: 1
+ core - servic: 1
+ data - servic: 1
+ develop - environ: 1
+ global - organ: 1
+ interoper - advantag: 1
+ interoper - problem: 1
+ legaci - system: 1
+ local - session: 1
+ multipl - channel: 1
+ oper - organ: 1
+ perform - avail: 1
+ servicebas - deploy: 1
+ servicebas - method: 1
+ session - compon: 1
+ session - manag: 2
+ session - servic: 1
+ unifi - view: 1
+ web - desktop: 1
+ web - servic: 1
+ web - session: 1
+
+PageRank scores count: 32
+ advantag: 0.0289518907616379
+ applic: 0.02031711632395642
+ applicationspecif: 0.02031711632395642
+ avail: 0.03758666519931938
+ busi: 0.0289518907616379
+ channel: 0.03758666519931938
+ compon: 0.033197321526831296
+ core: 0.02031711632395642
+ data: 0.02031711632395642
+ deploy: 0.0289518907616379
+ desktop: 0.026073632615744073
+ develop: 0.03758666519931938
+ environ: 0.05226578174337789
+ global: 0.02031711632395642
+ interoper: 0.02031711632395642
+ legaci: 0.02031711632395642
+ local: 0.02031711632395642
+ manag: 0.046077526729706164
+ method: 0.0289518907616379
+ multipl: 0.02031711632395642
+ oper: 0.02031711632395642
+ organ: 0.05485621407468233
+ perform: 0.02031711632395642
+ problem: 0.0289518907616379
+ process: 0.03262166989765253
+ servic: 0.07716271470535949
+ servicebas: 0.02031711632395642
+ session: 0.06061273036646999
+ system: 0.03758666519931938
+ unifi: 0.02031711632395642
+ view: 0.03758666519931938
+ web: 0.02031711632395642
+
+N-grams list: 10
+ session servic
+ core busi servic
+ local session compon
+ applic develop environ
+ session manag
+ core servic
+ web servic
+ data servic
+ web session
+ applicationspecif session
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

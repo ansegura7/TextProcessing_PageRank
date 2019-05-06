@@ -1,0 +1,55 @@
+File name: 80750
+
+Graph edges count: 15
+ actual - structur: 1
+ base - descrip: 1
+ complex - corpor: 1
+ connect - web: 1
+ content - structur: 1
+ context - base: 1
+ corpor - web: 1
+ kei - word: 1
+ link - structur: 1
+ page - content: 1
+ redesign - process: 1
+ semant - relationship: 1
+ site - structur: 1
+ web - page: 4
+ web - site: 4
+
+PageRank scores count: 19
+ actual: 0.025873018612398727
+ base: 0.047865084432937646
+ complex: 0.025873018612398727
+ connect: 0.025873018612398727
+ content: 0.07985391867302528
+ context: 0.025873018612398727
+ corpor: 0.047865084432937646
+ descrip: 0.06655834038039572
+ kei: 0.025873018612398727
+ link: 0.025873018612398727
+ page: 0.06350694124779595
+ process: 0.047865084432937646
+ redesign: 0.025873018612398727
+ relationship: 0.047865084432937646
+ semant: 0.025873018612398727
+ site: 0.06350694124779595
+ structur: 0.1917138811861746
+ web: 0.08855040620093464
+ word: 0.047865084432937646
+
+N-grams list: 10
+ web site structur
+ content structur
+ web page content
+ actual structur
+ link structur
+ structur
+ connect web page
+ complex corpor web
+ web page
+ web site
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

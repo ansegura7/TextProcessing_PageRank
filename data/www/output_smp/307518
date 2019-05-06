@@ -1,0 +1,59 @@
+File name: 307518
+
+Graph edges count: 17
+ abstract - syntax: 1
+ altern - approach: 1
+ dl - docum: 2
+ full - class: 1
+ full - docum: 2
+ kei - characterist: 1
+ lite - dl: 2
+ lite - docum: 1
+ ontologi - languag: 1
+ owl - dl: 3
+ owl - full: 2
+ owl - lite: 2
+ rdfxml - docum: 1
+ rdf - tripl: 1
+ speci - recogni: 1
+ syntax - tree: 1
+ web - ontologi: 1
+
+PageRank scores count: 21
+ abstract: 0.028834145394976734
+ altern: 0.028834145394976734
+ approach: 0.05334316898070696
+ characterist: 0.05334316898070696
+ class: 0.04456076886248696
+ dl: 0.052730443391063704
+ docum: 0.12961729279813158
+ full: 0.03700381992355348
+ kei: 0.028834145394976734
+ languag: 0.07417583902857765
+ lite: 0.03700381992355348
+ ontologi: 0.05334316898070696
+ owl: 0.028834145394976734
+ rdf: 0.028834145394976734
+ rdfxml: 0.028834145394976734
+ recogni: 0.05334316898070696
+ speci: 0.028834145394976734
+ syntax: 0.05334316898070696
+ tree: 0.07417583902857765
+ tripl: 0.05334316898070696
+ web: 0.028834145394976734
+
+N-grams list: 10
+ owl dl docum
+ owl lite docum
+ owl full docum
+ rdfxml docum
+ abstract syntax tree
+ web ontologi languag
+ docum
+ owl lite dl
+ lite dl
+ rdf tripl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

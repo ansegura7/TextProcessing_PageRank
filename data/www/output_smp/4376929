@@ -1,0 +1,63 @@
+File name: 4376929
+
+Graph edges count: 17
+ basic - idea: 1
+ cf - cluster: 1
+ collabor - object: 1
+ content - inform: 1
+ data - set: 1
+ gaussian - distribu: 3
+ itembas - cf: 2
+ item - commun: 1
+ item - group: 1
+ model - estim: 2
+ probabilist - model: 2
+ realworld - data: 1
+ similar - attribut: 1
+ similar - prefer: 1
+ userbas - cf: 2
+ user - commun: 1
+ user - group: 1
+
+PageRank scores count: 25
+ attribut: 0.03581301834631817
+ basic: 0.025131942699170642
+ cf: 0.06785624528776074
+ cluster: 0.08280975119376727
+ collabor: 0.025131942699170642
+ commun: 0.04649409399346569
+ content: 0.025131942699170642
+ data: 0.04649409399346569
+ distribu: 0.04649409399346569
+ estim: 0.06465192259361649
+ gaussian: 0.025131942699170642
+ group: 0.04649409399346569
+ idea: 0.04649409399346569
+ inform: 0.04649409399346569
+ item: 0.025131942699170642
+ itembas: 0.025131942699170642
+ model: 0.04649409399346569
+ object: 0.04649409399346569
+ prefer: 0.03581301834631817
+ probabilist: 0.025131942699170642
+ realworld: 0.025131942699170642
+ set: 0.06465192259361649
+ similar: 0.025131942699170642
+ user: 0.025131942699170642
+ userbas: 0.025131942699170642
+
+N-grams list: 10
+ userbas cf cluster
+ probabilist model estim
+ realworld data set
+ itembas cf
+ userbas cf
+ cluster
+ gaussian distribu
+ item group
+ content inform
+ user commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

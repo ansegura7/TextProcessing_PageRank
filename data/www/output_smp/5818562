@@ -1,0 +1,97 @@
+File name: 5818562
+
+Graph edges count: 32
+ actual - log: 1
+ addition - benefit: 1
+ basic - algorithm: 1
+ cach - lru: 1
+ cach - size: 2
+ cach - techniqu: 1
+ clairvoy - cach: 1
+ complet - crawl: 1
+ critic - point: 2
+ dai - web: 1
+ design - challeng: 1
+ effici - url: 1
+ hit - rate: 1
+ infinit - cach: 1
+ log - data: 1
+ main - conclusion: 1
+ main - goal: 1
+ main - memori: 2
+ membership - test: 2
+ practic - algorithm: 1
+ program - exerc: 1
+ random - replac: 1
+ replac - static: 1
+ static - cach: 1
+ system - design: 1
+ theoret - limit: 1
+ trivial - program: 1
+ url - cach: 2
+ web - crawl: 2
+ web - step: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 44
+ actual: 0.01260700093551826
+ addition: 0.01260700093551826
+ algorithm: 0.0340389025258993
+ basic: 0.01260700093551826
+ benefit: 0.02332295173070878
+ cach: 0.08143019491762937
+ challeng: 0.03243150990662072
+ clairvoy: 0.01260700093551826
+ complet: 0.01260700093551826
+ conclusion: 0.016178984533915097
+ crawl: 0.041660622528978564
+ critic: 0.01260700093551826
+ dai: 0.01260700093551826
+ data: 0.03243150990662072
+ design: 0.02332295173070878
+ effici: 0.01260700093551826
+ exerc: 0.03243150990662072
+ goal: 0.016178984533915097
+ hit: 0.01260700093551826
+ infinit: 0.01260700093551826
+ limit: 0.02332295173070878
+ log: 0.02332295173070878
+ lru: 0.03567888949551325
+ main: 0.01260700093551826
+ membership: 0.01260700093551826
+ memori: 0.016178984533915097
+ point: 0.02332295173070878
+ practic: 0.01260700093551826
+ program: 0.02332295173070878
+ random: 0.01260700093551826
+ rate: 0.02332295173070878
+ replac: 0.02332295173070878
+ size: 0.03567888949551325
+ static: 0.03243150990662072
+ step: 0.03094467173378804
+ system: 0.01260700093551826
+ techniqu: 0.03567888949551325
+ test: 0.02332295173070878
+ theoret: 0.01260700093551826
+ trivial: 0.01260700093551826
+ url: 0.02332295173070878
+ web: 0.04314746070181125
+ wide: 0.02332295173070878
+ world: 0.01260700093551826
+
+N-grams list: 10
+ url cach techniqu
+ effici url cach
+ cach size
+ cach lru
+ dai web crawl
+ clairvoy cach
+ infinit cach
+ web crawl
+ cach
+ world wide web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

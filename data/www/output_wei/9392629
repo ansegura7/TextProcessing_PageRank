@@ -1,0 +1,69 @@
+File name: 9392629
+
+Graph edges count: 23
+ activ - categori: 1
+ activ - taxonomi: 1
+ categori - ident: 1
+ contextu - factor: 1
+ contextu - inquiri: 1
+ inform - seek: 1
+ inform - space: 1
+ kei - contextu: 1
+ log - analysi: 1
+ mobil - devic: 3
+ mobil - web: 1
+ person - access: 1
+ person - inform: 1
+ person - space: 1
+ phone - log: 1
+ previou - stationari: 1
+ seek - commun: 1
+ space - exten: 1
+ stationari - web: 1
+ user - activ: 1
+ user - studi: 1
+ web - activ: 1
+ web - studi: 1
+
+PageRank scores count: 25
+ access: 0.028421681409070094
+ activ: 0.057772604155118555
+ analysi: 0.05697255227909052
+ categori: 0.04670012150026572
+ commun: 0.05123884716755619
+ contextu: 0.04097151475852962
+ devic: 0.03626532725248229
+ exten: 0.05657252634107649
+ factor: 0.039559658506715424
+ ident: 0.061841868009566196
+ inform: 0.028421681409070094
+ inquiri: 0.039559658506715424
+ kei: 0.022146764734340334
+ log: 0.04097151475852962
+ mobil: 0.022146764734340334
+ person: 0.022146764734340334
+ phone: 0.022146764734340334
+ previou: 0.022146764734340334
+ seek: 0.03422597933319513
+ space: 0.040500896007924884
+ stationari: 0.04097151475852962
+ studi: 0.057772604155118555
+ taxonomi: 0.04670012150026572
+ user: 0.022146764734340334
+ web: 0.06167873978513783
+
+N-grams list: 10
+ mobil web activ
+ user activ categori
+ previou stationari web
+ phone log analysi
+ person space exten
+ inform seek commun
+ kei contextu factor
+ person inform space
+ contextu inquiri
+ user studi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

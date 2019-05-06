@@ -1,0 +1,90 @@
+File name: 9589313
+
+Graph edges count: 33
+ advanc - attack: 1
+ autom - attack: 1
+ autom - crawl: 1
+ autom - crosssit: 1
+ autom - ident: 1
+ busi - contact: 1
+ clone - attack: 1
+ contact - longlost: 1
+ crosssit - profil: 1
+ experiment - result: 1
+ friendship - relationship: 1
+ friend - request: 2
+ growth - rate: 1
+ ident - theft: 3
+ larg - volum: 1
+ longlost - friend: 1
+ network - site: 3
+ network - social: 1
+ person - inform: 1
+ person - user: 1
+ photograph - contact: 1
+ popular - social: 1
+ potenti - attack: 1
+ profil - clone: 1
+ real - user: 1
+ regist - user: 1
+ sensit - person: 1
+ share - photograph: 1
+ social - network: 4
+ theft - attack: 2
+ user - inform: 1
+ user - profil: 1
+ wellknown - site: 1
+
+PageRank scores count: 36
+ advanc: 0.012418416247256767
+ attack: 0.09967212686367975
+ autom: 0.012418416247256767
+ busi: 0.012418416247256767
+ clone: 0.04949284120620179
+ contact: 0.04250202960623629
+ crawl: 0.015057329699798831
+ crosssit: 0.015057329699798831
+ experiment: 0.012418416247256767
+ friend: 0.053681786447930736
+ friendship: 0.012418416247256767
+ growth: 0.012418416247256767
+ ident: 0.015057329699798831
+ inform: 0.04058222006951193
+ larg: 0.012418416247256767
+ longlost: 0.04854514141255761
+ network: 0.050013898328390406
+ person: 0.02297407005742502
+ photograph: 0.02297407005742502
+ popular: 0.012418416247256767
+ potenti: 0.012418416247256767
+ profil: 0.04361697053993531
+ rate: 0.02297407005742502
+ real: 0.012418416247256767
+ regist: 0.012418416247256767
+ relationship: 0.02297407005742502
+ request: 0.058047934727997894
+ result: 0.02297407005742502
+ sensit: 0.012418416247256767
+ share: 0.012418416247256767
+ site: 0.04422998187896621
+ social: 0.04422998187896621
+ theft: 0.02521714649208577
+ user: 0.04329370364199891
+ volum: 0.02297407005742502
+ wellknown: 0.012418416247256767
+
+N-grams list: 10
+ clone attack
+ ident theft attack
+ social network social
+ social network site
+ autom attack
+ potenti attack
+ advanc attack
+ friend request
+ person user inform
+ popular social network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

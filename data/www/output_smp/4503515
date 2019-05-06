@@ -1,0 +1,68 @@
+File name: 4503515
+
+Graph edges count: 23
+ academ - public: 1
+ activ - procedur: 1
+ activ - theori: 1
+ base - user: 1
+ domain - ontologi: 2
+ experiment - result: 1
+ ontologi - base: 1
+ ontologi - model: 2
+ person - semant: 2
+ person - servic: 1
+ search - engin: 1
+ semanticbas - user: 1
+ semant - relat: 1
+ semant - search: 1
+ semant - servic: 1
+ semant - web: 2
+ servic - domain: 1
+ spread - activ: 2
+ statist - approach: 1
+ user - model: 1
+ user - ontologi: 5
+ web - applic: 1
+ web - servic: 1
+
+PageRank scores count: 24
+ academ: 0.01999418413818352
+ activ: 0.03698924065563951
+ applic: 0.031064870172757587
+ approach: 0.03698924065563951
+ base: 0.0666333298422698
+ domain: 0.0587685383566384
+ engin: 0.04213555620733165
+ experiment: 0.01999418413818352
+ model: 0.1064250533223007
+ ontologi: 0.10973916522135703
+ person: 0.01999418413818352
+ procedur: 0.03571461141683031
+ public: 0.03698924065563951
+ relat: 0.026048673022527218
+ result: 0.03698924065563951
+ search: 0.026048673022527218
+ semant: 0.028491712396911513
+ semanticbas: 0.01999418413818352
+ servic: 0.045616887315829274
+ spread: 0.01999418413818352
+ statist: 0.01999418413818352
+ theori: 0.03571461141683031
+ user: 0.09362757781170257
+ web: 0.026048673022527218
+
+N-grams list: 10
+ user ontologi model
+ ontologi base user
+ semanticbas user ontologi
+ servic domain ontologi
+ user ontologi
+ domain ontologi
+ ontologi
+ model
+ semant search engin
+ person semant servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

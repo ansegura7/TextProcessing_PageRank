@@ -1,0 +1,102 @@
+File name: 11631340
+
+Graph edges count: 39
+ aggreg - user: 1
+ case - studi: 1
+ content - censorship: 1
+ content - discoveri: 1
+ content - promotion: 2
+ content - rate: 2
+ content - vote: 3
+ digg - social: 1
+ dig - activ: 1
+ distinct - properti: 1
+ diverg - qualiti: 1
+ highqual - content: 1
+ high - dynam: 1
+ indepth - studi: 1
+ larg - amount: 1
+ link - symmetri: 1
+ low - link: 1
+ network - aggreg: 1
+ new - aggreg: 1
+ node - outdegre: 1
+ onlin - content: 4
+ onlin - social: 1
+ popular - onlin: 1
+ powerlaw - distribu: 1
+ promotion - algorithm: 1
+ promotion - content: 1
+ rate - content: 1
+ rate - network: 2
+ rate - websit: 1
+ recommendationassist - content: 1
+ scale - high: 1
+ social - network: 2
+ social - new: 1
+ structur - properti: 1
+ unpreced - scale: 1
+ user - activ: 1
+ user - dig: 1
+ vote - network: 3
+ vote - spam: 1
+
+PageRank scores count: 42
+ activ: 0.07224174683413302
+ aggreg: 0.06386134498980214
+ algorithm: 0.01984337530508429
+ amount: 0.020745549106413654
+ case: 0.011213810327791163
+ censorship: 0.020304858731764495
+ content: 0.05347675455075049
+ dig: 0.0390495926191008
+ digg: 0.011213810327791163
+ discoveri: 0.020304858731764495
+ distinct: 0.011213810327791163
+ distribu: 0.020745549106413654
+ diverg: 0.011213810327791163
+ dynam: 0.03573420833579752
+ high: 0.02884752706824277
+ highqual: 0.011213810327791163
+ indepth: 0.011213810327791163
+ larg: 0.011213810327791163
+ link: 0.020745549106413654
+ low: 0.011213810327791163
+ network: 0.03816044180085148
+ new: 0.023777833505362934
+ node: 0.011213810327791163
+ onlin: 0.020745549106413654
+ outdegre: 0.020745549106413654
+ popular: 0.011213810327791163
+ powerlaw: 0.011213810327791163
+ promotion: 0.020304858731764495
+ properti: 0.030277287885036145
+ qualiti: 0.020745549106413654
+ rate: 0.020304858731764495
+ recommendationassist: 0.011213810327791163
+ scale: 0.020745549106413654
+ social: 0.029562407476639456
+ spam: 0.01984337530508429
+ structur: 0.011213810327791163
+ studi: 0.030277287885036145
+ symmetri: 0.02884752706824277
+ unpreced: 0.011213810327791163
+ user: 0.06549595373205516
+ vote: 0.020304858731764495
+ websit: 0.016966853645986584
+
+N-grams list: 10
+ user dig activ
+ network aggreg user
+ content promotion content
+ content rate network
+ onlin content rate
+ onlin content vote
+ content promotion algorithm
+ new aggreg
+ recommendationassist content discoveri
+ digg social network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

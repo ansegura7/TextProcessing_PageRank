@@ -1,0 +1,86 @@
+File name: 633842
+
+Graph edges count: 28
+ automat - code: 1
+ b2b - applic: 1
+ busi - process: 1
+ code - gener: 1
+ coher - statu: 1
+ conceptu - model: 1
+ develop - facil: 1
+ excep - handl: 1
+ gener - valid: 1
+ high - level: 2
+ hypertext - model: 1
+ implement - experi: 1
+ incoher - user: 1
+ inconsist - process: 1
+ industri - implement: 1
+ level - approach: 1
+ loos - control: 1
+ model - languag: 1
+ orient - workflow: 1
+ process - correct: 1
+ recoveri - polici: 1
+ web - applic: 3
+ web - client: 1
+ web - conceptu: 1
+ web - model: 1
+ web - orient: 1
+ workflowdriven - web: 2
+ workflow - applic: 1
+
+PageRank scores count: 37
+ applic: 0.059616411939730836
+ approach: 0.038686797887723376
+ automat: 0.015038599761991596
+ b2b: 0.015038599761991596
+ busi: 0.015038599761991596
+ client: 0.019768239387137954
+ code: 0.02782140955968445
+ coher: 0.015038599761991596
+ conceptu: 0.019768239387137954
+ control: 0.02782140955968445
+ correct: 0.0495521862157623
+ develop: 0.015038599761991596
+ excep: 0.015038599761991596
+ experi: 0.038686797887723376
+ facil: 0.02782140955968445
+ gener: 0.038686797887723376
+ handl: 0.02782140955968445
+ high: 0.015038599761991596
+ hypertext: 0.015038599761991596
+ implement: 0.02782140955968445
+ incoher: 0.015038599761991596
+ inconsist: 0.015038599761991596
+ industri: 0.015038599761991596
+ languag: 0.056989544526304954
+ level: 0.02782140955968445
+ loos: 0.015038599761991596
+ model: 0.049354052663898064
+ orient: 0.019768239387137954
+ polici: 0.02782140955968445
+ process: 0.040604219357377305
+ recoveri: 0.015038599761991596
+ statu: 0.02782140955968445
+ user: 0.02782140955968445
+ valid: 0.04792237796655647
+ web: 0.02782140955968445
+ workflow: 0.03184160324105885
+ workflowdriven: 0.015038599761991596
+
+N-grams list: 10
+ web model languag
+ workflowdriven web applic
+ web conceptu model
+ process correct
+ web applic
+ high level approach
+ automat code gener
+ industri implement experi
+ web orient workflow
+ b2b applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

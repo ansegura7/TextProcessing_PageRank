@@ -1,0 +1,95 @@
+File name: 13061054
+
+Graph edges count: 32
+ busi - opportun: 1
+ client - request: 1
+ common - interest: 1
+ comput - resourc: 1
+ data - share: 1
+ exchang - inform: 1
+ facebook - twitter: 1
+ freshman - handbook: 1
+ futur - client: 1
+ huge - busi: 1
+ intellig - server: 1
+ interus - data: 1
+ kei - decision: 1
+ life - exchang: 1
+ network - busi: 1
+ network - commun: 1
+ network - provid: 1
+ onlin - social: 1
+ opportun - osn: 1
+ osn - todai: 1
+ placem - strategi: 1
+ popular - osn: 1
+ public - inform: 1
+ recent - unpreced: 1
+ scalabl - server: 1
+ server - placem: 3
+ share - common: 1
+ social - applic: 1
+ social - life: 1
+ social - network: 5
+ tremend - amount: 1
+ unpreced - increas: 1
+
+PageRank scores count: 42
+ amount: 0.022327397221799574
+ applic: 0.01839495924264478
+ busi: 0.02753930234054893
+ client: 0.022327397221799574
+ common: 0.03845894171454976
+ commun: 0.01728076848188426
+ comput: 0.012068863363134905
+ data: 0.022327397221799574
+ decision: 0.022327397221799574
+ exchang: 0.027704578719382967
+ facebook: 0.012068863363134905
+ freshman: 0.012068863363134905
+ futur: 0.012068863363134905
+ handbook: 0.022327397221799574
+ huge: 0.012068863363134905
+ increas: 0.031047151001664542
+ inform: 0.04587628913327509
+ intellig: 0.012068863363134905
+ interest: 0.0447589638205022
+ interus: 0.012068863363134905
+ kei: 0.012068863363134905
+ life: 0.01839495924264478
+ network: 0.01839495924264478
+ onlin: 0.012068863363134905
+ opportun: 0.035477270352601495
+ osn: 0.05248307702151084
+ placem: 0.039766904781529507
+ popular: 0.012068863363134905
+ provid: 0.01728076848188426
+ public: 0.012068863363134905
+ recent: 0.012068863363134905
+ request: 0.031047151001664542
+ resourc: 0.022327397221799574
+ scalabl: 0.012068863363134905
+ server: 0.032585931080464245
+ share: 0.031047151001664542
+ social: 0.022327397221799574
+ strategi: 0.04587073242743498
+ todai: 0.05667947883141911
+ tremend: 0.012068863363134905
+ twitter: 0.022327397221799574
+ unpreced: 0.022327397221799574
+
+N-grams list: 10
+ popular osn todai
+ share common interest
+ intellig server placem
+ scalabl server placem
+ huge busi opportun
+ server placem
+ social life exchang
+ social network busi
+ interus data share
+ recent unpreced increas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

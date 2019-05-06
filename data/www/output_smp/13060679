@@ -1,0 +1,76 @@
+File name: 13060679
+
+Graph edges count: 23
+ bia - problem: 1
+ challeng - task: 1
+ clickthrough - behavior: 1
+ docum - relev: 1
+ examin - hypothesi: 3
+ experiment - result: 1
+ intent - divers: 1
+ intent - hypothesi: 2
+ ndcg - improv: 1
+ position - bia: 3
+ previou - work: 1
+ recent - advanc: 1
+ search - engin: 1
+ search - intent: 4
+ search - result: 1
+ search - session: 1
+ signific - ndcg: 1
+ task - due: 1
+ ubm - dbn: 1
+ unbias - relev: 1
+ user - click: 3
+ user - search: 2
+ wellknown - position: 1
+
+PageRank scores count: 32
+ advanc: 0.035976283607363824
+ behavior: 0.035976283607363824
+ bia: 0.050026480854023475
+ challeng: 0.01944663978776423
+ click: 0.027711461697564027
+ clickthrough: 0.01944663978776423
+ dbn: 0.035976283607363824
+ divers: 0.030214153082125276
+ docum: 0.01944663978776423
+ due: 0.050026480854023475
+ engin: 0.025335325398496585
+ examin: 0.01944663978776423
+ experiment: 0.01944663978776423
+ hypothesi: 0.04674379690172487
+ improv: 0.050026480854023475
+ intent: 0.025335325398496585
+ ndcg: 0.035976283607363824
+ position: 0.035976283607363824
+ previou: 0.01944663978776423
+ problem: 0.06196914851368419
+ recent: 0.01944663978776423
+ relev: 0.05250592742696342
+ result: 0.041864969218096175
+ search: 0.027711461697564027
+ session: 0.025335325398496585
+ signific: 0.01944663978776423
+ task: 0.035976283607363824
+ ubm: 0.01944663978776423
+ unbias: 0.01944663978776423
+ user: 0.01944663978776423
+ wellknown: 0.01944663978776423
+ work: 0.035976283607363824
+
+N-grams list: 10
+ wellknown position bia
+ challeng task due
+ signific ndcg improv
+ position bia
+ search intent divers
+ user search intent
+ intent hypothesi
+ docum relev
+ unbias relev
+ search result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

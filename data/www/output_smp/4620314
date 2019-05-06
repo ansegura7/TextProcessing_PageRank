@@ -1,0 +1,82 @@
+File name: 4620314
+
+Graph edges count: 28
+ automat - classif: 1
+ automat - imag: 1
+ automat - web: 2
+ cellular - phone: 1
+ classif - accuraci: 1
+ classif - method: 2
+ commerci - product: 1
+ desktop - pc: 1
+ eleven - web: 1
+ imag - categori: 1
+ imag - classif: 3
+ imag - featur: 1
+ imag - handl: 1
+ input - interfac: 1
+ larg - displai: 1
+ line - header: 1
+ menu - line: 1
+ mobil - devic: 1
+ mobil - web: 2
+ page - titl: 1
+ poor - input: 1
+ proper - web: 1
+ real - web: 1
+ site - menu: 1
+ small - screen: 1
+ web - imag: 5
+ web - page: 4
+ web - site: 1
+
+PageRank scores count: 33
+ accuraci: 0.029347242881701714
+ automat: 0.016577719688757243
+ categori: 0.025348916346093993
+ cellular: 0.016577719688757243
+ classif: 0.030045936924575217
+ commerci: 0.016577719688757243
+ desktop: 0.016577719688757243
+ devic: 0.023623250556479073
+ displai: 0.030668781424200906
+ eleven: 0.016577719688757243
+ featur: 0.025348916346093993
+ handl: 0.025348916346093993
+ header: 0.06511038447627145
+ imag: 0.041276219563937656
+ input: 0.030668781424200906
+ interfac: 0.04264618389932801
+ larg: 0.016577719688757243
+ line: 0.05709725269119317
+ menu: 0.04767003882639521
+ method: 0.029347242881701714
+ mobil: 0.016577719688757243
+ page: 0.03657919898545643
+ pc: 0.030668781424200906
+ phone: 0.030668781424200906
+ poor: 0.016577719688757243
+ product: 0.030668781424200906
+ proper: 0.016577719688757243
+ real: 0.016577719688757243
+ screen: 0.030668781424200906
+ site: 0.03657919898545643
+ small: 0.016577719688757243
+ titl: 0.04767003882639521
+ web: 0.07059345634129127
+
+N-grams list: 10
+ site menu line
+ automat web imag
+ proper web imag
+ eleven web imag
+ automat web page
+ real web page
+ web imag
+ web page
+ web site
+ poor input interfac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

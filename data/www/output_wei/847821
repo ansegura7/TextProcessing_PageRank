@@ -1,0 +1,72 @@
+File name: 847821
+
+Graph edges count: 23
+ applicationori - project: 1
+ basic - overview: 1
+ descrip - format: 1
+ devic - independ: 1
+ gener - platform: 1
+ gener - uiml: 1
+ gener - user: 1
+ independ - multimod: 1
+ independ - user: 2
+ integr - descrip: 1
+ interfac - descrip: 1
+ interfac - markup: 1
+ languag - elem: 1
+ main - featur: 1
+ markup - languag: 1
+ mobil - applic: 1
+ modal - independ: 2
+ multimod - mobil: 1
+ prototyp - implement: 1
+ uiml - vocabulari: 1
+ user - interfac: 5
+ vocabulari - structur: 1
+ voic - modal: 1
+
+PageRank scores count: 28
+ applic: 0.05467977402147083
+ applicationori: 0.016705733285489417
+ basic: 0.016705733285489417
+ descrip: 0.05745466592741265
+ devic: 0.016705733285489417
+ elem: 0.06215719425675987
+ featur: 0.030905606578155418
+ format: 0.06554219932379017
+ gener: 0.016705733285489417
+ implement: 0.030905606578155418
+ independ: 0.057175372169587534
+ integr: 0.016705733285489417
+ interfac: 0.062468374939428785
+ languag: 0.05347230702502407
+ main: 0.016705733285489417
+ markup: 0.04325479263474665
+ mobil: 0.04467534204233108
+ modal: 0.030905606578155418
+ multimod: 0.032905422066872546
+ overview: 0.030905606578155418
+ platform: 0.02143902438304475
+ project: 0.030905606578155418
+ prototyp: 0.016705733285489417
+ structur: 0.04639530169490525
+ uiml: 0.02143902438304475
+ user: 0.05383840194581102
+ vocabulari: 0.034928904011077455
+ voic: 0.016705733285489417
+
+N-grams list: 10
+ user interfac markup
+ modal independ user
+ gener user interfac
+ descrip format
+ user interfac
+ languag elem
+ devic independ multimod
+ mobil applic
+ vocabulari structur
+ integr descrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

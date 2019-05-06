@@ -1,0 +1,61 @@
+File name: 303949
+
+Graph edges count: 18
+ author - environ: 1
+ docum - manipul: 1
+ error - prone: 1
+ increment - transform: 2
+ increment - xslt: 1
+ interact - transformationbas: 1
+ prone - experi: 1
+ transformationbas - author: 1
+ transform - framework: 1
+ transform - processor: 2
+ transform - sheet: 2
+ web - consortium: 1
+ wide - web: 1
+ world - wide: 1
+ xml - content: 1
+ xml - docum: 1
+ xslt - languag: 1
+ xslt - transform: 1
+
+PageRank scores count: 22
+ author: 0.06514425987431717
+ consortium: 0.08069594834674285
+ content: 0.03608574162134187
+ docum: 0.03608574162134187
+ environ: 0.08069594834674285
+ error: 0.025323327453573245
+ experi: 0.06514425987431717
+ framework: 0.03989294563319003
+ increment: 0.025323327453573245
+ interact: 0.025323327453573245
+ languag: 0.04065976764264354
+ manipul: 0.05599620783171384
+ processor: 0.03989294563319003
+ prone: 0.0468481557891105
+ sheet: 0.03989294563319003
+ transform: 0.05142218181041217
+ transformationbas: 0.0468481557891105
+ web: 0.06514425987431717
+ wide: 0.0468481557891105
+ world: 0.025323327453573245
+ xml: 0.025323327453573245
+ xslt: 0.03608574162134187
+
+N-grams list: 10
+ world wide web
+ interact transformationbas author
+ error prone experi
+ xml docum manipul
+ increment transform framework
+ increment transform processor
+ increment xslt transform
+ transform sheet
+ environ
+ consortium
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

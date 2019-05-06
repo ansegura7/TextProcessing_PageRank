@@ -1,0 +1,78 @@
+File name: 7511137
+
+Graph edges count: 24
+ browser - exten: 1
+ browser - secur: 1
+ custom - url: 1
+ error - process: 2
+ firefox - browser: 1
+ highsecur - web: 1
+ hostil - network: 1
+ http - protocol: 1
+ imperfect - web: 1
+ insecur - site: 1
+ lax - error: 1
+ misconfigur - server: 1
+ network - attack: 3
+ network - environ: 1
+ prototyp - implement: 1
+ realworld - deploy: 1
+ rule - forcehttp: 1
+ secur - mechan: 1
+ simpl - browser: 1
+ sophist - user: 1
+ web - browser: 1
+ web - site: 3
+ web - user: 1
+ wireless - network: 1
+
+PageRank scores count: 33
+ attack: 0.04808810465296921
+ browser: 0.05582372902112256
+ custom: 0.017671329224793465
+ deploy: 0.032691959065867915
+ environ: 0.027810254367518716
+ error: 0.032691959065867915
+ exten: 0.04139641405877055
+ firefox: 0.017671329224793465
+ forcehttp: 0.032691959065867915
+ highsecur: 0.017671329224793465
+ hostil: 0.017671329224793465
+ http: 0.017671329224793465
+ imperfect: 0.017671329224793465
+ implement: 0.032691959065867915
+ insecur: 0.017671329224793465
+ lax: 0.017671329224793465
+ mechan: 0.052858281174748424
+ misconfigur: 0.017671329224793465
+ network: 0.04771258890694236
+ process: 0.04545949443078119
+ protocol: 0.032691959065867915
+ prototyp: 0.017671329224793465
+ realworld: 0.017671329224793465
+ rule: 0.017671329224793465
+ secur: 0.04139641405877055
+ server: 0.032691959065867915
+ simpl: 0.017671329224793465
+ site: 0.05702537940840851
+ sophist: 0.017671329224793465
+ url: 0.032691959065867915
+ user: 0.04080309918004811
+ web: 0.04771258890694236
+ wireless: 0.017671329224793465
+
+N-grams list: 10
+ imperfect web site
+ highsecur web site
+ firefox browser exten
+ simpl browser secur
+ web site
+ web browser
+ lax error process
+ network attack
+ hostil network environ
+ web user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,87 @@
+File name: 178204
+
+Graph edges count: 29
+ applic - specif: 2
+ central - cluster: 1
+ central - databas: 2
+ cluster - architectur: 1
+ consist - model: 1
+ data - replic: 2
+ ecommerc - applic: 1
+ edg - server: 2
+ edg - servic: 5
+ effect - consist: 1
+ experiment - result: 1
+ kei - challeng: 1
+ objectbas - edg: 1
+ object - architectur: 1
+ onlin - bookstor: 1
+ perform - penalti: 1
+ relax - consist: 1
+ respons - time: 1
+ server - code: 1
+ server - system: 1
+ servic - architectur: 1
+ servic - system: 3
+ share - data: 1
+ specif - data: 1
+ specif - semant: 1
+ specif - subset: 1
+ tpcw - benchmark: 1
+ tradition - central: 2
+ web - servic: 1
+
+PageRank scores count: 37
+ applic: 0.028310908999843478
+ architectur: 0.05780551550523945
+ benchmark: 0.028310908999843478
+ bookstor: 0.028310908999843478
+ central: 0.028310908999843478
+ challeng: 0.028310908999843478
+ cluster: 0.023324618270591766
+ code: 0.02472914177724745
+ consist: 0.04131862394571751
+ data: 0.039465024565930464
+ databas: 0.03134604248721408
+ ecommerc: 0.01530319405396945
+ edg: 0.028310908999843478
+ effect: 0.01530319405396945
+ experiment: 0.01530319405396945
+ kei: 0.01530319405396945
+ model: 0.05042402440782933
+ object: 0.01530319405396945
+ objectbas: 0.01530319405396945
+ onlin: 0.01530319405396945
+ penalti: 0.028310908999843478
+ perform: 0.01530319405396945
+ relax: 0.01530319405396945
+ replic: 0.04884846493501034
+ respons: 0.01530319405396945
+ result: 0.028310908999843478
+ semant: 0.026457309620056428
+ server: 0.022178700525360008
+ servic: 0.045499675178319876
+ share: 0.01530319405396945
+ specif: 0.03936746670383641
+ subset: 0.026457309620056428
+ system: 0.05373518470342637
+ time: 0.028310908999843478
+ tpcw: 0.01530319405396945
+ tradition: 0.01530319405396945
+ web: 0.01530319405396945
+
+N-grams list: 10
+ edg servic architectur
+ edg servic system
+ applic specif data
+ effect consist model
+ applic specif semant
+ data replic
+ edg server code
+ tradition central databas
+ edg servic
+ object architectur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

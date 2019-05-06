@@ -1,0 +1,62 @@
+File name: 14445546
+
+Graph edges count: 17
+ geograph - entiti: 1
+ initi - locat: 1
+ interact - rout: 1
+ interact - search: 1
+ locationbas - servic: 1
+ noninteract - fashion: 1
+ onlin - navig: 1
+ real - time: 1
+ remot - locationbas: 1
+ rout - search: 2
+ search - requir: 1
+ search - system: 1
+ search - term: 1
+ system - user: 1
+ target - locat: 1
+ travel - distanc: 1
+ webbas - interact: 2
+
+PageRank scores count: 24
+ distanc: 0.04537868452832671
+ entiti: 0.04537868452832671
+ fashion: 0.04537868452832671
+ geograph: 0.024529018663960386
+ initi: 0.024529018663960386
+ interact: 0.04537868452832671
+ locat: 0.06622835039269305
+ locationbas: 0.04537868452832671
+ navig: 0.04537868452832671
+ noninteract: 0.024529018663960386
+ onlin: 0.024529018663960386
+ real: 0.024529018663960386
+ remot: 0.024529018663960386
+ requir: 0.04749535998159874
+ rout: 0.04381495958849924
+ search: 0.08105767523872359
+ servic: 0.06310090051303809
+ system: 0.04749535998159874
+ target: 0.024529018663960386
+ term: 0.04749535998159874
+ time: 0.04537868452832671
+ travel: 0.024529018663960386
+ user: 0.06490007464831932
+ webbas: 0.024529018663960386
+
+N-grams list: 10
+ remot locationbas servic
+ search term
+ search system
+ search requir
+ interact search
+ rout search
+ webbas interact rout
+ system user
+ target locat
+ initi locat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

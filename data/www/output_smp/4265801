@@ -1,0 +1,61 @@
+File name: 4265801
+
+Graph edges count: 16
+ autom - twostep: 1
+ candid - list: 1
+ content - provid: 1
+ data - set: 1
+ directori - project: 1
+ dmoz - open: 1
+ engin - rank: 1
+ open - directori: 1
+ rank - algorithm: 1
+ real - content: 1
+ search - engin: 2
+ semant - cloak: 3
+ twostep - method: 1
+ web - browser: 1
+ web - crawler: 1
+ web - page: 1
+
+PageRank scores count: 24
+ algorithm: 0.07685420221521466
+ autom: 0.024117742820449435
+ browser: 0.03095110328624344
+ candid: 0.024117742820449435
+ cloak: 0.044617824217831455
+ content: 0.044617824217831455
+ crawler: 0.03095110328624344
+ data: 0.024117742820449435
+ directori: 0.06204289340560616
+ dmoz: 0.024117742820449435
+ engin: 0.044617824217831455
+ list: 0.044617824217831455
+ method: 0.06204289340560616
+ open: 0.044617824217831455
+ page: 0.03095110328624344
+ project: 0.07685420221521466
+ provid: 0.06204289340560616
+ rank: 0.06204289340560616
+ real: 0.024117742820449435
+ search: 0.024117742820449435
+ semant: 0.024117742820449435
+ set: 0.044617824217831455
+ twostep: 0.044617824217831455
+ web: 0.024117742820449435
+
+N-grams list: 10
+ autom twostep method
+ search engin rank
+ dmoz open directori
+ content provid
+ project
+ algorithm
+ candid list
+ real content
+ search engin
+ data set
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

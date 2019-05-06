@@ -1,0 +1,110 @@
+File name: 13087531
+
+Graph edges count: 38
+ acquisi - relat: 1
+ benchmark - dataset: 1
+ coclust - algorithm: 2
+ current - stateoftheart: 1
+ detec - task: 1
+ dual - represent: 1
+ effici - heurist: 1
+ entiti - pair: 1
+ extension - defini: 1
+ extrac - relat: 1
+ inform - extrac: 2
+ languag - process: 1
+ lexic - pattern: 1
+ logist - regres: 1
+ natur - languag: 1
+ network - mine: 1
+ network - system: 1
+ numer - relat: 1
+ onlin - social: 1
+ open - inform: 1
+ pair - open: 1
+ powerset - soft: 1
+ realworld - relat: 1
+ regres - model: 1
+ relat - detec: 2
+ relat - dualiti: 1
+ relat - similar: 2
+ relat - type: 1
+ repres - pattern: 1
+ semant - relat: 3
+ sequenti - coclust: 1
+ similar - measur: 1
+ social - network: 3
+ stateoftheart - open: 1
+ unlabel - data: 1
+ unsupervis - extrac: 1
+ web - mine: 1
+ youtub - googl: 1
+
+PageRank scores count: 51
+ acquisi: 0.0093733436530112
+ algorithm: 0.024112926547371308
+ benchmark: 0.0093733436530112
+ coclust: 0.01734068575807072
+ current: 0.0093733436530112
+ data: 0.01734068575807072
+ dataset: 0.01734068575807072
+ defini: 0.01734068575807072
+ detec: 0.03391421303639163
+ dual: 0.0093733436530112
+ dualiti: 0.021643778344701412
+ effici: 0.0093733436530112
+ entiti: 0.0093733436530112
+ extension: 0.0093733436530112
+ extrac: 0.05337896593478118
+ googl: 0.01734068575807072
+ heurist: 0.01734068575807072
+ inform: 0.0423979766784829
+ languag: 0.01734068575807072
+ lexic: 0.0093733436530112
+ logist: 0.0093733436530112
+ measur: 0.03820042473394408
+ mine: 0.02758867954070352
+ model: 0.024112926547371308
+ natur: 0.0093733436530112
+ network: 0.024112926547371308
+ numer: 0.0093733436530112
+ onlin: 0.0093733436530112
+ open: 0.03885250944173142
+ pair: 0.01734068575807072
+ pattern: 0.025308027863130238
+ powerset: 0.0093733436530112
+ process: 0.024112926547371308
+ realworld: 0.0093733436530112
+ regres: 0.01734068575807072
+ relat: 0.08661483311781328
+ repres: 0.0093733436530112
+ represent: 0.01734068575807072
+ semant: 0.0093733436530112
+ sequenti: 0.0093733436530112
+ similar: 0.03391421303639163
+ social: 0.01734068575807072
+ soft: 0.01734068575807072
+ stateoftheart: 0.01734068575807072
+ system: 0.019621337435644006
+ task: 0.03820042473394408
+ type: 0.021643778344701412
+ unlabel: 0.0093733436530112
+ unsupervis: 0.0093733436530112
+ web: 0.0093733436530112
+ youtub: 0.0093733436530112
+
+N-grams list: 10
+ inform extrac relat
+ relat similar measur
+ realworld relat detec
+ relat similar
+ relat type
+ relat dualiti
+ semant relat
+ numer relat
+ acquisi relat
+ inform extrac
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

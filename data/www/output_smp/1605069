@@ -1,0 +1,69 @@
+File name: 1605069
+
+Graph edges count: 21
+ advertis - registri: 1
+ auction - algorithm: 1
+ auction - law: 1
+ auction - paramet: 1
+ auction - polici: 2
+ auction - process: 1
+ auction - room: 1
+ central - auction: 1
+ commun - protocol: 1
+ custom - defini: 1
+ decentr - control: 1
+ dutch - etc: 1
+ flexibl - architectur: 1
+ govern - interac: 1
+ internet - auction: 1
+ lawgovern - peertop: 1
+ law - govern: 1
+ onlin - auction: 1
+ opencri - dutch: 1
+ peertop - auction: 1
+ peertop - commun: 1
+
+PageRank scores count: 27
+ advertis: 0.021557478207030197
+ algorithm: 0.03480028198102178
+ architectur: 0.039881334683005865
+ auction: 0.0934786148752347
+ central: 0.021557478207030197
+ commun: 0.038507045447307695
+ control: 0.039881334683005865
+ custom: 0.021557478207030197
+ decentr: 0.021557478207030197
+ defini: 0.039881334683005865
+ dutch: 0.039881334683005865
+ etc: 0.055456612687585186
+ flexibl: 0.021557478207030197
+ govern: 0.0511377178908987
+ interac: 0.0650245384142941
+ internet: 0.021557478207030197
+ law: 0.03480028198102178
+ lawgovern: 0.021557478207030197
+ onlin: 0.021557478207030197
+ opencri: 0.021557478207030197
+ paramet: 0.03480028198102178
+ peertop: 0.039881334683005865
+ polici: 0.03480028198102178
+ process: 0.03480028198102178
+ protocol: 0.054288466837241735
+ registri: 0.039881334683005865
+ room: 0.03480028198102178
+
+N-grams list: 10
+ lawgovern peertop auction
+ law govern interac
+ central auction room
+ peertop commun protocol
+ auction process
+ auction polici
+ auction algorithm
+ auction law
+ auction paramet
+ opencri dutch etc
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

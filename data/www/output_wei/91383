@@ -1,0 +1,49 @@
+File name: 91383
+
+Graph edges count: 14
+ base - mobil: 1
+ consist - method: 1
+ develop - tool: 1
+ impair - user: 1
+ impair - web: 1
+ mobil - support: 1
+ semiautom - tool: 1
+ tool - base: 1
+ travel - object: 1
+ user - user: 1
+ web - develop: 1
+ web - page: 1
+ web - travel: 1
+ web - user: 1
+
+PageRank scores count: 14
+ base: 0.09089834187522998
+ consist: 0.025869089507209307
+ develop: 0.033702573173611125
+ impair: 0.025869089507209307
+ method: 0.04785781558833722
+ mobil: 0.10313268010115478
+ object: 0.054516276704778766
+ page: 0.033702573173611125
+ semiautom: 0.025869089507209307
+ support: 0.11353186759319087
+ tool: 0.07650500278590668
+ travel: 0.033702573173611125
+ user: 0.29797957476116715
+ web: 0.03686345254777326
+
+N-grams list: 10
+ impair web user
+ impair user
+ user
+ tool base mobil
+ web develop tool
+ support
+ mobil
+ semiautom tool
+ travel object
+ consist method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

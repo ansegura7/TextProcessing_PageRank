@@ -1,0 +1,64 @@
+File name: 4641969
+
+Graph edges count: 18
+ cach - lookup: 2
+ compens - queri: 2
+ comput - complex: 1
+ effici - compens: 1
+ experiment - result: 1
+ fast - cach: 2
+ good - perform: 1
+ io - cost: 1
+ lookup - algorithm: 1
+ previou - algorithm: 1
+ queri - construc: 1
+ queri - evalu: 3
+ semant - cach: 3
+ sequenc - view: 1
+ sequenti - xpath: 1
+ xml - databas: 1
+ xml - queri: 1
+ xpath - queri: 2
+
+PageRank scores count: 25
+ algorithm: 0.10006939177304047
+ cach: 0.05809543789436312
+ compens: 0.03980613337206362
+ complex: 0.03980613337206362
+ comput: 0.02151682884976412
+ construc: 0.0424123592664913
+ cost: 0.03980613337206362
+ databas: 0.030661481110913873
+ effici: 0.02151682884976412
+ evalu: 0.08420342009994568
+ experiment: 0.02151682884976412
+ fast: 0.02151682884976412
+ good: 0.02151682884976412
+ io: 0.02151682884976412
+ lookup: 0.07089795105997276
+ perform: 0.03980613337206362
+ previou: 0.02151682884976412
+ queri: 0.09833190784342204
+ result: 0.03980613337206362
+ semant: 0.02151682884976412
+ sequenc: 0.02151682884976412
+ sequenti: 0.02151682884976412
+ view: 0.03980613337206362
+ xml: 0.02151682884976412
+ xpath: 0.03980613337206362
+
+N-grams list: 10
+ xpath queri evalu
+ queri evalu
+ compens queri construc
+ sequenti xpath queri
+ effici compens queri
+ fast cach lookup
+ previou algorithm
+ xml queri
+ algorithm
+ queri
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

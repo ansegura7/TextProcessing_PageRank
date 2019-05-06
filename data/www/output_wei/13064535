@@ -1,0 +1,95 @@
+File name: 13064535
+
+Graph edges count: 31
+ afford - issu: 1
+ audio - content: 4
+ audio - docum: 2
+ combin - index: 1
+ complementari - stream: 1
+ content - search: 3
+ highpreci - lowrecal: 1
+ highrecal - index: 1
+ interconnect - voicesit: 1
+ issu - peopl: 1
+ languageindepend - speech: 1
+ larg - scale: 1
+ live - voicesit: 1
+ lowpreci - highrecal: 1
+ lowrecal - index: 1
+ multipl - languag: 1
+ precisionrecal - perform: 1
+ problem - area: 1
+ process - approach: 1
+ real - world: 1
+ recogni - accuraci: 1
+ signific - improv: 1
+ speechrecognitiononli - system: 1
+ speech - recogni: 2
+ spoken - web: 3
+ stream - index: 1
+ twostream - index: 1
+ twostream - process: 2
+ web - context: 1
+ web - search: 2
+ world - implic: 1
+
+PageRank scores count: 43
+ accuraci: 0.04297106550869519
+ afford: 0.01348482030634141
+ approach: 0.03144210601428605
+ area: 0.024946917566731605
+ audio: 0.01348482030634141
+ combin: 0.01348482030634141
+ complementari: 0.01348482030634141
+ content: 0.021126218479934875
+ context: 0.020553113616915364
+ docum: 0.017305519393138142
+ highpreci: 0.01348482030634141
+ highrecal: 0.024946917566731605
+ implic: 0.034689700238063274
+ improv: 0.024946917566731605
+ index: 0.09238225644869394
+ interconnect: 0.01348482030634141
+ issu: 0.024946917566731605
+ languag: 0.024946917566731605
+ languageindepend: 0.01348482030634141
+ larg: 0.01348482030634141
+ live: 0.01348482030634141
+ lowpreci: 0.01348482030634141
+ lowrecal: 0.024946917566731605
+ multipl: 0.01348482030634141
+ peopl: 0.034689700238063274
+ perform: 0.024946917566731605
+ precisionrecal: 0.01348482030634141
+ problem: 0.01348482030634141
+ process: 0.021126218479934875
+ real: 0.01348482030634141
+ recogni: 0.034689700238063274
+ scale: 0.024946917566731605
+ search: 0.045578692635433966
+ signific: 0.01348482030634141
+ speech: 0.024946917566731605
+ speechrecognitiononli: 0.01348482030634141
+ spoken: 0.01348482030634141
+ stream: 0.024946917566731605
+ system: 0.024946917566731605
+ twostream: 0.01348482030634141
+ voicesit: 0.036409014827121805
+ web: 0.024946917566731605
+ world: 0.024946917566731605
+
+N-grams list: 10
+ highpreci lowrecal index
+ lowpreci highrecal index
+ stream index
+ twostream index
+ combin index
+ speech recogni accuraci
+ index
+ spoken web search
+ audio content search
+ real world implic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

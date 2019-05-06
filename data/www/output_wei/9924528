@@ -1,0 +1,94 @@
+File name: 9924528
+
+Graph edges count: 31
+ axiomat - approach: 2
+ axiomat - framework: 1
+ cluster - system: 1
+ data - set: 2
+ disambigu - page: 1
+ disper - problem: 1
+ diversif - function: 1
+ diversif - object: 2
+ diversif - system: 2
+ effect - rank: 1
+ evalu - methodologi: 1
+ explicit - knowledg: 1
+ facil - disper: 1
+ intent - search: 1
+ larg - scale: 1
+ natur - axiom: 1
+ principlebas - approach: 1
+ prior - work: 1
+ probabl - rank: 1
+ product - databas: 1
+ rank - principlebas: 1
+ rank - system: 1
+ relev - result: 1
+ result - diversif: 1
+ rich - link: 1
+ scale - evalu: 1
+ search - engin: 3
+ tradeoff - relev: 1
+ user - intent: 2
+ user - satisfac: 1
+ wikipedia - disambigu: 1
+
+PageRank scores count: 42
+ approach: 0.04489450035063748
+ axiom: 0.024485202073091485
+ axiomat: 0.013235244363833233
+ cluster: 0.013235244363833233
+ data: 0.013235244363833233
+ databas: 0.024485202073091485
+ disambigu: 0.024485202073091485
+ disper: 0.024485202073091485
+ diversif: 0.04217576057090008
+ effect: 0.013235244363833233
+ engin: 0.03946639575592038
+ evalu: 0.034047666125960996
+ explicit: 0.013235244363833233
+ facil: 0.013235244363833233
+ framework: 0.016985230266919314
+ function: 0.020405123660886246
+ intent: 0.0207352161700054
+ knowledg: 0.024485202073091485
+ larg: 0.013235244363833233
+ link: 0.024485202073091485
+ methodologi: 0.04217576057090008
+ natur: 0.013235244363833233
+ object: 0.02757500295793926
+ page: 0.034047666125960996
+ principlebas: 0.02842268727133187
+ prior: 0.013235244363833233
+ probabl: 0.013235244363833233
+ problem: 0.034047666125960996
+ product: 0.013235244363833233
+ rank: 0.03573515978234973
+ relev: 0.024485202073091485
+ result: 0.034047666125960996
+ rich: 0.013235244363833233
+ satisfac: 0.016985230266919314
+ scale: 0.024485202073091485
+ search: 0.030860178108337827
+ set: 0.024485202073091485
+ system: 0.05401240357469614
+ tradeoff: 0.013235244363833233
+ user: 0.013235244363833233
+ wikipedia: 0.013235244363833233
+ work: 0.024485202073091485
+
+N-grams list: 10
+ effect rank system
+ diversif system
+ probabl rank principlebas
+ result diversif
+ evalu methodologi
+ larg scale evalu
+ wikipedia disambigu page
+ facil disper problem
+ search engin
+ diversif object
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

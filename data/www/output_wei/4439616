@@ -1,0 +1,65 @@
+File name: 4439616
+
+Graph edges count: 20
+ atom - map: 1
+ autom - support: 1
+ autom - techniqu: 1
+ basic - oper: 1
+ combin - map: 1
+ combin - model: 1
+ complex - global: 1
+ current - work: 1
+ data - share: 1
+ extens - map: 1
+ extens - xqueri: 1
+ global - map: 1
+ model - complex: 1
+ schema - elem: 1
+ semant - map: 1
+ share - system: 1
+ simpl - atom: 1
+ target - schema: 1
+ xml - schema: 1
+ xqueri - map: 1
+
+PageRank scores count: 24
+ atom: 0.04139657209810904
+ autom: 0.02237652545843732
+ basic: 0.02237652545843732
+ combin: 0.02237652545843732
+ complex: 0.04948009191996953
+ current: 0.02237652545843732
+ data: 0.02237652545843732
+ elem: 0.07373065138555097
+ extens: 0.02237652545843732
+ global: 0.06443460359041142
+ map: 0.17747668453455534
+ model: 0.03188654877827318
+ oper: 0.04139657209810904
+ schema: 0.06041661873778077
+ semant: 0.02237652545843732
+ share: 0.04139657209810904
+ simpl: 0.02237652545843732
+ support: 0.03188654877827318
+ system: 0.05756361174183
+ target: 0.02237652545843732
+ techniqu: 0.03188654877827318
+ work: 0.04139657209810904
+ xml: 0.02237652545843732
+ xqueri: 0.03188654877827318
+
+N-grams list: 10
+ simpl atom map
+ extens xqueri map
+ semant map
+ combin map
+ extens map
+ map
+ target schema elem
+ model complex global
+ data share system
+ xml schema
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

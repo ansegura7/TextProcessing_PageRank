@@ -1,0 +1,68 @@
+File name: 10814222
+
+Graph edges count: 22
+ data - analysi: 1
+ dynam - network: 1
+ dynam - social: 1
+ groupbas - anonym: 1
+ import - research: 1
+ link - predic: 1
+ longitudin - data: 1
+ multipl - instanc: 1
+ multipl - social: 1
+ network - anonym: 1
+ network - data: 1
+ network - instanc: 1
+ predic - algorithm: 1
+ preserv - techniqu: 1
+ privaci - loss: 1
+ privaci - preserv: 1
+ privaci - risk: 1
+ publish - multipl: 2
+ recent - work: 1
+ research - question: 1
+ singl - instanc: 2
+ social - network: 8
+
+PageRank scores count: 25
+ algorithm: 0.05651967618633419
+ analysi: 0.07400504706564691
+ anonym: 0.06121685583492482
+ data: 0.06121685583492482
+ dynam: 0.02197071960596081
+ groupbas: 0.02197071960596081
+ import: 0.02197071960596081
+ instanc: 0.07849133412511151
+ link: 0.02197071960596081
+ longitudin: 0.02197071960596081
+ loss: 0.028195756827649705
+ multipl: 0.0406458312710275
+ network: 0.07260361610787286
+ predic: 0.0406458312710275
+ preserv: 0.028195756827649705
+ privaci: 0.02197071960596081
+ publish: 0.02197071960596081
+ question: 0.05651967618633419
+ recent: 0.02197071960596081
+ research: 0.0406458312710275
+ risk: 0.028195756827649705
+ singl: 0.02197071960596081
+ social: 0.04858275372868084
+ techniqu: 0.045937112909463056
+ work: 0.0406458312710275
+
+N-grams list: 10
+ social network data
+ longitudin data analysi
+ network instanc
+ dynam social network
+ publish multipl instanc
+ social network
+ import research question
+ link predic algorithm
+ publish multipl social
+ singl instanc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

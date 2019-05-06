@@ -1,0 +1,47 @@
+File name: 4185403
+
+Graph edges count: 11
+ applic - similar: 1
+ experi - result: 1
+ interrel - object: 2
+ search - applic: 1
+ search - engin: 1
+ similar - calcul: 2
+ similar - measur: 1
+ similar - spread: 1
+ unifi - framework: 1
+ web - page: 1
+ web - search: 1
+
+PageRank scores count: 15
+ applic: 0.06985201175629206
+ calcul: 0.07265354691444689
+ engin: 0.06985201175629206
+ experi: 0.04350456162322589
+ framework: 0.0804834390029679
+ interrel: 0.04350456162322589
+ measur: 0.07265354691444689
+ object: 0.0804834390029679
+ page: 0.06199400031309689
+ result: 0.0804834390029679
+ search: 0.06199400031309689
+ similar: 0.10287877161607414
+ spread: 0.07265354691444689
+ unifi: 0.04350456162322589
+ web: 0.04350456162322589
+
+N-grams list: 10
+ similar measur
+ similar spread
+ similar calcul
+ web search applic
+ search engin
+ unifi framework
+ interrel object
+ experi result
+ web page
+ similar
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

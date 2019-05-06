@@ -1,0 +1,71 @@
+File name: 14475693
+
+Graph edges count: 22
+ collabor - network: 8
+ common - characterist: 1
+ complex - network: 1
+ degre - distribu: 1
+ human - be: 1
+ inform - flow: 2
+ network - collabor: 1
+ network - inform: 1
+ network - model: 1
+ network - subject: 1
+ node - degre: 1
+ organiz - constraint: 1
+ powerlaw - distribu: 1
+ powerlaw - node: 1
+ reallif - collabor: 1
+ social - network: 1
+ softwar - bug: 1
+ special - type: 1
+ specif - goal: 1
+ structur - constraint: 1
+ synthet - collabor: 1
+ taskdriven - inform: 2
+
+PageRank scores count: 28
+ be: 0.034649238666694455
+ bug: 0.034649238666694455
+ characterist: 0.034649238666694455
+ collabor: 0.07483155684067964
+ common: 0.018729318198213222
+ complex: 0.018729318198213222
+ constraint: 0.0505691591351757
+ degre: 0.04141520486579898
+ distribu: 0.06189220256838297
+ flow: 0.06880421336623029
+ goal: 0.034649238666694455
+ human: 0.018729318198213222
+ inform: 0.0589116363721984
+ model: 0.042991715903717156
+ network: 0.11417598670140183
+ node: 0.02668927843245384
+ organiz: 0.018729318198213222
+ powerlaw: 0.018729318198213222
+ reallif: 0.018729318198213222
+ social: 0.018729318198213222
+ softwar: 0.018729318198213222
+ special: 0.018729318198213222
+ specif: 0.018729318198213222
+ structur: 0.018729318198213222
+ subject: 0.042991715903717156
+ synthet: 0.018729318198213222
+ taskdriven: 0.018729318198213222
+ type: 0.034649238666694455
+
+N-grams list: 10
+ collabor network collabor
+ network inform flow
+ synthet collabor network
+ reallif collabor network
+ collabor network
+ network model
+ taskdriven inform flow
+ social network
+ complex network
+ network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

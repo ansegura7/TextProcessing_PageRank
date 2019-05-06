@@ -1,0 +1,73 @@
+File name: 9650811
+
+Graph edges count: 25
+ anchorbas - retriev: 3
+ anchor - text: 4
+ classif - purpos: 1
+ contentbas - retriev: 1
+ docum - retriev: 1
+ entir - web: 1
+ individu - method: 1
+ inform - queri: 1
+ model - anchor: 1
+ navig - queri: 2
+ navig - type: 1
+ ntcir - test: 1
+ probabl - estim: 1
+ queri - anchorbas: 1
+ queri - classif: 2
+ queri - term: 2
+ queri - type: 1
+ retriev - method: 3
+ retriev - result: 1
+ retriev - system: 2
+ test - collec: 1
+ web - docum: 1
+ web - retriev: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 27
+ anchor: 0.033961978738699855
+ anchorbas: 0.02723268801902165
+ classif: 0.02723268801902165
+ collec: 0.04722550827313804
+ contentbas: 0.018357826345243165
+ docum: 0.04506043212854592
+ entir: 0.018357826345243165
+ estim: 0.033961978738699855
+ individu: 0.018357826345243165
+ inform: 0.018357826345243165
+ method: 0.06856087078880645
+ model: 0.018357826345243165
+ navig: 0.018357826345243165
+ ntcir: 0.018357826345243165
+ probabl: 0.018357826345243165
+ purpos: 0.04150561116141157
+ queri: 0.041764054935428195
+ result: 0.05295671839534976
+ retriev: 0.12211373664743505
+ system: 0.05295671839534976
+ term: 0.02723268801902165
+ test: 0.033961978738699855
+ text: 0.04722550827313804
+ type: 0.03503476421575
+ web: 0.06282966066659473
+ wide: 0.033961978738699855
+ world: 0.018357826345243165
+
+N-grams list: 10
+ web docum retriev
+ anchorbas retriev method
+ entir web retriev
+ retriev method
+ retriev result
+ retriev system
+ anchorbas retriev
+ contentbas retriev
+ retriev
+ world wide web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

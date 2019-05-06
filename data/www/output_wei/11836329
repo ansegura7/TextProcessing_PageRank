@@ -1,0 +1,93 @@
+File name: 11836329
+
+Graph edges count: 31
+ aol - music: 1
+ automat - extrac: 1
+ bad - wrapper: 1
+ clickabl - structur: 1
+ comprehens - experi: 1
+ entiti - queri: 1
+ extrac - approach: 1
+ extrac - struclick: 1
+ good - scalabl: 1
+ high - accuraci: 1
+ human - label: 1
+ implicit - label: 2
+ import - observ: 1
+ import - web: 1
+ inform - extrac: 2
+ major - web: 1
+ queri - todai: 1
+ random - user: 1
+ relev - result: 1
+ result - snippet: 1
+ search - engin: 1
+ search - log: 1
+ small - amount: 1
+ structur - inform: 5
+ structur - web: 1
+ user - click: 1
+ user - queri: 1
+ web - content: 2
+ web - page: 1
+ web - search: 2
+ web - site: 3
+
+PageRank scores count: 41
+ accuraci: 0.0266652352119791
+ amount: 0.0266652352119791
+ aol: 0.014413640655123839
+ approach: 0.03777653812961039
+ automat: 0.014413640655123839
+ bad: 0.014413640655123839
+ click: 0.025746365620214956
+ clickabl: 0.014413640655123839
+ comprehens: 0.014413640655123839
+ content: 0.022184469744362556
+ engin: 0.023842040296477924
+ entiti: 0.014413640655123839
+ experi: 0.0266652352119791
+ extrac: 0.054971523469380106
+ good: 0.014413640655123839
+ high: 0.014413640655123839
+ human: 0.014413640655123839
+ implicit: 0.014413640655123839
+ import: 0.014413640655123839
+ inform: 0.03330151559694237
+ label: 0.038916829768834364
+ log: 0.023842040296477924
+ major: 0.014413640655123839
+ music: 0.0266652352119791
+ observ: 0.020539437933551473
+ page: 0.0182990551997432
+ queri: 0.037997960177070224
+ random: 0.014413640655123839
+ relev: 0.014413640655123839
+ result: 0.0266652352119791
+ scalabl: 0.0266652352119791
+ search: 0.022184469744362556
+ site: 0.026069884288981916
+ small: 0.014413640655123839
+ snippet: 0.037079090585306076
+ struclick: 0.03777653812961039
+ structur: 0.0266652352119791
+ todai: 0.04671190680563352
+ user: 0.0266652352119791
+ web: 0.036568607478770436
+ wrapper: 0.0266652352119791
+
+N-grams list: 10
+ inform extrac approach
+ inform extrac struclick
+ entiti queri todai
+ web search log
+ clickabl structur web
+ import web site
+ major web search
+ automat extrac
+ random user click
+ user queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,82 @@
+File name: 10274995
+
+Graph edges count: 27
+ contextawar - approach: 1
+ contextawar - search: 2
+ data - set: 1
+ docum - rerank: 1
+ experiment - result: 1
+ gener - approach: 1
+ grand - challeng: 1
+ hidden - markov: 2
+ larg - variabl: 1
+ larg - vlhmm: 1
+ length - hidden: 2
+ log - data: 1
+ mapreduc - model: 1
+ markov - model: 2
+ mathemat - model: 1
+ paramet - initi: 1
+ previou - queri: 1
+ queri - sugges: 2
+ real - data: 2
+ rerank - queri: 2
+ search - applic: 1
+ search - experi: 1
+ search - log: 1
+ search - session: 3
+ url - recommend: 2
+ variabl - length: 2
+ vlhmm - learn: 1
+
+PageRank scores count: 34
+ applic: 0.020616006573108827
+ approach: 0.03600012661363211
+ challeng: 0.029274828235261275
+ contextawar: 0.015824231478519607
+ data: 0.04679843382240378
+ docum: 0.015824231478519607
+ experi: 0.020616006573108827
+ experiment: 0.015824231478519607
+ gener: 0.015824231478519607
+ grand: 0.015824231478519607
+ hidden: 0.04556686355686463
+ initi: 0.029274828235261275
+ larg: 0.015824231478519607
+ learn: 0.03499133185687649
+ length: 0.03499133185687649
+ log: 0.020616006573108827
+ mapreduc: 0.015824231478519607
+ markov: 0.054556065501854545
+ mathemat: 0.015824231478519607
+ model: 0.08909808066857931
+ paramet: 0.015824231478519607
+ previou: 0.015824231478519607
+ queri: 0.05415843223523337
+ real: 0.015824231478519607
+ recommend: 0.029274828235261275
+ rerank: 0.029274828235261275
+ result: 0.029274828235261275
+ search: 0.022549529856890443
+ session: 0.020616006573108827
+ set: 0.05560290022756282
+ sugges: 0.06185889887846797
+ url: 0.015824231478519607
+ variabl: 0.022549529856890443
+ vlhmm: 0.022549529856890443
+
+N-grams list: 10
+ hidden markov model
+ rerank queri sugges
+ markov model
+ real data set
+ mapreduc model
+ mathemat model
+ variabl length hidden
+ docum rerank queri
+ larg variabl length
+ previou queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,75 @@
+File name: 11796084
+
+Graph edges count: 24
+ adjust - agreem: 1
+ agreem - graph: 1
+ baselin - method: 1
+ databas - selec: 1
+ deep - web: 4
+ googl - base: 2
+ intersourc - agreem: 1
+ multipl - domain: 1
+ open - collec: 1
+ qualiti - score: 1
+ querysimilaritybas - relev: 1
+ random - walk: 1
+ relev - assess: 1
+ relev - evalu: 1
+ relev - web: 1
+ selec - method: 1
+ sourc - corrup: 1
+ sourc - qualiti: 1
+ sourc - selec: 1
+ stationari - visit: 1
+ trust - assess: 1
+ visit - probabl: 1
+ web - databas: 2
+ web - sourc: 1
+
+PageRank scores count: 30
+ adjust: 0.018401778655863513
+ agreem: 0.049684802370831484
+ assess: 0.04368888949212929
+ base: 0.0340432905133475
+ baselin: 0.018401778655863513
+ collec: 0.0340432905133475
+ corrup: 0.028876486384702076
+ databas: 0.03696955669001847
+ deep: 0.018401778655863513
+ domain: 0.0340432905133475
+ evalu: 0.028047377634645303
+ googl: 0.018401778655863513
+ graph: 0.060633860671070273
+ intersourc: 0.018401778655863513
+ method: 0.0852988086488826
+ multipl: 0.018401778655863513
+ open: 0.018401778655863513
+ probabl: 0.04733857559220889
+ qualiti: 0.028876486384702076
+ querysimilaritybas: 0.018401778655863513
+ random: 0.018401778655863513
+ relev: 0.0340432905133475
+ score: 0.04294679208286028
+ selec: 0.060300609571217766
+ sourc: 0.03696955669001847
+ stationari: 0.018401778655863513
+ trust: 0.018401778655863513
+ visit: 0.0340432905133475
+ walk: 0.0340432905133475
+ web: 0.04368888949212929
+
+N-grams list: 10
+ databas selec method
+ relev web databas
+ agreem graph
+ baselin method
+ stationari visit probabl
+ deep web databas
+ deep web sourc
+ sourc selec
+ querysimilaritybas relev assess
+ method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

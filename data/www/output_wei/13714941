@@ -1,0 +1,56 @@
+File name: 13714941
+
+Graph edges count: 14
+ authent - guarante: 1
+ cach - mirror: 1
+ comput - resourc: 1
+ cryptograph - hash: 1
+ malici - server: 1
+ merkl - tree: 2
+ privat - kei: 1
+ respons - authent: 1
+ server - act: 1
+ singl - cryptograph: 1
+ tree - authent: 1
+ untrust - machin: 1
+ web - cach: 1
+ web - protocol: 2
+
+PageRank scores count: 21
+ act: 0.07044575710932786
+ authent: 0.0937222949297083
+ cach: 0.03514300808175086
+ comput: 0.02738416214162405
+ cryptograph: 0.05066069996200449
+ guarante: 0.1070481128318761
+ hash: 0.07044575710932786
+ kei: 0.05066069996200449
+ machin: 0.05066069996200449
+ malici: 0.02738416214162405
+ merkl: 0.02738416214162405
+ mirror: 0.05725571901111228
+ privat: 0.02738416214162405
+ protocol: 0.042901854021877676
+ resourc: 0.05066069996200449
+ respons: 0.02738416214162405
+ server: 0.05066069996200449
+ singl: 0.02738416214162405
+ tree: 0.05066069996200449
+ untrust: 0.02738416214162405
+ web: 0.02738416214162405
+
+N-grams list: 10
+ authent guarante
+ merkl tree authent
+ singl cryptograph hash
+ server act
+ respons authent
+ web cach mirror
+ authent
+ privat kei
+ merkl tree
+ comput resourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

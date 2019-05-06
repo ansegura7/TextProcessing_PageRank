@@ -1,0 +1,71 @@
+File name: 86329
+
+Graph edges count: 23
+ assum - version: 1
+ audit - queri: 1
+ differenti - queri: 1
+ docum - author: 1
+ docum - version: 3
+ entir - histori: 1
+ file - version: 1
+ free - space: 1
+ histori - snapshot: 1
+ includ - file: 1
+ main - file: 1
+ past - docum: 1
+ past - version: 1
+ queri - languag: 1
+ read - ttapach: 1
+ simpl - queri: 1
+ specif - version: 1
+ system - time: 1
+ transactiontim - web: 1
+ transac - time: 3
+ version - histori: 2
+ web - docum: 1
+ web - server: 1
+
+PageRank scores count: 27
+ assum: 0.01667313541986825
+ audit: 0.01667313541986825
+ author: 0.02450768544301978
+ differenti: 0.01667313541986825
+ docum: 0.036868470697183665
+ entir: 0.01667313541986825
+ file: 0.04501746563364427
+ free: 0.01667313541986825
+ histori: 0.12763653796512567
+ includ: 0.01667313541986825
+ languag: 0.06698432154932069
+ main: 0.01667313541986825
+ past: 0.01667313541986825
+ queri: 0.059189630740532274
+ read: 0.01667313541986825
+ server: 0.02978238814373966
+ simpl: 0.01667313541986825
+ snapshot: 0.12516419269022508
+ space: 0.03084530052675626
+ specif: 0.01667313541986825
+ system: 0.01667313541986825
+ time: 0.04501746563364427
+ transac: 0.01667313541986825
+ transactiontim: 0.01667313541986825
+ ttapach: 0.03084530052675626
+ version: 0.11387204404514048
+ web: 0.03084530052675626
+
+N-grams list: 10
+ docum version histori
+ version histori
+ past docum version
+ file version
+ docum version
+ entir histori
+ simpl queri languag
+ assum version
+ past version
+ specif version
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

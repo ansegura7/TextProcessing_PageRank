@@ -1,0 +1,44 @@
+File name: 13517074
+
+Graph edges count: 9
+ graphic - model: 1
+ instancebas - probabilist: 1
+ instanc - data: 1
+ markov - logic: 1
+ owl - ontologi: 1
+ probabilist - graphic: 1
+ probabilist - reason: 2
+ represent - formal: 1
+ semant - web: 3
+
+PageRank scores count: 15
+ data: 0.07977297043818536
+ formal: 0.07977297043818536
+ graphic: 0.07702403699741006
+ instanc: 0.04312052456118128
+ instancebas: 0.04312052456118128
+ logic: 0.07977297043818536
+ markov: 0.04312052456118128
+ model: 0.10859095600897983
+ ontologi: 0.07977297043818536
+ owl: 0.04312052456118128
+ probabilist: 0.07977297043818536
+ reason: 0.07702403699741006
+ represent: 0.04312052456118128
+ semant: 0.04312052456118128
+ web: 0.07977297043818536
+
+N-grams list: 9
+ probabilist graphic model
+ instancebas probabilist reason
+ probabilist reason
+ represent formal
+ markov logic
+ owl ontologi
+ semant web
+ instanc data
+ logic
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,55 @@
+File name: 13756266
+
+Graph edges count: 13
+ cluster - web: 1
+ high - qualiti: 1
+ import - task: 1
+ inform - provid: 4
+ major - concern: 1
+ object - cluster: 1
+ qualiti - object: 1
+ rich - inform: 1
+ similar - set: 1
+ singl - inform: 1
+ trustworthi - sourc: 1
+ trust - analysi: 1
+ truth - establish: 1
+
+PageRank scores count: 21
+ analysi: 0.04944837497771899
+ cluster: 0.08517482589912097
+ concern: 0.04944837497771899
+ establish: 0.04944837497771899
+ high: 0.026728851339307563
+ import: 0.026728851339307563
+ inform: 0.07216789861613042
+ major: 0.026728851339307563
+ object: 0.06875997007036871
+ provid: 0.08807156516301841
+ qualiti: 0.04944837497771899
+ rich: 0.026728851339307563
+ set: 0.04944837497771899
+ similar: 0.026728851339307563
+ singl: 0.026728851339307563
+ sourc: 0.04944837497771899
+ task: 0.04944837497771899
+ trust: 0.026728851339307563
+ trustworthi: 0.026728851339307563
+ truth: 0.026728851339307563
+ web: 0.09912745335356037
+
+N-grams list: 10
+ singl inform provid
+ cluster web
+ inform provid
+ high qualiti object
+ web
+ rich inform
+ provid
+ cluster
+ import task
+ truth establish
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

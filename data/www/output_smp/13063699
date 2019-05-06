@@ -1,0 +1,53 @@
+File name: 13063699
+
+Graph edges count: 14
+ articl - gener: 1
+ automat - domainindepend: 1
+ domainindepend - wikipedia: 1
+ experiment - result: 1
+ gener - framework: 1
+ highqual - wikipedia: 1
+ input - concept: 2
+ selec - approach: 1
+ semant - related: 1
+ sibl - concept: 1
+ templat - qualiti: 1
+ templat - selec: 1
+ wikipedia - articl: 2
+ wikipedia - templat: 2
+
+PageRank scores count: 18
+ approach: 0.07577869528219947
+ articl: 0.06796609649906353
+ automat: 0.027689698876709603
+ concept: 0.07476218696711594
+ domainindepend: 0.051225942921912765
+ experiment: 0.027689698876709603
+ framework: 0.10033144764248617
+ gener: 0.0854608809009136
+ highqual: 0.027689698876709603
+ input: 0.027689698876709603
+ qualiti: 0.0565752898888116
+ related: 0.051225942921912765
+ result: 0.051225942921912765
+ selec: 0.0565752898888116
+ semant: 0.027689698876709603
+ sibl: 0.027689698876709603
+ templat: 0.06796609649906353
+ wikipedia: 0.09476799440553862
+
+N-grams list: 10
+ wikipedia templat selec
+ highqual wikipedia articl
+ gener framework
+ automat domainindepend wikipedia
+ wikipedia templat
+ articl gener
+ templat qualiti
+ input concept
+ sibl concept
+ semant related
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

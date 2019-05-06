@@ -1,0 +1,48 @@
+File name: 750159
+
+Graph edges count: 10
+ accesschannel - strategi: 1
+ inform - technologi: 1
+ internet - adop: 1
+ keynot - talk: 1
+ nation - scale: 1
+ nh - user: 1
+ richard - granger: 1
+ takeup - rate: 1
+ talk - richard: 1
+ user - organ: 1
+
+PageRank scores count: 17
+ accesschannel: 0.03535864717815897
+ adop: 0.0654134972795941
+ granger: 0.11267474906410081
+ inform: 0.03535864717815897
+ internet: 0.03535864717815897
+ keynot: 0.03535864717815897
+ nation: 0.03535864717815897
+ nh: 0.03535864717815897
+ organ: 0.09096011986581394
+ rate: 0.0654134972795941
+ richard: 0.09096011986581394
+ scale: 0.0654134972795941
+ strategi: 0.0654134972795941
+ takeup: 0.03535864717815897
+ talk: 0.0654134972795941
+ technologi: 0.0654134972795941
+ user: 0.0654134972795941
+
+N-grams list: 10
+ keynot talk richard
+ user organ
+ granger
+ internet adop
+ nh user
+ takeup rate
+ inform technologi
+ nation scale
+ accesschannel strategi
+ user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

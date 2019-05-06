@@ -1,0 +1,82 @@
+File name: 5430596
+
+Graph edges count: 29
+ an - xml: 1
+ common - relat: 1
+ design - principl: 1
+ edgebas - relat: 1
+ informationtheoret - framework: 1
+ informationtheoret - measur: 1
+ informationtheoret - properti: 1
+ inform - content: 1
+ inrel - databas: 1
+ integr - constraint: 1
+ normal - form: 2
+ perfect - option: 1
+ relat - databas: 1
+ relat - design: 2
+ relat - represent: 2
+ relat - storag: 3
+ relat - storagesa: 1
+ similar - informationtheoret: 1
+ slight - restric: 1
+ storag - design: 1
+ storag - scheme: 1
+ welldesign - relat: 1
+ xml - constraint: 1
+ xml - data: 1
+ xml - design: 2
+ xml - docum: 2
+ xml - normal: 1
+ xml - schema: 1
+ xml - storag: 1
+
+PageRank scores count: 32
+ an: 0.019223666897105925
+ common: 0.019223666897105925
+ constraint: 0.038922585559168076
+ content: 0.03556378375964596
+ data: 0.02258246869662804
+ databas: 0.04200905207764786
+ design: 0.05664707343367331
+ docum: 0.02594127049615016
+ edgebas: 0.019223666897105925
+ form: 0.03841876528923976
+ framework: 0.029300072295672278
+ inform: 0.019223666897105925
+ informationtheoret: 0.03556378375964596
+ inrel: 0.019223666897105925
+ integr: 0.019223666897105925
+ measur: 0.029300072295672278
+ normal: 0.02258246869662804
+ option: 0.03556378375964596
+ perfect: 0.019223666897105925
+ principl: 0.06737367931572824
+ properti: 0.029300072295672278
+ relat: 0.06824401748472603
+ represent: 0.03211420353310973
+ restric: 0.03556378375964596
+ schema: 0.02258246869662804
+ scheme: 0.03703893319862527
+ similar: 0.019223666897105925
+ slight: 0.019223666897105925
+ storag: 0.041918273650633754
+ storagesa: 0.025668935215107828
+ welldesign: 0.019223666897105925
+ xml: 0.03556378375964596
+
+N-grams list: 10
+ relat storag design
+ common relat storag
+ relat design
+ edgebas relat represent
+ welldesign relat storagesa
+ relat databas
+ relat storag
+ relat represent
+ an xml storag
+ xml normal form
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

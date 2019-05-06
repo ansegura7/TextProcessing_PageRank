@@ -1,0 +1,87 @@
+File name: 13522059
+
+Graph edges count: 30
+ abstract - model: 1
+ actual - data: 1
+ advanc - reserv: 1
+ arbitragefre - deriv: 1
+ busi - servic: 1
+ consist - arbitragefre: 1
+ deriv - model: 1
+ deriv - price: 1
+ deriv - web: 1
+ energi - exchang: 1
+ eventu - shortcom: 1
+ highvalu - busi: 1
+ incomplet - market: 1
+ inform - process: 1
+ inventor - servic: 1
+ market - design: 1
+ market - particip: 1
+ missioncrit - web: 2
+ price - process: 1
+ process - servic: 1
+ servic - characterist: 1
+ servic - deriv: 2
+ servic - develop: 1
+ servic - market: 1
+ shortterm - trend: 1
+ simpl - inform: 1
+ strategi - space: 1
+ tradeabl - underli: 1
+ trade - process: 1
+ web - servic: 5
+
+PageRank scores count: 36
+ abstract: 0.0125476598975071
+ actual: 0.0125476598975071
+ advanc: 0.0125476598975071
+ arbitragefre: 0.023213170810388137
+ busi: 0.023213170810388137
+ characterist: 0.041330696178464923
+ consist: 0.0125476598975071
+ data: 0.023213170810388137
+ deriv: 0.06106189136729484
+ design: 0.03464604864244248
+ develop: 0.041330696178464923
+ energi: 0.0125476598975071
+ eventu: 0.0125476598975071
+ exchang: 0.023213170810388137
+ highvalu: 0.0125476598975071
+ incomplet: 0.0125476598975071
+ inform: 0.023213170810388137
+ inventor: 0.0125476598975071
+ market: 0.051996207091345954
+ missioncrit: 0.0125476598975071
+ model: 0.040514040518530574
+ particip: 0.03464604864244248
+ price: 0.02984852960564954
+ process: 0.0683156170778315
+ reserv: 0.023213170810388137
+ servic: 0.13544957761251458
+ shortcom: 0.023213170810388137
+ shortterm: 0.0125476598975071
+ simpl: 0.0125476598975071
+ space: 0.023213170810388137
+ strategi: 0.0125476598975071
+ trade: 0.0125476598975071
+ tradeabl: 0.0125476598975071
+ trend: 0.023213170810388137
+ underli: 0.023213170810388137
+ web: 0.040514040518530574
+
+N-grams list: 10
+ web servic deriv
+ web servic market
+ web servic develop
+ servic deriv
+ missioncrit web servic
+ servic characterist
+ highvalu busi servic
+ inventor servic
+ servic
+ simpl inform process
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,62 @@
+File name: 8934087
+
+Graph edges count: 17
+ experiment - result: 1
+ famou - search: 1
+ high - qualiti: 1
+ hit - algorithm: 1
+ implicit - convey: 1
+ import - applic: 1
+ import - dimen: 1
+ public - search: 2
+ qualiti - page: 4
+ research - public: 2
+ search - techniqu: 1
+ search - web: 1
+ social - phenomenon: 1
+ static - environ: 1
+ target - page: 1
+ tempor - dimen: 3
+ web - search: 1
+
+PageRank scores count: 24
+ algorithm: 0.0407068775671609
+ applic: 0.03135529758551583
+ convey: 0.0407068775671609
+ dimen: 0.05005845754880597
+ environ: 0.0407068775671609
+ experiment: 0.022003717603870755
+ famou: 0.022003717603870755
+ high: 0.022003717603870755
+ hit: 0.022003717603870755
+ implicit: 0.022003717603870755
+ import: 0.022003717603870755
+ page: 0.07530772349924766
+ phenomenon: 0.0407068775671609
+ public: 0.0407068775671609
+ qualiti: 0.0407068775671609
+ research: 0.022003717603870755
+ result: 0.0407068775671609
+ search: 0.14717948624107247
+ social: 0.022003717603870755
+ static: 0.022003717603870755
+ target: 0.022003717603870755
+ techniqu: 0.08455499925632655
+ tempor: 0.022003717603870755
+ web: 0.08455499925632655
+
+N-grams list: 10
+ search web search
+ famou search techniqu
+ research public search
+ search
+ qualiti page
+ target page
+ techniqu
+ web
+ page
+ tempor dimen
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

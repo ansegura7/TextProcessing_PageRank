@@ -1,0 +1,116 @@
+File name: 11756683
+
+Graph edges count: 40
+ bootstrap - framework: 1
+ date - time: 1
+ english - german: 1
+ entiti - recogni: 2
+ entiti - type: 1
+ expres - solution: 1
+ extens - evalu: 1
+ extens - research: 1
+ free - text: 1
+ german - polish: 1
+ implement - detail: 1
+ label - train: 1
+ larg - set: 1
+ learn - approach: 1
+ machinelearn - approach: 1
+ machin - learn: 1
+ manual - effort: 1
+ minim - input: 1
+ number - date: 1
+ organ - entiti: 1
+ perform - result: 1
+ person - locat: 1
+ phone - date: 1
+ phone - entiti: 1
+ phone - number: 1
+ polish - swedish: 1
+ predefin - categori: 1
+ recogni - studi: 1
+ regular - expres: 2
+ scalabl - machinelearn: 1
+ semistructur - entiti: 2
+ signific - amount: 1
+ signific - improv: 1
+ supervis - machin: 1
+ syntact - format: 1
+ threelevel - bootstrap: 1
+ time - entiti: 2
+ time - perform: 1
+ train - data: 1
+ turkish - docum: 1
+
+PageRank scores count: 55
+ amount: 0.014330260676013538
+ approach: 0.04785929953665469
+ bootstrap: 0.018604198070614066
+ categori: 0.018604198070614066
+ data: 0.025869891641434963
+ date: 0.023875387523954718
+ detail: 0.018604198070614066
+ docum: 0.018604198070614066
+ effort: 0.018604198070614066
+ english: 0.01005632328141301
+ entiti: 0.04290028559384465
+ evalu: 0.014330260676013538
+ expres: 0.018604198070614066
+ extens: 0.01005632328141301
+ format: 0.018604198070614066
+ framework: 0.025869891641434963
+ free: 0.01005632328141301
+ german: 0.018604198070614066
+ implement: 0.01005632328141301
+ improv: 0.014330260676013538
+ input: 0.018604198070614066
+ label: 0.01005632328141301
+ larg: 0.01005632328141301
+ learn: 0.025869891641434963
+ locat: 0.018604198070614066
+ machin: 0.018604198070614066
+ machinelearn: 0.018604198070614066
+ manual: 0.01005632328141301
+ minim: 0.01005632328141301
+ number: 0.012905614877813363
+ organ: 0.01005632328141301
+ perform: 0.02295524441904218
+ person: 0.01005632328141301
+ phone: 0.01005632328141301
+ polish: 0.025869891641434963
+ predefin: 0.01005632328141301
+ recogni: 0.028288944658796986
+ regular: 0.01005632328141301
+ research: 0.014330260676013538
+ result: 0.029568281037598863
+ scalabl: 0.01005632328141301
+ semistructur: 0.01005632328141301
+ set: 0.018604198070614066
+ signific: 0.01005632328141301
+ solution: 0.025869891641434963
+ studi: 0.03410192624139045
+ supervis: 0.01005632328141301
+ swedish: 0.03204573117663273
+ syntact: 0.01005632328141301
+ text: 0.018604198070614066
+ threelevel: 0.01005632328141301
+ time: 0.03035040267677452
+ train: 0.018604198070614066
+ turkish: 0.01005632328141301
+ type: 0.028288944658796986
+
+N-grams list: 10
+ entiti recogni studi
+ time perform result
+ semistructur entiti type
+ scalabl machinelearn approach
+ time entiti
+ entiti recogni
+ label train data
+ supervis machin learn
+ english german polish
+ regular expres solution
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

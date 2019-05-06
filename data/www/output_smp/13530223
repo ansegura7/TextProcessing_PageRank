@@ -1,0 +1,71 @@
+File name: 13530223
+
+Graph edges count: 19
+ blog - post: 2
+ bursti - evolu: 1
+ bursti - term: 2
+ distanc - metric: 1
+ euclideanbas - distanc: 1
+ evalu - techniqu: 1
+ futur - research: 1
+ influenti - web: 1
+ life - event: 1
+ massiv - popular: 1
+ potenti - correl: 1
+ real - life: 1
+ search - engin: 1
+ social - media: 1
+ state - seri: 1
+ time - interv: 1
+ web - log: 1
+ web - social: 1
+ year - blog: 1
+
+PageRank scores count: 31
+ blog: 0.037748698243792816
+ bursti: 0.020404701753401523
+ correl: 0.037748698243792816
+ distanc: 0.037748698243792816
+ engin: 0.037748698243792816
+ euclideanbas: 0.020404701753401523
+ evalu: 0.020404701753401523
+ event: 0.05249109526062542
+ evolu: 0.029076699998597168
+ futur: 0.020404701753401523
+ influenti: 0.020404701753401523
+ interv: 0.037748698243792816
+ life: 0.037748698243792816
+ log: 0.036447898507013465
+ massiv: 0.020404701753401523
+ media: 0.05138541548436297
+ metric: 0.05249109526062542
+ popular: 0.037748698243792816
+ post: 0.05249109526062542
+ potenti: 0.020404701753401523
+ real: 0.020404701753401523
+ research: 0.037748698243792816
+ search: 0.020404701753401523
+ seri: 0.037748698243792816
+ social: 0.036447898507013465
+ state: 0.020404701753401523
+ techniqu: 0.037748698243792816
+ term: 0.029076699998597168
+ time: 0.020404701753401523
+ web: 0.037748698243792816
+ year: 0.020404701753401523
+
+N-grams list: 10
+ real life event
+ euclideanbas distanc metric
+ influenti web social
+ blog post
+ web log
+ year blog
+ futur research
+ massiv popular
+ search engin
+ potenti correl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

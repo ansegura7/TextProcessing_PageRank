@@ -1,0 +1,45 @@
+File name: 10210475
+
+Graph edges count: 9
+ applic - instanc: 2
+ applic - placem: 3
+ current - demand: 1
+ custom - dynam: 1
+ effici - applic: 1
+ effici - enact: 1
+ endtoend - agil: 1
+ platform - web: 1
+ variabl - number: 1
+
+PageRank scores count: 15
+ agil: 0.08680861047568772
+ applic: 0.06686609185289459
+ current: 0.046923573230101476
+ custom: 0.046923573230101476
+ demand: 0.08680861047568772
+ dynam: 0.08680861047568772
+ effici: 0.046923573230101476
+ enact: 0.06686609185289459
+ endtoend: 0.046923573230101476
+ instanc: 0.07534166226758167
+ number: 0.08680861047568772
+ placem: 0.07534166226758167
+ platform: 0.046923573230101476
+ variabl: 0.046923573230101476
+ web: 0.08680861047568772
+
+N-grams list: 10
+ effici applic placem
+ applic placem
+ applic instanc
+ platform web
+ custom dynam
+ endtoend agil
+ variabl number
+ current demand
+ effici enact
+ dynam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

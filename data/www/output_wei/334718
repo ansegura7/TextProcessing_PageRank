@@ -1,0 +1,89 @@
+File name: 334718
+
+Graph edges count: 30
+ baselin - system: 1
+ construct - rigid: 1
+ current - term: 1
+ defini - gener: 1
+ defini - question: 1
+ defini - sentenc: 2
+ flexibl - soft: 1
+ gener - system: 1
+ handcraft - rule: 1
+ hard - text: 1
+ match - pattern: 1
+ new - articl: 1
+ onlin - new: 2
+ pattern - gener: 1
+ previou - work: 1
+ relev - feedback: 1
+ rigid - hard: 1
+ sentenc - structur: 1
+ soft - match: 1
+ soft - pattern: 3
+ standard - trec: 1
+ stateofart - defini: 1
+ supervis - learn: 1
+ term - organ: 1
+ text - pattern: 1
+ time - defini: 1
+ trec - corpu: 1
+ unsupervis - learn: 1
+ unsupervis - method: 1
+ web - sourc: 1
+
+PageRank scores count: 38
+ articl: 0.03262587891921148
+ baselin: 0.012682557402997658
+ construct: 0.012682557402997658
+ corpu: 0.03262587891921148
+ current: 0.012682557402997658
+ defini: 0.03424290498809368
+ feedback: 0.02346273119554567
+ flexibl: 0.012682557402997658
+ gener: 0.08541814175956036
+ handcraft: 0.012682557402997658
+ hard: 0.03262587891921148
+ learn: 0.028852818091819676
+ match: 0.017668387782051116
+ method: 0.018072644299271662
+ new: 0.02346273119554567
+ onlin: 0.012682557402997658
+ organ: 0.03262587891921148
+ pattern: 0.07701054946657977
+ previou: 0.012682557402997658
+ question: 0.019959174712967563
+ relev: 0.012682557402997658
+ rigid: 0.02346273119554567
+ rule: 0.02346273119554567
+ sentenc: 0.027235792022937477
+ soft: 0.02346273119554567
+ sourc: 0.02346273119554567
+ standard: 0.012682557402997658
+ stateofart: 0.012682557402997658
+ structur: 0.03583298062249451
+ supervis: 0.012682557402997658
+ system: 0.09606815169117199
+ term: 0.02346273119554567
+ text: 0.04041455448432742
+ time: 0.012682557402997658
+ trec: 0.02346273119554567
+ unsupervis: 0.012682557402997658
+ web: 0.012682557402997658
+ work: 0.02346273119554567
+
+N-grams list: 10
+ soft pattern gener
+ stateofart defini gener
+ text pattern
+ baselin system
+ soft pattern
+ defini sentenc structur
+ system
+ pattern
+ onlin new articl
+ standard trec corpu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

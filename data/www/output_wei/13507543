@@ -1,0 +1,103 @@
+File name: 13507543
+
+Graph edges count: 36
+ 20newsgroup - email: 1
+ autom - text: 2
+ categor - autom: 1
+ categor - problem: 1
+ centroidbas - approach: 1
+ centroidbas - classifi: 2
+ classfeaturecentroid - classifi: 1
+ class - distribu: 1
+ comput - effici: 1
+ cosin - measur: 1
+ docum - index: 1
+ email - collec: 1
+ fast - classfeaturecentroid: 1
+ import - class: 1
+ import - techniqu: 1
+ index - docum: 1
+ innerclass - term: 1
+ interclass - term: 1
+ macrof1 - score: 1
+ multiclass - singlelabel: 1
+ perfect - locat: 1
+ result - centroidbas: 1
+ reuters21578 - corpu: 1
+ short - train: 1
+ similar - score: 1
+ singlelabel - text: 1
+ stateoftheart - svm: 1
+ svm - classifi: 1
+ term - index: 2
+ test - time: 1
+ text - categor: 4
+ text - vector: 1
+ time - due: 1
+ train - time: 1
+ web - applic: 2
+ web - resourc: 1
+
+PageRank scores count: 46
+ 20newsgroup: 0.009001318775758977
+ applic: 0.0141020660820224
+ approach: 0.013719510034052643
+ autom: 0.0258751669683721
+ categor: 0.03970317221791323
+ centroidbas: 0.01665243973515411
+ class: 0.012826879255456544
+ classfeaturecentroid: 0.01665243973515411
+ classifi: 0.046746848842108286
+ collec: 0.023155892550639972
+ comput: 0.009001318775758977
+ corpu: 0.01665243973515411
+ cosin: 0.009001318775758977
+ distribu: 0.01990416614289704
+ docum: 0.12328563547887736
+ due: 0.035187280259288814
+ effici: 0.01665243973515411
+ email: 0.01665243973515411
+ fast: 0.009001318775758977
+ import: 0.009001318775758977
+ index: 0.13445212546702137
+ innerclass: 0.009001318775758977
+ interclass: 0.009001318775758977
+ locat: 0.01665243973515411
+ macrof1: 0.009001318775758977
+ measur: 0.01665243973515411
+ multiclass: 0.009001318775758977
+ perfect: 0.009001318775758977
+ problem: 0.0258751669683721
+ resourc: 0.011551692428890687
+ result: 0.009001318775758977
+ reuters21578: 0.009001318775758977
+ score: 0.024303560694549236
+ short: 0.009001318775758977
+ similar: 0.009001318775758977
+ singlelabel: 0.01665243973515411
+ stateoftheart: 0.009001318775758977
+ svm: 0.01665243973515411
+ techniqu: 0.012826879255456544
+ term: 0.024303560694549236
+ test: 0.009001318775758977
+ text: 0.04514978447375626
+ time: 0.030807013510035102
+ train: 0.01665243973515411
+ vector: 0.01667678213629754
+ web: 0.009001318775758977
+
+N-grams list: 10
+ docum index docum
+ interclass term index
+ innerclass term index
+ text categor autom
+ autom text categor
+ text categor
+ test time due
+ result centroidbas classifi
+ stateoftheart svm classifi
+ multiclass singlelabel text
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

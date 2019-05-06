@@ -1,0 +1,119 @@
+File name: 706774
+
+Graph edges count: 40
+ acceler - servic: 1
+ access - trace: 1
+ addition - techniqu: 1
+ altern - approach: 1
+ basic - approach: 1
+ broadband - connect: 1
+ cach - compres: 1
+ cach - techniqu: 1
+ clientproxi - environ: 1
+ content - distribu: 1
+ cpu - power: 1
+ current - client: 1
+ delta - compres: 1
+ dialup - acceler: 1
+ effici - content: 1
+ eleg - techniqu: 1
+ entir - file: 1
+ hierarch - substr: 2
+ import - aspect: 1
+ larg - isp: 1
+ larg - number: 1
+ larg - set: 1
+ lowbandwidth - client: 1
+ multimedia - content: 1
+ multimedia - transcod: 1
+ optim - cach: 1
+ page - version: 1
+ protocol - optim: 1
+ real - web: 1
+ recent - paper: 1
+ repeat - transmis: 1
+ rhea - liang: 1
+ signific - memori: 1
+ signific - save: 1
+ slow - link: 1
+ substr - cach: 2
+ substr - common: 1
+ valuebas - cach: 1
+ web - access: 1
+ wireless - link: 1
+
+PageRank scores count: 58
+ acceler: 0.019440822399330246
+ access: 0.02703325168771733
+ addition: 0.01050855264828662
+ altern: 0.01050855264828662
+ approach: 0.028373092150373872
+ aspect: 0.019440822399330246
+ basic: 0.01050855264828662
+ broadband: 0.01050855264828662
+ cach: 0.046981987465048086
+ client: 0.028373092150373872
+ clientproxi: 0.01050855264828662
+ common: 0.01601678566143019
+ compres: 0.03940816707197568
+ connect: 0.019440822399330246
+ content: 0.023906957274852057
+ cpu: 0.01050855264828662
+ current: 0.01050855264828662
+ delta: 0.01050855264828662
+ dialup: 0.01050855264828662
+ distribu: 0.030829466331910867
+ effici: 0.01050855264828662
+ eleg: 0.01050855264828662
+ entir: 0.01050855264828662
+ environ: 0.019440822399330246
+ file: 0.019440822399330246
+ hierarch: 0.01050855264828662
+ import: 0.01050855264828662
+ isp: 0.013485975898634494
+ larg: 0.01050855264828662
+ liang: 0.019440822399330246
+ link: 0.028373092150373872
+ lowbandwidth: 0.01050855264828662
+ memori: 0.014974687523808431
+ multimedia: 0.01050855264828662
+ number: 0.013485975898634494
+ optim: 0.019440822399330246
+ page: 0.01050855264828662
+ paper: 0.019440822399330246
+ power: 0.019440822399330246
+ protocol: 0.01050855264828662
+ real: 0.01050855264828662
+ recent: 0.01050855264828662
+ repeat: 0.01050855264828662
+ rhea: 0.01050855264828662
+ save: 0.014974687523808431
+ servic: 0.02703325168771733
+ set: 0.013485975898634494
+ signific: 0.01050855264828662
+ slow: 0.01050855264828662
+ substr: 0.019440822399330246
+ techniqu: 0.048340436823019306
+ trace: 0.03348681658284634
+ transcod: 0.014974687523808431
+ transmis: 0.019440822399330246
+ valuebas: 0.01050855264828662
+ version: 0.019440822399330246
+ web: 0.019440822399330246
+ wireless: 0.01050855264828662
+
+N-grams list: 10
+ hierarch substr cach
+ protocol optim cach
+ effici content distribu
+ eleg techniqu
+ addition techniqu
+ valuebas cach
+ real web access
+ dialup acceler servic
+ delta compres
+ techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

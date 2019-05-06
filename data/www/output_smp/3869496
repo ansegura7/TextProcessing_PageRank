@@ -1,0 +1,52 @@
+File name: 3869496
+
+Graph edges count: 13
+ abusefre - fair: 2
+ agre - contract: 1
+ commun - channel: 1
+ contract - sign: 4
+ digit - contract: 1
+ digit - signatur: 1
+ fair - contract: 3
+ intermedi - result: 1
+ rsabas - solution: 1
+ rsa - signatur: 3
+ signatur - scheme: 1
+ sign - protocol: 4
+ technic - detail: 1
+
+PageRank scores count: 18
+ abusefre: 0.028403891262093174
+ agre: 0.028403891262093174
+ channel: 0.05254719883487237
+ commun: 0.028403891262093174
+ contract: 0.10928397163090349
+ detail: 0.05254719883487237
+ digit: 0.028403891262093174
+ fair: 0.05254719883487237
+ intermedi: 0.028403891262093174
+ protocol: 0.13150486833820016
+ result: 0.05254719883487237
+ rsa: 0.028403891262093174
+ rsabas: 0.028403891262093174
+ scheme: 0.08332991599016584
+ sign: 0.12129526714836114
+ signatur: 0.06461885262126198
+ solution: 0.05254719883487237
+ technic: 0.028403891262093174
+
+N-grams list: 10
+ fair contract sign
+ digit contract sign
+ sign protocol
+ abusefre fair contract
+ rsa signatur scheme
+ agre contract
+ protocol
+ digit signatur
+ rsa signatur
+ technic detail
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,53 @@
+File name: 3681453
+
+Graph edges count: 13
+ b2b - applic: 1
+ base - project: 1
+ basic - problem: 1
+ case - studi: 1
+ gener - solution: 1
+ map - xml: 1
+ practic - sens: 1
+ softwar - solution: 1
+ xmlbase - applic: 1
+ xml - base: 1
+ xml - docum: 1
+ xml - instanc: 1
+ xml - schema: 1
+
+PageRank scores count: 19
+ applic: 0.09454888472805707
+ b2b: 0.03501810545483595
+ base: 0.04878459816176834
+ basic: 0.03501810545483595
+ case: 0.03501810545483595
+ docum: 0.04878459816176834
+ gener: 0.03501810545483595
+ instanc: 0.04878459816176834
+ map: 0.03501810545483595
+ practic: 0.03501810545483595
+ problem: 0.06478349509144651
+ project: 0.07648501389233904
+ schema: 0.04878459816176834
+ sens: 0.06478349509144651
+ softwar: 0.03501810545483595
+ solution: 0.09454888472805707
+ studi: 0.06478349509144651
+ xml: 0.06478349509144651
+ xmlbase: 0.03501810545483595
+
+N-grams list: 10
+ xml base project
+ map xml instanc
+ xmlbase applic
+ b2b applic
+ gener solution
+ softwar solution
+ xml docum
+ xml schema
+ case studi
+ practic sens
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

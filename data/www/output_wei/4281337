@@ -1,0 +1,90 @@
+File name: 4281337
+
+Graph edges count: 32
+ activ - learn: 4
+ automat - text: 1
+ batch - mode: 2
+ categor - model: 1
+ classif - model: 2
+ data - mine: 1
+ extens - experi: 1
+ fisher - inform: 2
+ human - effort: 1
+ import - research: 1
+ inform - docum: 1
+ inform - matrix: 1
+ label - text: 1
+ largescal - text: 4
+ learn - algorithm: 1
+ learn - largescal: 1
+ learn - techniqu: 1
+ model - uncertainti: 1
+ mode - activ: 2
+ promis - tool: 1
+ reliabl - classif: 1
+ research - topic: 1
+ singl - unlabel: 1
+ stateoftheart - activ: 1
+ text - categor: 7
+ text - docum: 2
+ uniqu - inform: 1
+ unlabel - docum: 1
+ web - data: 1
+ web - docum: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 37
+ activ: 0.04151357014110075
+ algorithm: 0.025564176778130807
+ automat: 0.012129604131804453
+ batch: 0.012129604131804453
+ categor: 0.048146594624341676
+ classif: 0.022439767643838236
+ data: 0.02539105194915791
+ docum: 0.0686741438998195
+ effort: 0.022439767643838236
+ experi: 0.022439767643838236
+ extens: 0.012129604131804453
+ fisher: 0.012129604131804453
+ human: 0.012129604131804453
+ import: 0.012129604131804453
+ inform: 0.03274993115587203
+ label: 0.012129604131804453
+ largescal: 0.025564176778130807
+ learn: 0.04741613875174009
+ matrix: 0.026048324873050064
+ mine: 0.033711998288588674
+ mode: 0.022439767643838236
+ model: 0.07212801205975738
+ promis: 0.012129604131804453
+ reliabl: 0.012129604131804453
+ research: 0.022439767643838236
+ singl: 0.012129604131804453
+ stateoftheart: 0.012129604131804453
+ techniqu: 0.025564176778130807
+ text: 0.054479481417283204
+ tool: 0.022439767643838236
+ topic: 0.031203406629066954
+ uncertainti: 0.07343841438259822
+ uniqu: 0.012129604131804453
+ unlabel: 0.022439767643838236
+ web: 0.031203406629066954
+ wide: 0.022439767643838236
+ world: 0.012129604131804453
+
+N-grams list: 10
+ text categor model
+ model uncertainti
+ label text docum
+ largescal text categor
+ learn largescal text
+ text docum
+ automat text categor
+ activ learn algorithm
+ reliabl classif model
+ singl unlabel docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

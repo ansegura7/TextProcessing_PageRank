@@ -1,0 +1,72 @@
+File name: 9098176
+
+Graph edges count: 22
+ common - ancestor: 1
+ compact - connect: 4
+ connect - tree: 4
+ disjunct - semant: 1
+ experiment - studi: 1
+ extens - experiment: 1
+ high - search: 1
+ input - keyword: 1
+ keyword - proxim: 3
+ keyword - queri: 1
+ maxim - cctree: 1
+ maxim - clca: 1
+ meaning - compact: 1
+ mechan - race: 1
+ proxim - queri: 1
+ proxim - search: 2
+ rank - compact: 1
+ rank - mechan: 1
+ search - effici: 1
+ structur - similar: 1
+ textual - similar: 1
+ xml - docum: 2
+
+PageRank scores count: 29
+ ancestor: 0.035846885598963804
+ cctree: 0.02761179025866131
+ clca: 0.02761179025866131
+ common: 0.019376694918358812
+ compact: 0.0440819809392663
+ connect: 0.05684637871673517
+ disjunct: 0.019376694918358812
+ docum: 0.035846885598963804
+ effici: 0.0701868900390527
+ experiment: 0.035846885598963804
+ extens: 0.019376694918358812
+ high: 0.019376694918358812
+ input: 0.019376694918358812
+ keyword: 0.035846885598963804
+ maxim: 0.019376694918358812
+ meaning: 0.019376694918358812
+ mechan: 0.02761179025866131
+ proxim: 0.042229084487698236
+ queri: 0.03895906537965312
+ race: 0.04284671663822093
+ rank: 0.019376694918358812
+ search: 0.05977670014199281
+ semant: 0.035846885598963804
+ similar: 0.052317076279568796
+ structur: 0.019376694918358812
+ studi: 0.04984654767747805
+ textual: 0.019376694918358812
+ tree: 0.0676961168275837
+ xml: 0.019376694918358812
+
+N-grams list: 10
+ compact connect tree
+ high search effici
+ keyword proxim search
+ meaning compact connect
+ rank compact connect
+ keyword proxim queri
+ extens experiment studi
+ rank mechan race
+ keyword queri
+ structur similar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

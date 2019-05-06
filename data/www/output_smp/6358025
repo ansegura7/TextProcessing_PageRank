@@ -1,0 +1,123 @@
+File name: 6358025
+
+Graph edges count: 49
+ anonym - locat: 2
+ anonym - locationbas: 1
+ anonym - success: 1
+ anonym - time: 1
+ averag - anonym: 1
+ deliveri - system: 1
+ dynam - bottomup: 1
+ effect - locat: 1
+ experiment - evalu: 1
+ hide - measur: 1
+ high - anonym: 1
+ hybrid - approach: 1
+ inform - deliveri: 1
+ locationbas - queri: 1
+ locat - anonym: 1
+ locat - hide: 1
+ locat - kanonym: 3
+ locat - ldivers: 2
+ locat - p3p: 2
+ locat - privaci: 2
+ locat - queri: 2
+ locat - servic: 1
+ mainten - cost: 1
+ maximum - spatial: 1
+ maximum - tempor: 1
+ mobil - environ: 2
+ mobil - inform: 1
+ mobil - user: 1
+ optim - locat: 1
+ perform - penalti: 1
+ prefer - locat: 1
+ prefer - profil: 1
+ privaci - protec: 1
+ privaci - requir: 1
+ privacygrid - approach: 1
+ privacygrid - framework: 1
+ privacygrid - mechan: 1
+ profil - model: 1
+ protec - prefer: 1
+ qualiti - measur: 1
+ servic - qualiti: 1
+ signific - perform: 1
+ spatial - resolu: 1
+ success - rate: 2
+ tempor - resolu: 1
+ time - complex: 1
+ topdown - grid: 1
+ uniqu - capabl: 1
+ user - locat: 1
+
+PageRank scores count: 53
+ anonym: 0.03426225232174763
+ approach: 0.022241034567449643
+ averag: 0.01042548495349202
+ bottomup: 0.01928714716396024
+ capabl: 0.01928714716396024
+ complex: 0.025475766825384296
+ cost: 0.01928714716396024
+ deliveri: 0.021797951456926232
+ dynam: 0.01042548495349202
+ effect: 0.01042548495349202
+ environ: 0.013379372356981426
+ evalu: 0.01928714716396024
+ experiment: 0.01042548495349202
+ framework: 0.013379372356981426
+ grid: 0.01928714716396024
+ hide: 0.016538927900811195
+ high: 0.01042548495349202
+ hybrid: 0.01042548495349202
+ inform: 0.013379372356981426
+ kanonym: 0.016538927900811195
+ ldivers: 0.016538927900811195
+ locat: 0.05753828473579984
+ locationbas: 0.01770621363688413
+ mainten: 0.01042548495349202
+ maximum: 0.01042548495349202
+ measur: 0.04529461289130238
+ mechan: 0.013379372356981426
+ mobil: 0.01042548495349202
+ model: 0.028412986584906312
+ optim: 0.01042548495349202
+ p3p: 0.016538927900811195
+ penalti: 0.026819560042858223
+ perform: 0.01928714716396024
+ prefer: 0.025261835539745064
+ privaci: 0.016538927900811195
+ privacygrid: 0.01042548495349202
+ profil: 0.021161765128037087
+ protec: 0.017454529441378253
+ qualiti: 0.024483573929264486
+ queri: 0.03158920977270347
+ rate: 0.025475766825384296
+ requir: 0.017454529441378253
+ resolu: 0.035681222253326435
+ servic: 0.016538927900811195
+ signific: 0.01042548495349202
+ spatial: 0.014856316058726128
+ success: 0.01770621363688413
+ system: 0.028953743691879318
+ tempor: 0.014856316058726128
+ time: 0.01770621363688413
+ topdown: 0.01042548495349202
+ uniqu: 0.01042548495349202
+ user: 0.013379372356981426
+
+N-grams list: 10
+ anonym locat queri
+ locat hide measur
+ prefer locat privaci
+ locat servic qualiti
+ locat anonym
+ locat privaci protec
+ user locat p3p
+ optim locat kanonym
+ anonym locationbas queri
+ prefer profil model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

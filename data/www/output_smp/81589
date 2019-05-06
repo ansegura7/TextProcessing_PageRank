@@ -1,0 +1,79 @@
+File name: 81589
+
+Graph edges count: 23
+ applic - setup: 1
+ content - compos: 1
+ content - rule: 1
+ cumbersom - process: 1
+ data - extrac: 1
+ dtd - docum: 1
+ extrac - part: 1
+ format - part: 1
+ larg - number: 1
+ pervas - devic: 1
+ present - rule: 1
+ run - time: 1
+ separ - set: 1
+ setup - stage: 1
+ standard - dtd: 1
+ systemat - method: 2
+ wireless - pervas: 1
+ wireless - web: 1
+ wml - docum: 2
+ xml - schema: 1
+ xslt - engin: 1
+ xslt - gener: 1
+ xslt - stylesheet: 2
+
+PageRank scores count: 35
+ applic: 0.018629345877092897
+ compos: 0.026546817874857378
+ content: 0.018629345877092897
+ cumbersom: 0.018629345877092897
+ data: 0.018629345877092897
+ devic: 0.04119414107072167
+ docum: 0.06375893626435045
+ dtd: 0.03446428987262186
+ engin: 0.023907660542269213
+ extrac: 0.03446428987262186
+ format: 0.018629345877092897
+ gener: 0.023907660542269213
+ larg: 0.018629345877092897
+ method: 0.03446428987262186
+ number: 0.03446428987262186
+ part: 0.06375893626435045
+ pervas: 0.026546817874857378
+ present: 0.018629345877092897
+ process: 0.03446428987262186
+ rule: 0.04238176187038634
+ run: 0.018629345877092897
+ schema: 0.03446428987262186
+ separ: 0.018629345877092897
+ set: 0.03446428987262186
+ setup: 0.03446428987262186
+ stage: 0.04792399226882147
+ standard: 0.018629345877092897
+ stylesheet: 0.023907660542269213
+ systemat: 0.018629345877092897
+ time: 0.03446428987262186
+ web: 0.026546817874857378
+ wireless: 0.018629345877092897
+ wml: 0.018629345877092897
+ xml: 0.018629345877092897
+ xslt: 0.018629345877092897
+
+N-grams list: 10
+ standard dtd docum
+ data extrac part
+ applic setup stage
+ wireless pervas devic
+ format part
+ wml docum
+ part
+ present rule
+ content rule
+ larg number
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

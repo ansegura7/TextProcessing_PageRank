@@ -1,0 +1,72 @@
+File name: 13060825
+
+Graph edges count: 22
+ ajax - code: 1
+ applic - bug: 1
+ asynchron - call: 1
+ callback - function: 1
+ call - ajax: 1
+ clientsid - javascript: 1
+ client - side: 2
+ javascript - code: 1
+ latenc - due: 1
+ network - latenc: 1
+ program - analysi: 1
+ realworld - web: 1
+ real - bug: 1
+ serversid - script: 2
+ sever - problem: 1
+ side - ajax: 1
+ side - user: 1
+ smooth - experi: 1
+ static - program: 1
+ unexpect - network: 1
+ user - experi: 1
+ web - applic: 4
+
+PageRank scores count: 29
+ ajax: 0.059413778159079444
+ analysi: 0.04550560307085429
+ applic: 0.04550560307085429
+ asynchron: 0.017689252894404
+ bug: 0.07140488046487355
+ call: 0.032725117854647406
+ callback: 0.017689252894404
+ client: 0.017689252894404
+ clientsid: 0.017689252894404
+ code: 0.09600731450607182
+ due: 0.05636901550463015
+ experi: 0.059582931639882174
+ function: 0.032725117854647406
+ javascript: 0.032725117854647406
+ latenc: 0.04550560307085429
+ network: 0.032725117854647406
+ problem: 0.032725117854647406
+ program: 0.032725117854647406
+ real: 0.017689252894404
+ realworld: 0.017689252894404
+ script: 0.032725117854647406
+ serversid: 0.017689252894404
+ sever: 0.017689252894404
+ side: 0.032725117854647406
+ smooth: 0.017689252894404
+ static: 0.017689252894404
+ unexpect: 0.017689252894404
+ user: 0.03159742798262915
+ web: 0.032725117854647406
+
+N-grams list: 10
+ web applic bug
+ clientsid javascript code
+ client side ajax
+ asynchron call ajax
+ code
+ unexpect network latenc
+ static program analysi
+ realworld web applic
+ real bug
+ client side user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

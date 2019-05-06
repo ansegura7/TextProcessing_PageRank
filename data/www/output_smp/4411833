@@ -1,0 +1,52 @@
+File name: 4411833
+
+Graph edges count: 12
+ cell - phone: 1
+ clean - contentful: 1
+ cluster - approach: 1
+ contentful - page: 1
+ content - extrac: 1
+ genrebas - cluster: 1
+ impair - user: 1
+ pda - screen: 1
+ small - bodi: 1
+ small - cell: 1
+ speed - render: 1
+ web - page: 2
+
+PageRank scores count: 19
+ approach: 0.08530569948186531
+ bodi: 0.047253886010362706
+ cell: 0.047253886010362706
+ clean: 0.03316062176165804
+ cluster: 0.061347150259067375
+ content: 0.03316062176165804
+ contentful: 0.061347150259067375
+ extrac: 0.061347150259067375
+ genrebas: 0.03316062176165804
+ impair: 0.03316062176165804
+ page: 0.11349222797927463
+ pda: 0.03316062176165804
+ phone: 0.07332642487046634
+ render: 0.061347150259067375
+ screen: 0.061347150259067375
+ small: 0.03316062176165804
+ speed: 0.03316062176165804
+ user: 0.061347150259067375
+ web: 0.03316062176165804
+
+N-grams list: 10
+ clean contentful page
+ genrebas cluster approach
+ small cell phone
+ web page
+ page
+ speed render
+ content extrac
+ pda screen
+ impair user
+ small bodi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

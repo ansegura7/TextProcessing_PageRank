@@ -1,0 +1,86 @@
+File name: 4435465
+
+Graph edges count: 28
+ accur - inform: 1
+ autom - reason: 1
+ content - dissemin: 1
+ continu - queri: 3
+ express - approach: 1
+ express - mean: 1
+ express - syndic: 2
+ express - web: 1
+ implicit - subscrip: 1
+ knowledg - base: 1
+ larg - subset: 2
+ logicbas - reason: 1
+ main - limit: 1
+ ontologi - languag: 1
+ owl - knowledg: 1
+ practic - manner: 1
+ queri - approach: 1
+ recent - year: 1
+ select - content: 1
+ subscrip - match: 1
+ subscrip - request: 1
+ syndic - approach: 2
+ syndic - architectur: 1
+ syndic - purpos: 1
+ syndic - system: 1
+ vast - amount: 1
+ web - ontologi: 2
+ web - syndic: 1
+
+PageRank scores count: 37
+ accur: 0.017191339175236905
+ amount: 0.03180397747418827
+ approach: 0.056917257654766094
+ architectur: 0.022076344158576344
+ autom: 0.017191339175236905
+ base: 0.04422472002829693
+ content: 0.03180397747418827
+ continu: 0.017191339175236905
+ dissemin: 0.04422472002829693
+ express: 0.017191339175236905
+ implicit: 0.017191339175236905
+ inform: 0.03180397747418827
+ knowledg: 0.03180397747418827
+ languag: 0.041492156666393026
+ larg: 0.017191339175236905
+ limit: 0.03180397747418827
+ logicbas: 0.017191339175236905
+ main: 0.017191339175236905
+ manner: 0.03180397747418827
+ match: 0.030708029601766915
+ mean: 0.020113866835027177
+ ontologi: 0.02858919704841897
+ owl: 0.017191339175236905
+ practic: 0.017191339175236905
+ purpos: 0.022076344158576344
+ queri: 0.03180397747418827
+ reason: 0.04641661577313964
+ recent: 0.017191339175236905
+ request: 0.030708029601766915
+ select: 0.017191339175236905
+ subscrip: 0.03180397747418827
+ subset: 0.03180397747418827
+ syndic: 0.028735323431408482
+ system: 0.022076344158576344
+ vast: 0.017191339175236905
+ web: 0.020113866835027177
+ year: 0.03180397747418827
+
+N-grams list: 10
+ express syndic approach
+ select content dissemin
+ owl knowledg base
+ web ontologi languag
+ queri approach
+ syndic approach
+ implicit subscrip match
+ express approach
+ web syndic system
+ express web ontologi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

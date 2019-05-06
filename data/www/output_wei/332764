@@ -1,0 +1,56 @@
+File name: 332764
+
+Graph edges count: 16
+ contextfre - grammar: 1
+ crosssit - script: 1
+ kei - technologi: 1
+ languag - php: 1
+ page - serversid: 1
+ php - program: 1
+ program - analysi: 1
+ script - languag: 1
+ script - vulner: 1
+ serversid - program: 4
+ serversid - script: 1
+ static - approxim: 1
+ static - program: 1
+ string - analyz: 1
+ string - output: 1
+ web - page: 3
+
+PageRank scores count: 19
+ analysi: 0.14671333741879347
+ analyz: 0.037122640435314
+ approxim: 0.037122640435314
+ contextfre: 0.026050975744080003
+ crosssit: 0.026050975744080003
+ grammar: 0.048194305126548
+ kei: 0.026050975744080003
+ languag: 0.05137547118395681
+ output: 0.037122640435314
+ page: 0.048194305126548
+ php: 0.06972012625044328
+ program: 0.14195571961730993
+ script: 0.05958704809382779
+ serversid: 0.06701613510164581
+ static: 0.026050975744080003
+ string: 0.026050975744080003
+ technologi: 0.048194305126548
+ vulner: 0.05137547118395681
+ web: 0.026050975744080003
+
+N-grams list: 10
+ static program analysi
+ php program
+ serversid program
+ serversid script languag
+ analysi
+ program
+ web page serversid
+ crosssit script vulner
+ kei technologi
+ web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

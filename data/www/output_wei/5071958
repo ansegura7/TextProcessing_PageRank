@@ -1,0 +1,47 @@
+File name: 5071958
+
+Graph edges count: 10
+ file - share: 2
+ file - transfer: 1
+ ibm - corpor: 1
+ instant - messag: 1
+ messag - client: 1
+ person - webserv: 1
+ pointintim - file: 1
+ simpl - approach: 1
+ transfer - protocol: 1
+ web - link: 1
+
+PageRank scores count: 16
+ approach: 0.07243385924012966
+ client: 0.10072221778120732
+ corpor: 0.07243385924012966
+ file: 0.07243385924012966
+ ibm: 0.039153437427097114
+ instant: 0.039153437427097114
+ link: 0.07243385924012966
+ messag: 0.07243385924012966
+ person: 0.039153437427097114
+ pointintim: 0.039153437427097114
+ protocol: 0.08987834700712756
+ share: 0.08019929099650393
+ simpl: 0.039153437427097114
+ transfer: 0.05967636421180052
+ web: 0.039153437427097114
+ webserv: 0.07243385924012966
+
+N-grams list: 10
+ file transfer protocol
+ instant messag client
+ pointintim file share
+ file share
+ web link
+ simpl approach
+ ibm corpor
+ person webserv
+ share
+ approach
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

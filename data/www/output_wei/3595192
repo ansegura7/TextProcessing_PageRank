@@ -1,0 +1,100 @@
+File name: 3595192
+
+Graph edges count: 38
+ anomal - statist: 1
+ behavior - studi: 1
+ bipartit - clientserv: 1
+ clientserv - connec: 1
+ clientserv - host: 1
+ design - webcentr: 1
+ flow - data: 1
+ global - inform: 1
+ global - web: 1
+ heavytail - probabl: 1
+ host - graph: 1
+ inform - flow: 2
+ internet2 - network: 1
+ intrins - averag: 1
+ largescal - analysi: 1
+ model - scalabl: 1
+ network - design: 1
+ network - flow: 1
+ nontrivi - correl: 1
+ probabl - distribu: 1
+ prototyp - scale: 1
+ rel - traffic: 1
+ scalabl - analysi: 1
+ server - design: 1
+ statist - analysi: 1
+ statist - pattern: 2
+ traffic - flow: 2
+ traffic - map: 1
+ traffic - model: 1
+ traffic - network: 1
+ typic - behavior: 1
+ typic - scale: 1
+ valuabl - inform: 1
+ webcentr - network: 1
+ web - applic: 1
+ web - traffic: 2
+ weight - bipartit: 1
+ worldwid - web: 1
+
+PageRank scores count: 41
+ analysi: 0.047013425398974316
+ anomal: 0.010852003050094209
+ applic: 0.017847023349467434
+ averag: 0.020076205642674285
+ behavior: 0.015464104346384249
+ bipartit: 0.020076205642674285
+ clientserv: 0.027916777846367355
+ connec: 0.022716633634800334
+ correl: 0.020076205642674285
+ data: 0.07361498486567067
+ design: 0.05049541595454871
+ distribu: 0.027916777846367355
+ flow: 0.07383879798217136
+ global: 0.010852003050094209
+ graph: 0.030161141639674493
+ heavytail: 0.010852003050094209
+ host: 0.022716633634800334
+ inform: 0.024688306938964323
+ internet2: 0.010852003050094209
+ intrins: 0.010852003050094209
+ largescal: 0.010852003050094209
+ map: 0.016643264911135734
+ model: 0.016643264911135734
+ network: 0.07157461601328272
+ nontrivi: 0.010852003050094209
+ pattern: 0.022228519580942973
+ probabl: 0.020076205642674285
+ prototyp: 0.010852003050094209
+ rel: 0.010852003050094209
+ scalabl: 0.024998778224559585
+ scale: 0.024688306938964323
+ server: 0.010852003050094209
+ statist: 0.020076205642674285
+ studi: 0.023996491744520818
+ traffic: 0.03406624624142073
+ typic: 0.010852003050094209
+ valuabl: 0.010852003050094209
+ web: 0.024688306938964323
+ webcentr: 0.053773110142191424
+ weight: 0.010852003050094209
+ worldwid: 0.010852003050094209
+
+N-grams list: 10
+ network flow data
+ network design
+ rel traffic flow
+ server design webcentr
+ global inform flow
+ traffic flow
+ inform flow
+ model scalabl analysi
+ internet2 network
+ data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

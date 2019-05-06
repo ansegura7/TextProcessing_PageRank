@@ -1,0 +1,80 @@
+File name: 553795
+
+Graph edges count: 24
+ chang - oper: 1
+ containercentr - mechan: 1
+ dynam - environ: 1
+ dynam - request: 1
+ experiment - result: 1
+ import - trait: 1
+ lifecycl - manag: 2
+ migrat - strategi: 1
+ modeldriven - lifecycl: 1
+ modeldriven - trust: 1
+ negoti - framework: 1
+ negoti - polici: 1
+ ongo - negoti: 1
+ perform - benefit: 1
+ polici - model: 1
+ request - popul: 1
+ scalabl - approach: 1
+ scalabl - deploy: 1
+ secur - abstrac: 1
+ servic - develop: 1
+ servic - environ: 1
+ state - machin: 1
+ trust - negoti: 4
+ web - servic: 7
+
+PageRank scores count: 35
+ abstrac: 0.033145693435201476
+ approach: 0.025531142240628166
+ benefit: 0.033145693435201476
+ chang: 0.017916591046054853
+ containercentr: 0.017916591046054853
+ deploy: 0.025531142240628166
+ develop: 0.03200351075601548
+ dynam: 0.017916591046054853
+ environ: 0.0396180619505888
+ experiment: 0.017916591046054853
+ framework: 0.041226635890442405
+ import: 0.017916591046054853
+ lifecycl: 0.025531142240628166
+ machin: 0.033145693435201476
+ manag: 0.0396180619505888
+ mechan: 0.033145693435201476
+ migrat: 0.017916591046054853
+ model: 0.0529592315529309
+ modeldriven: 0.017916591046054853
+ negoti: 0.05484716433973542
+ ongo: 0.017916591046054853
+ oper: 0.033145693435201476
+ perform: 0.017916591046054853
+ polici: 0.041226635890442405
+ popul: 0.0396180619505888
+ request: 0.025531142240628166
+ result: 0.033145693435201476
+ scalabl: 0.017916591046054853
+ secur: 0.017916591046054853
+ servic: 0.033145693435201476
+ state: 0.017916591046054853
+ strategi: 0.033145693435201476
+ trait: 0.033145693435201476
+ trust: 0.025531142240628166
+ web: 0.017916591046054853
+
+N-grams list: 10
+ trust negoti polici
+ modeldriven trust negoti
+ polici model
+ web servic environ
+ modeldriven lifecycl manag
+ dynam request popul
+ web servic develop
+ trust negoti
+ ongo negoti
+ lifecycl manag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

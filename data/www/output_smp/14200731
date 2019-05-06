@@ -1,0 +1,98 @@
+File name: 14200731
+
+Graph edges count: 31
+ auction - mechan: 1
+ bidderitem - pair: 1
+ bidder - optim: 2
+ competit - equilibrium: 1
+ continu - util: 2
+ discontinu - util: 1
+ express - mechan: 1
+ express - set: 1
+ free - outcom: 2
+ gener - auction: 1
+ gener - class: 1
+ hard - result: 1
+ ident - slope: 1
+ incent - compat: 1
+ internet - advertis: 1
+ limit - express: 2
+ linear - approxim: 1
+ linear - util: 2
+ main - drawback: 1
+ multipl - discontinu: 1
+ nondegeneraci - requir: 1
+ nonident - slope: 1
+ piecew - linear: 2
+ polynomi - time: 1
+ practic - situat: 1
+ singlemultiitem - auction: 1
+ singl - discontinu: 1
+ standard - mechan: 1
+ unit - demand: 1
+ util - function: 4
+ web - auction: 1
+
+PageRank scores count: 46
+ advertis: 0.023767368847884822
+ approxim: 0.022948358164613117
+ auction: 0.04014758251331895
+ bidder: 0.012847226404262066
+ bidderitem: 0.012847226404262066
+ class: 0.018307297626073443
+ compat: 0.023767368847884822
+ competit: 0.012847226404262066
+ continu: 0.012847226404262066
+ demand: 0.023767368847884822
+ discontinu: 0.03468751129150757
+ drawback: 0.023767368847884822
+ equilibrium: 0.023767368847884822
+ express: 0.023767368847884822
+ free: 0.012847226404262066
+ function: 0.06669717882937679
+ gener: 0.012847226404262066
+ hard: 0.012847226404262066
+ ident: 0.012847226404262066
+ incent: 0.012847226404262066
+ internet: 0.012847226404262066
+ limit: 0.012847226404262066
+ linear: 0.023767368847884822
+ main: 0.012847226404262066
+ mechan: 0.06799394574455699
+ multipl: 0.012847226404262066
+ nondegeneraci: 0.012847226404262066
+ nonident: 0.012847226404262066
+ optim: 0.023767368847884822
+ outcom: 0.023767368847884822
+ pair: 0.023767368847884822
+ piecew: 0.012847226404262066
+ polynomi: 0.012847226404262066
+ practic: 0.012847226404262066
+ requir: 0.023767368847884822
+ result: 0.023767368847884822
+ set: 0.022948358164613117
+ singl: 0.012847226404262066
+ singlemultiitem: 0.012847226404262066
+ situat: 0.023767368847884822
+ slope: 0.03468751129150757
+ standard: 0.012847226404262066
+ time: 0.023767368847884822
+ unit: 0.012847226404262066
+ util: 0.06335288520601733
+ web: 0.012847226404262066
+
+N-grams list: 10
+ discontinu util function
+ linear util function
+ continu util function
+ gener auction mechan
+ piecew linear util
+ express mechan
+ standard mechan
+ continu util
+ mechan
+ function
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,65 @@
+File name: 10633621
+
+Graph edges count: 21
+ articl - extrac: 1
+ extrac - method: 1
+ label - new: 1
+ learn - problem: 1
+ machin - learn: 1
+ new - articl: 1
+ new - bodi: 1
+ new - extrac: 3
+ new - page: 3
+ new - site: 2
+ new - titl: 2
+ singl - new: 1
+ singl - site: 1
+ small - number: 1
+ stateoftheart - new: 1
+ templateindepend - new: 1
+ templateindepend - wrapper: 3
+ templatelevel - wrapper: 1
+ unseen - templat: 1
+ uptod - wrapper: 1
+ wrapper - induc: 1
+
+PageRank scores count: 23
+ articl: 0.029942029555560568
+ bodi: 0.029942029555560568
+ extrac: 0.0668428471124043
+ induc: 0.09291753794595542
+ label: 0.024216983338251945
+ learn: 0.0448014191757661
+ machin: 0.024216983338251945
+ method: 0.0810334033837956
+ new: 0.08082418189141587
+ number: 0.0448014191757661
+ page: 0.04139212199017781
+ problem: 0.06229818963765313
+ singl: 0.024216983338251945
+ site: 0.04595929369162627
+ small: 0.024216983338251945
+ stateoftheart: 0.024216983338251945
+ templat: 0.0448014191757661
+ templateindepend: 0.024216983338251945
+ templatelevel: 0.024216983338251945
+ titl: 0.03566707577286919
+ unseen: 0.024216983338251945
+ uptod: 0.024216983338251945
+ wrapper: 0.08082418189141587
+
+N-grams list: 10
+ templatelevel wrapper induc
+ new articl extrac
+ stateoftheart new extrac
+ templateindepend new extrac
+ singl new site
+ new extrac
+ label new page
+ machin learn problem
+ new site
+ new page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

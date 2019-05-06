@@ -1,0 +1,73 @@
+File name: 979879
+
+Graph edges count: 23
+ associ - search: 1
+ complex - relationship: 2
+ complex - structur: 1
+ docum - resourc: 1
+ informationtheoret - techniqu: 1
+ knowledg - base: 1
+ model - semrank: 1
+ modul - search: 1
+ overwhelm - number: 1
+ rank - complex: 1
+ rank - entiti: 1
+ rank - scheme: 2
+ relationship - search: 1
+ relev - model: 1
+ resourc - etc: 1
+ search - mode: 1
+ search - result: 1
+ search - technologi: 1
+ semant - associ: 4
+ semant - web: 2
+ semrank - valu: 1
+ ssark - system: 1
+ web - search: 1
+
+PageRank scores count: 29
+ associ: 0.030291714243355382
+ base: 0.03577000298949412
+ complex: 0.023443853310681956
+ docum: 0.019335136751077904
+ entiti: 0.023443853310681956
+ etc: 0.049739639292147905
+ informationtheoret: 0.019335136751077904
+ knowledg: 0.019335136751077904
+ mode: 0.050597105611934166
+ model: 0.03577000298949412
+ modul: 0.019335136751077904
+ number: 0.03577000298949412
+ overwhelm: 0.019335136751077904
+ rank: 0.019335136751077904
+ relationship: 0.032619986960464344
+ relev: 0.019335136751077904
+ resourc: 0.03577000298949412
+ result: 0.050597105611934166
+ scheme: 0.02755256987028601
+ search: 0.11033636068537503
+ semant: 0.019335136751077904
+ semrank: 0.049739639292147905
+ ssark: 0.019335136751077904
+ structur: 0.025977561855771124
+ system: 0.03577000298949412
+ techniqu: 0.03577000298949412
+ technologi: 0.050597105611934166
+ valu: 0.061613830149403616
+ web: 0.02481342549721664
+
+N-grams list: 10
+ search result
+ search mode
+ semant associ search
+ semant web search
+ modul search
+ semrank valu
+ search
+ docum resourc etc
+ relev model semrank
+ rank complex relationship
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

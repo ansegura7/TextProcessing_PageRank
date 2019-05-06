@@ -1,0 +1,77 @@
+File name: 3713227
+
+Graph edges count: 24
+ ambigu - queri: 2
+ conven - probabilist: 1
+ conven - retriev: 1
+ conven - texthypertext: 1
+ empir - result: 1
+ firstclass - activ: 1
+ formal - model: 1
+ human - judgment: 1
+ hypermedia - environ: 1
+ inform - retriev: 1
+ larg - web: 1
+ manual - navig: 1
+ nar - paradigm: 1
+ navigationaid - retriev: 4
+ postqueri - navig: 2
+ probabilist - inform: 1
+ rate - scale: 1
+ realworld - applic: 1
+ retriev - model: 1
+ retriev - paradigm: 3
+ retriev - system: 1
+ retriev - user: 1
+ texthypertext - retriev: 1
+ web - corpu: 1
+
+PageRank scores count: 32
+ activ: 0.034461854278282036
+ ambigu: 0.018628029339611912
+ applic: 0.034461854278282036
+ conven: 0.018628029339611912
+ corpu: 0.04792060547615164
+ empir: 0.018628029339611912
+ environ: 0.034461854278282036
+ firstclass: 0.018628029339611912
+ formal: 0.018628029339611912
+ human: 0.018628029339611912
+ hypermedia: 0.018628029339611912
+ inform: 0.038948104677571906
+ judgment: 0.034461854278282036
+ larg: 0.018628029339611912
+ manual: 0.018628029339611912
+ model: 0.054259578328942355
+ nar: 0.018628029339611912
+ navig: 0.050295679216952154
+ navigationaid: 0.018628029339611912
+ paradigm: 0.054259578328942355
+ postqueri: 0.018628029339611912
+ probabilist: 0.023905970985835287
+ queri: 0.034461854278282036
+ rate: 0.018628029339611912
+ realworld: 0.018628029339611912
+ result: 0.034461854278282036
+ retriev: 0.09316576023840152
+ scale: 0.034461854278282036
+ system: 0.03842575339027224
+ texthypertext: 0.023905970985835287
+ user: 0.03842575339027224
+ web: 0.034461854278282036
+
+N-grams list: 10
+ conven retriev system
+ navigationaid retriev user
+ retriev model
+ retriev paradigm
+ conven texthypertext retriev
+ navigationaid retriev
+ larg web corpu
+ conven probabilist inform
+ nar paradigm
+ formal model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,63 @@
+File name: 10267504
+
+Graph edges count: 17
+ collabor - game: 1
+ consensu - opinion: 1
+ consensu - rank: 3
+ imagesearch - result: 1
+ imag - queri: 1
+ imag - result: 1
+ individu - user: 2
+ label - game: 2
+ learn - consensu: 1
+ learn - system: 1
+ mine - data: 1
+ nonrelev - result: 1
+ position - bias: 1
+ queri - log: 1
+ relev - judgment: 1
+ standard - mechan: 1
+ user - prefer: 1
+
+PageRank scores count: 25
+ bias: 0.04824618594340853
+ collabor: 0.026079019428869473
+ consensu: 0.037162602686139
+ data: 0.04824618594340853
+ game: 0.07041335245794758
+ imag: 0.026079019428869473
+ imagesearch: 0.026079019428869473
+ individu: 0.026079019428869473
+ judgment: 0.04824618594340853
+ label: 0.026079019428869473
+ learn: 0.026079019428869473
+ log: 0.05766723171208762
+ mechan: 0.04824618594340853
+ mine: 0.026079019428869473
+ nonrelev: 0.026079019428869473
+ opinion: 0.04187312557047855
+ position: 0.026079019428869473
+ prefer: 0.06708827748076672
+ queri: 0.037162602686139
+ rank: 0.04187312557047855
+ relev: 0.026079019428869473
+ result: 0.0814969357152171
+ standard: 0.026079019428869473
+ system: 0.037162602686139
+ user: 0.04824618594340853
+
+N-grams list: 10
+ individu user prefer
+ imag result
+ imagesearch result
+ nonrelev result
+ learn consensu opinion
+ collabor game
+ label game
+ queri log
+ result
+ consensu rank
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

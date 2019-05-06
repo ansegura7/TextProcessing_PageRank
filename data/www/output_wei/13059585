@@ -1,0 +1,57 @@
+File name: 13059585
+
+Graph edges count: 15
+ cl - ecosystem: 3
+ cl - workload: 1
+ comprehens - multilevel: 1
+ content - usag: 1
+ cyberlock - servic: 2
+ evolu - characterist: 1
+ file - share: 1
+ infrastructur - qualiti: 1
+ measur - infrastructur: 1
+ multilevel - character: 1
+ perform - infrastructur: 1
+ research - question: 1
+ servic - cyberlock: 1
+ suitabl - measur: 1
+ usag - perform: 1
+
+PageRank scores count: 21
+ character: 0.05225184151984307
+ characterist: 0.03757664016004264
+ cl: 0.02031169738380683
+ comprehens: 0.02031169738380683
+ content: 0.02031169738380683
+ cyberlock: 0.13541131589204553
+ ecosystem: 0.03326040446598368
+ evolu: 0.02031169738380683
+ file: 0.02031169738380683
+ infrastructur: 0.0966659068117097
+ measur: 0.03757664016004264
+ multilevel: 0.03757664016004264
+ perform: 0.05225184151984307
+ qualiti: 0.10247771817376009
+ question: 0.03757664016004264
+ research: 0.02031169738380683
+ servic: 0.13541131589204553
+ share: 0.03757664016004264
+ suitabl: 0.02031169738380683
+ usag: 0.03757664016004264
+ workload: 0.024627933077865784
+
+N-grams list: 10
+ cyberlock servic cyberlock
+ infrastructur qualiti
+ suitabl measur infrastructur
+ servic
+ comprehens multilevel character
+ content usag perform
+ evolu characterist
+ research question
+ file share
+ cl ecosystem
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

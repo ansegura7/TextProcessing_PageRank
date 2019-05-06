@@ -1,0 +1,85 @@
+File name: 716495
+
+Graph edges count: 28
+ agentbas - semant: 1
+ aid - scenario: 1
+ commun - intent: 1
+ daml - servic: 2
+ domainneutr - commun: 1
+ domainspecif - content: 1
+ effort - attempt: 1
+ function - signatur: 1
+ humanitarian - aid: 1
+ inform - triag: 1
+ inten - forc: 1
+ motiv - web: 1
+ multiag - system: 2
+ opportunist - servic: 1
+ semant - web: 2
+ servic - descrip: 2
+ servic - discoveri: 1
+ servic - effort: 1
+ servic - model: 1
+ servic - system: 1
+ servic - world: 1
+ similar - develop: 1
+ simul - humanitarian: 1
+ situat - awar: 1
+ speech - act: 1
+ system - commun: 2
+ web - commun: 1
+ web - servic: 4
+
+PageRank scores count: 36
+ act: 0.02734020107473148
+ agentbas: 0.014778487067422422
+ aid: 0.03801765798094418
+ attempt: 0.0347335614177177
+ awar: 0.02734020107473148
+ commun: 0.07946896542624708
+ content: 0.02734020107473148
+ daml: 0.014778487067422422
+ descrip: 0.023476558059170913
+ develop: 0.02734020107473148
+ discoveri: 0.023476558059170913
+ domainneutr: 0.014778487067422422
+ domainspecif: 0.014778487067422422
+ effort: 0.023476558059170913
+ forc: 0.02734020107473148
+ function: 0.014778487067422422
+ humanitarian: 0.02734020107473148
+ inform: 0.014778487067422422
+ inten: 0.014778487067422422
+ intent: 0.08232710767973245
+ model: 0.023476558059170913
+ motiv: 0.014778487067422422
+ multiag: 0.014778487067422422
+ opportunist: 0.014778487067422422
+ scenario: 0.04709349635122498
+ semant: 0.02734020107473148
+ servic: 0.06139814817704816
+ signatur: 0.02734020107473148
+ similar: 0.014778487067422422
+ simul: 0.014778487067422422
+ situat: 0.014778487067422422
+ speech: 0.014778487067422422
+ system: 0.03603827206647997
+ triag: 0.02734020107473148
+ web: 0.050579371988253234
+ world: 0.023476558059170913
+
+N-grams list: 10
+ domainneutr commun intent
+ semant web commun
+ web servic world
+ multiag system commun
+ motiv web servic
+ web servic
+ daml servic effort
+ daml servic model
+ opportunist servic discoveri
+ agentbas semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

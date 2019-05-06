@@ -1,0 +1,68 @@
+File name: 9920535
+
+Graph edges count: 19
+ ad - context: 2
+ ad - retriev: 1
+ ad - selec: 5
+ bid - phrase: 1
+ effect - unsupervis: 1
+ entir - land: 1
+ experiment - evalu: 1
+ extract - summar: 2
+ incontext - method: 2
+ intrins - content: 1
+ land - page: 10
+ outofcontext - method: 1
+ page - content: 1
+ salient - region: 1
+ search - ad: 2
+ selec - engin: 1
+ summar - techniqu: 2
+ titl - creativ: 1
+ unsupervis - algorithm: 1
+
+PageRank scores count: 28
+ ad: 0.03893751876581221
+ algorithm: 0.05414419839191995
+ bid: 0.021047307440979574
+ content: 0.08496008739894419
+ context: 0.02932153017871467
+ creativ: 0.03893751876581221
+ effect: 0.021047307440979574
+ engin: 0.05652024208349928
+ entir: 0.021047307440979574
+ evalu: 0.03893751876581221
+ experiment: 0.021047307440979574
+ extract: 0.021047307440979574
+ incontext: 0.021047307440979574
+ intrins: 0.021047307440979574
+ land: 0.03893751876581221
+ method: 0.05682773009064486
+ outofcontext: 0.021047307440979574
+ page: 0.05414419839191995
+ phrase: 0.03893751876581221
+ region: 0.03893751876581221
+ retriev: 0.025184418809847123
+ salient: 0.021047307440979574
+ search: 0.021047307440979574
+ selec: 0.041732864285317306
+ summar: 0.03893751876581221
+ techniqu: 0.05414419839191995
+ titl: 0.021047307440979574
+ unsupervis: 0.03893751876581221
+
+N-grams list: 10
+ land page content
+ ad selec engin
+ extract summar techniqu
+ effect unsupervis algorithm
+ entir land page
+ intrins content
+ search ad selec
+ land page
+ content
+ ad selec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

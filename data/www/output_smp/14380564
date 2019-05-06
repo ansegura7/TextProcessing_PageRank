@@ -1,0 +1,70 @@
+File name: 14380564
+
+Graph edges count: 22
+ behavior - queri: 1
+ commerci - web: 1
+ flat - list: 3
+ fundament - featur: 1
+ input - queri: 1
+ list - case: 1
+ nikon - camera: 1
+ origin - queri: 2
+ parallel - movem: 2
+ popular - commerci: 1
+ popular - queri: 1
+ queri - log: 1
+ queri - reformul: 1
+ queri - sugges: 8
+ reformul - action: 1
+ search - behavior: 1
+ search - engin: 2
+ sparq - interfac: 2
+ sugges - interfac: 1
+ taskbas - user: 1
+ user - studi: 1
+ web - search: 2
+
+PageRank scores count: 27
+ action: 0.05704674405811444
+ behavior: 0.041487277943361954
+ camera: 0.03451343594299247
+ case: 0.047992331872080074
+ commerci: 0.02658467363176447
+ engin: 0.041487277943361954
+ featur: 0.03451343594299247
+ flat: 0.01865591132053647
+ fundament: 0.01865591132053647
+ input: 0.01865591132053647
+ interfac: 0.07290426868057044
+ list: 0.03451343594299247
+ log: 0.045165685573621134
+ movem: 0.03451343594299247
+ nikon: 0.01865591132053647
+ origin: 0.01865591132053647
+ parallel: 0.01865591132053647
+ popular: 0.01865591132053647
+ queri: 0.09356390912853413
+ reformul: 0.045165685573621134
+ search: 0.053720862641942306
+ sparq: 0.01865591132053647
+ studi: 0.047992331872080074
+ sugges: 0.045165685573621134
+ taskbas: 0.01865591132053647
+ user: 0.03451343594299247
+ web: 0.04125288390753627
+
+N-grams list: 10
+ queri sugges interfac
+ search behavior queri
+ popular queri reformul
+ queri log
+ queri sugges
+ web search engin
+ input queri
+ origin queri
+ taskbas user studi
+ flat list case
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

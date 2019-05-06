@@ -1,0 +1,104 @@
+File name: 796357
+
+Graph edges count: 40
+ administr - entiti: 1
+ atmen - node: 1
+ avail - test: 1
+ base - rank: 1
+ dn - failur: 1
+ dn - server: 1
+ histor - measur: 1
+ infrastructur - web: 1
+ kei - web: 1
+ local - decision: 1
+ measur - data: 1
+ measur - inform: 1
+ measur - infrastructur: 2
+ measur - queri: 1
+ monitor - entiti: 2
+ multipl - network: 1
+ networkwid - event: 1
+ network - applic: 1
+ network - measur: 1
+ network - monitor: 1
+ ongo - passiv: 1
+ passiv - measur: 1
+ perform - base: 1
+ perform - measur: 1
+ physic - network: 1
+ popular - network: 1
+ popular - web: 1
+ queri - ongo: 1
+ remot - measur: 1
+ remot - node: 1
+ scalabl - fashion: 1
+ spatial - tempor: 1
+ trigger - measur: 1
+ trigger - network: 1
+ usa - measur: 1
+ userperceiv - latenc: 1
+ web - applic: 1
+ web - perform: 1
+ web - site: 2
+ web - transac: 1
+
+PageRank scores count: 43
+ administr: 0.011369298524630844
+ applic: 0.03416519258357813
+ atmen: 0.011369298524630844
+ avail: 0.011369298524630844
+ base: 0.021029367635978364
+ data: 0.032464657269952346
+ decision: 0.02103320227056706
+ dn: 0.011369298524630844
+ entiti: 0.04041738253429079
+ event: 0.02103320227056706
+ failur: 0.01620125039759895
+ fashion: 0.02103320227056706
+ histor: 0.011369298524630844
+ inform: 0.032464657269952346
+ infrastructur: 0.032464657269952346
+ kei: 0.011369298524630844
+ latenc: 0.02103320227056706
+ local: 0.011369298524630844
+ measur: 0.09927228427479133
+ monitor: 0.02280491795732203
+ multipl: 0.011369298524630844
+ network: 0.0403610097624395
+ networkwid: 0.011369298524630844
+ node: 0.025865154143535168
+ ongo: 0.038964258794854524
+ passiv: 0.044488919753586556
+ perform: 0.02272957315088694
+ physic: 0.011369298524630844
+ popular: 0.011369298524630844
+ queri: 0.032464657269952346
+ rank: 0.029244260276069488
+ remot: 0.011369298524630844
+ scalabl: 0.011369298524630844
+ server: 0.01620125039759895
+ site: 0.02272957315088694
+ spatial: 0.011369298524630844
+ tempor: 0.02103320227056706
+ test: 0.02103320227056706
+ transac: 0.02272957315088694
+ trigger: 0.011369298524630844
+ usa: 0.011369298524630844
+ userperceiv: 0.011369298524630844
+ web: 0.05346011441375886
+
+N-grams list: 10
+ measur queri ongo
+ trigger network measur
+ passiv measur
+ trigger measur infrastructur
+ usa measur data
+ measur inform
+ remot measur
+ histor measur
+ infrastructur web perform
+ measur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

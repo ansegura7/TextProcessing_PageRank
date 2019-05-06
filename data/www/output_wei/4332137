@@ -1,0 +1,64 @@
+File name: 4332137
+
+Graph edges count: 17
+ effici - search: 1
+ global - knowledg: 1
+ grand - challeng: 1
+ increas - qualiti: 1
+ overlai - network: 1
+ overlai - peertop: 1
+ p2p - system: 2
+ p2p - web: 1
+ salient - characterist: 1
+ scalabl - faulttoler: 1
+ search - mechan: 1
+ semant - overlai: 2
+ son - construc: 1
+ sow - approach: 1
+ unstructur - p2p: 1
+ unsupervis - approach: 1
+ web - search: 2
+
+PageRank scores count: 26
+ approach: 0.06358289308148946
+ challeng: 0.04356605637065018
+ characterist: 0.04356605637065018
+ construc: 0.04356605637065018
+ effici: 0.023549219659810914
+ faulttoler: 0.04356605637065018
+ global: 0.023549219659810914
+ grand: 0.023549219659810914
+ increas: 0.023549219659810914
+ knowledg: 0.04356605637065018
+ mechan: 0.0865130135686188
+ network: 0.04206479361733724
+ overlai: 0.04356605637065018
+ p2p: 0.04356605637065018
+ peertop: 0.04206479361733724
+ qualiti: 0.04356605637065018
+ salient: 0.023549219659810914
+ scalabl: 0.023549219659810914
+ search: 0.07407505165742105
+ semant: 0.023549219659810914
+ son: 0.023549219659810914
+ sow: 0.023549219659810914
+ system: 0.048236651603179345
+ unstructur: 0.023549219659810914
+ unsupervis: 0.023549219659810914
+ web: 0.035892935631495135
+
+N-grams list: 10
+ effici search mechan
+ p2p web search
+ unstructur p2p system
+ web search
+ semant overlai network
+ semant overlai peertop
+ p2p system
+ sow approach
+ unsupervis approach
+ salient characterist
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,45 @@
+File name: 4452272
+
+Graph edges count: 11
+ abstract - data: 1
+ access - xml: 1
+ data - model: 1
+ direct - represent: 1
+ schema - access: 1
+ schema - compon: 3
+ xmlbase - xml: 1
+ xml - schema: 3
+ xml - structur: 1
+ xml - syntax: 3
+ xml - technologi: 1
+
+PageRank scores count: 13
+ abstract: 0.04375290844525871
+ access: 0.07545001753111169
+ compon: 0.07545001753111169
+ data: 0.0809428806237286
+ direct: 0.04375290844525871
+ model: 0.11255435697542804
+ represent: 0.0809428806237286
+ schema: 0.07458143022196935
+ structur: 0.07458143022196935
+ syntax: 0.07458143022196935
+ technologi: 0.07458143022196935
+ xml: 0.14507540049123754
+ xmlbase: 0.04375290844525871
+
+N-grams list: 10
+ access xml schema
+ xmlbase xml schema
+ abstract data model
+ xml technologi
+ xml syntax
+ xml schema
+ xml structur
+ schema compon
+ direct represent
+ represent
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

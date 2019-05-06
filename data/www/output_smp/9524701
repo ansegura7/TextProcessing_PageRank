@@ -1,0 +1,76 @@
+File name: 9524701
+
+Graph edges count: 24
+ classif - problem: 1
+ friendship - link: 1
+ groupbas - classif: 1
+ group - membership: 1
+ link - group: 1
+ media - site: 1
+ media - websit: 1
+ membership - inform: 1
+ mix - public: 2
+ onlin - social: 1
+ person - profil: 1
+ practic - model: 1
+ privaci - concern: 1
+ privaci - implic: 1
+ privateprofil - user: 1
+ privat - attribut: 1
+ privat - user: 3
+ relat - classif: 1
+ sensit - attribut: 1
+ signific - inform: 1
+ social - media: 2
+ social - network: 3
+ user - profil: 3
+ wellknown - social: 1
+
+PageRank scores count: 31
+ attribut: 0.040005710705297376
+ classif: 0.0474793050128804
+ concern: 0.02505852209013132
+ friendship: 0.017584927782548297
+ group: 0.0452372267206055
+ groupbas: 0.017584927782548297
+ implic: 0.02505852209013132
+ inform: 0.08016320131851788
+ link: 0.03253211639771435
+ media: 0.03776363241302246
+ membership: 0.056036570495062964
+ mix: 0.017584927782548297
+ model: 0.03253211639771435
+ network: 0.03776363241302246
+ onlin: 0.017584927782548297
+ person: 0.017584927782548297
+ practic: 0.017584927782548297
+ privaci: 0.017584927782548297
+ privat: 0.017584927782548297
+ privateprofil: 0.017584927782548297
+ problem: 0.057942337043496626
+ profil: 0.06653697049721712
+ public: 0.03253211639771435
+ relat: 0.017584927782548297
+ sensit: 0.017584927782548297
+ signific: 0.017584927782548297
+ site: 0.03363447155808284
+ social: 0.0474793050128804
+ user: 0.040005710705297376
+ websit: 0.03363447155808284
+ wellknown: 0.017584927782548297
+
+N-grams list: 10
+ group membership inform
+ privat user profil
+ relat classif problem
+ social media websit
+ onlin social network
+ wellknown social media
+ signific inform
+ friendship link group
+ social network
+ person profil
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

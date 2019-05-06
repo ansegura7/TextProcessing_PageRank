@@ -1,0 +1,119 @@
+File name: 7111844
+
+Graph edges count: 40
+ ad - impres: 1
+ ad - network: 1
+ ad - placem: 1
+ contextu - advertis: 2
+ cosin - similar: 2
+ docum - retriev: 1
+ ecosystem - todai: 1
+ experiment - evalu: 1
+ extra - paramet: 1
+ feedback - contextu: 1
+ fit - algorithm: 1
+ hadoop - framework: 1
+ holdout - set: 1
+ individu - ad: 1
+ inform - retriev: 1
+ invert - index: 1
+ kei - properti: 1
+ larg - scale: 1
+ larg - train: 1
+ logist - regres: 1
+ model - paramet: 1
+ page - content: 1
+ paramet - valu: 1
+ placem - engin: 1
+ precision - rel: 1
+ realworld - ad: 1
+ regres - model: 1
+ retriev - model: 1
+ retriev - system: 1
+ scalabl - implement: 1
+ scale - realworld: 1
+ shrinkag - estim: 1
+ similar - match: 1
+ site - publish: 1
+ standard - cosin: 1
+ system - relev: 1
+ test - data: 1
+ tradition - inform: 1
+ train - corpu: 1
+ user - experi: 1
+
+PageRank scores count: 58
+ ad: 0.034759055953523264
+ advertis: 0.023975378195281245
+ algorithm: 0.01724176857580964
+ content: 0.01724176857580964
+ contextu: 0.01724176857580964
+ corpu: 0.020608573385545444
+ cosin: 0.01724176857580964
+ data: 0.01724176857580964
+ docum: 0.009319874905843049
+ ecosystem: 0.009319874905843049
+ engin: 0.025612907884616495
+ estim: 0.01724176857580964
+ evalu: 0.01724176857580964
+ experi: 0.01724176857580964
+ experiment: 0.009319874905843049
+ extra: 0.009319874905843049
+ feedback: 0.009319874905843049
+ fit: 0.009319874905843049
+ framework: 0.01724176857580964
+ hadoop: 0.009319874905843049
+ holdout: 0.009319874905843049
+ implement: 0.01724176857580964
+ impres: 0.019168274092674645
+ index: 0.01724176857580964
+ individu: 0.009319874905843049
+ inform: 0.01724176857580964
+ invert: 0.009319874905843049
+ kei: 0.009319874905843049
+ larg: 0.009319874905843049
+ logist: 0.009319874905843049
+ match: 0.029698946371832104
+ model: 0.037531718738011574
+ network: 0.019168274092674645
+ page: 0.009319874905843049
+ paramet: 0.049143729503119474
+ placem: 0.019168274092674645
+ precision: 0.009319874905843049
+ properti: 0.01724176857580964
+ publish: 0.01724176857580964
+ realworld: 0.020608573385545444
+ regres: 0.01724176857580964
+ rel: 0.01724176857580964
+ relev: 0.028764658037130422
+ retriev: 0.03189727186524784
+ scalabl: 0.009319874905843049
+ scale: 0.013280821740826345
+ set: 0.01724176857580964
+ shrinkag: 0.009319874905843049
+ similar: 0.023975378195281245
+ site: 0.009319874905843049
+ standard: 0.009319874905843049
+ system: 0.02287621544857338
+ test: 0.009319874905843049
+ todai: 0.01724176857580964
+ tradition: 0.009319874905843049
+ train: 0.013280821740826345
+ user: 0.009319874905843049
+ valu: 0.051092044983494594
+
+N-grams list: 10
+ model paramet valu
+ ad placem engin
+ docum retriev system
+ logist regres model
+ extra paramet
+ tradition inform retriev
+ ad impres
+ ad network
+ feedback contextu advertis
+ standard cosin similar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

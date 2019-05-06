@@ -1,0 +1,55 @@
+File name: 95637
+
+Graph edges count: 13
+ accept - probabl: 1
+ altern - auction: 2
+ autom - bid: 1
+ bid - agent: 1
+ experiment - result: 1
+ multipl - altern: 1
+ past - auction: 1
+ plan - algorithm: 2
+ predic - method: 2
+ probabilist - approach: 1
+ probabl - function: 1
+ relev - auction: 1
+ substitut - item: 1
+
+PageRank scores count: 21
+ accept: 0.02922481186527362
+ agent: 0.07518082852341638
+ algorithm: 0.0540659019507562
+ altern: 0.0540659019507562
+ approach: 0.0540659019507562
+ auction: 0.12486300869438154
+ autom: 0.02922481186527362
+ bid: 0.0540659019507562
+ experiment: 0.02922481186527362
+ function: 0.07518082852341638
+ item: 0.0540659019507562
+ method: 0.0540659019507562
+ multipl: 0.02922481186527362
+ past: 0.02922481186527362
+ plan: 0.02922481186527362
+ predic: 0.02922481186527362
+ probabilist: 0.02922481186527362
+ probabl: 0.0540659019507562
+ relev: 0.02922481186527362
+ result: 0.0540659019507562
+ substitut: 0.02922481186527362
+
+N-grams list: 10
+ multipl altern auction
+ altern auction
+ past auction
+ relev auction
+ bid agent
+ probabl function
+ auction
+ substitut item
+ plan algorithm
+ predic method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

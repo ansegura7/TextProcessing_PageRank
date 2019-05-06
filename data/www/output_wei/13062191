@@ -1,0 +1,101 @@
+File name: 13062191
+
+Graph edges count: 36
+ 95m - queri: 1
+ aggreg - huge: 1
+ assist - servic: 1
+ assist - techniqu: 1
+ autom - larg: 1
+ citi - surf: 1
+ correc - etc: 1
+ editori - assess: 1
+ evalu - methodologi: 1
+ flow - graph: 1
+ gener - coverag: 1
+ graph - model: 1
+ huge - volum: 1
+ improv - recommend: 1
+ individu - queri: 1
+ larg - fraction: 1
+ larg - popul: 1
+ larg - scale: 1
+ longtail - distribu: 1
+ longtail - queri: 3
+ montezuma - beach: 1
+ montezuma - surf: 1
+ precis - model: 1
+ queri - assist: 2
+ queri - flow: 1
+ queri - recommend: 2
+ queri - templat: 1
+ queri - transition: 1
+ queryassist - featur: 1
+ queryflow - graph: 1
+ rare - queri: 1
+ recommend - correc: 1
+ scale - evalu: 1
+ search - engin: 1
+ smallscal - editori: 1
+ tradition - smallscal: 1
+
+PageRank scores count: 44
+ 95m: 0.012273317767996384
+ aggreg: 0.012273317767996384
+ assess: 0.039110461232441475
+ assist: 0.024754843605271276
+ autom: 0.012273317767996384
+ beach: 0.017489477819394847
+ citi: 0.012273317767996384
+ correc: 0.04218240691985436
+ coverag: 0.022705637870793306
+ distribu: 0.014881397793695614
+ editori: 0.0315731099581707
+ engin: 0.022705637870793306
+ etc: 0.04812836364987259
+ evalu: 0.028173912324676028
+ featur: 0.022705637870793306
+ flow: 0.01851408068663383
+ fraction: 0.01870658183138782
+ gener: 0.012273317767996384
+ graph: 0.038442606454432066
+ huge: 0.022705637870793306
+ improv: 0.012273317767996384
+ individu: 0.012273317767996384
+ larg: 0.022705637870793306
+ longtail: 0.012273317767996384
+ methodologi: 0.03622114324397101
+ model: 0.05538185335706056
+ montezuma: 0.012273317767996384
+ popul: 0.01870658183138782
+ precis: 0.012273317767996384
+ queri: 0.05139451815348486
+ queryassist: 0.012273317767996384
+ queryflow: 0.012273317767996384
+ rare: 0.012273317767996384
+ recommend: 0.0351871637080682
+ scale: 0.01870658183138782
+ search: 0.012273317767996384
+ servic: 0.022794126300236677
+ smallscal: 0.022705637870793306
+ surf: 0.027921797922191773
+ techniqu: 0.022794126300236677
+ templat: 0.01851408068663383
+ tradition: 0.012273317767996384
+ transition: 0.01851408068663383
+ volum: 0.0315731099581707
+
+N-grams list: 10
+ queri recommend correc
+ queri flow graph
+ queryflow graph model
+ queri assist servic
+ queri assist techniqu
+ queri recommend
+ individu queri transition
+ queri templat
+ precis model
+ aggreg huge volum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,71 @@
+File name: 6476714
+
+Graph edges count: 22
+ anim - behavior: 1
+ anim - model: 2
+ comput - graphic: 2
+ contrast - modern: 1
+ declar - mean: 1
+ flexibl - concept: 1
+ flexibl - time: 1
+ graphic - commun: 1
+ inflex - model: 1
+ modern - anim: 1
+ multimedia - author: 1
+ multimedia - schedul: 1
+ pace - acceler: 1
+ program - model: 1
+ rich - varieti: 1
+ schedul - model: 2
+ smil2 - 0: 1
+ structur - time: 2
+ time - manipul: 1
+ time - model: 1
+ variabl - pace: 1
+ web - multimedia: 1
+
+PageRank scores count: 28
+ 0: 0.03754158428022256
+ acceler: 0.05220309489776895
+ anim: 0.05220309489776895
+ author: 0.03624792157867436
+ behavior: 0.042479063591131565
+ commun: 0.05220309489776895
+ comput: 0.020292748259579767
+ concept: 0.028917166269901165
+ contrast: 0.020292748259579767
+ declar: 0.020292748259579767
+ flexibl: 0.020292748259579767
+ graphic: 0.03754158428022256
+ inflex: 0.020292748259579767
+ manipul: 0.039913299233060945
+ mean: 0.03754158428022256
+ model: 0.12740801994777154
+ modern: 0.03754158428022256
+ multimedia: 0.03754158428022256
+ pace: 0.03754158428022256
+ program: 0.020292748259579767
+ rich: 0.020292748259579767
+ schedul: 0.03624792157867436
+ smil2: 0.020292748259579767
+ structur: 0.020292748259579767
+ time: 0.04616600229054396
+ variabl: 0.020292748259579767
+ varieti: 0.03754158428022256
+ web: 0.020292748259579767
+
+N-grams list: 10
+ anim model
+ time model
+ schedul model
+ program model
+ inflex model
+ model
+ contrast modern anim
+ variabl pace acceler
+ comput graphic commun
+ flexibl time manipul
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

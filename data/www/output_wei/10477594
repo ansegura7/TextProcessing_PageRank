@@ -1,0 +1,83 @@
+File name: 10477594
+
+Graph edges count: 25
+ advertis - audienc: 1
+ ad - auction: 1
+ approxim - algorithm: 1
+ approxim - factor: 1
+ atten - span: 1
+ audienc - prefer: 1
+ audienc - side: 1
+ choic - model: 1
+ clickthrough - rate: 1
+ conver - rate: 1
+ determin - algorithm: 1
+ determin - problem: 2
+ extern - effect: 1
+ gener - case: 1
+ highqual - ad: 1
+ interest - special: 1
+ minimum - bid: 1
+ model - extern: 1
+ onlin - advertis: 3
+ polynomi - time: 1
+ singl - peak: 1
+ special - case: 1
+ truth - mechan: 1
+ vcgstyle - payment: 1
+ winner - determin: 3
+
+PageRank scores count: 37
+ ad: 0.029845569344567086
+ advertis: 0.029845569344567086
+ algorithm: 0.031445399413037124
+ approxim: 0.01613274018625248
+ atten: 0.01613274018625248
+ auction: 0.041501474129134505
+ audienc: 0.041501474129134505
+ bid: 0.029845569344567086
+ case: 0.05521430328744912
+ choic: 0.01613274018625248
+ clickthrough: 0.01613274018625248
+ conver: 0.01613274018625248
+ determin: 0.029845569344567086
+ effect: 0.05140899319601681
+ extern: 0.041501474129134505
+ factor: 0.022989154765409785
+ gener: 0.01613274018625248
+ highqual: 0.01613274018625248
+ interest: 0.01613274018625248
+ mechan: 0.029845569344567086
+ minimum: 0.01613274018625248
+ model: 0.029845569344567086
+ onlin: 0.01613274018625248
+ payment: 0.029845569344567086
+ peak: 0.029845569344567086
+ polynomi: 0.01613274018625248
+ prefer: 0.03377086669113464
+ problem: 0.033045229481507156
+ rate: 0.04355839850288169
+ side: 0.03377086669113464
+ singl: 0.01613274018625248
+ span: 0.029845569344567086
+ special: 0.029845569344567086
+ time: 0.029845569344567086
+ truth: 0.01613274018625248
+ vcgstyle: 0.01613274018625248
+ winner: 0.01613274018625248
+
+N-grams list: 10
+ interest special case
+ extern effect
+ winner determin problem
+ winner determin algorithm
+ audienc side
+ audienc prefer
+ gener case
+ advertis audienc
+ ad auction
+ model extern
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

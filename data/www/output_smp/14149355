@@ -1,0 +1,82 @@
+File name: 14149355
+
+Graph edges count: 23
+ agent - valu: 1
+ clickthrough - rate: 2
+ constant - fraction: 1
+ convex - assump: 2
+ fullinform - game: 1
+ full - inform: 1
+ gsp - auction: 2
+ ident - regular: 1
+ ineffici - alloc: 1
+ inform - model: 1
+ nash - equilibrium: 1
+ natur - convex: 1
+ nonenvyfre - equilibrium: 1
+ optim - revenu: 1
+ price - auction: 1
+ primari - auction: 1
+ regular - distribu: 1
+ reserv - price: 2
+ revenuemaxim - equilibrium: 1
+ search - advertis: 1
+ singl - particip: 1
+ social - welfar: 2
+ vcg - mechan: 1
+
+PageRank scores count: 38
+ advertis: 0.03060886829913963
+ agent: 0.01654533421575115
+ alloc: 0.03060886829913963
+ assump: 0.042562872270019834
+ auction: 0.07068994043679679
+ clickthrough: 0.01654533421575115
+ constant: 0.01654533421575115
+ convex: 0.03060886829913963
+ distribu: 0.042562872270019834
+ equilibrium: 0.058735936465916586
+ fraction: 0.03060886829913963
+ full: 0.01654533421575115
+ fullinform: 0.01654533421575115
+ game: 0.03060886829913963
+ gsp: 0.01654533421575115
+ ident: 0.01654533421575115
+ ineffici: 0.01654533421575115
+ inform: 0.03060886829913963
+ mechan: 0.03060886829913963
+ model: 0.042562872270019834
+ nash: 0.01654533421575115
+ natur: 0.01654533421575115
+ nonenvyfre: 0.01654533421575115
+ optim: 0.01654533421575115
+ particip: 0.03060886829913963
+ price: 0.03060886829913963
+ primari: 0.01654533421575115
+ rate: 0.03060886829913963
+ regular: 0.03060886829913963
+ reserv: 0.01654533421575115
+ revenu: 0.03060886829913963
+ revenuemaxim: 0.01654533421575115
+ search: 0.01654533421575115
+ singl: 0.01654533421575115
+ social: 0.01654533421575115
+ valu: 0.03060886829913963
+ vcg: 0.01654533421575115
+ welfar: 0.03060886829913963
+
+N-grams list: 10
+ price auction
+ natur convex assump
+ full inform model
+ ident regular distribu
+ primari auction
+ gsp auction
+ nash equilibrium
+ revenuemaxim equilibrium
+ nonenvyfre equilibrium
+ convex assump
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

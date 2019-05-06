@@ -1,0 +1,50 @@
+File name: 11811654
+
+Graph edges count: 11
+ addition - incent: 1
+ adequ - price: 1
+ anonymityproof - shaplei: 1
+ brand - loyalti: 1
+ commerci - interest: 1
+ consider - commerci: 1
+ person - recommend: 2
+ price - scheme: 1
+ recommend - worth: 1
+ search - auction: 1
+ truth - price: 1
+
+PageRank scores count: 18
+ addition: 0.033068783068783074
+ adequ: 0.033068783068783074
+ anonymityproof: 0.033068783068783074
+ auction: 0.061177248677248684
+ brand: 0.033068783068783074
+ commerci: 0.061177248677248684
+ consider: 0.033068783068783074
+ incent: 0.061177248677248684
+ interest: 0.08506944444444446
+ loyalti: 0.061177248677248684
+ person: 0.033068783068783074
+ price: 0.08928571428571432
+ recommend: 0.061177248677248684
+ scheme: 0.10896164021164023
+ search: 0.033068783068783074
+ shaplei: 0.061177248677248684
+ truth: 0.033068783068783074
+ worth: 0.08506944444444446
+
+N-grams list: 10
+ price scheme
+ consider commerci interest
+ person recommend worth
+ truth price
+ adequ price
+ brand loyalti
+ anonymityproof shaplei
+ search auction
+ person recommend
+ addition incent
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

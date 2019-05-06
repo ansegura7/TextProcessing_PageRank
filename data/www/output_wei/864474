@@ -1,0 +1,78 @@
+File name: 864474
+
+Graph edges count: 26
+ bookmark - browser: 1
+ browser - configur: 1
+ browser - web: 1
+ browser - window: 1
+ capac - cost: 1
+ checkpointrestart - mechan: 1
+ configur - option: 1
+ content - open: 1
+ interneten - devic: 1
+ linux - webpod: 1
+ malici - web: 1
+ mobil - user: 2
+ open - browser: 1
+ persist - person: 1
+ persist - web: 1
+ person - web: 1
+ plugin - bookmark: 1
+ pocket - storag: 1
+ portabl - storag: 2
+ portabl - system: 1
+ rapid - improv: 1
+ seamless - web: 1
+ storag - devic: 3
+ webpod - prototyp: 1
+ webpod - virtual: 1
+ web - content: 2
+
+PageRank scores count: 31
+ bookmark: 0.02484493520360132
+ browser: 0.11068957265372643
+ capac: 0.01342969470464936
+ checkpointrestart: 0.01342969470464936
+ configur: 0.04479174098930488
+ content: 0.08958677439049652
+ cost: 0.02484493520360132
+ devic: 0.05243176640940187
+ improv: 0.02484493520360132
+ interneten: 0.01342969470464936
+ linux: 0.01342969470464936
+ malici: 0.01342969470464936
+ mechan: 0.02484493520360132
+ mobil: 0.01342969470464936
+ open: 0.08957844897311751
+ option: 0.05150267827586807
+ persist: 0.01342969470464936
+ person: 0.019137314954125337
+ plugin: 0.01342969470464936
+ pocket: 0.01342969470464936
+ portabl: 0.01342969470464936
+ prototyp: 0.02398879216617992
+ rapid: 0.01342969470464936
+ seamless: 0.01342969470464936
+ storag: 0.03245509553623595
+ system: 0.01723477487096668
+ user: 0.02484493520360132
+ virtual: 0.02398879216617992
+ web: 0.08959655994769132
+ webpod: 0.02484493520360132
+ window: 0.04479174098930488
+
+N-grams list: 10
+ web content open
+ browser configur option
+ malici web content
+ browser window
+ plugin bookmark browser
+ persist person web
+ persist web
+ seamless web
+ portabl storag devic
+ pocket storag devic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

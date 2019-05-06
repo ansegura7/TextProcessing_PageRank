@@ -1,0 +1,62 @@
+File name: 8934534
+
+Graph edges count: 18
+ activ - techniqu: 2
+ activ - valu: 1
+ classic - search: 2
+ hybrid - approach: 1
+ hybrid - spread: 1
+ initi - activ: 1
+ initi - set: 1
+ initi - valu: 1
+ ontologi - weight: 1
+ posit - result: 1
+ relat - concept: 1
+ search - architectur: 1
+ search - techniqu: 1
+ semant - model: 1
+ semant - web: 1
+ spread - activ: 3
+ subsymbol - approach: 1
+ test - case: 1
+
+PageRank scores count: 23
+ activ: 0.07016293810086612
+ approach: 0.0639869119810805
+ architectur: 0.050240273198331895
+ case: 0.05203331303955997
+ classic: 0.028126115156518902
+ concept: 0.05203331303955997
+ hybrid: 0.028126115156518902
+ initi: 0.028126115156518902
+ model: 0.04007971409803944
+ ontologi: 0.028126115156518902
+ posit: 0.028126115156518902
+ relat: 0.028126115156518902
+ result: 0.05203331303955997
+ search: 0.05203331303955997
+ semant: 0.028126115156518902
+ set: 0.03609518111753259
+ spread: 0.04007971409803944
+ subsymbol: 0.028126115156518902
+ techniqu: 0.08999927145548936
+ test: 0.028126115156518902
+ valu: 0.055974680246111325
+ web: 0.04007971409803944
+ weight: 0.05203331303955997
+
+N-grams list: 10
+ spread activ techniqu
+ classic search techniqu
+ initi activ valu
+ hybrid spread activ
+ search architectur
+ subsymbol approach
+ hybrid approach
+ initi valu
+ relat concept
+ test case
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

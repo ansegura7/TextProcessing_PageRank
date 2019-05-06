@@ -1,0 +1,72 @@
+File name: 10631238
+
+Graph edges count: 20
+ addition - malwar: 1
+ anomal - javascript: 1
+ clientsid - interfac: 1
+ code - javascript: 1
+ complet - control: 1
+ detec - signatur: 1
+ drivebi - download: 1
+ drivebydownload - attack: 1
+ dynam - natur: 1
+ establish - profil: 1
+ javascript - code: 7
+ javascript - languag: 1
+ machinelearn - techniqu: 1
+ malici - code: 1
+ malici - javascript: 4
+ normal - javascript: 1
+ signaturebas - system: 1
+ sophist - clientsid: 1
+ tight - integr: 1
+ web - applic: 1
+
+PageRank scores count: 31
+ addition: 0.01826267096769652
+ anomal: 0.01826267096769652
+ applic: 0.03378594129023856
+ attack: 0.03378594129023856
+ clientsid: 0.03378594129023856
+ code: 0.07871533755861843
+ complet: 0.01826267096769652
+ control: 0.03378594129023856
+ detec: 0.01826267096769652
+ download: 0.03378594129023856
+ drivebi: 0.01826267096769652
+ drivebydownload: 0.01826267096769652
+ dynam: 0.01826267096769652
+ establish: 0.01826267096769652
+ integr: 0.03378594129023856
+ interfac: 0.0469807210643993
+ javascript: 0.12397887898132451
+ languag: 0.07095370239734738
+ machinelearn: 0.01826267096769652
+ malici: 0.01826267096769652
+ malwar: 0.03378594129023856
+ natur: 0.03378594129023856
+ normal: 0.01826267096769652
+ profil: 0.03378594129023856
+ signatur: 0.03378594129023856
+ signaturebas: 0.01826267096769652
+ sophist: 0.01826267096769652
+ system: 0.03378594129023856
+ techniqu: 0.03378594129023856
+ tight: 0.01826267096769652
+ web: 0.01826267096769652
+
+N-grams list: 10
+ anomal javascript code
+ malici javascript code
+ normal javascript code
+ javascript code
+ javascript languag
+ javascript
+ sophist clientsid interfac
+ malici code
+ code
+ languag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

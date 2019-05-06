@@ -1,0 +1,68 @@
+File name: 78324
+
+Graph edges count: 18
+ altern - distanc: 1
+ analyz - novelti: 1
+ approachov - legaci: 1
+ customtailor - new: 1
+ distanc - metric: 1
+ formal - measur: 1
+ individu - articl: 1
+ inform - novelti: 2
+ interandintradocu - dynam: 1
+ legaci - timebas: 1
+ new - stori: 1
+ noveltyanalysi - algorithm: 1
+ person - newsfe: 1
+ principl - methodologi: 1
+ timebas - review: 1
+ timefrom - articl: 1
+ usedto - customtailor: 1
+ user - studi: 1
+
+PageRank scores count: 29
+ algorithm: 0.03764696306018935
+ altern: 0.020349709762264516
+ analyz: 0.020349709762264516
+ approachov: 0.020349709762264516
+ articl: 0.054944216358114195
+ customtailor: 0.03764696306018935
+ distanc: 0.03764696306018935
+ dynam: 0.03764696306018935
+ formal: 0.020349709762264516
+ individu: 0.020349709762264516
+ inform: 0.020349709762264516
+ interandintradocu: 0.020349709762264516
+ legaci: 0.03764696306018935
+ measur: 0.03764696306018935
+ methodologi: 0.03764696306018935
+ metric: 0.052349628363425466
+ new: 0.052349628363425466
+ newsfe: 0.03764696306018935
+ novelti: 0.054944216358114195
+ noveltyanalysi: 0.020349709762264516
+ person: 0.020349709762264516
+ principl: 0.020349709762264516
+ review: 0.06484689387117616
+ stori: 0.06484689387117616
+ studi: 0.03764696306018935
+ timebas: 0.052349628363425466
+ timefrom: 0.020349709762264516
+ usedto: 0.020349709762264516
+ user: 0.020349709762264516
+
+N-grams list: 10
+ new stori
+ approachov legaci timebas
+ usedto customtailor new
+ altern distanc metric
+ analyz novelti
+ inform novelti
+ individu articl
+ timefrom articl
+ stori
+ review
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

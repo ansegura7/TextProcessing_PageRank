@@ -1,0 +1,71 @@
+File name: 4644604
+
+Graph edges count: 23
+ analysi - perform: 1
+ automat - search: 2
+ chines - search: 1
+ clickthrough - data: 2
+ commerci - chines: 1
+ data - analysi: 2
+ engin - perform: 2
+ evalu - method: 2
+ evalu - result: 1
+ experiment - result: 1
+ human - effort: 1
+ import - issu: 1
+ navig - type: 1
+ perform - evalu: 3
+ queri - topic: 1
+ search - engin: 4
+ search - user: 1
+ similar - evalu: 1
+ tradition - assessorbas: 1
+ tradition - evalu: 1
+ type - queri: 1
+ user - log: 1
+ web - search: 1
+
+PageRank scores count: 27
+ analysi: 0.0394713247283572
+ assessorbas: 0.02186458221104335
+ automat: 0.01534356646389007
+ chines: 0.028385597958196628
+ clickthrough: 0.01534356646389007
+ commerci: 0.01534356646389007
+ data: 0.028385597958196628
+ effort: 0.028385597958196628
+ engin: 0.05992123011142989
+ evalu: 0.11975976607140264
+ experiment: 0.01534356646389007
+ human: 0.01534356646389007
+ import: 0.01534356646389007
+ issu: 0.028385597958196628
+ log: 0.03785835148329884
+ method: 0.08320743390435156
+ navig: 0.01534356646389007
+ perform: 0.0998272380777091
+ queri: 0.0394713247283572
+ result: 0.06231753167842738
+ search: 0.06555538771697032
+ similar: 0.01534356646389007
+ topic: 0.0488941924829937
+ tradition: 0.01534356646389007
+ type: 0.028385597958196628
+ user: 0.026487982375775026
+ web: 0.01534356646389007
+
+N-grams list: 10
+ perform evalu method
+ perform evalu
+ tradition evalu method
+ similar evalu result
+ automat search engin
+ web search engin
+ commerci chines search
+ search user
+ method
+ clickthrough data analysi
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,52 @@
+File name: 11848994
+
+Graph edges count: 12
+ case - studi: 1
+ dom - tree: 1
+ entitypag - discoveri: 1
+ faculti - member: 2
+ member - homepag: 1
+ mine - method: 1
+ parallel - path: 3
+ relat - inform: 1
+ structur - mine: 1
+ web - graph: 1
+ web - site: 1
+ web - structur: 1
+
+PageRank scores count: 19
+ case: 0.034024551549322136
+ discoveri: 0.06294542036624595
+ dom: 0.034024551549322136
+ entitypag: 0.034024551549322136
+ faculti: 0.034024551549322136
+ graph: 0.04366484115496341
+ homepag: 0.0875281588606312
+ inform: 0.06294542036624595
+ member: 0.06294542036624595
+ method: 0.094493268100707
+ mine: 0.07113966653104103
+ parallel: 0.034024551549322136
+ path: 0.06294542036624595
+ relat: 0.034024551549322136
+ site: 0.04366484115496341
+ structur: 0.04366484115496341
+ studi: 0.06294542036624595
+ tree: 0.06294542036624595
+ web: 0.034024551549322136
+
+N-grams list: 10
+ faculti member homepag
+ web structur mine
+ faculti member
+ relat inform
+ case studi
+ entitypag discoveri
+ dom tree
+ parallel path
+ method
+ web graph
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

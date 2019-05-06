@@ -1,0 +1,79 @@
+File name: 173979
+
+Graph edges count: 29
+ algorithm - probabilist: 1
+ answer - rank: 1
+ docum - rank: 1
+ docum - retriev: 1
+ extrac - phrase: 1
+ languag - question: 1
+ modul - docum: 1
+ natur - languag: 1
+ northernlight - return: 1
+ passag - extrac: 1
+ phrase - extrac: 1
+ phrase - rerank: 1
+ probabilist - approach: 1
+ probabilist - phrase: 1
+ probabilist - question: 1
+ queri - modul: 1
+ question - answer: 2
+ question - type: 1
+ reciproc - docum: 1
+ retriev - passag: 1
+ return - docum: 1
+ search - engin: 3
+ total - reciproc: 1
+ type - featur: 1
+ user - queri: 1
+ user - question: 1
+ webaccess - system: 1
+ webbas - search: 1
+ web - webbas: 1
+
+PageRank scores count: 29
+ algorithm: 0.01239541987838207
+ answer: 0.037131857514568864
+ approach: 0.018892685797967337
+ docum: 0.07467698177105518
+ engin: 0.039499554869949265
+ extrac: 0.09839078484512492
+ featur: 0.033444512770386216
+ languag: 0.022931526775006827
+ modul: 0.02740937220607235
+ natur: 0.01239541987838207
+ northernlight: 0.01239541987838207
+ passag: 0.0499085864398005
+ phrase: 0.10252485780017738
+ probabilist: 0.022931526775006827
+ queri: 0.017663473326694448
+ question: 0.04365253700503552
+ rank: 0.07569521601846406
+ reciproc: 0.022931526775006827
+ rerank: 0.0559684863712945
+ retriev: 0.04413313713108052
+ return: 0.022931526775006827
+ search: 0.03188721763713787
+ system: 0.022931526775006827
+ total: 0.01239541987838207
+ type: 0.024763638696475465
+ user: 0.01239541987838207
+ web: 0.01239541987838207
+ webaccess: 0.01239541987838207
+ webbas: 0.022931526775006827
+
+N-grams list: 10
+ phrase extrac
+ retriev passag extrac
+ algorithm probabilist phrase
+ queri modul docum
+ answer rank
+ northernlight return docum
+ total reciproc docum
+ question type featur
+ question answer
+ natur languag question
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

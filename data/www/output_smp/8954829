@@ -1,0 +1,109 @@
+File name: 8954829
+
+Graph edges count: 40
+ actual - busi: 1
+ agre - collabor: 1
+ altern - busi: 1
+ assign - part: 1
+ b2b - collabor: 2
+ b2b - experi: 1
+ b2b - standard: 1
+ b2b - system: 1
+ base - pattern: 1
+ busi - transac: 5
+ central - servic: 1
+ chain - manag: 1
+ collabor - compani: 1
+ collabor - configur: 1
+ complet - set: 1
+ conven - concept: 1
+ demonstr - experi: 1
+ diversifi - scm: 2
+ divers - busi: 1
+ experiment - system: 1
+ gener - merchand: 1
+ hub - architectur: 2
+ ideal - set: 1
+ industri - suppli: 1
+ japanes - retail: 4
+ major - manufactur: 1
+ major - player: 1
+ merchand - store: 1
+ orient - architectur: 1
+ retail - industri: 4
+ scm - model: 3
+ scm - standard: 1
+ servic - orient: 1
+ singl - ideal: 1
+ standard - scm: 3
+ suppli - chain: 4
+ transac - altern: 1
+ transac - pattern: 3
+ transac - segment: 1
+ wide - rang: 1
+
+PageRank scores count: 48
+ actual: 0.010154087102238196
+ agre: 0.010154087102238196
+ altern: 0.024687513407691947
+ architectur: 0.040988241849072245
+ assign: 0.010154087102238196
+ b2b: 0.010154087102238196
+ base: 0.010154087102238196
+ busi: 0.048400425022802604
+ central: 0.010154087102238196
+ chain: 0.03765776474258251
+ collabor: 0.020942804648366276
+ compani: 0.019054779077793862
+ complet: 0.010154087102238196
+ concept: 0.01878506113914066
+ configur: 0.019054779077793862
+ conven: 0.010154087102238196
+ demonstr: 0.010154087102238196
+ divers: 0.010154087102238196
+ diversifi: 0.010154087102238196
+ experi: 0.020942804648366276
+ experiment: 0.010154087102238196
+ gener: 0.010154087102238196
+ hub: 0.010154087102238196
+ ideal: 0.01878506113914066
+ industri: 0.026121389070507754
+ japanes: 0.010154087102238196
+ major: 0.010154087102238196
+ manag: 0.04216318713343333
+ manufactur: 0.01446957412068943
+ merchand: 0.01878506113914066
+ model: 0.029616007425912784
+ orient: 0.026121389070507754
+ part: 0.01878506113914066
+ pattern: 0.03331848744459441
+ player: 0.01446957412068943
+ rang: 0.01878506113914066
+ retail: 0.01878506113914066
+ scm: 0.04579274855968489
+ segment: 0.024687513407691947
+ servic: 0.01878506113914066
+ set: 0.03475236310741023
+ singl: 0.010154087102238196
+ standard: 0.0317737509351384
+ store: 0.026121389070507754
+ suppli: 0.032357267812169785
+ system: 0.020942804648366276
+ transac: 0.05129444578395442
+ wide: 0.010154087102238196
+
+N-grams list: 10
+ altern busi transac
+ suppli chain manag
+ actual busi transac
+ divers busi transac
+ standard scm model
+ busi transac
+ industri suppli chain
+ diversifi scm standard
+ servic orient architectur
+ transac pattern
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

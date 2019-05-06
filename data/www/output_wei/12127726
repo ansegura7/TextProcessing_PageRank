@@ -1,0 +1,69 @@
+File name: 12127726
+
+Graph edges count: 18
+ clean - model: 1
+ decid - extens: 1
+ empir - evalu: 1
+ extens - ontologi: 1
+ extrac - techniqu: 1
+ fact - correct: 1
+ heurist - method: 1
+ high - coverag: 1
+ inform - extrac: 1
+ isa - hierarchi: 1
+ knowledg - base: 1
+ major - step: 1
+ nontaxonom - relat: 1
+ organ - product: 1
+ person - organ: 1
+ semant - knowledg: 1
+ semant - relationship: 1
+ stateoftheart - inform: 1
+
+PageRank scores count: 30
+ base: 0.04576700480954561
+ clean: 0.02069734530674759
+ correct: 0.03829008881748304
+ coverag: 0.03829008881748304
+ decid: 0.02069734530674759
+ empir: 0.02069734530674759
+ evalu: 0.03829008881748304
+ extens: 0.03829008881748304
+ extrac: 0.053243920801608176
+ fact: 0.02069734530674759
+ heurist: 0.02069734530674759
+ hierarchi: 0.03829008881748304
+ high: 0.02069734530674759
+ inform: 0.03829008881748304
+ isa: 0.02069734530674759
+ knowledg: 0.029493717062115316
+ major: 0.02069734530674759
+ method: 0.03829008881748304
+ model: 0.03829008881748304
+ nontaxonom: 0.02069734530674759
+ ontologi: 0.053243920801608176
+ organ: 0.03829008881748304
+ person: 0.02069734530674759
+ product: 0.053243920801608176
+ relat: 0.03829008881748304
+ relationship: 0.029493717062115316
+ semant: 0.02069734530674759
+ stateoftheart: 0.02069734530674759
+ step: 0.03829008881748304
+ techniqu: 0.06595467798811454
+
+N-grams list: 10
+ person organ product
+ stateoftheart inform extrac
+ extens ontologi
+ knowledg base
+ techniqu
+ nontaxonom relat
+ high coverag
+ heurist method
+ isa hierarchi
+ major step
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

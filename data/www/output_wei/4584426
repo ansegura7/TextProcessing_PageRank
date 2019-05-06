@@ -1,0 +1,64 @@
+File name: 4584426
+
+Graph edges count: 16
+ account - inform: 1
+ attack - method: 1
+ electron - commun: 1
+ evolutionari - natur: 1
+ featur - set: 1
+ gener - form: 1
+ ident - inform: 1
+ inform - logon: 1
+ legitim - email: 1
+ logon - credenti: 1
+ nonphish - email: 1
+ phish - email: 3
+ slight - modif: 1
+ spoof - websit: 1
+ usertarget - decep: 1
+ web - user: 1
+
+PageRank scores count: 27
+ account: 0.022729468187268093
+ attack: 0.022729468187268093
+ commun: 0.04204951614644597
+ credenti: 0.08638902621275919
+ decep: 0.04204951614644597
+ electron: 0.022729468187268093
+ email: 0.08068961206480171
+ evolutionari: 0.022729468187268093
+ featur: 0.022729468187268093
+ form: 0.04204951614644597
+ gener: 0.022729468187268093
+ ident: 0.022729468187268093
+ inform: 0.061369564105623844
+ legitim: 0.022729468187268093
+ logon: 0.07489359767704835
+ method: 0.04204951614644597
+ modif: 0.04204951614644597
+ natur: 0.04204951614644597
+ nonphish: 0.022729468187268093
+ phish: 0.022729468187268093
+ set: 0.04204951614644597
+ slight: 0.022729468187268093
+ spoof: 0.022729468187268093
+ user: 0.04204951614644597
+ usertarget: 0.022729468187268093
+ web: 0.022729468187268093
+ websit: 0.04204951614644597
+
+N-grams list: 10
+ account inform logon
+ nonphish email
+ phish email
+ legitim email
+ credenti
+ ident inform
+ email
+ attack method
+ web user
+ evolutionari natur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

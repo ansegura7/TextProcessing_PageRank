@@ -1,0 +1,58 @@
+File name: 11659004
+
+Graph edges count: 15
+ bipartit - direct: 1
+ commun - structur: 1
+ dens - nucleu: 1
+ direct - cliqu: 1
+ direct - edg: 1
+ endors - network: 2
+ endors - social: 1
+ frequent - itemset: 1
+ high - densiti: 1
+ interest - phenomenon: 1
+ itemset - mine: 1
+ leadership - nuclei: 1
+ mine - techniqu: 1
+ real - network: 1
+ social - network: 2
+
+PageRank scores count: 22
+ bipartit: 0.027629747567718795
+ cliqu: 0.049353636592837695
+ commun: 0.027629747567718795
+ dens: 0.027629747567718795
+ densiti: 0.051115033000279766
+ direct: 0.051115033000279766
+ edg: 0.049353636592837695
+ endors: 0.027629747567718795
+ frequent: 0.027629747567718795
+ high: 0.027629747567718795
+ interest: 0.027629747567718795
+ itemset: 0.051115033000279766
+ leadership: 0.027629747567718795
+ mine: 0.07107752561795659
+ network: 0.09632420745795965
+ nuclei: 0.051115033000279766
+ nucleu: 0.051115033000279766
+ phenomenon: 0.051115033000279766
+ real: 0.027629747567718795
+ social: 0.03937239028399928
+ structur: 0.051115033000279766
+ techniqu: 0.0880456443429819
+
+N-grams list: 10
+ endors social network
+ frequent itemset mine
+ social network
+ bipartit direct cliqu
+ endors network
+ real network
+ direct edg
+ techniqu
+ leadership nuclei
+ commun structur
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

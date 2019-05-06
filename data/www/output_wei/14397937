@@ -1,0 +1,102 @@
+File name: 14397937
+
+Graph edges count: 38
+ auction - fraud: 3
+ baselin - model: 1
+ coeffici - bound: 1
+ custom - complaint: 1
+ detec - data: 1
+ ecomm - web: 1
+ empir - experi: 1
+ featur - selec: 1
+ frauddetec - moder: 1
+ fraudul - activ: 1
+ fraud - activ: 1
+ fraud - detec: 2
+ honest - parti: 1
+ humantun - rulebas: 2
+ human - knowledg: 1
+ illeg - profit: 1
+ machinelearn - model: 2
+ model - framework: 1
+ moder - system: 2
+ multipl - instanc: 1
+ onlin - auction: 2
+ onlin - featur: 1
+ onlin - machinelearn: 1
+ onlin - model: 1
+ onlin - probit: 1
+ onlin - shop: 1
+ onlin - trade: 1
+ proactiv - frauddetec: 1
+ proactiv - moder: 1
+ probit - model: 1
+ realworld - onlin: 1
+ rulebas - system: 2
+ selec - coeffici: 1
+ trade - crimin: 1
+ web - onlin: 1
+ web - site: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 43
+ activ: 0.030074591950142268
+ auction: 0.020128914820553793
+ baselin: 0.011825099201965106
+ bound: 0.04023194712784494
+ coeffici: 0.0334198210892704
+ complaint: 0.021876433523635445
+ crimin: 0.02540555516153564
+ custom: 0.011825099201965106
+ data: 0.035813302848697035
+ detec: 0.028221416054978743
+ ecomm: 0.011825099201965106
+ empir: 0.011825099201965106
+ experi: 0.021876433523635445
+ featur: 0.01597700701125945
+ framework: 0.05703596446622535
+ fraud: 0.028934676799435833
+ frauddetec: 0.016850766362800276
+ fraudul: 0.011825099201965106
+ honest: 0.011825099201965106
+ human: 0.011825099201965106
+ humantun: 0.011825099201965106
+ illeg: 0.011825099201965106
+ instanc: 0.021876433523635445
+ knowledg: 0.021876433523635445
+ machinelearn: 0.01597700701125945
+ model: 0.05318925325207087
+ moder: 0.031173917771180514
+ multipl: 0.011825099201965106
+ onlin: 0.03907677938159382
+ parti: 0.021876433523635445
+ proactiv: 0.011825099201965106
+ probit: 0.01597700701125945
+ profit: 0.021876433523635445
+ realworld: 0.011825099201965106
+ rulebas: 0.021876433523635445
+ selec: 0.02540555516153564
+ shop: 0.01597700701125945
+ site: 0.029025445059923476
+ system: 0.05691789780255867
+ trade: 0.01597700701125945
+ web: 0.04047140201872557
+ wide: 0.021876433523635445
+ world: 0.011825099201965106
+
+N-grams list: 10
+ onlin probit model
+ onlin machinelearn model
+ proactiv moder system
+ fraud detec data
+ onlin model
+ humantun rulebas system
+ ecomm web site
+ onlin trade crimin
+ onlin featur selec
+ auction fraud detec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

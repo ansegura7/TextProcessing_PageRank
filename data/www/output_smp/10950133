@@ -1,0 +1,69 @@
+File name: 10950133
+
+Graph edges count: 21
+ browser - vendor: 1
+ chrome - browser: 1
+ clientsid - filter: 1
+ clientsid - xss: 1
+ common - publiclyreport: 1
+ crosssit - script: 1
+ filter - crosssit: 1
+ filter - design: 2
+ googl - chrome: 1
+ high - perform: 1
+ high - precision: 1
+ open - sourc: 1
+ previou - approach: 1
+ publiclyreport - secur: 1
+ recent - year: 1
+ regular - expres: 1
+ script - flaw: 1
+ secur - vulner: 1
+ webkit - open: 1
+ xss - filter: 1
+ year - browser: 1
+
+PageRank scores count: 27
+ approach: 0.03462067582404303
+ browser: 0.07756902772468019
+ chrome: 0.03462067582404303
+ clientsid: 0.018713878823807043
+ common: 0.018713878823807043
+ crosssit: 0.0396810256197431
+ design: 0.0396810256197431
+ expres: 0.03462067582404303
+ filter: 0.04933446304926132
+ flaw: 0.06329021683430741
+ googl: 0.018713878823807043
+ high: 0.018713878823807043
+ open: 0.03462067582404303
+ perform: 0.026667277323925036
+ precision: 0.026667277323925036
+ previou: 0.018713878823807043
+ publiclyreport: 0.03462067582404303
+ recent: 0.018713878823807043
+ regular: 0.018713878823807043
+ script: 0.05244275060058867
+ secur: 0.04814145327424362
+ sourc: 0.04814145327424362
+ vendor: 0.0846475523897852
+ vulner: 0.059634114106914125
+ webkit: 0.018713878823807043
+ xss: 0.026667277323925036
+ year: 0.03462067582404303
+
+N-grams list: 10
+ crosssit script flaw
+ recent year browser
+ googl chrome browser
+ common publiclyreport secur
+ webkit open sourc
+ clientsid xss filter
+ filter design
+ vendor
+ clientsid filter
+ vulner
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

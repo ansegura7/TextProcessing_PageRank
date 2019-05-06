@@ -1,0 +1,60 @@
+File name: 14374135
+
+Graph edges count: 17
+ addition - knowledg: 1
+ adhoc - entiti: 1
+ adhoc - homogen: 1
+ disambigu - problem: 1
+ entiti - disambigu: 1
+ entiti - extrac: 1
+ entiti - present: 1
+ extrac - applic: 1
+ graphbas - model: 1
+ homogen - constraint: 1
+ homogen - set: 1
+ knowledg - base: 2
+ main - insight: 1
+ prior - techniqu: 1
+ rich - set: 1
+ target - entiti: 5
+ uniqu - set: 1
+
+PageRank scores count: 22
+ addition: 0.027538125961683004
+ adhoc: 0.027538125961683004
+ applic: 0.06603355750132817
+ base: 0.07084182903642952
+ constraint: 0.04421590349722727
+ disambigu: 0.04528874298781784
+ entiti: 0.06264923656282884
+ extrac: 0.04528874298781784
+ graphbas: 0.027538125961683004
+ homogen: 0.03924182949539828
+ insight: 0.05094553302911355
+ knowledg: 0.05094553302911355
+ main: 0.027538125961683004
+ model: 0.05094553302911355
+ present: 0.04528874298781784
+ prior: 0.027538125961683004
+ problem: 0.06603355750132817
+ rich: 0.027538125961683004
+ set: 0.09103071763208838
+ target: 0.027538125961683004
+ techniqu: 0.05094553302911355
+ uniqu: 0.027538125961683004
+
+N-grams list: 10
+ entiti extrac applic
+ adhoc homogen set
+ target entiti present
+ knowledg base
+ uniqu set
+ rich set
+ disambigu problem
+ entiti disambigu
+ target entiti
+ adhoc entiti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

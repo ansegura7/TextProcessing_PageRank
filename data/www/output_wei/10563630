@@ -1,0 +1,94 @@
+File name: 10563630
+
+Graph edges count: 30
+ blog - servic: 1
+ compar - method: 1
+ earthquak - occurr: 1
+ earthquak - report: 1
+ event - detec: 1
+ event - locat: 1
+ high - probabl: 1
+ import - characterist: 1
+ intens - scale: 1
+ japan - meteorolog: 1
+ larg - number: 1
+ locat - estim: 1
+ meteorolog - agenc: 1
+ numer - earthquak: 1
+ particl - filter: 1
+ popular - blog: 1
+ probabilist - spatiotempor: 1
+ realtim - event: 1
+ realtim - interac: 1
+ realtim - natur: 1
+ regist - user: 1
+ report - system: 1
+ seismic - intens: 1
+ sensor - twitter: 1
+ social - sensor: 1
+ spatiotempor - model: 1
+ target - event: 3
+ twitter - post: 1
+ twitter - user: 3
+ ubiquitouspervas - comput: 1
+
+PageRank scores count: 43
+ agenc: 0.0355691364287239
+ blog: 0.025579359530860723
+ characterist: 0.025579359530860723
+ compar: 0.013826680827492286
+ comput: 0.025579359530860723
+ detec: 0.026362871444418623
+ earthquak: 0.025579359530860723
+ estim: 0.03623512155524811
+ event: 0.02949691909865021
+ filter: 0.025579359530860723
+ high: 0.013826680827492286
+ import: 0.013826680827492286
+ intens: 0.025579359530860723
+ interac: 0.017744240395281764
+ japan: 0.013826680827492286
+ larg: 0.013826680827492286
+ locat: 0.026362871444418623
+ meteorolog: 0.025579359530860723
+ method: 0.025579359530860723
+ model: 0.0355691364287239
+ natur: 0.017744240395281764
+ number: 0.025579359530860723
+ numer: 0.013826680827492286
+ occurr: 0.024697908628108094
+ particl: 0.013826680827492286
+ popular: 0.013826680827492286
+ post: 0.021385122318596114
+ probabilist: 0.013826680827492286
+ probabl: 0.025579359530860723
+ realtim: 0.013826680827492286
+ regist: 0.013826680827492286
+ report: 0.024697908628108094
+ scale: 0.0355691364287239
+ seismic: 0.013826680827492286
+ sensor: 0.025579359530860723
+ servic: 0.0355691364287239
+ social: 0.013826680827492286
+ spatiotempor: 0.025579359530860723
+ system: 0.03481990316138417
+ target: 0.013826680827492286
+ twitter: 0.0355691364287239
+ ubiquitouspervas: 0.013826680827492286
+ user: 0.04825468400417221
+
+N-grams list: 10
+ earthquak report system
+ twitter user
+ seismic intens scale
+ social sensor twitter
+ japan meteorolog agenc
+ probabilist spatiotempor model
+ popular blog servic
+ realtim event detec
+ locat estim
+ regist user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,54 @@
+File name: 589031
+
+Graph edges count: 14
+ data - upgrad: 1
+ declar - descrip: 1
+ driven - data: 1
+ gener - processor: 1
+ legaci - data: 2
+ map - descrip: 1
+ map - languag: 1
+ odemapst - processor: 1
+ ontologi - elem: 1
+ processor - capabl: 1
+ queri - driven: 1
+ r2o - map: 1
+ relat - legaci: 2
+ semant - web: 2
+
+PageRank scores count: 19
+ capabl: 0.09068204179079833
+ data: 0.1140749812512471
+ declar: 0.02752110524758675
+ descrip: 0.07255251370895058
+ driven: 0.05091404470803549
+ elem: 0.05091404470803549
+ gener: 0.02752110524758675
+ languag: 0.049159574248501835
+ legaci: 0.05091404470803549
+ map: 0.05091404470803549
+ odemapst: 0.02752110524758675
+ ontologi: 0.02752110524758675
+ processor: 0.07430698416848422
+ queri: 0.02752110524758675
+ r2o: 0.02752110524758675
+ relat: 0.02752110524758675
+ semant: 0.02752110524758675
+ upgrad: 0.12448483931114677
+ web: 0.05091404470803549
+
+N-grams list: 10
+ relat legaci data
+ queri driven data
+ gener processor capabl
+ r2o map languag
+ upgrad
+ map descrip
+ odemapst processor
+ declar descrip
+ ontologi elem
+ semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

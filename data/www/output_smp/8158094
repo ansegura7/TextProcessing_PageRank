@@ -1,0 +1,81 @@
+File name: 8158094
+
+Graph edges count: 24
+ 2d - plot: 3
+ automat - categor: 1
+ autom - algorithm: 1
+ base - method: 1
+ current - digit: 1
+ data - valu: 2
+ digit - docum: 1
+ digit - librari: 3
+ docum - retriev: 2
+ effect - docum: 1
+ experiment - evalu: 1
+ imag - featur: 1
+ import - inform: 1
+ index - inform: 1
+ librari - figur: 1
+ librari - user: 1
+ line - curv: 1
+ machinelearn - base: 1
+ predefin - type: 1
+ result - suitabl: 1
+ retriev - servic: 1
+ semant - type: 1
+ solid - line: 1
+ textual - inform: 1
+
+PageRank scores count: 36
+ 2d: 0.01643890140671275
+ algorithm: 0.030411967602418585
+ autom: 0.01643890140671275
+ automat: 0.01643890140671275
+ base: 0.030411967602418585
+ categor: 0.030411967602418585
+ current: 0.01643890140671275
+ curv: 0.042289073868768554
+ data: 0.01643890140671275
+ digit: 0.030411967602418585
+ docum: 0.043337053833446486
+ effect: 0.01643890140671275
+ evalu: 0.030411967602418585
+ experiment: 0.01643890140671275
+ featur: 0.030411967602418585
+ figur: 0.028918596152752524
+ imag: 0.01643890140671275
+ import: 0.01643890140671275
+ index: 0.01643890140671275
+ inform: 0.058358099993830265
+ librari: 0.029363987637740646
+ line: 0.030411967602418585
+ machinelearn: 0.01643890140671275
+ method: 0.042289073868768554
+ plot: 0.030411967602418585
+ predefin: 0.01643890140671275
+ result: 0.01643890140671275
+ retriev: 0.053275397165142256
+ semant: 0.01643890140671275
+ servic: 0.061722988997083665
+ solid: 0.01643890140671275
+ suitabl: 0.030411967602418585
+ textual: 0.01643890140671275
+ type: 0.04438503379812443
+ user: 0.028918596152752524
+ valu: 0.030411967602418585
+
+N-grams list: 10
+ effect docum retriev
+ docum retriev
+ machinelearn base method
+ solid line curv
+ digit librari user
+ digit librari figur
+ current digit librari
+ textual inform
+ import inform
+ index inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

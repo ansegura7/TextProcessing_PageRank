@@ -1,0 +1,76 @@
+File name: 9524701
+
+Graph edges count: 24
+ classif - problem: 1
+ friendship - link: 1
+ groupbas - classif: 1
+ group - membership: 1
+ link - group: 1
+ media - site: 1
+ media - websit: 1
+ membership - inform: 1
+ mix - public: 2
+ onlin - social: 1
+ person - profil: 1
+ practic - model: 1
+ privaci - concern: 1
+ privaci - implic: 1
+ privateprofil - user: 1
+ privat - attribut: 1
+ privat - user: 3
+ relat - classif: 1
+ sensit - attribut: 1
+ signific - inform: 1
+ social - media: 2
+ social - network: 3
+ user - profil: 3
+ wellknown - social: 1
+
+PageRank scores count: 31
+ attribut: 0.036278131904869046
+ classif: 0.047491372675464945
+ concern: 0.02506489113427316
+ friendship: 0.01758939728720924
+ group: 0.04524872452134577
+ groupbas: 0.01758939728720924
+ implic: 0.02506489113427316
+ inform: 0.08018357614213727
+ link: 0.032540384981337094
+ media: 0.03373646399686731
+ membership: 0.056050813130353136
+ mix: 0.01758939728720924
+ model: 0.032540384981337094
+ network: 0.04180999735169636
+ onlin: 0.01758939728720924
+ person: 0.01758939728720924
+ practic: 0.01758939728720924
+ privaci: 0.01758939728720924
+ privat: 0.01758939728720924
+ privateprofil: 0.01758939728720924
+ problem: 0.05795706406135443
+ profil: 0.06973096687048012
+ public: 0.032540384981337094
+ relat: 0.01758939728720924
+ sensit: 0.01758939728720924
+ signific: 0.01758939728720924
+ site: 0.03192739448587784
+ social: 0.047491372675464945
+ user: 0.04375362575193298
+ websit: 0.03192739448587784
+ wellknown: 0.01758939728720924
+
+N-grams list: 10
+ group membership inform
+ privat user profil
+ relat classif problem
+ social media websit
+ onlin social network
+ wellknown social media
+ signific inform
+ friendship link group
+ social network
+ person profil
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

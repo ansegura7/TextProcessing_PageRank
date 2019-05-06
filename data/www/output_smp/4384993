@@ -1,0 +1,62 @@
+File name: 4384993
+
+Graph edges count: 18
+ contigu - sequenti: 2
+ csp - mine: 2
+ data - structur: 1
+ effici - detec: 1
+ effici - storag: 1
+ import - problem: 1
+ memori - usag: 1
+ mine - contigu: 1
+ prefix - tree: 1
+ previou - approach: 1
+ sequenti - pattern: 2
+ special - structur: 1
+ structur - updown: 1
+ suffix - tree: 1
+ updown - tree: 4
+ usag - mine: 1
+ web - log: 1
+ web - usag: 1
+
+PageRank scores count: 23
+ approach: 0.03758203878948241
+ contigu: 0.08565022819931398
+ csp: 0.020314615561882382
+ data: 0.020314615561882382
+ detec: 0.028948327175682395
+ effici: 0.020314615561882382
+ import: 0.020314615561882382
+ log: 0.028948327175682395
+ memori: 0.020314615561882382
+ mine: 0.07686542663227247
+ pattern: 0.09946432866348674
+ prefix: 0.020314615561882382
+ previou: 0.020314615561882382
+ problem: 0.03758203878948241
+ sequenti: 0.09311730953129926
+ special: 0.020314615561882382
+ storag: 0.028948327175682395
+ structur: 0.05484946201708243
+ suffix: 0.020314615561882382
+ tree: 0.1117456215520245
+ updown: 0.06693665827640244
+ usag: 0.04621575040328242
+ web: 0.020314615561882382
+
+N-grams list: 10
+ contigu sequenti pattern
+ mine contigu sequenti
+ updown tree
+ web usag mine
+ data structur updown
+ suffix tree
+ prefix tree
+ tree
+ pattern
+ csp mine
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,57 @@
+File name: 8108766
+
+Graph edges count: 14
+ cites - dataset: 1
+ dbscan - cluster: 1
+ dirichlet - alloc: 1
+ effici - framework: 1
+ entir - cites: 1
+ gener - model: 1
+ ident - uncertainti: 1
+ latent - dirichlet: 1
+ latent - semant: 1
+ probabilist - latent: 1
+ semant - analysi: 1
+ special - case: 1
+ topicbas - model: 1
+ unsupervis - method: 1
+
+PageRank scores count: 22
+ alloc: 0.0702818390179067
+ analysi: 0.0702818390179067
+ case: 0.0516303684245412
+ cites: 0.0516303684245412
+ cluster: 0.0516303684245412
+ dataset: 0.07179412041736878
+ dbscan: 0.02790830725650876
+ dirichlet: 0.04985121383693877
+ effici: 0.02790830725650876
+ entir: 0.02790830725650876
+ framework: 0.0516303684245412
+ gener: 0.02790830725650876
+ ident: 0.02790830725650876
+ latent: 0.0516303684245412
+ method: 0.0516303684245412
+ model: 0.07535242959257364
+ probabilist: 0.02790830725650876
+ semant: 0.04985121383693877
+ special: 0.02790830725650876
+ topicbas: 0.02790830725650876
+ uncertainti: 0.0516303684245412
+ unsupervis: 0.02790830725650876
+
+N-grams list: 10
+ latent dirichlet alloc
+ entir cites dataset
+ probabilist latent semant
+ gener model
+ topicbas model
+ unsupervis method
+ effici framework
+ ident uncertainti
+ special case
+ dbscan cluster
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

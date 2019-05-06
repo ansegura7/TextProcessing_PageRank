@@ -1,0 +1,119 @@
+File name: 9647936
+
+Graph edges count: 42
+ bootstrap - method: 1
+ bootstrap - system: 1
+ data - set: 1
+ discrimin - markov: 1
+ effici - solver: 1
+ empir - result: 1
+ entiti - relat: 1
+ entiti - relationship: 1
+ estim - sens: 1
+ extrac - framework: 1
+ extrac - method: 1
+ gener - model: 1
+ hard - rule: 2
+ heuristicbas - method: 1
+ high - precision: 1
+ humantag - exampl: 1
+ inform - extrac: 1
+ joint - infer: 1
+ largescal - web: 1
+ likelihood - estim: 2
+ logic - network: 1
+ low - recal: 1
+ markov - logic: 1
+ maximum - likelihood: 2
+ open - inform: 1
+ pattern - selec: 1
+ prespecifi - relat: 1
+ relationship - tradition: 1
+ relationspecif - humantag: 1
+ relat - extrac: 3
+ relat - search: 1
+ search - engin: 1
+ small - number: 1
+ statist - approach: 1
+ statist - extrac: 1
+ statist - snowbal: 1
+ statsnwobal - pattern: 1
+ strict - hard: 1
+ tradition - relat: 2
+ train - exampl: 1
+ web - data: 1
+ wellfound - theori: 1
+
+PageRank scores count: 56
+ approach: 0.01230204546604243
+ bootstrap: 0.009586009454059036
+ data: 0.02466000932056687
+ discrimin: 0.009586009454059036
+ effici: 0.009586009454059036
+ empir: 0.009586009454059036
+ engin: 0.024927630109582013
+ entiti: 0.009586009454059036
+ estim: 0.02466000932056687
+ exampl: 0.03280811735651705
+ extrac: 0.052764913401630725
+ framework: 0.032011097649752095
+ gener: 0.009586009454059036
+ hard: 0.017734117490009214
+ heuristicbas: 0.009586009454059036
+ high: 0.009586009454059036
+ humantag: 0.017734117490009214
+ infer: 0.017734117490009214
+ inform: 0.017734117490009214
+ joint: 0.009586009454059036
+ largescal: 0.009586009454059036
+ likelihood: 0.017734117490009214
+ logic: 0.02466000932056687
+ low: 0.009586009454059036
+ markov: 0.017734117490009214
+ maximum: 0.009586009454059036
+ method: 0.04423325970367737
+ model: 0.017734117490009214
+ network: 0.030547017376540874
+ number: 0.017734117490009214
+ open: 0.009586009454059036
+ pattern: 0.017734117490009214
+ precision: 0.017734117490009214
+ prespecifi: 0.009586009454059036
+ recal: 0.017734117490009214
+ relat: 0.039825675402479145
+ relationship: 0.013660063472034127
+ relationspecif: 0.009586009454059036
+ result: 0.017734117490009214
+ rule: 0.02466000932056687
+ search: 0.018048965477085854
+ selec: 0.02466000932056687
+ sens: 0.030547017376540874
+ set: 0.030547017376540874
+ small: 0.009586009454059036
+ snowbal: 0.01230204546604243
+ solver: 0.017734117490009214
+ statist: 0.009586009454059036
+ statsnwobal: 0.009586009454059036
+ strict: 0.009586009454059036
+ system: 0.013660063472034127
+ theori: 0.017734117490009214
+ tradition: 0.02119706340528804
+ train: 0.009586009454059036
+ web: 0.017734117490009214
+ wellfound: 0.009586009454059036
+
+N-grams list: 10
+ relat extrac method
+ tradition relat extrac
+ statist extrac framework
+ relat extrac
+ open inform extrac
+ entiti relat search
+ relationspecif humantag exampl
+ data set
+ bootstrap method
+ heuristicbas method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

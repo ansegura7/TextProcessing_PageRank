@@ -1,0 +1,57 @@
+File name: 11638887
+
+Graph edges count: 14
+ baselin - system: 1
+ disambigu - topic: 1
+ expect - maxim: 1
+ great - import: 1
+ model - paramet: 2
+ queri - log: 1
+ random - queri: 1
+ result - divers: 1
+ result - diversif: 1
+ result - result: 1
+ search - result: 1
+ select - set: 1
+ textual - content: 1
+ web - search: 1
+
+PageRank scores count: 22
+ baselin: 0.027897033717863007
+ content: 0.051609512378046556
+ disambigu: 0.027897033717863007
+ divers: 0.05626929345875739
+ diversif: 0.05626929345875739
+ expect: 0.027897033717863007
+ great: 0.027897033717863007
+ import: 0.051609512378046556
+ log: 0.07176511923920258
+ maxim: 0.051609512378046556
+ model: 0.027897033717863007
+ paramet: 0.051609512378046556
+ queri: 0.051609512378046556
+ random: 0.027897033717863007
+ result: 0.10013737898009697
+ search: 0.051609512378046556
+ select: 0.027897033717863007
+ set: 0.051609512378046556
+ system: 0.051609512378046556
+ textual: 0.027897033717863007
+ topic: 0.051609512378046556
+ web: 0.027897033717863007
+
+N-grams list: 10
+ web search result
+ result divers
+ result diversif
+ queri log
+ result
+ select set
+ great import
+ baselin system
+ random queri
+ disambigu topic
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,86 @@
+File name: 13518145
+
+Graph edges count: 28
+ ad - auction: 3
+ ad - campaign: 1
+ approxim - factor: 1
+ auction - ad: 1
+ bid - optim: 3
+ bid - strategi: 1
+ broad - match: 7
+ constantfactor - approxim: 1
+ hard - result: 1
+ high - profit: 1
+ languag - model: 2
+ larg - number: 1
+ limit - number: 1
+ linear - program: 1
+ lp - formul: 1
+ match - ad: 1
+ match - featur: 1
+ natur - lp: 1
+ neg - profit: 1
+ optim - bid: 1
+ optim - problem: 1
+ optim - profit: 2
+ polynomialtim - algorithm: 1
+ polynomi - time: 1
+ queri - languag: 2
+ reason - approxim: 1
+ relat - queri: 1
+ search - support: 1
+
+PageRank scores count: 37
+ ad: 0.08248825377930498
+ algorithm: 0.02651923692442109
+ approxim: 0.038703751186992943
+ auction: 0.06692099098838213
+ bid: 0.02010436433326407
+ broad: 0.01433472266184924
+ campaign: 0.03186347877069354
+ constantfactor: 0.01433472266184924
+ factor: 0.047232911170793236
+ featur: 0.025605398354728203
+ formul: 0.03687607404760717
+ hard: 0.01433472266184924
+ high: 0.01433472266184924
+ languag: 0.03687607404760717
+ larg: 0.01433472266184924
+ limit: 0.01433472266184924
+ linear: 0.01433472266184924
+ lp: 0.02651923692442109
+ match: 0.02651923692442109
+ model: 0.04567938560231533
+ natur: 0.01433472266184924
+ neg: 0.01433472266184924
+ number: 0.038703751186992943
+ optim: 0.027151254924305084
+ polynomi: 0.01433472266184924
+ polynomialtim: 0.01433472266184924
+ problem: 0.02010436433326407
+ profit: 0.05024303452982261
+ program: 0.02651923692442109
+ queri: 0.02651923692442109
+ reason: 0.01433472266184924
+ relat: 0.01433472266184924
+ result: 0.02651923692442109
+ search: 0.01433472266184924
+ strategi: 0.018606900082667854
+ support: 0.02651923692442109
+ time: 0.02651923692442109
+
+N-grams list: 10
+ auction ad auction
+ ad auction
+ broad match ad
+ ad campaign
+ queri languag model
+ reason approxim factor
+ natur lp formul
+ optim profit
+ bid optim problem
+ broad match featur
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

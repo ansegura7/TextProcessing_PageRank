@@ -1,0 +1,54 @@
+File name: 13517135
+
+Graph edges count: 15
+ 406k - entri: 1
+ 561k - transliter: 1
+ automat - compil: 2
+ automat - post: 1
+ backend - collector: 1
+ bilingu - personnam: 1
+ englishjapanes - lexicon: 1
+ englishjapanes - personnam: 3
+ lexicon - compil: 1
+ lexicon - user: 1
+ personnam - lexicon: 2
+ personnam - transliter: 2
+ post - process: 1
+ similar - resourc: 1
+ web - automat: 1
+
+PageRank scores count: 18
+ 406k: 0.032250099521791496
+ 561k: 0.032250099521791496
+ automat: 0.059662684115314266
+ backend: 0.032250099521791496
+ bilingu: 0.032250099521791496
+ collector: 0.059662684115314266
+ compil: 0.0903904781581162
+ englishjapanes: 0.032250099521791496
+ entri: 0.059662684115314266
+ lexicon: 0.07713820679368504
+ personnam: 0.07336897641207565
+ post: 0.05760674027080005
+ process: 0.08121582875197154
+ resourc: 0.059662684115314266
+ similar: 0.032250099521791496
+ transliter: 0.09084449909044641
+ user: 0.06503383740910762
+ web: 0.032250099521791496
+
+N-grams list: 10
+ automat post process
+ englishjapanes personnam transliter
+ bilingu personnam lexicon
+ englishjapanes personnam lexicon
+ web automat compil
+ lexicon compil
+ automat compil
+ lexicon user
+ 561k transliter
+ englishjapanes lexicon
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

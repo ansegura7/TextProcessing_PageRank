@@ -1,0 +1,53 @@
+File name: 457281
+
+Graph edges count: 14
+ complex - real: 1
+ composit - event: 1
+ event - queri: 1
+ highlevel - languag: 1
+ languag - xchang: 1
+ life - situat: 1
+ program - reactiv: 1
+ reactiv - behavior: 1
+ real - life: 1
+ semant - web: 1
+ web - reactiv: 1
+ web - resourc: 1
+ web - servic: 1
+ web - system: 1
+
+PageRank scores count: 18
+ behavior: 0.08907030303610673
+ complex: 0.030643562697208086
+ composit: 0.030643562697208086
+ event: 0.056690590989834956
+ highlevel: 0.030643562697208086
+ languag: 0.056690590989834956
+ life: 0.07883056503856781
+ program: 0.030643562697208086
+ queri: 0.07883056503856781
+ reactiv: 0.06873734157517487
+ real: 0.056690590989834956
+ resourc: 0.04269031328254801
+ semant: 0.030643562697208086
+ servic: 0.04269031328254801
+ situat: 0.09764954297999072
+ system: 0.04269031328254801
+ web: 0.056690590989834956
+ xchang: 0.07883056503856781
+
+N-grams list: 10
+ program reactiv behavior
+ complex real life
+ highlevel languag xchang
+ composit event queri
+ semant web system
+ web reactiv
+ web resourc
+ web servic
+ situat
+ reactiv
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

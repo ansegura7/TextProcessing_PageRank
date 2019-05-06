@@ -1,0 +1,33 @@
+File name: 8957171
+
+Graph edges count: 6
+ interact - collabor: 1
+ languag - observatori: 2
+ major - technic: 1
+ observatori - project: 2
+ satisfactori - result: 1
+ technic - difficulti: 1
+
+PageRank scores count: 10
+ collabor: 0.11181625868842551
+ difficulti: 0.15548504079782413
+ interact: 0.06044122091266244
+ languag: 0.06044122091266244
+ major: 0.06044122091266244
+ observatori: 0.11181625868842551
+ project: 0.15548504079782413
+ result: 0.11181625868842551
+ satisfactori: 0.06044122091266244
+ technic: 0.11181625868842551
+
+N-grams list: 6
+ languag observatori project
+ major technic difficulti
+ interact collabor
+ satisfactori result
+ difficulti
+ project
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

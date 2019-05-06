@@ -1,0 +1,35 @@
+File name: 8955883
+
+Graph edges count: 6
+ base - support: 1
+ effect - persist: 1
+ group - creativ: 1
+ music - contribu: 1
+ mutual - engag: 1
+ web - base: 1
+
+PageRank scores count: 11
+ base: 0.10997176400653885
+ contribu: 0.10997176400653885
+ creativ: 0.10997176400653885
+ effect: 0.05944419676029128
+ engag: 0.10997176400653885
+ group: 0.05944419676029128
+ music: 0.05944419676029128
+ mutual: 0.05944419676029128
+ persist: 0.10997176400653885
+ support: 0.15292019616584931
+ web: 0.05944419676029128
+
+N-grams list: 7
+ web base support
+ effect persist
+ music contribu
+ mutual engag
+ group creativ
+ persist
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

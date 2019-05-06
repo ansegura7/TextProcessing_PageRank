@@ -1,0 +1,49 @@
+File name: 4356137
+
+Graph edges count: 12
+ graph - pattern: 2
+ graph - structur: 1
+ intermedi - result: 1
+ kei - factor: 1
+ patternbas - summar: 1
+ queri - languag: 1
+ rdf - graph: 2
+ rdf - queri: 1
+ real - world: 1
+ structur - search: 1
+ summar - framework: 1
+ synthet - dataset: 1
+
+PageRank scores count: 18
+ dataset: 0.0653195410370507
+ factor: 0.0653195410370507
+ framework: 0.09082946990152052
+ graph: 0.055315647364709605
+ intermedi: 0.03530786002002741
+ kei: 0.03530786002002741
+ languag: 0.07382285065854065
+ pattern: 0.06665339352669619
+ patternbas: 0.03530786002002741
+ queri: 0.04531175369236851
+ rdf: 0.03530786002002741
+ real: 0.03530786002002741
+ result: 0.0653195410370507
+ search: 0.07864139277738494
+ structur: 0.05098062677336179
+ summar: 0.0653195410370507
+ synthet: 0.03530786002002741
+ world: 0.0653195410370507
+
+N-grams list: 8
+ patternbas summar framework
+ graph structur search
+ rdf graph pattern
+ rdf queri languag
+ synthet dataset
+ real world
+ intermedi result
+ kei factor
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

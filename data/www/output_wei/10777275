@@ -1,0 +1,50 @@
+File name: 10777275
+
+Graph edges count: 13
+ fragmentsawar - server: 1
+ fragment - specif: 1
+ fragment - uri: 3
+ fragment - work: 1
+ media - fragment: 6
+ media - fragmentsawar: 1
+ ongo - discus: 1
+ resourc - identifi: 1
+ uniform - resourc: 1
+ uri - specif: 2
+ user - agent: 1
+ w3c - media: 1
+ work - group: 1
+
+PageRank scores count: 16
+ agent: 0.06459793484642316
+ discus: 0.06459793484642316
+ fragment: 0.08198201229351079
+ fragmentsawar: 0.0427618375653253
+ group: 0.07644433562283548
+ identifi: 0.08982604723914789
+ media: 0.06459793484642316
+ ongo: 0.0349178026196882
+ resourc: 0.06459793484642316
+ server: 0.0712653645502147
+ specif: 0.11407407926555693
+ uniform: 0.0349178026196882
+ uri: 0.0767286288893787
+ user: 0.0349178026196882
+ w3c: 0.0349178026196882
+ work: 0.048854744709585035
+
+N-grams list: 10
+ media fragment specif
+ media fragment uri
+ uniform resourc identifi
+ w3c media fragment
+ media fragmentsawar server
+ media fragment
+ work group
+ specif
+ ongo discus
+ user agent
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

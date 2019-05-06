@@ -1,0 +1,66 @@
+File name: 13061552
+
+Graph edges count: 17
+ activ - probabl: 1
+ coauthorship - graph: 1
+ dblp - coauthorship: 1
+ effici - solution: 1
+ greedi - method: 1
+ influenc - propag: 1
+ influenti - gatewai: 1
+ influenti - mediat: 1
+ kei - player: 1
+ kmediat - problem: 2
+ mediat - node: 1
+ probabilist - influenc: 1
+ seed - node: 1
+ social - network: 2
+ specif - individu: 1
+ structur - connect: 1
+ threestep - greedi: 1
+
+PageRank scores count: 28
+ activ: 0.022660963657479532
+ coauthorship: 0.04192278276633713
+ connect: 0.04192278276633713
+ dblp: 0.022660963657479532
+ effici: 0.022660963657479532
+ gatewai: 0.03229187321190834
+ graph: 0.058295329008866095
+ greedi: 0.04192278276633713
+ individu: 0.04192278276633713
+ influenc: 0.04192278276633713
+ influenti: 0.022660963657479532
+ kei: 0.022660963657479532
+ kmediat: 0.022660963657479532
+ mediat: 0.03229187321190834
+ method: 0.058295329008866095
+ network: 0.04192278276633713
+ node: 0.06937087499645922
+ player: 0.04192278276633713
+ probabilist: 0.022660963657479532
+ probabl: 0.04192278276633713
+ problem: 0.04192278276633713
+ propag: 0.058295329008866095
+ seed: 0.022660963657479532
+ social: 0.022660963657479532
+ solution: 0.04192278276633713
+ specif: 0.022660963657479532
+ structur: 0.022660963657479532
+ threestep: 0.022660963657479532
+
+N-grams list: 10
+ dblp coauthorship graph
+ threestep greedi method
+ mediat node
+ influenc propag
+ seed node
+ node
+ specif individu
+ social network
+ kei player
+ structur connect
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

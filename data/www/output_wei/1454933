@@ -1,0 +1,37 @@
+File name: 1454933
+
+Graph edges count: 6
+ common - view: 1
+ formal - mean: 2
+ morestandard - thesi: 1
+ semant - web: 4
+ unusu - aspect: 1
+ web - languag: 1
+
+PageRank scores count: 11
+ aspect: 0.10997176400653884
+ common: 0.05944419676029127
+ formal: 0.05944419676029127
+ languag: 0.1529201961658493
+ mean: 0.10997176400653884
+ morestandard: 0.05944419676029127
+ semant: 0.05944419676029127
+ thesi: 0.10997176400653884
+ unusu: 0.05944419676029127
+ view: 0.10997176400653884
+ web: 0.10997176400653884
+
+N-grams list: 9
+ semant web languag
+ unusu aspect
+ common view
+ formal mean
+ semant web
+ morestandard thesi
+ languag
+ thesi
+ semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

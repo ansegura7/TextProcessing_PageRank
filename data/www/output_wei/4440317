@@ -1,0 +1,85 @@
+File name: 4440317
+
+Graph edges count: 27
+ approxim - concept: 1
+ approxim - map: 3
+ approxim - ontologi: 1
+ arbitrari - concept: 1
+ concept - hierarchi: 1
+ concept - map: 1
+ crisp - defini: 1
+ current - web: 1
+ desir - match: 1
+ desir - properti: 1
+ experiment - valid: 1
+ genr - hierarchi: 1
+ gold - standard: 1
+ googl - distanc: 1
+ handcraft - gold: 1
+ heurist - weight: 1
+ huge - amount: 1
+ illdefin - concept: 2
+ music - genr: 1
+ ontologi - match: 1
+ potenti - problem: 1
+ reallif - genr: 1
+ semant - web: 1
+ similar - measur: 1
+ trivial - behavior: 1
+ undesir - match: 1
+ urgent - problem: 1
+
+PageRank scores count: 37
+ amount: 0.0306030454165736
+ approxim: 0.016542186711661407
+ arbitrari: 0.016542186711661407
+ behavior: 0.0306030454165736
+ concept: 0.04747607586246823
+ crisp: 0.016542186711661407
+ current: 0.016542186711661407
+ defini: 0.0306030454165736
+ desir: 0.016542186711661407
+ distanc: 0.0306030454165736
+ experiment: 0.016542186711661407
+ genr: 0.0446639041214858
+ gold: 0.0306030454165736
+ googl: 0.016542186711661407
+ handcraft: 0.016542186711661407
+ heurist: 0.016542186711661407
+ hierarchi: 0.07468383745647333
+ huge: 0.016542186711661407
+ illdefin: 0.016542186711661407
+ map: 0.04515603417615772
+ match: 0.05408467945377698
+ measur: 0.0306030454165736
+ music: 0.016542186711661407
+ ontologi: 0.019354358452643845
+ potenti: 0.016542186711661407
+ problem: 0.0446639041214858
+ properti: 0.023572616064117504
+ reallif: 0.016542186711661407
+ semant: 0.016542186711661407
+ similar: 0.016542186711661407
+ standard: 0.042554775315748965
+ trivial: 0.016542186711661407
+ undesir: 0.016542186711661407
+ urgent: 0.016542186711661407
+ valid: 0.0306030454165736
+ web: 0.0446639041214858
+ weight: 0.0306030454165736
+
+N-grams list: 10
+ reallif genr hierarchi
+ concept hierarchi
+ approxim concept map
+ approxim ontologi match
+ handcraft gold standard
+ undesir match
+ desir match
+ illdefin concept
+ arbitrari concept
+ approxim map
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

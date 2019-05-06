@@ -1,0 +1,71 @@
+File name: 677475
+
+Graph edges count: 21
+ averag - fmeasur: 1
+ costeffect - approach: 1
+ descrip - formul: 1
+ docum - approach: 1
+ docum - similar: 1
+ experiment - result: 1
+ graph - structur: 1
+ intend - mean: 1
+ linguist - match: 3
+ linguist - techniqu: 1
+ local - descrip: 1
+ match - approach: 1
+ neighbor - oper: 1
+ ontologi - match: 3
+ rdf - graph: 1
+ similaritybas - approach: 1
+ space - techniqu: 1
+ tradition - vector: 1
+ vector - space: 1
+ virtual - docum: 5
+ weight - word: 1
+
+PageRank scores count: 29
+ approach: 0.11059467625046893
+ averag: 0.019746845441440723
+ costeffect: 0.019746845441440723
+ descrip: 0.03653166406666534
+ docum: 0.03653166406666534
+ experiment: 0.019746845441440723
+ fmeasur: 0.03653166406666534
+ formul: 0.05079875989810626
+ graph: 0.03653166406666534
+ intend: 0.019746845441440723
+ linguist: 0.019746845441440723
+ local: 0.019746845441440723
+ match: 0.049120278035583796
+ mean: 0.03653166406666534
+ neighbor: 0.019746845441440723
+ ontologi: 0.019746845441440723
+ oper: 0.03653166406666534
+ rdf: 0.019746845441440723
+ result: 0.03653166406666534
+ similar: 0.03527280266977349
+ similaritybas: 0.019746845441440723
+ space: 0.05079875989810626
+ structur: 0.05079875989810626
+ techniqu: 0.0671219960111372
+ tradition: 0.019746845441440723
+ vector: 0.03653166406666534
+ virtual: 0.019746845441440723
+ weight: 0.019746845441440723
+ word: 0.03653166406666534
+
+N-grams list: 10
+ linguist match approach
+ virtual docum approach
+ similaritybas approach
+ costeffect approach
+ approach
+ tradition vector space
+ rdf graph structur
+ descrip formul
+ linguist techniqu
+ docum similar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

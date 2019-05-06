@@ -1,0 +1,81 @@
+File name: 14255423
+
+Graph edges count: 23
+ activ - benign: 1
+ autom - program: 1
+ benign - campaign: 1
+ concret - threat: 1
+ crowdsourc - system: 4
+ endtoend - effect: 1
+ internet - servic: 2
+ malici - activ: 1
+ malici - crowdsourc: 1
+ onlin - commun: 1
+ oper - structur: 1
+ popular - internet: 1
+ profit - popular: 1
+ real - challeng: 1
+ real - user: 1
+ recent - year: 1
+ remark - thing: 1
+ secur - mechan: 1
+ secur - techniqu: 1
+ signific - effort: 1
+ surpris - evid: 1
+ total - revenu: 1
+ user - base: 1
+
+PageRank scores count: 37
+ activ: 0.024496137023654874
+ autom: 0.017190271595547278
+ base: 0.03801198806565392
+ benign: 0.03801198806565392
+ campaign: 0.04950046145135311
+ challeng: 0.024496137023654874
+ commun: 0.031802002451762464
+ concret: 0.017190271595547278
+ crowdsourc: 0.024496137023654874
+ effect: 0.031802002451762464
+ effort: 0.031802002451762464
+ endtoend: 0.017190271595547278
+ evid: 0.031802002451762464
+ internet: 0.044221973679545376
+ malici: 0.017190271595547278
+ mechan: 0.024496137023654874
+ onlin: 0.017190271595547278
+ oper: 0.017190271595547278
+ popular: 0.031802002451762464
+ profit: 0.017190271595547278
+ program: 0.031802002451762464
+ real: 0.017190271595547278
+ recent: 0.017190271595547278
+ remark: 0.017190271595547278
+ revenu: 0.031802002451762464
+ secur: 0.017190271595547278
+ servic: 0.054778949223160844
+ signific: 0.017190271595547278
+ structur: 0.031802002451762464
+ surpris: 0.017190271595547278
+ system: 0.03801198806565392
+ techniqu: 0.024496137023654874
+ thing: 0.031802002451762464
+ threat: 0.031802002451762464
+ total: 0.017190271595547278
+ user: 0.024496137023654874
+ year: 0.031802002451762464
+
+N-grams list: 10
+ activ benign campaign
+ internet servic
+ profit popular internet
+ malici crowdsourc system
+ crowdsourc system
+ user base
+ servic
+ campaign
+ signific effort
+ autom program
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

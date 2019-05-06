@@ -1,0 +1,43 @@
+File name: 3598588
+
+Graph edges count: 9
+ engin - develop: 1
+ evalu - purpos: 1
+ internetbas - experi: 1
+ internet - search: 1
+ popular - benchmark: 1
+ popular - wt10g: 1
+ recent - internetbas: 1
+ search - engin: 1
+ wt10g - dataset: 3
+
+PageRank scores count: 13
+ benchmark: 0.062110786028342115
+ dataset: 0.09638068463520807
+ develop: 0.13889388317723908
+ engin: 0.1121263137248492
+ evalu: 0.04358651651111728
+ experi: 0.1121263137248492
+ internet: 0.04358651651111728
+ internetbas: 0.08063505554556696
+ popular: 0.04358651651111728
+ purpos: 0.08063505554556696
+ recent: 0.04358651651111728
+ search: 0.08063505554556696
+ wt10g: 0.062110786028342115
+
+N-grams list: 10
+ internet search engin
+ recent internetbas experi
+ popular wt10g dataset
+ wt10g dataset
+ develop
+ evalu purpos
+ popular benchmark
+ dataset
+ purpos
+ internet
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

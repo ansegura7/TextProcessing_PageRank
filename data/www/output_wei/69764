@@ -1,0 +1,85 @@
+File name: 69764
+
+Graph edges count: 27
+ activ - commun: 1
+ automat - analysi: 1
+ bursti - evolu: 1
+ commun - evolu: 1
+ commun - link: 1
+ commun - structur: 3
+ commun - track: 1
+ compon - structur: 1
+ connect - compon: 1
+ dens - period: 1
+ direct - graph: 1
+ giant - compon: 1
+ hyperlink - corpora: 1
+ intern - time: 1
+ link - creation: 2
+ link - destin: 1
+ ongo - activ: 1
+ past - year: 1
+ point - phenomenon: 1
+ recent - work: 1
+ scopic - commun: 1
+ similar - evolu: 1
+ timedens - commun: 1
+ time - graph: 3
+ time - stamp: 1
+ tradition - notion: 1
+ transition - behavior: 1
+
+PageRank scores count: 37
+ activ: 0.02989362464760321
+ analysi: 0.02989362464760321
+ automat: 0.016158716025731466
+ behavior: 0.02989362464760321
+ bursti: 0.016158716025731466
+ commun: 0.06903811421993769
+ compon: 0.04362853326947496
+ connect: 0.016158716025731466
+ corpora: 0.02989362464760321
+ creation: 0.030857548165190964
+ dens: 0.016158716025731466
+ destin: 0.023508132095461213
+ direct: 0.016158716025731466
+ evolu: 0.05340893278396614
+ giant: 0.016158716025731466
+ graph: 0.048950810360450264
+ hyperlink: 0.016158716025731466
+ intern: 0.016158716025731466
+ link: 0.025939115540222643
+ notion: 0.02989362464760321
+ ongo: 0.016158716025731466
+ past: 0.016158716025731466
+ period: 0.02989362464760321
+ phenomenon: 0.02989362464760321
+ point: 0.016158716025731466
+ recent: 0.016158716025731466
+ scopic: 0.016158716025731466
+ similar: 0.016158716025731466
+ stamp: 0.02251111126334715
+ structur: 0.0825841678482587
+ time: 0.02989362464760321
+ timedens: 0.016158716025731466
+ track: 0.025939115540222643
+ tradition: 0.016158716025731466
+ transition: 0.016158716025731466
+ work: 0.02989362464760321
+ year: 0.02989362464760321
+
+N-grams list: 10
+ scopic commun structur
+ commun structur
+ connect compon structur
+ commun link creation
+ commun evolu
+ timedens commun track
+ activ commun
+ time graph
+ bursti evolu
+ similar evolu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

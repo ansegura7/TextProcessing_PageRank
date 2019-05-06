@@ -1,0 +1,103 @@
+File name: 3744106
+
+Graph edges count: 39
+ actual - anonym: 1
+ anonym - user: 1
+ clientsid - queri: 1
+ comprehens - solution: 1
+ consecut - search: 1
+ dai - worth: 1
+ editor - evalu: 1
+ engin - queri: 2
+ engin - user: 1
+ fast - queri: 1
+ high - sparsiti: 1
+ independ - editor: 1
+ industri - strength: 1
+ intuit - method: 1
+ larg - scale: 1
+ log - data: 1
+ mine - search: 2
+ model - search: 1
+ offlin - mine: 1
+ queri - log: 4
+ queri - recommend: 2
+ queri - refin: 2
+ queri - session: 1
+ queri - test: 1
+ real - queri: 1
+ refin - process: 1
+ relat - queri: 1
+ scale - industri: 1
+ search - behavior: 2
+ search - engin: 6
+ search - session: 1
+ sequenti - search: 1
+ similar - method: 1
+ strength - search: 1
+ subject - editor: 1
+ test - set: 1
+ tradition - content: 1
+ user - search: 1
+ worth - queri: 1
+
+PageRank scores count: 43
+ actual: 0.009850027451478578
+ anonym: 0.018222550785235367
+ behavior: 0.04211905607193869
+ clientsid: 0.009850027451478578
+ comprehens: 0.009850027451478578
+ consecut: 0.009850027451478578
+ content: 0.018222550785235367
+ dai: 0.009850027451478578
+ data: 0.029310020620355464
+ editor: 0.026595074118992156
+ engin: 0.04211905607193869
+ evalu: 0.032455840452621905
+ fast: 0.009850027451478578
+ high: 0.009850027451478578
+ independ: 0.009850027451478578
+ industri: 0.025339195618928636
+ intuit: 0.009850027451478578
+ larg: 0.009850027451478578
+ log: 0.022894109475969086
+ method: 0.026595074118992156
+ mine: 0.018222550785235367
+ model: 0.009850027451478578
+ offlin: 0.009850027451478578
+ process: 0.029310020620355464
+ queri: 0.07672988854655081
+ real: 0.009850027451478578
+ recommend: 0.022894109475969086
+ refin: 0.022894109475969086
+ relat: 0.009850027451478578
+ scale: 0.018222550785235367
+ search: 0.11389068857631122
+ sequenti: 0.009850027451478578
+ session: 0.055163138096429205
+ set: 0.029310020620355464
+ similar: 0.009850027451478578
+ solution: 0.018222550785235367
+ sparsiti: 0.018222550785235367
+ strength: 0.031388343727567915
+ subject: 0.009850027451478578
+ test: 0.022894109475969086
+ tradition: 0.009850027451478578
+ user: 0.04323979521152366
+ worth: 0.018222550785235367
+
+N-grams list: 10
+ strength search engin
+ mine search engin
+ search session
+ sequenti search behavior
+ model search engin
+ consecut search behavior
+ search engin
+ queri session
+ queri refin process
+ queri test set
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

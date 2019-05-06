@@ -1,0 +1,95 @@
+File name: 13502390
+
+Graph edges count: 35
+ base - framework: 1
+ build - term: 1
+ collect - intellig: 2
+ commerci - search: 1
+ conceptu - web: 1
+ conven - approach: 1
+ effect - approach: 1
+ entir - queri: 1
+ extrac - difficulti: 1
+ irrelev - docum: 1
+ kei - term: 1
+ popular - commerci: 1
+ potenti - us: 1
+ queri - session: 1
+ queri - term: 2
+ realworld - search: 1
+ relat - graph: 1
+ relat - term: 2
+ relev - search: 1
+ relev - term: 1
+ search - applic: 1
+ search - engin: 1
+ search - result: 2
+ search - term: 3
+ semant - graph: 3
+ semant - term: 2
+ socialnetwork - base: 1
+ specif - queri: 1
+ sugges - function: 1
+ sugges - relat: 1
+ term - extrac: 1
+ term - sugges: 6
+ user - satisfac: 1
+ user - studi: 1
+ web - search: 1
+
+PageRank scores count: 39
+ applic: 0.027169091884944596
+ approach: 0.03409157573572693
+ base: 0.02335904263373882
+ build: 0.012626509531750714
+ collect: 0.012626509531750714
+ commerci: 0.02335904263373882
+ conceptu: 0.012626509531750714
+ conven: 0.012626509531750714
+ difficulti: 0.05524996340983198
+ docum: 0.02335904263373882
+ effect: 0.012626509531750714
+ engin: 0.027169091884944596
+ entir: 0.012626509531750714
+ extrac: 0.05014523949828113
+ framework: 0.032481695770428705
+ function: 0.03393823647079135
+ graph: 0.0324165278010003
+ intellig: 0.02335904263373882
+ irrelev: 0.012626509531750714
+ kei: 0.012626509531750714
+ popular: 0.012626509531750714
+ potenti: 0.012626509531750714
+ queri: 0.03409157573572693
+ realworld: 0.012626509531750714
+ relat: 0.03393823647079135
+ relev: 0.012626509531750714
+ result: 0.027169091884944596
+ satisfac: 0.017992776082744768
+ search: 0.06843568166208887
+ semant: 0.012626509531750714
+ session: 0.027115429219434658
+ socialnetwork: 0.012626509531750714
+ specif: 0.012626509531750714
+ studi: 0.017992776082744768
+ sugges: 0.05014523949828113
+ term: 0.08827936259684839
+ us: 0.02335904263373882
+ user: 0.012626509531750714
+ web: 0.02335904263373882
+
+N-grams list: 10
+ term extrac difficulti
+ relev search term
+ search term
+ semant term sugges
+ relev term sugges
+ build term sugges
+ term sugges
+ specif queri term
+ queri term
+ relat term
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

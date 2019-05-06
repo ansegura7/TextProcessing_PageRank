@@ -1,0 +1,72 @@
+File name: 13532199
+
+Graph edges count: 21
+ current - ir: 1
+ dataplor - deal: 1
+ data - integr: 1
+ data - web: 1
+ effect - exploit: 1
+ experiment - result: 1
+ facet - search: 1
+ hybrid - queri: 1
+ invert - index: 1
+ ir - infrastructur: 1
+ power - rank: 1
+ rank - scheme: 1
+ relev - result: 1
+ scalabl - search: 1
+ search - engin: 1
+ semant - data: 1
+ semant - search: 1
+ structur - inform: 1
+ usabl - scalabl: 1
+ web - data: 1
+ wide - rang: 1
+
+PageRank scores count: 30
+ current: 0.018449531779009664
+ data: 0.06571066594992922
+ dataplor: 0.018449531779009664
+ deal: 0.034131633791167876
+ effect: 0.018449531779009664
+ engin: 0.07878641927078839
+ experiment: 0.018449531779009664
+ exploit: 0.034131633791167876
+ facet: 0.018449531779009664
+ hybrid: 0.018449531779009664
+ index: 0.034131633791167876
+ inform: 0.034131633791167876
+ infrastructur: 0.047461420501502365
+ integr: 0.04637657360278758
+ invert: 0.018449531779009664
+ ir: 0.034131633791167876
+ power: 0.018449531779009664
+ queri: 0.034131633791167876
+ rang: 0.034131633791167876
+ rank: 0.034131633791167876
+ relev: 0.018449531779009664
+ result: 0.04981373580332609
+ scalabl: 0.034131633791167876
+ scheme: 0.047461420501502365
+ search: 0.07098457351973968
+ semant: 0.018449531779009664
+ structur: 0.018449531779009664
+ usabl: 0.018449531779009664
+ web: 0.04637657360278758
+ wide: 0.018449531779009664
+
+N-grams list: 10
+ scalabl search engin
+ web data integr
+ data web
+ power rank scheme
+ current ir infrastructur
+ semant search
+ facet search
+ semant data
+ relev result
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

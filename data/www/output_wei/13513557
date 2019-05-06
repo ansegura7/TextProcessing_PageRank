@@ -1,0 +1,83 @@
+File name: 13513557
+
+Graph edges count: 28
+ analogi - detec: 1
+ averag - precision: 1
+ classif - task: 1
+ extrac - inform: 1
+ googl - youtub: 1
+ implicit - semant: 1
+ inform - retriev: 1
+ keywordbas - search: 2
+ latent - relat: 1
+ learn - approach: 1
+ lexic - pattern: 2
+ metric - learn: 1
+ precision - score: 1
+ relat - analysi: 1
+ relat - classif: 1
+ relat - extrac: 1
+ relat - similar: 1
+ relat - task: 1
+ sat - score: 1
+ search - engin: 2
+ semant - relat: 7
+ signific - averag: 1
+ similar - measur: 1
+ similar - relat: 1
+ soft - powerset: 1
+ web - relat: 1
+ web - search: 1
+ wordanalogi - question: 2
+
+PageRank scores count: 34
+ analogi: 0.015714172413786427
+ analysi: 0.02801662093937425
+ approach: 0.04042470853446559
+ averag: 0.029071218965504894
+ classif: 0.02801662093937425
+ detec: 0.029071218965504894
+ engin: 0.04610145331894593
+ extrac: 0.02801662093937425
+ googl: 0.015714172413786427
+ implicit: 0.015714172413786427
+ inform: 0.0395283012701481
+ keywordbas: 0.015714172413786427
+ latent: 0.015714172413786427
+ learn: 0.029071218965504894
+ lexic: 0.015714172413786427
+ measur: 0.027621236841967264
+ metric: 0.015714172413786427
+ pattern: 0.029071218965504894
+ powerset: 0.029071218965504894
+ precision: 0.04042470853446559
+ question: 0.029071218965504894
+ relat: 0.07236734279022411
+ retriev: 0.04931323100590952
+ sat: 0.015714172413786427
+ score: 0.06343222121980065
+ search: 0.035749742241364124
+ semant: 0.029071218965504894
+ signific: 0.015714172413786427
+ similar: 0.02801662093937425
+ soft: 0.015714172413786427
+ task: 0.051830749795735924
+ web: 0.015714172413786427
+ wordanalogi: 0.015714172413786427
+ youtub: 0.029071218965504894
+
+N-grams list: 10
+ relat classif task
+ web relat task
+ relat extrac inform
+ relat similar measur
+ implicit semant relat
+ latent relat analysi
+ semant relat
+ similar relat
+ web search engin
+ keywordbas search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

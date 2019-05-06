@@ -1,0 +1,70 @@
+File name: 13540651
+
+Graph edges count: 19
+ airlin - websit: 1
+ connec - graph: 1
+ controversi - practic: 1
+ flight - connec: 2
+ flight - metasearch: 2
+ futur - search: 1
+ geograph - inform: 1
+ histor - data: 1
+ inform - sourc: 1
+ interac - sequenc: 1
+ interest - search: 1
+ metamorph - framework: 1
+ metasearch - engin: 2
+ price - fare: 1
+ promis - rout: 1
+ search - request: 1
+ search - scenario: 1
+ search - tree: 1
+ web - form: 4
+
+PageRank scores count: 30
+ airlin: 0.02151000215100021
+ connec: 0.0306517530651753
+ controversi: 0.02151000215100021
+ data: 0.039793503979350386
+ engin: 0.047563992256399214
+ fare: 0.039793503979350386
+ flight: 0.02151000215100021
+ form: 0.039793503979350386
+ framework: 0.039793503979350386
+ futur: 0.02151000215100021
+ geograph: 0.02151000215100021
+ graph: 0.047563992256399214
+ histor: 0.02151000215100021
+ inform: 0.039793503979350386
+ interac: 0.02151000215100021
+ interest: 0.02151000215100021
+ metamorph: 0.02151000215100021
+ metasearch: 0.0306517530651753
+ practic: 0.039793503979350386
+ price: 0.02151000215100021
+ promis: 0.02151000215100021
+ request: 0.03796515379651537
+ rout: 0.039793503979350386
+ scenario: 0.03796515379651537
+ search: 0.05807700580770056
+ sequenc: 0.039793503979350386
+ sourc: 0.05533448053344804
+ tree: 0.03796515379651537
+ web: 0.02151000215100021
+ websit: 0.039793503979350386
+
+N-grams list: 10
+ interest search scenario
+ futur search request
+ flight metasearch engin
+ flight connec graph
+ search tree
+ inform sourc
+ controversi practic
+ airlin websit
+ interac sequenc
+ web form
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

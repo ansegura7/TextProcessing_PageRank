@@ -1,0 +1,73 @@
+File name: 11981850
+
+Graph edges count: 20
+ annotationrich - mymap: 1
+ citi - residentsvisitor: 1
+ collect - local: 2
+ digit - trace: 1
+ georeferenc - usergener: 1
+ googl - mymap: 2
+ ident - place: 1
+ larg - collec: 1
+ leverag - georeferenc: 1
+ local - knowledg: 2
+ locationawar - devic: 1
+ locationbas - servic: 1
+ mine - collect: 1
+ mymap - data: 1
+ paralleliz - approach: 1
+ physic - space: 1
+ quantit - find: 1
+ urban - space: 1
+ usergener - content: 1
+ york - citi: 1
+
+PageRank scores count: 32
+ annotationrich: 0.01808784361250412
+ approach: 0.03346251068313262
+ citi: 0.03346251068313262
+ collec: 0.03346251068313262
+ collect: 0.03346251068313262
+ content: 0.05763917465169594
+ data: 0.059599444703201075
+ devic: 0.03346251068313262
+ digit: 0.01808784361250412
+ find: 0.03346251068313262
+ georeferenc: 0.03346251068313262
+ googl: 0.01808784361250412
+ ident: 0.01808784361250412
+ knowledg: 0.05763917465169594
+ larg: 0.01808784361250412
+ leverag: 0.01808784361250412
+ local: 0.046530977693166845
+ locationawar: 0.01808784361250412
+ locationbas: 0.01808784361250412
+ mine: 0.01808784361250412
+ mymap: 0.048837177753761125
+ paralleliz: 0.01808784361250412
+ physic: 0.01808784361250412
+ place: 0.03346251068313262
+ quantit: 0.01808784361250412
+ residentsvisitor: 0.046530977693166845
+ servic: 0.03346251068313262
+ space: 0.048837177753761125
+ trace: 0.03346251068313262
+ urban: 0.01808784361250412
+ usergener: 0.046530977693166845
+ york: 0.01808784361250412
+
+N-grams list: 10
+ collect local knowledg
+ annotationrich mymap data
+ leverag georeferenc usergener
+ mine collect local
+ york citi residentsvisitor
+ physic space
+ googl mymap
+ urban space
+ knowledg
+ content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

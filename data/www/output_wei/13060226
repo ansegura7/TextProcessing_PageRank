@@ -1,0 +1,72 @@
+File name: 13060226
+
+Graph edges count: 21
+ advertis - model: 1
+ advertis - revenu: 1
+ boinc - platform: 1
+ cancer - etc: 1
+ clear - social: 1
+ commerci - comput: 1
+ commod - webservic: 1
+ comput - framework: 1
+ comput - project: 2
+ current - advertis: 1
+ dengu - cancer: 1
+ hiv - dengu: 1
+ nonspeci - commod: 1
+ ongo - comput: 1
+ onlin - busi: 1
+ onlin - content: 2
+ payment - model: 2
+ preliminari - prototyp: 1
+ social - benefit: 1
+ support - ongo: 1
+ webbas - servic: 1
+
+PageRank scores count: 30
+ advertis: 0.03536726998131269
+ benefit: 0.04917962271725778
+ boinc: 0.019117443233141997
+ busi: 0.024534052149198893
+ cancer: 0.04917962271725778
+ clear: 0.019117443233141997
+ commerci: 0.019117443233141997
+ commod: 0.03536726998131269
+ comput: 0.06542944946542847
+ content: 0.02995066106525579
+ current: 0.019117443233141997
+ dengu: 0.03536726998131269
+ etc: 0.06092012254281111
+ framework: 0.03765578724834673
+ hiv: 0.019117443233141997
+ model: 0.05039835972337058
+ nonspeci: 0.019117443233141997
+ ongo: 0.03536726998131269
+ onlin: 0.019117443233141997
+ payment: 0.019117443233141997
+ platform: 0.03536726998131269
+ preliminari: 0.019117443233141997
+ project: 0.05619413126355146
+ prototyp: 0.03536726998131269
+ revenu: 0.03414853297519989
+ servic: 0.03536726998131269
+ social: 0.03536726998131269
+ support: 0.019117443233141997
+ webbas: 0.019117443233141997
+ webservic: 0.04917962271725778
+
+N-grams list: 10
+ commerci comput project
+ support ongo comput
+ current advertis model
+ nonspeci commod webservic
+ clear social benefit
+ hiv dengu cancer
+ comput framework
+ advertis revenu
+ payment model
+ comput
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

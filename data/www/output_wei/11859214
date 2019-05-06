@@ -1,0 +1,47 @@
+File name: 11859214
+
+Graph edges count: 11
+ automat - list: 1
+ gener - assump: 1
+ gener - list: 2
+ hybrid - approach: 2
+ list - discoveri: 1
+ list - extrac: 1
+ structur - represent: 1
+ unsupervis - hybrid: 1
+ visual - render: 1
+ visual - structur: 1
+ web - page: 1
+
+PageRank scores count: 15
+ approach: 0.1067962844441369
+ assump: 0.05327705799934267
+ automat: 0.041514590648838445
+ discoveri: 0.08415353479441626
+ extrac: 0.08415353479441626
+ gener: 0.041514590648838445
+ hybrid: 0.07680199270035112
+ list: 0.10032692740135957
+ page: 0.07680199270035112
+ render: 0.05915829167459478
+ represent: 0.091799138572244
+ structur: 0.05915829167459478
+ unsupervis: 0.041514590648838445
+ visual: 0.041514590648838445
+ web: 0.041514590648838445
+
+N-grams list: 10
+ gener list extrac
+ automat list discoveri
+ unsupervis hybrid approach
+ hybrid approach
+ structur represent
+ gener list
+ web page
+ approach
+ visual structur
+ visual render
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

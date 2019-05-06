@@ -1,0 +1,61 @@
+File name: 501582
+
+Graph edges count: 17
+ correl - coeffici: 1
+ correl - queri: 1
+ engin - queri: 2
+ extens - experi: 1
+ frequenc - function: 1
+ input - queri: 1
+ massiv - queri: 1
+ msn - search: 1
+ naiv - approach: 1
+ queri - stream: 1
+ realtim - implement: 1
+ relat - search: 1
+ search - engin: 3
+ semant - similar: 1
+ similar - queri: 1
+ tempor - correl: 3
+ wide - rang: 1
+
+PageRank scores count: 23
+ approach: 0.039135776287210065
+ coeffici: 0.03778717859082647
+ correl: 0.039135776287210065
+ engin: 0.06970399073857142
+ experi: 0.039135776287210065
+ extens: 0.021154473668762195
+ frequenc: 0.021154473668762195
+ function: 0.039135776287210065
+ implement: 0.039135776287210065
+ input: 0.021154473668762195
+ massiv: 0.021154473668762195
+ msn: 0.021154473668762195
+ naiv: 0.021154473668762195
+ queri: 0.16626358579963643
+ rang: 0.039135776287210065
+ realtim: 0.021154473668762195
+ relat: 0.021154473668762195
+ search: 0.05711707890565792
+ semant: 0.021154473668762195
+ similar: 0.039135776287210065
+ stream: 0.16247852159845316
+ tempor: 0.021154473668762195
+ wide: 0.021154473668762195
+
+N-grams list: 10
+ massiv queri stream
+ search engin queri
+ correl queri
+ similar queri
+ input queri
+ queri
+ msn search engin
+ relat search engin
+ correl coeffici
+ tempor correl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

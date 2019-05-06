@@ -1,0 +1,74 @@
+File name: 396226
+
+Graph edges count: 22
+ advanc - servic: 1
+ classifiersthrough - web: 1
+ classif - techniqu: 1
+ conveni - liveclassifi: 1
+ conven - text: 1
+ empir - evid: 1
+ hierarch - text: 1
+ human - user: 1
+ import - fact: 1
+ inform - extrac: 1
+ inform - servic: 3
+ manuallabel - corpora: 1
+ open - domain: 1
+ person - applic: 1
+ supportedbi - empir: 1
+ text - classif: 2
+ text - classifi: 1
+ themat - inform: 1
+ topic - hierarchi: 1
+ userdefin - topic: 1
+ web - corpora: 2
+ web - inform: 3
+
+PageRank scores count: 31
+ advanc: 0.01866107705205367
+ applic: 0.03452299254629929
+ classif: 0.04721252494169578
+ classifi: 0.032936800996874724
+ classifiersthrough: 0.01866107705205367
+ conven: 0.01866107705205367
+ conveni: 0.01866107705205367
+ corpora: 0.04626081001204105
+ domain: 0.03452299254629929
+ empir: 0.03452299254629929
+ evid: 0.04800562071640807
+ extrac: 0.02973864228534745
+ fact: 0.03452299254629929
+ hierarch: 0.01866107705205367
+ hierarchi: 0.04800562071640807
+ human: 0.01866107705205367
+ import: 0.01866107705205367
+ inform: 0.05212971874491192
+ liveclassifi: 0.03452299254629929
+ manuallabel: 0.01866107705205367
+ open: 0.01866107705205367
+ person: 0.01866107705205367
+ servic: 0.06775568824618064
+ supportedbi: 0.01866107705205367
+ techniqu: 0.058791723252495084
+ text: 0.05038490804054491
+ themat: 0.01866107705205367
+ topic: 0.03452299254629929
+ user: 0.03452299254629929
+ userdefin: 0.01866107705205367
+ web: 0.03452299254629929
+
+N-grams list: 10
+ web inform servic
+ conven text classif
+ hierarch text classifi
+ userdefin topic hierarchi
+ supportedbi empir evid
+ classifiersthrough web corpora
+ text classif
+ advanc servic
+ inform extrac
+ web corpora
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

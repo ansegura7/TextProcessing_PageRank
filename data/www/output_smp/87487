@@ -1,0 +1,68 @@
+File name: 87487
+
+Graph edges count: 19
+ action - workload: 1
+ cach - horizont: 1
+ declar - construct: 1
+ error - handl: 1
+ good - perform: 1
+ horizont - partition: 1
+ kei - featur: 1
+ manag - event: 1
+ partition - etc: 1
+ perform - tune: 1
+ program - languag: 2
+ servic - specif: 1
+ w3c - standard: 1
+ web - servic: 3
+ workload - manag: 1
+ xml - program: 2
+ xml - protocol: 1
+ xml - schema: 1
+ xqueri - xml: 1
+
+PageRank scores count: 28
+ action: 0.020332934864290372
+ cach: 0.020332934864290372
+ construct: 0.03761592949893718
+ declar: 0.020332934864290372
+ error: 0.020332934864290372
+ etc: 0.0647934385619193
+ event: 0.0647934385619193
+ featur: 0.03761592949893718
+ good: 0.020332934864290372
+ handl: 0.03761592949893718
+ horizont: 0.03761592949893718
+ kei: 0.020332934864290372
+ languag: 0.046675099186597895
+ manag: 0.05230647493838698
+ partition: 0.05230647493838698
+ perform: 0.03761592949893718
+ program: 0.03099078155565591
+ protocol: 0.03099078155565591
+ schema: 0.03099078155565591
+ servic: 0.03761592949893718
+ specif: 0.05230647493838698
+ standard: 0.03761592949893718
+ tune: 0.05230647493838698
+ w3c: 0.020332934864290372
+ web: 0.020332934864290372
+ workload: 0.03761592949893718
+ xml: 0.03761592949893718
+ xqueri: 0.020332934864290372
+
+N-grams list: 10
+ xml program languag
+ cach horizont partition
+ web servic specif
+ action workload manag
+ perform tune
+ xqueri xml protocol
+ xml schema
+ etc
+ event
+ error handl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

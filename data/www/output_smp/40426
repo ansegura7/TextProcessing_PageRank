@@ -1,0 +1,79 @@
+File name: 40426
+
+Graph edges count: 26
+ algebra - commun: 1
+ current - iter: 1
+ domin - eigenvector: 1
+ extrapol - method: 1
+ extrapol - speed: 1
+ fast - comput: 1
+ fast - method: 2
+ hyperlinkbas - estim: 1
+ linear - algebra: 1
+ link - graph: 1
+ markov - matrix: 2
+ minim - overhead: 1
+ nonprincip - eigenvector: 2
+ numer - linear: 1
+ origin - pagerank: 1
+ pagerank - algorithm: 1
+ pagerank - commun: 1
+ pagerank - comput: 2
+ power - method: 4
+ princip - eigenvector: 1
+ quadrat - extrapol: 3
+ standard - fast: 1
+ success - iter: 2
+ web - graph: 1
+ web - link: 1
+ web - page: 1
+
+PageRank scores count: 32
+ algebra: 0.04811337737362054
+ algorithm: 0.028506435768173622
+ commun: 0.06940280653575108
+ comput: 0.04321164197225881
+ current: 0.018702964965450163
+ domin: 0.018702964965450163
+ eigenvector: 0.06639552562734809
+ estim: 0.0346004851860828
+ extrapol: 0.0346004851860828
+ fast: 0.0346004851860828
+ graph: 0.04440395598880626
+ hyperlinkbas: 0.018702964965450163
+ iter: 0.05049800540671544
+ linear: 0.0346004851860828
+ link: 0.02400213837232771
+ markov: 0.018702964965450163
+ matrix: 0.0346004851860828
+ method: 0.06401089759425317
+ minim: 0.018702964965450163
+ nonprincip: 0.018702964965450163
+ numer: 0.018702964965450163
+ origin: 0.018702964965450163
+ overhead: 0.0346004851860828
+ page: 0.02400213837232771
+ pagerank: 0.0346004851860828
+ power: 0.018702964965450163
+ princip: 0.018702964965450163
+ quadrat: 0.018702964965450163
+ speed: 0.03340817116953536
+ standard: 0.018702964965450163
+ success: 0.018702964965450163
+ web: 0.018702964965450163
+
+N-grams list: 10
+ standard fast method
+ pagerank commun
+ numer linear algebra
+ fast method
+ extrapol method
+ web link graph
+ quadrat extrapol speed
+ nonprincip eigenvector
+ domin eigenvector
+ princip eigenvector
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,91 @@
+File name: 10057112
+
+Graph edges count: 32
+ class - valu: 1
+ common - web: 1
+ compon - model: 1
+ current - api: 1
+ data - access: 1
+ data - sourc: 1
+ develop - framework: 1
+ draganddrop - fashion: 1
+ extern - develop: 1
+ mashup - develop: 2
+ mashup - pattern: 1
+ network - site: 1
+ popular - spreadsheet: 1
+ present - function: 1
+ program - background: 1
+ program - expert: 1
+ proofofconcept - prototyp: 1
+ rapid - develop: 1
+ rapid - growth: 1
+ social - network: 1
+ sophist - mashup: 1
+ spreadsheetbas - mashup: 1
+ spreadsheetbas - web: 3
+ spreadsheet - cell: 1
+ spreadsheet - data: 1
+ spreadsheet - environ: 1
+ spreadsheet - present: 1
+ structur - data: 2
+ web - commun: 1
+ web - data: 1
+ web - mashup: 3
+ web - site: 1
+
+PageRank scores count: 38
+ access: 0.032536603553095456
+ api: 0.028620998012750313
+ background: 0.02204590387468605
+ cell: 0.021552771814331233
+ class: 0.01547080973662179
+ common: 0.01547080973662179
+ commun: 0.020922658626100075
+ compon: 0.01547080973662179
+ current: 0.01547080973662179
+ data: 0.04015480897993804
+ develop: 0.06254574414260436
+ draganddrop: 0.01547080973662179
+ environ: 0.021552771814331233
+ expert: 0.02204590387468605
+ extern: 0.01547080973662179
+ fashion: 0.028620998012750313
+ framework: 0.0686346922578355
+ function: 0.03379066577880334
+ growth: 0.02204590387468605
+ mashup: 0.04826409175021729
+ model: 0.028620998012750313
+ network: 0.028620998012750313
+ pattern: 0.02914563573251669
+ popular: 0.01547080973662179
+ present: 0.021552771814331233
+ program: 0.01547080973662179
+ proofofconcept: 0.01547080973662179
+ prototyp: 0.028620998012750313
+ rapid: 0.01547080973662179
+ site: 0.04525050693693784
+ social: 0.01547080973662179
+ sophist: 0.01547080973662179
+ sourc: 0.032536603553095456
+ spreadsheet: 0.028620998012750313
+ spreadsheetbas: 0.01547080973662179
+ structur: 0.01547080973662179
+ valu: 0.028620998012750313
+ web: 0.0384836392198467
+
+N-grams list: 10
+ develop framework
+ mashup develop
+ spreadsheetbas web mashup
+ common web data
+ spreadsheetbas mashup pattern
+ social network site
+ spreadsheet present function
+ web site
+ extern develop
+ rapid develop
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

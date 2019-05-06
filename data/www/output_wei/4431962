@@ -1,0 +1,84 @@
+File name: 4431962
+
+Graph edges count: 29
+ addition - function: 1
+ applic - develop: 1
+ applic - valuebas: 1
+ awar - web: 1
+ busi - model: 2
+ divers - stakehold: 1
+ ecommerc - applic: 1
+ engin - model: 1
+ eroobas - process: 1
+ framework - requir: 1
+ function - inform: 1
+ import - disciplin: 1
+ inform - multimedia: 1
+ innov - ecommerc: 1
+ integr - potenti: 1
+ model - approach: 2
+ model - framework: 2
+ process - awar: 1
+ relev - methodologi: 1
+ requir - engin: 2
+ signific - integr: 1
+ softwar - applic: 1
+ system - design: 1
+ tradition - softwar: 1
+ usabl - requir: 1
+ valuebas - requir: 1
+ vip - busi: 2
+ web - applic: 2
+ web - model: 1
+
+PageRank scores count: 34
+ addition: 0.010109473313669952
+ applic: 0.060158990444126946
+ approach: 0.059199489206775674
+ awar: 0.02600662009941595
+ busi: 0.018702525630289412
+ design: 0.018702525630289412
+ develop: 0.035677044252423906
+ disciplin: 0.018702525630289412
+ divers: 0.010109473313669952
+ ecommerc: 0.018702525630289412
+ engin: 0.09455492203881775
+ eroobas: 0.010109473313669952
+ framework: 0.059199489206775674
+ function: 0.018702525630289412
+ import: 0.010109473313669952
+ inform: 0.02600662009941595
+ innov: 0.010109473313669952
+ integr: 0.018702525630289412
+ methodologi: 0.018702525630289412
+ model: 0.11550591974848405
+ multimedia: 0.032215100398173505
+ potenti: 0.02600662009941595
+ process: 0.018702525630289412
+ relev: 0.010109473313669952
+ requir: 0.09934757700231377
+ signific: 0.010109473313669952
+ softwar: 0.018702525630289412
+ stakehold: 0.018702525630289412
+ system: 0.010109473313669952
+ tradition: 0.010109473313669952
+ usabl: 0.010109473313669952
+ valuebas: 0.035677044252423906
+ vip: 0.010109473313669952
+ web: 0.032215100398173505
+
+N-grams list: 10
+ framework requir engin
+ valuebas requir engin
+ web model approach
+ model approach
+ vip busi model
+ web applic develop
+ model
+ usabl requir
+ web applic
+ innov ecommerc applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

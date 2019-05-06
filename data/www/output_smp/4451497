@@ -1,0 +1,53 @@
+File name: 4451497
+
+Graph edges count: 12
+ applic - protocol: 1
+ behavior - prefer: 1
+ environment - factor: 2
+ mobil - web: 1
+ navig - pattern: 1
+ past - behavior: 1
+ tempor - rule: 2
+ tradition - method: 1
+ usag - log: 1
+ user - navig: 4
+ web - person: 1
+ wireless - applic: 1
+
+PageRank scores count: 20
+ applic: 0.055908129344212756
+ behavior: 0.055908129344212756
+ environment: 0.03022061045633122
+ factor: 0.055908129344212756
+ log: 0.055908129344212756
+ method: 0.055908129344212756
+ mobil: 0.03022061045633122
+ navig: 0.055908129344212756
+ past: 0.03022061045633122
+ pattern: 0.07774252039891207
+ person: 0.07774252039891207
+ prefer: 0.07774252039891207
+ protocol: 0.07774252039891207
+ rule: 0.055908129344212756
+ tempor: 0.03022061045633122
+ tradition: 0.03022061045633122
+ usag: 0.03022061045633122
+ user: 0.03022061045633122
+ web: 0.055908129344212756
+ wireless: 0.03022061045633122
+
+N-grams list: 10
+ mobil web person
+ wireless applic protocol
+ user navig pattern
+ past behavior prefer
+ usag log
+ user navig
+ tradition method
+ tempor rule
+ environment factor
+ prefer
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

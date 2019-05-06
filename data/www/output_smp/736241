@@ -1,0 +1,58 @@
+File name: 736241
+
+Graph edges count: 16
+ addition - inform: 1
+ class - taxonomi: 1
+ content - distribu: 2
+ distribu - problem: 1
+ divers - sourc: 1
+ graphbas - metadata: 1
+ inform - dissemin: 1
+ largevolum - content: 1
+ metadata - rdf: 1
+ publishsubscrib - system: 1
+ rdf - class: 1
+ rdf - site: 1
+ rss - system: 1
+ scalabl - publishsubscrib: 1
+ select - inform: 1
+ site - summari: 1
+
+PageRank scores count: 21
+ addition: 0.023869549332465677
+ class: 0.04996642598701706
+ content: 0.04415866626506151
+ dissemin: 0.0786501650504744
+ distribu: 0.061404415657767955
+ divers: 0.023869549332465677
+ graphbas: 0.023869549332465677
+ inform: 0.06444778319765733
+ largevolum: 0.023869549332465677
+ metadata: 0.04415866626506151
+ problem: 0.07606330264156844
+ publishsubscrib: 0.04415866626506151
+ rdf: 0.061404415657767955
+ rss: 0.023869549332465677
+ scalabl: 0.023869549332465677
+ select: 0.023869549332465677
+ site: 0.04996642598701706
+ sourc: 0.04415866626506151
+ summari: 0.06634101142143017
+ system: 0.08169353259036376
+ taxonomi: 0.06634101142143017
+
+N-grams list: 10
+ content distribu problem
+ rdf site summari
+ rdf class taxonomi
+ select inform dissemin
+ scalabl publishsubscrib system
+ graphbas metadata rdf
+ largevolum content distribu
+ rss system
+ addition inform
+ divers sourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

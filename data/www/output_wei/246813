@@ -1,0 +1,30 @@
+File name: 246813
+
+Graph edges count: 5
+ bayesian - network: 1
+ model - uncertainti: 1
+ owl - ontologi: 1
+ semant - web: 1
+ web - taxonomi: 1
+
+PageRank scores count: 9
+ bayesian: 0.07156915369475757
+ model: 0.07156915369475757
+ network: 0.1324029343353015
+ ontologi: 0.1324029343353015
+ owl: 0.07156915369475757
+ semant: 0.07156915369475757
+ taxonomi: 0.18411164787976386
+ uncertainti: 0.1324029343353015
+ web: 0.1324029343353015
+
+N-grams list: 5
+ semant web taxonomi
+ bayesian network
+ owl ontologi
+ model uncertainti
+ uncertainti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

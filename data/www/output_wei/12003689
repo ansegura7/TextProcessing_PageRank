@@ -1,0 +1,77 @@
+File name: 12003689
+
+Graph edges count: 22
+ address - data: 1
+ daili - basi: 1
+ facebook - social: 1
+ geograph - predic: 1
+ import - implic: 1
+ intrusion - detec: 1
+ ipbas - geoloc: 1
+ local - commun: 1
+ locationbas - servic: 1
+ locat - user: 1
+ onlin - data: 1
+ proxim - geographi: 1
+ reliabl - model: 1
+ secur - intrusion: 1
+ servic - secur: 1
+ social - media: 1
+ social - network: 1
+ social - relationship: 2
+ spars - set: 1
+ spatial - proxim: 1
+ time - onlin: 1
+ usersuppli - address: 1
+
+PageRank scores count: 34
+ address: 0.03200262594519917
+ basi: 0.03200262594519917
+ commun: 0.03200262594519917
+ daili: 0.017298716727134685
+ data: 0.07170318083397327
+ detec: 0.06415456143914941
+ facebook: 0.017298716727134685
+ geograph: 0.017298716727134685
+ geographi: 0.04450094878055397
+ geoloc: 0.03200262594519917
+ implic: 0.03200262594519917
+ import: 0.017298716727134685
+ intrusion: 0.055124523190605554
+ ipbas: 0.017298716727134685
+ local: 0.017298716727134685
+ locat: 0.017298716727134685
+ locationbas: 0.017298716727134685
+ media: 0.024099274740489507
+ model: 0.03200262594519917
+ network: 0.024099274740489507
+ onlin: 0.03200262594519917
+ predic: 0.03200262594519917
+ proxim: 0.03200262594519917
+ relationship: 0.03089983275384433
+ reliabl: 0.017298716727134685
+ secur: 0.04450094878055397
+ servic: 0.03200262594519917
+ set: 0.03200262594519917
+ social: 0.03200262594519917
+ spars: 0.017298716727134685
+ spatial: 0.017298716727134685
+ time: 0.017298716727134685
+ user: 0.03200262594519917
+ usersuppli: 0.017298716727134685
+
+N-grams list: 10
+ usersuppli address data
+ time onlin data
+ intrusion detec
+ spatial proxim geographi
+ locationbas servic secur
+ facebook social network
+ social relationship
+ social media
+ ipbas geoloc
+ locat user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

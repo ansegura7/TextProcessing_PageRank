@@ -1,0 +1,59 @@
+File name: 14026193
+
+Graph edges count: 14
+ activ - domain: 1
+ aggreg - log: 1
+ averag - user: 1
+ browser - toolbar: 1
+ datadriven - sketch: 1
+ edit - behavior: 1
+ gener - interest: 1
+ log - data: 1
+ onlin - behavior: 1
+ onlin - live: 1
+ pop - cultur: 1
+ preval - sourc: 1
+ web - user: 1
+ wikipedia - editor: 2
+
+PageRank scores count: 24
+ activ: 0.02795443427213641
+ aggreg: 0.02795443427213641
+ averag: 0.02795443427213641
+ behavior: 0.06359633796911034
+ browser: 0.02795443427213641
+ cultur: 0.05171570340345236
+ data: 0.07191278216507091
+ datadriven: 0.02795443427213641
+ domain: 0.05171570340345236
+ edit: 0.02795443427213641
+ editor: 0.05171570340345236
+ gener: 0.02795443427213641
+ interest: 0.05171570340345236
+ live: 0.039835068837794384
+ log: 0.05171570340345236
+ onlin: 0.02795443427213641
+ pop: 0.02795443427213641
+ preval: 0.02795443427213641
+ sketch: 0.05171570340345236
+ sourc: 0.05171570340345236
+ toolbar: 0.05171570340345236
+ user: 0.0754769725347683
+ web: 0.02795443427213641
+ wikipedia: 0.02795443427213641
+
+N-grams list: 10
+ aggreg log data
+ web user
+ averag user
+ onlin behavior
+ edit behavior
+ preval sourc
+ gener interest
+ browser toolbar
+ datadriven sketch
+ activ domain
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

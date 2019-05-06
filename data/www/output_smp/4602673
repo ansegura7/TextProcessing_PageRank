@@ -1,0 +1,65 @@
+File name: 4602673
+
+Graph edges count: 19
+ bias - minimax: 1
+ classif - model: 1
+ classif - problem: 1
+ classif - task: 1
+ cone - program: 1
+ effici - train: 1
+ empir - result: 1
+ imbalanc - learn: 1
+ imbalanc - text: 2
+ learn - scheme: 1
+ learn - task: 1
+ minimax - probabl: 2
+ neg - train: 1
+ order - cone: 1
+ probabl - machin: 2
+ text - classif: 3
+ theoret - deriv: 1
+ tradition - solution: 1
+ train - docum: 1
+
+PageRank scores count: 25
+ bias: 0.022868282977850637
+ classif: 0.050567490734772215
+ cone: 0.04230632350902368
+ deriv: 0.04230632350902368
+ docum: 0.07535099241201784
+ effici: 0.022868282977850637
+ empir: 0.022868282977850637
+ imbalanc: 0.022868282977850637
+ learn: 0.03258730324343716
+ machin: 0.0728726422442933
+ minimax: 0.04230632350902368
+ model: 0.037195738686036095
+ neg: 0.022868282977850637
+ order: 0.022868282977850637
+ probabl: 0.05882865796052077
+ problem: 0.037195738686036095
+ program: 0.05882865796052077
+ result: 0.04230632350902368
+ scheme: 0.03671788685631143
+ solution: 0.04230632350902368
+ task: 0.05104534256449689
+ text: 0.03258730324343716
+ theoret: 0.022868282977850637
+ tradition: 0.022868282977850637
+ train: 0.06174436404019672
+
+N-grams list: 10
+ minimax probabl machin
+ neg train docum
+ text classif task
+ bias minimax probabl
+ order cone program
+ imbalanc learn task
+ imbalanc text classif
+ classif model
+ effici train
+ machin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

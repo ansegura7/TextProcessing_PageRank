@@ -1,0 +1,59 @@
+File name: 8950514
+
+Graph edges count: 15
+ datacent - web: 1
+ execu - paradigm: 1
+ hierarch - structur: 1
+ present - layer: 1
+ rulebas - execu: 1
+ standard - transform: 1
+ transform - languag: 1
+ visual - dialect: 1
+ visual - interfac: 1
+ web - applic: 2
+ web - develop: 1
+ xmltoxml - transform: 1
+ xml - docum: 1
+ xslt - code: 1
+ xslt - expert: 1
+
+PageRank scores count: 23
+ applic: 0.04949431975616516
+ code: 0.039484621778886134
+ datacent: 0.02770850651149904
+ develop: 0.04949431975616516
+ dialect: 0.039484621778886134
+ docum: 0.05126073704627323
+ execu: 0.05126073704627323
+ expert: 0.039484621778886134
+ hierarch: 0.02770850651149904
+ interfac: 0.039484621778886134
+ languag: 0.09129952895538933
+ layer: 0.05126073704627323
+ paradigm: 0.07128013300083129
+ present: 0.02770850651149904
+ rulebas: 0.02770850651149904
+ standard: 0.02770850651149904
+ structur: 0.05126073704627323
+ transform: 0.0748129675810474
+ visual: 0.02770850651149904
+ web: 0.05126073704627323
+ xml: 0.02770850651149904
+ xmltoxml: 0.02770850651149904
+ xslt: 0.02770850651149904
+
+N-grams list: 10
+ standard transform languag
+ rulebas execu paradigm
+ datacent web applic
+ xmltoxml transform
+ web applic
+ web develop
+ hierarch structur
+ xml docum
+ present layer
+ transform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

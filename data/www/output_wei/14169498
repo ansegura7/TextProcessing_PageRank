@@ -1,0 +1,85 @@
+File name: 14169498
+
+Graph edges count: 30
+ collabor - semant: 1
+ data - set: 1
+ del - icio: 1
+ docum - recommend: 1
+ experiment - result: 1
+ graphbas - represent: 1
+ learn - algorithm: 1
+ meaning - collabor: 1
+ onlin - resourc: 2
+ page - research: 1
+ promis - recommend: 1
+ rate - data: 1
+ recommend - algorithm: 1
+ recommend - system: 2
+ relat - object: 1
+ represent - learn: 1
+ research - paper: 1
+ research - topic: 1
+ resourc - recommend: 1
+ semant - data: 1
+ semant - space: 1
+ servic - social: 1
+ social - tag: 2
+ tag - docum: 1
+ tag - servic: 2
+ tradition - recommend: 1
+ tradition - studi: 1
+ user - rate: 1
+ user - tag: 2
+ web - page: 1
+
+PageRank scores count: 34
+ algorithm: 0.06253941401537877
+ collabor: 0.023707213179396898
+ data: 0.04080390490006579
+ del: 0.012814709826701026
+ docum: 0.032113926188800095
+ experiment: 0.012814709826701026
+ graphbas: 0.012814709826701026
+ icio: 0.023707213179396898
+ learn: 0.032965841029188384
+ meaning: 0.012814709826701026
+ object: 0.023707213179396898
+ onlin: 0.012814709826701026
+ page: 0.023707213179396898
+ paper: 0.02682519226410609
+ promis: 0.012814709826701026
+ rate: 0.016445544277599648
+ recommend: 0.07660143584739601
+ relat: 0.012814709826701026
+ represent: 0.023707213179396898
+ research: 0.032965841029188384
+ resourc: 0.023707213179396898
+ result: 0.023707213179396898
+ semant: 0.032965841029188384
+ servic: 0.05141314255089916
+ set: 0.047498028991756945
+ social: 0.05651588605233278
+ space: 0.02682519226410609
+ studi: 0.018260961503048963
+ system: 0.05622218845443628
+ tag: 0.06811487681561366
+ topic: 0.02682519226410609
+ tradition: 0.012814709826701026
+ user: 0.012814709826701026
+ web: 0.012814709826701026
+
+N-grams list: 10
+ social tag servic
+ tradition recommend algorithm
+ recommend system
+ user tag docum
+ docum recommend
+ resourc recommend
+ promis recommend
+ data set
+ user tag
+ recommend
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

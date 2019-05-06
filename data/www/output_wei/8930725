@@ -1,0 +1,39 @@
+File name: 8930725
+
+Graph edges count: 7
+ color - inform: 1
+ content - page: 1
+ human - guess: 1
+ import - factor: 1
+ visual - appear: 1
+ web - content: 2
+ web - page: 3
+
+PageRank scores count: 11
+ appear: 0.11288059064006344
+ color: 0.06101653548111537
+ content: 0.08176215754469461
+ factor: 0.11288059064006344
+ guess: 0.11288059064006344
+ human: 0.06101653548111537
+ import: 0.06101653548111537
+ inform: 0.11288059064006344
+ page: 0.16163280248947462
+ visual: 0.06101653548111537
+ web: 0.06101653548111537
+
+N-grams list: 10
+ content page
+ web page
+ visual appear
+ color inform
+ human guess
+ import factor
+ page
+ web content
+ appear
+ content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

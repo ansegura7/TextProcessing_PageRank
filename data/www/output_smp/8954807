@@ -1,0 +1,57 @@
+File name: 8954807
+
+Graph edges count: 16
+ 3d - compon: 1
+ 3d - space: 1
+ crossproduct - selec: 1
+ data - set: 3
+ inform - visual: 1
+ intersec - setdiffer: 1
+ multispac - inform: 1
+ oper - applic: 1
+ selec - projec: 1
+ setdiffer - crossproduct: 1
+ singl - data: 1
+ space - compon: 2
+ union - intersec: 1
+ visual - framework: 2
+ visual - space: 1
+ web - servic: 5
+
+PageRank scores count: 20
+ 3d: 0.023701016359574695
+ applic: 0.04384688026521318
+ compon: 0.08450752920926217
+ crossproduct: 0.0755262512568297
+ data: 0.04384688026521318
+ framework: 0.04961363380820221
+ inform: 0.04384688026521318
+ intersec: 0.04384688026521318
+ multispac: 0.023701016359574695
+ oper: 0.023701016359574695
+ projec: 0.09841459679827264
+ selec: 0.08789832992787995
+ servic: 0.04384688026521318
+ set: 0.060970864585005904
+ setdiffer: 0.060970864585005904
+ singl: 0.023701016359574695
+ space: 0.05968656576102145
+ union: 0.023701016359574695
+ visual: 0.060970864585005904
+ web: 0.023701016359574695
+
+N-grams list: 10
+ crossproduct selec projec
+ 3d space compon
+ space compon
+ union intersec setdiffer
+ multispac inform visual
+ singl data set
+ visual space
+ visual framework
+ 3d compon
+ data set
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

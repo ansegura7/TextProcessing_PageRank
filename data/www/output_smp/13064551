@@ -1,0 +1,59 @@
+File name: 13064551
+
+Graph edges count: 15
+ event - clip: 1
+ event - detec: 3
+ explos - growth: 1
+ gener - event: 2
+ great - deal: 1
+ integr - framework: 1
+ kei - idea: 1
+ prefer - event: 1
+ recent - explos: 1
+ recent - year: 1
+ semant - text: 1
+ synchron - comment: 2
+ text - analysi: 1
+ video - event: 2
+ volumin - program: 1
+
+PageRank scores count: 23
+ analysi: 0.06896551724137935
+ clip: 0.06725645923393991
+ comment: 0.04959619315706581
+ deal: 0.04959619315706581
+ detec: 0.06725645923393991
+ event: 0.0951710733554506
+ explos: 0.03820247310746961
+ framework: 0.04959619315706581
+ gener: 0.02680875305787341
+ great: 0.02680875305787341
+ growth: 0.059280855199222576
+ idea: 0.04959619315706581
+ integr: 0.02680875305787341
+ kei: 0.02680875305787341
+ prefer: 0.02680875305787341
+ program: 0.04959619315706581
+ recent: 0.02680875305787341
+ semant: 0.02680875305787341
+ synchron: 0.02680875305787341
+ text: 0.04959619315706581
+ video: 0.02680875305787341
+ volumin: 0.02680875305787341
+ year: 0.03820247310746961
+
+N-grams list: 10
+ prefer event clip
+ video event detec
+ gener event detec
+ semant text analysi
+ recent explos growth
+ video event
+ integr framework
+ synchron comment
+ great deal
+ volumin program
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

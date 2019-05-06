@@ -1,0 +1,74 @@
+File name: 13530633
+
+Graph edges count: 21
+ arbitrari - distribu: 1
+ boolean - index: 1
+ docum - collec: 1
+ doublepareto - law: 1
+ fast - retriev: 2
+ gener - techniqu: 1
+ index - size: 1
+ index - web: 1
+ long - histori: 1
+ power - law: 2
+ probabl - distribu: 3
+ quantit - version: 1
+ queri - term: 1
+ search - engin: 1
+ sharp - bound: 1
+ similar - power: 1
+ space - requir: 1
+ text - docum: 1
+ theoret - predic: 1
+ web - index: 1
+ web - search: 1
+
+PageRank scores count: 32
+ arbitrari: 0.01890517326142401
+ boolean: 0.01890517326142401
+ bound: 0.03497457053363442
+ collec: 0.048633558215013264
+ distribu: 0.05104396780584483
+ docum: 0.03497457053363442
+ doublepareto: 0.01890517326142401
+ engin: 0.04986297528756565
+ fast: 0.01890517326142401
+ gener: 0.01890517326142401
+ histori: 0.03497457053363442
+ index: 0.05249033662495702
+ law: 0.06470295548722367
+ long: 0.01890517326142401
+ power: 0.03497457053363442
+ predic: 0.03497457053363442
+ probabl: 0.01890517326142401
+ quantit: 0.01890517326142401
+ queri: 0.01890517326142401
+ requir: 0.03497457053363442
+ retriev: 0.03497457053363442
+ search: 0.03642093935274662
+ sharp: 0.01890517326142401
+ similar: 0.01890517326142401
+ size: 0.04121356811518426
+ space: 0.01890517326142401
+ techniqu: 0.03497457053363442
+ term: 0.03497457053363442
+ text: 0.01890517326142401
+ theoret: 0.01890517326142401
+ version: 0.03497457053363442
+ web: 0.04121356811518426
+
+N-grams list: 10
+ web index web
+ similar power law
+ power law
+ index size
+ search engin
+ doublepareto law
+ docum collec
+ boolean index
+ arbitrari distribu
+ probabl distribu
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

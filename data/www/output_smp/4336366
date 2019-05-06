@@ -1,0 +1,71 @@
+File name: 4336366
+
+Graph edges count: 20
+ attributevalu - inform: 1
+ cameron - ãfor: 1
+ class - attribut: 1
+ class - label: 1
+ concis - attributevalu: 1
+ decor - cue: 1
+ experiment - result: 1
+ film - ã: 1
+ jame - cameron: 1
+ larg - number: 1
+ normal - search: 2
+ repres - specif: 1
+ search - engin: 2
+ simpl - unsupervis: 1
+ specif - page: 4
+ specif - retriev: 1
+ symbol - decor: 1
+ titan - ã: 2
+ unsupervis - method: 1
+ web - page: 3
+
+PageRank scores count: 30
+ attribut: 0.028709579933514646
+ attributevalu: 0.03727208622947516
+ cameron: 0.03727208622947516
+ class: 0.02014707363755414
+ concis: 0.02014707363755414
+ cue: 0.05182834693260802
+ decor: 0.03727208622947516
+ engin: 0.05182834693260802
+ experiment: 0.02014707363755414
+ film: 0.02014707363755414
+ inform: 0.05182834693260802
+ jame: 0.02014707363755414
+ label: 0.028709579933514646
+ larg: 0.02014707363755414
+ method: 0.05182834693260802
+ normal: 0.02014707363755414
+ number: 0.03727208622947516
+ page: 0.0531127228770021
+ repres: 0.02014707363755414
+ result: 0.03727208622947516
+ retriev: 0.03598771028508108
+ search: 0.03727208622947516
+ simpl: 0.02014707363755414
+ specif: 0.03727208622947516
+ symbol: 0.02014707363755414
+ titan: 0.02014707363755414
+ unsupervis: 0.03727208622947516
+ web: 0.02014707363755414
+ ã: 0.05439709882139617
+ ãfor: 0.05182834693260802
+
+N-grams list: 10
+ repres specif page
+ symbol decor cue
+ concis attributevalu inform
+ simpl unsupervis method
+ jame cameron ãfor
+ normal search engin
+ specif page
+ titan ã
+ film ã
+ specif retriev
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

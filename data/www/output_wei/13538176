@@ -1,0 +1,143 @@
+File name: 13538176
+
+Graph edges count: 56
+ access - model: 1
+ access - transac: 1
+ airlin - reserv: 1
+ analysi - statist: 1
+ assist - technologi: 1
+ automata - learn: 1
+ autom - construc: 1
+ bill - payment: 1
+ build - transac: 1
+ clickabl - object: 1
+ clickstream - data: 1
+ clickstream - screen: 1
+ concept - classifi: 1
+ consider - inform: 1
+ content - analysi: 1
+ content - contextu: 1
+ contextu - analysi: 2
+ domainspecif - transac: 1
+ domin - assist: 1
+ experiment - evid: 1
+ impair - peopl: 1
+ impair - user: 2
+ import - benefit: 1
+ inform - extrac: 1
+ inform - overload: 1
+ learn - method: 1
+ limiteds - displai: 1
+ machin - learn: 1
+ mobil - devic: 1
+ onlin - transac: 1
+ page - fragment: 1
+ page - segment: 1
+ payment - etc: 1
+ person - access: 1
+ person - model: 1
+ practic - effect: 1
+ preliminari - experiment: 1
+ process - automaton: 1
+ relat - content: 1
+ reserv - bill: 1
+ screen - reader: 2
+ separ - model: 1
+ shop - airlin: 1
+ sight - user: 1
+ statist - classif: 1
+ train - data: 2
+ transac - clickstream: 2
+ transac - model: 5
+ unlabel - clickstream: 1
+ unlabel - data: 1
+ unlabel - transac: 1
+ web - access: 2
+ web - content: 1
+ web - function: 1
+ web - page: 3
+ web - site: 1
+
+PageRank scores count: 66
+ access: 0.013272074668883329
+ airlin: 0.014994404969425442
+ analysi: 0.027460846976036807
+ assist: 0.014994404969425442
+ autom: 0.008105083767256995
+ automata: 0.008105083767256995
+ automaton: 0.014994404969425442
+ benefit: 0.014994404969425442
+ bill: 0.025827862559835324
+ build: 0.008105083767256995
+ classif: 0.03483486690961203
+ classifi: 0.014994404969425442
+ clickabl: 0.008105083767256995
+ clickstream: 0.01931683890582166
+ concept: 0.008105083767256995
+ consider: 0.008105083767256995
+ construc: 0.014994404969425442
+ content: 0.015855570119696495
+ contextu: 0.014843701068128004
+ data: 0.025500501905122454
+ devic: 0.014994404969425442
+ displai: 0.014994404969425442
+ domainspecif: 0.008105083767256995
+ domin: 0.008105083767256995
+ effect: 0.014994404969425442
+ etc: 0.033655035668906465
+ evid: 0.02085032799126862
+ experiment: 0.014994404969425442
+ extrac: 0.014477705879262807
+ fragment: 0.012647729934936814
+ function: 0.008966248917528051
+ impair: 0.008105083767256995
+ import: 0.008105083767256995
+ inform: 0.014994404969425442
+ learn: 0.021883726171593888
+ limiteds: 0.008105083767256995
+ machin: 0.008105083767256995
+ method: 0.026706251013111804
+ mobil: 0.008105083767256995
+ model: 0.0463679841493897
+ object: 0.014994404969425442
+ onlin: 0.008105083767256995
+ overload: 0.014477705879262807
+ page: 0.010688579218070161
+ payment: 0.03005876694311702
+ peopl: 0.010401524167979811
+ person: 0.008105083767256995
+ practic: 0.008105083767256995
+ preliminari: 0.008105083767256995
+ process: 0.008105083767256995
+ reader: 0.02197261302415351
+ relat: 0.008105083767256995
+ reserv: 0.02085032799126862
+ screen: 0.0163147403022312
+ segment: 0.012647729934936814
+ separ: 0.008105083767256995
+ shop: 0.008105083767256995
+ sight: 0.008105083767256995
+ site: 0.008966248917528051
+ statist: 0.03144680369688828
+ technologi: 0.02085032799126862
+ train: 0.008105083767256995
+ transac: 0.03671011950876056
+ unlabel: 0.008105083767256995
+ user: 0.01958728577087107
+ web: 0.008105083767256995
+
+N-grams list: 10
+ build transac model
+ domainspecif transac model
+ bill payment etc
+ transac model
+ contextu analysi statist
+ transac clickstream screen
+ web access model
+ unlabel transac clickstream
+ person access transac
+ machin learn method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

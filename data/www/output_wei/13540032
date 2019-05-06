@@ -1,0 +1,78 @@
+File name: 13540032
+
+Graph edges count: 25
+ actual - onlin: 1
+ bidirec - effect: 2
+ bidirec - interac: 1
+ commun - graviti: 2
+ commun - site: 1
+ consum - behavior: 1
+ cosm - analys: 1
+ cosm - dataset: 1
+ custom - behavior: 1
+ ecommerc - site: 2
+ epinion - dataset: 1
+ import - aspect: 1
+ import - insight: 1
+ import - measur: 1
+ larg - commun: 1
+ mine - onlin: 1
+ noteworthi - characterist: 1
+ onlin - commun: 1
+ onlin - ecommerc: 2
+ onlin - social: 2
+ purchas - behavior: 1
+ similar - user: 1
+ social - network: 3
+ strong - commun: 1
+ theoret - model: 1
+
+PageRank scores count: 32
+ actual: 0.019178857227792077
+ analys: 0.027329871549603712
+ aspect: 0.0246128667756665
+ behavior: 0.06808494315866188
+ bidirec: 0.019178857227792077
+ characterist: 0.035480885871415346
+ commun: 0.060586009982595175
+ consum: 0.019178857227792077
+ cosm: 0.019178857227792077
+ custom: 0.019178857227792077
+ dataset: 0.04363190019322698
+ ecommerc: 0.036785048162905204
+ effect: 0.030046876323540923
+ epinion: 0.019178857227792077
+ graviti: 0.05351092955126267
+ import: 0.019178857227792077
+ insight: 0.0246128667756665
+ interac: 0.0246128667756665
+ larg: 0.019178857227792077
+ measur: 0.0246128667756665
+ mine: 0.019178857227792077
+ model: 0.035480885871415346
+ network: 0.0504461481662615
+ noteworthi: 0.019178857227792077
+ onlin: 0.05178291451503861
+ purchas: 0.019178857227792077
+ similar: 0.019178857227792077
+ site: 0.0676121843279968
+ social: 0.036785048162905204
+ strong: 0.019178857227792077
+ theoret: 0.019178857227792077
+ user: 0.035480885871415346
+
+N-grams list: 10
+ onlin ecommerc site
+ larg commun site
+ onlin social network
+ commun graviti
+ onlin commun
+ mine onlin social
+ actual onlin ecommerc
+ custom behavior
+ consum behavior
+ purchas behavior
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

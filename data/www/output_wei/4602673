@@ -1,0 +1,65 @@
+File name: 4602673
+
+Graph edges count: 19
+ bias - minimax: 1
+ classif - model: 1
+ classif - problem: 1
+ classif - task: 1
+ cone - program: 1
+ effici - train: 1
+ empir - result: 1
+ imbalanc - learn: 1
+ imbalanc - text: 2
+ learn - scheme: 1
+ learn - task: 1
+ minimax - probabl: 2
+ neg - train: 1
+ order - cone: 1
+ probabl - machin: 2
+ text - classif: 3
+ theoret - deriv: 1
+ tradition - solution: 1
+ train - docum: 1
+
+PageRank scores count: 25
+ bias: 0.022814881006136253
+ classif: 0.053196697545974364
+ cone: 0.042207529861352074
+ deriv: 0.042207529861352074
+ docum: 0.07517503291521896
+ effici: 0.022814881006136253
+ empir: 0.022814881006136253
+ imbalanc: 0.022814881006136253
+ learn: 0.02927909729120819
+ machin: 0.07270247018617894
+ minimax: 0.042207529861352074
+ model: 0.037887278644162324
+ neg: 0.022814881006136253
+ order: 0.022814881006136253
+ probabl: 0.05869128138828552
+ problem: 0.037887278644162324
+ program: 0.05869128138828552
+ result: 0.042207529861352074
+ scheme: 0.035258497354899734
+ solution: 0.042207529861352074
+ task: 0.050330894992925805
+ text: 0.035743313576280134
+ theoret: 0.022814881006136253
+ tradition: 0.022814881006136253
+ train: 0.06160017871656789
+
+N-grams list: 10
+ minimax probabl machin
+ neg train docum
+ text classif task
+ bias minimax probabl
+ order cone program
+ imbalanc text classif
+ imbalanc learn task
+ classif model
+ effici train
+ machin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

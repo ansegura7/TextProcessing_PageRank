@@ -1,0 +1,64 @@
+File name: 14209920
+
+Graph edges count: 18
+ baselin - result: 1
+ content - analysi: 1
+ dataset - challeng: 2
+ design - choic: 1
+ full - inform: 1
+ largescal - person: 1
+ listen - histori: 1
+ music - recommend: 1
+ offtheshelf - recommend: 1
+ on - song: 1
+ person - music: 1
+ present - baselin: 1
+ profil - data: 1
+ recommend - algorithm: 1
+ recommend - challeng: 1
+ simpl - offtheshelf: 1
+ song - dataset: 2
+ tast - profil: 1
+
+PageRank scores count: 25
+ algorithm: 0.06177326723175654
+ analysi: 0.03780833753035683
+ baselin: 0.03780833753035683
+ challeng: 0.10646118942219789
+ choic: 0.03780833753035683
+ content: 0.020436939205598286
+ data: 0.0525740261064016
+ dataset: 0.0525740261064016
+ design: 0.020436939205598286
+ full: 0.020436939205598286
+ histori: 0.03780833753035683
+ inform: 0.03780833753035683
+ largescal: 0.020436939205598286
+ listen: 0.020436939205598286
+ music: 0.0525740261064016
+ offtheshelf: 0.03780833753035683
+ on: 0.020436939205598286
+ person: 0.03780833753035683
+ present: 0.020436939205598286
+ profil: 0.03780833753035683
+ recommend: 0.09726194829684295
+ result: 0.0525740261064016
+ simpl: 0.020436939205598286
+ song: 0.03780833753035683
+ tast: 0.020436939205598286
+
+N-grams list: 10
+ recommend challeng
+ song dataset challeng
+ simpl offtheshelf recommend
+ tast profil data
+ on song dataset
+ present baselin result
+ largescal person music
+ challeng
+ algorithm
+ design choic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

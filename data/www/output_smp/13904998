@@ -1,0 +1,94 @@
+File name: 13904998
+
+Graph edges count: 31
+ 32bit - represent: 1
+ bit - vector: 8
+ conven - retriev: 1
+ data - vector: 1
+ eg - spectral: 1
+ imag - classif: 1
+ inform - retriev: 1
+ input - data: 1
+ lambdarank - algorithm: 1
+ larg - scale: 1
+ learningtorank - formul: 1
+ learn - algorithm: 2
+ machin - learn: 1
+ main - contribu: 1
+ neighbor - classif: 1
+ neighbor - method: 1
+ neighbor - regres: 1
+ neighbor - search: 3
+ rapid - search: 1
+ real - world: 1
+ retriev - dataset: 1
+ scale - web: 1
+ search - fast: 1
+ singl - learn: 1
+ spectral - hash: 1
+ taskspecif - bit: 2
+ train - case: 1
+ unifi - approach: 2
+ vector - represent: 6
+ web - applic: 1
+ world - text: 1
+
+PageRank scores count: 42
+ 32bit: 0.012950767656752859
+ algorithm: 0.0536809319372406
+ applic: 0.04126923998420008
+ approach: 0.023958920164992792
+ bit: 0.023958920164992792
+ case: 0.023958920164992792
+ classif: 0.02671095829205277
+ contribu: 0.023958920164992792
+ conven: 0.012950767656752859
+ data: 0.023958920164992792
+ dataset: 0.04267277942900066
+ eg: 0.012950767656752859
+ fast: 0.03565508220499771
+ formul: 0.023958920164992792
+ hash: 0.03331584979699673
+ imag: 0.012950767656752859
+ inform: 0.012950767656752859
+ input: 0.012950767656752859
+ lambdarank: 0.012950767656752859
+ larg: 0.012950767656752859
+ learn: 0.03496707267323272
+ learningtorank: 0.012950767656752859
+ machin: 0.012950767656752859
+ main: 0.012950767656752859
+ method: 0.01570280578381284
+ neighbor: 0.012950767656752859
+ rapid: 0.012950767656752859
+ real: 0.012950767656752859
+ regres: 0.01570280578381284
+ represent: 0.0695877123116473
+ retriev: 0.03496707267323272
+ scale: 0.023958920164992792
+ search: 0.02671095829205277
+ singl: 0.012950767656752859
+ spectral: 0.023958920164992792
+ taskspecif: 0.012950767656752859
+ text: 0.03331584979699673
+ train: 0.012950767656752859
+ unifi: 0.012950767656752859
+ vector: 0.0536809319372406
+ web: 0.03331584979699673
+ world: 0.023958920164992792
+
+N-grams list: 10
+ bit vector represent
+ singl learn algorithm
+ machin learn algorithm
+ input data vector
+ taskspecif bit vector
+ 32bit represent
+ bit vector
+ retriev dataset
+ neighbor search fast
+ larg scale web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

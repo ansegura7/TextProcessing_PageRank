@@ -1,0 +1,77 @@
+File name: 239996
+
+Graph edges count: 25
+ bind - depend: 3
+ block - structur: 1
+ cach - system: 2
+ contain - map: 1
+ contain - problem: 1
+ depend - semant: 1
+ elem - depend: 1
+ fundament - queri: 1
+ futur - user: 1
+ hierarch - elem: 1
+ import - technologi: 1
+ map - techniqu: 1
+ nest - block: 1
+ nest - xqueri: 1
+ perform - gain: 1
+ queri - contain: 2
+ remot - server: 1
+ respons - time: 1
+ semant - cach: 3
+ subtl - differ: 1
+ user - queri: 1
+ variabl - bind: 3
+ xqueri - contain: 3
+ xqueri - semant: 1
+ xquerybas - semant: 1
+
+PageRank scores count: 31
+ bind: 0.026284660711011723
+ block: 0.02024629270983335
+ cach: 0.08275623305403197
+ contain: 0.06844756527923969
+ depend: 0.05889184791737491
+ differ: 0.026284660711011723
+ elem: 0.026284660711011723
+ fundament: 0.014207924708654984
+ futur: 0.014207924708654984
+ gain: 0.026284660711011723
+ hierarch: 0.014207924708654984
+ import: 0.014207924708654984
+ map: 0.04329813995233185
+ nest: 0.014207924708654984
+ perform: 0.014207924708654984
+ problem: 0.04329813995233185
+ queri: 0.04862662231537169
+ remot: 0.014207924708654984
+ respons: 0.014207924708654984
+ semant: 0.08064506864162
+ server: 0.026284660711011723
+ structur: 0.03141727351201333
+ subtl: 0.014207924708654984
+ system: 0.08455072280458216
+ techniqu: 0.05101134366813705
+ technologi: 0.026284660711011723
+ time: 0.026284660711011723
+ user: 0.026284660711011723
+ variabl: 0.014207924708654984
+ xqueri: 0.02024629270983335
+ xquerybas: 0.014207924708654984
+
+N-grams list: 10
+ semant cach system
+ xquerybas semant cach
+ semant cach
+ contain map techniqu
+ fundament queri contain
+ queri contain
+ xqueri semant
+ hierarch elem depend
+ variabl bind depend
+ futur user queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

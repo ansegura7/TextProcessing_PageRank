@@ -1,0 +1,53 @@
+File name: 3836083
+
+Graph edges count: 13
+ classic - logic: 1
+ datalogrel - logic: 1
+ expressivelyimpoverish - languag: 1
+ express - languag: 1
+ formal - group: 1
+ languag - level: 1
+ model - paradigm: 1
+ open - environ: 1
+ position - paper: 1
+ semant - web: 3
+ standard - logic: 1
+ underli - formal: 1
+ web - classic: 1
+
+PageRank scores count: 19
+ classic: 0.07505114637161624
+ datalogrel: 0.029174400921911075
+ environ: 0.053972641705535486
+ express: 0.029174400921911075
+ expressivelyimpoverish: 0.029174400921911075
+ formal: 0.053972641705535486
+ group: 0.07505114637161624
+ languag: 0.0787708824891599
+ level: 0.09612965103769698
+ logic: 0.1425643569050337
+ model: 0.029174400921911075
+ open: 0.029174400921911075
+ paper: 0.053972641705535486
+ paradigm: 0.053972641705535486
+ position: 0.029174400921911075
+ semant: 0.029174400921911075
+ standard: 0.029174400921911075
+ underli: 0.029174400921911075
+ web: 0.053972641705535486
+
+N-grams list: 10
+ express languag level
+ standard logic
+ datalogrel logic
+ semant web classic
+ logic
+ formal group
+ expressivelyimpoverish languag
+ model paradigm
+ underli formal
+ open environ
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,78 @@
+File name: 11639816
+
+Graph edges count: 26
+ account - listen: 1
+ baselin - model: 1
+ crossses - inform: 1
+ graphic - model: 1
+ latent - group: 1
+ ldabas - tast: 1
+ lda - model: 2
+ listen - mood: 1
+ listen - session: 1
+ media - content: 1
+ media - site: 1
+ media - user: 1
+ musiclisten - session: 1
+ music - commun: 1
+ music - tast: 1
+ onlin - media: 1
+ onlin - music: 1
+ rich - interac: 1
+ session - model: 2
+ similar - behavior: 1
+ social - media: 2
+ song - listen: 1
+ specif - tast: 1
+ statist - model: 2
+ tast - model: 1
+ user - experi: 1
+
+PageRank scores count: 31
+ account: 0.017874521972907804
+ baselin: 0.017874521972907804
+ behavior: 0.03306786564987944
+ commun: 0.02869977934275009
+ content: 0.029396140927944625
+ crossses: 0.017874521972907804
+ experi: 0.042861241761660736
+ graphic: 0.017874521972907804
+ group: 0.03306786564987944
+ inform: 0.03306786564987944
+ interac: 0.03306786564987944
+ latent: 0.017874521972907804
+ lda: 0.017874521972907804
+ ldabas: 0.017874521972907804
+ listen: 0.048261209326851066
+ media: 0.04066453748836525
+ model: 0.17441344104470613
+ mood: 0.0383855359368195
+ music: 0.025471193811393615
+ musiclisten: 0.017874521972907804
+ onlin: 0.017874521972907804
+ rich: 0.017874521972907804
+ session: 0.05357887961379113
+ similar: 0.017874521972907804
+ site: 0.029396140927944625
+ social: 0.017874521972907804
+ song: 0.017874521972907804
+ specif: 0.017874521972907804
+ statist: 0.017874521972907804
+ tast: 0.05908646669669336
+ user: 0.029396140927944625
+
+N-grams list: 10
+ ldabas tast model
+ session model
+ graphic model
+ statist model
+ lda model
+ baselin model
+ model
+ account listen session
+ social media user
+ onlin media site
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,58 @@
+File name: 14388913
+
+Graph edges count: 15
+ current - declar: 1
+ data - manag: 4
+ declar - data: 1
+ declar - platform: 1
+ effect - techniqu: 1
+ kei - issu: 1
+ manag - framework: 2
+ manag - layer: 1
+ mass - data: 1
+ probabilist - data: 1
+ recurs - manipul: 1
+ system - design: 1
+ system - prototyp: 1
+ trivialik - game: 1
+ widespread - practic: 1
+
+PageRank scores count: 22
+ current: 0.026627876507564284
+ data: 0.09283143447449597
+ declar: 0.04926157153899392
+ design: 0.0379447240232791
+ effect: 0.026627876507564284
+ framework: 0.08643081413373295
+ game: 0.04926157153899392
+ issu: 0.04926157153899392
+ kei: 0.026627876507564284
+ layer: 0.05652934532064861
+ manag: 0.10553459581088587
+ manipul: 0.04926157153899392
+ mass: 0.026627876507564284
+ platform: 0.047564044411636704
+ practic: 0.04926157153899392
+ probabilist: 0.026627876507564284
+ prototyp: 0.0379447240232791
+ recurs: 0.026627876507564284
+ system: 0.026627876507564284
+ techniqu: 0.04926157153899392
+ trivialik: 0.026627876507564284
+ widespread: 0.026627876507564284
+
+N-grams list: 10
+ data manag framework
+ data manag layer
+ data manag
+ manag framework
+ current declar data
+ probabilist data
+ mass data
+ declar platform
+ data
+ framework
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

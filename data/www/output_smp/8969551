@@ -1,0 +1,26 @@
+File name: 8969551
+
+Graph edges count: 5
+ character - studi: 1
+ countrycod - toplevel: 1
+ toplevel - domain: 1
+ web - character: 1
+ web - link: 2
+
+PageRank scores count: 7
+ character: 0.12408838576249048
+ countrycod: 0.08707956895613367
+ domain: 0.22401219113965387
+ link: 0.12408838576249048
+ studi: 0.19255469685425058
+ toplevel: 0.16109720256884727
+ web: 0.08707956895613367
+
+N-grams list: 3
+ countrycod toplevel domain
+ web character studi
+ web link
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,75 @@
+File name: 4326312
+
+Graph edges count: 25
+ activ - web: 1
+ adapt - support: 1
+ chain - model: 1
+ data - mine: 1
+ fast - increas: 1
+ import - factor: 1
+ import - research: 1
+ log - mine: 1
+ markov - chain: 1
+ mine - path: 1
+ mine - procedur: 1
+ path - travers: 1
+ pattern - etc: 1
+ previou - studi: 1
+ refer - sequenc: 1
+ research - topic: 1
+ support - threshold: 3
+ travers - pattern: 2
+ uniform - support: 1
+ web - activ: 1
+ web - data: 1
+ web - docum: 1
+ web - log: 1
+ web - page: 1
+ web - travers: 1
+
+PageRank scores count: 29
+ activ: 0.02321545064086757
+ adapt: 0.017886064296690787
+ chain: 0.03308921894887795
+ data: 0.02321545064086757
+ docum: 0.02321545064086757
+ etc: 0.07581581466920657
+ factor: 0.025487641622784368
+ fast: 0.017886064296690787
+ import: 0.017886064296690787
+ increas: 0.03308921894887795
+ log: 0.02321545064086757
+ markov: 0.017886064296690787
+ mine: 0.05735233115051084
+ model: 0.04601190040323705
+ page: 0.02321545064086757
+ path: 0.04226080503565789
+ pattern: 0.0681526313109439
+ previou: 0.017886064296690787
+ procedur: 0.04226080503565789
+ refer: 0.017886064296690787
+ research: 0.025487641622784368
+ sequenc: 0.03308921894887795
+ studi: 0.03308921894887795
+ support: 0.04829237360106512
+ threshold: 0.05893458185759614
+ topic: 0.0395505596760575
+ travers: 0.05913713721421236
+ uniform: 0.017886064296690787
+ web: 0.03761919772360081
+
+N-grams list: 10
+ web travers pattern
+ mine path travers
+ pattern etc
+ adapt support threshold
+ uniform support threshold
+ web log mine
+ support threshold
+ mine procedur
+ web activ web
+ markov chain model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

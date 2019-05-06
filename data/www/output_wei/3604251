@@ -1,0 +1,71 @@
+File name: 3604251
+
+Graph edges count: 24
+ build - link: 1
+ commerci - search: 1
+ common - link: 1
+ current - commerci: 1
+ engin - spam: 1
+ experiment - result: 1
+ farm - spam: 2
+ final - rank: 1
+ import - factor: 1
+ linkbas - rank: 1
+ link - analysi: 1
+ link - farm: 4
+ outgo - link: 1
+ page - import: 1
+ rank - algorithm: 1
+ rank - page: 1
+ rank - result: 1
+ rank - system: 1
+ search - engin: 2
+ seed - set: 1
+ spam - page: 2
+ web - graph: 1
+ web - page: 1
+ web - traffic: 1
+
+PageRank scores count: 26
+ algorithm: 0.023645084916991247
+ analysi: 0.02409206904806702
+ build: 0.015024676674815725
+ commerci: 0.02779565184840909
+ common: 0.015024676674815725
+ current: 0.015024676674815725
+ engin: 0.04787801030888465
+ experiment: 0.015024676674815725
+ factor: 0.10895046949227348
+ farm: 0.05129424616782089
+ final: 0.015024676674815725
+ graph: 0.019281668399346846
+ import: 0.11050093272642088
+ link: 0.05333760219559583
+ linkbas: 0.015024676674815725
+ outgo: 0.015024676674815725
+ page: 0.11232500711953548
+ rank: 0.040566627022002456
+ result: 0.036416060090584616
+ search: 0.03865098074596345
+ seed: 0.015024676674815725
+ set: 0.02779565184840909
+ spam: 0.09932109468001545
+ system: 0.023645084916991247
+ traffic: 0.019281668399346846
+ web: 0.015024676674815725
+
+N-grams list: 10
+ rank page import
+ import factor
+ link farm spam
+ search engin spam
+ web page
+ build link farm
+ page
+ import
+ link farm
+ spam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

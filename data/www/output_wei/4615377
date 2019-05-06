@@ -1,0 +1,48 @@
+File name: 4615377
+
+Graph edges count: 12
+ facetofac - touch: 1
+ inform - infrastructur: 1
+ integr - method: 1
+ link - network: 3
+ network - extrac: 2
+ network - webmin: 1
+ simpl - mean: 1
+ social - network: 6
+ social - relat: 1
+ touch - link: 1
+ webmin - web: 1
+ web - link: 1
+
+PageRank scores count: 15
+ extrac: 0.12746385134682128
+ facetofac: 0.027691752540808273
+ inform: 0.027691752540808273
+ infrastructur: 0.0512297422004953
+ integr: 0.027691752540808273
+ link: 0.15082498978271064
+ mean: 0.0512297422004953
+ method: 0.0512297422004953
+ network: 0.17606841307963683
+ relat: 0.031054322492192133
+ simpl: 0.027691752540808273
+ social: 0.027691752540808273
+ touch: 0.0512297422004953
+ web: 0.09363288984880162
+ webmin: 0.07757780194381478
+
+N-grams list: 10
+ web link network
+ link network webmin
+ social network extrac
+ facetofac touch link
+ social network
+ network
+ inform infrastructur
+ simpl mean
+ integr method
+ social relat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

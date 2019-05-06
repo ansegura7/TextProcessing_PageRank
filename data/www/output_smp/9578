@@ -1,0 +1,82 @@
+File name: 9578
+
+Graph edges count: 23
+ actual - content: 1
+ ad - unnecessari: 1
+ brows - speech: 1
+ cell - phone: 1
+ content - extrac: 3
+ content - reformat: 1
+ conveni - form: 1
+ data - compon: 1
+ docum - web: 1
+ dombas - content: 1
+ dom - tree: 1
+ entir - webpag: 1
+ extens - set: 1
+ extran - link: 1
+ font - size: 1
+ kei - insight: 1
+ pda - brows: 1
+ popup - ad: 1
+ previou - work: 1
+ text - summar: 1
+ unnecessari - imag: 1
+ web - page: 3
+ web - proxi: 1
+
+PageRank scores count: 38
+ actual: 0.016447605125896138
+ ad: 0.030428069482907858
+ brows: 0.030428069482907858
+ cell: 0.016447605125896138
+ compon: 0.030428069482907858
+ content: 0.04440853383991957
+ conveni: 0.016447605125896138
+ data: 0.016447605125896138
+ docum: 0.016447605125896138
+ dom: 0.016447605125896138
+ dombas: 0.016447605125896138
+ entir: 0.016447605125896138
+ extens: 0.016447605125896138
+ extrac: 0.03532123200786196
+ extran: 0.016447605125896138
+ font: 0.016447605125896138
+ form: 0.030428069482907858
+ imag: 0.05241234968430878
+ insight: 0.030428069482907858
+ kei: 0.016447605125896138
+ link: 0.030428069482907858
+ page: 0.029379534656131977
+ pda: 0.016447605125896138
+ phone: 0.030428069482907858
+ popup: 0.016447605125896138
+ previou: 0.016447605125896138
+ proxi: 0.029379534656131977
+ reformat: 0.03532123200786196
+ set: 0.030428069482907858
+ size: 0.030428069482907858
+ speech: 0.04231146418636782
+ summar: 0.030428069482907858
+ text: 0.016447605125896138
+ tree: 0.030428069482907858
+ unnecessari: 0.04231146418636782
+ web: 0.030428069482907858
+ webpag: 0.030428069482907858
+ work: 0.030428069482907858
+
+N-grams list: 10
+ dombas content extrac
+ popup ad unnecessari
+ pda brows speech
+ content reformat
+ content extrac
+ docum web page
+ actual content
+ web page
+ web proxi
+ imag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

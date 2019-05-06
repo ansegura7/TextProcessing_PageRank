@@ -1,0 +1,72 @@
+File name: 96206
+
+Graph edges count: 21
+ cognit - aspect: 1
+ complex - multidimension: 1
+ data - instructor: 1
+ distanc - educ: 1
+ distanc - learn: 1
+ distanc - learner: 1
+ graphic - represent: 2
+ inform - visual: 1
+ java - onlin: 1
+ learn - class: 1
+ log - data: 1
+ manag - system: 1
+ multidimension - student: 1
+ onlin - distanc: 1
+ propos - approach: 1
+ social - behaviour: 1
+ special - atten: 1
+ student - track: 3
+ track - data: 3
+ webbas - distanc: 1
+ web - log: 1
+
+PageRank scores count: 30
+ approach: 0.031877263289058946
+ aspect: 0.031877263289058946
+ atten: 0.031877263289058946
+ behaviour: 0.031877263289058946
+ class: 0.04607991230363842
+ cognit: 0.01723095312922105
+ complex: 0.01723095312922105
+ data: 0.09099892503801459
+ distanc: 0.05897293708475905
+ educ: 0.033939951969902786
+ graphic: 0.01723095312922105
+ inform: 0.01723095312922105
+ instructor: 0.09458003941153345
+ java: 0.01723095312922105
+ learn: 0.033939951969902786
+ learner: 0.033939951969902786
+ log: 0.031877263289058946
+ manag: 0.01723095312922105
+ multidimension: 0.031877263289058946
+ onlin: 0.031877263289058946
+ propos: 0.01723095312922105
+ represent: 0.031877263289058946
+ social: 0.01723095312922105
+ special: 0.01723095312922105
+ student: 0.044326626924921154
+ system: 0.031877263289058946
+ track: 0.05490858601540405
+ visual: 0.031877263289058946
+ web: 0.01723095312922105
+ webbas: 0.01723095312922105
+
+N-grams list: 10
+ student track data
+ track data
+ web log data
+ distanc learn class
+ webbas distanc educ
+ java onlin distanc
+ instructor
+ complex multidimension student
+ distanc learner
+ data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

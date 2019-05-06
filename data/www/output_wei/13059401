@@ -1,0 +1,34 @@
+File name: 13059401
+
+Graph edges count: 7
+ contextsensit - interpret: 1
+ contextsensit - keyword: 1
+ keyword - queri: 2
+ queri - histori: 2
+ queri - interpret: 1
+ rdf - databas: 2
+ rdf - represent: 1
+
+PageRank scores count: 8
+ contextsensit: 0.07818111632861477
+ databas: 0.1224837489148298
+ histori: 0.17614531263488276
+ interpret: 0.16039018892141002
+ keyword: 0.11140809076827604
+ queri: 0.1728779934816494
+ rdf: 0.07818111632861477
+ represent: 0.10033243262172228
+
+N-grams list: 8
+ contextsensit keyword queri
+ queri histori
+ keyword queri
+ contextsensit interpret
+ rdf databas
+ rdf represent
+ queri
+ interpret
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

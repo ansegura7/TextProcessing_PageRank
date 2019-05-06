@@ -1,0 +1,97 @@
+File name: 11840967
+
+Graph edges count: 29
+ beach - histori: 1
+ characterist - summar: 1
+ common - theme: 1
+ common - user: 1
+ destin - recommend: 1
+ dive - surf: 1
+ evalu - method: 1
+ flexibl - queri: 1
+ gate - bridg: 1
+ global - topic: 1
+ golden - gate: 1
+ inform - part: 1
+ larg - collec: 2
+ local - topic: 2
+ locationrepres - inform: 1
+ locationrepres - knowledg: 3
+ locationtop - model: 1
+ probabilist - topic: 1
+ promis - result: 1
+ relat - imag: 1
+ repres - tag: 1
+ rich - inform: 1
+ socal - travelogu: 1
+ subject - evalu: 1
+ topic - model: 1
+ topic - space: 1
+ travel - experi: 1
+ trip - plan: 1
+ weblog - forum: 1
+
+PageRank scores count: 47
+ beach: 0.013584072674788812
+ bridg: 0.034945026955894215
+ characterist: 0.013584072674788812
+ collec: 0.025130534448359304
+ common: 0.013584072674788812
+ destin: 0.013584072674788812
+ dive: 0.013584072674788812
+ evalu: 0.025130534448359304
+ experi: 0.025130534448359304
+ flexibl: 0.013584072674788812
+ forum: 0.025130534448359304
+ gate: 0.025130534448359304
+ global: 0.013584072674788812
+ golden: 0.013584072674788812
+ histori: 0.025130534448359304
+ imag: 0.025130534448359304
+ inform: 0.028017149891751927
+ knowledg: 0.02224391900496668
+ larg: 0.013584072674788812
+ local: 0.013584072674788812
+ locationrepres: 0.013584072674788812
+ locationtop: 0.013584072674788812
+ method: 0.034945026955894215
+ model: 0.04562550409644692
+ part: 0.03739865008277795
+ plan: 0.025130534448359304
+ probabilist: 0.013584072674788812
+ promis: 0.013584072674788812
+ queri: 0.025130534448359304
+ recommend: 0.025130534448359304
+ relat: 0.013584072674788812
+ repres: 0.013584072674788812
+ result: 0.025130534448359304
+ rich: 0.013584072674788812
+ socal: 0.013584072674788812
+ space: 0.03407904232287643
+ subject: 0.013584072674788812
+ summar: 0.025130534448359304
+ surf: 0.025130534448359304
+ tag: 0.025130534448359304
+ theme: 0.019357303561574057
+ topic: 0.048223457995500284
+ travel: 0.013584072674788812
+ travelogu: 0.025130534448359304
+ trip: 0.013584072674788812
+ user: 0.019357303561574057
+ weblog: 0.013584072674788812
+
+N-grams list: 10
+ probabilist topic model
+ local topic space
+ subject evalu method
+ golden gate bridg
+ inform part
+ local topic
+ global topic
+ locationtop model
+ topic
+ model
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

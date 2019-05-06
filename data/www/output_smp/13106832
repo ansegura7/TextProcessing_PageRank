@@ -1,0 +1,90 @@
+File name: 13106832
+
+Graph edges count: 30
+ common - mediat: 1
+ complex - queri: 1
+ data - manag: 2
+ data - model: 1
+ data - sourc: 1
+ data - translat: 1
+ docum - structur: 3
+ domain - structur: 3
+ exchang - data: 1
+ huge - amount: 1
+ local - pointtopoint: 1
+ local - scale: 1
+ manag - infrastructur: 1
+ manag - practition: 1
+ mediat - schema: 1
+ owl - ontologi: 1
+ piazza - network: 1
+ piazza - system: 1
+ pointtopoint - data: 1
+ point - research: 1
+ rdf - data: 1
+ relev - data: 1
+ rich - owl: 1
+ rich - semant: 1
+ semant - web: 4
+ small - set: 1
+ web - applic: 1
+ wide - web: 1
+ world - wide: 1
+ xml - data: 1
+
+PageRank scores count: 39
+ amount: 0.02705547300856094
+ applic: 0.06165997140826055
+ common: 0.014624580004627536
+ complex: 0.014624580004627536
+ data: 0.08206217455096626
+ docum: 0.014624580004627536
+ domain: 0.014624580004627536
+ exchang: 0.014624580004627536
+ huge: 0.014624580004627536
+ infrastructur: 0.028251266645728378
+ local: 0.014624580004627536
+ manag: 0.032062792096707864
+ mediat: 0.02705547300856094
+ model: 0.032062792096707864
+ network: 0.02084002650659424
+ ontologi: 0.03233860253523264
+ owl: 0.02084002650659424
+ piazza: 0.014624580004627536
+ point: 0.014624580004627536
+ pointtopoint: 0.02084002650659424
+ practition: 0.028251266645728378
+ queri: 0.02705547300856094
+ rdf: 0.014624580004627536
+ relev: 0.014624580004627536
+ research: 0.02705547300856094
+ rich: 0.014624580004627536
+ scale: 0.02084002650659424
+ schema: 0.037621732061904334
+ semant: 0.02084002650659424
+ set: 0.02705547300856094
+ small: 0.014624580004627536
+ sourc: 0.032062792096707864
+ structur: 0.03948636601249435
+ system: 0.02084002650659424
+ translat: 0.032062792096707864
+ web: 0.05533575459250943
+ wide: 0.02705547300856094
+ world: 0.014624580004627536
+ xml: 0.014624580004627536
+
+N-grams list: 10
+ data manag infrastructur
+ data manag practition
+ semant web applic
+ local pointtopoint data
+ data sourc
+ data model
+ world wide web
+ relev data
+ rdf data
+ xml data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

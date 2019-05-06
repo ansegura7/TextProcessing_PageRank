@@ -1,0 +1,62 @@
+File name: 13061550
+
+Graph edges count: 18
+ aggreg - consum: 1
+ consum - opinion: 1
+ consum - review: 5
+ data - set: 2
+ domain - structur: 1
+ experiment - result: 1
+ forum - web: 1
+ hierarch - organ: 3
+ organ - peopl: 1
+ popular - product: 1
+ product - review: 1
+ review - corpu: 1
+ review - data: 1
+ specif - aspect: 1
+ specif - product: 1
+ structur - knowledg: 1
+ unstructur - consum: 1
+ web - site: 1
+
+PageRank scores count: 23
+ aggreg: 0.022451898123810644
+ aspect: 0.031993954826430165
+ consum: 0.06062012493428873
+ corpu: 0.06139541704137657
+ data: 0.06139541704137657
+ domain: 0.022451898123810644
+ experiment: 0.022451898123810644
+ forum: 0.022451898123810644
+ hierarch: 0.022451898123810644
+ knowledg: 0.05775750792350288
+ opinion: 0.04821545122088335
+ organ: 0.04153601152904969
+ peopl: 0.05775750792350288
+ popular: 0.022451898123810644
+ product: 0.05107806823166921
+ result: 0.04153601152904969
+ review: 0.09163180921780219
+ set: 0.07463800260898074
+ site: 0.05775750792350288
+ specif: 0.022451898123810644
+ structur: 0.04153601152904969
+ unstructur: 0.022451898123810644
+ web: 0.04153601152904969
+
+N-grams list: 10
+ product review data
+ unstructur consum review
+ review corpu
+ consum review
+ data set
+ aggreg consum opinion
+ hierarch organ peopl
+ domain structur knowledg
+ forum web site
+ review
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

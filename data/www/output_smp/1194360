@@ -1,0 +1,69 @@
+File name: 1194360
+
+Graph edges count: 22
+ altern - approach: 1
+ cach - coher: 1
+ cach - consist: 5
+ cach - object: 1
+ coher - polici: 1
+ consist - polici: 1
+ content - provid: 1
+ current - practic: 1
+ current - web: 1
+ evalu - show: 1
+ heuristicbas - polici: 1
+ optim - cach: 1
+ perclient - state: 2
+ real - web: 1
+ request - traffic: 1
+ serverdriven - invalid: 1
+ show - monarch: 1
+ strong - cach: 2
+ strong - web: 1
+ web - cach: 3
+ web - object: 1
+ web - site: 1
+
+PageRank scores count: 26
+ altern: 0.02223914044239581
+ approach: 0.041142409818432236
+ cach: 0.06760698694488325
+ coher: 0.041394453410112726
+ consist: 0.041394453410112726
+ content: 0.02223914044239581
+ current: 0.02223914044239581
+ evalu: 0.02223914044239581
+ heuristicbas: 0.02223914044239581
+ invalid: 0.041142409818432236
+ monarch: 0.057210188788063214
+ object: 0.05840739584854552
+ optim: 0.02223914044239581
+ perclient: 0.02223914044239581
+ polici: 0.11151298061562387
+ practic: 0.031690775130414024
+ provid: 0.041142409818432236
+ real: 0.02223914044239581
+ request: 0.02223914044239581
+ serverdriven: 0.02223914044239581
+ show: 0.041142409818432236
+ site: 0.0392520828808286
+ state: 0.041142409818432236
+ strong: 0.02223914044239581
+ traffic: 0.041142409818432236
+ web: 0.060045679194468675
+
+N-grams list: 10
+ cach consist polici
+ web cach consist
+ current web cach
+ strong web cach
+ heuristicbas polici
+ optim cach coher
+ strong cach consist
+ cach object
+ real web site
+ evalu show monarch
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

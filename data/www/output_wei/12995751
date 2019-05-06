@@ -1,0 +1,58 @@
+File name: 12995751
+
+Graph edges count: 15
+ everincreas - amount: 1
+ forward - activ: 1
+ good - predictor: 1
+ high - influenc: 1
+ high - popular: 1
+ influenc - measur: 1
+ inform - consum: 1
+ inform - forward: 1
+ inform - propag: 1
+ larg - studi: 1
+ passiv - inform: 1
+ social - media: 2
+ url - click: 1
+ user - dataset: 1
+ user - passiv: 2
+
+PageRank scores count: 22
+ activ: 0.07116556305342477
+ amount: 0.054594211513468376
+ click: 0.054594211513468376
+ consum: 0.04900609229594114
+ dataset: 0.03787166023907266
+ everincreas: 0.0295103846018748
+ forward: 0.04900609229594114
+ good: 0.0295103846018748
+ high: 0.0295103846018748
+ influenc: 0.04205229805767159
+ inform: 0.06880838009670474
+ larg: 0.0295103846018748
+ measur: 0.06525483795089566
+ media: 0.054594211513468376
+ passiv: 0.046232935876270524
+ popular: 0.04205229805767159
+ predictor: 0.054594211513468376
+ propag: 0.04900609229594114
+ social: 0.0295103846018748
+ studi: 0.054594211513468376
+ url: 0.0295103846018748
+ user: 0.0295103846018748
+
+N-grams list: 10
+ inform forward activ
+ passiv inform consum
+ inform propag
+ influenc measur
+ everincreas amount
+ good predictor
+ larg studi
+ social media
+ url click
+ user passiv
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

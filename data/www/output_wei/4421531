@@ -1,0 +1,66 @@
+File name: 4421531
+
+Graph edges count: 19
+ case - particip: 1
+ citizengovern - interac: 1
+ citizen - particip: 1
+ debat - particip: 1
+ democraci - interac: 1
+ edemocraci - model: 1
+ electron - democraci: 1
+ electron - vote: 1
+ govern - electron: 1
+ interac - languag: 3
+ mass - commun: 1
+ onlin - interac: 1
+ particip - budget: 1
+ peopl - particip: 1
+ public - particip: 1
+ realiti - show: 1
+ show - format: 1
+ webbas - technologi: 1
+ webinterfac - project: 1
+
+PageRank scores count: 26
+ budget: 0.10977388902450139
+ case: 0.020095906457574628
+ citizen: 0.020095906457574628
+ citizengovern: 0.020095906457574628
+ commun: 0.037177426946513055
+ debat: 0.020095906457574628
+ democraci: 0.03589631290984267
+ edemocraci: 0.020095906457574628
+ electron: 0.037177426946513055
+ format: 0.051696719362110725
+ govern: 0.020095906457574628
+ interac: 0.08477081340881776
+ languag: 0.09215109785506972
+ mass: 0.020095906457574628
+ model: 0.037177426946513055
+ onlin: 0.020095906457574628
+ particip: 0.10550350890226678
+ peopl: 0.020095906457574628
+ project: 0.037177426946513055
+ public: 0.020095906457574628
+ realiti: 0.020095906457574628
+ show: 0.037177426946513055
+ technologi: 0.037177426946513055
+ vote: 0.03589631290984267
+ webbas: 0.020095906457574628
+ webinterfac: 0.020095906457574628
+
+N-grams list: 10
+ case particip budget
+ democraci interac languag
+ citizengovern interac languag
+ onlin interac languag
+ debat particip
+ peopl particip
+ citizen particip
+ public particip
+ realiti show format
+ govern electron democraci
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

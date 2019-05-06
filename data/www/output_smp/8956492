@@ -1,0 +1,60 @@
+File name: 8956492
+
+Graph edges count: 15
+ adapt - web: 1
+ applic - compon: 1
+ automat - restructur: 1
+ build - reactiv: 1
+ entir - process: 1
+ highlevel - eventconditionac: 1
+ highlevel - model: 1
+ inform - unit: 1
+ manner - user: 1
+ profil - data: 1
+ reactiv - web: 1
+ research - area: 1
+ singl - properti: 1
+ web - applic: 2
+ web - experi: 1
+
+PageRank scores count: 24
+ adapt: 0.02559639398001609
+ applic: 0.06282794879857324
+ area: 0.047353328863029766
+ automat: 0.02559639398001609
+ build: 0.02559639398001609
+ compon: 0.07900015045880335
+ data: 0.047353328863029766
+ entir: 0.02559639398001609
+ eventconditionac: 0.03647486142152293
+ experi: 0.06282794879857324
+ highlevel: 0.02559639398001609
+ inform: 0.02559639398001609
+ manner: 0.02559639398001609
+ model: 0.03647486142152293
+ process: 0.047353328863029766
+ profil: 0.02559639398001609
+ properti: 0.047353328863029766
+ reactiv: 0.047353328863029766
+ research: 0.02559639398001609
+ restructur: 0.047353328863029766
+ singl: 0.02559639398001609
+ unit: 0.047353328863029766
+ user: 0.047353328863029766
+ web: 0.08760365839660508
+
+N-grams list: 10
+ build reactiv web
+ web experi
+ web applic
+ applic compon
+ adapt web
+ profil data
+ inform unit
+ manner user
+ automat restructur
+ singl properti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

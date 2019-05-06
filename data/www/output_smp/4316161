@@ -1,0 +1,43 @@
+File name: 4316161
+
+Graph edges count: 8
+ docum - retriev: 1
+ minimum - distanc: 1
+ proxim - measur: 1
+ queri - pair: 1
+ retriev - perform: 1
+ test - set: 1
+ test - system: 1
+ wt10g - dataset: 1
+
+PageRank scores count: 14
+ dataset: 0.08949086951263757
+ distanc: 0.08949086951263757
+ docum: 0.0483734429798041
+ measur: 0.08949086951263757
+ minimum: 0.0483734429798041
+ pair: 0.08949086951263757
+ perform: 0.12444068206554604
+ proxim: 0.0483734429798041
+ queri: 0.0483734429798041
+ retriev: 0.08949086951263757
+ set: 0.06893215624622084
+ system: 0.06893215624622084
+ test: 0.0483734429798041
+ wt10g: 0.0483734429798041
+
+N-grams list: 10
+ docum retriev perform
+ minimum distanc
+ queri pair
+ wt10g dataset
+ proxim measur
+ test system
+ test set
+ measur
+ proxim
+ queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

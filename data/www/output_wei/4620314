@@ -1,0 +1,82 @@
+File name: 4620314
+
+Graph edges count: 28
+ automat - classif: 1
+ automat - imag: 1
+ automat - web: 2
+ cellular - phone: 1
+ classif - accuraci: 1
+ classif - method: 2
+ commerci - product: 1
+ desktop - pc: 1
+ eleven - web: 1
+ imag - categori: 1
+ imag - classif: 3
+ imag - featur: 1
+ imag - handl: 1
+ input - interfac: 1
+ larg - displai: 1
+ line - header: 1
+ menu - line: 1
+ mobil - devic: 1
+ mobil - web: 2
+ page - titl: 1
+ poor - input: 1
+ proper - web: 1
+ real - web: 1
+ site - menu: 1
+ small - screen: 1
+ web - imag: 5
+ web - page: 4
+ web - site: 1
+
+PageRank scores count: 33
+ accuraci: 0.02858718676395204
+ automat: 0.016601383893350058
+ categori: 0.02399260245677047
+ cellular: 0.016601383893350058
+ classif: 0.042302833660948176
+ commerci: 0.016601383893350058
+ desktop: 0.016601383893350058
+ devic: 0.021305109329799243
+ displai: 0.03071256020269761
+ eleven: 0.016601383893350058
+ featur: 0.02399260245677047
+ handl: 0.02399260245677047
+ header: 0.056838205159382496
+ imag: 0.05217330750649701
+ input: 0.03071256020269761
+ interfac: 0.04270706006564303
+ larg: 0.016601383893350058
+ line: 0.047337436783567576
+ menu: 0.036160062223785316
+ method: 0.040572989634554024
+ mobil: 0.016601383893350058
+ page: 0.0422366875219981
+ pc: 0.03071256020269761
+ phone: 0.03071256020269761
+ poor: 0.016601383893350058
+ product: 0.03071256020269761
+ proper: 0.016601383893350058
+ real: 0.016601383893350058
+ screen: 0.03071256020269761
+ site: 0.023010209800512067
+ small: 0.016601383893350058
+ titl: 0.05250256828704844
+ web: 0.07539795184896485
+
+N-grams list: 10
+ automat web imag
+ proper web imag
+ eleven web imag
+ automat web page
+ real web page
+ web imag
+ web page
+ automat imag classif
+ site menu line
+ web site
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

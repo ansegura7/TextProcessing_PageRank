@@ -1,0 +1,68 @@
+File name: 13059382
+
+Graph edges count: 20
+ auction - websit: 1
+ bid - behavior: 1
+ bid - prefer: 1
+ interest - rate: 1
+ lend - servic: 2
+ loan - auction: 1
+ loan - request: 1
+ loan - success: 1
+ onlin - peertop: 1
+ p2p - lend: 1
+ p2p - loan: 1
+ reach - spike: 1
+ request - list: 1
+ similar - time: 1
+ social - factor: 1
+ social - platform: 1
+ success - onlin: 1
+ tempor - progres: 1
+ time - point: 1
+ websit - prospercom: 1
+
+PageRank scores count: 27
+ auction: 0.031721026704839235
+ behavior: 0.03220122034151089
+ bid: 0.022597347608077818
+ factor: 0.03220122034151089
+ interest: 0.022597347608077818
+ lend: 0.03220122034151089
+ list: 0.04956022030719117
+ loan: 0.03220122034151089
+ onlin: 0.04956022030719117
+ p2p: 0.022597347608077818
+ peertop: 0.06472353486919032
+ platform: 0.03220122034151089
+ point: 0.05813167672178019
+ prefer: 0.03220122034151089
+ progres: 0.04180509307494396
+ prospercom: 0.06472353486919032
+ rate: 0.04180509307494396
+ reach: 0.022597347608077818
+ request: 0.031721026704839235
+ servic: 0.04996838489836208
+ similar: 0.022597347608077818
+ social: 0.022597347608077818
+ spike: 0.04180509307494396
+ success: 0.031721026704839235
+ tempor: 0.022597347608077818
+ time: 0.04180509307494396
+ websit: 0.04956022030719117
+
+N-grams list: 10
+ similar time point
+ websit prospercom
+ loan success onlin
+ loan request list
+ p2p lend servic
+ p2p loan auction
+ lend servic
+ peertop
+ reach spike
+ tempor progres
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

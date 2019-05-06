@@ -1,0 +1,56 @@
+File name: 4426847
+
+Graph edges count: 15
+ agent - technologi: 1
+ complet - household: 1
+ domot - framework: 1
+ futur - complet: 1
+ home - control: 1
+ home - system: 2
+ intellig - agent: 1
+ ongo - home: 1
+ optim - process: 1
+ orient - ontologi: 1
+ person - semant: 1
+ rapid - develop: 1
+ semant - domot: 1
+ system - optim: 1
+ system - orient: 1
+
+PageRank scores count: 20
+ agent: 0.0491398805436066
+ complet: 0.0491398805436066
+ control: 0.040485063745160574
+ develop: 0.0491398805436066
+ domot: 0.06833099605320432
+ framework: 0.08464344423636237
+ futur: 0.026562097591138704
+ home: 0.0491398805436066
+ household: 0.06833099605320432
+ intellig: 0.026562097591138704
+ ongo: 0.026562097591138704
+ ontologi: 0.06879478134468626
+ optim: 0.04968551029829124
+ orient: 0.04968551029829124
+ person: 0.026562097591138704
+ process: 0.06879478134468626
+ rapid: 0.026562097591138704
+ semant: 0.0491398805436066
+ system: 0.05440802989918245
+ technologi: 0.06833099605320432
+
+N-grams list: 10
+ semant domot framework
+ home system orient
+ futur complet household
+ ongo home system
+ optim process
+ agent technologi
+ home control
+ framework
+ rapid develop
+ person semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

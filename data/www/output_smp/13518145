@@ -1,0 +1,86 @@
+File name: 13518145
+
+Graph edges count: 28
+ ad - auction: 3
+ ad - campaign: 1
+ approxim - factor: 1
+ auction - ad: 1
+ bid - optim: 3
+ bid - strategi: 1
+ broad - match: 7
+ constantfactor - approxim: 1
+ hard - result: 1
+ high - profit: 1
+ languag - model: 2
+ larg - number: 1
+ limit - number: 1
+ linear - program: 1
+ lp - formul: 1
+ match - ad: 1
+ match - featur: 1
+ natur - lp: 1
+ neg - profit: 1
+ optim - bid: 1
+ optim - problem: 1
+ optim - profit: 2
+ polynomialtim - algorithm: 1
+ polynomi - time: 1
+ queri - languag: 2
+ reason - approxim: 1
+ relat - queri: 1
+ search - support: 1
+
+PageRank scores count: 37
+ ad: 0.06200218284565295
+ algorithm: 0.02779219809586107
+ approxim: 0.04056158641017562
+ auction: 0.04137374170360123
+ bid: 0.021918642409836115
+ broad: 0.015022809781546525
+ campaign: 0.04137374170360123
+ constantfactor: 0.015022809781546525
+ factor: 0.049500158230195795
+ featur: 0.02683449397228748
+ formul: 0.038646178163028434
+ hard: 0.015022809781546525
+ high: 0.015022809781546525
+ languag: 0.038646178163028434
+ larg: 0.015022809781546525
+ limit: 0.015022809781546525
+ linear: 0.015022809781546525
+ lp: 0.02779219809586107
+ match: 0.02779219809586107
+ model: 0.0478720612201207
+ natur: 0.015022809781546525
+ neg: 0.015022809781546525
+ number: 0.04056158641017562
+ optim: 0.024338232805727267
+ polynomi: 0.015022809781546525
+ polynomialtim: 0.015022809781546525
+ problem: 0.021918642409836115
+ profit: 0.04745741903846521
+ program: 0.02779219809586107
+ queri: 0.02779219809586107
+ reason: 0.015022809781546525
+ relat: 0.015022809781546525
+ result: 0.02779219809586107
+ search: 0.015022809781546525
+ strategi: 0.024338232805727267
+ support: 0.02779219809586107
+ time: 0.02779219809586107
+
+N-grams list: 10
+ auction ad auction
+ queri languag model
+ reason approxim factor
+ broad match ad
+ ad auction
+ ad campaign
+ natur lp formul
+ optim profit
+ optim bid strategi
+ broad match featur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

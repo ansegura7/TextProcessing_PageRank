@@ -1,0 +1,99 @@
+File name: 4234260
+
+Graph edges count: 36
+ 3 - grammar: 1
+ applic - develop: 1
+ busi - logic: 1
+ clear - defini: 1
+ commerci - site: 1
+ common - nomenclatur: 1
+ design - principl: 1
+ empir - evid: 1
+ engin - design: 1
+ engin - develop: 1
+ evid - programm: 1
+ experienc - web: 1
+ formal - defini: 1
+ formal - languag: 1
+ gener - power: 1
+ gener - task: 1
+ grammar - class: 1
+ interest - result: 1
+ languag - theori: 1
+ leverag - interest: 1
+ modelview - separ: 2
+ nontrivi - gener: 1
+ potent - templat: 1
+ restrict - templat: 1
+ separ - busi: 1
+ separ - principl: 1
+ separ - templat: 1
+ strict - modelview: 1
+ strict - separ: 1
+ stringtempl - engin: 1
+ templat - analog: 1
+ templat - engin: 6
+ templat - gener: 1
+ theoret - argum: 1
+ web - applic: 1
+ worthi - design: 1
+
+PageRank scores count: 42
+ 3: 0.01239718495610779
+ analog: 0.016937494138819946
+ applic: 0.03189175829958729
+ argum: 0.022934792168799414
+ busi: 0.021657107294260552
+ class: 0.03189175829958729
+ clear: 0.01239718495610779
+ commerci: 0.01239718495610779
+ common: 0.01239718495610779
+ defini: 0.028203595775145224
+ design: 0.04425986725645516
+ develop: 0.060830254598412736
+ empir: 0.01239718495610779
+ engin: 0.05017664726507234
+ evid: 0.022934792168799414
+ experienc: 0.01239718495610779
+ formal: 0.01239718495610779
+ gener: 0.02747510135151156
+ grammar: 0.022934792168799414
+ interest: 0.022934792168799414
+ languag: 0.0176659885624536
+ leverag: 0.01239718495610779
+ logic: 0.03080572615622926
+ modelview: 0.0176659885624536
+ nomenclatur: 0.022934792168799414
+ nontrivi: 0.01239718495610779
+ potent: 0.01239718495610779
+ power: 0.024074103030500206
+ principl: 0.059277994462247435
+ programm: 0.03189175829958729
+ restrict: 0.01239718495610779
+ result: 0.03189175829958729
+ separ: 0.03268207884053916
+ site: 0.022934792168799414
+ strict: 0.01239718495610779
+ stringtempl: 0.01239718495610779
+ task: 0.024074103030500206
+ templat: 0.04273232171964381
+ theoret: 0.01239718495610779
+ theori: 0.027413275234193353
+ web: 0.022934792168799414
+ worthi: 0.01239718495610779
+
+N-grams list: 10
+ templat engin develop
+ worthi design principl
+ potent templat engin
+ engin design
+ templat gener power
+ modelview separ templat
+ templat engin
+ separ principl
+ separ busi logic
+ restrict templat analog
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

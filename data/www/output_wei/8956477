@@ -1,0 +1,66 @@
+File name: 8956477
+
+Graph edges count: 18
+ comput - linguist: 1
+ consum - product: 2
+ crawl - wrap: 1
+ data - mine: 1
+ interact - analysi: 1
+ largescal - web: 1
+ linguist - onlin: 1
+ market - intellig: 2
+ messag - board: 1
+ onlin - discus: 3
+ onlin - messag: 1
+ stateoftheart - techniqu: 1
+ text - classif: 1
+ text - data: 1
+ volum - format: 1
+ wide - rang: 1
+ wide - varieti: 1
+ wrap - text: 1
+
+PageRank scores count: 27
+ analysi: 0.04087293684444288
+ board: 0.05113884464151828
+ classif: 0.04624855654496371
+ comput: 0.022093479375374533
+ consum: 0.022093479375374533
+ crawl: 0.022093479375374533
+ data: 0.04624855654496371
+ discus: 0.05832609512975828
+ format: 0.04087293684444288
+ intellig: 0.04087293684444288
+ interact: 0.022093479375374533
+ largescal: 0.022093479375374533
+ linguist: 0.04087293684444288
+ market: 0.022093479375374533
+ messag: 0.034171017960169116
+ mine: 0.06140475243859369
+ onlin: 0.05683547569315099
+ product: 0.04087293684444288
+ rang: 0.03148320810990871
+ stateoftheart: 0.022093479375374533
+ techniqu: 0.04087293684444288
+ text: 0.05683547569315099
+ varieti: 0.03148320810990871
+ volum: 0.022093479375374533
+ web: 0.04087293684444288
+ wide: 0.022093479375374533
+ wrap: 0.04087293684444288
+
+N-grams list: 10
+ text data mine
+ onlin messag board
+ comput linguist onlin
+ crawl wrap text
+ onlin discus
+ stateoftheart techniqu
+ largescal web
+ consum product
+ volum format
+ interact analysi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

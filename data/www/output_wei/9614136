@@ -1,0 +1,85 @@
+File name: 9614136
+
+Graph edges count: 25
+ commercialsearch - engin: 1
+ commerci - searchengin: 1
+ experiment - result: 1
+ googl - imag: 1
+ imagerank - problem: 1
+ imag - search: 1
+ iter - procedur: 1
+ largescal - commercialsearch: 1
+ link - structur: 1
+ numer - weight: 1
+ pagerank - comput: 1
+ popular - product: 1
+ product - imag: 1
+ product - queri: 1
+ rank - signal: 1
+ realworld - system: 1
+ recent - googl: 1
+ rel - import: 1
+ signific - improv: 1
+ similar - graph: 1
+ text - clue: 1
+ user - satisfac: 1
+ visual - link: 1
+ visual - signal: 1
+ visual - similar: 1
+
+PageRank scores count: 39
+ clue: 0.029669257937779414
+ commerci: 0.016037436723124007
+ commercialsearch: 0.029669257937779414
+ comput: 0.029669257937779414
+ engin: 0.04125630597023651
+ experiment: 0.016037436723124007
+ googl: 0.029669257937779414
+ graph: 0.03353160728193178
+ imag: 0.05386574059379276
+ imagerank: 0.016037436723124007
+ import: 0.029669257937779414
+ improv: 0.029669257937779414
+ iter: 0.016037436723124007
+ largescal: 0.016037436723124007
+ link: 0.020581377128009146
+ numer: 0.016037436723124007
+ pagerank: 0.016037436723124007
+ popular: 0.016037436723124007
+ problem: 0.029669257937779414
+ procedur: 0.029669257937779414
+ product: 0.029669257937779414
+ queri: 0.028646871346680258
+ rank: 0.016037436723124007
+ realworld: 0.016037436723124007
+ recent: 0.016037436723124007
+ rel: 0.016037436723124007
+ result: 0.029669257937779414
+ satisfac: 0.029669257937779414
+ search: 0.06182331622784785
+ searchengin: 0.029669257937779414
+ signal: 0.03421319834266456
+ signific: 0.016037436723124007
+ similar: 0.020581377128009146
+ structur: 0.03353160728193178
+ system: 0.029669257937779414
+ text: 0.016037436723124007
+ user: 0.016037436723124007
+ visual: 0.016037436723124007
+ weight: 0.029669257937779414
+
+N-grams list: 10
+ product imag search
+ recent googl imag
+ largescal commercialsearch engin
+ popular product queri
+ visual link structur
+ visual similar graph
+ imag
+ visual signal
+ rank signal
+ signific improv
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

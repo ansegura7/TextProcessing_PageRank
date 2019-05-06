@@ -1,0 +1,66 @@
+File name: 4602477
+
+Graph edges count: 17
+ client - transac: 1
+ ddo - attack: 2
+ denialofservic - attack: 1
+ effect - defens: 1
+ electron - commerc: 2
+ internet - servic: 1
+ larg - revenu: 1
+ network - servic: 1
+ privileg - class: 1
+ regular - co: 1
+ revenu - loss: 1
+ servic - provid: 1
+ success - client: 1
+ transactionbas - site: 1
+ univers - adop: 1
+ valuead - network: 1
+ vip - right: 1
+
+PageRank scores count: 28
+ adop: 0.0396343994451184
+ attack: 0.05784479919017281
+ class: 0.0396343994451184
+ client: 0.0396343994451184
+ co: 0.0396343994451184
+ commerc: 0.0396343994451184
+ ddo: 0.021423999700064002
+ defens: 0.0396343994451184
+ denialofservic: 0.021423999700064002
+ effect: 0.021423999700064002
+ electron: 0.021423999700064002
+ internet: 0.021423999700064002
+ larg: 0.021423999700064002
+ loss: 0.05511323922841465
+ network: 0.0396343994451184
+ privileg: 0.021423999700064002
+ provid: 0.0837490928275127
+ regular: 0.021423999700064002
+ revenu: 0.0396343994451184
+ right: 0.0396343994451184
+ servic: 0.07332363897346905
+ site: 0.0396343994451184
+ success: 0.021423999700064002
+ transac: 0.05511323922841465
+ transactionbas: 0.021423999700064002
+ univers: 0.021423999700064002
+ valuead: 0.021423999700064002
+ vip: 0.021423999700064002
+
+N-grams list: 10
+ internet servic provid
+ valuead network servic
+ larg revenu loss
+ success client transac
+ denialofservic attack
+ ddo attack
+ servic
+ regular co
+ privileg class
+ vip right
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,58 @@
+File name: 59554
+
+Graph edges count: 16
+ adapt - educ: 2
+ adapt - hypermedia: 1
+ author - applic: 1
+ classic - educ: 1
+ classic - learn: 1
+ educ - hypermedia: 2
+ educ - space: 1
+ explicit - choic: 1
+ hypermedia - applic: 1
+ instruc - strategi: 3
+ learn - style: 4
+ main - object: 1
+ modern - field: 1
+ signific - interfac: 1
+ solution - learn: 1
+ specif - learn: 1
+
+PageRank scores count: 21
+ adapt: 0.028083330261719087
+ applic: 0.10473853541922268
+ author: 0.028083330261719087
+ choic: 0.05195416098418031
+ classic: 0.028083330261719087
+ educ: 0.05195416098418031
+ explicit: 0.028083330261719087
+ field: 0.05195416098418031
+ hypermedia: 0.06209926404122632
+ instruc: 0.028083330261719087
+ interfac: 0.05195416098418031
+ learn: 0.08776040706787215
+ main: 0.028083330261719087
+ modern: 0.028083330261719087
+ object: 0.05195416098418031
+ signific: 0.028083330261719087
+ solution: 0.028083330261719087
+ space: 0.05016384867999572
+ specif: 0.028083330261719087
+ strategi: 0.05195416098418031
+ style: 0.10267967626941042
+
+N-grams list: 10
+ specif learn style
+ solution learn style
+ classic learn style
+ learn style
+ adapt educ hypermedia
+ author applic
+ applic
+ style
+ educ space
+ adapt hypermedia
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

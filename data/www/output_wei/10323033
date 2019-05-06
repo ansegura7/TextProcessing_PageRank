@@ -1,0 +1,52 @@
+File name: 10323033
+
+Graph edges count: 13
+ approximationbas - algorithm: 1
+ automat - abstrac: 1
+ automat - construc: 1
+ automat - web: 1
+ behavior - descrip: 1
+ coordin - web: 1
+ effici - approximationbas: 1
+ goal - state: 1
+ realist - model: 1
+ servic - composi: 2
+ servic - descrip: 1
+ web - servic: 5
+ wsc - problem: 1
+
+PageRank scores count: 18
+ abstrac: 0.04317038847743086
+ algorithm: 0.0865370059933955
+ approximationbas: 0.062232637934997725
+ automat: 0.033639263748647424
+ behavior: 0.033639263748647424
+ composi: 0.08726772555593557
+ construc: 0.04317038847743086
+ coordin: 0.033639263748647424
+ descrip: 0.08904686883864181
+ effici: 0.033639263748647424
+ goal: 0.033639263748647424
+ model: 0.062232637934997725
+ problem: 0.062232637934997725
+ realist: 0.033639263748647424
+ servic: 0.09463846201286141
+ state: 0.062232637934997725
+ web: 0.07176376266378116
+ wsc: 0.033639263748647424
+
+N-grams list: 10
+ web servic descrip
+ web servic composi
+ automat web servic
+ coordin web servic
+ effici approximationbas algorithm
+ web servic
+ behavior descrip
+ goal state
+ wsc problem
+ realist model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

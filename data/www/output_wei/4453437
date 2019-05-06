@@ -1,0 +1,43 @@
+File name: 4453437
+
+Graph edges count: 9
+ entri - point: 1
+ minimum - effort: 1
+ navig - pattern: 1
+ pattern - sequenc: 1
+ sampl - page: 2
+ structuredriven - crawler: 3
+ structuredriven - web: 1
+ web - crawler: 1
+ web - site: 1
+
+PageRank scores count: 13
+ crawler: 0.10843695891704705
+ effort: 0.09318432236738547
+ entri: 0.05036990398237053
+ minimum: 0.05036990398237053
+ navig: 0.05036990398237053
+ page: 0.09318432236738547
+ pattern: 0.09318432236738547
+ point: 0.09318432236738547
+ sampl: 0.05036990398237053
+ sequenc: 0.1295765779946482
+ site: 0.07632614512828584
+ structuredriven: 0.05036990398237053
+ web: 0.061073508578624265
+
+N-grams list: 10
+ navig pattern sequenc
+ structuredriven web crawler
+ structuredriven crawler
+ entri point
+ minimum effort
+ sampl page
+ web site
+ crawler
+ page
+ pattern
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

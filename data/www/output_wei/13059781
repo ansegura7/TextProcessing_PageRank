@@ -1,0 +1,87 @@
+File name: 13059781
+
+Graph edges count: 30
+ cluster - visual: 1
+ data - set: 1
+ docum - cluster: 1
+ docum - map: 1
+ domain - content: 1
+ highdimension - data: 2
+ huge - scale: 1
+ hyperlink - data: 1
+ hyperlink - docum: 1
+ larg - number: 1
+ larg - scale: 1
+ larg - varieti: 1
+ major - advantag: 1
+ map - algorithm: 1
+ migrat - web: 1
+ neuron - migrat: 2
+ organ - map: 1
+ real - data: 1
+ reason - number: 1
+ recent - discoveri: 1
+ research - effort: 1
+ research - topic: 1
+ scale - real: 1
+ som - algorithm: 1
+ som - scalabl: 1
+ spars - highdimension: 2
+ technic - difficulti: 1
+ technic - issu: 1
+ visual - function: 1
+ web - docum: 2
+
+PageRank scores count: 36
+ advantag: 0.02571227343695817
+ algorithm: 0.05979423282586662
+ cluster: 0.0352319386467317
+ content: 0.02571227343695817
+ data: 0.07489684117451967
+ difficulti: 0.01980539980954886
+ discoveri: 0.02571227343695817
+ docum: 0.05019626462256976
+ domain: 0.013898526182139551
+ effort: 0.01980539980954886
+ function: 0.05116734910922182
+ highdimension: 0.02571227343695817
+ huge: 0.013898526182139551
+ hyperlink: 0.013898526182139551
+ issu: 0.01980539980954886
+ larg: 0.013898526182139551
+ major: 0.013898526182139551
+ map: 0.04704568590155031
+ migrat: 0.02571227343695817
+ neuron: 0.013898526182139551
+ number: 0.029650189188564376
+ organ: 0.013898526182139551
+ real: 0.03910118699241927
+ reason: 0.013898526182139551
+ recent: 0.013898526182139551
+ research: 0.013898526182139551
+ scalabl: 0.01980539980954886
+ scale: 0.029650189188564376
+ set: 0.07756084118048127
+ som: 0.013898526182139551
+ spars: 0.013898526182139551
+ technic: 0.013898526182139551
+ topic: 0.01980539980954886
+ varieti: 0.01783644193374576
+ visual: 0.043845674031861494
+ web: 0.035753958603554
+
+N-grams list: 10
+ docum map algorithm
+ data set
+ cluster visual function
+ spars highdimension data
+ hyperlink data
+ web docum
+ docum cluster
+ huge scale real
+ neuron migrat web
+ data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

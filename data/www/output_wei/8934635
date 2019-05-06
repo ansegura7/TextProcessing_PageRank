@@ -1,0 +1,48 @@
+File name: 8934635
+
+Graph edges count: 13
+ futur - web: 1
+ larg - fraction: 1
+ peopl - search: 1
+ previou - work: 1
+ search - behavior: 1
+ search - engin: 2
+ search - goal: 1
+ search - previou: 1
+ socal - navig: 1
+ user - goal: 1
+ user - search: 2
+ user - web: 1
+ web - search: 5
+
+PageRank scores count: 14
+ behavior: 0.06777323264667781
+ engin: 0.09531973992667801
+ fraction: 0.07441944192835358
+ futur: 0.04022672536667761
+ goal: 0.07632141178709681
+ larg: 0.04022672536667761
+ navig: 0.07441944192835358
+ peopl: 0.04022672536667761
+ previou: 0.06777323264667781
+ search: 0.16203827811764826
+ socal: 0.04022672536667761
+ user: 0.04022672536667761
+ web: 0.08296762106877258
+ work: 0.09783397311635374
+
+N-grams list: 10
+ web search engin
+ web search previou
+ futur web search
+ user web search
+ user search goal
+ web search
+ user search
+ peopl search
+ search
+ user goal
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

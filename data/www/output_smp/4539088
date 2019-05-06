@@ -1,0 +1,83 @@
+File name: 4539088
+
+Graph edges count: 28
+ applic - demand: 2
+ applic - placem: 2
+ applic - start: 2
+ approxim - algorithm: 1
+ commerci - middlewar: 2
+ data - center: 2
+ dynam - resourc: 1
+ enterpr - data: 2
+ hard - placem: 1
+ hard - problem: 1
+ highqual - solution: 1
+ largescal - enterpr: 1
+ middlewar - product: 2
+ multipl - applic: 1
+ np - hard: 1
+ onlin - applic: 1
+ placem - control: 2
+ placem - problem: 1
+ placem - solution: 2
+ real - usag: 1
+ resourc - constraint: 1
+ satisfi - applic: 1
+ scalabl - applic: 1
+ singl - machin: 1
+ stateoftheart - algorithm: 1
+ system - resourc: 1
+ total - satisfi: 1
+ web - applic: 2
+
+PageRank scores count: 34
+ algorithm: 0.04118682767707784
+ applic: 0.09110678825975832
+ approxim: 0.015254380621139943
+ center: 0.04860999064684006
+ commerci: 0.015254380621139943
+ constraint: 0.0502631841466561
+ control: 0.030288536715382057
+ data: 0.0392418941478825
+ demand: 0.041067970628071465
+ dynam: 0.015254380621139943
+ enterpr: 0.02822060414910889
+ hard: 0.02822060414910889
+ highqual: 0.015254380621139943
+ largescal: 0.015254380621139943
+ machin: 0.02822060414910889
+ middlewar: 0.02822060414910889
+ multipl: 0.015254380621139943
+ np: 0.015254380621139943
+ onlin: 0.015254380621139943
+ placem: 0.05306172739144275
+ problem: 0.042282293478753334
+ product: 0.0392418941478825
+ real: 0.015254380621139943
+ resourc: 0.04118682767707784
+ satisfi: 0.02822060414910889
+ scalabl: 0.015254380621139943
+ singl: 0.015254380621139943
+ solution: 0.043254760243351
+ start: 0.041067970628071465
+ stateoftheart: 0.015254380621139943
+ system: 0.015254380621139943
+ total: 0.015254380621139943
+ usag: 0.02822060414910889
+ web: 0.015254380621139943
+
+N-grams list: 10
+ scalabl applic placem
+ onlin applic placem
+ total satisfi applic
+ applic demand
+ applic start
+ hard placem problem
+ enterpr data center
+ web applic
+ multipl applic
+ placem solution
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

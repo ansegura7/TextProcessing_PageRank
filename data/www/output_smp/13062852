@@ -1,0 +1,32 @@
+File name: 13062852
+
+Graph edges count: 5
+ audienc - reaction: 2
+ encourag - result: 1
+ event - descrip: 1
+ main - actor: 1
+ nlp - techniqu: 1
+
+PageRank scores count: 10
+ actor: 0.1298245614035088
+ audienc: 0.07017543859649124
+ descrip: 0.1298245614035088
+ encourag: 0.07017543859649124
+ event: 0.07017543859649124
+ main: 0.07017543859649124
+ nlp: 0.07017543859649124
+ reaction: 0.1298245614035088
+ result: 0.1298245614035088
+ techniqu: 0.1298245614035088
+
+N-grams list: 6
+ event descrip
+ main actor
+ nlp techniqu
+ audienc reaction
+ encourag result
+ event
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

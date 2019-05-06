@@ -1,0 +1,68 @@
+File name: 13538488
+
+Graph edges count: 20
+ ebai - item: 1
+ ecommerc - site: 1
+ featur - relev: 1
+ filter - item: 1
+ great - rare: 1
+ great - rariti: 1
+ huge - inventori: 1
+ item - detec: 1
+ item - list: 1
+ item - rare: 1
+ larg - set: 1
+ long - tail: 1
+ measur - item: 1
+ onlin - list: 1
+ onlin - marketplac: 1
+ raptur - buyer: 1
+ rare - item: 4
+ rariti - demand: 1
+ raritydemandintensit - domain: 1
+ world - ebai: 1
+
+PageRank scores count: 27
+ buyer: 0.03769778133457628
+ demand: 0.045059037284368546
+ detec: 0.062081620369569004
+ domain: 0.03769778133457628
+ ebai: 0.03769778133457628
+ ecommerc: 0.020377179099770965
+ featur: 0.020377179099770965
+ filter: 0.020377179099770965
+ great: 0.020377179099770965
+ huge: 0.020377179099770965
+ inventori: 0.03769778133457628
+ item: 0.1471921390639102
+ larg: 0.020377179099770965
+ list: 0.07074192148697166
+ long: 0.020377179099770965
+ marketplac: 0.029037480217173627
+ measur: 0.020377179099770965
+ onlin: 0.020377179099770965
+ raptur: 0.020377179099770965
+ rare: 0.07074192148697166
+ rariti: 0.029037480217173627
+ raritydemandintensit: 0.020377179099770965
+ relev: 0.03769778133457628
+ set: 0.03769778133457628
+ site: 0.03769778133457628
+ tail: 0.03769778133457628
+ world: 0.020377179099770965
+
+N-grams list: 10
+ rare item detec
+ ebai item list
+ great rare item
+ measur item rare
+ rare item
+ filter item
+ item
+ great rariti demand
+ onlin list
+ world ebai
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

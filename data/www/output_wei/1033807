@@ -1,0 +1,77 @@
+File name: 1033807
+
+Graph edges count: 26
+ access - control: 3
+ autom - test: 1
+ choos - coverag: 1
+ choos - mutat: 1
+ control - polici: 3
+ coverag - criteria: 2
+ equivalentmut - detec: 1
+ experiment - result: 1
+ faultdetec - effect: 1
+ fault - model: 4
+ gener - equivalentmut: 1
+ manual - test: 1
+ model - mutant: 1
+ mutantkil - determin: 1
+ mutant - gener: 1
+ mutat - oper: 2
+ mutat - test: 2
+ polici - develop: 1
+ polici - polici: 1
+ polici - test: 1
+ structur - coverag: 1
+ test - gener: 2
+ test - input: 1
+ test - output: 1
+ typic - test: 1
+ valuabl - insight: 1
+
+PageRank scores count: 30
+ access: 0.015481694696665146
+ autom: 0.015481694696665146
+ choos: 0.015481694696665146
+ control: 0.02864113518883052
+ coverag: 0.03522085543491321
+ criteria: 0.04541942181634137
+ detec: 0.08887524713243494
+ determin: 0.02864113518883052
+ develop: 0.03122711840919679
+ effect: 0.02864113518883052
+ equivalentmut: 0.08634535413465358
+ experiment: 0.015481694696665146
+ fault: 0.015481694696665146
+ faultdetec: 0.015481694696665146
+ gener: 0.08336901054613768
+ input: 0.032499022288353704
+ insight: 0.02864113518883052
+ manual: 0.015481694696665146
+ model: 0.02864113518883052
+ mutant: 0.03982665960717109
+ mutantkil: 0.015481694696665146
+ mutat: 0.022061414942747833
+ oper: 0.024857796047332972
+ output: 0.032499022288353704
+ polici: 0.05557208331970273
+ result: 0.02864113518883052
+ structur: 0.015481694696665146
+ test: 0.08008154123636073
+ typic: 0.015481694696665146
+ valuabl: 0.015481694696665146
+
+N-grams list: 10
+ gener equivalentmut detec
+ test gener
+ polici polici develop
+ polici test
+ typic test input
+ test output
+ mutat test
+ access control polici
+ choos coverag criteria
+ manual test
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

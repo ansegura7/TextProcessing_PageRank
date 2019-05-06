@@ -1,0 +1,82 @@
+File name: 11619605
+
+Graph edges count: 27
+ access - control: 1
+ alhambra - browser: 1
+ browserbas - system: 1
+ browser - secur: 2
+ comparison - metric: 1
+ compat - alhambra: 1
+ compat - cost: 1
+ control - rule: 1
+ crosssit - script: 2
+ finegrain - secur: 1
+ ident - page: 2
+ malici - content: 1
+ minim - compat: 1
+ multipl - secur: 1
+ page - content: 1
+ polici - alhambra: 1
+ policyenhanc - browser: 1
+ quantit - evalu: 1
+ script - attack: 1
+ secur - polici: 10
+ serversid - modif: 1
+ strong - secur: 1
+ tainttrack - engin: 2
+ test - browser: 1
+ web - applic: 2
+ web - browser: 1
+ web - page: 2
+
+PageRank scores count: 34
+ access: 0.009403113841148501
+ alhambra: 0.13698950432811366
+ applic: 0.01260017254713899
+ attack: 0.024189510356354516
+ browser: 0.14342800169376432
+ browserbas: 0.009403113841148501
+ comparison: 0.009403113841148501
+ compat: 0.017395760606124726
+ content: 0.03489965702142266
+ control: 0.017395760606124726
+ cost: 0.016796312098751508
+ crosssit: 0.009403113841148501
+ engin: 0.017395760606124726
+ evalu: 0.017395760606124726
+ finegrain: 0.009403113841148501
+ ident: 0.009403113841148501
+ malici: 0.009403113841148501
+ metric: 0.017395760606124726
+ minim: 0.009403113841148501
+ modif: 0.017395760606124726
+ multipl: 0.009403113841148501
+ page: 0.020592819312115217
+ polici: 0.14140375040283415
+ policyenhanc: 0.009403113841148501
+ quantit: 0.009403113841148501
+ rule: 0.024189510356354516
+ script: 0.017395760606124726
+ secur: 0.15529485557577682
+ serversid: 0.009403113841148501
+ strong: 0.009403113841148501
+ system: 0.017395760606124726
+ tainttrack: 0.009403113841148501
+ test: 0.009403113841148501
+ web: 0.009403113841148501
+
+N-grams list: 10
+ web browser secur
+ test browser secur
+ finegrain secur polici
+ strong secur polici
+ multipl secur polici
+ secur polici
+ alhambra browser
+ polici alhambra
+ compat alhambra
+ policyenhanc browser
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,47 @@
+File name: 8954741
+
+Graph edges count: 10
+ algorithm - backrank: 1
+ back - button: 3
+ pagerank - algorithm: 1
+ previou - work: 1
+ random - surfer: 1
+ realist - model: 1
+ special - case: 1
+ standard - pagerank: 2
+ surfer - model: 1
+ uniqu - page: 1
+
+PageRank scores count: 16
+ algorithm: 0.09429423650534015
+ back: 0.03665470806815944
+ backrank: 0.11680480909769857
+ button: 0.06781120992609496
+ case: 0.06781120992609496
+ model: 0.12545073836327567
+ page: 0.06781120992609496
+ pagerank: 0.06781120992609496
+ previou: 0.03665470806815944
+ random: 0.03665470806815944
+ realist: 0.03665470806815944
+ special: 0.03665470806815944
+ standard: 0.03665470806815944
+ surfer: 0.06781120992609496
+ uniqu: 0.03665470806815944
+ work: 0.06781120992609496
+
+N-grams list: 10
+ random surfer model
+ algorithm backrank
+ realist model
+ pagerank algorithm
+ backrank
+ previou work
+ back button
+ special case
+ standard pagerank
+ uniqu page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,70 @@
+File name: 13060588
+
+Graph edges count: 19
+ activ - onlin: 1
+ comparison - shop: 1
+ deepwebscal - integr: 1
+ deep - web: 3
+ demonstr - scenario: 1
+ effect - sourc: 1
+ googl - product: 1
+ integr - system: 1
+ multipl - domain: 1
+ onlin - databas: 1
+ open - collec: 1
+ popular - awar: 1
+ selec - method: 1
+ signific - step: 1
+ sourcerank - factal: 1
+ sourc - selec: 2
+ trustworthi - relev: 1
+ trustworthi - sourc: 1
+ web - sourc: 1
+
+PageRank scores count: 30
+ activ: 0.01898697149616505
+ awar: 0.03512589726790533
+ collec: 0.03512589726790533
+ comparison: 0.01898697149616505
+ databas: 0.04884398417388458
+ deep: 0.01898697149616505
+ deepwebscal: 0.01898697149616505
+ demonstr: 0.01898697149616505
+ domain: 0.03512589726790533
+ effect: 0.01898697149616505
+ factal: 0.03512589726790533
+ googl: 0.01898697149616505
+ integr: 0.03512589726790533
+ method: 0.08790623663866048
+ multipl: 0.01898697149616505
+ onlin: 0.03512589726790533
+ open: 0.01898697149616505
+ popular: 0.01898697149616505
+ product: 0.03512589726790533
+ relev: 0.027056434382035192
+ scenario: 0.03512589726790533
+ selec: 0.0810814884029358
+ shop: 0.03512589726790533
+ signific: 0.01898697149616505
+ sourc: 0.073052372831495
+ sourcerank: 0.01898697149616505
+ step: 0.03512589726790533
+ system: 0.04884398417388458
+ trustworthi: 0.01898697149616505
+ web: 0.03512589726790533
+
+N-grams list: 10
+ sourc selec method
+ effect sourc selec
+ deep web sourc
+ deepwebscal integr system
+ activ onlin databas
+ trustworthi sourc
+ sourc
+ sourcerank factal
+ open collec
+ deep web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

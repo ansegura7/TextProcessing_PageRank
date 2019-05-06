@@ -1,0 +1,92 @@
+File name: 13534613
+
+Graph edges count: 32
+ analyt - method: 1
+ call - data: 1
+ call - log: 1
+ common - featur: 1
+ experiment - studi: 2
+ human - behavior: 1
+ import - properti: 1
+ interest - find: 1
+ largescal - mobil: 1
+ largescal - real: 2
+ law - distribu: 1
+ main - contribu: 1
+ method - import: 1
+ middleag - peopl: 1
+ mobil - call: 1
+ mobil - phone: 3
+ mobil - social: 4
+ network - mobil: 1
+ paper - focu: 1
+ phone - call: 1
+ phone - carrier: 1
+ power - law: 1
+ real - mobil: 2
+ scalefre - network: 1
+ similar - interest: 1
+ smallworld - phenomenon: 1
+ small - diamet: 1
+ social - network: 7
+ tradition - analyt: 1
+ tradition - social: 1
+ typic - scalefre: 1
+ typic - social: 1
+
+PageRank scores count: 39
+ analyt: 0.016782054198132113
+ behavior: 0.021787228257224144
+ call: 0.040737464215879086
+ carrier: 0.03020761341570867
+ common: 0.011776880139040078
+ contribu: 0.021787228257224144
+ data: 0.029090303628176897
+ diamet: 0.021787228257224144
+ distribu: 0.0302960241576806
+ experiment: 0.011776880139040078
+ featur: 0.021787228257224144
+ find: 0.0302960241576806
+ focu: 0.021787228257224144
+ human: 0.011776880139040078
+ import: 0.033912262415374594
+ interest: 0.021787228257224144
+ largescal: 0.011776880139040078
+ law: 0.021787228257224144
+ log: 0.029090303628176897
+ main: 0.011776880139040078
+ method: 0.026041626207452373
+ middleag: 0.011776880139040078
+ mobil: 0.0991044711841518
+ network: 0.08036226147296373
+ paper: 0.011776880139040078
+ peopl: 0.021787228257224144
+ phenomenon: 0.021787228257224144
+ phone: 0.04336643253955132
+ power: 0.011776880139040078
+ properti: 0.04060230319210848
+ real: 0.01845044555116279
+ scalefre: 0.016782054198132113
+ similar: 0.011776880139040078
+ small: 0.011776880139040078
+ smallworld: 0.011776880139040078
+ social: 0.0639066314579058
+ studi: 0.021787228257224144
+ tradition: 0.011776880139040078
+ typic: 0.011776880139040078
+
+N-grams list: 10
+ network mobil social
+ mobil social network
+ largescal mobil social
+ mobil phone carrier
+ tradition social network
+ typic social network
+ social network
+ mobil phone
+ largescal real mobil
+ phone call log
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

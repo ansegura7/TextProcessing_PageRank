@@ -1,0 +1,59 @@
+File name: 13062406
+
+Graph edges count: 13
+ affili - network: 1
+ coauthorship - graph: 1
+ dblp - data: 1
+ interest - space: 1
+ natur - local: 1
+ power - cue: 1
+ probabl - propor: 1
+ recent - model: 1
+ shed - light: 1
+ short - path: 1
+ social - network: 5
+ sociologist - milgram: 1
+ theoret - result: 1
+
+PageRank scores count: 25
+ affili: 0.02773925104022191
+ coauthorship: 0.02773925104022191
+ cue: 0.05131761442441053
+ data: 0.05131761442441053
+ dblp: 0.02773925104022191
+ graph: 0.05131761442441053
+ interest: 0.02773925104022191
+ light: 0.05131761442441053
+ local: 0.05131761442441053
+ milgram: 0.05131761442441053
+ model: 0.05131761442441053
+ natur: 0.02773925104022191
+ network: 0.07489597780859915
+ path: 0.05131761442441053
+ power: 0.02773925104022191
+ probabl: 0.02773925104022191
+ propor: 0.05131761442441053
+ recent: 0.02773925104022191
+ result: 0.05131761442441053
+ shed: 0.02773925104022191
+ short: 0.02773925104022191
+ social: 0.02773925104022191
+ sociologist: 0.02773925104022191
+ space: 0.05131761442441053
+ theoret: 0.02773925104022191
+
+N-grams list: 10
+ social network
+ affili network
+ interest space
+ coauthorship graph
+ shed light
+ theoret result
+ natur local
+ power cue
+ probabl propor
+ dblp data
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

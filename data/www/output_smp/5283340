@@ -1,0 +1,40 @@
+File name: 5283340
+
+Graph edges count: 8
+ adapt - framework: 1
+ cach - coher: 1
+ coher - requir: 1
+ data - coher: 2
+ dynam - data: 1
+ peertop - environ: 1
+ requir - peer: 1
+ simul - result: 1
+
+PageRank scores count: 12
+ adapt: 0.041572468217198476
+ cach: 0.041572468217198476
+ coher: 0.1422817724733618
+ data: 0.07690906620181717
+ dynam: 0.041572468217198476
+ environ: 0.07690906620181717
+ framework: 0.07690906620181717
+ peer: 0.17970764681382104
+ peertop: 0.041572468217198476
+ requir: 0.16251197481955598
+ result: 0.07690906620181717
+ simul: 0.041572468217198476
+
+N-grams list: 9
+ data coher requir
+ dynam data coher
+ cach coher
+ peer
+ adapt framework
+ peertop environ
+ simul result
+ data
+ framework
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

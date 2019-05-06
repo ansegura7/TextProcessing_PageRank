@@ -1,0 +1,57 @@
+File name: 8952239
+
+Graph edges count: 15
+ design - method: 1
+ design - purpos: 1
+ divers - user: 1
+ effect - design: 1
+ hierarch - cluster: 1
+ major - factor: 1
+ multipl - design: 1
+ navig - depth: 1
+ navig - design: 1
+ navig - effort: 1
+ navig - entropi: 1
+ nest - hierarch: 1
+ servic - compon: 1
+ theoret - navig: 1
+ web - applic: 2
+
+PageRank scores count: 21
+ applic: 0.05510190594886505
+ cluster: 0.07662143408294883
+ compon: 0.05510190594886505
+ depth: 0.04149396904054736
+ design: 0.09212815288545037
+ divers: 0.029784814026413538
+ effect: 0.029784814026413538
+ effort: 0.04149396904054736
+ entropi: 0.04149396904054736
+ factor: 0.05510190594886505
+ hierarch: 0.05510190594886505
+ major: 0.029784814026413538
+ method: 0.06893927900272996
+ multipl: 0.029784814026413538
+ navig: 0.05510190594886505
+ nest: 0.029784814026413538
+ purpos: 0.06893927900272996
+ servic: 0.029784814026413538
+ theoret: 0.029784814026413538
+ user: 0.05510190594886505
+ web: 0.029784814026413538
+
+N-grams list: 10
+ navig design method
+ multipl design purpos
+ nest hierarch cluster
+ theoret navig depth
+ effect design
+ navig effort
+ navig entropi
+ design
+ servic compon
+ major factor
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

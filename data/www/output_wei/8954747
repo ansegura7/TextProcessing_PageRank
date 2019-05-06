@@ -1,0 +1,54 @@
+File name: 8954747
+
+Graph edges count: 14
+ adapt - page: 1
+ adapt - rank: 1
+ earli - experiment: 1
+ experiment - result: 1
+ gener - capabl: 1
+ gener - type: 1
+ graph - structur: 1
+ network - model: 2
+ network - recent: 1
+ neural - network: 5
+ page - rank: 1
+ recent - develop: 1
+ small - number: 1
+ web - graph: 1
+
+PageRank scores count: 19
+ adapt: 0.03192410575924169
+ capabl: 0.04549185070691941
+ develop: 0.0732831149414126
+ earli: 0.03192410575924169
+ experiment: 0.05905959565459714
+ gener: 0.03192410575924169
+ graph: 0.05905959565459714
+ model: 0.0653912099635134
+ network: 0.05905959565459714
+ neural: 0.03192410575924169
+ number: 0.05905959565459714
+ page: 0.04549185070691941
+ rank: 0.08415992380780091
+ recent: 0.048657657861377546
+ result: 0.08212476206564927
+ small: 0.03192410575924169
+ structur: 0.08212476206564927
+ type: 0.04549185070691941
+ web: 0.03192410575924169
+
+N-grams list: 10
+ earli experiment result
+ adapt page rank
+ neural network model
+ graph structur
+ neural network recent
+ adapt rank
+ web graph
+ small number
+ neural network
+ gener type
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,51 @@
+File name: 8939962
+
+Graph edges count: 11
+ acclaim - elearn: 1
+ content - aggreg: 2
+ elearn - platform: 2
+ elearn - standard: 1
+ extens - support: 1
+ knowledg - dissemin: 1
+ learn - object: 1
+ model - scope: 1
+ origin - elearn: 1
+ relat - entiti: 1
+ scorm - todai: 1
+
+PageRank scores count: 19
+ acclaim: 0.03454828122300916
+ aggreg: 0.06391432026256695
+ content: 0.03454828122300916
+ dissemin: 0.06391432026256695
+ elearn: 0.09328035930212474
+ entiti: 0.06391432026256695
+ extens: 0.03454828122300916
+ knowledg: 0.03454828122300916
+ learn: 0.03454828122300916
+ model: 0.03454828122300916
+ object: 0.06391432026256695
+ origin: 0.03454828122300916
+ platform: 0.07419243392641219
+ relat: 0.03454828122300916
+ scope: 0.06391432026256695
+ scorm: 0.03454828122300916
+ standard: 0.07419243392641219
+ support: 0.06391432026256695
+ todai: 0.06391432026256695
+
+N-grams list: 10
+ origin elearn platform
+ acclaim elearn standard
+ elearn platform
+ content aggreg
+ extens support
+ learn object
+ relat entiti
+ knowledg dissemin
+ scorm todai
+ model scope
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

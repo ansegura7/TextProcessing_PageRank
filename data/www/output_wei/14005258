@@ -1,0 +1,90 @@
+File name: 14005258
+
+Graph edges count: 27
+ case - peopl: 1
+ characterist - wai: 1
+ content - featur: 1
+ earli - phase: 1
+ effici - learn: 1
+ essenti - part: 1
+ everydai - live: 1
+ exact - goal: 1
+ goaldirect - human: 1
+ highdegre - hub: 1
+ human - search: 1
+ human - wayfind: 4
+ human - webbrows: 1
+ inform - network: 1
+ inform - space: 2
+ inform - system: 1
+ largescal - studi: 1
+ learn - algorithm: 1
+ predict - model: 1
+ search - path: 1
+ short - path: 1
+ simpl - solution: 1
+ strategi - peopl: 1
+ target - concept: 1
+ userfriendli - inform: 1
+ webbrows - behavior: 1
+ wikipedia - peopl: 1
+
+PageRank scores count: 42
+ algorithm: 0.04009317409490018
+ behavior: 0.032304747086361385
+ case: 0.015585296052439331
+ characterist: 0.015585296052439331
+ concept: 0.028832797697012764
+ content: 0.015585296052439331
+ earli: 0.015585296052439331
+ effici: 0.015585296052439331
+ essenti: 0.015585296052439331
+ everydai: 0.015585296052439331
+ exact: 0.015585296052439331
+ featur: 0.028832797697012764
+ goal: 0.028832797697012764
+ goaldirect: 0.015585296052439331
+ highdegre: 0.015585296052439331
+ hub: 0.028832797697012764
+ human: 0.028832797697012764
+ inform: 0.028832797697012764
+ largescal: 0.015585296052439331
+ learn: 0.028832797697012764
+ live: 0.028832797697012764
+ model: 0.028832797697012764
+ network: 0.021712265563054542
+ part: 0.028832797697012764
+ path: 0.04555224873093481
+ peopl: 0.055327800986159616
+ phase: 0.028832797697012764
+ predict: 0.015585296052439331
+ search: 0.01966994239284947
+ short: 0.015585296052439331
+ simpl: 0.015585296052439331
+ solution: 0.028832797697012764
+ space: 0.027839235073669758
+ strategi: 0.015585296052439331
+ studi: 0.028832797697012764
+ system: 0.021712265563054542
+ target: 0.015585296052439331
+ userfriendli: 0.015585296052439331
+ wai: 0.028832797697012764
+ wayfind: 0.0319238814140799
+ webbrows: 0.01966994239284947
+ wikipedia: 0.015585296052439331
+
+N-grams list: 10
+ effici learn algorithm
+ human webbrows behavior
+ wikipedia peopl
+ case peopl
+ strategi peopl
+ userfriendli inform system
+ goaldirect human search
+ short path
+ human wayfind
+ inform space
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

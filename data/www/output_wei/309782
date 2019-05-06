@@ -1,0 +1,76 @@
+File name: 309782
+
+Graph edges count: 26
+ complex - search: 1
+ current - method: 1
+ descrip - logic: 1
+ dl - queri: 1
+ formal - dl: 1
+ formal - queri: 2
+ fuzzi - descrip: 1
+ inform - retriev: 1
+ inform - share: 1
+ ir - model: 1
+ keywordbas - search: 1
+ larg - improv: 1
+ ontologybas - formal: 1
+ portal - semant: 1
+ queri - method: 1
+ search - capabl: 1
+ search - request: 1
+ search - servic: 1
+ semant - inform: 1
+ semant - portal: 4
+ semant - search: 1
+ semant - web: 1
+ simpl - combin: 1
+ techniqu - ontologybas: 1
+ web - portal: 1
+ web - technologi: 1
+
+PageRank scores count: 29
+ capabl: 0.03300214575064954
+ combin: 0.03204874488196578
+ complex: 0.01732364588214367
+ current: 0.01732364588214367
+ descrip: 0.03204874488196578
+ dl: 0.029950418274491138
+ formal: 0.044565079031814586
+ fuzzi: 0.01732364588214367
+ improv: 0.03204874488196578
+ inform: 0.02588568224314962
+ ir: 0.01732364588214367
+ keywordbas: 0.01732364588214367
+ larg: 0.01732364588214367
+ logic: 0.044565079031814586
+ method: 0.08987853415209844
+ model: 0.03204874488196578
+ ontologybas: 0.03204874488196578
+ portal: 0.06257320697907749
+ queri: 0.06803504620015606
+ request: 0.03300214575064954
+ retriev: 0.02832506153505368
+ search: 0.05533588024279386
+ semant: 0.07051087827736693
+ servic: 0.03300214575064954
+ share: 0.02832506153505368
+ simpl: 0.01732364588214367
+ techniqu: 0.01732364588214367
+ technologi: 0.02832506153505368
+ web: 0.02588568224314962
+
+N-grams list: 10
+ semant portal semant
+ semant search servic
+ formal dl queri
+ semant portal
+ semant web technologi
+ formal queri
+ current method
+ complex search request
+ semant inform
+ techniqu ontologybas formal
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

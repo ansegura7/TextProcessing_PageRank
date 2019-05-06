@@ -1,0 +1,64 @@
+File name: 458276
+
+Graph edges count: 17
+ algorithm - forqueri: 1
+ current - semant: 1
+ forqueri - process: 1
+ icsforth - rdf: 1
+ index - structur: 2
+ integr - queri: 1
+ jena - sesam: 1
+ kei - elem: 1
+ major - shortcom: 1
+ ofthes - system: 1
+ rdf - repositori: 3
+ rdf - suit: 1
+ semant - web: 2
+ sesam - system: 1
+ technic - infrastructur: 1
+ web - applic: 1
+ web - develop: 1
+
+PageRank scores count: 26
+ algorithm: 0.023268462798090816
+ applic: 0.04870816403102848
+ current: 0.023268462798090816
+ develop: 0.04870816403102848
+ elem: 0.04304665617646801
+ forqueri: 0.04304665617646801
+ icsforth: 0.023268462798090816
+ index: 0.023268462798090816
+ infrastructur: 0.04304665617646801
+ integr: 0.023268462798090816
+ jena: 0.023268462798090816
+ kei: 0.023268462798090816
+ major: 0.023268462798090816
+ ofthes: 0.023268462798090816
+ process: 0.059858120548088624
+ queri: 0.04304665617646801
+ rdf: 0.04304665617646801
+ repositori: 0.04156329167308972
+ semant: 0.04304665617646801
+ sesam: 0.04304665617646801
+ shortcom: 0.04304665617646801
+ structur: 0.04304665617646801
+ suit: 0.04156329167308972
+ system: 0.07963631392646582
+ technic: 0.023268462798090816
+ web: 0.059858120548088624
+
+N-grams list: 10
+ semant web applic
+ current semant web
+ algorithm forqueri process
+ sesam system
+ icsforth rdf suit
+ ofthes system
+ rdf repositori
+ system
+ jena sesam
+ kei elem
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

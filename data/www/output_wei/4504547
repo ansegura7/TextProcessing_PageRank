@@ -1,0 +1,72 @@
+File name: 4504547
+
+Graph edges count: 21
+ autom - emailbas: 1
+ basic - approach: 1
+ costeffect - mean: 1
+ effici - costeffect: 1
+ emailbas - password: 1
+ email - provid: 2
+ ident - provid: 1
+ intend - recipi: 1
+ manag - cost: 1
+ passiv - attack: 1
+ passwordbas - login: 1
+ password - reestablish: 1
+ simpl - authent: 2
+ singl - signon: 1
+ site - trust: 1
+ special - ident: 1
+ techniqu - email: 1
+ trust - email: 1
+ user - authent: 1
+ web - autom: 1
+ web - site: 2
+
+PageRank scores count: 30
+ approach: 0.03354829554824318
+ attack: 0.03354829554824318
+ authent: 0.048962377286625176
+ autom: 0.02327224105598851
+ basic: 0.018134213809861178
+ cost: 0.03354829554824318
+ costeffect: 0.03354829554824318
+ effici: 0.018134213809861178
+ email: 0.06948879613490389
+ emailbas: 0.03791561870745141
+ ident: 0.03354829554824318
+ intend: 0.018134213809861178
+ login: 0.03354829554824318
+ manag: 0.018134213809861178
+ mean: 0.04665026502586788
+ passiv: 0.018134213809861178
+ password: 0.05036248971119488
+ passwordbas: 0.018134213809861178
+ provid: 0.10571574174053618
+ recipi: 0.03354829554824318
+ reestablish: 0.060942330064376826
+ signon: 0.03354829554824318
+ simpl: 0.018134213809861178
+ singl: 0.018134213809861178
+ site: 0.028410268302115845
+ special: 0.018134213809861178
+ techniqu: 0.018134213809861178
+ trust: 0.042282941866659644
+ user: 0.018134213809861178
+ web: 0.018134213809861178
+
+N-grams list: 10
+ techniqu email provid
+ email provid
+ special ident provid
+ password reestablish
+ effici costeffect mean
+ web site trust
+ web autom emailbas
+ simpl authent
+ user authent
+ passiv attack
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

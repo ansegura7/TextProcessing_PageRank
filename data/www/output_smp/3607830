@@ -1,0 +1,98 @@
+File name: 3607830
+
+Graph edges count: 33
+ adhoc - person: 1
+ bookmark - content: 1
+ common - content: 1
+ conceptu - framework: 1
+ content - domain: 1
+ content - semant: 1
+ coupl - machin: 1
+ handheld - mobil: 1
+ headlin - new: 1
+ learningbas - approach: 1
+ learningbas - semant: 1
+ limiteddisplays - handheld: 1
+ limit - displai: 1
+ mobil - devic: 1
+ new - weather: 1
+ ontologybas - approach: 1
+ page - segment: 1
+ person - semant: 1
+ prototyp - implement: 1
+ report - etc: 1
+ robust - conceptu: 1
+ select - fragment: 1
+ semant - bookmark: 4
+ semant - concept: 1
+ similar - content: 1
+ specif - page: 1
+ spell - relief: 1
+ statist - model: 1
+ target - fragment: 1
+ userspecifi - page: 1
+ user - evalu: 1
+ weather - report: 1
+ web - page: 3
+
+PageRank scores count: 44
+ adhoc: 0.011300743734148444
+ approach: 0.025709191995187706
+ bookmark: 0.03686895442458346
+ common: 0.011300743734148444
+ concept: 0.03686895442458346
+ conceptu: 0.020906375908174617
+ content: 0.061850618246584145
+ coupl: 0.011300743734148444
+ devic: 0.03601123250183078
+ displai: 0.020906375908174617
+ domain: 0.03758726142325335
+ etc: 0.04191029136070461
+ evalu: 0.020906375908174617
+ fragment: 0.0305120080822008
+ framework: 0.02907116325609687
+ handheld: 0.020906375908174617
+ headlin: 0.011300743734148444
+ implement: 0.020906375908174617
+ learningbas: 0.011300743734148444
+ limit: 0.011300743734148444
+ limiteddisplays: 0.011300743734148444
+ machin: 0.020906375908174617
+ mobil: 0.02907116325609687
+ model: 0.020906375908174617
+ new: 0.020906375908174617
+ ontologybas: 0.011300743734148444
+ page: 0.04011764025622697
+ person: 0.020906375908174617
+ prototyp: 0.011300743734148444
+ relief: 0.020906375908174617
+ report: 0.03601123250183078
+ robust: 0.011300743734148444
+ segment: 0.04540073795194137
+ select: 0.011300743734148444
+ semant: 0.060160497032214856
+ similar: 0.011300743734148444
+ specif: 0.011300743734148444
+ spell: 0.011300743734148444
+ statist: 0.011300743734148444
+ target: 0.011300743734148444
+ user: 0.011300743734148444
+ userspecifi: 0.011300743734148444
+ weather: 0.02907116325609687
+ web: 0.011300743734148444
+
+N-grams list: 10
+ similar content semant
+ common content domain
+ learningbas semant bookmark
+ bookmark content
+ semant bookmark
+ web page segment
+ adhoc person semant
+ report etc
+ content
+ headlin new weather
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

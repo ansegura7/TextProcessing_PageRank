@@ -1,0 +1,72 @@
+File name: 1194809
+
+Graph edges count: 21
+ back - button: 1
+ back - navig: 1
+ common - navig: 1
+ detail - monitor: 1
+ home - set: 1
+ implement - decision: 1
+ kei - page: 2
+ monitor - usag: 1
+ navig - activ: 1
+ navig - session: 1
+ page - access: 1
+ page - associ: 1
+ present - result: 1
+ qualit - improv: 1
+ smartback - prototyp: 1
+ specif - user: 1
+ standard - back: 1
+ usabl - studi: 1
+ user - evalu: 1
+ user - studi: 1
+ web - usag: 1
+
+PageRank scores count: 30
+ access: 0.036655452851314545
+ activ: 0.04351263894891962
+ associ: 0.036655452851314545
+ back: 0.03796366005594508
+ button: 0.036655452851314545
+ common: 0.020520897327537882
+ decision: 0.03796366005594508
+ detail: 0.020520897327537882
+ evalu: 0.036655452851314545
+ home: 0.020520897327537882
+ implement: 0.020520897327537882
+ improv: 0.03796366005594508
+ kei: 0.020520897327537882
+ monitor: 0.03796366005594508
+ navig: 0.05409821557972174
+ page: 0.03796366005594508
+ present: 0.020520897327537882
+ prototyp: 0.03796366005594508
+ qualit: 0.020520897327537882
+ result: 0.03796366005594508
+ session: 0.04351263894891962
+ set: 0.03796366005594508
+ smartback: 0.020520897327537882
+ specif: 0.020520897327537882
+ standard: 0.020520897327537882
+ studi: 0.05409821557972174
+ usabl: 0.020520897327537882
+ usag: 0.0702327711034984
+ user: 0.03796366005594508
+ web: 0.020520897327537882
+
+N-grams list: 10
+ common navig activ
+ monitor usag
+ navig session
+ standard back button
+ user studi
+ back navig
+ web usag
+ user evalu
+ page access
+ page associ
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

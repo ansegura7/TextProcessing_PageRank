@@ -1,0 +1,73 @@
+File name: 13502389
+
+Graph edges count: 21
+ collabor - filter: 1
+ common - practic: 1
+ conven - sugges: 1
+ current - queri: 1
+ filter - algorithm: 1
+ log - data: 1
+ major - web: 1
+ navig - experi: 1
+ navig - user: 1
+ past - usag: 1
+ past - user: 1
+ queri - log: 1
+ real - queri: 1
+ search - shortcut: 1
+ simpl - trainandtest: 1
+ sugges - techniqu: 1
+ test - set: 1
+ trainandtest - approach: 1
+ user - behavior: 1
+ user - session: 1
+ webbas - servic: 1
+
+PageRank scores count: 31
+ algorithm: 0.0489200971746148
+ approach: 0.0489200971746148
+ behavior: 0.03396832792153768
+ collabor: 0.01901655866846056
+ common: 0.01901655866846056
+ conven: 0.01901655866846056
+ current: 0.01901655866846056
+ data: 0.07227718535915147
+ experi: 0.0270985961025563
+ filter: 0.035180633536652045
+ log: 0.06265956081257755
+ major: 0.01901655866846056
+ navig: 0.01901655866846056
+ past: 0.01901655866846056
+ practic: 0.035180633536652045
+ queri: 0.051344708404843516
+ real: 0.01901655866846056
+ search: 0.01901655866846056
+ servic: 0.035180633536652045
+ session: 0.03396832792153768
+ set: 0.035180633536652045
+ shortcut: 0.035180633536652045
+ simpl: 0.01901655866846056
+ sugges: 0.035180633536652045
+ techniqu: 0.0489200971746148
+ test: 0.01901655866846056
+ trainandtest: 0.035180633536652045
+ usag: 0.0270985961025563
+ user: 0.035180633536652045
+ web: 0.035180633536652045
+ webbas: 0.01901655866846056
+
+N-grams list: 10
+ real queri log
+ simpl trainandtest approach
+ collabor filter algorithm
+ conven sugges techniqu
+ navig user behavior
+ data
+ current queri
+ user session
+ search shortcut
+ webbas servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

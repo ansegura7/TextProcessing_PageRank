@@ -1,0 +1,54 @@
+File name: 8931051
+
+Graph edges count: 13
+ access - control: 1
+ databas - applic: 1
+ databas - connec: 1
+ databas - metadata: 1
+ databas - secur: 1
+ effect - methodologi: 1
+ geograph - locat: 1
+ remot - author: 3
+ webdav - advantag: 1
+ webdav - protocol: 2
+ weben - databas: 1
+ web - browser: 1
+ web - environ: 1
+
+PageRank scores count: 20
+ access: 0.036333908620219825
+ advantag: 0.05177581978381325
+ applic: 0.05061767644654374
+ author: 0.06721773094740667
+ browser: 0.05177581978381325
+ connec: 0.05061767644654374
+ control: 0.06721773094740667
+ databas: 0.06721773094740667
+ effect: 0.036333908620219825
+ environ: 0.05177581978381325
+ geograph: 0.036333908620219825
+ locat: 0.06721773094740667
+ metadata: 0.05061767644654374
+ methodologi: 0.06721773094740667
+ protocol: 0.05177581978381325
+ remot: 0.036333908620219825
+ secur: 0.05061767644654374
+ web: 0.036333908620219825
+ webdav: 0.036333908620219825
+ weben: 0.036333908620219825
+
+N-grams list: 10
+ weben databas applic
+ databas secur
+ databas metadata
+ databas connec
+ remot author
+ effect methodologi
+ geograph locat
+ access control
+ webdav advantag
+ web environ
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

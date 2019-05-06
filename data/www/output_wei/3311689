@@ -1,0 +1,94 @@
+File name: 3311689
+
+Graph edges count: 30
+ binari - imag: 1
+ comput - network: 1
+ comput - paradigm: 1
+ current - approach: 1
+ domin - method: 1
+ entir - applic: 1
+ foundat - class: 1
+ frame - buffer: 1
+ graphic - user: 1
+ high - level: 1
+ interfac - toolkit: 4
+ java - foundat: 1
+ level - compon: 1
+ limit - capabl: 1
+ local - client: 1
+ low - level: 1
+ networkcentr - applic: 1
+ pc - todai: 1
+ plug - in: 1
+ raster - imag: 1
+ remot - server: 1
+ servercentr - comput: 1
+ thinclient - applic: 1
+ thinclient - comput: 1
+ toolkit - approach: 1
+ user - interfac: 4
+ virtual - frame: 1
+ web - applic: 1
+ web - browser: 1
+ window - system: 1
+
+PageRank scores count: 43
+ applic: 0.04807594238369157
+ approach: 0.061735350231970666
+ binari: 0.013542518981321569
+ browser: 0.019298089548383232
+ buffer: 0.03483813007944973
+ capabl: 0.0250536601154449
+ class: 0.03483813007944973
+ client: 0.0250536601154449
+ compon: 0.044622600043454565
+ comput: 0.030809230682506565
+ current: 0.013542518981321569
+ domin: 0.013542518981321569
+ entir: 0.013542518981321569
+ foundat: 0.0250536601154449
+ frame: 0.0250536601154449
+ graphic: 0.013542518981321569
+ high: 0.013542518981321569
+ imag: 0.036564801249568235
+ in: 0.0250536601154449
+ interfac: 0.03483813007944973
+ java: 0.013542518981321569
+ level: 0.036564801249568235
+ limit: 0.013542518981321569
+ local: 0.013542518981321569
+ low: 0.013542518981321569
+ method: 0.0250536601154449
+ network: 0.02663644202138686
+ networkcentr: 0.013542518981321569
+ paradigm: 0.02663644202138686
+ pc: 0.013542518981321569
+ plug: 0.013542518981321569
+ raster: 0.013542518981321569
+ remot: 0.013542518981321569
+ server: 0.0250536601154449
+ servercentr: 0.013542518981321569
+ system: 0.0250536601154449
+ thinclient: 0.013542518981321569
+ todai: 0.0250536601154449
+ toolkit: 0.04315492954885384
+ user: 0.0250536601154449
+ virtual: 0.013542518981321569
+ web: 0.013542518981321569
+ window: 0.013542518981321569
+
+N-grams list: 10
+ toolkit approach
+ user interfac toolkit
+ high level compon
+ current approach
+ virtual frame buffer
+ graphic user interfac
+ java foundat class
+ servercentr comput paradigm
+ thinclient comput network
+ approach
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

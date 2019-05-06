@@ -1,0 +1,86 @@
+File name: 101488
+
+Graph edges count: 27
+ commun - layer: 1
+ commun - protocol: 1
+ conjunc - withconnec: 1
+ digit - repositori: 1
+ edusourc - edna: 1
+ edusourc - implement: 1
+ edusourc - project: 1
+ extern - initi: 1
+ feder - searchconnect: 1
+ im - digit: 1
+ im - dri: 1
+ infrastructur - andmiddlewar: 1
+ main - issu: 1
+ major - initi: 1
+ matur - stateof: 1
+ network - system: 1
+ nsdl - initi: 1
+ object - repositori: 2
+ open - network: 1
+ repositori - interoper: 1
+ searchconnect - edusourc: 1
+ servic - provid: 1
+ set - withdiffer: 1
+ standard - implement: 1
+ theedusourc - commun: 1
+ withconnec - middlewar: 1
+ withdiffer - partner: 1
+
+PageRank scores count: 38
+ andmiddlewar: 0.028632258301662116
+ commun: 0.028632258301662116
+ conjunc: 0.015476896379276819
+ digit: 0.022054577340469464
+ dri: 0.022054577340469464
+ edna: 0.02675761922772221
+ edusourc: 0.03981431593568962
+ extern: 0.015476896379276819
+ feder: 0.015476896379276819
+ im: 0.015476896379276819
+ implement: 0.0399129811501075
+ infrastructur: 0.015476896379276819
+ initi: 0.05494298214643271
+ interoper: 0.05574874806417881
+ issu: 0.028632258301662116
+ layer: 0.027645606157483217
+ main: 0.015476896379276819
+ major: 0.015476896379276819
+ matur: 0.015476896379276819
+ middlewar: 0.03981431593568962
+ network: 0.028632258301662116
+ nsdl: 0.015476896379276819
+ object: 0.015476896379276819
+ open: 0.015476896379276819
+ partner: 0.03981431593568962
+ project: 0.02675761922772221
+ protocol: 0.027645606157483217
+ provid: 0.028632258301662116
+ repositori: 0.04737864904106116
+ searchconnect: 0.028632258301662116
+ servic: 0.015476896379276819
+ set: 0.015476896379276819
+ standard: 0.015476896379276819
+ stateof: 0.028632258301662116
+ system: 0.03981431593568962
+ theedusourc: 0.015476896379276819
+ withconnec: 0.028632258301662116
+ withdiffer: 0.028632258301662116
+
+N-grams list: 10
+ im digit repositori
+ set withdiffer partner
+ feder searchconnect edusourc
+ conjunc withconnec middlewar
+ edusourc implement
+ theedusourc commun layer
+ major initi
+ extern initi
+ nsdl initi
+ network system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

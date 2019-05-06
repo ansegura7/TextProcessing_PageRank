@@ -1,0 +1,68 @@
+File name: 13063758
+
+Graph edges count: 20
+ baselin - algorithm: 1
+ effect - photo: 1
+ entir - databas: 1
+ inform - content: 1
+ larg - collec: 1
+ model - summar: 1
+ person - photo: 3
+ photo - archiv: 1
+ photo - collec: 2
+ photo - summari: 2
+ repres - subset: 1
+ salient - properti: 1
+ share - person: 1
+ share - platform: 1
+ size - constraint: 1
+ social - network: 1
+ social - share: 1
+ subset - summari: 1
+ summar - framework: 1
+ web - archiv: 1
+
+PageRank scores count: 27
+ algorithm: 0.04129132912429147
+ archiv: 0.06162127544102993
+ baselin: 0.022319637364481875
+ collec: 0.06162127544102993
+ constraint: 0.04129132912429147
+ content: 0.04129132912429147
+ databas: 0.04129132912429147
+ effect: 0.022319637364481875
+ entir: 0.022319637364481875
+ framework: 0.05741726712012962
+ inform: 0.022319637364481875
+ larg: 0.022319637364481875
+ model: 0.022319637364481875
+ network: 0.03180548324438667
+ person: 0.03583696774334621
+ photo: 0.07175275170613574
+ platform: 0.03583696774334621
+ properti: 0.04129132912429147
+ repres: 0.022319637364481875
+ salient: 0.022319637364481875
+ share: 0.03180548324438667
+ size: 0.022319637364481875
+ social: 0.022319637364481875
+ subset: 0.04129132912429147
+ summar: 0.04129132912429147
+ summari: 0.07774721343686808
+ web: 0.022319637364481875
+
+N-grams list: 10
+ effect photo summari
+ photo summari
+ repres subset summari
+ share person photo
+ photo collec
+ photo archiv
+ person photo
+ summar framework
+ social share platform
+ larg collec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

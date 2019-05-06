@@ -1,0 +1,62 @@
+File name: 4419332
+
+Graph edges count: 18
+ analysi - mechan: 1
+ audiovideo - analysi: 1
+ audio - analysi: 1
+ colorlumin - analysi: 1
+ experiment - evalu: 1
+ high - avail: 1
+ high - level: 2
+ level - semant: 1
+ level - video: 1
+ metadata - descrip: 1
+ new - program: 1
+ semant - descrip: 1
+ speech - detec: 1
+ video - analysi: 1
+ video - segment: 2
+ video - stream: 3
+ web - index: 1
+ web - world: 1
+
+PageRank scores count: 23
+ analysi: 0.09954841099156461
+ audio: 0.026293870466953854
+ audiovideo: 0.026293870466953854
+ avail: 0.03374380043259078
+ colorlumin: 0.026293870466953854
+ descrip: 0.08587468536713516
+ detec: 0.04864366036386464
+ evalu: 0.04864366036386464
+ experiment: 0.026293870466953854
+ high: 0.026293870466953854
+ index: 0.03746876541540925
+ level: 0.04119373039822771
+ mechan: 0.11091001980978378
+ metadata: 0.026293870466953854
+ new: 0.026293870466953854
+ program: 0.04864366036386464
+ segment: 0.038704212134710696
+ semant: 0.04380120588620063
+ speech: 0.026293870466953854
+ stream: 0.04490938296858912
+ video: 0.04380120588620063
+ web: 0.026293870466953854
+ world: 0.03746876541540925
+
+N-grams list: 10
+ audiovideo analysi mechan
+ video analysi
+ audio analysi
+ colorlumin analysi
+ metadata descrip
+ high level video
+ high level semant
+ mechan
+ video stream
+ descrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

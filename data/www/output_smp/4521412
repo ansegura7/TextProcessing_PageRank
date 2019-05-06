@@ -1,0 +1,59 @@
+File name: 4521412
+
+Graph edges count: 14
+ common - procedur: 1
+ comput - scienc: 1
+ earli - experi: 1
+ entir - graph: 1
+ flexibl - heurist: 1
+ linkbas - analysi: 1
+ present - earli: 1
+ recent - result: 1
+ seed - set: 2
+ small - conduct: 1
+ small - neighborhood: 1
+ strong - relationship: 1
+ theoret - comput: 1
+ theoret - guarante: 1
+
+PageRank scores count: 24
+ analysi: 0.052432068586814026
+ common: 0.028341658695575152
+ comput: 0.04038686364119459
+ conduct: 0.04038686364119459
+ earli: 0.052432068586814026
+ entir: 0.028341658695575152
+ experi: 0.07290891699436707
+ flexibl: 0.028341658695575152
+ graph: 0.052432068586814026
+ guarante: 0.04038686364119459
+ heurist: 0.052432068586814026
+ linkbas: 0.028341658695575152
+ neighborhood: 0.04038686364119459
+ present: 0.028341658695575152
+ procedur: 0.052432068586814026
+ recent: 0.028341658695575152
+ relationship: 0.052432068586814026
+ result: 0.052432068586814026
+ scienc: 0.06267049279059056
+ seed: 0.028341658695575152
+ set: 0.052432068586814026
+ small: 0.028341658695575152
+ strong: 0.028341658695575152
+ theoret: 0.028341658695575152
+
+N-grams list: 10
+ present earli experi
+ theoret comput scienc
+ flexibl heurist
+ linkbas analysi
+ recent result
+ entir graph
+ strong relationship
+ seed set
+ common procedur
+ small conduct
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,51 @@
+File name: 8933670
+
+Graph edges count: 12
+ broadcast - environ: 1
+ environ - ondemand: 1
+ invers - number: 1
+ ondemand - broadcast: 1
+ ondemand - schedul: 1
+ schedul - algorithm: 2
+ slack - invers: 1
+ system - scalabl: 1
+ time - constraint: 1
+ tracedriven - experi: 1
+ web - request: 2
+ wide - rang: 1
+
+PageRank scores count: 18
+ algorithm: 0.09137656340017947
+ broadcast: 0.07381408332318228
+ constraint: 0.05297399626462789
+ environ: 0.09137656340017947
+ experi: 0.05297399626462789
+ invers: 0.05297399626462789
+ number: 0.07366248940040825
+ ondemand: 0.10630468411225351
+ rang: 0.05297399626462789
+ request: 0.05297399626462789
+ scalabl: 0.05297399626462789
+ schedul: 0.07381408332318228
+ slack: 0.028634592575474536
+ system: 0.028634592575474536
+ time: 0.028634592575474536
+ tracedriven: 0.028634592575474536
+ web: 0.028634592575474536
+ wide: 0.028634592575474536
+
+N-grams list: 10
+ broadcast environ ondemand
+ ondemand schedul algorithm
+ schedul algorithm
+ slack invers number
+ algorithm
+ tracedriven experi
+ system scalabl
+ web request
+ wide rang
+ time constraint
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

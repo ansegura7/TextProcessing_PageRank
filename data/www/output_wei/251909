@@ -1,0 +1,66 @@
+File name: 251909
+
+Graph edges count: 19
+ audio - present: 1
+ dant - approach: 2
+ design - method: 1
+ design - process: 2
+ dynam - page: 1
+ engin - approach: 1
+ extra - effort: 1
+ impair - user: 2
+ implicit - semant: 1
+ method - wsdm: 1
+ page - object: 1
+ screen - reader: 3
+ semant - annot: 2
+ semant - knowledg: 2
+ vast - major: 1
+ web - design: 1
+ web - engin: 1
+ web - page: 3
+ web - site: 1
+
+PageRank scores count: 26
+ annot: 0.04440973740727036
+ approach: 0.07012118323065386
+ audio: 0.024861994349766475
+ dant: 0.024861994349766475
+ design: 0.02838411021598339
+ dynam: 0.024861994349766475
+ effort: 0.04599468954706797
+ engin: 0.02838411021598339
+ extra: 0.024861994349766475
+ impair: 0.024861994349766475
+ implicit: 0.024861994349766475
+ knowledg: 0.04440973740727036
+ major: 0.04599468954706797
+ method: 0.03290415891096177
+ object: 0.0729388759236274
+ page: 0.05656103714571873
+ present: 0.04599468954706797
+ process: 0.04094632347215706
+ reader: 0.04599468954706797
+ screen: 0.024861994349766475
+ semant: 0.04599468954706797
+ site: 0.02838411021598339
+ user: 0.04599468954706797
+ vast: 0.024861994349766475
+ web: 0.024861994349766475
+ wsdm: 0.05283052942408398
+
+N-grams list: 10
+ page object
+ web engin approach
+ implicit semant knowledg
+ dant approach
+ semant knowledg
+ semant annot
+ web design method
+ web page
+ dynam page
+ impair user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

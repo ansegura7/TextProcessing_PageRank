@@ -1,0 +1,78 @@
+File name: 13064323
+
+Graph edges count: 25
+ averag - user: 1
+ divers - trust: 1
+ docum - search: 1
+ dynam - inventori: 1
+ greedi - selec: 1
+ ir - featur: 1
+ marketplac - search: 1
+ match - docum: 1
+ match - result: 1
+ onlin - marketplac: 2
+ onlin - search: 1
+ optim - function: 1
+ previou - work: 1
+ pure - ir: 1
+ queri - abandon: 1
+ relev - match: 1
+ result - set: 3
+ sale - option: 1
+ search - divers: 1
+ search - engin: 2
+ search - result: 1
+ usertun - approach: 1
+ user - commun: 1
+ user - queri: 1
+ vibrant - user: 1
+
+PageRank scores count: 32
+ abandon: 0.04801781456034067
+ approach: 0.03144112089072433
+ averag: 0.01699520048147261
+ commun: 0.03649719303396243
+ divers: 0.03192257633186392
+ docum: 0.030357676860030453
+ dynam: 0.01699520048147261
+ engin: 0.046849952182255225
+ featur: 0.043720153238588286
+ function: 0.03144112089072433
+ greedi: 0.01699520048147261
+ inventori: 0.03144112089072433
+ ir: 0.03144112089072433
+ marketplac: 0.026625814087640424
+ match: 0.03144112089072433
+ onlin: 0.01699520048147261
+ optim: 0.01699520048147261
+ option: 0.03144112089072433
+ previou: 0.01699520048147261
+ pure: 0.01699520048147261
+ queri: 0.03649719303396243
+ relev: 0.01699520048147261
+ result: 0.04528505271042176
+ sale: 0.01699520048147261
+ search: 0.07024647459007675
+ selec: 0.03144112089072433
+ set: 0.055487495285331104
+ trust: 0.04412939036355694
+ user: 0.04588704129997605
+ usertun: 0.01699520048147261
+ vibrant: 0.01699520048147261
+ work: 0.03144112089072433
+
+N-grams list: 10
+ onlin search engin
+ docum search divers
+ search engin
+ search result
+ result set
+ vibrant user commun
+ marketplac search
+ pure ir featur
+ queri abandon
+ user queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,41 @@
+File name: 779627
+
+Graph edges count: 10
+ digit - right: 1
+ expres - languag: 2
+ languag - orel: 1
+ ontologi - languag: 1
+ ontologybas - right: 3
+ owl - web: 1
+ right - expres: 2
+ right - model: 1
+ semant - level: 1
+ web - ontologi: 1
+
+PageRank scores count: 12
+ digit: 0.03553511102168108
+ expres: 0.08990383088485313
+ languag: 0.1896553294115896
+ level: 0.06573995539010999
+ model: 0.0627194709532671
+ ontologi: 0.09141407310327457
+ ontologybas: 0.03553511102168108
+ orel: 0.19674214102153223
+ owl: 0.03553511102168108
+ right: 0.09594479975853892
+ semant: 0.03553511102168108
+ web: 0.06573995539010999
+
+N-grams list: 8
+ languag orel
+ ontologybas right expres
+ orel
+ ontologybas right model
+ owl web ontologi
+ languag
+ digit right
+ semant level
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,45 @@
+File name: 21587
+
+Graph edges count: 9
+ design - pattern: 1
+ grammar - rule: 1
+ rdfxml - docum: 1
+ rdf - graph: 1
+ readabl - rdfxml: 1
+ recurs - descent: 1
+ theoret - justif: 1
+ univers - algebra: 1
+ unpars - rdfxml: 1
+
+PageRank scores count: 16
+ algebra: 0.07371986451484362
+ descent: 0.07371986451484362
+ design: 0.03984857541342898
+ docum: 0.13130105598724848
+ grammar: 0.03984857541342898
+ graph: 0.07371986451484362
+ justif: 0.07371986451484362
+ pattern: 0.07371986451484362
+ rdf: 0.03984857541342898
+ rdfxml: 0.10759115361625825
+ readabl: 0.03984857541342898
+ recurs: 0.03984857541342898
+ rule: 0.07371986451484362
+ theoret: 0.03984857541342898
+ univers: 0.03984857541342898
+ unpars: 0.03984857541342898
+
+N-grams list: 9
+ readabl rdfxml docum
+ unpars rdfxml
+ design pattern
+ univers algebra
+ rdf graph
+ grammar rule
+ recurs descent
+ theoret justif
+ design
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

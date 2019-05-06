@@ -1,0 +1,85 @@
+File name: 384307
+
+Graph edges count: 26
+ academ - site: 1
+ consist - check: 1
+ context - proofread: 1
+ data - ormetadata: 1
+ directori - consist: 1
+ instituteact - report: 1
+ inthi - context: 1
+ logic - program: 1
+ natur - semant: 2
+ oper - semant: 1
+ ordinari - product: 1
+ organ - chart: 1
+ practic - semant: 1
+ program - languag: 1
+ prolog - code: 1
+ report - track: 1
+ scientif - part: 1
+ semant - analysi: 1
+ semant - constraint: 2
+ site - verif: 1
+ specif - languag: 1
+ themat - directori: 1
+ track - error: 1
+ verif - tool: 1
+ web - site: 5
+ xml - docum: 1
+
+PageRank scores count: 38
+ academ: 0.014209288611965638
+ analysi: 0.03564755280526879
+ chart: 0.02628718393213643
+ check: 0.045279674323105
+ code: 0.02628718393213643
+ consist: 0.03655339495428161
+ constraint: 0.03564755280526879
+ context: 0.02628718393213643
+ data: 0.014209288611965638
+ directori: 0.02628718393213643
+ docum: 0.02628718393213643
+ error: 0.045279674323105
+ instituteact: 0.014209288611965638
+ inthi: 0.014209288611965638
+ languag: 0.04863129027445239
+ logic: 0.014209288611965638
+ natur: 0.014209288611965638
+ oper: 0.014209288611965638
+ ordinari: 0.014209288611965638
+ organ: 0.014209288611965638
+ ormetadata: 0.02628718393213643
+ part: 0.02628718393213643
+ practic: 0.014209288611965638
+ product: 0.02628718393213643
+ program: 0.02628718393213643
+ prolog: 0.014209288611965638
+ proofread: 0.03655339495428161
+ report: 0.02628718393213643
+ scientif: 0.014209288611965638
+ semant: 0.05044297457247801
+ site: 0.03836507925230722
+ specif: 0.014209288611965638
+ themat: 0.014209288611965638
+ tool: 0.05400595369192839
+ track: 0.03655339495428161
+ verif: 0.04681960597642677
+ web: 0.014209288611965638
+ xml: 0.014209288611965638
+
+N-grams list: 10
+ site verif tool
+ practic semant analysi
+ semant constraint
+ consist check
+ themat directori consist
+ instituteact report track
+ inthi context proofread
+ program languag
+ natur semant
+ oper semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

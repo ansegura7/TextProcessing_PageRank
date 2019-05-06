@@ -1,0 +1,78 @@
+File name: 9693036
+
+Graph edges count: 23
+ content - product: 1
+ current - onlin: 1
+ favorit - mark: 1
+ flickr - social: 2
+ inform - dissemin: 1
+ inform - propag: 1
+ kei - question: 1
+ largescal - trace: 1
+ market - techniqu: 1
+ massiv - popular: 1
+ measurementdriven - analysi: 1
+ myspac - facebook: 1
+ network - onlin: 1
+ network - site: 1
+ onlin - social: 2
+ photo - aim: 1
+ popular - photo: 2
+ real - world: 1
+ signific - delai: 1
+ social - network: 5
+ viral - market: 2
+ viral - propag: 1
+ wordofmouth - exchang: 1
+
+PageRank scores count: 34
+ aim: 0.049761625834511235
+ analysi: 0.028889187712343247
+ content: 0.01561577714180716
+ current: 0.01561577714180716
+ delai: 0.028889187712343247
+ dissemin: 0.022252482427075206
+ exchang: 0.028889187712343247
+ facebook: 0.028889187712343247
+ favorit: 0.01561577714180716
+ flickr: 0.01561577714180716
+ inform: 0.01561577714180716
+ kei: 0.01561577714180716
+ largescal: 0.01561577714180716
+ mark: 0.028889187712343247
+ market: 0.024464717522164548
+ massiv: 0.01561577714180716
+ measurementdriven: 0.01561577714180716
+ myspac: 0.01561577714180716
+ network: 0.0880945737224937
+ onlin: 0.06632938447554071
+ photo: 0.040171586697298915
+ popular: 0.028889187712343247
+ product: 0.028889187712343247
+ propag: 0.026676952617253898
+ question: 0.028889187712343247
+ real: 0.01561577714180716
+ signific: 0.01561577714180716
+ site: 0.05305597390500463
+ social: 0.08526915865427755
+ techniqu: 0.03641078703564702
+ trace: 0.028889187712343247
+ viral: 0.01561577714180716
+ wordofmouth: 0.01561577714180716
+ world: 0.028889187712343247
+
+N-grams list: 10
+ onlin social network
+ flickr social network
+ social network
+ current onlin social
+ photo aim
+ network
+ viral market techniqu
+ popular photo
+ site
+ signific delai
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

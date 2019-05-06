@@ -1,0 +1,60 @@
+File name: 8939891
+
+Graph edges count: 16
+ audior - interfac: 1
+ audio - realiti: 1
+ augment - audio: 1
+ augment - audior: 1
+ interac - histori: 1
+ museum - visitor: 2
+ object - visitor: 1
+ realiti - system: 1
+ reason - modul: 1
+ rulebas - system: 1
+ semant - descrip: 1
+ semant - web: 2
+ sound - object: 2
+ spatial - soundscap: 1
+ user - model: 1
+ web - approach: 2
+
+PageRank scores count: 23
+ approach: 0.0585981817669886
+ audio: 0.037762536582457325
+ audior: 0.037762536582457325
+ augment: 0.026500025671899873
+ descrip: 0.037762536582457325
+ histori: 0.04902504749301477
+ interac: 0.026500025671899873
+ interfac: 0.0585981817669886
+ model: 0.04902504749301477
+ modul: 0.04902504749301477
+ museum: 0.026500025671899873
+ object: 0.04902504749301477
+ realiti: 0.0585981817669886
+ reason: 0.026500025671899873
+ rulebas: 0.026500025671899873
+ semant: 0.026500025671899873
+ sound: 0.026500025671899873
+ soundscap: 0.04902504749301477
+ spatial: 0.026500025671899873
+ system: 0.09883350199495507
+ user: 0.026500025671899873
+ visitor: 0.09069633786207733
+ web: 0.037762536582457325
+
+N-grams list: 10
+ object visitor
+ rulebas system
+ augment audio realiti
+ augment audior interfac
+ semant web approach
+ museum visitor
+ system
+ sound object
+ spatial soundscap
+ reason modul
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,47 @@
+File name: 8957122
+
+Graph edges count: 12
+ effici - structur: 1
+ index - approach: 1
+ index - previou: 1
+ index - techniqu: 1
+ inmemori - index: 1
+ main - memorybas: 1
+ memorybas - index: 1
+ offlin - index: 1
+ onthefli - index: 1
+ onthefli - inmemori: 1
+ previou - work: 1
+ queri - problem: 1
+
+PageRank scores count: 14
+ approach: 0.08880053362887134
+ effici: 0.03649368243037889
+ index: 0.18461241599467923
+ inmemori: 0.05200349746328992
+ main: 0.03649368243037889
+ memorybas: 0.06751331249620095
+ offlin: 0.03649368243037889
+ onthefli: 0.03649368243037889
+ previou: 0.08880053362887134
+ problem: 0.06751331249620095
+ queri: 0.03649368243037889
+ structur: 0.06751331249620095
+ techniqu: 0.08880053362887134
+ work: 0.11197413601491954
+
+N-grams list: 10
+ onthefli index previou
+ main memorybas index
+ onthefli inmemori index
+ offlin index
+ index
+ work
+ effici structur
+ queri problem
+ techniqu
+ approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

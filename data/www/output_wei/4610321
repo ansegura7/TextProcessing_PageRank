@@ -1,0 +1,73 @@
+File name: 4610321
+
+Graph edges count: 24
+ comput - space: 1
+ divers - strand: 1
+ function - program: 1
+ function - xml: 1
+ inform - space: 1
+ local - process: 1
+ option - type: 1
+ power - function: 1
+ program - paradigm: 1
+ real - web: 1
+ semant - fxml: 1
+ semant - web: 3
+ singl - docum: 1
+ singl - xml: 1
+ type - regim: 1
+ univers - comput: 1
+ univers - inform: 1
+ web - ontologi: 1
+ web - servic: 3
+ web - technologi: 1
+ wellunderstood - function: 1
+ xmlbase - web: 1
+ xml - vocabulari: 2
+ xml - web: 1
+
+PageRank scores count: 28
+ comput: 0.02835345869292794
+ divers: 0.01989716399503715
+ docum: 0.02835345869292794
+ function: 0.053722342786600305
+ fxml: 0.024125311343982544
+ inform: 0.02835345869292794
+ local: 0.01989716399503715
+ ontologi: 0.03365175013589141
+ option: 0.01989716399503715
+ paradigm: 0.056216949722478086
+ power: 0.01989716399503715
+ process: 0.036809753390818725
+ program: 0.04272915967934228
+ real: 0.01989716399503715
+ regim: 0.05118545437723306
+ semant: 0.01989716399503715
+ servic: 0.06116092241759993
+ singl: 0.01989716399503715
+ space: 0.06809804377301465
+ strand: 0.036809753390818725
+ technologi: 0.03365175013589141
+ type: 0.036809753390818725
+ univers: 0.01989716399503715
+ vocabulari: 0.04890225480880255
+ web: 0.0809093302403192
+ wellunderstood: 0.01989716399503715
+ xml: 0.05118545437723306
+ xmlbase: 0.01989716399503715
+
+N-grams list: 10
+ xml web servic
+ web servic
+ xmlbase web technologi
+ semant web ontologi
+ power function xml
+ singl xml vocabulari
+ univers inform space
+ univers comput space
+ wellunderstood function program
+ option type regim
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

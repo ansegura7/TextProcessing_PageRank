@@ -1,0 +1,68 @@
+File name: 8950411
+
+Graph edges count: 18
+ adequ - navig: 1
+ central - aspect: 1
+ complex - worldwideweb: 1
+ dimension - visual: 1
+ explor - studi: 1
+ extern - memori: 1
+ memospac - applic: 1
+ navig - aid: 1
+ navig - path: 2
+ orient - problem: 1
+ search - histori: 1
+ search - process: 1
+ studi - user: 1
+ subject - evalu: 1
+ temporalspati - templat: 1
+ user - behavior: 1
+ visual - tool: 1
+ web - navig: 2
+
+PageRank scores count: 29
+ adequ: 0.021355372077317122
+ aid: 0.04586066153603852
+ applic: 0.039507438343036674
+ aspect: 0.039507438343036674
+ behavior: 0.06805156254588067
+ central: 0.021355372077317122
+ complex: 0.021355372077317122
+ dimension: 0.021355372077317122
+ evalu: 0.039507438343036674
+ explor: 0.021355372077317122
+ extern: 0.021355372077317122
+ histori: 0.0304314052101769
+ memori: 0.039507438343036674
+ memospac: 0.021355372077317122
+ navig: 0.05765950460875623
+ orient: 0.021355372077317122
+ path: 0.04586066153603852
+ problem: 0.039507438343036674
+ process: 0.0304314052101769
+ search: 0.021355372077317122
+ studi: 0.039507438343036674
+ subject: 0.021355372077317122
+ templat: 0.039507438343036674
+ temporalspati: 0.021355372077317122
+ tool: 0.0549366946688983
+ user: 0.0549366946688983
+ visual: 0.039507438343036674
+ web: 0.021355372077317122
+ worldwideweb: 0.039507438343036674
+
+N-grams list: 10
+ adequ navig aid
+ explor studi user
+ navig path
+ visual tool
+ web navig
+ behavior
+ extern memori
+ subject evalu
+ orient problem
+ temporalspati templat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

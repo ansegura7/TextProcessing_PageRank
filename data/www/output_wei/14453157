@@ -1,0 +1,90 @@
+File name: 14453157
+
+Graph edges count: 30
+ bootstrap - test: 1
+ differ - test: 1
+ discrimin - power: 1
+ divers - metric: 2
+ effect - precision: 1
+ entir - set: 1
+ evalu - metric: 1
+ experiment - find: 1
+ honestli - signific: 1
+ intent - recal: 2
+ main - experiment: 1
+ metric - din: 1
+ navig - intent: 1
+ pair - bootstrap: 1
+ precision - din: 1
+ prefer - agreem: 2
+ queri - search: 1
+ recal - pq: 1
+ relev - page: 1
+ result - diversif: 2
+ result - page: 1
+ run - pair: 1
+ search - result: 2
+ signific - differ: 1
+ signific - test: 1
+ simpl - method: 1
+ statist - reliabl: 1
+ underspecifi - queri: 1
+ user - intent: 1
+ web - page: 1
+
+PageRank scores count: 39
+ agreem: 0.024197732754190036
+ bootstrap: 0.03364792838386695
+ differ: 0.02336389196333619
+ din: 0.06366619685460541
+ discrimin: 0.013079855542805425
+ divers: 0.013079855542805425
+ diversif: 0.036698859188624415
+ effect: 0.013079855542805425
+ entir: 0.013079855542805425
+ evalu: 0.013079855542805425
+ experiment: 0.024197732754190036
+ find: 0.03364792838386695
+ honestli: 0.013079855542805425
+ intent: 0.035315609965574646
+ main: 0.013079855542805425
+ method: 0.024197732754190036
+ metric: 0.035315609965574646
+ navig: 0.013079855542805425
+ page: 0.047125111788484136
+ pair: 0.024197732754190036
+ power: 0.024197732754190036
+ pq: 0.04971326095431772
+ precision: 0.024197732754190036
+ prefer: 0.013079855542805425
+ queri: 0.024197732754190036
+ recal: 0.043098124013543876
+ relev: 0.013079855542805425
+ reliabl: 0.024197732754190036
+ result: 0.04168059466909233
+ run: 0.013079855542805425
+ search: 0.03364792838386695
+ set: 0.024197732754190036
+ signific: 0.024197732754190036
+ simpl: 0.013079855542805425
+ statist: 0.013079855542805425
+ test: 0.07182393925845887
+ underspecifi: 0.013079855542805425
+ user: 0.013079855542805425
+ web: 0.013079855542805425
+
+N-grams list: 10
+ pair bootstrap test
+ intent recal pq
+ search result diversif
+ effect precision din
+ metric din
+ signific test
+ result page
+ intent recal
+ result diversif
+ test
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

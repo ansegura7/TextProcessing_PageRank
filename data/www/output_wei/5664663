@@ -1,0 +1,69 @@
+File name: 5664663
+
+Graph edges count: 20
+ complet - yahoo: 1
+ distinct - queri: 1
+ engin - queri: 1
+ gener - domain: 1
+ geograph - center: 1
+ larg - class: 1
+ local - aspect: 1
+ local - interest: 1
+ nation - appeal: 1
+ natur - center: 1
+ probabilist - framework: 1
+ queri - local: 1
+ queri - log: 1
+ search - engin: 1
+ search - queri: 1
+ spatial - disper: 1
+ spatial - variat: 3
+ underli - question: 1
+ web - content: 1
+ web - search: 1
+
+PageRank scores count: 28
+ appeal: 0.04074575899303229
+ aspect: 0.04658365450135412
+ center: 0.05946678339523632
+ class: 0.04074575899303229
+ complet: 0.022024734590828265
+ content: 0.03138524679193028
+ disper: 0.026704990691379275
+ distinct: 0.022024734590828265
+ domain: 0.04074575899303229
+ engin: 0.03536346447739863
+ framework: 0.04074575899303229
+ gener: 0.022024734590828265
+ geograph: 0.022024734590828265
+ interest: 0.04658365450135412
+ larg: 0.022024734590828265
+ local: 0.05778569390711965
+ log: 0.05778569390711965
+ nation: 0.022024734590828265
+ natur: 0.022024734590828265
+ probabilist: 0.022024734590828265
+ queri: 0.08414343368539148
+ question: 0.04074575899303229
+ search: 0.03138524679193028
+ spatial: 0.022024734590828265
+ underli: 0.022024734590828265
+ variat: 0.03606550289248128
+ web: 0.022024734590828265
+ yahoo: 0.04074575899303229
+
+N-grams list: 10
+ search engin queri
+ queri log
+ search queri
+ distinct queri
+ local interest
+ local aspect
+ queri
+ natur center
+ geograph center
+ gener domain
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

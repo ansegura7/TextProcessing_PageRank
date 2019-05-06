@@ -1,0 +1,57 @@
+File name: 8955977
+
+Graph edges count: 15
+ base - system: 1
+ compon - base: 1
+ docum - model: 1
+ environ - multichannel: 1
+ finalform - present: 1
+ gener - descrip: 1
+ interact - media: 1
+ media - docum: 1
+ multichannel - public: 2
+ multimedia - present: 1
+ new - environ: 1
+ present - content: 1
+ signific - challeng: 1
+ system - architectur: 1
+ ximpf - docum: 1
+
+PageRank scores count: 21
+ architectur: 0.07570102061117892
+ base: 0.04394834288021999
+ challeng: 0.04394834288021999
+ compon: 0.023755861016335127
+ content: 0.07827556204882423
+ descrip: 0.04394834288021999
+ docum: 0.08130443432840696
+ environ: 0.04394834288021999
+ finalform: 0.023755861016335127
+ gener: 0.023755861016335127
+ interact: 0.023755861016335127
+ media: 0.04394834288021999
+ model: 0.09286463019548104
+ multichannel: 0.06111195246452211
+ multimedia: 0.023755861016335127
+ new: 0.023755861016335127
+ present: 0.06414082474410485
+ public: 0.07570102061117892
+ signific: 0.023755861016335127
+ system: 0.06111195246452211
+ ximpf: 0.023755861016335127
+
+N-grams list: 10
+ ximpf docum model
+ interact media docum
+ present content
+ multichannel public
+ compon base system
+ new environ multichannel
+ finalform present
+ multimedia present
+ architectur
+ public
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

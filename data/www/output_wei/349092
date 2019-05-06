@@ -1,0 +1,58 @@
+File name: 349092
+
+Graph edges count: 17
+ dynam - execu: 1
+ execu - flow: 1
+ full - transform: 1
+ full - xml: 1
+ increment - mainten: 3
+ increment - view: 1
+ mainten - algorithm: 3
+ sourc - xml: 1
+ subtre - insertiondel: 1
+ transform - algorithm: 1
+ view - mainten: 1
+ xml - data: 1
+ xml - transform: 2
+ xpathxslt - featur: 1
+ xpathxslt - view: 2
+ xpath - expres: 1
+ xslt - program: 2
+
+PageRank scores count: 20
+ algorithm: 0.16260576115054318
+ data: 0.04468623543373924
+ dynam: 0.027171767175316486
+ execu: 0.050267769274335496
+ expres: 0.050267769274335496
+ featur: 0.034870434541656156
+ flow: 0.06989937105850166
+ full: 0.027171767175316486
+ increment: 0.027171767175316486
+ insertiondel: 0.050267769274335496
+ mainten: 0.08558540581741873
+ program: 0.050267769274335496
+ sourc: 0.027171767175316486
+ subtre: 0.027171767175316486
+ transform: 0.0737487047416715
+ view: 0.04834310243275058
+ xml: 0.061815770323845
+ xpath: 0.027171767175316486
+ xpathxslt: 0.027171767175316486
+ xslt: 0.027171767175316486
+
+N-grams list: 10
+ increment mainten algorithm
+ mainten algorithm
+ full xml transform
+ algorithm
+ increment view mainten
+ dynam execu flow
+ xml transform
+ sourc xml data
+ increment mainten
+ full transform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

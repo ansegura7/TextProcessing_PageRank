@@ -1,0 +1,54 @@
+File name: 13535450
+
+Graph edges count: 13
+ client - request: 1
+ crawl - data: 1
+ error - redirec: 3
+ experiment - result: 1
+ huge - crawl: 1
+ redirec - classif: 1
+ redirec - log: 1
+ relev - content: 1
+ search - engin: 1
+ soft - error: 4
+ statu - code: 1
+ url - redirec: 1
+ web - search: 1
+
+PageRank scores count: 20
+ classif: 0.07129837734602217
+ client: 0.029047285349638543
+ code: 0.0537374778968313
+ content: 0.0537374778968313
+ crawl: 0.0537374778968313
+ data: 0.07472414156194515
+ engin: 0.07472414156194515
+ error: 0.0537374778968313
+ experiment: 0.029047285349638543
+ huge: 0.029047285349638543
+ log: 0.07129837734602217
+ redirec: 0.09941433410913791
+ relev: 0.029047285349638543
+ request: 0.0537374778968313
+ result: 0.0537374778968313
+ search: 0.0537374778968313
+ soft: 0.029047285349638543
+ statu: 0.029047285349638543
+ url: 0.029047285349638543
+ web: 0.029047285349638543
+
+N-grams list: 10
+ soft error redirec
+ redirec log
+ redirec classif
+ huge crawl data
+ web search engin
+ url redirec
+ redirec
+ statu code
+ soft error
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

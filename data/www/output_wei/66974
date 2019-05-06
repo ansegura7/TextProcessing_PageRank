@@ -1,0 +1,111 @@
+File name: 66974
+
+Graph edges count: 38
+ admis - control: 2
+ applic - server: 1
+ consist - perform: 1
+ control - mechan: 1
+ ecommerc - environ: 1
+ ecommerc - web: 2
+ execu - cost: 1
+ forward - control: 1
+ host - os: 1
+ industri - standard: 1
+ larg - job: 1
+ linux - oper: 1
+ multiplyti - ecommerc: 1
+ oper - system: 2
+ os - web: 1
+ overload - protec: 1
+ percent - penalti: 1
+ preferenti - schedul: 1
+ previou - propos: 1
+ request - onlin: 1
+ request - schedul: 2
+ request - type: 1
+ respons - time: 2
+ server - applic: 1
+ simpl - measur: 1
+ softwar - compon: 1
+ stabl - behavior: 1
+ standard - softwar: 1
+ standard - tpcw: 1
+ straight - forward: 1
+ threetier - ecommerc: 1
+ throughput - increas: 1
+ tpcw - workload: 1
+ transpar - admis: 1
+ typic - threetier: 1
+ web - server: 1
+ web - site: 2
+ workload - gener: 1
+
+PageRank scores count: 52
+ admis: 0.01657599730609348
+ applic: 0.09481840888221162
+ behavior: 0.01657599730609348
+ compon: 0.02256407633291975
+ consist: 0.008959998543834315
+ control: 0.037139193964193226
+ cost: 0.01657599730609348
+ ecommerc: 0.030665595016272938
+ environ: 0.01764858379844498
+ execu: 0.008959998543834315
+ forward: 0.01657599730609348
+ gener: 0.028139463426816103
+ host: 0.008959998543834315
+ increas: 0.01657599730609348
+ industri: 0.008959998543834315
+ job: 0.01657599730609348
+ larg: 0.008959998543834315
+ linux: 0.008959998543834315
+ measur: 0.01657599730609348
+ mechan: 0.040528313413398555
+ multiplyti: 0.008959998543834315
+ onlin: 0.010863998234399106
+ oper: 0.01657599730609348
+ os: 0.01657599730609348
+ overload: 0.008959998543834315
+ penalti: 0.01657599730609348
+ percent: 0.008959998543834315
+ perform: 0.01657599730609348
+ preferenti: 0.008959998543834315
+ previou: 0.008959998543834315
+ propos: 0.01657599730609348
+ protec: 0.01657599730609348
+ request: 0.008959998543834315
+ respons: 0.008959998543834315
+ schedul: 0.020383996687223065
+ server: 0.10100990892168996
+ simpl: 0.008959998543834315
+ site: 0.031868499709667535
+ softwar: 0.016004797398924044
+ stabl: 0.008959998543834315
+ standard: 0.01657599730609348
+ straight: 0.008959998543834315
+ system: 0.023049596254013774
+ threetier: 0.01657599730609348
+ throughput: 0.008959998543834315
+ time: 0.01657599730609348
+ tpcw: 0.016004797398924044
+ transpar: 0.008959998543834315
+ type: 0.010863998234399106
+ typic: 0.008959998543834315
+ web: 0.040426766763235096
+ workload: 0.02256407633291975
+
+N-grams list: 10
+ server applic server
+ ecommerc web site
+ server
+ multiplyti ecommerc web
+ host os web
+ straight forward control
+ transpar admis control
+ typic threetier ecommerc
+ standard softwar compon
+ admis control
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

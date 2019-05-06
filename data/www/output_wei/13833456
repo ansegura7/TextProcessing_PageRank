@@ -1,0 +1,103 @@
+File name: 13833456
+
+Graph edges count: 36
+ bidirec - effect: 2
+ commun - structur: 1
+ comprehens - set: 1
+ correl - influenc: 1
+ data - set: 1
+ evalu - criteria: 1
+ experiment - studi: 1
+ futur - link: 1
+ gener - model: 1
+ import - role: 1
+ life - dataset: 1
+ link - rate: 1
+ network - evolu: 1
+ onlin - share: 1
+ probabilist - gener: 1
+ rate - network: 4
+ rate - pattern: 1
+ ratingsonsoci - relat: 1
+ real - life: 1
+ real - world: 1
+ relationsonsoci - relat: 1
+ research - purpos: 1
+ sensit - natur: 1
+ share - websit: 1
+ social - influenc: 1
+ social - network: 2
+ social - rate: 4
+ social - relat: 3
+ social - relationship: 1
+ social - relationsonr: 1
+ social - relationsonsoci: 1
+ srn - data: 1
+ synthet - srn: 1
+ tempor - behavior: 1
+ tempor - dynam: 2
+ world - data: 1
+
+PageRank scores count: 46
+ behavior: 0.016391538902788032
+ bidirec: 0.012772627716458205
+ commun: 0.012772627716458205
+ comprehens: 0.012772627716458205
+ correl: 0.012772627716458205
+ criteria: 0.023629361275447684
+ data: 0.048328430122148734
+ dataset: 0.028243473038018208
+ dynam: 0.020010450089117858
+ effect: 0.023629361275447684
+ evalu: 0.012772627716458205
+ evolu: 0.04597160029316226
+ experiment: 0.012772627716458205
+ futur: 0.012772627716458205
+ gener: 0.023629361275447684
+ import: 0.012772627716458205
+ influenc: 0.02446449462613918
+ life: 0.018200994495952943
+ link: 0.023629361275447684
+ model: 0.032857584800588736
+ natur: 0.023629361275447684
+ network: 0.03905761479612241
+ onlin: 0.012772627716458205
+ pattern: 0.018926307811028508
+ probabilist: 0.012772627716458205
+ purpos: 0.023629361275447684
+ rate: 0.03619811820335472
+ ratingsonsoci: 0.012772627716458205
+ real: 0.012772627716458205
+ relat: 0.03770135823459942
+ relationship: 0.013607761067149704
+ relationsonr: 0.013607761067149704
+ relationsonsoci: 0.013607761067149704
+ research: 0.012772627716458205
+ role: 0.023629361275447684
+ sensit: 0.012772627716458205
+ set: 0.06470852687927411
+ share: 0.023629361275447684
+ social: 0.012772627716458205
+ srn: 0.023629361275447684
+ structur: 0.023629361275447684
+ studi: 0.023629361275447684
+ synthet: 0.012772627716458205
+ tempor: 0.012772627716458205
+ websit: 0.032857584800588736
+ world: 0.018200994495952943
+
+N-grams list: 10
+ social rate network
+ network evolu
+ synthet srn data
+ real world data
+ comprehens set
+ futur link rate
+ probabilist gener model
+ onlin share websit
+ set
+ social relationsonsoci relat
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

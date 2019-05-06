@@ -1,0 +1,70 @@
+File name: 4339064
+
+Graph edges count: 21
+ averag - relev: 1
+ brand - awar: 1
+ engin - brand: 2
+ engin - market: 1
+ engin - qualiti: 1
+ engin - result: 2
+ equal - technic: 1
+ laboratori - studi: 1
+ larg - amount: 1
+ popular - trust: 1
+ qualiti - studi: 1
+ qualit - analysi: 1
+ relev - rate: 1
+ search - engin: 8
+ search - result: 1
+ search - traffic: 1
+ similar - interfac: 1
+ system - perform: 1
+ technic - qualiti: 1
+ user - view: 1
+ web - search: 1
+
+PageRank scores count: 28
+ amount: 0.0401299151774254
+ analysi: 0.0401299151774254
+ averag: 0.02169184604185157
+ awar: 0.04610173688192955
+ brand: 0.028717518635385852
+ engin: 0.033061988675455435
+ equal: 0.02169184604185157
+ interfac: 0.0401299151774254
+ laboratori: 0.02169184604185157
+ larg: 0.02169184604185157
+ market: 0.028717518635385852
+ perform: 0.0401299151774254
+ popular: 0.02169184604185157
+ qualit: 0.02169184604185157
+ qualiti: 0.06282794653619744
+ rate: 0.05580227394266316
+ relev: 0.0401299151774254
+ result: 0.040087661268989716
+ search: 0.0401299151774254
+ similar: 0.02169184604185157
+ studi: 0.09353366973319323
+ system: 0.02169184604185157
+ technic: 0.0401299151774254
+ traffic: 0.033061988675455435
+ trust: 0.0401299151774254
+ user: 0.02169184604185157
+ view: 0.0401299151774254
+ web: 0.02169184604185157
+
+N-grams list: 10
+ search engin qualiti
+ equal technic qualiti
+ averag relev rate
+ laboratori studi
+ search engin result
+ search engin brand
+ search engin market
+ web search engin
+ studi
+ search result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

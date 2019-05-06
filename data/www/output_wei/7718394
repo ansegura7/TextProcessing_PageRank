@@ -1,0 +1,94 @@
+File name: 7718394
+
+Graph edges count: 31
+ 85node - cluster: 1
+ applic - data: 1
+ benchmark - applic: 1
+ classic - techniqu: 1
+ databas - queri: 1
+ databas - replic: 1
+ databas - workload: 1
+ data - denorm: 2
+ data - interdepend: 1
+ data - servic: 1
+ data - store: 1
+ denorm - process: 1
+ exclus - access: 1
+ impli - simplif: 1
+ independ - data: 1
+ magnitud - improv: 1
+ major - scalabl: 1
+ masterslav - databas: 1
+ maximum - sustain: 1
+ multipl - independ: 1
+ perform - gain: 1
+ privat - data: 1
+ scalabl - improv: 1
+ scalabl - web: 1
+ serviceori - data: 1
+ serviceori - implement: 1
+ strong - consist: 1
+ sustain - throughput: 1
+ tpcw - rubi: 1
+ transac - properti: 1
+ web - applic: 3
+
+PageRank scores count: 42
+ 85node: 0.013375293882307246
+ access: 0.02474429368226841
+ applic: 0.04505216957494902
+ benchmark: 0.013375293882307246
+ classic: 0.013375293882307246
+ cluster: 0.02474429368226841
+ consist: 0.02474429368226841
+ data: 0.08975578735088381
+ databas: 0.02474429368226841
+ denorm: 0.043892261581607736
+ exclus: 0.013375293882307246
+ gain: 0.02474429368226841
+ implement: 0.019059793782287827
+ impli: 0.013375293882307246
+ improv: 0.03526061849723248
+ independ: 0.02474429368226841
+ interdepend: 0.028633777731957494
+ magnitud: 0.013375293882307246
+ major: 0.013375293882307246
+ masterslav: 0.013375293882307246
+ maximum: 0.013375293882307246
+ multipl: 0.013375293882307246
+ perform: 0.013375293882307246
+ privat: 0.013375293882307246
+ process: 0.05068371622667382
+ properti: 0.02474429368226841
+ queri: 0.020386177092283294
+ replic: 0.020386177092283294
+ rubi: 0.02474429368226841
+ scalabl: 0.02474429368226841
+ servic: 0.028633777731957494
+ serviceori: 0.013375293882307246
+ simplif: 0.02474429368226841
+ store: 0.028633777731957494
+ strong: 0.013375293882307246
+ sustain: 0.02474429368226841
+ techniqu: 0.02474429368226841
+ throughput: 0.03440794351223539
+ tpcw: 0.013375293882307246
+ transac: 0.013375293882307246
+ web: 0.02389161869727132
+ workload: 0.020386177092283294
+
+N-grams list: 10
+ data denorm process
+ web applic data
+ serviceori data denorm
+ privat data store
+ multipl independ data
+ data interdepend
+ scalabl web applic
+ data
+ major scalabl improv
+ maximum sustain throughput
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

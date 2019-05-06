@@ -1,0 +1,85 @@
+File name: 1050874
+
+Graph edges count: 29
+ content - characterist: 1
+ content - summar: 1
+ cross - valid: 1
+ docum - tabl: 1
+ genuin - tabl: 1
+ ground - truth: 2
+ knowledg - manag: 1
+ larg - tabl: 1
+ leaf - tabl: 1
+ mine - knowledg: 1
+ narrowbandwidth - devic: 1
+ open - problem: 1
+ potenti - applic: 1
+ present - scheme: 1
+ relat - inform: 1
+ tabl - classifi: 1
+ tabl - detec: 2
+ tabl - elem: 1
+ tabl - entiti: 1
+ tabl - ground: 2
+ tabl - understand: 1
+ truth - databas: 1
+ truth - protocol: 1
+ valid - method: 1
+ web - content: 1
+ web - docum: 2
+ web - mine: 1
+ web - site: 1
+ web - tabl: 1
+
+PageRank scores count: 35
+ applic: 0.032324910800623566
+ characterist: 0.02616133659255872
+ classifi: 0.029142872790797317
+ content: 0.020443321965799767
+ cross: 0.01747292475709382
+ databas: 0.03542678057453422
+ detec: 0.029142872790797317
+ devic: 0.032324910800623566
+ docum: 0.020443321965799767
+ elem: 0.029142872790797317
+ entiti: 0.029142872790797317
+ genuin: 0.01747292475709382
+ ground: 0.029142872790797317
+ inform: 0.032324910800623566
+ knowledg: 0.034849748428023616
+ larg: 0.01747292475709382
+ leaf: 0.01747292475709382
+ manag: 0.0470952109209139
+ method: 0.04494909893762385
+ mine: 0.020443321965799767
+ narrowbandwidth: 0.01747292475709382
+ open: 0.01747292475709382
+ potenti: 0.01747292475709382
+ present: 0.01747292475709382
+ problem: 0.032324910800623566
+ protocol: 0.03542678057453422
+ relat: 0.01747292475709382
+ scheme: 0.032324910800623566
+ site: 0.020443321965799767
+ summar: 0.02616133659255872
+ tabl: 0.0823761037673188
+ truth: 0.04224436662927154
+ understand: 0.029142872790797317
+ valid: 0.032324910800623566
+ web: 0.01747292475709382
+
+N-grams list: 10
+ leaf tabl elem
+ larg tabl ground
+ web docum tabl
+ tabl understand
+ tabl classifi
+ tabl entiti
+ tabl detec
+ ground truth protocol
+ web tabl
+ genuin tabl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

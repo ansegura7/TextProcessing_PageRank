@@ -1,0 +1,72 @@
+File name: 3603460
+
+Graph edges count: 23
+ atten - user: 1
+ continu - span: 1
+ everydai - mobil: 1
+ feedback - stop: 1
+ laboratori - condition: 1
+ laboratori - context: 1
+ long - respons: 1
+ minim - atten: 1
+ mobil - applic: 1
+ mobil - browser: 1
+ mobil - context: 3
+ mobil - devic: 1
+ mobil - hci: 1
+ multimod - feedback: 1
+ nonvisu - feedback: 1
+ respons - time: 2
+ studi - result: 1
+ system - respons: 1
+ user - interfac: 1
+ user - studi: 1
+ visual - atten: 1
+ visual - feedback: 1
+ web - page: 1
+
+PageRank scores count: 28
+ applic: 0.024809925666950245
+ atten: 0.04608901326872938
+ browser: 0.024809925666950245
+ condition: 0.028868942377116204
+ context: 0.04252199858403809
+ continu: 0.020258906931309616
+ devic: 0.024809925666950245
+ everydai: 0.020258906931309616
+ feedback: 0.06330908416034256
+ hci: 0.024809925666950245
+ interfac: 0.04551859842044469
+ laboratori: 0.020258906931309616
+ long: 0.020258906931309616
+ minim: 0.020258906931309616
+ mobil: 0.03747897782292279
+ multimod: 0.020258906931309616
+ nonvisu: 0.020258906931309616
+ page: 0.03747897782292279
+ respons: 0.05469904871453597
+ result: 0.0589497155886876
+ span: 0.03747897782292279
+ stop: 0.07407162846760079
+ studi: 0.04551859842044469
+ system: 0.020258906931309616
+ time: 0.06675309833866519
+ user: 0.05943456820972959
+ visual: 0.020258906931309616
+ web: 0.020258906931309616
+
+N-grams list: 10
+ visual feedback stop
+ long respons time
+ system respons time
+ minim atten user
+ user studi
+ studi result
+ everydai mobil context
+ nonvisu feedback
+ multimod feedback
+ mobil context
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

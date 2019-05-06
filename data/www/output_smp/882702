@@ -1,0 +1,62 @@
+File name: 882702
+
+Graph edges count: 16
+ altern - mechan: 1
+ beep - support: 1
+ browserenforc - embed: 1
+ embed - polici: 1
+ injec - attack: 1
+ local - modif: 1
+ minim - effort: 1
+ polici - web: 1
+ rich - content: 1
+ script - code: 1
+ script - injec: 2
+ simpl - altern: 1
+ web - applic: 2
+ web - site: 2
+ wiki - articl: 1
+ yamann - worm: 1
+
+PageRank scores count: 25
+ altern: 0.04415115745391611
+ applic: 0.056186897219237794
+ articl: 0.04415115745391611
+ attack: 0.052772565902687564
+ beep: 0.02386549051563033
+ browserenforc: 0.02386549051563033
+ code: 0.03400832398477322
+ content: 0.04415115745391611
+ effort: 0.04415115745391611
+ embed: 0.04415115745391611
+ injec: 0.03400832398477322
+ local: 0.02386549051563033
+ mechan: 0.06139397435145903
+ minim: 0.02386549051563033
+ modif: 0.04415115745391611
+ polici: 0.06139397435145903
+ rich: 0.02386549051563033
+ script: 0.02386549051563033
+ simpl: 0.02386549051563033
+ site: 0.056186897219237794
+ support: 0.04415115745391611
+ web: 0.0760503687143705
+ wiki: 0.02386549051563033
+ worm: 0.04415115745391611
+ yamann: 0.02386549051563033
+
+N-grams list: 10
+ web applic
+ web site
+ browserenforc embed polici
+ simpl altern mechan
+ script injec attack
+ wiki articl
+ beep support
+ local modif
+ yamann worm
+ minim effort
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

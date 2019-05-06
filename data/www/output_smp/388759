@@ -1,0 +1,112 @@
+File name: 388759
+
+Graph edges count: 38
+ applic - extract: 1
+ bebas - applic: 1
+ bind - engin: 1
+ citi - name: 1
+ engin - load: 1
+ extract - thousand: 1
+ human - queri: 1
+ interact - speed: 1
+ languageprocess - applic: 2
+ languag - applic: 1
+ largescal - languageprocess: 1
+ larg - number: 1
+ limit - scalabl: 1
+ magnitud - speedup: 1
+ main - cost: 1
+ modern - natur: 1
+ modest - increas: 1
+ natur - languag: 1
+ natur - languageprocess: 1
+ neighborhood - index: 1
+ nonvari - term: 1
+ proper - noun: 1
+ random - disk: 1
+ search - engin: 4
+ serial - disk: 1
+ simpl - human: 1
+ simpl - user: 1
+ slow - applic: 1
+ spacetim - tradeoff: 1
+ stringprocess - function: 1
+ success - queri: 1
+ tradeoff - scale: 1
+ unnecessari - search: 1
+ user - queri: 1
+ variabl - type: 1
+ web - corpu: 1
+ web - docum: 1
+ web - search: 1
+
+PageRank scores count: 53
+ applic: 0.06546802016245165
+ bebas: 0.010135741321378925
+ bind: 0.010135741321378925
+ citi: 0.010135741321378925
+ corpu: 0.013007534695769622
+ cost: 0.018751121444551013
+ disk: 0.0273665015677231
+ docum: 0.013007534695769622
+ engin: 0.03713059904065146
+ extract: 0.06578355845946283
+ function: 0.018751121444551013
+ human: 0.014443431382964968
+ increas: 0.018751121444551013
+ index: 0.018751121444551013
+ interact: 0.010135741321378925
+ languag: 0.018104967935313108
+ languageprocess: 0.026720348058485194
+ larg: 0.010135741321378925
+ largescal: 0.010135741321378925
+ limit: 0.010135741321378925
+ load: 0.04169675050593267
+ magnitud: 0.010135741321378925
+ main: 0.010135741321378925
+ modern: 0.010135741321378925
+ modest: 0.010135741321378925
+ name: 0.018751121444551013
+ natur: 0.018751121444551013
+ neighborhood: 0.010135741321378925
+ nonvari: 0.010135741321378925
+ noun: 0.018751121444551013
+ number: 0.018751121444551013
+ proper: 0.010135741321378925
+ queri: 0.043304954795591453
+ random: 0.010135741321378925
+ scalabl: 0.018751121444551013
+ scale: 0.026074194549247285
+ search: 0.02162291481894171
+ serial: 0.010135741321378925
+ simpl: 0.010135741321378925
+ slow: 0.010135741321378925
+ spacetim: 0.010135741321378925
+ speed: 0.018751121444551013
+ speedup: 0.018751121444551013
+ stringprocess: 0.010135741321378925
+ success: 0.010135741321378925
+ term: 0.018751121444551013
+ thousand: 0.06605176601192232
+ tradeoff: 0.018751121444551013
+ type: 0.018751121444551013
+ unnecessari: 0.010135741321378925
+ user: 0.014443431382964968
+ variabl: 0.010135741321378925
+ web: 0.010135741321378925
+
+N-grams list: 10
+ bebas applic extract
+ natur languag applic
+ largescal languageprocess applic
+ slow applic
+ unnecessari search engin
+ web search engin
+ simpl human queri
+ simpl user queri
+ thousand
+ applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

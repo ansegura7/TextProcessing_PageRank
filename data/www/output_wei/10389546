@@ -1,0 +1,84 @@
+File name: 10389546
+
+Graph edges count: 29
+ area - sync: 1
+ cach - approach: 1
+ cach - toolkit: 1
+ clientserv - toolkit: 1
+ clientsid - databas: 2
+ clientsid - templat: 1
+ concurr - connec: 1
+ databas - cach: 1
+ databas - storag: 1
+ databas - tabl: 1
+ data - intens: 2
+ data - storag: 1
+ embed - relat: 1
+ html5 - standard: 1
+ intens - websit: 2
+ persist - clientsid: 1
+ portion - web: 1
+ prior - work: 1
+ recent - templat: 1
+ relat - databas: 2
+ serveronli - web: 1
+ sync - kit: 4
+ templat - cach: 1
+ templat - librari: 1
+ tradition - serveronli: 1
+ web - applic: 1
+ web - browser: 1
+ web - server: 2
+ web - session: 1
+
+PageRank scores count: 34
+ applic: 0.025697237856719443
+ approach: 0.03719920235752392
+ area: 0.016245310231358993
+ browser: 0.025697237856719443
+ cach: 0.04930327559097632
+ clientserv: 0.016245310231358993
+ clientsid: 0.030053823928014138
+ concurr: 0.016245310231358993
+ connec: 0.030053823928014138
+ data: 0.016245310231358993
+ databas: 0.0588215607960457
+ embed: 0.016245310231358993
+ html5: 0.016245310231358993
+ intens: 0.025450986029129086
+ kit: 0.041791060570171006
+ librari: 0.03263716669876337
+ persist: 0.016245310231358993
+ portion: 0.016245310231358993
+ prior: 0.016245310231358993
+ recent: 0.016245310231358993
+ relat: 0.030053823928014138
+ server: 0.035149165482079886
+ serveronli: 0.030053823928014138
+ session: 0.025697237856719443
+ standard: 0.030053823928014138
+ storag: 0.03751425702245699
+ sync: 0.030053823928014138
+ tabl: 0.03291141912357194
+ templat: 0.03856907404095148
+ toolkit: 0.051007716054179066
+ tradition: 0.016245310231358993
+ web: 0.055599574266826164
+ websit: 0.03787864835611871
+ work: 0.030053823928014138
+
+N-grams list: 10
+ clientsid databas storag
+ relat databas tabl
+ persist clientsid databas
+ embed relat databas
+ recent templat cach
+ tradition serveronli web
+ clientsid templat librari
+ cach toolkit
+ portion web applic
+ web server
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

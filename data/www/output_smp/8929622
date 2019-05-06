@@ -1,0 +1,43 @@
+File name: 8929622
+
+Graph edges count: 9
+ commit - relationship: 1
+ local - model: 2
+ mean - issu: 2
+ model - semant: 1
+ ontologi - semant: 1
+ semant - web: 1
+ uri - mean: 1
+ uri - share: 2
+ vocabulari - proven: 1
+
+PageRank scores count: 13
+ commit: 0.04358651651111728
+ issu: 0.09638068463520807
+ local: 0.04358651651111728
+ mean: 0.062110786028342115
+ model: 0.08063505554556696
+ ontologi: 0.04358651651111728
+ proven: 0.08063505554556696
+ relationship: 0.08063505554556696
+ semant: 0.14917485275929887
+ share: 0.062110786028342115
+ uri: 0.04358651651111728
+ vocabulari: 0.04358651651111728
+ web: 0.17038514135652133
+
+N-grams list: 10
+ ontologi semant web
+ local model semant
+ uri mean issu
+ mean issu
+ semant
+ local model
+ commit relationship
+ vocabulari proven
+ uri share
+ ontologi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

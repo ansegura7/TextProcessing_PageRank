@@ -1,0 +1,64 @@
+File name: 3604082
+
+Graph edges count: 18
+ addition - step: 1
+ ambigu - present: 1
+ infoci - gain: 1
+ infoci - web: 2
+ intuit - wai: 1
+ keyword - match: 1
+ languag - text: 1
+ linguist - analysi: 2
+ linguist - inform: 1
+ linguist - process: 4
+ main - advantag: 1
+ match - user: 1
+ natur - languag: 1
+ process - infoci: 1
+ process - technologi: 1
+ search - engin: 3
+ web - page: 3
+ web - search: 3
+
+PageRank scores count: 25
+ addition: 0.025408931971484323
+ advantag: 0.047006524147245994
+ ambigu: 0.025408931971484323
+ analysi: 0.032608129363404875
+ engin: 0.062214271824754884
+ gain: 0.04209757142563016
+ infoci: 0.03926738695093139
+ inform: 0.032608129363404875
+ intuit: 0.025408931971484323
+ keyword: 0.025408931971484323
+ languag: 0.047006524147245994
+ linguist: 0.025408931971484323
+ main: 0.025408931971484323
+ match: 0.047006524147245994
+ natur: 0.025408931971484323
+ page: 0.04330039982737714
+ present: 0.047006524147245994
+ process: 0.032608129363404875
+ search: 0.04330039982737714
+ step: 0.047006524147245994
+ technologi: 0.03926738695093139
+ text: 0.06536447749664342
+ user: 0.06536447749664342
+ wai: 0.047006524147245994
+ web: 0.04209757142563016
+
+N-grams list: 10
+ web search engin
+ natur languag text
+ infoci web search
+ match user
+ linguist process technologi
+ linguist process infoci
+ web page
+ infoci gain
+ intuit wai
+ ambigu present
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

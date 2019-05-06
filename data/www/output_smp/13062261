@@ -1,0 +1,55 @@
+File name: 13062261
+
+Graph edges count: 14
+ cascad - model: 1
+ clickthrough - data: 1
+ click - model: 1
+ gener - label: 1
+ ground - truth: 1
+ import - part: 1
+ inform - retriev: 1
+ model - ground: 1
+ multilevel - label: 2
+ position - model: 1
+ querydocu - pair: 1
+ test - collec: 2
+ truth - label: 1
+ unifi - click: 1
+
+PageRank scores count: 20
+ cascad: 0.02390208445372798
+ click: 0.04421885623939676
+ clickthrough: 0.02390208445372798
+ collec: 0.04421885623939676
+ data: 0.04421885623939676
+ gener: 0.02390208445372798
+ ground: 0.11070549190799783
+ import: 0.02390208445372798
+ inform: 0.02390208445372798
+ label: 0.16483711771426274
+ model: 0.10212165582855277
+ multilevel: 0.02390208445372798
+ pair: 0.04421885623939676
+ part: 0.04421885623939676
+ position: 0.02390208445372798
+ querydocu: 0.02390208445372798
+ retriev: 0.04421885623939676
+ test: 0.02390208445372798
+ truth: 0.11800175257552614
+ unifi: 0.02390208445372798
+
+N-grams list: 10
+ model ground truth
+ gener label
+ multilevel label
+ unifi click model
+ label
+ position model
+ cascad model
+ model
+ querydocu pair
+ clickthrough data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

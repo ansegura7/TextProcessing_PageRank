@@ -1,0 +1,50 @@
+File name: 8846658
+
+Graph edges count: 11
+ advanc - construct: 1
+ format - fohm: 1
+ gener - support: 1
+ hypermedia - format: 2
+ isomorph - transform: 1
+ main - result: 1
+ navig - hypermedia: 2
+ open - hypermedia: 3
+ web - page: 1
+ xlink - format: 1
+ xspect - system: 1
+
+PageRank scores count: 18
+ advanc: 0.031778062014888024
+ construct: 0.05878941472754284
+ fohm: 0.14374011900884226
+ format: 0.13172006705171088
+ gener: 0.031778062014888024
+ hypermedia: 0.08580076744019767
+ isomorph: 0.031778062014888024
+ main: 0.031778062014888024
+ navig: 0.031778062014888024
+ open: 0.031778062014888024
+ page: 0.05878941472754284
+ result: 0.05878941472754284
+ support: 0.05878941472754284
+ system: 0.05878941472754284
+ transform: 0.05878941472754284
+ web: 0.031778062014888024
+ xlink: 0.031778062014888024
+ xspect: 0.031778062014888024
+
+N-grams list: 10
+ open hypermedia format
+ xlink format
+ fohm
+ format
+ open hypermedia
+ navig hypermedia
+ web page
+ main result
+ xspect system
+ isomorph transform
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

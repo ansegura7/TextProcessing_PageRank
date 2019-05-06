@@ -1,0 +1,58 @@
+File name: 8926969
+
+Graph edges count: 15
+ artist - endeavor: 1
+ art - instal: 1
+ audiovisu - instal: 1
+ comput - tool: 1
+ connec - peopl: 1
+ cultur - connec: 1
+ cultur - realiti: 2
+ dai - live: 1
+ fuse - art: 1
+ network - art: 1
+ popular - cultur: 1
+ static - audiovisu: 1
+ tradition - role: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 22
+ art: 0.0711311722483049
+ artist: 0.026344878610483295
+ audiovisu: 0.04873802542939409
+ comput: 0.026344878610483295
+ connec: 0.040153985815478285
+ cultur: 0.04873802542939409
+ dai: 0.026344878610483295
+ endeavor: 0.04873802542939409
+ fuse: 0.026344878610483295
+ instal: 0.12823369663652742
+ live: 0.04873802542939409
+ network: 0.026344878610483295
+ peopl: 0.06047576655363983
+ popular: 0.026344878610483295
+ realiti: 0.053963093020473266
+ role: 0.04873802542939409
+ static: 0.026344878610483295
+ tool: 0.04873802542939409
+ tradition: 0.026344878610483295
+ web: 0.06777220022546827
+ wide: 0.04873802542939409
+ world: 0.026344878610483295
+
+N-grams list: 10
+ static audiovisu instal
+ art instal
+ cultur connec peopl
+ world wide web
+ cultur realiti
+ network art
+ fuse art
+ popular cultur
+ dai live
+ comput tool
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

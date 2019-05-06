@@ -1,0 +1,94 @@
+File name: 310161
+
+Graph edges count: 30
+ ai - approach: 1
+ applic - develop: 1
+ applic - integr: 1
+ busi - imper: 1
+ busi - process: 1
+ busi - world: 1
+ composi - tool: 1
+ creation - environ: 2
+ enterpr - applic: 1
+ execut - workflow: 1
+ execu - environ: 1
+ goalori - inferenc: 1
+ imper - todai: 1
+ industri - due: 1
+ inferenc - techniqu: 1
+ main - approach: 1
+ poor - reus: 1
+ process - function: 1
+ program - approach: 1
+ prototyp - servic: 1
+ seamless - businesstobusi: 1
+ servic - capabl: 1
+ servic - composi: 1
+ servic - creation: 2
+ servic - instanc: 1
+ soap - protocol: 1
+ softwar - asset: 1
+ standard - framework: 1
+ usecas - scenario: 1
+ web - servic: 7
+
+PageRank scores count: 43
+ ai: 0.014760792137910084
+ applic: 0.027307465455133653
+ approach: 0.05240081208958079
+ asset: 0.027307465455133653
+ busi: 0.014760792137910084
+ businesstobusi: 0.027307465455133653
+ capabl: 0.02322979662703599
+ composi: 0.02322979662703599
+ creation: 0.02322979662703599
+ develop: 0.026366464956341887
+ due: 0.027307465455133653
+ enterpr: 0.014760792137910084
+ environ: 0.04705279258811425
+ execu: 0.014760792137910084
+ execut: 0.014760792137910084
+ framework: 0.027307465455133653
+ function: 0.030862356228346998
+ goalori: 0.014760792137910084
+ imper: 0.018943016576984606
+ industri: 0.014760792137910084
+ inferenc: 0.027307465455133653
+ instanc: 0.02322979662703599
+ integr: 0.026366464956341887
+ main: 0.014760792137910084
+ poor: 0.014760792137910084
+ process: 0.018943016576984606
+ program: 0.014760792137910084
+ protocol: 0.027307465455133653
+ prototyp: 0.014760792137910084
+ reus: 0.027307465455133653
+ scenario: 0.027307465455133653
+ seamless: 0.014760792137910084
+ servic: 0.039854138772357224
+ soap: 0.014760792137910084
+ softwar: 0.014760792137910084
+ standard: 0.014760792137910084
+ techniqu: 0.037972137774773686
+ todai: 0.030862356228346998
+ tool: 0.03450611927089068
+ usecas: 0.014760792137910084
+ web: 0.014760792137910084
+ workflow: 0.027307465455133653
+ world: 0.018943016576984606
+
+N-grams list: 10
+ servic creation environ
+ goalori inferenc techniqu
+ web servic composi
+ prototyp servic creation
+ web servic capabl
+ web servic instanc
+ enterpr applic integr
+ ai approach
+ main approach
+ program approach
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

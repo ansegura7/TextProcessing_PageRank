@@ -1,0 +1,67 @@
+File name: 7821111
+
+Graph edges count: 21
+ claim - reus: 1
+ data - integr: 1
+ data - replic: 1
+ data - todai: 1
+ declar - mechan: 2
+ easi - reus: 1
+ main - motiv: 1
+ network - graph: 3
+ network - graphss: 1
+ procedur - code: 1
+ protocol - network: 1
+ rdf - data: 3
+ rdf - graph: 1
+ rule - sparql: 1
+ semant - web: 3
+ simpl - declar: 1
+ sparql - queri: 1
+ sparql - rule: 1
+ sparql - semant: 1
+ sparql - view: 1
+ web - easi: 1
+
+PageRank scores count: 25
+ claim: 0.02300327099648166
+ code: 0.04255605134349107
+ data: 0.03766785625673871
+ declar: 0.04255605134349107
+ easi: 0.0671499025789633
+ graph: 0.05502094881470957
+ graphss: 0.03204643190697351
+ integr: 0.0336758302692243
+ main: 0.02300327099648166
+ mechan: 0.059175914638449074
+ motiv: 0.04255605134349107
+ network: 0.04255605134349107
+ procedur: 0.02300327099648166
+ protocol: 0.02300327099648166
+ queri: 0.03403992889210207
+ rdf: 0.02300327099648166
+ replic: 0.0336758302692243
+ reus: 0.09963348082233221
+ rule: 0.03403992889210207
+ semant: 0.03403992889210207
+ simpl: 0.02300327099648166
+ sparql: 0.051937213626449
+ todai: 0.0336758302692243
+ view: 0.03403992889210207
+ web: 0.051937213626449
+
+N-grams list: 10
+ web easi reus
+ sparql rule sparql
+ simpl declar mechan
+ claim reus
+ declar mechan
+ protocol network graphss
+ network graph
+ rdf data integr
+ rdf data todai
+ semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

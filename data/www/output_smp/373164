@@ -1,0 +1,87 @@
+File name: 373164
+
+Graph edges count: 30
+ averag - precision: 1
+ compres - method: 1
+ compres - rate: 1
+ continu - growth: 1
+ engin - indic: 2
+ great - challeng: 1
+ improv - web: 1
+ index - prune: 1
+ lossless - compres: 1
+ origin - size: 1
+ origin - time: 1
+ overhead - queri: 1
+ process - time: 1
+ prune - method: 2
+ prune - strategi: 1
+ prune - techniqu: 1
+ queri - process: 1
+ real - search: 1
+ retriev - precision: 1
+ search - algorithm: 1
+ search - effici: 1
+ search - engin: 6
+ signif - improv: 1
+ space - effici: 1
+ static - prune: 2
+ storag - cost: 1
+ storag - overhead: 1
+ strategi - capabl: 1
+ tradition - lossless: 1
+ web - search: 1
+
+PageRank scores count: 36
+ algorithm: 0.03138428127251311
+ averag: 0.014640168293492586
+ capabl: 0.036604080775804834
+ challeng: 0.027084311342961284
+ compres: 0.03766183293500968
+ continu: 0.014640168293492586
+ cost: 0.020862239818226935
+ effici: 0.043828424321981814
+ engin: 0.03138428127251311
+ great: 0.014640168293492586
+ growth: 0.027084311342961284
+ improv: 0.027084311342961284
+ index: 0.014640168293492586
+ indic: 0.04131680737512873
+ lossless: 0.027084311342961284
+ method: 0.041846176035393534
+ origin: 0.014640168293492586
+ overhead: 0.020862239818226935
+ precision: 0.03952845439242999
+ process: 0.042157279611630245
+ prune: 0.03952845439242999
+ queri: 0.03237307213898548
+ rate: 0.030646447290871702
+ real: 0.014640168293492586
+ retriev: 0.014640168293492586
+ search: 0.059096869337719515
+ signif: 0.014640168293492586
+ size: 0.020862239818226935
+ space: 0.014640168293492586
+ static: 0.014640168293492586
+ storag: 0.014640168293492586
+ strategi: 0.025839897038014415
+ techniqu: 0.025839897038014415
+ time: 0.05669592748811265
+ tradition: 0.014640168293492586
+ web: 0.03766183293500968
+
+N-grams list: 10
+ search engin indic
+ improv web search
+ real search engin
+ prune strategi capabl
+ process time
+ static prune method
+ search engin
+ search algorithm
+ index prune techniqu
+ tradition lossless compres
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

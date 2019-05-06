@@ -1,0 +1,90 @@
+File name: 11841922
+
+Graph edges count: 31
+ bipartit - graph: 1
+ combin - ratio: 1
+ commerci - search: 2
+ effect - approach: 1
+ experiment - result: 1
+ feedback - model: 1
+ feedback - queri: 1
+ implicit - feedback: 1
+ implicit - user: 1
+ larg - commerci: 1
+ learn - process: 1
+ onemonth - queri: 1
+ optim - rare: 2
+ popularhead - queri: 1
+ popular - queri: 1
+ queri - correl: 1
+ queri - log: 3
+ queri - sugges: 3
+ queryurl - bipartit: 1
+ random - walk: 3
+ rare - queri: 5
+ relev - feedback: 2
+ relev - queri: 1
+ rocchio - algorithm: 1
+ search - engin: 3
+ statist - signific: 1
+ sugges - framework: 1
+ topreturn - result: 1
+ tradition - random: 1
+ user - feedback: 1
+ walk - model: 2
+
+PageRank scores count: 38
+ algorithm: 0.024866537706015834
+ approach: 0.024866537706015834
+ bipartit: 0.024866537706015834
+ combin: 0.013441371732981532
+ commerci: 0.024866537706015834
+ correl: 0.03952324046723556
+ effect: 0.013441371732981532
+ engin: 0.04283261119861227
+ experiment: 0.013441371732981532
+ feedback: 0.04114739921758971
+ framework: 0.04703612613013176
+ graph: 0.03457792878309499
+ implicit: 0.013441371732981532
+ larg: 0.013441371732981532
+ learn: 0.013441371732981532
+ log: 0.03952324046723556
+ model: 0.0603202558660879
+ onemonth: 0.013441371732981532
+ optim: 0.013441371732981532
+ popular: 0.013441371732981532
+ popularhead: 0.013441371732981532
+ process: 0.024866537706015834
+ queri: 0.09205365435619066
+ queryurl: 0.013441371732981532
+ random: 0.024866537706015834
+ rare: 0.024866537706015834
+ ratio: 0.024866537706015834
+ relev: 0.013441371732981532
+ result: 0.03629170367905014
+ rocchio: 0.013441371732981532
+ search: 0.03457792878309499
+ signific: 0.024866537706015834
+ statist: 0.013441371732981532
+ sugges: 0.03952324046723556
+ topreturn: 0.013441371732981532
+ tradition: 0.013441371732981532
+ user: 0.01915395471949868
+ walk: 0.03457792878309499
+
+N-grams list: 10
+ onemonth queri log
+ queri log
+ queri sugges
+ queri correl
+ optim rare queri
+ random walk model
+ rare queri
+ relev feedback model
+ relev queri
+ popularhead queri
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,63 @@
+File name: 4422411
+
+Graph edges count: 18
+ 2dimension - visual: 1
+ causal - relat: 6
+ causal - test: 1
+ effici - statist: 1
+ engin - queri: 2
+ experiment - result: 1
+ frequenc - threshold: 1
+ gct - coeffici: 1
+ geometr - featur: 1
+ granger - causal: 1
+ mine - causal: 1
+ msn - search: 1
+ queri - log: 4
+ search - engin: 2
+ statist - frequenc: 1
+ tempor - log: 1
+ tempor - queri: 1
+ visual - tool: 1
+
+PageRank scores count: 24
+ 2dimension: 0.021689324555121455
+ causal: 0.058561176298827934
+ coeffici: 0.04012525042697469
+ effici: 0.021689324555121455
+ engin: 0.055795787418049934
+ experiment: 0.021689324555121455
+ featur: 0.04012525042697469
+ frequenc: 0.055795787418049934
+ gct: 0.021689324555121455
+ geometr: 0.021689324555121455
+ granger: 0.021689324555121455
+ log: 0.09749093826798
+ mine: 0.021689324555121455
+ msn: 0.021689324555121455
+ queri: 0.07833370679639051
+ relat: 0.0643553244299818
+ result: 0.04012525042697469
+ search: 0.04012525042697469
+ statist: 0.04012525042697469
+ tempor: 0.021689324555121455
+ test: 0.028800324534264846
+ threshold: 0.0691157438604639
+ tool: 0.055795787418049934
+ visual: 0.04012525042697469
+
+N-grams list: 10
+ tempor queri log
+ queri log
+ search engin queri
+ mine causal relat
+ causal relat
+ tempor log
+ msn search engin
+ effici statist frequenc
+ 2dimension visual tool
+ granger causal test
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

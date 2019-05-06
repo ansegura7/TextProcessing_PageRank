@@ -1,0 +1,92 @@
+File name: 11657105
+
+Graph edges count: 32
+ academ - research: 2
+ altern - approach: 1
+ browser - toolbar: 1
+ dwell - time: 1
+ engin - session: 1
+ experiment - guidelin: 1
+ experiment - search: 1
+ explicit - judgment: 1
+ firefox - toolbar: 1
+ human - experiment: 1
+ initi - approach: 1
+ initi - user: 1
+ interac - data: 2
+ lemur - browser: 1
+ live - web: 1
+ local - collec: 1
+ major - search: 1
+ option - explicit: 1
+ queri - click: 1
+ result - page: 1
+ search - engin: 3
+ search - experi: 1
+ search - prefer: 1
+ search - result: 1
+ search - tool: 1
+ signific - barrier: 1
+ toolbar - academ: 1
+ user - buyin: 1
+ user - interac: 1
+ user - web: 1
+ usual - search: 1
+ web - search: 2
+
+PageRank scores count: 39
+ academ: 0.0529394888735649
+ altern: 0.013542541840837757
+ approach: 0.030809282687905896
+ barrier: 0.02505370240554985
+ browser: 0.02505370240554985
+ buyin: 0.019010343109076
+ click: 0.02505370240554985
+ collec: 0.02505370240554985
+ data: 0.029701333483552358
+ dwell: 0.013542541840837757
+ engin: 0.04019221466499752
+ experi: 0.022425766115557678
+ experiment: 0.02505370240554985
+ explicit: 0.02505370240554985
+ firefox: 0.013542541840837757
+ guidelin: 0.024190365363196444
+ human: 0.013542541840837757
+ initi: 0.013542541840837757
+ interac: 0.019010343109076
+ judgment: 0.03483818888555513
+ lemur: 0.013542541840837757
+ live: 0.013542541840837757
+ local: 0.013542541840837757
+ major: 0.013542541840837757
+ option: 0.013542541840837757
+ page: 0.03260444303906178
+ prefer: 0.022425766115557678
+ queri: 0.013542541840837757
+ research: 0.058541107383367916
+ result: 0.022425766115557678
+ search: 0.07315596461534052
+ session: 0.04770592430608564
+ signific: 0.013542541840837757
+ time: 0.02505370240554985
+ tool: 0.022425766115557678
+ toolbar: 0.046349349450267224
+ user: 0.019298122123193807
+ usual: 0.013542541840837757
+ web: 0.0305215036737881
+
+N-grams list: 10
+ search engin session
+ experiment search engin
+ major search engin
+ user web search
+ live web search
+ academ research
+ usual search tool
+ toolbar academ
+ search result
+ lemur browser toolbar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

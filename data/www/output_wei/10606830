@@ -1,0 +1,91 @@
+File name: 10606830
+
+Graph edges count: 32
+ activ - learn: 2
+ averag - user: 1
+ detail - polici: 1
+ detail - privaci: 1
+ enorm - problem: 1
+ facebook - user: 1
+ finegrain - control: 1
+ gener - framework: 1
+ highaccuraci - privaci: 1
+ implicit - set: 1
+ import - thing: 1
+ learn - model: 1
+ learn - paradigm: 1
+ learn - wizard: 1
+ limit - amount: 1
+ machin - learn: 1
+ network - graph: 1
+ network - privaci: 1
+ network - site: 2
+ onlin - social: 1
+ policyspecif - tool: 1
+ prefer - data: 1
+ privaci - prefer: 3
+ privaci - set: 2
+ privaci - wizard: 2
+ real - facebook: 1
+ real - user: 2
+ site - privaci: 1
+ social - network: 4
+ uncertainti - sampl: 1
+ user - finegrain: 1
+ user - input: 2
+
+PageRank scores count: 38
+ activ: 0.014350114309327764
+ amount: 0.026547711472256364
+ averag: 0.014350114309327764
+ control: 0.03866958188613178
+ data: 0.04699171772904156
+ detail: 0.014350114309327764
+ enorm: 0.014350114309327764
+ facebook: 0.018415980030303963
+ finegrain: 0.028611138325651778
+ framework: 0.026547711472256364
+ gener: 0.014350114309327764
+ graph: 0.022194693984736218
+ highaccuraci: 0.014350114309327764
+ implicit: 0.014350114309327764
+ import: 0.014350114309327764
+ input: 0.0428721623419758
+ learn: 0.03874530863518496
+ limit: 0.014350114309327764
+ machin: 0.014350114309327764
+ model: 0.0253279517559635
+ network: 0.03691566906074567
+ onlin: 0.014350114309327764
+ paradigm: 0.0253279517559635
+ polici: 0.02044891289079206
+ policyspecif: 0.014350114309327764
+ prefer: 0.03840188637613388
+ privaci: 0.06602447234025209
+ problem: 0.026547711472256364
+ real: 0.014350114309327764
+ sampl: 0.026547711472256364
+ set: 0.042582226183460435
+ site: 0.030039273660144673
+ social: 0.026547711472256364
+ thing: 0.026547711472256364
+ tool: 0.026547711472256364
+ uncertainti: 0.014350114309327764
+ user: 0.05033302593996713
+ wizard: 0.041362466467167576
+
+N-grams list: 10
+ social network privaci
+ highaccuraci privaci set
+ detail privaci prefer
+ user finegrain control
+ privaci set
+ privaci wizard
+ privaci prefer
+ activ learn wizard
+ social network site
+ user input
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

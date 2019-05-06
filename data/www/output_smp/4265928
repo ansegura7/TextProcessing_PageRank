@@ -1,0 +1,92 @@
+File name: 4265928
+
+Graph edges count: 29
+ approximateimport - sampl: 1
+ approxim - degre: 1
+ biasandor - poor: 1
+ care - implement: 1
+ comprehens - theoret: 1
+ corpu - size: 1
+ docum - degre: 1
+ effici - search: 1
+ empir - analysi: 1
+ engin - measur: 1
+ fresh - anddens: 1
+ gener - method: 1
+ global - qualiti: 1
+ inaccur - approximationof: 1
+ index - fresh: 1
+ perform - due: 1
+ perform - improv: 1
+ poor - perform: 1
+ qualiti - metric: 1
+ raoblackwel - ourestim: 1
+ rao - blackwel: 1
+ sampl - procedur: 1
+ searchengin - estim: 1
+ search - engin: 2
+ signific - biasandor: 1
+ signific - perform: 1
+ situat - wheredocu: 1
+ size - index: 1
+ wheredocu - degre: 1
+
+PageRank scores count: 42
+ analysi: 0.02420069934297963
+ anddens: 0.048514308029853355
+ approxim: 0.013081459104313312
+ approximateimport: 0.013081459104313312
+ approximationof: 0.02420069934297963
+ biasandor: 0.01864107922364647
+ blackwel: 0.02420069934297963
+ care: 0.013081459104313312
+ comprehens: 0.013081459104313312
+ corpu: 0.013081459104313312
+ degre: 0.055890534023178624
+ docum: 0.013081459104313312
+ due: 0.03145357126490719
+ effici: 0.013081459104313312
+ empir: 0.013081459104313312
+ engin: 0.033652053545845995
+ estim: 0.02420069934297963
+ fresh: 0.04168570461828241
+ gener: 0.013081459104313312
+ global: 0.013081459104313312
+ implement: 0.02420069934297963
+ improv: 0.03145357126490719
+ inaccur: 0.013081459104313312
+ index: 0.033652053545845995
+ measur: 0.04168570461828241
+ method: 0.02420069934297963
+ metric: 0.033652053545845995
+ ourestim: 0.02420069934297963
+ perform: 0.04322849920139736
+ poor: 0.02892637644441281
+ procedur: 0.033652053545845995
+ qualiti: 0.02420069934297963
+ rao: 0.013081459104313312
+ raoblackwel: 0.013081459104313312
+ sampl: 0.02420069934297963
+ search: 0.02420069934297963
+ searchengin: 0.013081459104313312
+ signific: 0.013081459104313312
+ situat: 0.013081459104313312
+ size: 0.02420069934297963
+ theoret: 0.02420069934297963
+ wheredocu: 0.02420069934297963
+
+N-grams list: 10
+ situat wheredocu degre
+ fresh anddens
+ signific perform improv
+ perform due
+ corpu size index
+ effici search engin
+ global qualiti metric
+ approximateimport sampl procedur
+ approxim degre
+ docum degre
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

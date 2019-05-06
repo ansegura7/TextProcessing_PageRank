@@ -1,0 +1,98 @@
+File name: 13060390
+
+Graph edges count: 33
+ activ - manhattan: 1
+ cultur - scene: 1
+ effect - comparison: 1
+ fair - comparison: 1
+ festiv - car: 1
+ flickr - websit: 1
+ geograph - distribu: 2
+ geograph - locat: 1
+ geograph - region: 2
+ geograph - topic: 4
+ geotag - photo: 1
+ gpsassoci - docum: 2
+ gp - locat: 2
+ import - cue: 1
+ interest - concept: 1
+ joint - model: 1
+ landscap - activ: 1
+ latent - geograph: 1
+ locationacquisi - technologi: 1
+ locationdriven - model: 1
+ manhattan - nation: 1
+ model - geograph: 1
+ model - textdriven: 1
+ model - topic: 1
+ nation - park: 1
+ park - festiv: 1
+ product - sale: 1
+ repres - dataset: 1
+ smart - phone: 1
+ special - geograph: 1
+ textdriven - model: 1
+ topic - analysi: 1
+ topic - discoveri: 1
+
+PageRank scores count: 44
+ activ: 0.021741603669678037
+ analysi: 0.030959023203493568
+ car: 0.05323150872319898
+ comparison: 0.03173098913953011
+ concept: 0.021741603669678037
+ cue: 0.021741603669678037
+ cultur: 0.011752218199825968
+ dataset: 0.021741603669678037
+ discoveri: 0.030959023203493568
+ distribu: 0.020686987106555015
+ docum: 0.021741603669678037
+ effect: 0.011752218199825968
+ fair: 0.011752218199825968
+ festiv: 0.0487991653216153
+ flickr: 0.011752218199825968
+ geograph: 0.04730171098043715
+ geotag: 0.011752218199825968
+ gp: 0.011752218199825968
+ gpsassoci: 0.011752218199825968
+ import: 0.011752218199825968
+ interest: 0.011752218199825968
+ joint: 0.011752218199825968
+ landscap: 0.011752218199825968
+ latent: 0.011752218199825968
+ locat: 0.026208988123042565
+ locationacquisi: 0.011752218199825968
+ locationdriven: 0.011752218199825968
+ manhattan: 0.0302325813190523
+ model: 0.05495549392106232
+ nation: 0.03744991232102043
+ park: 0.04358464367269333
+ phone: 0.021741603669678037
+ photo: 0.021741603669678037
+ product: 0.011752218199825968
+ region: 0.020686987106555015
+ repres: 0.011752218199825968
+ sale: 0.021741603669678037
+ scene: 0.021741603669678037
+ smart: 0.011752218199825968
+ special: 0.011752218199825968
+ technologi: 0.021741603669678037
+ textdriven: 0.027322940040733004
+ topic: 0.04519247785419111
+ websit: 0.021741603669678037
+
+N-grams list: 10
+ model geograph topic
+ nation park festiv
+ geograph topic discoveri
+ latent geograph topic
+ model topic
+ locationdriven model textdriven
+ geograph topic
+ special geograph distribu
+ geograph locat
+ geograph distribu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

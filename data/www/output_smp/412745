@@ -1,0 +1,77 @@
+File name: 412745
+
+Graph edges count: 25
+ central - idea: 1
+ docum - term: 1
+ expan - method: 2
+ expan - term: 1
+ experiment - result: 1
+ highqual - expan: 1
+ inform - retriev: 1
+ interac - inform: 1
+ larg - amount: 1
+ logbas - probabilist: 1
+ log - queri: 1
+ mismatch - problem: 1
+ previou - method: 1
+ probabilist - correl: 1
+ probabilist - queri: 2
+ queri - expan: 5
+ queri - log: 4
+ queri - term: 1
+ search - perform: 1
+ short - queri: 1
+ specif - characterist: 1
+ tradition - inform: 1
+ user - interac: 1
+ web - queri: 1
+ word - mismatch: 1
+
+PageRank scores count: 31
+ amount: 0.030550530380917238
+ central: 0.016513800205901208
+ characterist: 0.030550530380917238
+ correl: 0.029497775617791034
+ docum: 0.016513800205901208
+ expan: 0.05727578836432266
+ experiment: 0.016513800205901208
+ highqual: 0.016513800205901208
+ idea: 0.030550530380917238
+ inform: 0.05651848120469689
+ interac: 0.030550530380917238
+ larg: 0.016513800205901208
+ log: 0.043239058189306644
+ logbas: 0.016513800205901208
+ method: 0.05489274447343083
+ mismatch: 0.030550530380917238
+ perform: 0.030550530380917238
+ previou: 0.016513800205901208
+ probabilist: 0.030550530380917238
+ problem: 0.04248175102968087
+ queri: 0.09432444350408664
+ result: 0.030550530380917238
+ retriev: 0.06455450922989356
+ search: 0.016513800205901208
+ short: 0.016513800205901208
+ specif: 0.016513800205901208
+ term: 0.08161800245683627
+ tradition: 0.016513800205901208
+ user: 0.016513800205901208
+ web: 0.016513800205901208
+ word: 0.016513800205901208
+
+N-grams list: 10
+ queri log queri
+ queri expan method
+ probabilist queri expan
+ queri term
+ highqual expan term
+ web queri log
+ queri expan
+ logbas probabilist queri
+ tradition inform retriev
+ queri log
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

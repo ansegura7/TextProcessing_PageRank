@@ -1,0 +1,88 @@
+File name: 13543051
+
+Graph edges count: 27
+ coauthorship - network: 1
+ collabor - group: 1
+ collabor - social: 1
+ complex - network: 1
+ comput - architectur: 1
+ comput - scienc: 4
+ european - network: 1
+ geograph - analysi: 1
+ geograph - region: 1
+ giant - compon: 1
+ graduat - program: 1
+ knowledg - creation: 1
+ knowledg - produc: 2
+ larg - public: 1
+ network - structur: 1
+ northamerican - counterpart: 1
+ north - america: 1
+ public - databas: 1
+ public - entri: 1
+ public - venu: 1
+ scienc - research: 1
+ social - network: 2
+ tempor - evolu: 2
+ time - span: 1
+ unit - kingdom: 1
+ unit - state: 1
+ wellestablish - field: 1
+
+PageRank scores count: 40
+ america: 0.03001197437220728
+ analysi: 0.023117331611024527
+ architectur: 0.023117331611024527
+ coauthorship: 0.016222688849841772
+ collabor: 0.016222688849841772
+ complex: 0.016222688849841772
+ compon: 0.03001197437220728
+ comput: 0.016222688849841772
+ counterpart: 0.03001197437220728
+ creation: 0.023117331611024527
+ databas: 0.024726081588633837
+ entri: 0.024726081588633837
+ european: 0.016222688849841772
+ evolu: 0.03001197437220728
+ field: 0.03001197437220728
+ geograph: 0.016222688849841772
+ giant: 0.016222688849841772
+ graduat: 0.016222688849841772
+ group: 0.023117331611024527
+ kingdom: 0.023117331611024527
+ knowledg: 0.016222688849841772
+ larg: 0.016222688849841772
+ network: 0.07724027728630913
+ north: 0.016222688849841772
+ northamerican: 0.016222688849841772
+ produc: 0.023117331611024527
+ program: 0.03001197437220728
+ public: 0.03001197437220728
+ region: 0.023117331611024527
+ research: 0.03587242071921262
+ scienc: 0.023117331611024527
+ social: 0.023117331611024527
+ span: 0.03001197437220728
+ state: 0.023117331611024527
+ structur: 0.08187692454320453
+ tempor: 0.016222688849841772
+ time: 0.016222688849841772
+ unit: 0.016222688849841772
+ venu: 0.024726081588633837
+ wellestablish: 0.016222688849841772
+
+N-grams list: 10
+ network structur
+ collabor social network
+ social network
+ complex network
+ european network
+ coauthorship network
+ comput scienc research
+ larg public databas
+ public entri
+ public venu
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

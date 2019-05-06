@@ -1,0 +1,78 @@
+File name: 740593
+
+Graph edges count: 25
+ action - speed: 1
+ beaten - track: 1
+ browser - interfac: 1
+ browser - real: 1
+ case - peopl: 1
+ clientsid - web: 1
+ form - submis: 1
+ import - navig: 1
+ individu - page: 1
+ interact - activ: 1
+ longterm - clientsid: 1
+ navig - action: 1
+ navig - actionsã: 1
+ navig - elem: 1
+ nonscrol - web: 1
+ page - characterist: 1
+ page - request: 1
+ previou - studi: 1
+ real - estat: 1
+ time - user: 1
+ usag - studi: 1
+ web - navig: 3
+ web - page: 1
+ web - usag: 1
+ withinpag - navig: 2
+
+PageRank scores count: 32
+ action: 0.03963864232497416
+ actionsã: 0.03963864232497416
+ activ: 0.032454005325704464
+ beaten: 0.017542705581461874
+ browser: 0.017542705581461874
+ case: 0.017542705581461874
+ characterist: 0.03567354133173325
+ clientsid: 0.032454005325704464
+ elem: 0.03963864232497416
+ estat: 0.03879130771700757
+ form: 0.017542705581461874
+ import: 0.017542705581461874
+ individu: 0.017542705581461874
+ interact: 0.017542705581461874
+ interfac: 0.02499835545358317
+ longterm: 0.017542705581461874
+ navig: 0.07798565909474922
+ nonscrol: 0.017542705581461874
+ page: 0.04266079000063852
+ peopl: 0.032454005325704464
+ previou: 0.017542705581461874
+ real: 0.02499835545358317
+ request: 0.03567354133173325
+ speed: 0.051235551557689905
+ studi: 0.056041072043641005
+ submis: 0.032454005325704464
+ time: 0.017542705581461874
+ track: 0.032454005325704464
+ usag: 0.027749490256395927
+ user: 0.032454005325704464
+ web: 0.06003990985255326
+ withinpag: 0.017542705581461874
+
+N-grams list: 10
+ navig action speed
+ web navig
+ import navig elem
+ nonscrol web page
+ navig actionsã
+ longterm clientsid web
+ individu page request
+ withinpag navig
+ usag studi
+ browser real estat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

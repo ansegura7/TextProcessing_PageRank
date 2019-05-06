@@ -1,0 +1,85 @@
+File name: 14353464
+
+Graph edges count: 30
+ baselin - model: 1
+ base - wordpair: 1
+ bilingu - pair: 1
+ bilingu - querydocu: 1
+ bilingu - word: 1
+ clickthrough - base: 1
+ clickthrough - data: 2
+ concept - space: 1
+ dimension - semant: 1
+ docum - rank: 1
+ effect - approach: 1
+ experiment - result: 1
+ latent - semant: 1
+ model - wordpair: 1
+ monolingu - rank: 1
+ multipl - languag: 1
+ pair - topic: 1
+ querydocu - collec: 1
+ rank - model: 2
+ search - rank: 1
+ search - statist: 1
+ search - task: 1
+ semant - analysi: 1
+ semant - subspac: 1
+ stateoftheart - baselin: 1
+ statist - translat: 1
+ topic - model: 1
+ translat - model: 1
+ web - search: 3
+ word - pair: 3
+
+PageRank scores count: 34
+ analysi: 0.02989351635411551
+ approach: 0.025752272528574482
+ base: 0.01786418905135347
+ baselin: 0.025752272528574482
+ bilingu: 0.013920147312742963
+ clickthrough: 0.013920147312742963
+ collec: 0.029104708006393414
+ concept: 0.013920147312742963
+ data: 0.021808230789963974
+ dimension: 0.013920147312742963
+ docum: 0.013920147312742963
+ effect: 0.013920147312742963
+ experiment: 0.013920147312742963
+ languag: 0.025752272528574482
+ latent: 0.013920147312742963
+ model: 0.13682930602349683
+ monolingu: 0.013920147312742963
+ multipl: 0.013920147312742963
+ pair: 0.033048749745003915
+ querydocu: 0.01786418905135347
+ rank: 0.04488087496083544
+ result: 0.025752272528574482
+ search: 0.025752272528574482
+ semant: 0.037584397744406
+ space: 0.025752272528574482
+ stateoftheart: 0.013920147312742963
+ statist: 0.0212166245291724
+ subspac: 0.02989351635411551
+ task: 0.0212166245291724
+ topic: 0.04201158459599629
+ translat: 0.031954278162539505
+ web: 0.013920147312742963
+ word: 0.01786418905135347
+ wordpair: 0.14540961812636571
+
+N-grams list: 10
+ model wordpair
+ docum rank model
+ monolingu rank model
+ clickthrough base wordpair
+ stateoftheart baselin model
+ translat model
+ model
+ bilingu pair topic
+ web search rank
+ dimension semant subspac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

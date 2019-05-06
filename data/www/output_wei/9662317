@@ -1,0 +1,86 @@
+File name: 9662317
+
+Graph edges count: 28
+ benchmark - data: 1
+ categor - new: 1
+ categor - problem: 1
+ categor - system: 1
+ categor - tag: 1
+ classif - method: 1
+ content - nontrivi: 1
+ expens - crossvalid: 1
+ extens - experi: 1
+ human - involv: 1
+ intens - human: 1
+ larg - scale: 3
+ metalabel - scale: 1
+ multilabel - categor: 1
+ multilabel - classif: 2
+ multilabel - instanc: 1
+ onlin - content: 1
+ page - categor: 1
+ queri - categor: 2
+ recommend - etc: 1
+ relev - set: 1
+ scale - multilabel: 1
+ scale - queri: 1
+ signific - improv: 1
+ tag - recommend: 1
+ unsatisfactori - perform: 1
+ webrel - task: 1
+ web - page: 1
+
+PageRank scores count: 37
+ benchmark: 0.014779849446926957
+ categor: 0.07174462230744995
+ classif: 0.0282692332890191
+ content: 0.027342721476814866
+ crossvalid: 0.027342721476814866
+ data: 0.027342721476814866
+ etc: 0.049036204245860276
+ expens: 0.014779849446926957
+ experi: 0.027342721476814866
+ extens: 0.014779849446926957
+ human: 0.027342721476814866
+ improv: 0.027342721476814866
+ instanc: 0.02152454136797303
+ intens: 0.014779849446926957
+ involv: 0.03802116270221959
+ larg: 0.014779849446926957
+ metalabel: 0.014779849446926957
+ method: 0.03880869774259319
+ multilabel: 0.03173972668727564
+ new: 0.03002558168726007
+ nontrivi: 0.03802116270221959
+ onlin: 0.014779849446926957
+ page: 0.027342721476814866
+ perform: 0.027342721476814866
+ problem: 0.03002558168726007
+ queri: 0.03173972668727564
+ recommend: 0.04030159388109802
+ relev: 0.014779849446926957
+ scale: 0.03990559350670278
+ set: 0.027342721476814866
+ signific: 0.014779849446926957
+ system: 0.03002558168726007
+ tag: 0.03002558168726007
+ task: 0.027342721476814866
+ unsatisfactori: 0.014779849446926957
+ web: 0.014779849446926957
+ webrel: 0.014779849446926957
+
+N-grams list: 10
+ queri categor tag
+ multilabel categor system
+ web page categor
+ categor problem
+ multilabel classif method
+ recommend etc
+ larg scale multilabel
+ larg scale queri
+ intens human involv
+ content nontrivi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

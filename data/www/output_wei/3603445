@@ -1,0 +1,74 @@
+File name: 3603445
+
+Graph edges count: 22
+ categori - distribu: 1
+ categor - taxonomi: 1
+ classif - problem: 1
+ classif - technologi: 1
+ effectivenesseffici - tradeoff: 1
+ experiment - studi: 1
+ hierarch - set: 1
+ knearest - neighbor: 1
+ largescal - applic: 1
+ largescal - classif: 1
+ largescal - web: 1
+ machin - knearest: 1
+ naiv - bay: 1
+ popular - threshold: 1
+ repres - method: 1
+ skew - categori: 1
+ support - vector: 1
+ text - classif: 1
+ threshold - tune: 1
+ tune - strategi: 1
+ vector - machin: 1
+ web - categor: 1
+
+PageRank scores count: 31
+ applic: 0.022924544420268225
+ bay: 0.03304707052791913
+ categor: 0.03734914412367076
+ categori: 0.03304707052791913
+ classif: 0.03810833358174458
+ distribu: 0.04595329131517403
+ effectivenesseffici: 0.01786328136644277
+ experiment: 0.01786328136644277
+ hierarch: 0.01786328136644277
+ knearest: 0.056923578984340695
+ largescal: 0.01786328136644277
+ machin: 0.04595329131517403
+ method: 0.03304707052791913
+ naiv: 0.01786328136644277
+ neighbor: 0.06624832350313237
+ popular: 0.01786328136644277
+ problem: 0.03405932313868421
+ repres: 0.01786328136644277
+ set: 0.03304707052791913
+ skew: 0.01786328136644277
+ strategi: 0.056923578984340695
+ studi: 0.03304707052791913
+ support: 0.01786328136644277
+ taxonomi: 0.04961005387156291
+ technologi: 0.03405932313868421
+ text: 0.01786328136644277
+ threshold: 0.03304707052791913
+ tradeoff: 0.03304707052791913
+ tune: 0.04595329131517403
+ vector: 0.03304707052791913
+ web: 0.022924544420268225
+
+N-grams list: 10
+ knearest neighbor
+ support vector machin
+ skew categori distribu
+ popular threshold tune
+ text classif technologi
+ largescal classif problem
+ largescal web categor
+ strategi
+ naiv bay
+ repres method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,91 @@
+File name: 13982483
+
+Graph edges count: 29
+ competitor - market: 1
+ data - sourc: 2
+ empir - analysi: 1
+ end - user: 1
+ en - rout: 1
+ extern - algorithm: 1
+ extrac - problem: 1
+ import - measur: 1
+ interest - insight: 1
+ keyword - extrac: 1
+ market - analyst: 1
+ modest - resourc: 1
+ owner - competitor: 1
+ popular - search: 1
+ previou - approach: 1
+ privat - data: 1
+ privileg - access: 1
+ public - data: 1
+ queri - log: 1
+ queri - sugges: 1
+ search - engin: 6
+ search - keyword: 1
+ search - queri: 1
+ search - result: 1
+ site - owner: 1
+ sugges - servic: 1
+ time - user: 1
+ web - page: 3
+ web - site: 2
+
+PageRank scores count: 41
+ access: 0.026124579753920223
+ algorithm: 0.026124579753920223
+ analysi: 0.026124579753920223
+ analyst: 0.05550391366504216
+ approach: 0.026124579753920223
+ competitor: 0.04066343793926913
+ data: 0.03812776504626195
+ empir: 0.0141213944615785
+ en: 0.0141213944615785
+ end: 0.0141213944615785
+ engin: 0.01967286765928655
+ extern: 0.0141213944615785
+ extrac: 0.03084333197197206
+ import: 0.0141213944615785
+ insight: 0.026124579753920223
+ interest: 0.0141213944615785
+ keyword: 0.01967286765928655
+ log: 0.02248236321677528
+ market: 0.04868531670995726
+ measur: 0.026124579753920223
+ modest: 0.0141213944615785
+ owner: 0.03122593350316545
+ page: 0.020122987107749363
+ popular: 0.0141213944615785
+ previou: 0.0141213944615785
+ privat: 0.0141213944615785
+ privileg: 0.0141213944615785
+ problem: 0.04033822663775475
+ public: 0.0141213944615785
+ queri: 0.01967286765928655
+ resourc: 0.026124579753920223
+ result: 0.01967286765928655
+ rout: 0.026124579753920223
+ search: 0.026124579753920223
+ servic: 0.03323140319583749
+ site: 0.020122987107749363
+ sourc: 0.046529994750901145
+ sugges: 0.02248236321677528
+ time: 0.0141213944615785
+ user: 0.03812776504626195
+ web: 0.0141213944615785
+
+N-grams list: 10
+ competitor market analyst
+ public data sourc
+ privat data sourc
+ keyword extrac problem
+ queri sugges servic
+ web site owner
+ popular search keyword
+ end user
+ time user
+ search queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

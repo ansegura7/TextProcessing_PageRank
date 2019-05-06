@@ -1,0 +1,114 @@
+File name: 7243680
+
+Graph edges count: 43
+ assist - process: 1
+ confer - room: 1
+ effect - intellig: 1
+ effort - process: 1
+ execut - assist: 1
+ form - interfac: 2
+ form - system: 2
+ high - perform: 1
+ human - assist: 1
+ human - resourc: 1
+ inform - intent: 3
+ inform - system: 1
+ intellig - form: 4
+ intent - request: 1
+ interac - design: 1
+ label - corpu: 1
+ label - train: 1
+ languag - process: 3
+ larg - corpu: 1
+ learn - algorithm: 1
+ learn - inform: 1
+ machin - learn: 2
+ major - barrier: 1
+ natur - languag: 3
+ observ - machin: 1
+ observ - user: 1
+ perform - parser: 1
+ personnel - record: 1
+ process - inform: 1
+ process - request: 1
+ process - system: 1
+ process - techniqu: 1
+ real - data: 1
+ repetit - natur: 1
+ request - assist: 1
+ request - messag: 2
+ resourc - assist: 1
+ semiautomat - process: 1
+ signific - amount: 1
+ straightforward - applic: 1
+ train - corpu: 1
+ travel - reserv: 1
+ wellunderstood - domain: 1
+
+PageRank scores count: 50
+ algorithm: 0.01858331500413805
+ amount: 0.017723200880334005
+ applic: 0.017723200880334005
+ assist: 0.04952744842326339
+ barrier: 0.017723200880334005
+ confer: 0.009580108583964327
+ corpu: 0.03339865355084563
+ data: 0.017723200880334005
+ design: 0.017723200880334005
+ domain: 0.017723200880334005
+ effect: 0.009580108583964327
+ effort: 0.009580108583964327
+ execut: 0.009580108583964327
+ form: 0.024644829332248232
+ high: 0.009580108583964327
+ human: 0.009580108583964327
+ inform: 0.03747727091473319
+ intellig: 0.017723200880334005
+ intent: 0.033471869567334854
+ interac: 0.009580108583964327
+ interfac: 0.020054161050169824
+ label: 0.009580108583964327
+ languag: 0.024644829332248232
+ larg: 0.009580108583964327
+ learn: 0.021184015106291115
+ machin: 0.013651654732149167
+ major: 0.009580108583964327
+ messag: 0.04183769832879984
+ natur: 0.017723200880334005
+ observ: 0.009580108583964327
+ parser: 0.024644829332248232
+ perform: 0.017723200880334005
+ personnel: 0.009580108583964327
+ process: 0.08891273080247115
+ real: 0.009580108583964327
+ record: 0.017723200880334005
+ repetit: 0.009580108583964327
+ request: 0.05692515488416637
+ reserv: 0.017723200880334005
+ resourc: 0.013651654732149167
+ room: 0.017723200880334005
+ semiautomat: 0.009580108583964327
+ signific: 0.009580108583964327
+ straightforward: 0.009580108583964327
+ system: 0.04691203728855514
+ techniqu: 0.02847406449455947
+ train: 0.013651654732149167
+ travel: 0.009580108583964327
+ user: 0.013651654732149167
+ wellunderstood: 0.009580108583964327
+
+N-grams list: 10
+ assist process request
+ semiautomat process inform
+ intent request messag
+ natur languag process
+ request assist
+ request messag
+ effort process
+ learn inform intent
+ intellig form system
+ inform system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

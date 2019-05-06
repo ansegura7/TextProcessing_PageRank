@@ -1,0 +1,80 @@
+File name: 4247760
+
+Graph edges count: 27
+ applic - web: 1
+ backend - databas: 1
+ bench - mark: 1
+ cach - solution: 1
+ closedsourc - applic: 1
+ consistencypreserv - cach: 1
+ consist - semant: 1
+ databas - content: 1
+ databas - server: 1
+ databas - tradition: 1
+ dynam - databas: 1
+ dynam - web: 2
+ endtoend - throughput: 1
+ intens - applic: 1
+ latenc - improv: 1
+ mark - repres: 1
+ middlewar - layer: 1
+ nondata - intens: 1
+ previou - result: 1
+ relat - databas: 1
+ semant - interpret: 1
+ site - measur: 1
+ strict - consist: 1
+ tradition - cach: 1
+ web - content: 1
+ web - server: 1
+ web - site: 1
+
+PageRank scores count: 32
+ applic: 0.05282889206318524
+ backend: 0.015435761011887579
+ bench: 0.015435761011887579
+ cach: 0.053293572785313936
+ closedsourc: 0.015435761011887579
+ consist: 0.02855615787199202
+ consistencypreserv: 0.015435761011887579
+ content: 0.04805798775492976
+ databas: 0.048236753162148684
+ dynam: 0.015435761011887579
+ endtoend: 0.015435761011887579
+ improv: 0.02855615787199202
+ intens: 0.02855615787199202
+ interpret: 0.049187981934506256
+ latenc: 0.015435761011887579
+ layer: 0.02855615787199202
+ mark: 0.02855615787199202
+ measur: 0.0446680325503604
+ middlewar: 0.015435761011887579
+ nondata: 0.015435761011887579
+ previou: 0.015435761011887579
+ relat: 0.015435761011887579
+ repres: 0.03970849520308079
+ result: 0.02855615787199202
+ semant: 0.03970849520308079
+ server: 0.04805798775492976
+ site: 0.03439090769232097
+ solution: 0.060735297879404425
+ strict: 0.015435761011887579
+ throughput: 0.02855615787199202
+ tradition: 0.02910284107449637
+ web: 0.06690051769564725
+
+N-grams list: 10
+ applic web server
+ dynam web content
+ dynam web site
+ cach solution
+ dynam databas content
+ nondata intens applic
+ databas server
+ relat databas tradition
+ semant interpret
+ strict consist semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

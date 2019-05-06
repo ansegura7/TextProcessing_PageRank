@@ -1,0 +1,63 @@
+File name: 3587979
+
+Graph edges count: 19
+ assumeguarante - style: 1
+ behavior - interfac: 1
+ behavior - verif: 2
+ bpel - specif: 1
+ composit - web: 2
+ design - pattern: 3
+ global - behavior: 1
+ interfac - descrip: 1
+ interfac - verif: 2
+ live - properti: 1
+ modular - approach: 1
+ modular - assumeguarante: 1
+ reliabl - web: 1
+ separ - step: 1
+ servic - implement: 1
+ style - verif: 1
+ verif - approach: 1
+ verif - strategi: 1
+ web - servic: 6
+
+PageRank scores count: 23
+ approach: 0.07704477804276343
+ assumeguarante: 0.031717798645969957
+ behavior: 0.04117749297897854
+ bpel: 0.022258104312961373
+ composit: 0.022258104312961373
+ descrip: 0.0318702048324462
+ design: 0.022258104312961373
+ global: 0.022258104312961373
+ implement: 0.08459748996748793
+ interfac: 0.0339250606570053
+ live: 0.022258104312961373
+ modular: 0.022258104312961373
+ pattern: 0.04117749297897854
+ properti: 0.04117749297897854
+ reliabl: 0.022258104312961373
+ separ: 0.022258104312961373
+ servic: 0.07334045371120772
+ specif: 0.04117749297897854
+ step: 0.04117749297897854
+ strategi: 0.06758508370975484
+ style: 0.049218233162035836
+ verif: 0.10665171622774934
+ web: 0.0600968816449957
+
+N-grams list: 10
+ web servic implement
+ verif approach
+ verif strategi
+ reliabl web servic
+ composit web servic
+ behavior verif
+ interfac verif
+ web servic
+ behavior interfac descrip
+ verif
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

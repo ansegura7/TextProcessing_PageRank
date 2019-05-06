@@ -1,0 +1,81 @@
+File name: 10365987
+
+Graph edges count: 27
+ algorithm - perform: 1
+ automat - block: 1
+ contain - page: 1
+ content - block: 2
+ draganddrop - action: 1
+ edit - distanc: 1
+ end - user: 1
+ experiment - result: 1
+ favorit - web: 1
+ googl - homepag: 1
+ homepag - live: 2
+ homepag - servic: 1
+ homepag - system: 1
+ immut - elem: 1
+ intens - manual: 1
+ manual - effort: 1
+ person - homepag: 2
+ servic - provid: 1
+ singl - page: 1
+ singl - web: 1
+ soft - window: 1
+ tree - edit: 1
+ web - content: 3
+ web - page: 3
+ web - person: 1
+ web - user: 1
+ window - live: 1
+
+PageRank scores count: 33
+ action: 0.03241773135145745
+ algorithm: 0.017523098027814838
+ automat: 0.017523098027814838
+ block: 0.05811330112119778
+ contain: 0.017523098027814838
+ content: 0.030230082082047437
+ distanc: 0.045078169676553675
+ draganddrop: 0.017523098027814838
+ edit: 0.03241773135145745
+ effort: 0.045078169676553675
+ elem: 0.03241773135145745
+ end: 0.017523098027814838
+ experiment: 0.017523098027814838
+ favorit: 0.017523098027814838
+ googl: 0.017523098027814838
+ homepag: 0.0509126768237993
+ immut: 0.017523098027814838
+ intens: 0.017523098027814838
+ live: 0.06671605732666838
+ manual: 0.03241773135145745
+ page: 0.05257203206751136
+ perform: 0.03241773135145745
+ person: 0.021758759379225705
+ provid: 0.04161383360275619
+ result: 0.03241773135145745
+ servic: 0.028342041852872184
+ singl: 0.017523098027814838
+ soft: 0.017523098027814838
+ system: 0.028342041852872184
+ tree: 0.017523098027814838
+ user: 0.03665339270286831
+ web: 0.03986504801327875
+ window: 0.03241773135145745
+
+N-grams list: 10
+ homepag live
+ soft window live
+ singl web page
+ person homepag system
+ person homepag servic
+ tree edit distanc
+ intens manual effort
+ web page
+ content block
+ favorit web content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

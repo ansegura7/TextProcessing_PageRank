@@ -1,0 +1,86 @@
+File name: 13062801
+
+Graph edges count: 27
+ addition - constraint: 1
+ architectur - style: 3
+ assump - strength: 1
+ develop - commun: 1
+ fascin - debat: 1
+ great - set: 1
+ interac - pattern: 1
+ intern - workshop: 2
+ list - forum: 1
+ mail - list: 1
+ major - architectur: 1
+ premier - forum: 1
+ represent - state: 1
+ research - commun: 1
+ research - idea: 1
+ resourceori - approach: 1
+ resourceori - style: 1
+ rest - design: 2
+ rpcorient - approach: 1
+ servic - design: 1
+ specif - interac: 1
+ state - transfer: 1
+ tradition - research: 1
+ web - confer: 1
+ web - servic: 2
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 38
+ addition: 0.0153114238341834
+ approach: 0.03483348922276724
+ architectur: 0.02832613409323929
+ assump: 0.0153114238341834
+ commun: 0.04036474108286599
+ confer: 0.026471537881323826
+ constraint: 0.02832613409323929
+ debat: 0.02832613409323929
+ design: 0.0603130382324339
+ develop: 0.0153114238341834
+ fascin: 0.0153114238341834
+ forum: 0.05240334807249268
+ great: 0.0153114238341834
+ idea: 0.027350030823810097
+ interac: 0.02832613409323929
+ intern: 0.0153114238341834
+ list: 0.02832613409323929
+ mail: 0.0153114238341834
+ major: 0.0153114238341834
+ pattern: 0.039388637813436794
+ premier: 0.0153114238341834
+ represent: 0.0153114238341834
+ research: 0.02832613409323929
+ resourceori: 0.0153114238341834
+ rest: 0.0153114238341834
+ rpcorient: 0.0153114238341834
+ servic: 0.03763165192846425
+ set: 0.02832613409323929
+ specif: 0.0153114238341834
+ state: 0.02832613409323929
+ strength: 0.02832613409323929
+ style: 0.04589599294296474
+ tradition: 0.0153114238341834
+ transfer: 0.039388637813436794
+ web: 0.039388637813436794
+ wide: 0.02832613409323929
+ workshop: 0.02832613409323929
+ world: 0.0153114238341834
+
+N-grams list: 10
+ web servic design
+ mail list forum
+ major architectur style
+ tradition research commun
+ specif interac pattern
+ represent state transfer
+ world wide web
+ web servic
+ rest design
+ architectur style
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

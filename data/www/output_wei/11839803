@@ -1,0 +1,62 @@
+File name: 11839803
+
+Graph edges count: 18
+ delici - youtub: 1
+ direct - onlin: 3
+ direct - social: 1
+ edg - direc: 1
+ effici - algorithm: 1
+ flickr - livejourn: 1
+ ground - truth: 1
+ network - size: 1
+ network - social: 1
+ notabl - score: 1
+ onlin - social: 5
+ random - graph: 1
+ size - increas: 1
+ social - hierarchi: 3
+ social - network: 7
+ twitter - delici: 1
+ wikipedia - notabl: 1
+ youtub - flickr: 1
+
+PageRank scores count: 23
+ algorithm: 0.03951970546353681
+ delici: 0.03951970546353681
+ direc: 0.03951970546353681
+ direct: 0.02136200295326314
+ edg: 0.02136200295326314
+ effici: 0.02136200295326314
+ flickr: 0.06807269266094215
+ graph: 0.03951970546353681
+ ground: 0.02136200295326314
+ hierarchi: 0.04344926937053729
+ increas: 0.06585446037925667
+ livejourn: 0.07922379171506397
+ network: 0.07289895792690282
+ notabl: 0.03951970546353681
+ onlin: 0.03498027983596839
+ random: 0.02136200295326314
+ score: 0.05495375259726942
+ size: 0.05234406298729282
+ social: 0.08661672647543436
+ truth: 0.03951970546353681
+ twitter: 0.02136200295326314
+ wikipedia: 0.02136200295326314
+ youtub: 0.05495375259726942
+
+N-grams list: 10
+ network social hierarchi
+ onlin social network
+ network size increas
+ direct social network
+ social network
+ flickr livejourn
+ direct onlin social
+ social hierarchi
+ twitter delici youtub
+ wikipedia notabl score
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

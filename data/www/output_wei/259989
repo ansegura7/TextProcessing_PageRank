@@ -1,0 +1,75 @@
+File name: 259989
+
+Graph edges count: 23
+ access - consider: 1
+ case - studi: 1
+ coordin - function: 1
+ deliveri - capabl: 1
+ devic - access: 1
+ divers - interac: 1
+ function - specif: 1
+ interac - interfac: 1
+ interac - manag: 3
+ interac - media: 1
+ manag - multimod: 1
+ mixedin - dialog: 2
+ mobil - devic: 1
+ multimod - interfac: 1
+ multimod - web: 2
+ multipl - interac: 1
+ partial - input: 1
+ person - dialog: 1
+ session - cach: 1
+ softwar - framework: 1
+ softwar - technologi: 1
+ stage - transform: 2
+ web - interac: 2
+
+PageRank scores count: 31
+ access: 0.04207558544310329
+ cach: 0.03025843851107525
+ capabl: 0.03025843851107525
+ case: 0.016355912708689323
+ consider: 0.05212016033532712
+ coordin: 0.016355912708689323
+ deliveri: 0.016355912708689323
+ devic: 0.03025843851107525
+ dialog: 0.04416096431346117
+ divers: 0.016355912708689323
+ framework: 0.023307175609882283
+ function: 0.03025843851107525
+ input: 0.03025843851107525
+ interac: 0.0918076356162128
+ interfac: 0.05181271210962076
+ manag: 0.06317780809238278
+ media: 0.031963211169920486
+ mixedin: 0.016355912708689323
+ mobil: 0.016355912708689323
+ multimod: 0.0700570495872147
+ multipl: 0.016355912708689323
+ partial: 0.016355912708689323
+ person: 0.016355912708689323
+ session: 0.016355912708689323
+ softwar: 0.016355912708689323
+ specif: 0.04207558544310329
+ stage: 0.016355912708689323
+ studi: 0.03025843851107525
+ technologi: 0.023307175609882283
+ transform: 0.03025843851107525
+ web: 0.05605491458808987
+
+N-grams list: 10
+ multimod web interac
+ manag multimod interfac
+ multipl interac interfac
+ interac manag
+ divers interac media
+ interac
+ mobil devic access
+ function specif
+ manag
+ person dialog
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

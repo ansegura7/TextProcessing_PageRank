@@ -1,0 +1,71 @@
+File name: 1021018
+
+Graph edges count: 22
+ allour - find: 1
+ allth - find: 1
+ behavior - variabl: 1
+ dramat - differ: 1
+ effect - websearch: 1
+ extrem - user: 1
+ fivemonth - period: 1
+ interac - behavior: 1
+ interac - flow: 1
+ interac - style: 1
+ kei - aspect: 1
+ logbas - studi: 1
+ longitudin - logbas: 1
+ searchrel - activ: 1
+ search - behavior: 1
+ search - interac: 2
+ volunt - user: 1
+ websearch - interac: 1
+ web - search: 1
+ web - user: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 28
+ activ: 0.0359309070034785
+ allour: 0.019422111893772163
+ allth: 0.019422111893772163
+ aspect: 0.0359309070034785
+ behavior: 0.05162539432995753
+ differ: 0.0359309070034785
+ dramat: 0.019422111893772163
+ effect: 0.019422111893772163
+ extrem: 0.019422111893772163
+ find: 0.05243970211318485
+ fivemonth: 0.019422111893772163
+ flow: 0.04010603860892848
+ interac: 0.073002094288787
+ kei: 0.019422111893772163
+ logbas: 0.0359309070034785
+ longitudin: 0.019422111893772163
+ period: 0.0359309070034785
+ search: 0.040656549603631936
+ searchrel: 0.019422111893772163
+ studi: 0.04996338284672889
+ style: 0.04010603860892848
+ user: 0.07367413982304463
+ variabl: 0.06330369707423607
+ volunt: 0.019422111893772163
+ web: 0.04996338284672889
+ websearch: 0.0359309070034785
+ wide: 0.0359309070034785
+ world: 0.019422111893772163
+
+N-grams list: 10
+ effect websearch interac
+ interac behavior
+ behavior variabl
+ search interac
+ interac flow
+ interac style
+ longitudin logbas studi
+ world wide web
+ volunt user
+ extrem user
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

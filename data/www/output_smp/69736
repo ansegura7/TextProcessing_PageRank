@@ -1,0 +1,122 @@
+File name: 69736
+
+Graph edges count: 44
+ accur - semant: 1
+ autom - inform: 1
+ commonsens - knowledg: 1
+ comput - vision: 1
+ constraint - optim: 1
+ data - instanc: 1
+ domain - constraint: 1
+ exist - approach: 1
+ inform - process: 2
+ kei - featur: 1
+ learn - strategi: 1
+ learn - techniqu: 1
+ machin - learn: 1
+ machin - understand: 1
+ map - process: 1
+ match - accuraci: 1
+ match - process: 1
+ multipl - learn: 1
+ multipl - type: 1
+ myriad - opportun: 1
+ natur - data: 1
+ ontologi - glue: 1
+ ontologi - map: 1
+ optim - techniqu: 1
+ practic - similar: 1
+ probabilist - defini: 1
+ promin - role: 1
+ realworld - domain: 1
+ relax - label: 1
+ semant - map: 2
+ semant - web: 4
+ similar - concept: 1
+ similar - measur: 2
+ similar - notion: 1
+ singl - similar: 1
+ taxonom - structur: 1
+ tediou - errorpron: 1
+ understand - data: 1
+ web - ontologi: 1
+ web - scale: 1
+ welldefin - similar: 1
+ wellfound - probabilist: 1
+ wellknown - constraint: 1
+ widespread - public: 1
+
+PageRank scores count: 57
+ accur: 0.009823897138406097
+ accuraci: 0.01399905342222869
+ approach: 0.01817420970605128
+ autom: 0.009823897138406097
+ commonsens: 0.009823897138406097
+ comput: 0.009823897138406097
+ concept: 0.019705100343452898
+ constraint: 0.03362228795619487
+ data: 0.030073405114945665
+ defini: 0.025271975388549684
+ domain: 0.01817420970605128
+ errorpron: 0.01817420970605128
+ exist: 0.009823897138406097
+ featur: 0.01817420970605128
+ glue: 0.017168649409819384
+ inform: 0.01817420970605128
+ instanc: 0.03538629148610991
+ kei: 0.009823897138406097
+ knowledg: 0.01817420970605128
+ label: 0.01817420970605128
+ learn: 0.01817420970605128
+ machin: 0.009823897138406097
+ map: 0.024892688534891176
+ match: 0.009823897138406097
+ measur: 0.019705100343452898
+ multipl: 0.009823897138406097
+ myriad: 0.009823897138406097
+ natur: 0.009823897138406097
+ notion: 0.019705100343452898
+ ontologi: 0.017281770050384202
+ opportun: 0.01817420970605128
+ optim: 0.038402841901171735
+ practic: 0.009823897138406097
+ probabilist: 0.01817420970605128
+ process: 0.05060591692702978
+ promin: 0.009823897138406097
+ public: 0.01817420970605128
+ realworld: 0.009823897138406097
+ relax: 0.009823897138406097
+ role: 0.01817420970605128
+ scale: 0.017281770050384202
+ semant: 0.01817420970605128
+ similar: 0.03487483484134164
+ singl: 0.009823897138406097
+ strategi: 0.01754793626347789
+ structur: 0.01817420970605128
+ taxonom: 0.009823897138406097
+ techniqu: 0.05019035187947386
+ tediou: 0.009823897138406097
+ type: 0.01399905342222869
+ understand: 0.01399905342222869
+ vision: 0.01817420970605128
+ web: 0.01754793626347789
+ welldefin: 0.009823897138406097
+ wellfound: 0.009823897138406097
+ wellknown: 0.009823897138406097
+ widespread: 0.009823897138406097
+
+N-grams list: 10
+ ontologi map process
+ wellknown constraint optim
+ autom inform process
+ machin learn techniqu
+ inform process
+ data instanc
+ singl similar measur
+ welldefin similar notion
+ practic similar measur
+ match process
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

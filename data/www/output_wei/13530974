@@ -1,0 +1,97 @@
+File name: 13530974
+
+Graph edges count: 32
+ altern - venu: 1
+ content - borrow: 1
+ content - reus: 1
+ detec - rate: 1
+ dynam - natur: 1
+ effect - asset: 1
+ entri - outlet: 1
+ experi - result: 1
+ extens - quotat: 1
+ increment - process: 1
+ inform - sourc: 1
+ media - outlet: 2
+ multipl - order: 1
+ new - articl: 1
+ new - entertain: 1
+ new - entri: 2
+ new - site: 1
+ onlin - new: 1
+ polit - new: 1
+ primari - inform: 1
+ process - time: 2
+ qsign - algorithm: 1
+ qsign - process: 1
+ realworld - event: 1
+ real - world: 1
+ relat - space: 1
+ reus - detec: 3
+ reus - identif: 1
+ space - web: 1
+ time - gain: 2
+ tradition - media: 1
+ web - entri: 2
+
+PageRank scores count: 44
+ algorithm: 0.018375498722520017
+ altern: 0.012895086822821065
+ articl: 0.018813931674495934
+ asset: 0.02385591062221897
+ borrow: 0.018375498722520017
+ content: 0.012895086822821065
+ detec: 0.024609467258427574
+ dynam: 0.012895086822821065
+ effect: 0.012895086822821065
+ entertain: 0.018813931674495934
+ entri: 0.05292949575012191
+ event: 0.02385591062221897
+ experi: 0.012895086822821065
+ extens: 0.012895086822821065
+ gain: 0.04505140364430467
+ identif: 0.016799880301356568
+ increment: 0.012895086822821065
+ inform: 0.02385591062221897
+ media: 0.02385591062221897
+ multipl: 0.012895086822821065
+ natur: 0.02385591062221897
+ new: 0.034816734421616875
+ onlin: 0.012895086822821065
+ order: 0.02385591062221897
+ outlet: 0.07816268223931082
+ polit: 0.012895086822821065
+ primari: 0.012895086822821065
+ process: 0.02933632252191792
+ qsign: 0.012895086822821065
+ quotat: 0.02385591062221897
+ rate: 0.033813133992484506
+ real: 0.012895086822821065
+ realworld: 0.012895086822821065
+ relat: 0.012895086822821065
+ result: 0.02385591062221897
+ reus: 0.018375498722520017
+ site: 0.018813931674495934
+ sourc: 0.03317261085170719
+ space: 0.02385591062221897
+ time: 0.03783096096645129
+ tradition: 0.012895086822821065
+ venu: 0.02385591062221897
+ web: 0.03317261085170719
+ world: 0.02385591062221897
+
+N-grams list: 10
+ new entri outlet
+ tradition media outlet
+ process time gain
+ media outlet
+ new entri
+ web entri
+ qsign process time
+ reus detec rate
+ relat space web
+ primari inform sourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

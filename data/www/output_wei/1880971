@@ -1,0 +1,54 @@
+File name: 1880971
+
+Graph edges count: 14
+ annot - tool: 1
+ crucial - question: 1
+ human - subject: 1
+ manual - annot: 1
+ page - annot: 1
+ paper - wepropos: 1
+ patternbas - annot: 1
+ patternbas - approach: 1
+ promis - result: 1
+ selfannot - web: 1
+ semant - web: 2
+ unsupervis - patternbas: 1
+ web - page: 1
+ wepropos - pankow: 1
+
+PageRank scores count: 19
+ annot: 0.1406283139604058
+ approach: 0.04620145775460268
+ crucial: 0.025865056825529843
+ human: 0.025865056825529843
+ manual: 0.025865056825529843
+ page: 0.08522536224012082
+ pankow: 0.06653785868367552
+ paper: 0.025865056825529843
+ patternbas: 0.04785035512723021
+ promis: 0.025865056825529843
+ question: 0.04785035512723021
+ result: 0.04785035512723021
+ selfannot: 0.025865056825529843
+ semant: 0.025865056825529843
+ subject: 0.04785035512723021
+ tool: 0.14539912369187477
+ unsupervis: 0.025865056825529843
+ web: 0.06983565342893058
+ wepropos: 0.04785035512723021
+
+N-grams list: 10
+ web page annot
+ annot tool
+ patternbas annot
+ manual annot
+ paper wepropos pankow
+ unsupervis patternbas approach
+ semant web
+ selfannot web
+ promis result
+ human subject
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

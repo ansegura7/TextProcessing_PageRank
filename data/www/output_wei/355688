@@ -1,0 +1,115 @@
+File name: 355688
+
+Graph edges count: 46
+ attribut - inform: 1
+ current - inform: 1
+ current - web: 1
+ documentlevel - inform: 1
+ docum - level: 1
+ extrac - error: 1
+ extrac - techniqu: 1
+ hybrid - model: 2
+ inaccur - attribut: 1
+ inaccur - relev: 1
+ inform - extrac: 1
+ inform - retriev: 2
+ languag - model: 1
+ limit - perform: 1
+ model - docum: 1
+ multipl - copi: 1
+ myriad - structur: 1
+ objectori - queri: 1
+ object - level: 1
+ object - retriev: 5
+ onlin - web: 1
+ paper - search: 1
+ paradigm - shift: 1
+ primari - function: 1
+ realworld - object: 1
+ relev - rank: 2
+ reliabl - assump: 1
+ retriev - context: 1
+ retriev - featur: 1
+ retriev - model: 3
+ retriev - perform: 1
+ retriev - unit: 1
+ satisfactori - retriev: 1
+ search - engin: 2
+ site - qualiti: 1
+ static - web: 1
+ structur - inform: 1
+ structur - object: 1
+ tradition - inform: 1
+ unstructur - object: 1
+ unstructur - retriev: 1
+ web - databas: 1
+ web - object: 2
+ web - page: 1
+ web - search: 1
+ web - site: 1
+
+PageRank scores count: 48
+ assump: 0.018461360931912116
+ attribut: 0.014220237474580956
+ context: 0.019640763509859945
+ copi: 0.018461360931912116
+ current: 0.009979114017249793
+ databas: 0.014396950951969755
+ docum: 0.05751838689299395
+ documentlevel: 0.009979114017249793
+ engin: 0.02942643220388706
+ error: 0.02037569803246497
+ extrac: 0.024462550624035708
+ featur: 0.019640763509859945
+ function: 0.018461360931912116
+ hybrid: 0.009979114017249793
+ inaccur: 0.009979114017249793
+ inform: 0.05111801155336206
+ languag: 0.009979114017249793
+ level: 0.06444917640238364
+ limit: 0.009979114017249793
+ model: 0.05592855632440488
+ multipl: 0.009979114017249793
+ myriad: 0.009979114017249793
+ object: 0.039384236654745844
+ objectori: 0.009979114017249793
+ onlin: 0.009979114017249793
+ page: 0.014396950951969755
+ paper: 0.009979114017249793
+ paradigm: 0.009979114017249793
+ perform: 0.02812301042452227
+ primari: 0.009979114017249793
+ qualiti: 0.022216522326424085
+ queri: 0.018461360931912116
+ rank: 0.022066315870643605
+ realworld: 0.009979114017249793
+ relev: 0.014220237474580956
+ reliabl: 0.009979114017249793
+ retriev: 0.07956652523326006
+ satisfactori: 0.009979114017249793
+ search: 0.02287919786663208
+ shift: 0.018461360931912116
+ site: 0.014396950951969755
+ static: 0.009979114017249793
+ structur: 0.018461360931912116
+ techniqu: 0.02037569803246497
+ tradition: 0.009979114017249793
+ unit: 0.019640763509859945
+ unstructur: 0.009979114017249793
+ web: 0.031184731303905602
+
+N-grams list: 10
+ web object retriev
+ tradition inform retriev
+ documentlevel inform retriev
+ object retriev context
+ structur object retriev
+ unstructur object retriev
+ docum level
+ satisfactori retriev perform
+ model docum
+ unstructur retriev featur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

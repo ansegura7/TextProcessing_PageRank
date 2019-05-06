@@ -1,0 +1,77 @@
+File name: 11134938
+
+Graph edges count: 22
+ automat - folksonomi: 1
+ collectionset - relat: 1
+ directori - project: 1
+ divers - user: 1
+ empir - result: 1
+ flickr - automat: 1
+ folksonomi - construc: 1
+ gener - concept: 1
+ good - sourc: 1
+ granular - level: 1
+ hierarch - relat: 1
+ individu - hierarchi: 1
+ noisi - vocabulari: 1
+ open - directori: 1
+ photoshar - site: 1
+ refer - taxonomi: 1
+ shallow - individu: 1
+ site - flickr: 1
+ social - photoshar: 1
+ statist - framework: 1
+ userspecifi - relat: 3
+ web - directori: 1
+
+PageRank scores count: 34
+ automat: 0.058159026797528914
+ collectionset: 0.0156820732170471
+ concept: 0.029011835451537137
+ construc: 0.07103173231275177
+ directori: 0.04234159768602717
+ divers: 0.0156820732170471
+ empir: 0.0156820732170471
+ flickr: 0.04997288656527271
+ folksonomi: 0.06511724599494667
+ framework: 0.029011835451537137
+ gener: 0.0156820732170471
+ good: 0.0156820732170471
+ granular: 0.0156820732170471
+ hierarch: 0.0156820732170471
+ hierarchi: 0.04034213335085366
+ individu: 0.029011835451537137
+ level: 0.029011835451537137
+ noisi: 0.0156820732170471
+ open: 0.0156820732170471
+ photoshar: 0.029011835451537137
+ project: 0.05167243125017019
+ refer: 0.0156820732170471
+ relat: 0.0556713599205172
+ result: 0.029011835451537137
+ shallow: 0.0156820732170471
+ site: 0.04034213335085366
+ social: 0.0156820732170471
+ sourc: 0.029011835451537137
+ statist: 0.0156820732170471
+ taxonomi: 0.029011835451537137
+ user: 0.029011835451537137
+ userspecifi: 0.0156820732170471
+ vocabulari: 0.029011835451537137
+ web: 0.0156820732170471
+
+N-grams list: 10
+ flickr automat folksonomi
+ open directori project
+ social photoshar site
+ shallow individu hierarchi
+ hierarch relat
+ userspecifi relat
+ collectionset relat
+ construc
+ folksonomi
+ web directori
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

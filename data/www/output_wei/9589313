@@ -1,0 +1,90 @@
+File name: 9589313
+
+Graph edges count: 33
+ advanc - attack: 1
+ autom - attack: 1
+ autom - crawl: 1
+ autom - crosssit: 1
+ autom - ident: 1
+ busi - contact: 1
+ clone - attack: 1
+ contact - longlost: 1
+ crosssit - profil: 1
+ experiment - result: 1
+ friendship - relationship: 1
+ friend - request: 2
+ growth - rate: 1
+ ident - theft: 3
+ larg - volum: 1
+ longlost - friend: 1
+ network - site: 3
+ network - social: 1
+ person - inform: 1
+ person - user: 1
+ photograph - contact: 1
+ popular - social: 1
+ potenti - attack: 1
+ profil - clone: 1
+ real - user: 1
+ regist - user: 1
+ sensit - person: 1
+ share - photograph: 1
+ social - network: 4
+ theft - attack: 2
+ user - inform: 1
+ user - profil: 1
+ wellknown - site: 1
+
+PageRank scores count: 36
+ advanc: 0.012676983522606974
+ attack: 0.10174742775216422
+ autom: 0.012676983522606974
+ busi: 0.012676983522606974
+ clone: 0.05052334532566669
+ contact: 0.04338697610612237
+ crawl: 0.015370842521160957
+ crosssit: 0.015370842521160957
+ experiment: 0.012676983522606974
+ friend: 0.05479950975349632
+ friendship: 0.012676983522606974
+ growth: 0.012676983522606974
+ ident: 0.015370842521160957
+ inform: 0.041427193684674346
+ larg: 0.012676983522606974
+ longlost: 0.04955591321281099
+ network: 0.039800508272935166
+ person: 0.023452419516822903
+ photograph: 0.023452419516822903
+ popular: 0.012676983522606974
+ potenti: 0.012676983522606974
+ profil: 0.04452513153301143
+ rate: 0.023452419516822903
+ real: 0.012676983522606974
+ regist: 0.012676983522606974
+ relationship: 0.023452419516822903
+ request: 0.059256566813078844
+ result: 0.023452419516822903
+ sensit: 0.012676983522606974
+ share: 0.012676983522606974
+ site: 0.04882525031196813
+ social: 0.03191002978187131
+ theft: 0.025742199665593785
+ user: 0.04419513380568856
+ volum: 0.023452419516822903
+ wellknown: 0.012676983522606974
+
+N-grams list: 10
+ clone attack
+ ident theft attack
+ social network site
+ autom attack
+ potenti attack
+ advanc attack
+ friend request
+ person user inform
+ longlost friend
+ social network social
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

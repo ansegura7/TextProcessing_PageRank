@@ -1,0 +1,73 @@
+File name: 5958510
+
+Graph edges count: 23
+ admis - control: 5
+ bound - predic: 1
+ capac - resourc: 1
+ contentbas - messag: 1
+ control - decision: 1
+ control - methodologi: 2
+ control - techniqu: 1
+ finit - capac: 1
+ guarante - qualiti: 1
+ incom - request: 2
+ messag - middlewar: 1
+ middlewar - servic: 1
+ network - servic: 1
+ onlin - admis: 1
+ profit - maxim: 1
+ provid - variabl: 1
+ qo - bound: 2
+ request - admis: 1
+ request - qo: 1
+ servic - provid: 2
+ servic - time: 3
+ shortterm - futur: 1
+ sophist - request: 1
+
+PageRank scores count: 29
+ admis: 0.05036557817109803
+ bound: 0.04747344301089777
+ capac: 0.031084677103096363
+ contentbas: 0.016802528163835873
+ control: 0.059613269609269194
+ decision: 0.029470347955805574
+ finit: 0.016802528163835873
+ futur: 0.031084677103096363
+ guarante: 0.016802528163835873
+ incom: 0.016802528163835873
+ maxim: 0.031084677103096363
+ messag: 0.031084677103096363
+ methodologi: 0.042138167747775276
+ middlewar: 0.04322450370146778
+ network: 0.016802528163835873
+ onlin: 0.016802528163835873
+ predic: 0.05715495472309898
+ profit: 0.016802528163835873
+ provid: 0.03986319994861282
+ qo: 0.036083429231837535
+ qualiti: 0.031084677103096363
+ request: 0.04536682604235685
+ resourc: 0.04322450370146778
+ servic: 0.06782550524934397
+ shortterm: 0.016802528163835873
+ sophist: 0.016802528163835873
+ techniqu: 0.029470347955805574
+ time: 0.051393535841001294
+ variabl: 0.05068624812015677
+
+N-grams list: 10
+ admis control methodologi
+ admis control decision
+ request qo bound
+ onlin admis control
+ network servic provid
+ servic time
+ sophist request admis
+ admis control
+ servic provid
+ contentbas messag middlewar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

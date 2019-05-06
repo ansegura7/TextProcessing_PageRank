@@ -1,0 +1,89 @@
+File name: 92127
+
+Graph edges count: 28
+ bidirec - translat: 1
+ descrip - horn: 1
+ descrip - logic: 5
+ dlpfusion - techniqu: 1
+ dlp - fragment: 2
+ dl - ontolog: 1
+ dl - ontologi: 1
+ effici - lp: 1
+ express - fragment: 1
+ express - intersec: 1
+ firstord - logic: 1
+ horn - logic: 1
+ individu - constant: 1
+ intermedi - knowledg: 1
+ knowledg - represent: 1
+ largescal - dl: 1
+ logic - program: 4
+ oil - descrip: 1
+ ontolog - defini: 2
+ rdfschema - fragment: 1
+ relat - descrip: 1
+ ruleml - logic: 1
+ rule - kr: 1
+ semant - web: 1
+ signific - degre: 1
+ typic - kind: 1
+ vocabulari - primit: 1
+ web - approach: 1
+
+PageRank scores count: 40
+ approach: 0.0367891969184668
+ bidirec: 0.01430095118307747
+ constant: 0.02645675968869332
+ defini: 0.036014264126233785
+ degre: 0.02645675968869332
+ descrip: 0.03861256819430917
+ dl: 0.02645675968869332
+ dlp: 0.01430095118307747
+ dlpfusion: 0.01430095118307747
+ effici: 0.01430095118307747
+ express: 0.01430095118307747
+ firstord: 0.01430095118307747
+ fragment: 0.04469047244711709
+ horn: 0.019771065010604605
+ individu: 0.01430095118307747
+ intermedi: 0.01430095118307747
+ intersec: 0.0203788554358854
+ kind: 0.02645675968869332
+ knowledg: 0.02645675968869332
+ kr: 0.02645675968869332
+ largescal: 0.01430095118307747
+ logic: 0.08276854259095874
+ lp: 0.02645675968869332
+ oil: 0.01430095118307747
+ ontolog: 0.025545074050772134
+ ontologi: 0.025545074050772134
+ primit: 0.02645675968869332
+ program: 0.0846542123853924
+ rdfschema: 0.01430095118307747
+ relat: 0.01430095118307747
+ represent: 0.0367891969184668
+ rule: 0.01430095118307747
+ ruleml: 0.01430095118307747
+ semant: 0.01430095118307747
+ signific: 0.01430095118307747
+ techniqu: 0.02645675968869332
+ translat: 0.02645675968869332
+ typic: 0.01430095118307747
+ vocabulari: 0.01430095118307747
+ web: 0.02645675968869332
+
+N-grams list: 10
+ descrip logic program
+ ruleml logic program
+ logic program
+ oil descrip logic
+ descrip logic
+ firstord logic
+ dl ontolog defini
+ logic
+ semant web approach
+ intermedi knowledg represent
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

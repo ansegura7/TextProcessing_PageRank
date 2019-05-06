@@ -1,0 +1,56 @@
+File name: 801975
+
+Graph edges count: 13
+ boundari - ambigu: 1
+ commun - defini: 1
+ commun - topologi: 1
+ effici - method: 1
+ equival - relat: 2
+ flake - lawrenc: 1
+ gomoryhu - tree: 1
+ keyword - search: 1
+ n1 - cut: 1
+ preliminari - experi: 1
+ web - commun: 2
+ web - graph: 2
+ web - page: 1
+
+PageRank scores count: 22
+ ambigu: 0.0600863944915392
+ boundari: 0.03247913215758876
+ commun: 0.04352203709116894
+ cut: 0.0600863944915392
+ defini: 0.05097599792133556
+ effici: 0.03247913215758876
+ equival: 0.03247913215758876
+ experi: 0.0600863944915392
+ flake: 0.03247913215758876
+ gomoryhu: 0.03247913215758876
+ graph: 0.04352203709116894
+ keyword: 0.03247913215758876
+ lawrenc: 0.0600863944915392
+ method: 0.0600863944915392
+ n1: 0.03247913215758876
+ page: 0.03800058462437885
+ preliminari: 0.03247913215758876
+ relat: 0.0600863944915392
+ search: 0.0600863944915392
+ topologi: 0.05097599792133556
+ tree: 0.0600863944915392
+ web: 0.03247913215758876
+
+N-grams list: 10
+ web commun defini
+ commun topologi
+ keyword search
+ gomoryhu tree
+ boundari ambigu
+ equival relat
+ effici method
+ n1 cut
+ flake lawrenc
+ preliminari experi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

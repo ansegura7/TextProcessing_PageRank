@@ -1,0 +1,74 @@
+File name: 14453752
+
+Graph edges count: 21
+ answer - approach: 1
+ answer - system: 1
+ case - tripl: 1
+ data - intuit: 1
+ entiti - identif: 1
+ express - queri: 1
+ faith - represent: 1
+ good - comprom: 1
+ intern - structur: 1
+ intuit - wai: 1
+ languag - question: 1
+ link - data: 1
+ natur - languag: 1
+ predic - detec: 1
+ question - answer: 2
+ rdf - data: 3
+ semant - structur: 1
+ similar - metric: 1
+ sparql - templat: 1
+ statist - entiti: 1
+ templatebas - question: 1
+
+PageRank scores count: 32
+ answer: 0.06696845621465795
+ approach: 0.04559291003350135
+ case: 0.017131316142271723
+ comprom: 0.03169293486320268
+ data: 0.04625455358413365
+ detec: 0.03169293486320268
+ entiti: 0.03169293486320268
+ express: 0.017131316142271723
+ faith: 0.017131316142271723
+ good: 0.017131316142271723
+ identif: 0.044070310775994
+ intern: 0.017131316142271723
+ intuit: 0.05644768668878532
+ languag: 0.03169293486320268
+ link: 0.017131316142271723
+ metric: 0.03169293486320268
+ natur: 0.017131316142271723
+ predic: 0.017131316142271723
+ queri: 0.03169293486320268
+ question: 0.058631929496924966
+ rdf: 0.017131316142271723
+ represent: 0.03169293486320268
+ semant: 0.017131316142271723
+ similar: 0.017131316142271723
+ sparql: 0.017131316142271723
+ statist: 0.017131316142271723
+ structur: 0.04625455358413365
+ system: 0.04559291003350135
+ templat: 0.03169293486320268
+ templatebas: 0.017131316142271723
+ tripl: 0.03169293486320268
+ wai: 0.06511184982773924
+
+N-grams list: 10
+ question answer approach
+ question answer system
+ link data intuit
+ natur languag question
+ statist entiti identif
+ templatebas question
+ answer
+ wai
+ semant structur
+ rdf data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

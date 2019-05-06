@@ -1,0 +1,33 @@
+File name: 668174
+
+Graph edges count: 7
+ applic - topic: 1
+ elearn - applic: 1
+ elearn - resourc: 1
+ ontologybas - tool: 1
+ resourc - manag: 1
+ semant - resourc: 1
+ tool - suit: 1
+
+PageRank scores count: 9
+ applic: 0.0875979714153988
+ elearn: 0.061472260642385125
+ manag: 0.18034424465959734
+ ontologybas: 0.061472260642385125
+ resourc: 0.13984939296142615
+ semant: 0.061472260642385125
+ suit: 0.15813739050253572
+ tool: 0.11372368218841247
+ topic: 0.1359305363454741
+
+N-grams list: 6
+ semant resourc manag
+ ontologybas tool suit
+ elearn applic topic
+ elearn resourc
+ resourc
+ tool
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

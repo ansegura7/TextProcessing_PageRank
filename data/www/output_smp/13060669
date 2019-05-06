@@ -1,0 +1,63 @@
+File name: 13060669
+
+Graph edges count: 18
+ account - creation: 1
+ creation - time: 2
+ larg - number: 1
+ larg - subset: 1
+ link - creation: 1
+ multipl - observ: 1
+ network - edg: 1
+ network - growth: 1
+ network - snapshot: 1
+ realworld - event: 1
+ singl - static: 2
+ social - link: 1
+ social - network: 1
+ static - snapshot: 2
+ tempor - evolu: 1
+ twitter - celebr: 1
+ twitter - relationship: 1
+ user - account: 1
+
+PageRank scores count: 24
+ account: 0.04673642393725949
+ celebr: 0.0359996778976188
+ creation: 0.09558861841762466
+ edg: 0.03546284059563677
+ event: 0.04673642393725949
+ evolu: 0.04673642393725949
+ growth: 0.03546284059563677
+ larg: 0.025262931857978104
+ link: 0.0359996778976188
+ multipl: 0.025262931857978104
+ network: 0.0359996778976188
+ number: 0.0359996778976188
+ observ: 0.04673642393725949
+ realworld: 0.025262931857978104
+ relationship: 0.0359996778976188
+ singl: 0.025262931857978104
+ snapshot: 0.07518880094230734
+ social: 0.025262931857978104
+ static: 0.04673642393725949
+ subset: 0.0359996778976188
+ tempor: 0.025262931857978104
+ time: 0.10651325751295906
+ twitter: 0.025262931857978104
+ user: 0.025262931857978104
+
+N-grams list: 10
+ user account creation
+ social link creation
+ singl static snapshot
+ network snapshot
+ time
+ multipl observ
+ tempor evolu
+ realworld event
+ network growth
+ network edg
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

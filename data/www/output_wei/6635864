@@ -1,0 +1,51 @@
+File name: 6635864
+
+Graph edges count: 13
+ commun - mechan: 1
+ commun - primit: 1
+ crossdomain - commun: 2
+ effici - commun: 1
+ javascript - librari: 1
+ major - browser: 1
+ secur - commun: 1
+ secur - crossdomain: 1
+ small - javascript: 1
+ thirdparti - sourc: 1
+ web - applic: 1
+ web - develop: 1
+ web - mashup: 3
+
+PageRank scores count: 17
+ applic: 0.042015203578474394
+ browser: 0.06643429625656208
+ commun: 0.12519273801321054
+ crossdomain: 0.05117236333275728
+ develop: 0.042015203578474394
+ effici: 0.035910430408952476
+ javascript: 0.06643429625656208
+ librari: 0.09237958222703023
+ major: 0.035910430408952476
+ mashup: 0.05422474991751824
+ mechan: 0.08911734406456696
+ primit: 0.08911734406456696
+ secur: 0.035910430408952476
+ small: 0.035910430408952476
+ sourc: 0.06643429625656208
+ thirdparti: 0.035910430408952476
+ web: 0.035910430408952476
+
+N-grams list: 10
+ crossdomain commun mechan
+ secur commun primit
+ secur crossdomain commun
+ small javascript librari
+ effici commun
+ major browser
+ thirdparti sourc
+ web mashup
+ web develop
+ web applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

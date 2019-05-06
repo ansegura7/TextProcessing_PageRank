@@ -1,0 +1,50 @@
+File name: 438152
+
+Graph edges count: 11
+ background - knowledg: 3
+ docum - represent: 1
+ machin - learn: 1
+ mine - algorithm: 1
+ ontogen - system: 1
+ ontologi - construc: 2
+ person - ontologi: 1
+ semiautomat - ontologi: 1
+ text - mine: 1
+ weight - schema: 2
+ word - weight: 1
+
+PageRank scores count: 18
+ algorithm: 0.08506944444444446
+ background: 0.033068783068783074
+ construc: 0.10896164021164023
+ docum: 0.033068783068783074
+ knowledg: 0.061177248677248684
+ learn: 0.061177248677248684
+ machin: 0.033068783068783074
+ mine: 0.061177248677248684
+ ontogen: 0.033068783068783074
+ ontologi: 0.08928571428571432
+ person: 0.033068783068783074
+ represent: 0.061177248677248684
+ schema: 0.08506944444444446
+ semiautomat: 0.033068783068783074
+ system: 0.061177248677248684
+ text: 0.033068783068783074
+ weight: 0.061177248677248684
+ word: 0.033068783068783074
+
+N-grams list: 10
+ semiautomat ontologi construc
+ ontologi construc
+ text mine algorithm
+ word weight schema
+ weight schema
+ person ontologi
+ ontogen system
+ machin learn
+ background knowledg
+ docum represent
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

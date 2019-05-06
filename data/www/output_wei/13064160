@@ -1,0 +1,142 @@
+File name: 13064160
+
+Graph edges count: 53
+ accuraci - rate: 1
+ addition - assump: 1
+ anchor - text: 1
+ basic - bmr: 1
+ bayesian - minimum: 1
+ beam - search: 1
+ bmr - framework: 1
+ bodi - anchor: 1
+ break - perform: 1
+ break - task: 3
+ break - techniqu: 1
+ case - studi: 1
+ critic - role: 1
+ divers - languag: 1
+ docum - bodi: 1
+ docum - titl: 2
+ effici - implement: 2
+ fast - adapt: 1
+ global - natur: 1
+ heurist - assump: 1
+ languag - process: 1
+ languag - style: 3
+ larg - scale: 1
+ manual - effort: 1
+ massiv - amount: 1
+ match - model: 2
+ minimum - risk: 1
+ minim - assump: 1
+ minim - heurist: 1
+ minim - manual: 1
+ model - power: 1
+ multilingu - capabl: 1
+ multistyl - model: 1
+ natur - languag: 1
+ order - ngram: 1
+ power - model: 1
+ prior - art: 1
+ reason - cost: 1
+ rudimentari - multilingu: 1
+ scale - applic: 1
+ scale - experi: 1
+ scale - ngram: 1
+ scale - nlp: 1
+ simpl - trigram: 1
+ stateoftheart - word: 1
+ statist - natur: 1
+ synchron - beam: 1
+ titl - model: 1
+ url - word: 3
+ web - content: 1
+ web - scale: 3
+ word - break: 6
+ word - synchron: 1
+
+PageRank scores count: 68
+ accuraci: 0.006918049942992042
+ adapt: 0.012798392394535278
+ addition: 0.006918049942992042
+ amount: 0.012798392394535278
+ anchor: 0.01446448942247253
+ applic: 0.010574887905045492
+ art: 0.012798392394535278
+ assump: 0.022304946024530172
+ basic: 0.006918049942992042
+ bayesian: 0.006918049942992042
+ beam: 0.01472630466971981
+ bmr: 0.012798392394535278
+ bodi: 0.008878164093506455
+ break: 0.020526842473706387
+ capabl: 0.017796683478347026
+ case: 0.006918049942992042
+ content: 0.00838813555587785
+ cost: 0.012798392394535278
+ critic: 0.006918049942992042
+ divers: 0.006918049942992042
+ docum: 0.006918049942992042
+ effici: 0.006918049942992042
+ effort: 0.01446448942247253
+ experi: 0.010574887905045492
+ fast: 0.006918049942992042
+ framework: 0.017796683478347026
+ global: 0.006918049942992042
+ heurist: 0.008878164093506455
+ implement: 0.012798392394535278
+ languag: 0.028675317013702017
+ larg: 0.006918049942992042
+ manual: 0.008878164093506455
+ massiv: 0.006918049942992042
+ match: 0.006918049942992042
+ minim: 0.006918049942992042
+ minimum: 0.012798392394535278
+ model: 0.12169951625026063
+ multilingu: 0.012798392394535278
+ multistyl: 0.006918049942992042
+ natur: 0.01867873484607851
+ ngram: 0.01645523035658873
+ nlp: 0.010574887905045492
+ order: 0.006918049942992042
+ perform: 0.010407613163522128
+ power: 0.11036262572632792
+ prior: 0.006918049942992042
+ process: 0.013011554808403719
+ rate: 0.012798392394535278
+ reason: 0.006918049942992042
+ risk: 0.017796683478347026
+ role: 0.012798392394535278
+ rudimentari: 0.006918049942992042
+ scale: 0.017208649233192704
+ search: 0.01943540891225388
+ simpl: 0.006918049942992042
+ stateoftheart: 0.006918049942992042
+ statist: 0.006918049942992042
+ studi: 0.012798392394535278
+ style: 0.025198564539227076
+ synchron: 0.009186182031444433
+ task: 0.0173867396045823
+ techniqu: 0.010407613163522128
+ text: 0.01921286595209369
+ titl: 0.010838278244020866
+ trigram: 0.012798392394535278
+ url: 0.006918049942992042
+ web: 0.006918049942992042
+ word: 0.01867873484607851
+
+N-grams list: 10
+ power model
+ model power
+ titl model
+ multistyl model
+ match model
+ model
+ divers languag style
+ word break task
+ statist natur languag
+ languag style
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

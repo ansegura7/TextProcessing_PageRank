@@ -1,0 +1,73 @@
+File name: 1275176
+
+Graph edges count: 21
+ analysisbas - method: 1
+ combin - featur: 1
+ current - search: 1
+ dimension - reduc: 1
+ docum - categori: 1
+ effect - queri: 1
+ fals - posit: 1
+ featur - space: 1
+ filter - result: 1
+ nonlinear - support: 1
+ nonlinear - svm: 1
+ posit - result: 1
+ queri - modif: 3
+ realworld - data: 1
+ result - restrict: 1
+ search - engin: 1
+ sensit - analysisbas: 1
+ simpl - queri: 1
+ support - vector: 1
+ text - classifi: 1
+ vector - machin: 1
+
+PageRank scores count: 31
+ analysisbas: 0.03316307381360784
+ categori: 0.03316307381360784
+ classifi: 0.03316307381360784
+ combin: 0.017925985845193428
+ current: 0.017925985845193428
+ data: 0.03316307381360784
+ dimension: 0.017925985845193428
+ docum: 0.017925985845193428
+ effect: 0.017925985845193428
+ engin: 0.0461145985867601
+ fals: 0.017925985845193428
+ featur: 0.03316307381360784
+ filter: 0.017925985845193428
+ machin: 0.05161899661534979
+ method: 0.0461145985867601
+ modif: 0.05906612335991235
+ nonlinear: 0.017925985845193428
+ posit: 0.03316307381360784
+ queri: 0.04840016178202226
+ realworld: 0.017925985845193428
+ reduc: 0.03316307381360784
+ restrict: 0.07007491941709175
+ result: 0.061351686555174506
+ search: 0.03316307381360784
+ sensit: 0.017925985845193428
+ simpl: 0.017925985845193428
+ space: 0.0461145985867601
+ support: 0.02554452982940063
+ svm: 0.02554452982940063
+ text: 0.017925985845193428
+ vector: 0.03963883620018396
+
+N-grams list: 10
+ result restrict
+ simpl queri modif
+ effect queri modif
+ fals posit result
+ queri modif
+ current search engin
+ sensit analysisbas method
+ combin featur space
+ nonlinear support vector
+ filter result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

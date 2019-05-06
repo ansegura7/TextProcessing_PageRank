@@ -1,0 +1,77 @@
+File name: 13061839
+
+Graph edges count: 24
+ abus - behavior: 1
+ astroturf - smear: 1
+ blog - event: 1
+ blog - stream: 1
+ crucial - ground: 1
+ extens - framework: 1
+ massiv - stream: 1
+ meme - diffusion: 1
+ model - massiv: 1
+ onlin - social: 1
+ persontoperson - social: 1
+ polit - battl: 1
+ polit - elec: 1
+ polit - meme: 1
+ public - blog: 1
+ public - relat: 1
+ realtim - analysi: 1
+ relat - market: 1
+ smear - campaign: 1
+ social - interac: 1
+ social - media: 2
+ stream - onlin: 1
+ us - polit: 1
+ web - servic: 2
+
+PageRank scores count: 32
+ abus: 0.016940564754268736
+ analysi: 0.031340044795397155
+ astroturf: 0.016940564754268736
+ battl: 0.025820244112964595
+ behavior: 0.031340044795397155
+ blog: 0.024140304774832946
+ campaign: 0.043579602830356313
+ crucial: 0.016940564754268736
+ diffusion: 0.03888777225028864
+ elec: 0.025820244112964595
+ event: 0.027200194283572735
+ extens: 0.016940564754268736
+ framework: 0.031340044795397155
+ ground: 0.031340044795397155
+ interac: 0.04092143631557645
+ market: 0.037459823812876734
+ massiv: 0.031340044795397155
+ media: 0.06490230787688415
+ meme: 0.025820244112964595
+ model: 0.016940564754268736
+ onlin: 0.06270391225998001
+ persontoperson: 0.016940564754268736
+ polit: 0.031340044795397155
+ public: 0.016940564754268736
+ realtim: 0.016940564754268736
+ relat: 0.024140304774832946
+ servic: 0.031340044795397155
+ smear: 0.031340044795397155
+ social: 0.08463837021638015
+ stream: 0.053839232359660316
+ us: 0.016940564754268736
+ web: 0.016940564754268736
+
+N-grams list: 10
+ social media
+ persontoperson social interac
+ blog stream onlin
+ model massiv stream
+ astroturf smear campaign
+ public relat market
+ us polit elec
+ public blog event
+ meme diffusion
+ polit meme
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

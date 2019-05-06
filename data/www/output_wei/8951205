@@ -1,0 +1,44 @@
+File name: 8951205
+
+Graph edges count: 9
+ artifici - ant: 2
+ automat - gener: 1
+ docum - hierarch: 1
+ hierarch - cluster: 2
+ hierarch - treestructur: 1
+ real - ant: 1
+ selfassembli - behavior: 1
+ treestructur - partition: 1
+ web - portal: 1
+
+PageRank scores count: 14
+ ant: 0.12290581204135553
+ artifici: 0.04552067112642798
+ automat: 0.04552067112642798
+ behavior: 0.08421324158389175
+ cluster: 0.09324150802396663
+ docum: 0.04552067112642798
+ gener: 0.08421324158389175
+ hierarch: 0.08421324158389175
+ partition: 0.10449459726534568
+ portal: 0.08421324158389175
+ real: 0.04552067112642798
+ selfassembli: 0.04552067112642798
+ treestructur: 0.06938108957519731
+ web: 0.04552067112642798
+
+N-grams list: 10
+ hierarch treestructur partition
+ docum hierarch cluster
+ hierarch cluster
+ real ant
+ artifici ant
+ selfassembli behavior
+ web portal
+ automat gener
+ behavior
+ docum
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

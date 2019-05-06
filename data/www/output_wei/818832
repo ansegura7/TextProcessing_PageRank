@@ -1,0 +1,45 @@
+File name: 818832
+
+Graph edges count: 12
+ architectur - web: 1
+ express - ontologi: 1
+ import - antadvantag: 1
+ layer - express: 1
+ ontologi - languag: 2
+ ontologi - work: 1
+ semant - web: 3
+ thesemant - web: 1
+ w3c - ontologi: 1
+ web - architectur: 4
+ web - ontologi: 1
+ work - group: 1
+
+PageRank scores count: 13
+ antadvantag: 0.048904708207404377
+ architectur: 0.17765307017579135
+ express: 0.048904708207404377
+ group: 0.0797983827120693
+ import: 0.026434977409407773
+ languag: 0.09912597744638882
+ layer: 0.026434977409407773
+ ontologi: 0.12827823337529398
+ semant: 0.026434977409407773
+ thesemant: 0.026434977409407773
+ w3c: 0.026434977409407773
+ web: 0.2223795554007104
+ work: 0.0627804774278983
+
+N-grams list: 9
+ web ontologi languag
+ semant web architectur
+ thesemant web architectur
+ w3c ontologi work
+ layer express ontologi
+ languag
+ group
+ import antadvantag
+ layer
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

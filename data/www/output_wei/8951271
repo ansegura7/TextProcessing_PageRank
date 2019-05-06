@@ -1,0 +1,42 @@
+File name: 8951271
+
+Graph edges count: 7
+ automat - gener: 1
+ ey - view: 1
+ hyperlink - refer: 1
+ link - collec: 4
+ signific - site: 1
+ userspecifi - categori: 1
+ visual - method: 1
+
+PageRank scores count: 14
+ automat: 0.05012531328320803
+ categori: 0.09273182957393485
+ collec: 0.09273182957393485
+ ey: 0.05012531328320803
+ gener: 0.09273182957393485
+ hyperlink: 0.05012531328320803
+ link: 0.05012531328320803
+ method: 0.09273182957393485
+ refer: 0.09273182957393485
+ signific: 0.05012531328320803
+ site: 0.09273182957393485
+ userspecifi: 0.05012531328320803
+ view: 0.09273182957393485
+ visual: 0.05012531328320803
+
+N-grams list: 10
+ link collec
+ hyperlink refer
+ automat gener
+ userspecifi categori
+ signific site
+ ey view
+ visual method
+ method
+ categori
+ visual
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

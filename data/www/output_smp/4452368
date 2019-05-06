@@ -1,0 +1,93 @@
+File name: 4452368
+
+Graph edges count: 31
+ clear - mean: 1
+ composi - peertop: 1
+ directori - tree: 1
+ emarketplac - search: 1
+ entityrelationship - schema: 1
+ file - system: 1
+ gener - methodologi: 1
+ inform - integr: 1
+ intend - mean: 2
+ interoper - web: 1
+ knowledg - manag: 1
+ larg - collec: 1
+ peertop - knowledg: 1
+ person - comput: 1
+ portal - emarketplac: 1
+ rdf - schema: 1
+ schema - rdf: 1
+ search - engin: 1
+ semant - browser: 1
+ semant - interoper: 1
+ servic - discoveri: 1
+ site - webbas: 1
+ small - fraction: 1
+ taxonomi - directori: 1
+ thesauri - entityrelationship: 1
+ tree - thesauri: 1
+ webbas - applic: 1
+ web - portal: 1
+ web - servic: 1
+ web - site: 1
+ wide - varieti: 1
+
+PageRank scores count: 41
+ applic: 0.02810549381367556
+ browser: 0.013239072130436904
+ clear: 0.009290576933639931
+ collec: 0.017187567327233873
+ composi: 0.009290576933639931
+ comput: 0.017187567327233873
+ directori: 0.017187567327233873
+ discoveri: 0.02213519632945368
+ emarketplac: 0.02213519632945368
+ engin: 0.03318024667526416
+ entityrelationship: 0.034455323946626225
+ file: 0.009290576933639931
+ fraction: 0.017187567327233873
+ gener: 0.009290576933639931
+ inform: 0.009290576933639931
+ integr: 0.017187567327233873
+ intend: 0.009290576933639931
+ interoper: 0.013239072130436904
+ knowledg: 0.023900009161788725
+ larg: 0.009290576933639931
+ manag: 0.029605584721160344
+ mean: 0.025084557720827814
+ methodologi: 0.017187567327233873
+ peertop: 0.017187567327233873
+ person: 0.009290576933639931
+ portal: 0.015111316936251467
+ rdf: 0.15164517953792975
+ schema: 0.1674760152748179
+ search: 0.02810549381367556
+ semant: 0.009290576933639931
+ servic: 0.015111316936251467
+ site: 0.015111316936251467
+ small: 0.009290576933639931
+ system: 0.017187567327233873
+ taxonomi: 0.009290576933639931
+ thesauri: 0.029605584721160344
+ tree: 0.023900009161788725
+ varieti: 0.017187567327233873
+ web: 0.020543788244511297
+ webbas: 0.02213519632945368
+ wide: 0.009290576933639931
+
+N-grams list: 10
+ rdf schema
+ thesauri entityrelationship schema
+ schema
+ search engin
+ web site webbas
+ web portal emarketplac
+ taxonomi directori tree
+ composi peertop knowledg
+ interoper web servic
+ intend mean
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

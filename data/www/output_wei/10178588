@@ -1,0 +1,109 @@
+File name: 10178588
+
+Graph edges count: 41
+ common - concept: 1
+ compar - substructur: 1
+ condition - distribu: 1
+ condition - probabl: 1
+ data - imag: 1
+ data - medic: 1
+ disjoint - featur: 1
+ docum - sequenc: 1
+ domain - exampl: 1
+ domain - hard: 1
+ domain - transfer: 1
+ featur - set: 1
+ featur - space: 1
+ featur - valu: 1
+ featur - vector: 1
+ high - dimension: 3
+ high - probabl: 1
+ imag - data: 1
+ indomain - exampl: 1
+ label - instanc: 1
+ larg - featur: 1
+ larg - number: 1
+ latent - semant: 1
+ latent - space: 2
+ margin - distribu: 3
+ medic - data: 1
+ neighbor - method: 1
+ nonident - model: 1
+ origin - featur: 1
+ outdomain - exampl: 1
+ predic - unlabel: 1
+ relat - domain: 1
+ relat - label: 1
+ semant - index: 1
+ sequenc - data: 1
+ space - domain: 1
+ test - data: 1
+ text - docum: 1
+ train - data: 1
+ unlabel - instanc: 1
+ weight - vote: 1
+
+PageRank scores count: 47
+ common: 0.008533643673508267
+ compar: 0.008533643673508267
+ concept: 0.015787240795990292
+ condition: 0.008533643673508267
+ data: 0.20255104052973893
+ dimension: 0.013973841515369786
+ disjoint: 0.008533643673508267
+ distribu: 0.019414039357231305
+ docum: 0.015787240795990292
+ domain: 0.028341252899119342
+ exampl: 0.031070859573222802
+ featur: 0.02666763647971333
+ hard: 0.01656366532825875
+ high: 0.008533643673508267
+ imag: 0.0946178259453767
+ index: 0.017842426647360198
+ indomain: 0.008533643673508267
+ instanc: 0.032289174249636905
+ label: 0.01216044223474928
+ larg: 0.008533643673508267
+ latent: 0.008533643673508267
+ margin: 0.008533643673508267
+ medic: 0.0946178259453767
+ method: 0.015787240795990292
+ model: 0.015787240795990292
+ neighbor: 0.008533643673508267
+ nonident: 0.008533643673508267
+ number: 0.01216044223474928
+ origin: 0.008533643673508267
+ outdomain: 0.008533643673508267
+ predic: 0.008533643673508267
+ probabl: 0.013973841515369786
+ relat: 0.008533643673508267
+ semant: 0.010951509381002275
+ sequenc: 0.021952798350100014
+ set: 0.014200516425447349
+ space: 0.019036247840435366
+ substructur: 0.015787240795990292
+ test: 0.008533643673508267
+ text: 0.008533643673508267
+ train: 0.008533643673508267
+ transfer: 0.01656366532825875
+ unlabel: 0.015787240795990292
+ valu: 0.014200516425447349
+ vector: 0.014200516425447349
+ vote: 0.015787240795990292
+ weight: 0.008533643673508267
+
+N-grams list: 10
+ data medic data
+ imag data
+ train data
+ test data
+ domain exampl
+ predic unlabel instanc
+ latent space domain
+ origin featur space
+ relat label instanc
+ larg featur set
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

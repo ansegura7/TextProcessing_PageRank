@@ -1,0 +1,119 @@
+File name: 1142421
+
+Graph edges count: 45
+ accur - conceptu: 1
+ annot - model: 1
+ annot - semant: 1
+ asr - transcript: 1
+ automat - speech: 1
+ broadcast - new: 1
+ conceptu - accuraci: 1
+ conceptu - search: 1
+ conceptu - semant: 1
+ extrac - compon: 1
+ high - precision: 1
+ inaccur - annot: 1
+ index - docum: 1
+ individu - new: 1
+ inform - extrac: 1
+ kei - phrase: 2
+ kim - knowledg: 1
+ knowledg - manag: 1
+ low - qualiti: 1
+ manag - platform: 1
+ media - file: 1
+ moder - level: 1
+ new - site: 1
+ new - stori: 3
+ new - system: 1
+ origin - broadcast: 1
+ phrase - extrac: 1
+ qualiti - textual: 1
+ qualiti - transcript: 1
+ radio - new: 1
+ relat - web: 1
+ rich - new: 1
+ semant - annot: 3
+ semant - index: 1
+ semant - web: 1
+ speech - recogni: 2
+ televi - new: 1
+ tempor - data: 1
+ textual - descrip: 1
+ webassist - annot: 1
+ web - interfac: 1
+ web - new: 1
+ web - page: 2
+ wide - web: 2
+ world - wide: 2
+
+PageRank scores count: 53
+ accur: 0.009563870786384853
+ accuraci: 0.014576933056914914
+ annot: 0.034053149533598615
+ asr: 0.009563870786384853
+ automat: 0.009563870786384853
+ broadcast: 0.01769316095481198
+ compon: 0.037386366387826685
+ conceptu: 0.01769316095481198
+ data: 0.01769316095481198
+ descrip: 0.024084815349737807
+ docum: 0.024689254276654693
+ extrac: 0.03273234776640216
+ file: 0.01769316095481198
+ high: 0.009563870786384853
+ inaccur: 0.009563870786384853
+ index: 0.017794569196744367
+ individu: 0.009563870786384853
+ inform: 0.009563870786384853
+ interfac: 0.021170067094146372
+ kei: 0.009563870786384853
+ kim: 0.009563870786384853
+ knowledg: 0.01769316095481198
+ level: 0.01769316095481198
+ low: 0.009563870786384853
+ manag: 0.024603057597975035
+ media: 0.009563870786384853
+ model: 0.024036459174682827
+ moder: 0.009563870786384853
+ new: 0.06872641457944505
+ origin: 0.009563870786384853
+ page: 0.021170067094146372
+ phrase: 0.01769316095481198
+ platform: 0.030476469744663632
+ precision: 0.01769316095481198
+ qualiti: 0.01769316095481198
+ radio: 0.009563870786384853
+ recogni: 0.024603057597975035
+ relat: 0.009563870786384853
+ rich: 0.009563870786384853
+ search: 0.014576933056914914
+ semant: 0.029049521445212886
+ site: 0.029036355362260412
+ speech: 0.01769316095481198
+ stori: 0.029036355362260412
+ system: 0.029036355362260412
+ televi: 0.009563870786384853
+ tempor: 0.009563870786384853
+ textual: 0.017083464192179945
+ transcript: 0.02521275436060707
+ web: 0.04096304617676167
+ webassist: 0.009563870786384853
+ wide: 0.01769316095481198
+ world: 0.009563870786384853
+
+N-grams list: 10
+ relat web new
+ individu new stori
+ rich new system
+ new stori
+ broadcast new
+ televi new
+ radio new
+ webassist annot semant
+ semant web
+ world wide web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

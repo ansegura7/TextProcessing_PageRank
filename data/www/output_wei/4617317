@@ -1,0 +1,57 @@
+File name: 4617317
+
+Graph edges count: 15
+ architectur - aspect: 1
+ architectur - model: 1
+ feder - applic: 1
+ feder - system: 2
+ individu - web: 1
+ integr - factor: 1
+ model - approach: 1
+ organiz - boundari: 1
+ system - todai: 1
+ technic - detail: 1
+ trustspecif - composi: 1
+ webbas - system: 1
+ webcomposi - architectur: 1
+ web - applic: 1
+ web - servic: 1
+
+PageRank scores count: 21
+ applic: 0.05995754566376093
+ approach: 0.07295760179474288
+ architectur: 0.05359603437630331
+ aspect: 0.05174914400252529
+ boundari: 0.05359603437630331
+ composi: 0.05359603437630331
+ detail: 0.05359603437630331
+ factor: 0.05359603437630331
+ feder: 0.02897082939259638
+ individu: 0.02897082939259638
+ integr: 0.02897082939259638
+ model: 0.05174914400252529
+ organiz: 0.02897082939259638
+ servic: 0.05174914400252529
+ system: 0.07001283769877459
+ technic: 0.02897082939259638
+ todai: 0.08848174143655477
+ trustspecif: 0.02897082939259638
+ web: 0.05359603437630331
+ webbas: 0.02897082939259638
+ webcomposi: 0.02897082939259638
+
+N-grams list: 10
+ feder system todai
+ individu web applic
+ webcomposi architectur model
+ model approach
+ web servic
+ architectur aspect
+ webbas system
+ feder system
+ feder applic
+ integr factor
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

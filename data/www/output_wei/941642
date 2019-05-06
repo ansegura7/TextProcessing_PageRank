@@ -1,0 +1,90 @@
+File name: 941642
+
+Graph edges count: 31
+ applic - data: 1
+ applic - domain: 1
+ basic - data: 1
+ calendar - type: 1
+ chines - hebrew: 1
+ complex - cultur: 1
+ cultur - calendar: 1
+ data - model: 1
+ data - type: 1
+ extens - set: 1
+ fiscal - year: 1
+ gener - semant: 1
+ gregorian - calendar: 1
+ gregorian - date: 2
+ islam - calendar: 1
+ leap - second: 1
+ leap - year: 1
+ method - specif: 1
+ profession - calendar: 2
+ reason - method: 1
+ second - leap: 1
+ semant - web: 1
+ static - type: 1
+ teach - term: 1
+ tempor - constraint: 1
+ time - type: 1
+ time - zone: 1
+ type - check: 1
+ web - applic: 2
+ widespread - gregorian: 1
+ xml - schema: 2
+
+PageRank scores count: 38
+ applic: 0.040007286196059845
+ basic: 0.012554751875749373
+ calendar: 0.06022095983067782
+ check: 0.09487501306489501
+ chines: 0.012554751875749373
+ complex: 0.012554751875749373
+ constraint: 0.02322629097013634
+ cultur: 0.02322629097013634
+ data: 0.04022938760346177
+ date: 0.02571631675882663
+ domain: 0.029557848509074808
+ extens: 0.012554751875749373
+ fiscal: 0.012554751875749373
+ gener: 0.012554751875749373
+ gregorian: 0.02322629097013634
+ hebrew: 0.02322629097013634
+ islam: 0.012554751875749373
+ leap: 0.03636211038946325
+ method: 0.02322629097013634
+ model: 0.029652241607220627
+ profession: 0.012554751875749373
+ reason: 0.012554751875749373
+ schema: 0.02322629097013634
+ second: 0.0280086570749575
+ semant: 0.02322629097013634
+ set: 0.02322629097013634
+ specif: 0.03229709920036526
+ static: 0.012554751875749373
+ teach: 0.012554751875749373
+ tempor: 0.012554751875749373
+ term: 0.02322629097013634
+ time: 0.012554751875749373
+ type: 0.09684736610487724
+ web: 0.03229709920036526
+ widespread: 0.012554751875749373
+ xml: 0.012554751875749373
+ year: 0.038680196169344476
+ zone: 0.017890521422942854
+
+N-grams list: 10
+ static type check
+ calendar type
+ basic data type
+ web applic data
+ time type
+ leap second leap
+ gregorian calendar
+ cultur calendar
+ profession calendar
+ islam calendar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

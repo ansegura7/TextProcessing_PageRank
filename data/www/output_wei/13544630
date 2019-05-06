@@ -1,0 +1,63 @@
+File name: 13544630
+
+Graph edges count: 19
+ accur - reliabl: 1
+ combin - model: 4
+ combin - softwar: 1
+ equal - linear: 1
+ estim - accuraci: 1
+ genet - algorithm: 1
+ growth - model: 1
+ nonlinear - weight: 1
+ predic - capabl: 1
+ preliminari - result: 1
+ reliabl - analysi: 1
+ reliabl - estim: 1
+ reliabl - growth: 1
+ reliabl - predic: 1
+ singl - srgm: 1
+ softwar - reliabl: 1
+ webbas - softwar: 3
+ weight - assign: 1
+ weight - combin: 4
+
+PageRank scores count: 23
+ accur: 0.02374822198447934
+ accuraci: 0.060014691478042004
+ algorithm: 0.043934210671286784
+ analysi: 0.04266643469830901
+ assign: 0.031217037798598093
+ capabl: 0.060014691478042004
+ combin: 0.053623485240954345
+ equal: 0.02374822198447934
+ estim: 0.04266643469830901
+ genet: 0.02374822198447934
+ growth: 0.04266643469830901
+ linear: 0.043934210671286784
+ model: 0.09647866144189095
+ nonlinear: 0.02374822198447934
+ predic: 0.04266643469830901
+ preliminari: 0.02374822198447934
+ reliabl: 0.08902688335919845
+ result: 0.043934210671286784
+ singl: 0.02374822198447934
+ softwar: 0.053050203162249024
+ srgm: 0.043934210671286784
+ webbas: 0.02374822198447934
+ weight: 0.043934210671286784
+
+N-grams list: 10
+ combin softwar reliabl
+ weight combin model
+ accur reliabl predic
+ growth model
+ reliabl estim
+ reliabl analysi
+ predic capabl
+ estim accuraci
+ model
+ webbas softwar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

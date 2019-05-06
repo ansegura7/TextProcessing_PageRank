@@ -1,0 +1,84 @@
+File name: 13518634
+
+Graph edges count: 27
+ base - approach: 1
+ commerci - search: 1
+ experiment - result: 1
+ game - base: 1
+ game - log: 2
+ geograph - context: 2
+ geograph - relev: 3
+ human - knowledg: 1
+ imag - geograph: 2
+ imag - locat: 1
+ imag - match: 1
+ imag - search: 1
+ larg - scale: 1
+ locat - recogni: 1
+ longitud - inform: 1
+ main - object: 1
+ match - landmark: 1
+ multiplay - game: 1
+ previou - work: 1
+ rapid - prolifer: 1
+ relev - object: 1
+ salient - portion: 1
+ scale - data: 1
+ search - engin: 1
+ search - relev: 1
+ web - imag: 2
+ week - studi: 1
+
+PageRank scores count: 36
+ approach: 0.038252484185637536
+ base: 0.025398433040687944
+ commerci: 0.016663816101052782
+ context: 0.025893237286781876
+ data: 0.04286766691995828
+ engin: 0.0319930688301125
+ experiment: 0.016663816101052782
+ game: 0.030828059786947644
+ geograph: 0.02714535642861498
+ human: 0.016663816101052782
+ imag: 0.030828059786947644
+ inform: 0.030828059786947644
+ knowledg: 0.030828059786947644
+ landmark: 0.03528271442616158
+ larg: 0.016663816101052782
+ locat: 0.021904586264833877
+ log: 0.03413304998032312
+ longitud: 0.016663816101052782
+ main: 0.016663816101052782
+ match: 0.021904586264833877
+ multiplay: 0.016663816101052782
+ object: 0.06978968030434786
+ portion: 0.030828059786947644
+ previou: 0.016663816101052782
+ prolifer: 0.030828059786947644
+ rapid: 0.016663816101052782
+ recogni: 0.03528271442616158
+ relev: 0.04583720060870614
+ result: 0.030828059786947644
+ salient: 0.016663816101052782
+ scale: 0.030828059786947644
+ search: 0.03606882995072875
+ studi: 0.030828059786947644
+ web: 0.016663816101052782
+ week: 0.016663816101052782
+ work: 0.030828059786947644
+
+N-grams list: 10
+ relev object
+ imag search relev
+ imag geograph relev
+ game base approach
+ larg scale data
+ imag match landmark
+ imag locat recogni
+ main object
+ commerci search engin
+ web imag geograph
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

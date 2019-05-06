@@ -1,0 +1,24 @@
+File name: 68979
+
+Graph edges count: 5
+ engin - specif: 1
+ learn - search: 1
+ queri - transform: 1
+ search - engin: 1
+ specif - queri: 1
+
+PageRank scores count: 6
+ engin: 0.1561921981427814
+ learn: 0.06071611200885575
+ queri: 0.2251736703745427
+ search: 0.11232480721638315
+ specif: 0.19347948043021992
+ transform: 0.252113731827217
+
+N-grams list: 2
+ specif queri transform
+ learn search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,63 @@
+File name: 3984037
+
+Graph edges count: 18
+ core - oper: 1
+ effect - process: 1
+ effici - evalu: 1
+ effici - holist: 1
+ experiment - result: 1
+ holist - twig: 1
+ label - scheme: 1
+ leaf - queri: 1
+ previou - approach: 1
+ previou - work: 1
+ queri - node: 1
+ queri - perform: 1
+ region - encod: 1
+ twig - pattern: 2
+ twig - queri: 1
+ xml - databas: 1
+ xml - queri: 1
+ xml - twig: 1
+
+PageRank scores count: 24
+ approach: 0.038105926360130174
+ core: 0.02674100095447731
+ databas: 0.034317617891579215
+ effect: 0.02674100095447731
+ effici: 0.02674100095447731
+ encod: 0.049470851765783024
+ evalu: 0.038105926360130174
+ experiment: 0.02674100095447731
+ holist: 0.038105926360130174
+ label: 0.02674100095447731
+ leaf: 0.02674100095447731
+ node: 0.05901888864530023
+ oper: 0.049470851765783024
+ pattern: 0.06454200562316824
+ perform: 0.05901888864530023
+ previou: 0.02674100095447731
+ process: 0.049470851765783024
+ queri: 0.07594797103723039
+ region: 0.02674100095447731
+ result: 0.049470851765783024
+ scheme: 0.049470851765783024
+ twig: 0.06670765529768986
+ work: 0.038105926360130174
+ xml: 0.02674100095447731
+
+N-grams list: 10
+ leaf queri node
+ xml twig pattern
+ twig queri
+ queri perform
+ effici holist twig
+ twig pattern
+ xml queri
+ label scheme
+ effect process
+ core oper
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

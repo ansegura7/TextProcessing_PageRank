@@ -1,0 +1,42 @@
+File name: 711819
+
+Graph edges count: 8
+ correl - hyperlink: 1
+ distil - task: 1
+ domainlevel - aggreg: 2
+ outgo - hyperlink: 1
+ preliminari - experi: 1
+ relev - docum: 4
+ topic - distil: 2
+ trec - topic: 1
+
+PageRank scores count: 13
+ aggreg: 0.08463284783814538
+ correl: 0.04574748531791643
+ distil: 0.11768540598034001
+ docum: 0.08463284783814538
+ domainlevel: 0.04574748531791643
+ experi: 0.08463284783814538
+ hyperlink: 0.12351821035837435
+ outgo: 0.04574748531791643
+ preliminari: 0.04574748531791643
+ relev: 0.04574748531791643
+ task: 0.1457800804012054
+ topic: 0.08463284783814538
+ trec: 0.04574748531791643
+
+N-grams list: 10
+ trec topic distil
+ topic distil
+ correl hyperlink
+ outgo hyperlink
+ task
+ domainlevel aggreg
+ relev docum
+ preliminari experi
+ aggreg
+ docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

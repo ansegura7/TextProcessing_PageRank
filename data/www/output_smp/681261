@@ -1,0 +1,110 @@
+File name: 681261
+
+Graph edges count: 39
+ access - time: 2
+ account - multipl: 1
+ adapt - function: 1
+ adapt - hypermedia: 3
+ adapt - mechan: 2
+ aggreg - access: 1
+ anywhereã - access: 1
+ bandwidth - level: 1
+ bit - rate: 1
+ commun - technologi: 1
+ conges - mobil: 1
+ contentbas - adapt: 2
+ current - deliveri: 1
+ deliveri - condition: 1
+ endus - qoeawar: 1
+ endus - qualiti: 1
+ finegrain - contentbas: 1
+ high - endus: 1
+ high - qualiti: 1
+ homelik - low: 1
+ hypermedia - framework: 1
+ hypermedia - system: 2
+ low - bit: 1
+ mechan - attempt: 1
+ mobil - support: 1
+ multipl - factor: 1
+ network - environ: 1
+ oper - environ: 1
+ page - aggreg: 1
+ perform - characterist: 1
+ perform - improv: 1
+ personalis - inform: 1
+ qoeawar - adapt: 1
+ rate - oper: 1
+ simul - test: 1
+ transmit - inform: 1
+ variabl - environ: 1
+ web - content: 1
+ web - user: 1
+
+PageRank scores count: 50
+ access: 0.03627032141391414
+ account: 0.010597610347381778
+ adapt: 0.04172577251555227
+ aggreg: 0.01960557914265629
+ anywhereã: 0.010597610347381778
+ attempt: 0.02965453602348513
+ bandwidth: 0.010597610347381778
+ bit: 0.02726235261863963
+ characterist: 0.015101594745019035
+ commun: 0.010597610347381778
+ condition: 0.02726235261863963
+ conges: 0.010597610347381778
+ content: 0.015101594745019035
+ contentbas: 0.01960557914265629
+ current: 0.010597610347381778
+ deliveri: 0.01960557914265629
+ endus: 0.015101594745019035
+ environ: 0.06202078251111071
+ factor: 0.02726235261863963
+ finegrain: 0.010597610347381778
+ framework: 0.02012607318543345
+ function: 0.022419912560121588
+ high: 0.010597610347381778
+ homelik: 0.010597610347381778
+ hypermedia: 0.022419912560121588
+ improv: 0.015101594745019035
+ inform: 0.028613547937930802
+ level: 0.01960557914265629
+ low: 0.01960557914265629
+ mechan: 0.022419912560121588
+ mobil: 0.01960557914265629
+ multipl: 0.01960557914265629
+ network: 0.010597610347381778
+ oper: 0.039302628909623424
+ page: 0.010597610347381778
+ perform: 0.010597610347381778
+ personalis: 0.010597610347381778
+ qoeawar: 0.017015788114014867
+ qualiti: 0.021519772511652126
+ rate: 0.03377061007322547
+ simul: 0.010597610347381778
+ support: 0.02726235261863963
+ system: 0.02012607318543345
+ technologi: 0.01960557914265629
+ test: 0.01960557914265629
+ time: 0.0414273835492088
+ transmit: 0.010597610347381778
+ user: 0.015101594745019035
+ variabl: 0.010597610347381778
+ web: 0.010597610347381778
+
+N-grams list: 10
+ rate oper environ
+ adapt hypermedia system
+ contentbas adapt mechan
+ access time
+ endus qoeawar adapt
+ variabl environ
+ network environ
+ finegrain contentbas adapt
+ page aggreg access
+ adapt function
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

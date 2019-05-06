@@ -1,0 +1,66 @@
+File name: 4418505
+
+Graph edges count: 20
+ automat - classif: 1
+ broad - classif: 1
+ classif - algorithm: 1
+ content - destin: 1
+ difficult - problem: 1
+ engin - queri: 2
+ engin - transac: 1
+ futur - web: 1
+ inform - navig: 1
+ probabilist - classif: 1
+ problem - due: 1
+ searcher - intent: 1
+ search - engin: 5
+ separ - web: 1
+ spars - data: 1
+ transac - log: 2
+ user - intent: 5
+ user - queri: 1
+ web - queri: 1
+ web - search: 6
+
+PageRank scores count: 25
+ algorithm: 0.08292213800811754
+ automat: 0.02064023348055197
+ broad: 0.02064023348055197
+ classif: 0.0732728288559595
+ content: 0.02064023348055197
+ data: 0.03818443193902114
+ destin: 0.03818443193902114
+ difficult: 0.02064023348055197
+ due: 0.05309700062871995
+ engin: 0.0726963766208955
+ futur: 0.02064023348055197
+ inform: 0.02064023348055197
+ intent: 0.05280459732107879
+ log: 0.0556921426418868
+ navig: 0.03818443193902114
+ probabilist: 0.02064023348055197
+ problem: 0.03818443193902114
+ queri: 0.07152592795230905
+ search: 0.061242521341580626
+ searcher: 0.02064023348055197
+ separ: 0.02064023348055197
+ spars: 0.02064023348055197
+ transac: 0.041237540189805695
+ user: 0.02064023348055197
+ web: 0.05572863039749032
+
+N-grams list: 10
+ web search engin
+ engin transac log
+ classif algorithm
+ futur web search
+ separ web search
+ web queri
+ web search
+ difficult problem due
+ transac log
+ broad classif
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,61 @@
+File name: 380600
+
+Graph edges count: 16
+ addition - inform: 1
+ addition - term: 1
+ broadcast - new: 1
+ compound - histori: 1
+ daili - activ: 1
+ docum - frequenc: 1
+ docum - similar: 2
+ exact - topic: 1
+ invers - docum: 1
+ new - articl: 2
+ new - search: 1
+ queri - length: 1
+ queryfre - new: 1
+ real - time: 1
+ relev - articl: 1
+ tv - broadcast: 1
+
+PageRank scores count: 24
+ activ: 0.04798448933804099
+ addition: 0.025937561804346483
+ articl: 0.09828822899408732
+ broadcast: 0.04798448933804099
+ compound: 0.025937561804346483
+ daili: 0.025937561804346483
+ docum: 0.04798448933804099
+ exact: 0.025937561804346483
+ frequenc: 0.03953316711679143
+ histori: 0.04798448933804099
+ inform: 0.03696102557119374
+ invers: 0.025937561804346483
+ length: 0.04798448933804099
+ new: 0.08877130527537584
+ queri: 0.025937561804346483
+ queryfre: 0.025937561804346483
+ real: 0.025937561804346483
+ relev: 0.025937561804346483
+ search: 0.05108943163236965
+ similar: 0.05312877242923638
+ term: 0.03696102557119374
+ time: 0.04798448933804099
+ topic: 0.04798448933804099
+ tv: 0.025937561804346483
+
+N-grams list: 10
+ new articl
+ queryfre new search
+ tv broadcast new
+ relev articl
+ invers docum frequenc
+ docum similar
+ articl
+ new
+ daili activ
+ compound histori
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

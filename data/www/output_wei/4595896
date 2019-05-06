@@ -1,0 +1,91 @@
+File name: 4595896
+
+Graph edges count: 30
+ actual - mismatch: 1
+ adapt - develop: 1
+ adapt - specif: 1
+ busi - protocol: 3
+ case - studi: 1
+ extramiss - messag: 1
+ functionalityw - similar: 1
+ hard - job: 1
+ heterogen - interfac: 1
+ heterogen - set: 1
+ ibm - wid: 1
+ integr - develop: 1
+ invoc - sequenc: 1
+ legal - oper: 1
+ main - contribu: 1
+ mismatch - tree: 2
+ oper - defini: 1
+ oper - invoc: 1
+ realworld - case: 1
+ semiautom - adapt: 1
+ semiautom - support: 2
+ servic - interac: 1
+ servic - interfac: 3
+ servic - protocol: 1
+ servic - specif: 1
+ signatur - mergesplit: 1
+ similar - web: 1
+ typic - approach: 1
+ webspher - integr: 1
+ web - servic: 1
+
+PageRank scores count: 40
+ actual: 0.01486615213468808
+ adapt: 0.0190782285728497
+ approach: 0.027502381449172948
+ busi: 0.01486615213468808
+ case: 0.027502381449172948
+ contribu: 0.027502381449172948
+ defini: 0.02655466425058658
+ develop: 0.04635142350994621
+ extramiss: 0.01486615213468808
+ functionalityw: 0.01486615213468808
+ hard: 0.01486615213468808
+ heterogen: 0.01486615213468808
+ ibm: 0.01486615213468808
+ integr: 0.027502381449172948
+ interac: 0.02157730617456647
+ interfac: 0.04131772891156568
+ invoc: 0.02655466425058658
+ job: 0.027502381449172948
+ legal: 0.01486615213468808
+ main: 0.01486615213468808
+ mergesplit: 0.027502381449172948
+ messag: 0.027502381449172948
+ mismatch: 0.027502381449172948
+ oper: 0.027502381449172948
+ protocol: 0.03421353548905134
+ realworld: 0.01486615213468808
+ semiautom: 0.01486615213468808
+ sequenc: 0.037437616747686676
+ servic: 0.0473728520462004
+ set: 0.021184266791930514
+ signatur: 0.01486615213468808
+ similar: 0.027502381449172948
+ specif: 0.029685553318027594
+ studi: 0.03824317636648509
+ support: 0.023290305011011325
+ tree: 0.03824317636648509
+ typic: 0.01486615213468808
+ web: 0.03824317636648509
+ webspher: 0.01486615213468808
+ wid: 0.027502381449172948
+
+N-grams list: 10
+ webspher integr develop
+ servic interfac
+ servic protocol
+ realworld case studi
+ functionalityw similar web
+ servic specif
+ servic interac
+ legal oper invoc
+ mismatch tree
+ adapt develop
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,54 @@
+File name: 8935075
+
+Graph edges count: 13
+ addition - properti: 1
+ autonom - partner: 1
+ busi - process: 1
+ busi - protocol: 2
+ conceptu - abstrac: 1
+ divers - interest: 1
+ formal - semant: 1
+ inform - model: 1
+ oper - character: 1
+ protocol - busi: 1
+ protocol - composi: 1
+ semant - approach: 1
+ subtl - busi: 1
+
+PageRank scores count: 20
+ abstrac: 0.05570088749596895
+ addition: 0.030108587835658895
+ approach: 0.0774543422072325
+ autonom: 0.030108587835658895
+ busi: 0.0902266208369554
+ character: 0.05570088749596895
+ composi: 0.06463432117664535
+ conceptu: 0.030108587835658895
+ divers: 0.030108587835658895
+ formal: 0.030108587835658895
+ inform: 0.030108587835658895
+ interest: 0.05570088749596895
+ model: 0.05570088749596895
+ oper: 0.030108587835658895
+ partner: 0.05570088749596895
+ process: 0.05567279615259062
+ properti: 0.05570088749596895
+ protocol: 0.08123700446952235
+ semant: 0.05570088749596895
+ subtl: 0.030108587835658895
+
+N-grams list: 10
+ busi protocol busi
+ busi protocol
+ protocol composi
+ semant approach
+ subtl busi
+ divers interest
+ oper character
+ autonom partner
+ formal semant
+ conceptu abstrac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

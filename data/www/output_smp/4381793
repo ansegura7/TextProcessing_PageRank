@@ -1,0 +1,48 @@
+File name: 4381793
+
+Graph edges count: 11
+ content - similar: 1
+ decai - function: 1
+ direct - graph: 1
+ distribu - proxim: 1
+ docum - distribu: 1
+ event - evolu: 3
+ evolu - graph: 3
+ insid - develop: 1
+ new - affair: 2
+ new - event: 1
+ tempor - proxim: 1
+
+PageRank scores count: 16
+ affair: 0.053544631093930914
+ content: 0.03757517971503924
+ decai: 0.03757517971503924
+ develop: 0.06951408247282259
+ direct: 0.03757517971503924
+ distribu: 0.06951408247282259
+ docum: 0.03757517971503924
+ event: 0.053544631093930914
+ evolu: 0.08308811614488051
+ function: 0.06951408247282259
+ graph: 0.14013898119597104
+ insid: 0.03757517971503924
+ new: 0.03757517971503924
+ proxim: 0.1286010525747218
+ similar: 0.06951408247282259
+ tempor: 0.03757517971503924
+
+N-grams list: 10
+ event evolu graph
+ docum distribu proxim
+ direct graph
+ tempor proxim
+ decai function
+ content similar
+ insid develop
+ new affair
+ new event
+ evolu
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

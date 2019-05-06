@@ -1,0 +1,60 @@
+File name: 13521214
+
+Graph edges count: 16
+ advertis - search: 1
+ classif - model: 1
+ facebook - data: 1
+ huge - amount: 1
+ keyword - extrac: 1
+ meaning - keyword: 1
+ mine - task: 1
+ network - servic: 1
+ snippet - todai: 1
+ social - network: 1
+ social - purpos: 1
+ social - snippet: 1
+ text - benefit: 1
+ text - mine: 1
+ tradition - docum: 1
+ tradition - text: 1
+
+PageRank scores count: 23
+ advertis: 0.02834451219242145
+ amount: 0.05243734755597968
+ benefit: 0.04551065738895669
+ classif: 0.02834451219242145
+ data: 0.05243734755597968
+ docum: 0.040390929874200565
+ extrac: 0.07291625761500418
+ facebook: 0.02834451219242145
+ huge: 0.02834451219242145
+ keyword: 0.05243734755597968
+ meaning: 0.02834451219242145
+ mine: 0.04551065738895669
+ model: 0.05243734755597968
+ network: 0.03637545731360753
+ purpos: 0.03637545731360753
+ search: 0.05243734755597968
+ servic: 0.059263650908987844
+ snippet: 0.03637545731360753
+ social: 0.02834451219242145
+ task: 0.06702857097303463
+ text: 0.040390929874200565
+ todai: 0.059263650908987844
+ tradition: 0.02834451219242145
+
+N-grams list: 10
+ keyword extrac
+ social network servic
+ social snippet todai
+ tradition text mine
+ text benefit
+ huge amount
+ meaning keyword
+ advertis search
+ facebook data
+ classif model
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

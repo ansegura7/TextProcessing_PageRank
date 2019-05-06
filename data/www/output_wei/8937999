@@ -1,0 +1,92 @@
+File name: 8937999
+
+Graph edges count: 34
+ abil - qualiti: 1
+ advanc - version: 1
+ applic - develop: 1
+ chang - model: 1
+ configur - manag: 3
+ contentchang - manag: 1
+ control - framework: 1
+ develop - environ: 3
+ docum - semant: 1
+ finegrain - manner: 1
+ finegrain - structur: 1
+ finegrain - web: 1
+ framework - finegrain: 1
+ integr - develop: 1
+ interfac - featur: 1
+ itsfinegrain - version: 1
+ kei - limit: 1
+ lineori - chang: 1
+ logic - level: 1
+ manner - aswel: 1
+ project - research: 1
+ softwar - artifact: 1
+ softwar - configur: 1
+ softwar - engin: 1
+ structur - configur: 1
+ theoveral - structur: 1
+ user - interfac: 1
+ version - control: 2
+ web - applic: 5
+ web - contentchang: 1
+ web - develop: 1
+ web - docum: 1
+ web - engin: 1
+ web - project: 2
+
+PageRank scores count: 37
+ abil: 0.01282989506558019
+ advanc: 0.01282989506558019
+ applic: 0.023728765722967976
+ artifact: 0.01646503200082791
+ aswel: 0.03680741051183332
+ chang: 0.023735305871323352
+ configur: 0.049712146631962724
+ contentchang: 0.015009669197057748
+ control: 0.042274504241086724
+ develop: 0.046084530867323684
+ docum: 0.015009669197057748
+ engin: 0.01864480613230547
+ environ: 0.05200174630280532
+ featur: 0.03300490505620504
+ finegrain: 0.05427863518550851
+ framework: 0.04876322367050391
+ integr: 0.01282989506558019
+ interfac: 0.023735305871323352
+ itsfinegrain: 0.01282989506558019
+ kei: 0.01282989506558019
+ level: 0.023735305871323352
+ limit: 0.023735305871323352
+ lineori: 0.01282989506558019
+ logic: 0.01282989506558019
+ manag: 0.06784343852024759
+ manner: 0.02820884170147427
+ model: 0.03300490505620504
+ project: 0.017189443328535305
+ qualiti: 0.023735305871323352
+ research: 0.0274409218948352
+ semant: 0.025588113883079276
+ softwar: 0.01282989506558019
+ structur: 0.03911425250721742
+ theoveral: 0.01282989506558019
+ user: 0.01282989506558019
+ version: 0.034640716677066516
+ web: 0.02820884170147427
+
+N-grams list: 10
+ finegrain structur configur
+ framework finegrain web
+ softwar configur manag
+ web develop environ
+ finegrain manner aswel
+ configur manag
+ integr develop environ
+ web applic develop
+ advanc version control
+ itsfinegrain version control
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

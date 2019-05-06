@@ -1,0 +1,58 @@
+File name: 9090671
+
+Graph edges count: 16
+ approach - reus: 1
+ authorship - certainti: 1
+ authorship - recenc: 1
+ meta - knowledg: 6
+ model - possibl: 1
+ origin - authorship: 1
+ origin - gener: 1
+ origin - queri: 1
+ queri - languag: 1
+ rdf - data: 1
+ rdf - model: 1
+ retriev - combin: 1
+ semant - web: 2
+ sourc - authorship: 1
+ sparql - queri: 1
+ web - queri: 1
+
+PageRank scores count: 21
+ approach: 0.02813173623215246
+ authorship: 0.06001437062859192
+ certainti: 0.05363784374930403
+ combin: 0.05204371202948206
+ data: 0.04008772413081726
+ gener: 0.036102394831262326
+ knowledg: 0.05204371202948206
+ languag: 0.11674553320775637
+ meta: 0.02813173623215246
+ model: 0.04008772413081726
+ origin: 0.02813173623215246
+ possibl: 0.06220630174334713
+ queri: 0.10425152585365166
+ rdf: 0.02813173623215246
+ recenc: 0.05363784374930403
+ retriev: 0.02813173623215246
+ reus: 0.05204371202948206
+ semant: 0.02813173623215246
+ sourc: 0.02813173623215246
+ sparql: 0.02813173623215246
+ web: 0.05204371202948206
+
+N-grams list: 10
+ semant web queri
+ sourc authorship certainti
+ origin authorship recenc
+ sparql queri
+ origin queri
+ rdf model possibl
+ languag
+ retriev combin
+ semant web
+ meta knowledg
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,112 @@
+File name: 858389
+
+Graph edges count: 43
+ addition - inform: 1
+ applicationlevel - vulner: 1
+ applic - secur: 1
+ card - inform: 1
+ credit - card: 1
+ crosssit - script: 1
+ exploit - flaw: 1
+ exploit - sql: 1
+ extens - press: 1
+ financ - ministri: 1
+ gener - input: 1
+ global - compani: 1
+ input - valid: 1
+ interest - web: 1
+ larg - number: 1
+ modular - web: 1
+ port - scanner: 1
+ potenti - secur: 1
+ potenti - victim: 1
+ press - coverag: 1
+ recent - secur: 1
+ secur - hole: 1
+ secur - incid: 1
+ secur - problem: 1
+ secur - vulner: 1
+ sensit - credit: 1
+ signific - increas: 1
+ sql - injec: 2
+ valid - problem: 1
+ victim - list: 1
+ vulner - scanner: 2
+ vulner - site: 1
+ vulner - web: 1
+ webbas - attack: 1
+ web - applic: 3
+ web - develop: 1
+ web - increas: 1
+ web - page: 1
+ web - secur: 1
+ web - site: 4
+ web - vulner: 3
+ wellknown - global: 1
+ xss - vulner: 1
+
+PageRank scores count: 48
+ addition: 0.0114011779178019
+ applic: 0.018853612699382804
+ applicationlevel: 0.0114011779178019
+ attack: 0.021092179147933515
+ card: 0.029329530193545388
+ compani: 0.029329530193545388
+ coverag: 0.029329530193545388
+ credit: 0.021092179147933515
+ crosssit: 0.0114011779178019
+ develop: 0.013885322844995536
+ exploit: 0.0114011779178019
+ extens: 0.0114011779178019
+ financ: 0.0114011779178019
+ flaw: 0.01624667853286771
+ gener: 0.0114011779178019
+ global: 0.021092179147933515
+ hole: 0.020846250022610868
+ incid: 0.020846250022610868
+ increas: 0.02357632407512715
+ inform: 0.04602227981244709
+ injec: 0.025210854670739455
+ input: 0.021092179147933515
+ interest: 0.0114011779178019
+ larg: 0.0114011779178019
+ list: 0.025210854670739455
+ ministri: 0.021092179147933515
+ modular: 0.0114011779178019
+ number: 0.021092179147933515
+ page: 0.013885322844995536
+ port: 0.0114011779178019
+ potenti: 0.0114011779178019
+ press: 0.021092179147933515
+ problem: 0.04577635068712445
+ recent: 0.0114011779178019
+ scanner: 0.04135647179882147
+ script: 0.021092179147933515
+ secur: 0.04444739585373438
+ sensit: 0.0114011779178019
+ signific: 0.0114011779178019
+ site: 0.031469903952020414
+ sql: 0.01624667853286771
+ valid: 0.029329530193545388
+ victim: 0.01624667853286771
+ vulner: 0.047680687264455
+ web: 0.04091532670350911
+ webbas: 0.0114011779178019
+ wellknown: 0.0114011779178019
+ xss: 0.0114011779178019
+
+N-grams list: 10
+ web vulner scanner
+ vulner web site
+ web applic secur
+ potenti secur problem
+ modular web vulner
+ web vulner
+ web secur
+ interest web site
+ vulner site
+ recent secur incid
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

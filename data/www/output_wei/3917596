@@ -1,0 +1,59 @@
+File name: 3917596
+
+Graph edges count: 16
+ actual - web: 1
+ algorithm - dustbust: 1
+ canon - form: 1
+ crawl - log: 1
+ index - overhead: 1
+ page - content: 1
+ popular - statist: 1
+ previou - crawl: 1
+ server - log: 1
+ server - softwar: 1
+ similar - content: 1
+ similar - text: 2
+ url - request: 1
+ web - page: 1
+ web - server: 2
+ web - site: 1
+
+PageRank scores count: 22
+ actual: 0.02886213729538324
+ algorithm: 0.02886213729538324
+ canon: 0.02886213729538324
+ content: 0.07121702312909464
+ crawl: 0.053394953996458994
+ dustbust: 0.053394953996458994
+ form: 0.053394953996458994
+ index: 0.02886213729538324
+ log: 0.09615872010852165
+ overhead: 0.053394953996458994
+ page: 0.04020856501963077
+ popular: 0.02886213729538324
+ previou: 0.02886213729538324
+ request: 0.053394953996458994
+ server: 0.051554992743878314
+ similar: 0.02886213729538324
+ site: 0.04020856501963077
+ softwar: 0.05077300921153153
+ statist: 0.053394953996458994
+ text: 0.04521734842943375
+ url: 0.02886213729538324
+ web: 0.053394953996458994
+
+N-grams list: 10
+ web server log
+ previou crawl log
+ web server softwar
+ actual web page
+ page content
+ similar content
+ web site
+ canon form
+ popular statist
+ index overhead
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

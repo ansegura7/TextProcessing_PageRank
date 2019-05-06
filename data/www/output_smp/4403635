@@ -1,0 +1,77 @@
+File name: 4403635
+
+Graph edges count: 23
+ adapt - web: 1
+ adapt - webbas: 1
+ case - studi: 1
+ cognit - style: 3
+ contemporari - idea: 1
+ content - person: 1
+ divers - subject: 1
+ educ - system: 1
+ educ - web: 1
+ feldersolomon - inventori: 1
+ learn - style: 1
+ mismatch - student: 1
+ personalis - content: 1
+ previou - find: 1
+ psycholog - prefer: 1
+ signific - differ: 1
+ subject - area: 1
+ user - model: 1
+ user - prefer: 1
+ user - trial: 1
+ visualverb - prefer: 1
+ webbas - educ: 1
+ web - applic: 4
+
+PageRank scores count: 33
+ adapt: 0.0188161352240374
+ applic: 0.05663777243301537
+ area: 0.048404507863836224
+ case: 0.0188161352240374
+ cognit: 0.0188161352240374
+ contemporari: 0.0188161352240374
+ content: 0.0348098501644692
+ differ: 0.0348098501644692
+ divers: 0.0188161352240374
+ educ: 0.0416071790141527
+ feldersolomon: 0.0188161352240374
+ find: 0.0348098501644692
+ idea: 0.0348098501644692
+ inventori: 0.0348098501644692
+ learn: 0.0188161352240374
+ mismatch: 0.0188161352240374
+ model: 0.024147373537514668
+ person: 0.048404507863836224
+ personalis: 0.0188161352240374
+ prefer: 0.05613480341837826
+ previou: 0.0188161352240374
+ psycholog: 0.0188161352240374
+ signific: 0.0188161352240374
+ student: 0.0348098501644692
+ studi: 0.0348098501644692
+ style: 0.05080356510490099
+ subject: 0.0348098501644692
+ system: 0.0364991863050523
+ trial: 0.024147373537514668
+ user: 0.0188161352240374
+ visualverb: 0.0188161352240374
+ web: 0.044496043775268196
+ webbas: 0.026812992694253298
+
+N-grams list: 10
+ educ web applic
+ adapt web applic
+ divers subject area
+ web applic
+ adapt webbas educ
+ content person
+ visualverb prefer
+ user prefer
+ psycholog prefer
+ learn style
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

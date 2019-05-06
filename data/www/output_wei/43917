@@ -1,0 +1,79 @@
+File name: 43917
+
+Graph edges count: 27
+ applic - scenario: 1
+ awar - peer: 1
+ common - data: 1
+ core - servic: 1
+ current - edutella: 1
+ data - model: 1
+ edutella - awar: 1
+ edutella - common: 1
+ edutella - network: 1
+ edutella - peer: 1
+ edutella - queri: 1
+ exchang - languag: 1
+ jxta - framework: 1
+ main - servic: 1
+ mediat - servic: 1
+ metadata - infrastructur: 1
+ metadata - standard: 1
+ open - sourc: 1
+ p2p - applic: 1
+ project - edutella: 1
+ queri - exchang: 1
+ queri - servic: 1
+ rdfbase - metadata: 1
+ rdf - metadata: 2
+ sourc - project: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 31
+ applic: 0.030855147466996954
+ awar: 0.028123653841335822
+ common: 0.028123653841335822
+ core: 0.016678458090268623
+ current: 0.016678458090268623
+ data: 0.04058356385540407
+ edutella: 0.06732468088863058
+ exchang: 0.028631010972836348
+ framework: 0.030855147466996954
+ infrastructur: 0.03581698874885187
+ jxta: 0.016678458090268623
+ languag: 0.041014817417179515
+ main: 0.016678458090268623
+ mediat: 0.016678458090268623
+ metadata: 0.04503183684372528
+ model: 0.051174487367362076
+ network: 0.028123653841335822
+ open: 0.016678458090268623
+ p2p: 0.016678458090268623
+ peer: 0.05202875960647127
+ project: 0.04290533343721604
+ queri: 0.028123653841335822
+ rdf: 0.016678458090268623
+ rdfbase: 0.016678458090268623
+ scenario: 0.04290533343721604
+ servic: 0.07116107910302133
+ sourc: 0.030855147466996954
+ standard: 0.03581698874885187
+ web: 0.04290533343721604
+ wide: 0.030855147466996954
+ world: 0.016678458090268623
+
+N-grams list: 10
+ edutella common data
+ edutella queri exchang
+ edutella peer
+ current edutella awar
+ queri servic
+ rdfbase metadata infrastructur
+ edutella network
+ world wide web
+ open sourc project
+ core servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

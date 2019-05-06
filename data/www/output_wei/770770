@@ -1,0 +1,66 @@
+File name: 770770
+
+Graph edges count: 21
+ binari - encod: 1
+ binari - format: 1
+ binari - xml: 3
+ contenti - debat: 1
+ encod - techniqu: 1
+ fast - stream: 1
+ fast - streambas: 1
+ high - perform: 1
+ individu - effect: 1
+ object - evalu: 1
+ perform - impact: 2
+ perform - xml: 1
+ repres - applic: 1
+ standard - xml: 1
+ streambas - xqueri: 1
+ stream - process: 1
+ xml - encod: 2
+ xml - parser: 1
+ xml - process: 1
+ xml - stream: 1
+ xqueri - processor: 1
+
+PageRank scores count: 24
+ applic: 0.04471743250792371
+ binari: 0.024171585139418222
+ contenti: 0.024171585139418222
+ debat: 0.04471743250792371
+ effect: 0.04471743250792371
+ encod: 0.05198381386058516
+ evalu: 0.04471743250792371
+ fast: 0.024171585139418222
+ format: 0.02828075461311932
+ high: 0.024171585139418222
+ impact: 0.04951146356057499
+ individu: 0.024171585139418222
+ object: 0.024171585139418222
+ parser: 0.036023114763151134
+ perform: 0.04471743250792371
+ process: 0.07537474744344444
+ processor: 0.06960359013302599
+ repres: 0.024171585139418222
+ standard: 0.024171585139418222
+ stream: 0.04629603844740389
+ streambas: 0.03444450882367097
+ techniqu: 0.06835782692091562
+ xml: 0.0697148801396054
+ xqueri: 0.053449417639538546
+
+N-grams list: 10
+ binari xml encod
+ xml process
+ binari encod techniqu
+ high perform xml
+ standard xml parser
+ stream process
+ fast streambas xqueri
+ perform impact
+ binari xml
+ fast stream
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

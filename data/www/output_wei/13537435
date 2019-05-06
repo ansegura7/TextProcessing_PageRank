@@ -1,0 +1,26 @@
+File name: 13537435
+
+Graph edges count: 4
+ communitytyp - content: 3
+ content - hole: 6
+ dialogu - relat: 1
+ hole - search: 4
+
+PageRank scores count: 6
+ communitytyp: 0.08726669793723342
+ content: 0.16144339118388185
+ dialogu: 0.08726669793723342
+ hole: 0.22449358044353301
+ relat: 0.16144339118388182
+ search: 0.2780862413142365
+
+N-grams list: 5
+ content hole search
+ content hole
+ search
+ communitytyp content
+ dialogu relat
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

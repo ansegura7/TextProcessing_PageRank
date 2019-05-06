@@ -1,0 +1,91 @@
+File name: 6153556
+
+Graph edges count: 30
+ ambigu - search: 1
+ author - search: 1
+ balanc - data: 1
+ chemic - formula: 11
+ classif - method: 1
+ condition - random: 1
+ designrank - function: 1
+ engin - todai: 1
+ exact - keyword: 1
+ exact - occurr: 1
+ extract - chemic: 1
+ extrac - work: 1
+ featur - selec: 2
+ formula - extrac: 1
+ formula - search: 3
+ index - chemic: 1
+ index - size: 1
+ keyword - string: 1
+ partial - formula: 1
+ probabilist - model: 1
+ queri - model: 1
+ queri - result: 1
+ random - field: 1
+ redund - featur: 1
+ search - engin: 3
+ selec - method: 1
+ support - vector: 1
+ text - docum: 2
+ tradeoff - tune: 1
+ vector - machin: 1
+
+PageRank scores count: 40
+ ambigu: 0.012938687246139328
+ author: 0.012938687246139328
+ balanc: 0.012938687246139328
+ chemic: 0.02943551348496697
+ classif: 0.012938687246139328
+ condition: 0.012938687246139328
+ data: 0.023936571405357755
+ designrank: 0.012938687246139328
+ docum: 0.023936571405357755
+ engin: 0.0691614176455238
+ exact: 0.012938687246139328
+ extrac: 0.02334199829300001
+ extract: 0.012938687246139328
+ featur: 0.023936571405357755
+ field: 0.03328477294069342
+ formula: 0.04895675786757968
+ function: 0.023936571405357755
+ index: 0.012938687246139328
+ keyword: 0.018437629325748543
+ machin: 0.03328477294069342
+ method: 0.05222862840494717
+ model: 0.02943551348496697
+ occurr: 0.018437629325748543
+ partial: 0.012938687246139328
+ probabilist: 0.012938687246139328
+ queri: 0.012938687246139328
+ random: 0.023936571405357755
+ redund: 0.012938687246139328
+ result: 0.018437629325748543
+ search: 0.06614438870515822
+ selec: 0.03328477294069342
+ size: 0.018437629325748543
+ string: 0.028610672173025594
+ support: 0.012938687246139328
+ text: 0.012938687246139328
+ todai: 0.07172589224483455
+ tradeoff: 0.012938687246139328
+ tune: 0.023936571405357755
+ vector: 0.023936571405357755
+ work: 0.03277938579518933
+
+N-grams list: 10
+ search engin todai
+ chemic formula search
+ formula search
+ featur selec method
+ chemic formula extrac
+ extract chemic formula
+ index chemic formula
+ ambigu search
+ author search
+ chemic formula
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

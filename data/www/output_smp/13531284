@@ -1,0 +1,49 @@
+File name: 13531284
+
+Graph edges count: 13
+ contextu - elem: 1
+ genom - propag: 1
+ multidimension - similar: 1
+ propag - scheme: 1
+ semant - concept: 1
+ semant - genom: 1
+ semant - scheme: 1
+ servic - similar: 1
+ sgp - similar: 1
+ similar - measur: 1
+ similar - perform: 1
+ similar - todai: 1
+ web - servic: 2
+
+PageRank scores count: 15
+ concept: 0.04697040864255518
+ contextu: 0.03660031842277028
+ elem: 0.067710589082125
+ genom: 0.04697040864255518
+ measur: 0.0809065288868013
+ multidimension: 0.03660031842277028
+ perform: 0.0809065288868013
+ propag: 0.07652516576894217
+ scheme: 0.11201679954615602
+ semant: 0.03660031842277028
+ servic: 0.067710589082125
+ sgp: 0.03660031842277028
+ similar: 0.15637486046128599
+ todai: 0.0809065288868013
+ web: 0.03660031842277028
+
+N-grams list: 10
+ sgp similar measur
+ web servic similar
+ similar perform
+ multidimension similar
+ semant genom propag
+ similar
+ semant scheme
+ scheme
+ contextu elem
+ web servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

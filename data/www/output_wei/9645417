@@ -1,0 +1,97 @@
+File name: 9645417
+
+Graph edges count: 32
+ arbitrari - order: 1
+ autocomplet - interfac: 1
+ complet - queri: 1
+ effici - algorithm: 1
+ effici - interact: 1
+ friendli - interfac: 1
+ fuzzi - keyword: 1
+ fuzzi - search: 1
+ high - effici: 1
+ incrementalsearch - algorithm: 1
+ informationaccess - paradigm: 1
+ inform - system: 1
+ interact - fuzzi: 2
+ interact - search: 1
+ interact - speed: 1
+ irvin - peopl: 1
+ keyword - search: 1
+ larg - amount: 1
+ minor - error: 1
+ multipl - attribut: 1
+ peopl - directori: 1
+ queri - keyword: 2
+ real - prototyp: 1
+ recent - trend: 1
+ relev - record: 1
+ research - challeng: 1
+ search - tradition: 1
+ tradition - inform: 1
+ tryandse - approach: 1
+ uc - irvin: 1
+ user - due: 1
+ user - type: 1
+
+PageRank scores count: 44
+ algorithm: 0.031222356412772954
+ amount: 0.02191042555282313
+ approach: 0.02191042555282313
+ arbitrari: 0.011843473271796285
+ attribut: 0.02191042555282313
+ autocomplet: 0.011843473271796285
+ challeng: 0.02191042555282313
+ complet: 0.011843473271796285
+ directori: 0.03774070801473784
+ due: 0.016876949412309706
+ effici: 0.02191042555282313
+ error: 0.02191042555282313
+ friendli: 0.011843473271796285
+ fuzzi: 0.020834520027788385
+ high: 0.011843473271796285
+ incrementalsearch: 0.011843473271796285
+ inform: 0.064261477375234
+ informationaccess: 0.011843473271796285
+ interact: 0.021155404131746117
+ interfac: 0.03197737783384997
+ irvin: 0.02191042555282313
+ keyword: 0.03932200600350601
+ larg: 0.011843473271796285
+ minor: 0.011843473271796285
+ multipl: 0.011843473271796285
+ order: 0.02191042555282313
+ paradigm: 0.02191042555282313
+ peopl: 0.030467334991695946
+ prototyp: 0.02191042555282313
+ queri: 0.02191042555282313
+ real: 0.011843473271796285
+ recent: 0.011843473271796285
+ record: 0.02191042555282313
+ relev: 0.011843473271796285
+ research: 0.011843473271796285
+ search: 0.05861737276458251
+ speed: 0.016338996649792336
+ system: 0.06646572904074517
+ tradition: 0.06166824012169141
+ trend: 0.02191042555282313
+ tryandse: 0.011843473271796285
+ type: 0.016876949412309706
+ uc: 0.011843473271796285
+ user: 0.011843473271796285
+
+N-grams list: 10
+ keyword search tradition
+ inform system
+ interact fuzzi search
+ interact search
+ system
+ inform
+ uc irvin peopl
+ effici interact fuzzi
+ queri keyword
+ effici algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

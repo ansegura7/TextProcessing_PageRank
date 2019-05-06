@@ -1,0 +1,72 @@
+File name: 4510945
+
+Graph edges count: 20
+ ambigu - queri: 1
+ automat - identif: 1
+ challeng - task: 1
+ clickhistori - data: 1
+ explicit - input: 1
+ gener - prefer: 1
+ import - part: 1
+ inform - retriev: 1
+ person - prefer: 1
+ person - search: 2
+ rank - mechan: 1
+ search - commun: 1
+ search - engin: 3
+ search - result: 1
+ signific - atten: 1
+ signific - improv: 1
+ true - inten: 1
+ user - interest: 1
+ user - prefer: 2
+ web - search: 1
+
+PageRank scores count: 31
+ ambigu: 0.022304625421696818
+ atten: 0.031784091225917965
+ automat: 0.022304625421696818
+ challeng: 0.022304625421696818
+ clickhistori: 0.022304625421696818
+ commun: 0.03668181522476556
+ data: 0.04126355703013912
+ engin: 0.03668181522476556
+ explicit: 0.022304625421696818
+ gener: 0.022304625421696818
+ identif: 0.04126355703013912
+ import: 0.022304625421696818
+ improv: 0.031784091225917965
+ inform: 0.022304625421696818
+ input: 0.04126355703013912
+ inten: 0.04126355703013912
+ interest: 0.031784091225917965
+ mechan: 0.04126355703013912
+ part: 0.04126355703013912
+ person: 0.022304625421696818
+ prefer: 0.060222488638581415
+ queri: 0.04126355703013912
+ rank: 0.022304625421696818
+ result: 0.03668181522476556
+ retriev: 0.04126355703013912
+ search: 0.05074302283436027
+ signific: 0.022304625421696818
+ task: 0.04126355703013912
+ true: 0.022304625421696818
+ user: 0.022304625421696818
+ web: 0.022304625421696818
+
+N-grams list: 10
+ web search commun
+ search result
+ search engin
+ user prefer
+ gener prefer
+ person prefer
+ person search
+ inform retriev
+ true inten
+ automat identif
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

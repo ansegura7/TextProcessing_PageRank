@@ -1,0 +1,49 @@
+File name: 4493351
+
+Graph edges count: 11
+ gener - summari: 1
+ georeferenc - photo: 2
+ georeferenc - photograph: 1
+ initi - evalu: 1
+ larg - collec: 2
+ photo - set: 2
+ social - tempor: 1
+ spatial - pattern: 1
+ summari - algorithm: 1
+ summari - set: 2
+ textualtop - factor: 1
+
+PageRank scores count: 17
+ algorithm: 0.05895245769540694
+ collec: 0.07155519742143435
+ evalu: 0.07155519742143435
+ factor: 0.07155519742143435
+ gener: 0.03867848509266721
+ georeferenc: 0.03867848509266721
+ initi: 0.03867848509266721
+ larg: 0.03867848509266721
+ pattern: 0.07155519742143435
+ photo: 0.06059629331184529
+ photograph: 0.04963738920225626
+ set: 0.13073327961321518
+ social: 0.03867848509266721
+ spatial: 0.03867848509266721
+ summari: 0.07155519742143435
+ tempor: 0.07155519742143435
+ textualtop: 0.03867848509266721
+
+N-grams list: 10
+ summari set
+ photo set
+ set
+ summari algorithm
+ larg collec
+ textualtop factor
+ gener summari
+ social tempor
+ spatial pattern
+ initi evalu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

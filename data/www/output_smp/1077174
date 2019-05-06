@@ -1,0 +1,69 @@
+File name: 1077174
+
+Graph edges count: 19
+ content - deliveri: 1
+ content - distribu: 1
+ current - web: 1
+ detail - perform: 1
+ distribu - network: 1
+ dnsenhanc - web: 1
+ dn - messag: 2
+ dn - traffic: 1
+ kei - compon: 1
+ minim - exten: 1
+ option - field: 1
+ perform - analysi: 1
+ recent - year: 1
+ simul - studi: 1
+ tracedriven - simul: 1
+ unus - potenti: 1
+ web - context: 1
+ web - respons: 2
+ web - server: 1
+
+PageRank scores count: 29
+ analysi: 0.05716507874781256
+ compon: 0.041109969167523124
+ content: 0.022221604955417907
+ context: 0.03922113274631261
+ current: 0.022221604955417907
+ deliveri: 0.03166578706147052
+ detail: 0.022221604955417907
+ distribu: 0.03166578706147052
+ dn: 0.022221604955417907
+ dnsenhanc: 0.022221604955417907
+ exten: 0.041109969167523124
+ field: 0.041109969167523124
+ kei: 0.022221604955417907
+ messag: 0.03166578706147052
+ minim: 0.022221604955417907
+ network: 0.04913752395766784
+ option: 0.022221604955417907
+ perform: 0.041109969167523124
+ potenti: 0.041109969167523124
+ recent: 0.022221604955417907
+ respons: 0.03922113274631261
+ server: 0.03922113274631261
+ simul: 0.041109969167523124
+ studi: 0.05716507874781256
+ tracedriven: 0.022221604955417907
+ traffic: 0.03166578706147052
+ unus: 0.022221604955417907
+ web: 0.05999833337962835
+ year: 0.041109969167523124
+
+N-grams list: 10
+ detail perform analysi
+ tracedriven simul studi
+ content distribu network
+ web context
+ web respons
+ web server
+ current web
+ dnsenhanc web
+ minim exten
+ unus potenti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

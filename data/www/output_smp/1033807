@@ -1,0 +1,77 @@
+File name: 1033807
+
+Graph edges count: 26
+ access - control: 3
+ autom - test: 1
+ choos - coverag: 1
+ choos - mutat: 1
+ control - polici: 3
+ coverag - criteria: 2
+ equivalentmut - detec: 1
+ experiment - result: 1
+ faultdetec - effect: 1
+ fault - model: 4
+ gener - equivalentmut: 1
+ manual - test: 1
+ model - mutant: 1
+ mutantkil - determin: 1
+ mutant - gener: 1
+ mutat - oper: 2
+ mutat - test: 2
+ polici - develop: 1
+ polici - polici: 1
+ polici - test: 1
+ structur - coverag: 1
+ test - gener: 2
+ test - input: 1
+ test - output: 1
+ typic - test: 1
+ valuabl - insight: 1
+
+PageRank scores count: 30
+ access: 0.015762902125249723
+ autom: 0.015762902125249723
+ choos: 0.015762902125249723
+ control: 0.029161368931711982
+ coverag: 0.03586060233494312
+ criteria: 0.04624441410995137
+ detec: 0.0821440051575164
+ determin: 0.029161368931711982
+ develop: 0.03179432398321656
+ effect: 0.029161368931711982
+ equivalentmut: 0.07809541132618004
+ experiment: 0.015762902125249723
+ fault: 0.015762902125249723
+ faultdetec: 0.015762902125249723
+ gener: 0.07333236243050092
+ input: 0.03886480657087676
+ insight: 0.029161368931711982
+ manual: 0.015762902125249723
+ model: 0.029161368931711982
+ mutant: 0.04055006571720491
+ mutantkil: 0.015762902125249723
+ mutat: 0.022462135528480854
+ oper: 0.02530930972485408
+ output: 0.03886480657087676
+ polici: 0.05658148757517174
+ result: 0.029161368931711982
+ structur: 0.015762902125249723
+ test: 0.08153613200220772
+ typic: 0.015762902125249723
+ valuabl: 0.015762902125249723
+
+N-grams list: 10
+ gener equivalentmut detec
+ test gener
+ polici polici develop
+ polici test
+ typic test input
+ test output
+ mutat test
+ access control polici
+ choos coverag criteria
+ manual test
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

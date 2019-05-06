@@ -1,0 +1,81 @@
+File name: 4419686
+
+Graph edges count: 25
+ abstract - compon: 1
+ applic - integr: 1
+ compon - model: 2
+ compon - technologi: 1
+ composit - applic: 2
+ composi - logic: 1
+ composi - model: 1
+ eventbas - composi: 1
+ final - goal: 1
+ integr - problem: 1
+ present - compon: 3
+ present - layer: 1
+ proofofconcept - prototyp: 1
+ proper - reus: 1
+ rapid - integr: 1
+ reus - mechan: 1
+ runtim - middlewar: 1
+ simpl - xmlbase: 1
+ softwar - develop: 2
+ standalon - modul: 1
+ timeconsum - aspect: 1
+ ui - develop: 1
+ ui - integr: 1
+ user - interfac: 1
+ xmlbase - languag: 1
+
+PageRank scores count: 35
+ abstract: 0.016828005166197587
+ applic: 0.031131809557465535
+ aspect: 0.031131809557465535
+ compon: 0.0418596628509165
+ composi: 0.031131809557465535
+ composit: 0.016828005166197587
+ develop: 0.03828371175309951
+ eventbas: 0.016828005166197587
+ final: 0.016828005166197587
+ goal: 0.031131809557465535
+ integr: 0.06474574987694522
+ interfac: 0.031131809557465535
+ languag: 0.04329004329004329
+ layer: 0.02040395626401457
+ logic: 0.030059024228120436
+ mechan: 0.04329004329004329
+ middlewar: 0.031131809557465535
+ model: 0.053779499843639784
+ modul: 0.031131809557465535
+ present: 0.016828005166197587
+ problem: 0.07186189256160103
+ proofofconcept: 0.016828005166197587
+ proper: 0.016828005166197587
+ prototyp: 0.031131809557465535
+ rapid: 0.016828005166197587
+ reus: 0.031131809557465535
+ runtim: 0.016828005166197587
+ simpl: 0.016828005166197587
+ softwar: 0.016828005166197587
+ standalon: 0.016828005166197587
+ technologi: 0.02868824297395726
+ timeconsum: 0.016828005166197587
+ ui: 0.016828005166197587
+ user: 0.016828005166197587
+ xmlbase: 0.031131809557465535
+
+N-grams list: 10
+ ui integr problem
+ abstract compon model
+ eventbas composi model
+ applic integr
+ compon model
+ simpl xmlbase languag
+ proper reus mechan
+ rapid integr
+ compon technologi
+ integr
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

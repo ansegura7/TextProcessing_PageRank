@@ -1,0 +1,56 @@
+File name: 314731
+
+Graph edges count: 13
+ consequ - basic: 1
+ data - mine: 2
+ detec - problem: 1
+ frequent - item: 1
+ hypertext - inform: 1
+ inform - retriev: 1
+ item - set: 1
+ major - sourc: 1
+ practic - solution: 1
+ search - algorithm: 1
+ simpl - search: 1
+ surpris - increas: 1
+ templat - detec: 3
+
+PageRank scores count: 22
+ algorithm: 0.07157762938230387
+ basic: 0.05147468002225934
+ consequ: 0.02782415136338343
+ data: 0.02782415136338343
+ detec: 0.05147468002225934
+ frequent: 0.02782415136338343
+ hypertext: 0.02782415136338343
+ increas: 0.05147468002225934
+ inform: 0.05147468002225934
+ item: 0.05147468002225934
+ major: 0.02782415136338343
+ mine: 0.05147468002225934
+ practic: 0.02782415136338343
+ problem: 0.07157762938230387
+ retriev: 0.07157762938230387
+ search: 0.05147468002225934
+ set: 0.07157762938230387
+ simpl: 0.02782415136338343
+ solution: 0.05147468002225934
+ sourc: 0.05147468002225934
+ surpris: 0.02782415136338343
+ templat: 0.02782415136338343
+
+N-grams list: 10
+ templat detec problem
+ hypertext inform retriev
+ frequent item set
+ simpl search algorithm
+ data mine
+ major sourc
+ practic solution
+ consequ basic
+ templat detec
+ surpris increas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

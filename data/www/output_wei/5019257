@@ -1,0 +1,97 @@
+File name: 5019257
+
+Graph edges count: 34
+ candid - server: 1
+ client - perform: 1
+ client - request: 1
+ complex - polici: 1
+ comput - system: 1
+ content - distribu: 1
+ distanc - metric: 1
+ distribu - network: 1
+ divers - pool: 1
+ divers - server: 1
+ dynam - server: 1
+ feder - multiprovid: 1
+ full - inform: 1
+ intellig - server: 2
+ internet - server: 1
+ measur - studi: 1
+ model - redirec: 1
+ multiprovid - comput: 1
+ network - provid: 1
+ perform - client: 1
+ selec - algorithm: 1
+ selec - criteria: 1
+ selec - mechan: 1
+ selec - scheme: 1
+ selec - transac: 1
+ server - selec: 6
+ server - set: 6
+ set - distanc: 1
+ set - internet: 1
+ set - selec: 1
+ simpl - model: 1
+ singleprovid - case: 1
+ singl - entiti: 1
+ surpris - accuraci: 1
+
+PageRank scores count: 42
+ accuraci: 0.02277522366481846
+ algorithm: 0.02143866885915067
+ candid: 0.01231093171071268
+ case: 0.02277522366481846
+ client: 0.035655938268820506
+ complex: 0.01231093171071268
+ comput: 0.03166987182580837
+ content: 0.01231093171071268
+ criteria: 0.02143866885915067
+ distanc: 0.024165135807596706
+ distribu: 0.02277522366481846
+ divers: 0.01231093171071268
+ dynam: 0.01231093171071268
+ entiti: 0.02277522366481846
+ feder: 0.01231093171071268
+ full: 0.01231093171071268
+ inform: 0.02277522366481846
+ intellig: 0.01231093171071268
+ internet: 0.024165135807596706
+ measur: 0.01231093171071268
+ mechan: 0.02143866885915067
+ metric: 0.032851297116356315
+ model: 0.02277522366481846
+ multiprovid: 0.02277522366481846
+ network: 0.03166987182580837
+ perform: 0.02746471359777392
+ polici: 0.02277522366481846
+ pool: 0.017543077687765567
+ provid: 0.039230322762649796
+ redirec: 0.03166987182580837
+ request: 0.02746471359777392
+ scheme: 0.02143866885915067
+ selec: 0.05369257136818243
+ server: 0.06947631895572655
+ set: 0.0418383672712984
+ simpl: 0.01231093171071268
+ singl: 0.01231093171071268
+ singleprovid: 0.01231093171071268
+ studi: 0.02277522366481846
+ surpris: 0.01231093171071268
+ system: 0.039230322762649796
+ transac: 0.02143866885915067
+
+N-grams list: 10
+ internet server selec
+ server selec transac
+ server selec scheme
+ server set distanc
+ dynam server selec
+ intellig server selec
+ divers server set
+ candid server set
+ intellig server set
+ server selec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,112 @@
+File name: 13062025
+
+Graph edges count: 41
+ aggreg - heterogen: 1
+ character - curv: 1
+ engag - metric: 2
+ engin - aggreg: 2
+ engin - result: 1
+ entir - span: 2
+ feasibl - oper: 2
+ featur - iv: 1
+ feder - search: 2
+ heterogen - type: 1
+ intern - qualiti: 1
+ intern - threshold: 1
+ loss - function: 1
+ model - character: 1
+ modern - dai: 1
+ multipl - vertic: 1
+ multipl - week: 1
+ numer - oper: 1
+ onlin - engag: 1
+ onlin - experi: 2
+ onlin - perform: 1
+ onlin - user: 2
+ oper - curv: 1
+ oper - point: 6
+ point - modern: 1
+ qualiti - threshold: 1
+ rank - algorithm: 1
+ result - page: 1
+ result - qualiti: 1
+ sampl - distribu: 1
+ search - engin: 5
+ singl - search: 1
+ specif - slot: 1
+ specif - tradeoff: 1
+ tail - queri: 1
+ timeconsum - approach: 1
+ train - process: 1
+ user - engag: 3
+ vertic - result: 1
+ vertic - search: 1
+ wellknown - feder: 1
+
+PageRank scores count: 50
+ aggreg: 0.03584717737836187
+ algorithm: 0.018910619756095738
+ approach: 0.018910619756095738
+ character: 0.018910619756095738
+ curv: 0.029647324911052795
+ dai: 0.04082404879172456
+ distribu: 0.018910619756095738
+ engag: 0.022820518165126338
+ engin: 0.04522097780019752
+ entir: 0.010221956624916614
+ experi: 0.013118177668642988
+ feasibl: 0.010221956624916614
+ featur: 0.010221956624916614
+ feder: 0.018910619756095738
+ function: 0.018910619756095738
+ heterogen: 0.040692057396524206
+ intern: 0.010221956624916614
+ iv: 0.018910619756095738
+ loss: 0.010221956624916614
+ metric: 0.029619397065274004
+ model: 0.010221956624916614
+ modern: 0.03600246137271523
+ multipl: 0.010221956624916614
+ numer: 0.010221956624916614
+ onlin: 0.010221956624916614
+ oper: 0.02759928288727486
+ page: 0.02264268340502347
+ perform: 0.011670067146779801
+ point: 0.03033000558564544
+ process: 0.018910619756095738
+ qualiti: 0.026987014970613035
+ queri: 0.018910619756095738
+ rank: 0.010221956624916614
+ result: 0.029225239482604366
+ sampl: 0.010221956624916614
+ search: 0.04117531902974224
+ singl: 0.010221956624916614
+ slot: 0.014566288190506177
+ span: 0.018910619756095738
+ specif: 0.010221956624916614
+ tail: 0.010221956624916614
+ threshold: 0.037505250915527255
+ timeconsum: 0.010221956624916614
+ tradeoff: 0.014566288190506177
+ train: 0.010221956624916614
+ type: 0.04481020541196219
+ user: 0.013118177668642988
+ vertic: 0.014566288190506177
+ week: 0.014566288190506177
+ wellknown: 0.010221956624916614
+
+N-grams list: 10
+ search engin aggreg
+ singl search engin
+ heterogen type
+ modern dai
+ intern qualiti threshold
+ wellknown feder search
+ numer oper point
+ feasibl oper point
+ multipl vertic search
+ user engag metric
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

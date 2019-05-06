@@ -1,0 +1,52 @@
+File name: 8957547
+
+Graph edges count: 14
+ data - profil: 2
+ data - propertiesvalu: 1
+ docum - licens: 1
+ licens - vote: 1
+ link - relationship: 1
+ machin - readabl: 1
+ meta - data: 3
+ network - docum: 1
+ profil - format: 1
+ relationship - meta: 1
+ semant - xhtml: 1
+ simpl - profil: 1
+ social - network: 1
+ xhtml - meta: 2
+
+PageRank scores count: 17
+ data: 0.10774268738119525
+ docum: 0.061276308691344664
+ format: 0.1131723697799537
+ licens: 0.07590461309370503
+ link: 0.023819750706062067
+ machin: 0.023819750706062067
+ meta: 0.09873286667662727
+ network: 0.044066538806214826
+ profil: 0.10512072832222545
+ propertiesvalu: 0.054346845464067386
+ readabl: 0.044066538806214826
+ relationship: 0.044066538806214826
+ semant: 0.023819750706062067
+ simpl: 0.023819750706062067
+ social: 0.023819750706062067
+ vote: 0.08833867183571135
+ xhtml: 0.044066538806214826
+
+N-grams list: 10
+ xhtml meta data
+ simpl profil format
+ link relationship meta
+ licens vote
+ data propertiesvalu
+ social network docum
+ profil
+ semant xhtml
+ machin readabl
+ xhtml
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,44 @@
+File name: 14005107
+
+Graph edges count: 9
+ coarsegrain - classif: 1
+ function - class: 1
+ relev - function: 1
+ standard - techniqu: 1
+ structur - properti: 1
+ subsequ - textual: 1
+ textual - classif: 1
+ web - page: 1
+ web - site: 7
+
+PageRank scores count: 14
+ class: 0.11564396493594069
+ classif: 0.15385479883119807
+ coarsegrain: 0.04495392222971455
+ function: 0.08316475612497191
+ page: 0.049730276466621724
+ properti: 0.08316475612497191
+ relev: 0.04495392222971455
+ site: 0.07838840188806474
+ standard: 0.04495392222971455
+ structur: 0.04495392222971455
+ subsequ: 0.04495392222971455
+ techniqu: 0.08316475612497191
+ textual: 0.08316475612497191
+ web: 0.04495392222971455
+
+N-grams list: 10
+ subsequ textual classif
+ relev function class
+ coarsegrain classif
+ classif
+ standard techniqu
+ structur properti
+ web site
+ web page
+ function
+ structur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

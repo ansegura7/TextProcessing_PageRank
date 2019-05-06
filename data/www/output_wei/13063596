@@ -1,0 +1,64 @@
+File name: 13063596
+
+Graph edges count: 21
+ answer - consolid: 1
+ design - index: 1
+ design - queri: 1
+ entiti - annot: 1
+ entiti - search: 2
+ entityrel - search: 2
+ index - design: 1
+ languag - design: 1
+ orient - indic: 1
+ process - logic: 1
+ queri - languag: 1
+ queri - process: 1
+ search - architectur: 1
+ search - engin: 1
+ span - orient: 1
+ token - span: 1
+ type - annot: 1
+ type - queri: 1
+ webscal - entiti: 1
+ webscal - entityrel: 2
+ web - page: 1
+
+PageRank scores count: 22
+ annot: 0.034215158342241495
+ answer: 0.019129456442315482
+ architectur: 0.04399828119111567
+ consolid: 0.035389494418283644
+ design: 0.1267408359520314
+ engin: 0.04399828119111567
+ entiti: 0.024549469100971534
+ entityrel: 0.029969481759627593
+ index: 0.07299431521840113
+ indic: 0.06095840413549358
+ languag: 0.05360730045622736
+ logic: 0.06469566406399412
+ orient: 0.04921052669785658
+ page: 0.035389494418283644
+ process: 0.05360730045622736
+ queri: 0.0811243342063852
+ search: 0.058514881761882805
+ span: 0.035389494418283644
+ token: 0.019129456442315482
+ type: 0.019129456442315482
+ web: 0.019129456442315482
+ webscal: 0.019129456442315482
+
+N-grams list: 10
+ design index design
+ queri process logic
+ type queri languag
+ design
+ webscal entityrel search
+ token span orient
+ webscal entiti search
+ entiti search
+ indic
+ entiti annot
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

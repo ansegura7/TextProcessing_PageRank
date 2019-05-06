@@ -1,0 +1,79 @@
+File name: 13063239
+
+Graph edges count: 25
+ break - new: 1
+ classif - problem: 1
+ detec - person: 1
+ futur - retweet: 1
+ good - perform: 1
+ inform - metadata: 1
+ inform - propag: 1
+ larg - scale: 1
+ messag - recommend: 1
+ messag - tempor: 1
+ network - servic: 1
+ new - detec: 1
+ person - messag: 1
+ popular - messag: 2
+ recommend - viral: 1
+ scale - dataset: 1
+ social - graph: 1
+ social - network: 1
+ structur - properti: 1
+ tempor - inform: 1
+ twitter - inform: 1
+ twitter - social: 1
+ viabl - sourc: 1
+ viral - market: 1
+ wide - spectrum: 1
+
+PageRank scores count: 33
+ break: 0.014860926716727575
+ classif: 0.014860926716727575
+ dataset: 0.03822973397878169
+ detec: 0.03822973397878169
+ futur: 0.014860926716727575
+ good: 0.014860926716727575
+ graph: 0.02386107545954571
+ inform: 0.0582816647132641
+ larg: 0.014860926716727575
+ market: 0.05903183194658422
+ messag: 0.06774548493483422
+ metadata: 0.03963063421986482
+ network: 0.02386107545954571
+ new: 0.027492714425946016
+ perform: 0.027492714425946016
+ person: 0.04735620059869201
+ popular: 0.014860926716727575
+ problem: 0.027492714425946016
+ propag: 0.03963063421986482
+ properti: 0.027492714425946016
+ recommend: 0.04365275781403212
+ retweet: 0.027492714425946016
+ scale: 0.027492714425946016
+ servic: 0.03514284085734143
+ social: 0.021176820571336793
+ sourc: 0.027492714425946016
+ spectrum: 0.027492714425946016
+ structur: 0.014860926716727575
+ tempor: 0.04365275781403212
+ twitter: 0.014860926716727575
+ viabl: 0.014860926716727575
+ viral: 0.051965770858654885
+ wide: 0.014860926716727575
+
+N-grams list: 10
+ messag tempor inform
+ person messag recommend
+ viral market
+ inform propag
+ popular messag
+ larg scale dataset
+ break new detec
+ twitter inform
+ messag
+ twitter social network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

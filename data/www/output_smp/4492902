@@ -1,0 +1,65 @@
+File name: 4492902
+
+Graph edges count: 19
+ anchor - text: 2
+ corpor - net: 1
+ enterpr - search: 1
+ ibm - net: 1
+ implicit - feedback: 1
+ internet - search: 1
+ major - differ: 1
+ major - factor: 1
+ net - search: 2
+ net - user: 1
+ preliminari - experi: 1
+ search - engin: 3
+ search - experi: 1
+ search - qualiti: 2
+ short - descrip: 1
+ social - phenomenon: 1
+ user - annot: 2
+ user - feedback: 1
+ web - page: 2
+
+PageRank scores count: 25
+ anchor: 0.023957403736157117
+ annot: 0.045823026658601
+ corpor: 0.023957403736157117
+ descrip: 0.04432119691189067
+ differ: 0.03413930032402389
+ engin: 0.05007396848403539
+ enterpr: 0.023957403736157117
+ experi: 0.07043776165976894
+ factor: 0.03413930032402389
+ feedback: 0.06618681983433457
+ ibm: 0.023957403736157117
+ implicit: 0.023957403736157117
+ internet: 0.023957403736157117
+ major: 0.023957403736157117
+ net: 0.06468499008762421
+ page: 0.04432119691189067
+ phenomenon: 0.04432119691189067
+ preliminari: 0.023957403736157117
+ qualiti: 0.05007396848403539
+ search: 0.0921761108748645
+ short: 0.023957403736157117
+ social: 0.023957403736157117
+ text: 0.04432119691189067
+ user: 0.0514485245233974
+ web: 0.023957403736157117
+
+N-grams list: 10
+ internet search engin
+ search experi
+ net search
+ search qualiti
+ search engin
+ user feedback
+ enterpr search
+ net user
+ user annot
+ preliminari experi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

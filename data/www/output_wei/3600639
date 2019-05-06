@@ -1,0 +1,91 @@
+File name: 3600639
+
+Graph edges count: 28
+ blind - student: 1
+ blind - user: 1
+ coher - unit: 1
+ discus - board: 2
+ experiment - result: 1
+ label - messag: 1
+ linear - represent: 1
+ messag - hierarchi: 2
+ messag - thread: 1
+ navig - goal: 1
+ navig - load: 1
+ navig - obstacl: 1
+ navig - problem: 1
+ navig - support: 1
+ origin - theme: 1
+ reader - program: 1
+ screen - reader: 1
+ segment - algorithm: 1
+ segment - relev: 1
+ softwar - system: 1
+ subject - head: 1
+ success - rate: 1
+ summar - tool: 1
+ support - messag: 1
+ topic - segment: 1
+ webbas - electron: 1
+ web - discus: 1
+ web - index: 1
+
+PageRank scores count: 42
+ algorithm: 0.028571508547659642
+ blind: 0.01599524621282555
+ board: 0.0353694881881105
+ coher: 0.01599524621282555
+ discus: 0.022793225853276408
+ electron: 0.029591205493727273
+ experiment: 0.01599524621282555
+ goal: 0.018714438069005895
+ head: 0.029591205493727273
+ hierarchi: 0.04177771699584218
+ index: 0.022793225853276408
+ label: 0.01599524621282555
+ linear: 0.01599524621282555
+ load: 0.018714438069005895
+ messag: 0.04549847785238228
+ navig: 0.01599524621282555
+ obstacl: 0.018714438069005895
+ origin: 0.01599524621282555
+ problem: 0.018714438069005895
+ program: 0.04114777088249373
+ rate: 0.029591205493727273
+ reader: 0.029591205493727273
+ relev: 0.028571508547659642
+ represent: 0.029591205493727273
+ result: 0.029591205493727273
+ screen: 0.01599524621282555
+ segment: 0.029591205493727273
+ softwar: 0.01599524621282555
+ student: 0.022793225853276408
+ subject: 0.01599524621282555
+ success: 0.01599524621282555
+ summar: 0.01599524621282555
+ support: 0.018714438069005895
+ system: 0.029591205493727273
+ theme: 0.029591205493727273
+ thread: 0.028886481604333863
+ tool: 0.029591205493727273
+ topic: 0.01599524621282555
+ unit: 0.029591205493727273
+ user: 0.022793225853276408
+ web: 0.01599524621282555
+ webbas: 0.01599524621282555
+
+N-grams list: 10
+ messag hierarchi
+ screen reader program
+ navig support messag
+ messag thread
+ web discus board
+ label messag
+ segment relev
+ segment algorithm
+ discus board
+ success rate
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

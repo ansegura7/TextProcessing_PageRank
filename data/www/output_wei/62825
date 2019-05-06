@@ -1,0 +1,106 @@
+File name: 62825
+
+Graph edges count: 38
+ achiev - schedul: 1
+ adapt - monitor: 1
+ alloc - phase: 1
+ chang - behavior: 1
+ chang - characterist: 1
+ chang - track: 1
+ continu - adapt: 1
+ continu - queri: 3
+ control - weather: 1
+ current - queri: 1
+ decision - make: 1
+ dynam - web: 2
+ experiment - evalu: 1
+ flow - control: 1
+ import - phase: 1
+ index - uptod: 1
+ inher - differ: 1
+ interest - observ: 1
+ monitor - etc: 1
+ monitor - task: 1
+ onlin - decision: 1
+ optim - achiev: 1
+ page - chang: 1
+ perform - metric: 1
+ prior - approach: 1
+ probabilist - model: 1
+ queri - continu: 1
+ queri - result: 1
+ relev - page: 1
+ resourc - alloc: 2
+ respons - current: 1
+ schedul - phase: 1
+ search - queri: 1
+ statist - resourc: 1
+ track - phase: 1
+ traffic - flow: 1
+ weather - monitor: 1
+ web - page: 1
+
+PageRank scores count: 47
+ achiev: 0.01835829349575084
+ adapt: 0.01702292118058564
+ alloc: 0.025527951360983257
+ approach: 0.01835829349575084
+ behavior: 0.020914417106232965
+ chang: 0.03879181841166324
+ characterist: 0.020914417106232965
+ continu: 0.03340949817536721
+ control: 0.025527951360983257
+ current: 0.01835829349575084
+ decision: 0.01835829349575084
+ differ: 0.01835829349575084
+ dynam: 0.009923401889595047
+ etc: 0.031713884967996486
+ evalu: 0.01835829349575084
+ experiment: 0.009923401889595047
+ flow: 0.01835829349575084
+ import: 0.009923401889595047
+ index: 0.009923401889595047
+ inher: 0.009923401889595047
+ interest: 0.009923401889595047
+ make: 0.025527951360983257
+ metric: 0.01835829349575084
+ model: 0.01835829349575084
+ monitor: 0.05127172197670909
+ observ: 0.01835829349575084
+ onlin: 0.009923401889595047
+ optim: 0.009923401889595047
+ page: 0.03396284296713905
+ perform: 0.009923401889595047
+ phase: 0.07953306534972039
+ prior: 0.009923401889595047
+ probabilist: 0.009923401889595047
+ queri: 0.05526140084011084
+ relev: 0.009923401889595047
+ resourc: 0.01835829349575084
+ respons: 0.009923401889595047
+ result: 0.03340949817536721
+ schedul: 0.025527951360983257
+ search: 0.009923401889595047
+ statist: 0.009923401889595047
+ task: 0.031713884967996486
+ track: 0.020914417106232965
+ traffic: 0.009923401889595047
+ uptod: 0.01835829349575084
+ weather: 0.03162216054643082
+ web: 0.01835829349575084
+
+N-grams list: 10
+ resourc alloc phase
+ continu queri continu
+ weather monitor etc
+ schedul phase
+ continu adapt monitor
+ track phase
+ import phase
+ queri result
+ continu queri
+ monitor task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

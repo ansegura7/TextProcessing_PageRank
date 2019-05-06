@@ -1,0 +1,40 @@
+File name: 54487
+
+Graph edges count: 7
+ account - depend: 1
+ aforemen - problem: 1
+ current - tool: 1
+ ontologi - model: 1
+ semant - web: 2
+ wellfocus - unit: 1
+ wellknown - ontologi: 1
+
+PageRank scores count: 13
+ account: 0.05083238022620409
+ aforemen: 0.05083238022620409
+ current: 0.05083238022620409
+ depend: 0.09403990341847755
+ model: 0.13076629813191
+ ontologi: 0.09403990341847755
+ problem: 0.09403990341847755
+ semant: 0.05083238022620409
+ tool: 0.09403990341847755
+ unit: 0.09403990341847755
+ web: 0.09403990341847755
+ wellfocus: 0.05083238022620409
+ wellknown: 0.05083238022620409
+
+N-grams list: 9
+ ontologi model
+ current tool
+ wellknown ontologi
+ account depend
+ wellfocus unit
+ semant web
+ aforemen problem
+ problem
+ ontologi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,86 @@
+File name: 5236239
+
+Graph edges count: 27
+ agent - interest: 1
+ altern - axiomat: 1
+ approach - highqual: 1
+ axiomat - approach: 2
+ explicit - knowledg: 1
+ highqual - person: 1
+ import - properti: 1
+ incent - compat: 1
+ kei - featur: 1
+ minimum - cut: 1
+ monet - environ: 1
+ natur - axiom: 1
+ network - structur: 1
+ onlin - system: 1
+ pagerank - major: 1
+ person - pagerank: 1
+ person - recommend: 2
+ prior - work: 1
+ rank - system: 1
+ recommend - system: 7
+ social - choic: 1
+ social - network: 1
+ trustbas - recommend: 3
+ trust - link: 1
+ trust - network: 1
+ trust - relationship: 1
+ uniqu - recommend: 1
+
+PageRank scores count: 38
+ agent: 0.014599251518714523
+ altern: 0.014599251518714523
+ approach: 0.03755657453189311
+ axiom: 0.02700861530962187
+ axiomat: 0.02700861530962187
+ choic: 0.020803933414168193
+ compat: 0.02700861530962187
+ cut: 0.02700861530962187
+ environ: 0.02700861530962187
+ explicit: 0.014599251518714523
+ featur: 0.02700861530962187
+ highqual: 0.046522339870823666
+ import: 0.014599251518714523
+ incent: 0.014599251518714523
+ interest: 0.02700861530962187
+ kei: 0.014599251518714523
+ knowledg: 0.02700861530962187
+ link: 0.018735706115683638
+ major: 0.04656786090734228
+ minimum: 0.014599251518714523
+ monet: 0.014599251518714523
+ natur: 0.014599251518714523
+ network: 0.02494038801113731
+ onlin: 0.014599251518714523
+ pagerank: 0.03761012869250325
+ person: 0.05414324040891464
+ prior: 0.014599251518714523
+ properti: 0.02700861530962187
+ rank: 0.014599251518714523
+ recommend: 0.06242885627431793
+ relationship: 0.018735706115683638
+ social: 0.014599251518714523
+ structur: 0.03579858132818124
+ system: 0.09248250693369946
+ trust: 0.014599251518714523
+ trustbas: 0.014599251518714523
+ uniqu: 0.014599251518714523
+ work: 0.02700861530962187
+
+N-grams list: 10
+ trustbas recommend system
+ uniqu recommend system
+ recommend system
+ person pagerank major
+ person recommend
+ axiomat approach highqual
+ onlin system
+ rank system
+ system
+ social network structur
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

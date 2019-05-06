@@ -1,0 +1,77 @@
+File name: 14389008
+
+Graph edges count: 23
+ dirichlet - alloc: 1
+ docum - collec: 1
+ execu - speed: 1
+ flexibl - larg: 2
+ gibb - sampl: 2
+ heldout - likelihood: 1
+ larg - dataset: 1
+ larg - scale: 3
+ latent - dirichlet: 1
+ lda - outperform: 1
+ mapreduc - latent: 1
+ model - packag: 3
+ model - techniqu: 1
+ mr - lda: 4
+ multilingu - corpu: 1
+ outperform - mahout: 1
+ popular - topic: 1
+ scalabl - framework: 1
+ scale - topic: 3
+ topic - discoveri: 1
+ topic - model: 4
+ variat - implement: 1
+ variat - infer: 2
+
+PageRank scores count: 33
+ alloc: 0.053619494332685716
+ collec: 0.03112887914814846
+ corpu: 0.03112887914814846
+ dataset: 0.023441307980142875
+ dirichlet: 0.04328596843708752
+ discoveri: 0.02741730191016288
+ docum: 0.01682642116116133
+ execu: 0.01682642116116133
+ flexibl: 0.01682642116116133
+ framework: 0.03112887914814846
+ gibb: 0.01682642116116133
+ heldout: 0.01682642116116133
+ implement: 0.021593907156823706
+ infer: 0.02636139315248608
+ larg: 0.03112887914814846
+ latent: 0.03112887914814846
+ lda: 0.03112887914814846
+ likelihood: 0.03112887914814846
+ mahout: 0.053619494332685716
+ mapreduc: 0.01682642116116133
+ model: 0.05918994415716754
+ mr: 0.01682642116116133
+ multilingu: 0.01682642116116133
+ outperform: 0.04328596843708752
+ packag: 0.05456001056135563
+ popular: 0.01682642116116133
+ sampl: 0.03112887914814846
+ scalabl: 0.01682642116116133
+ scale: 0.03667108161810597
+ speed: 0.03112887914814846
+ techniqu: 0.029404284294559428
+ topic: 0.06229929852353854
+ variat: 0.01682642116116133
+
+N-grams list: 10
+ topic model packag
+ popular topic model
+ larg scale topic
+ model packag
+ mr lda outperform
+ mapreduc latent dirichlet
+ topic discoveri
+ flexibl larg scale
+ topic
+ model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

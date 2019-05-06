@@ -1,0 +1,48 @@
+File name: 3604050
+
+Graph edges count: 10
+ bloom - filter: 1
+ comprehens - set: 1
+ data - stream: 2
+ error - rate: 1
+ fraud - detec: 1
+ landmark - stream: 1
+ low - error: 1
+ solution - yield: 1
+ stream - window: 1
+ time - requir: 1
+
+PageRank scores count: 17
+ bloom: 0.036143489653926095
+ comprehens: 0.036143489653926095
+ data: 0.036143489653926095
+ detec: 0.06686545585976326
+ error: 0.06686545585976326
+ filter: 0.06686545585976326
+ fraud: 0.036143489653926095
+ landmark: 0.036143489653926095
+ low: 0.036143489653926095
+ rate: 0.09297912713472486
+ requir: 0.06686545585976326
+ set: 0.06686545585976326
+ solution: 0.036143489653926095
+ stream: 0.09758742206560043
+ time: 0.036143489653926095
+ window: 0.11909279840968645
+ yield: 0.06686545585976326
+
+N-grams list: 10
+ landmark stream window
+ low error rate
+ data stream
+ bloom filter
+ comprehens set
+ solution yield
+ fraud detec
+ time requir
+ stream
+ detec
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

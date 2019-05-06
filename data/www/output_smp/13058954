@@ -1,0 +1,92 @@
+File name: 13058954
+
+Graph edges count: 32
+ algorithm - nearestcompl: 1
+ aol - queri: 1
+ autocompl - queri: 1
+ auto - completion: 2
+ charact - nearestcompl: 1
+ completion - algorithm: 1
+ contextsensit - queri: 2
+ context - queri: 1
+ cosin - similar: 1
+ current - queri: 1
+ expan - techniqu: 1
+ extens - experiment: 1
+ highdimension - termweight: 1
+ input - prefix: 1
+ mostpopularcompl - algorithm: 1
+ mrr - rel: 1
+ poor - predic: 1
+ predic - qualiti: 1
+ public - aol: 1
+ queri - auto: 2
+ queri - autocompl: 1
+ queri - expan: 1
+ queri - log: 1
+ queri - recommend: 1
+ recent - queri: 1
+ recent - user: 1
+ recommend - tree: 1
+ short - prefix: 1
+ singl - charact: 1
+ standard - mostpopularcompl: 1
+ termweight - vector: 1
+ total - improv: 1
+
+PageRank scores count: 39
+ algorithm: 0.06291137490122493
+ aol: 0.022985315269320676
+ auto: 0.028219433447858645
+ autocompl: 0.028219433447858645
+ charact: 0.022985315269320676
+ completion: 0.03641101419219769
+ context: 0.012424494740173339
+ contextsensit: 0.012424494740173339
+ cosin: 0.012424494740173339
+ current: 0.012424494740173339
+ expan: 0.028219433447858645
+ experiment: 0.022985315269320676
+ extens: 0.012424494740173339
+ highdimension: 0.012424494740173339
+ improv: 0.022985315269320676
+ input: 0.012424494740173339
+ log: 0.028219433447858645
+ mostpopularcompl: 0.022985315269320676
+ mrr: 0.012424494740173339
+ nearestcompl: 0.08543668649185962
+ poor: 0.012424494740173339
+ predic: 0.022985315269320676
+ prefix: 0.03354613579846801
+ public: 0.012424494740173339
+ qualiti: 0.031962012719095906
+ queri: 0.09291140402313594
+ recent: 0.012424494740173339
+ recommend: 0.028219433447858645
+ rel: 0.022985315269320676
+ short: 0.012424494740173339
+ similar: 0.022985315269320676
+ singl: 0.012424494740173339
+ standard: 0.012424494740173339
+ techniqu: 0.03641101419219769
+ termweight: 0.022985315269320676
+ total: 0.012424494740173339
+ tree: 0.03641101419219769
+ user: 0.01770490500474701
+ vector: 0.031962012719095906
+
+N-grams list: 10
+ completion algorithm nearestcompl
+ queri expan techniqu
+ queri auto completion
+ queri recommend tree
+ contextsensit queri autocompl
+ contextsensit queri auto
+ public aol queri
+ singl charact nearestcompl
+ current queri
+ recent queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

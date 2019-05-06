@@ -1,0 +1,83 @@
+File name: 7461370
+
+Graph edges count: 24
+ averag - download: 1
+ blog - site: 1
+ connec - request: 1
+ dai - irlbot: 1
+ download - rate: 1
+ highlybranch - spam: 1
+ infinit - loop: 1
+ legitim - multimillionpag: 1
+ multimillionpag - blog: 1
+ perhost - ratelimit: 1
+ prior - experi: 1
+ ratelimit - current: 1
+ recent - experi: 1
+ relat - work: 1
+ serversid - script: 1
+ sheer - volum: 1
+ singleserv - implement: 1
+ singl - server: 1
+ spam - legitim: 1
+ uniqu - bf: 1
+ uniqu - node: 1
+ url - uniqu: 1
+ web - crawler: 1
+ web - graph: 1
+
+PageRank scores count: 38
+ averag: 0.015363911258490279
+ bf: 0.02744378648547826
+ blog: 0.05697908141546387
+ connec: 0.015363911258490279
+ crawler: 0.021893573543348643
+ current: 0.03952366171246624
+ dai: 0.015363911258490279
+ download: 0.028423235828207015
+ experi: 0.04148256039792375
+ graph: 0.021893573543348643
+ highlybranch: 0.015363911258490279
+ implement: 0.028423235828207015
+ infinit: 0.015363911258490279
+ irlbot: 0.028423235828207015
+ legitim: 0.03952366171246624
+ loop: 0.028423235828207015
+ multimillionpag: 0.04895902371408658
+ node: 0.02744378648547826
+ perhost: 0.015363911258490279
+ prior: 0.015363911258490279
+ rate: 0.03952366171246624
+ ratelimit: 0.028423235828207015
+ recent: 0.015363911258490279
+ relat: 0.015363911258490279
+ request: 0.028423235828207015
+ script: 0.028423235828207015
+ server: 0.028423235828207015
+ serversid: 0.015363911258490279
+ sheer: 0.015363911258490279
+ singl: 0.015363911258490279
+ singleserv: 0.015363911258490279
+ site: 0.06379613046163457
+ spam: 0.028423235828207015
+ uniqu: 0.028423235828207015
+ url: 0.015363911258490279
+ volum: 0.028423235828207015
+ web: 0.015363911258490279
+ work: 0.028423235828207015
+
+N-grams list: 10
+ multimillionpag blog site
+ highlybranch spam legitim
+ averag download rate
+ perhost ratelimit current
+ url uniqu bf
+ prior experi
+ recent experi
+ uniqu node
+ relat work
+ serversid script
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

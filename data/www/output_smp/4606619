@@ -1,0 +1,66 @@
+File name: 4606619
+
+Graph edges count: 20
+ access - date: 1
+ basic - rank: 2
+ coldstart - period: 1
+ content - access: 1
+ date - etc: 1
+ desktop - search: 2
+ file - content: 1
+ file - featur: 1
+ learningbas - rank: 1
+ method - isalso: 1
+ ona - singl: 1
+ queri - select: 1
+ rank - method: 1
+ rank - result: 1
+ rank - scheme: 1
+ rank - techniqu: 3
+ search - problem: 1
+ search - queri: 1
+ singl - file: 1
+ thefil - system: 1
+
+PageRank scores count: 25
+ access: 0.05841056317548425
+ basic: 0.021016167667349494
+ coldstart: 0.021016167667349494
+ content: 0.04399340648015853
+ date: 0.07066514636651111
+ desktop: 0.021016167667349494
+ etc: 0.08108154207888393
+ featur: 0.04399340648015853
+ file: 0.054064091324256575
+ isalso: 0.04912923245386706
+ learningbas: 0.021016167667349494
+ method: 0.03307419386649126
+ ona: 0.021016167667349494
+ period: 0.038879910184596564
+ problem: 0.03754012949580303
+ queri: 0.03754012949580303
+ rank: 0.05674365270184363
+ result: 0.03307419386649126
+ scheme: 0.03307419386649126
+ search: 0.038879910184596564
+ select: 0.05292527773878206
+ singl: 0.038879910184596564
+ system: 0.038879910184596564
+ techniqu: 0.03307419386649126
+ thefil: 0.021016167667349494
+
+N-grams list: 10
+ file content access
+ date etc
+ ona singl file
+ basic rank techniqu
+ learningbas rank scheme
+ basic rank method
+ desktop search problem
+ queri select
+ rank result
+ rank techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

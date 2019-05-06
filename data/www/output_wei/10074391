@@ -1,0 +1,57 @@
+File name: 10074391
+
+Graph edges count: 16
+ activ - learn: 2
+ advertis - keyword: 1
+ candid - term: 1
+ effici - relev: 1
+ feedback - inform: 1
+ inform - sampl: 1
+ interact - model: 1
+ keyword - gener: 2
+ learn - problem: 1
+ relev - feedback: 2
+ relev - term: 1
+ search - advertis: 1
+ supervis - learn: 1
+ user - effort: 1
+ user - label: 1
+ user - relev: 1
+
+PageRank scores count: 20
+ activ: 0.02621854893877874
+ advertis: 0.048504315536740665
+ candid: 0.02621854893877874
+ effici: 0.02621854893877874
+ effort: 0.03364713780476605
+ feedback: 0.05791386143365792
+ gener: 0.0835486835120358
+ inform: 0.07544533115738797
+ interact: 0.02621854893877874
+ keyword: 0.06744721714500831
+ label: 0.03364713780476605
+ learn: 0.0707900821347026
+ model: 0.048504315536740665
+ problem: 0.08639011875327596
+ relev: 0.05593290440272797
+ sampl: 0.09034708042255851
+ search: 0.02621854893877874
+ supervis: 0.02621854893877874
+ term: 0.06435197178418026
+ user: 0.02621854893877874
+
+N-grams list: 10
+ advertis keyword gener
+ supervis learn problem
+ inform sampl
+ keyword gener
+ user relev feedback
+ effici relev feedback
+ relev term
+ activ learn
+ candid term
+ inform
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

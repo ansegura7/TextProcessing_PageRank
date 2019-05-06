@@ -1,0 +1,65 @@
+File name: 464366
+
+Graph edges count: 18
+ access - latenc: 1
+ applic - data: 2
+ autonom - data: 1
+ autonom - replic: 1
+ comput - infrastructur: 1
+ dataintens - web: 1
+ data - replic: 1
+ edg - comput: 1
+ low - access: 1
+ major - distinc: 1
+ manual - administr: 1
+ nonrepl - system: 1
+ perform - evalu: 1
+ perform - gain: 1
+ signific - perform: 1
+ tpcw - benchmark: 1
+ web - applic: 3
+ widearea - network: 1
+
+PageRank scores count: 26
+ access: 0.0401767723691306
+ administr: 0.0401767723691306
+ applic: 0.05586743076734513
+ autonom: 0.02171717425358411
+ benchmark: 0.0401767723691306
+ comput: 0.0401767723691306
+ data: 0.07843428946360072
+ dataintens: 0.02171717425358411
+ distinc: 0.0401767723691306
+ edg: 0.02171717425358411
+ evalu: 0.038792302510464616
+ gain: 0.038792302510464616
+ infrastructur: 0.05586743076734513
+ latenc: 0.05586743076734513
+ low: 0.02171717425358411
+ major: 0.02171717425358411
+ manual: 0.02171717425358411
+ network: 0.0401767723691306
+ nonrepl: 0.02171717425358411
+ perform: 0.0401767723691306
+ replic: 0.09761611935541796
+ signific: 0.02171717425358411
+ system: 0.0401767723691306
+ tpcw: 0.02171717425358411
+ web: 0.0401767723691306
+ widearea: 0.02171717425358411
+
+N-grams list: 10
+ autonom data replic
+ applic data
+ autonom replic
+ dataintens web applic
+ edg comput infrastructur
+ low access latenc
+ signific perform gain
+ replic
+ web applic
+ perform evalu
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

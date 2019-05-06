@@ -1,0 +1,70 @@
+File name: 285729
+
+Graph edges count: 23
+ accur - rank: 1
+ accur - search: 1
+ gener - pagerank: 1
+ import - score: 1
+ keyword - search: 1
+ link - structur: 1
+ ordinari - keyword: 1
+ origin - pagerank: 1
+ pagerank - algorithm: 1
+ pagerank - score: 2
+ pagerank - vector: 4
+ page - independ: 1
+ queri - keyword: 1
+ queri - time: 1
+ queryspecif - import: 1
+ repres - topic: 1
+ searchqueri - result: 1
+ search - queri: 3
+ search - result: 1
+ singl - gener: 1
+ singl - pagerank: 1
+ topicsensit - pagerank: 3
+ web - page: 2
+
+PageRank scores count: 26
+ accur: 0.019707849180548742
+ algorithm: 0.043920994799809175
+ gener: 0.028083685082281956
+ import: 0.03645952098401517
+ independ: 0.05069844201696164
+ keyword: 0.05896021282528322
+ link: 0.019707849180548742
+ ordinari: 0.019707849180548742
+ origin: 0.019707849180548742
+ page: 0.03645952098401517
+ pagerank: 0.08545816100915447
+ queri: 0.052942791098796196
+ queryspecif: 0.019707849180548742
+ rank: 0.028083685082281956
+ repres: 0.019707849180548742
+ result: 0.06969446290226262
+ score: 0.07491158763622206
+ search: 0.0781998659837727
+ searchqueri: 0.019707849180548742
+ singl: 0.019707849180548742
+ structur: 0.03645952098401517
+ time: 0.042208541021816794
+ topic: 0.03645952098401517
+ topicsensit: 0.019707849180548742
+ vector: 0.043920994799809175
+ web: 0.019707849180548742
+
+N-grams list: 10
+ topicsensit pagerank score
+ accur search result
+ ordinari keyword search
+ singl pagerank vector
+ origin pagerank algorithm
+ singl gener pagerank
+ search queri
+ queryspecif import score
+ pagerank vector
+ queri keyword
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

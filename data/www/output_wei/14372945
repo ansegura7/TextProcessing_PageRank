@@ -1,0 +1,70 @@
+File name: 14372945
+
+Graph edges count: 22
+ advertis - todai: 1
+ bid - agent: 2
+ bid - strategi: 1
+ displai - advertis: 1
+ experiment - evalu: 1
+ forecast - error: 2
+ high - level: 1
+ incorrect - forecast: 1
+ learn - method: 1
+ machin - learn: 1
+ offlin - optim: 2
+ offlin - strategi: 1
+ onlin - advertis: 1
+ onlin - bid: 1
+ onlin - strategi: 1
+ optimum - strategi: 1
+ optim - cycl: 1
+ optim - phase: 1
+ price - distribu: 1
+ success - offlin: 1
+ tradition - machin: 1
+ valid - bid: 1
+
+PageRank scores count: 27
+ advertis: 0.04465667996772857
+ agent: 0.04623827071658562
+ bid: 0.04465667996772857
+ cycl: 0.03915570964436013
+ displai: 0.020932818734872766
+ distribu: 0.03872571465951462
+ error: 0.053849676195460196
+ evalu: 0.03872571465951462
+ experiment: 0.020932818734872766
+ forecast: 0.03872571465951462
+ high: 0.020932818734872766
+ incorrect: 0.020932818734872766
+ learn: 0.053849676195460196
+ level: 0.03872571465951462
+ machin: 0.03872571465951462
+ method: 0.06670504350101394
+ offlin: 0.03872571465951462
+ onlin: 0.020932818734872766
+ optim: 0.04287739037526438
+ optimum: 0.020932818734872766
+ phase: 0.03915570964436013
+ price: 0.020932818734872766
+ strategi: 0.0682816917787808
+ success: 0.020932818734872766
+ todai: 0.05889099670744206
+ tradition: 0.020932818734872766
+ valid: 0.020932818734872766
+
+N-grams list: 10
+ onlin bid strategi
+ onlin advertis todai
+ offlin optim phase
+ tradition machin learn
+ offlin strategi
+ success offlin optim
+ forecast error
+ bid agent
+ optimum strategi
+ onlin strategi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

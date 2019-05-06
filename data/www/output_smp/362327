@@ -1,0 +1,94 @@
+File name: 362327
+
+Graph edges count: 31
+ code - modul: 1
+ condition - constraint: 2
+ constraint - languag: 1
+ cooccurr - constraint: 1
+ direct - expres: 1
+ docum - type: 1
+ dsd - xlinkit: 1
+ dtd - xml: 1
+ humanread - text: 1
+ light - exten: 1
+ major - point: 1
+ minim - exten: 1
+ neg - constraint: 1
+ ng - schematron: 1
+ plain - humanread: 1
+ proofofconcept - implement: 1
+ real - express: 1
+ relax - ng: 1
+ relev - applic: 1
+ schematron - dsd: 1
+ schema - languag: 2
+ schema - relax: 1
+ simpl - type: 1
+ special - code: 1
+ type - assign: 1
+ type - xsd: 1
+ valid - languag: 1
+ web - interfac: 1
+ xml - docum: 3
+ xml - schema: 4
+ xpath - pattern: 1
+
+PageRank scores count: 42
+ applic: 0.02328252923853103
+ assign: 0.030601207460258826
+ code: 0.02328252923853103
+ condition: 0.012585150939746503
+ constraint: 0.044677285836100075
+ cooccurr: 0.012585150939746503
+ direct: 0.012585150939746503
+ docum: 0.02248022586612219
+ dsd: 0.04597156581513342
+ dtd: 0.012585150939746503
+ expres: 0.02328252923853103
+ express: 0.02328252923853103
+ exten: 0.03397990753731556
+ humanread: 0.02328252923853103
+ implement: 0.02328252923853103
+ interfac: 0.02328252923853103
+ languag: 0.07081231819231802
+ light: 0.012585150939746503
+ major: 0.012585150939746503
+ minim: 0.012585150939746503
+ modul: 0.032375300792497876
+ neg: 0.012585150939746503
+ ng: 0.031403510832667667
+ pattern: 0.02328252923853103
+ plain: 0.012585150939746503
+ point: 0.02328252923853103
+ proofofconcept: 0.012585150939746503
+ real: 0.012585150939746503
+ relax: 0.022139246932848432
+ relev: 0.012585150939746503
+ schema: 0.02248022586612219
+ schematron: 0.03927813514751402
+ simpl: 0.012585150939746503
+ special: 0.012585150939746503
+ text: 0.032375300792497876
+ type: 0.04239072122473489
+ valid: 0.012585150939746503
+ web: 0.012585150939746503
+ xlinkit: 0.05166098188260991
+ xml: 0.02328252923853103
+ xpath: 0.012585150939746503
+ xsd: 0.030601207460258826
+
+N-grams list: 10
+ constraint languag
+ dsd xlinkit
+ schema languag
+ relax ng schematron
+ xml docum type
+ simpl type xsd
+ valid languag
+ type assign
+ special code modul
+ plain humanread text
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

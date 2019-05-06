@@ -1,0 +1,60 @@
+File name: 829951
+
+Graph edges count: 17
+ common - percep: 1
+ core - technologi: 1
+ futur - evolu: 1
+ futur - research: 1
+ futur - web: 1
+ inform - share: 1
+ mashuplik - inform: 1
+ open - issu: 1
+ recent - progress: 1
+ research - direc: 1
+ semant - web: 4
+ semant - weblog: 1
+ unresolv - issu: 1
+ weblog - scenario: 1
+ web - applic: 1
+ web - infrastructur: 1
+ web - technologi: 1
+
+PageRank scores count: 22
+ applic: 0.04560298235332422
+ common: 0.02930259816370385
+ core: 0.02930259816370385
+ direc: 0.06126684899394413
+ evolu: 0.03760500097675327
+ futur: 0.02930259816370385
+ inform: 0.05420980660285212
+ infrastructur: 0.04560298235332422
+ issu: 0.0791170150420004
+ mashuplik: 0.02930259816370385
+ open: 0.02930259816370385
+ percep: 0.05420980660285212
+ progress: 0.05420980660285212
+ recent: 0.02930259816370385
+ research: 0.03760500097675327
+ scenario: 0.058444032037507324
+ semant: 0.02930259816370385
+ share: 0.07538093377612816
+ technologi: 0.07051019079247249
+ unresolv: 0.02930259816370385
+ web: 0.05753076772807189
+ weblog: 0.034284039851533506
+
+N-grams list: 10
+ mashuplik inform share
+ semant web technologi
+ semant web infrastructur
+ futur web applic
+ futur research direc
+ semant weblog scenario
+ open issu
+ unresolv issu
+ core technologi
+ semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

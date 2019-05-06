@@ -1,0 +1,87 @@
+File name: 4949647
+
+Graph edges count: 29
+ asynchron - messag: 1
+ central - notion: 1
+ composit - eservic: 2
+ context - free: 1
+ context - sensit: 1
+ convers - specif: 2
+ delai - effect: 1
+ eservic - composi: 3
+ finit - state: 1
+ framework - peer: 1
+ global - behavior: 2
+ global - perspect: 1
+ global - prepon: 1
+ hand - meali: 1
+ incom - messag: 1
+ individu - eservic: 2
+ individu - peer: 1
+ local - behavior: 1
+ local - prepon: 3
+ meali - eservic: 1
+ meali - implement: 1
+ meali - machin: 1
+ meali - peer: 4
+ projectionjoin - closur: 3
+ queue - delai: 2
+ regular - languag: 3
+ state - machin: 1
+ technic - result: 1
+ unexpect - behavior: 1
+
+PageRank scores count: 37
+ asynchron: 0.01711959022222756
+ behavior: 0.042584980677791054
+ central: 0.01711959022222756
+ closur: 0.03167124191112098
+ composi: 0.0555550064152607
+ composit: 0.01711959022222756
+ context: 0.01711959022222756
+ convers: 0.01711959022222756
+ delai: 0.03167124191112098
+ effect: 0.044040145846680395
+ eservic: 0.045218136697686054
+ finit: 0.01711959022222756
+ framework: 0.01711959022222756
+ free: 0.024395416066674273
+ global: 0.01711959022222756
+ hand: 0.01711959022222756
+ implement: 0.020965383882863682
+ incom: 0.01711959022222756
+ individu: 0.01711959022222756
+ languag: 0.03167124191112098
+ local: 0.01711959022222756
+ machin: 0.04788593950731651
+ meali: 0.03167124191112098
+ messag: 0.04622289360001441
+ notion: 0.03167124191112098
+ peer: 0.051904967116629945
+ perspect: 0.020757503144450913
+ prepon: 0.03167124191112098
+ projectionjoin: 0.01711959022222756
+ queue: 0.01711959022222756
+ regular: 0.01711959022222756
+ result: 0.03167124191112098
+ sensit: 0.024395416066674273
+ specif: 0.03167124191112098
+ state: 0.03167124191112098
+ technic: 0.01711959022222756
+ unexpect: 0.01711959022222756
+
+N-grams list: 10
+ eservic composi
+ finit state machin
+ queue delai effect
+ meali peer
+ meali machin
+ meali eservic
+ hand meali implement
+ framework peer
+ individu peer
+ asynchron messag
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

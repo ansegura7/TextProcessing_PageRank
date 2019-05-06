@@ -1,0 +1,75 @@
+File name: 9324907
+
+Graph edges count: 22
+ browser - toolbar: 1
+ chosen - quicklink: 1
+ clickthrough - rate: 1
+ combinatori - optimizaton: 1
+ empir - result: 1
+ import - problem: 1
+ natur - constraint: 1
+ navig - queri: 1
+ navig - shortcut: 1
+ optimizaton - problem: 1
+ optim - solution: 1
+ previou - algorithm: 1
+ probabilist - model: 1
+ queri - result: 1
+ quicklink - selec: 2
+ realworld - search: 1
+ result - quicklink: 1
+ search - engin: 2
+ selec - problem: 1
+ simpl - probabilist: 1
+ user - brows: 1
+ websit - homepag: 1
+
+PageRank scores count: 32
+ algorithm: 0.030689257101394952
+ brows: 0.030689257101394952
+ browser: 0.01658878762237565
+ chosen: 0.01658878762237565
+ clickthrough: 0.01658878762237565
+ combinatori: 0.01658878762237565
+ constraint: 0.030689257101394952
+ empir: 0.01658878762237565
+ engin: 0.04267465615856136
+ homepag: 0.030689257101394952
+ import: 0.01658878762237565
+ model: 0.04267465615856136
+ natur: 0.01658878762237565
+ navig: 0.01658878762237565
+ optim: 0.01658878762237565
+ optimizaton: 0.030689257101394952
+ previou: 0.01658878762237565
+ probabilist: 0.030689257101394952
+ problem: 0.12423534080654589
+ queri: 0.023639022361885302
+ quicklink: 0.07385431929404279
+ rate: 0.030689257101394952
+ realworld: 0.01658878762237565
+ result: 0.050782426108997455
+ search: 0.030689257101394952
+ selec: 0.07936495902231203
+ shortcut: 0.023639022361885302
+ simpl: 0.01658878762237565
+ solution: 0.030689257101394952
+ toolbar: 0.030689257101394952
+ user: 0.01658878762237565
+ websit: 0.01658878762237565
+
+N-grams list: 10
+ quicklink selec problem
+ combinatori optimizaton problem
+ quicklink selec
+ import problem
+ navig queri result
+ chosen quicklink
+ realworld search engin
+ simpl probabilist model
+ quicklink
+ search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

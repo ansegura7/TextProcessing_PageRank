@@ -1,0 +1,42 @@
+File name: 4628613
+
+Graph edges count: 8
+ function - compon: 1
+ index - framework: 2
+ index - structur: 1
+ internet - applic: 1
+ modular - storag: 1
+ p2p - infrastructur: 1
+ p2p - system: 2
+ storag - manag: 1
+
+PageRank scores count: 13
+ applic: 0.09828662504980738
+ compon: 0.09828662504980738
+ framework: 0.07570726524106786
+ function: 0.05312790543232832
+ index: 0.05312790543232832
+ infrastructur: 0.07570726524106786
+ internet: 0.05312790543232832
+ manag: 0.13667153672466462
+ modular: 0.05312790543232832
+ p2p: 0.05312790543232832
+ storag: 0.09828662504980738
+ structur: 0.07570726524106786
+ system: 0.07570726524106786
+
+N-grams list: 10
+ storag manag
+ internet applic
+ function compon
+ modular storag
+ index framework
+ p2p system
+ index structur
+ p2p infrastructur
+ applic
+ storag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

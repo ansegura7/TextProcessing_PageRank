@@ -1,0 +1,61 @@
+File name: 4284212
+
+Graph edges count: 17
+ accur - match: 1
+ dynam - servic: 1
+ flexibl - approach: 1
+ innov - tool: 1
+ kei - featur: 1
+ manual - match: 1
+ match - provid: 1
+ orient - environ: 1
+ partner - selec: 1
+ person - match: 1
+ semant - web: 1
+ semant - wsagreem: 1
+ servic - consum: 1
+ servic - orient: 1
+ user - person: 1
+ web - technologi: 1
+ wsagreem - partner: 1
+
+PageRank scores count: 23
+ accur: 0.023586574521782196
+ approach: 0.04363516286529707
+ consum: 0.042131518739533455
+ dynam: 0.023586574521782196
+ environ: 0.059398365450385626
+ featur: 0.04363516286529707
+ flexibl: 0.023586574521782196
+ innov: 0.023586574521782196
+ kei: 0.023586574521782196
+ manual: 0.023586574521782196
+ match: 0.10077363964431443
+ orient: 0.042131518739533455
+ partner: 0.052155812911290886
+ person: 0.04363516286529707
+ provid: 0.10924416821944946
+ selec: 0.06791901549637945
+ semant: 0.023586574521782196
+ servic: 0.04363516286529707
+ technologi: 0.052155812911290886
+ tool: 0.04363516286529707
+ user: 0.023586574521782196
+ web: 0.03361086869353963
+ wsagreem: 0.03361086869353963
+
+N-grams list: 10
+ match provid
+ user person match
+ accur match
+ manual match
+ semant web technologi
+ semant wsagreem partner
+ dynam servic orient
+ provid
+ servic consum
+ selec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

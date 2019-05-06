@@ -1,0 +1,71 @@
+File name: 3613976
+
+Graph edges count: 21
+ anchor - titl: 1
+ base - classif: 1
+ base - cluster: 1
+ content - bodi: 1
+ content - inform: 1
+ daili - practic: 1
+ experiment - result: 1
+ person - web: 3
+ phrase - base: 1
+ salienc - phrase: 1
+ statist - cluster: 1
+ support - vector: 1
+ topdown - statist: 1
+ topicori - interfac: 2
+ url - inform: 1
+ usabl - manner: 1
+ usabl - studi: 1
+ vector - machin: 1
+ web - activ: 1
+ web - inform: 4
+ web - page: 1
+
+PageRank scores count: 29
+ activ: 0.02695225917591399
+ anchor: 0.02135537207731713
+ base: 0.05493669466889831
+ bodi: 0.030431405210176905
+ classif: 0.0447034673115989
+ cluster: 0.0782847899031801
+ content: 0.02135537207731713
+ daili: 0.02135537207731713
+ experiment: 0.02135537207731713
+ inform: 0.07097101987028391
+ interfac: 0.03950743834303669
+ machin: 0.05493669466889831
+ manner: 0.030431405210176905
+ page: 0.02695225917591399
+ person: 0.02135537207731713
+ phrase: 0.03950743834303669
+ practic: 0.03950743834303669
+ result: 0.03950743834303669
+ salienc: 0.02135537207731713
+ statist: 0.03950743834303669
+ studi: 0.030431405210176905
+ support: 0.02135537207731713
+ titl: 0.03950743834303669
+ topdown: 0.02135537207731713
+ topicori: 0.02135537207731713
+ url: 0.02135537207731713
+ usabl: 0.02135537207731713
+ vector: 0.03950743834303669
+ web: 0.03950743834303669
+
+N-grams list: 10
+ topdown statist cluster
+ person web inform
+ support vector machin
+ salienc phrase base
+ web inform
+ base classif
+ content inform
+ url inform
+ cluster
+ web page
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,97 @@
+File name: 14389382
+
+Graph edges count: 34
+ computer - search: 1
+ computer - system: 1
+ crowdsearch - web: 1
+ expertloc - commun: 1
+ facebook - linkedin: 1
+ firstclass - sourc: 1
+ gener - search: 1
+ human - curios: 1
+ human - interac: 1
+ opinion - sugges: 1
+ person - interac: 1
+ previou - search: 1
+ real - peopl: 1
+ real - time: 1
+ real - user: 1
+ searchrel - task: 1
+ search - activ: 1
+ search - direc: 1
+ search - paradigm: 1
+ search - queri: 1
+ search - system: 6
+ social - interac: 2
+ social - network: 1
+ social - platform: 1
+ social - system: 2
+ sugges - emotion: 1
+ superior - machin: 1
+ system - capabl: 1
+ technic - contribu: 1
+ unexpect - search: 1
+ user - commun: 1
+ user - resort: 1
+ web - user: 1
+ worldwid - inform: 2
+
+PageRank scores count: 42
+ activ: 0.019509247251957056
+ capabl: 0.06088453951243836
+ commun: 0.04467610937160225
+ computer: 0.014582264600173452
+ contribu: 0.02697718951032089
+ crowdsearch: 0.014582264600173452
+ curios: 0.02077972705524717
+ direc: 0.019509247251957056
+ emotion: 0.037512875683946206
+ expertloc: 0.014582264600173452
+ facebook: 0.014582264600173452
+ firstclass: 0.014582264600173452
+ gener: 0.014582264600173452
+ human: 0.014582264600173452
+ inform: 0.02697718951032089
+ interac: 0.037306293602110414
+ linkedin: 0.02697718951032089
+ machin: 0.02697718951032089
+ network: 0.01664808541853136
+ opinion: 0.014582264600173452
+ paradigm: 0.019509247251957056
+ peopl: 0.01871390623688926
+ person: 0.014582264600173452
+ platform: 0.01664808541853136
+ previou: 0.014582264600173452
+ queri: 0.019509247251957056
+ real: 0.014582264600173452
+ resort: 0.03228118446145481
+ search: 0.057964501785689466
+ searchrel: 0.014582264600173452
+ social: 0.014582264600173452
+ sourc: 0.02697718951032089
+ sugges: 0.02697718951032089
+ superior: 0.014582264600173452
+ system: 0.0544732646026646
+ task: 0.02697718951032089
+ technic: 0.014582264600173452
+ time: 0.01871390623688926
+ unexpect: 0.014582264600173452
+ user: 0.04164451732066202
+ web: 0.02697718951032089
+ worldwid: 0.014582264600173452
+
+N-grams list: 10
+ social system capabl
+ gener search system
+ search system
+ real user commun
+ unexpect search direc
+ crowdsearch web user
+ opinion sugges emotion
+ search paradigm
+ search queri
+ search activ
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

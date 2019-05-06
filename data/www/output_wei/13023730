@@ -1,0 +1,59 @@
+File name: 13023730
+
+Graph edges count: 16
+ anonym - profil: 1
+ anonym - user: 3
+ bayesoptim - privaci: 1
+ cluster - user: 1
+ individu - term: 1
+ person - web: 2
+ posterior - probabl: 1
+ preliminari - experi: 1
+ privaci - constraint: 1
+ privaci - notion: 1
+ profil - set: 1
+ real - data: 1
+ semant - relationship: 1
+ user - privaci: 1
+ user - profil: 4
+ web - search: 2
+
+PageRank scores count: 22
+ anonym: 0.02649903816772401
+ bayesoptim: 0.02649903816772401
+ cluster: 0.02649903816772401
+ constraint: 0.05209636375229694
+ data: 0.049023220610289416
+ experi: 0.049023220610289416
+ individu: 0.02649903816772401
+ notion: 0.05209636375229694
+ person: 0.02649903816772401
+ posterior: 0.02649903816772401
+ preliminari: 0.02649903816772401
+ privaci: 0.06022900137546571
+ probabl: 0.049023220610289416
+ profil: 0.07695320683907053
+ real: 0.02649903816772401
+ relationship: 0.049023220610289416
+ search: 0.06816877568647002
+ semant: 0.02649903816772401
+ set: 0.09190926398093396
+ term: 0.049023220610289416
+ user: 0.06591635744221348
+ web: 0.049023220610289416
+
+N-grams list: 10
+ anonym user profil
+ cluster user profil
+ person web search
+ bayesoptim privaci notion
+ user privaci
+ privaci constraint
+ anonym profil
+ set
+ semant relationship
+ real data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

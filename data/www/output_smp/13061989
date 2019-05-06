@@ -1,0 +1,81 @@
+File name: 13061989
+
+Graph edges count: 25
+ commerci - new: 1
+ connec - clariti: 1
+ current - new: 1
+ editori - judgment: 1
+ experiment - result: 1
+ explos - growth: 1
+ fourmonth - commerci: 1
+ initi - click: 1
+ initi - visit: 1
+ interest - new: 1
+ larg - test: 1
+ model - related: 1
+ new - articl: 4
+ new - corpu: 1
+ new - readership: 1
+ new - recommend: 2
+ novelti - connec: 1
+ onlin - new: 1
+ postclick - new: 1
+ related - function: 2
+ relev - novelti: 1
+ test - collec: 1
+ transition - smooth: 1
+ unifi - related: 2
+ web - servic: 1
+
+PageRank scores count: 35
+ articl: 0.03658410015195303
+ clariti: 0.051375839872956006
+ click: 0.022974329210045837
+ collec: 0.04147471010024063
+ commerci: 0.029826322132340204
+ connec: 0.04147471010024063
+ corpu: 0.03658410015195303
+ current: 0.016122336287751463
+ editori: 0.016122336287751463
+ experiment: 0.016122336287751463
+ explos: 0.016122336287751463
+ fourmonth: 0.016122336287751463
+ function: 0.05312309806814107
+ growth: 0.029826322132340204
+ initi: 0.016122336287751463
+ interest: 0.016122336287751463
+ judgment: 0.029826322132340204
+ larg: 0.016122336287751463
+ model: 0.016122336287751463
+ new: 0.0962906534785956
+ novelti: 0.029826322132340204
+ onlin: 0.016122336287751463
+ postclick: 0.016122336287751463
+ readership: 0.03658410015195303
+ recommend: 0.03658410015195303
+ related: 0.04353030797692895
+ relev: 0.016122336287751463
+ result: 0.029826322132340204
+ servic: 0.029826322132340204
+ smooth: 0.029826322132340204
+ test: 0.029826322132340204
+ transition: 0.016122336287751463
+ unifi: 0.016122336287751463
+ visit: 0.022974329210045837
+ web: 0.016122336287751463
+
+N-grams list: 10
+ onlin new readership
+ current new articl
+ postclick new recommend
+ interest new articl
+ fourmonth commerci new
+ new articl
+ new recommend
+ unifi related function
+ larg test collec
+ relev novelti connec
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

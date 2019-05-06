@@ -1,0 +1,57 @@
+File name: 14382235
+
+Graph edges count: 15
+ current - state: 2
+ estim - test: 1
+ fact - markovian: 1
+ fundament - assump: 1
+ main - result: 1
+ markovian - assump: 1
+ markovian - behavior: 1
+ markov - chain: 1
+ order - estim: 1
+ pagerank - web: 1
+ statist - order: 1
+ user - model: 1
+ web - rank: 1
+ web - set: 1
+ web - user: 2
+
+PageRank scores count: 21
+ assump: 0.07452836689583521
+ behavior: 0.05049835765488313
+ chain: 0.05230060834795453
+ current: 0.02827059910700245
+ estim: 0.0727261162027638
+ fact: 0.02827059910700245
+ fundament: 0.02827059910700245
+ main: 0.02827059910700245
+ markov: 0.02827059910700245
+ markovian: 0.05230060834795453
+ model: 0.07119420311365311
+ order: 0.05230060834795453
+ pagerank: 0.02827059910700245
+ rank: 0.039384478380942785
+ result: 0.05230060834795453
+ set: 0.039384478380942785
+ state: 0.05230060834795453
+ statist: 0.02827059910700245
+ test: 0.09008779787935169
+ user: 0.05049835765488313
+ web: 0.05230060834795453
+
+N-grams list: 10
+ statist order estim
+ markovian assump
+ user model
+ pagerank web rank
+ web user
+ markovian behavior
+ fundament assump
+ web set
+ test
+ current state
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,73 @@
+File name: 408689
+
+Graph edges count: 22
+ adapt - privaci: 1
+ cluster - engin: 2
+ commod - search: 1
+ complementari - view: 1
+ current - search: 1
+ efficaci - perform: 1
+ engin - vivisimocom: 1
+ flatrank - list: 1
+ folder - label: 1
+ hierarch - cluster: 3
+ inform - polysem: 1
+ label - folder: 1
+ opensourc - system: 1
+ person - search: 2
+ poor - queri: 1
+ preserv - scalabl: 1
+ privaci - preserv: 1
+ search - engin: 6
+ search - result: 2
+ variablelength - sentenc: 1
+ websnippet - cluster: 1
+ websnippet - hierarch: 1
+
+PageRank scores count: 30
+ adapt: 0.015051090692181317
+ cluster: 0.03967843783726299
+ commod: 0.015051090692181317
+ complementari: 0.015051090692181317
+ current: 0.015051090692181317
+ efficaci: 0.015051090692181317
+ engin: 0.0828402624765977
+ flatrank: 0.015051090692181317
+ folder: 0.1003406046145421
+ hierarch: 0.021447804236358375
+ inform: 0.015051090692181317
+ label: 0.1003406046145421
+ list: 0.027844517780535434
+ opensourc: 0.015051090692181317
+ perform: 0.027844517780535434
+ person: 0.015051090692181317
+ polysem: 0.027844517780535434
+ poor: 0.015051090692181317
+ preserv: 0.03871893080563644
+ privaci: 0.027844517780535434
+ queri: 0.027844517780535434
+ result: 0.0264052572330956
+ scalabl: 0.047962181876972286
+ search: 0.05343137195724367
+ sentenc: 0.027844517780535434
+ system: 0.027844517780535434
+ variablelength: 0.015051090692181317
+ view: 0.027844517780535434
+ vivisimocom: 0.08546531379728936
+ websnippet: 0.015051090692181317
+
+N-grams list: 10
+ folder label
+ label folder
+ engin vivisimocom
+ current search engin
+ person search engin
+ commod search engin
+ hierarch cluster engin
+ websnippet cluster engin
+ search engin
+ adapt privaci preserv
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

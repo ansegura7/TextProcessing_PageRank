@@ -1,0 +1,71 @@
+File name: 13529859
+
+Graph edges count: 24
+ box - radio: 1
+ button - pulldown: 1
+ case - free: 1
+ check - box: 1
+ dataintens - applic: 1
+ data - input: 1
+ data - rich: 1
+ data - valu: 1
+ formbas - interfac: 3
+ formbas - web: 1
+ free - text: 4
+ input - extract: 1
+ input - field: 1
+ irbas - method: 1
+ list - check: 1
+ preval - solution: 1
+ previou - submis: 1
+ pulldown - list: 1
+ radio - button: 1
+ rich - free: 1
+ text - box: 1
+ text - input: 1
+ text - interfac: 1
+ web - interfac: 1
+
+PageRank scores count: 26
+ applic: 0.02276105089173743
+ box: 0.10160872840866414
+ button: 0.09617335846514047
+ case: 0.012303270752290502
+ check: 0.09071262915694887
+ data: 0.012303270752290502
+ dataintens: 0.012303270752290502
+ extract: 0.0241985635512459
+ field: 0.0241985635512459
+ formbas: 0.012303270752290502
+ free: 0.03618186873736099
+ input: 0.027988924232836224
+ interfac: 0.04463422428812258
+ irbas: 0.012303270752290502
+ list: 0.09224630400548044
+ method: 0.02276105089173743
+ preval: 0.012303270752290502
+ previou: 0.012303270752290502
+ pulldown: 0.09405063193837598
+ radio: 0.09867068989965501
+ rich: 0.015789197465439476
+ solution: 0.02276105089173743
+ submis: 0.02276105089173743
+ text: 0.043057859179047336
+ valu: 0.015789197465439476
+ web: 0.017532160822013965
+
+N-grams list: 10
+ button pulldown list
+ text box radio
+ check box
+ free text input
+ case free text
+ free text
+ formbas web interfac
+ data input field
+ data rich free
+ formbas interfac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

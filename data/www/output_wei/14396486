@@ -1,0 +1,79 @@
+File name: 14396486
+
+Graph edges count: 23
+ autom - fashion: 1
+ collect - contextawar: 1
+ collect - disambigu: 1
+ contextawar - topic: 1
+ cooccur - entiti: 1
+ crucial - step: 1
+ disambigu - accuraci: 1
+ disambigu - refer: 1
+ discrimin - featur: 1
+ draw - similar: 1
+ entiti - disambigu: 1
+ exact - number: 1
+ group - present: 1
+ highqual - catalog: 2
+ knowledg - base: 5
+ previou - research: 1
+ previou - topic: 1
+ svmbase - baselin: 1
+ text - present: 1
+ topic - model: 4
+ unseen - text: 1
+ unstructur - data: 1
+ wordent - proxim: 1
+
+PageRank scores count: 35
+ accuraci: 0.03996730816340208
+ autom: 0.017576256235451535
+ base: 0.03251607403558534
+ baselin: 0.03251607403558534
+ catalog: 0.03251607403558534
+ collect: 0.017576256235451535
+ contextawar: 0.02504616513551844
+ cooccur: 0.017576256235451535
+ crucial: 0.017576256235451535
+ data: 0.03251607403558534
+ disambigu: 0.05268482806576597
+ discrimin: 0.017576256235451535
+ draw: 0.017576256235451535
+ entiti: 0.03251607403558534
+ exact: 0.017576256235451535
+ fashion: 0.03251607403558534
+ featur: 0.03251607403558534
+ group: 0.017576256235451535
+ highqual: 0.017576256235451535
+ knowledg: 0.017576256235451535
+ model: 0.05696135091105427
+ number: 0.03251607403558534
+ present: 0.060154736965832886
+ previou: 0.017576256235451535
+ proxim: 0.03251607403558534
+ refer: 0.03996730816340208
+ research: 0.02504616513551844
+ similar: 0.03251607403558534
+ step: 0.03251607403558534
+ svmbase: 0.017576256235451535
+ text: 0.03251607403558534
+ topic: 0.04633540550070911
+ unseen: 0.017576256235451535
+ unstructur: 0.017576256235451535
+ wordent: 0.017576256235451535
+
+N-grams list: 10
+ previou topic model
+ topic model
+ text present
+ disambigu accuraci
+ disambigu refer
+ collect contextawar topic
+ entiti disambigu
+ group present
+ collect disambigu
+ model
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

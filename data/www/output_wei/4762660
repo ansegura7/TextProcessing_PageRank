@@ -1,0 +1,65 @@
+File name: 4762660
+
+Graph edges count: 18
+ andprop - penalti: 1
+ client - feedback: 1
+ costand - overhead1: 1
+ feedback - servicelevel: 1
+ monitor - mechan: 1
+ properpenalti - servic: 1
+ providersand - client: 1
+ qo - monitor: 3
+ qualiti - rate: 1
+ reliabl - qo: 2
+ reput - mechan: 1
+ servicelevel - agreem: 1
+ serviceori - environ: 1
+ servic - provid: 1
+ servic - providersand: 1
+ special - atten: 1
+ strong - incent: 1
+ theactual - qualiti: 1
+
+PageRank scores count: 26
+ agreem: 0.0823786317846145
+ andprop: 0.019999382990910603
+ atten: 0.03699885853318461
+ client: 0.05036469617829755
+ costand: 0.019999382990910603
+ environ: 0.03699885853318461
+ feedback: 0.06280937474246352
+ incent: 0.03699885853318461
+ mechan: 0.0807300093656845
+ monitor: 0.05144841274411752
+ overhead1: 0.03699885853318461
+ penalti: 0.03699885853318461
+ properpenalti: 0.019999382990910603
+ provid: 0.035723897867514065
+ providersand: 0.035723897867514065
+ qo: 0.03699885853318461
+ qualiti: 0.03699885853318461
+ rate: 0.05144841274411752
+ reliabl: 0.019999382990910603
+ reput: 0.019999382990910603
+ servic: 0.03699885853318461
+ servicelevel: 0.0733873515220046
+ serviceori: 0.019999382990910603
+ special: 0.019999382990910603
+ strong: 0.019999382990910603
+ theactual: 0.019999382990910603
+
+N-grams list: 10
+ client feedback servicelevel
+ qo monitor mechan
+ servic providersand client
+ reliabl qo monitor
+ reput mechan
+ properpenalti servic provid
+ qualiti rate
+ agreem
+ mechan
+ costand overhead1
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

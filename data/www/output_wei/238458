@@ -1,0 +1,87 @@
+File name: 238458
+
+Graph edges count: 29
+ account - email: 1
+ brute - forc: 1
+ comput - power: 1
+ comput - user: 1
+ conveni - method: 1
+ cryptograph - hash: 1
+ ecommerc - site: 1
+ email - server: 1
+ financi - servic: 1
+ firefox - web: 1
+ forc - attack: 1
+ hash - function: 1
+ host - account: 1
+ mozilla - firefox: 1
+ onlin - financi: 1
+ password - comput: 1
+ password - entropi: 1
+ password - multipli: 1
+ present - password: 1
+ previou - approach: 1
+ relat - approach: 1
+ secur - password: 2
+ server - ecommerc: 1
+ short - password: 1
+ short - secret: 1
+ singl - short: 1
+ strengthen - cryptograph: 1
+ uniqu - secur: 1
+ web - browser: 1
+
+PageRank scores count: 37
+ account: 0.024594722968703367
+ approach: 0.03589500108945897
+ attack: 0.03419995937134563
+ browser: 0.042364410313591554
+ brute: 0.013294444847947767
+ comput: 0.02914779336152448
+ conveni: 0.013294444847947767
+ cryptograph: 0.024594722968703367
+ ecommerc: 0.049304193614500585
+ email: 0.03419995937134563
+ entropi: 0.02914779336152448
+ financi: 0.024594722968703367
+ firefox: 0.024594722968703367
+ forc: 0.024594722968703367
+ function: 0.042364410313591554
+ hash: 0.03419995937134563
+ host: 0.013294444847947767
+ method: 0.024594722968703367
+ mozilla: 0.013294444847947767
+ multipli: 0.02914779336152448
+ onlin: 0.013294444847947767
+ password: 0.05595299475380016
+ power: 0.02568225702659567
+ present: 0.013294444847947767
+ previou: 0.013294444847947767
+ relat: 0.013294444847947767
+ secret: 0.023747202109646696
+ secur: 0.024594722968703367
+ server: 0.042364410313591554
+ servic: 0.03419995937134563
+ short: 0.024594722968703367
+ singl: 0.013294444847947767
+ site: 0.055203009420273265
+ strengthen: 0.013294444847947767
+ uniqu: 0.013294444847947767
+ user: 0.02568225702659567
+ web: 0.03419995937134563
+
+N-grams list: 10
+ server ecommerc site
+ password comput user
+ present password multipli
+ uniqu secur password
+ singl short password
+ password entropi
+ secur password
+ brute forc attack
+ mozilla firefox web
+ strengthen cryptograph hash
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

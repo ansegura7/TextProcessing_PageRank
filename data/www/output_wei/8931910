@@ -1,0 +1,89 @@
+File name: 8931910
+
+Graph edges count: 29
+ agent - system: 1
+ answer - set: 1
+ central - decision: 1
+ descrip - formal: 1
+ flexibl - reason: 1
+ gsa2 - system: 1
+ gsa - prototyp: 1
+ inform - retriev: 2
+ innov - aspect: 1
+ intern - architectur: 1
+ larg - varieti: 1
+ logic - languag: 1
+ messagepass - framework: 1
+ ongo - work: 1
+ ontologi - descrip: 1
+ ontologi - framework: 1
+ origin - system: 1
+ plan - behavior: 1
+ proactiv - decision: 1
+ real - implement: 1
+ reason - system: 1
+ retriev - agent: 1
+ retriev - strategi: 1
+ set - program: 1
+ system - architectur: 1
+ system - effect: 1
+ system - reason: 1
+ web - ontologi: 1
+ wolf - web: 1
+
+PageRank scores count: 39
+ agent: 0.024287860164424455
+ answer: 0.013597122555311102
+ architectur: 0.05454112543856132
+ aspect: 0.025154676727325537
+ behavior: 0.025154676727325537
+ central: 0.013597122555311102
+ decision: 0.036712230899339976
+ descrip: 0.02846302660906467
+ effect: 0.04298357126654689
+ flexibl: 0.013597122555311102
+ formal: 0.037790695173016066
+ framework: 0.04002058078107911
+ gsa: 0.013597122555311102
+ gsa2: 0.013597122555311102
+ implement: 0.025154676727325537
+ inform: 0.013597122555311102
+ innov: 0.013597122555311102
+ intern: 0.013597122555311102
+ languag: 0.025154676727325537
+ larg: 0.013597122555311102
+ logic: 0.013597122555311102
+ messagepass: 0.013597122555311102
+ ongo: 0.013597122555311102
+ ontologi: 0.03497859777353781
+ origin: 0.013597122555311102
+ plan: 0.013597122555311102
+ proactiv: 0.013597122555311102
+ program: 0.03497859777353781
+ prototyp: 0.025154676727325537
+ real: 0.013597122555311102
+ reason: 0.05454112543856132
+ retriev: 0.025154676727325537
+ set: 0.025154676727325537
+ strategi: 0.024287860164424455
+ system: 0.1037168778043616
+ varieti: 0.025154676727325537
+ web: 0.025154676727325537
+ wolf: 0.013597122555311102
+ work: 0.025154676727325537
+
+N-grams list: 10
+ agent system reason
+ flexibl reason system
+ origin system effect
+ system architectur
+ gsa2 system
+ ontologi descrip formal
+ wolf web ontologi
+ answer set program
+ intern architectur
+ inform retriev strategi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,78 @@
+File name: 4609825
+
+Graph edges count: 26
+ administr - servic: 1
+ complex - dialogu: 1
+ compon - deal: 1
+ compon - technologi: 1
+ dialogu - manag: 3
+ dialogu - phenomena: 1
+ dialogu - system: 2
+ discours - manag: 1
+ english - spanish: 1
+ friendli - commun: 1
+ inform - statebas: 2
+ intellig - compon: 1
+ languag - process: 1
+ manag - compon: 1
+ multilingu - voic: 1
+ natur - languag: 1
+ onlin - public: 1
+ public - administr: 1
+ reusabl - compon: 1
+ spanish - catalan: 1
+ statebas - dialogu: 1
+ statebas - theori: 1
+ userin - dialogu: 1
+ voic - system: 1
+ voic - web: 2
+ web - interfac: 1
+
+PageRank scores count: 31
+ administr: 0.04173551970482037
+ catalan: 0.04173551970482037
+ commun: 0.03001388200346654
+ complex: 0.016223720001873804
+ compon: 0.08293736352012075
+ deal: 0.051472099497925125
+ dialogu: 0.056559943856532555
+ discours: 0.016223720001873804
+ english: 0.016223720001873804
+ friendli: 0.016223720001873804
+ inform: 0.016223720001873804
+ intellig: 0.016223720001873804
+ interfac: 0.04085639687721882
+ languag: 0.03001388200346654
+ manag: 0.04603919942948409
+ multilingu: 0.016223720001873804
+ natur: 0.016223720001873804
+ onlin: 0.016223720001873804
+ phenomena: 0.03224903742789136
+ process: 0.04173551970482037
+ public: 0.03001388200346654
+ reusabl: 0.016223720001873804
+ servic: 0.05169891175097111
+ spanish: 0.03001388200346654
+ statebas: 0.03001388200346654
+ system: 0.04500493727936464
+ technologi: 0.051472099497925125
+ theori: 0.028979619853347082
+ userin: 0.016223720001873804
+ voic: 0.03001388200346654
+ web: 0.028979619853347082
+
+N-grams list: 10
+ dialogu manag compon
+ intellig compon technologi
+ complex dialogu phenomena
+ inform statebas dialogu
+ dialogu manag
+ dialogu system
+ voic web interfac
+ reusabl compon
+ multilingu voic system
+ onlin public administr
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

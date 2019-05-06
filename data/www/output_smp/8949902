@@ -1,0 +1,57 @@
+File name: 8949902
+
+Graph edges count: 16
+ assess - method: 1
+ assur - framework: 1
+ assur - web: 1
+ develop - perspect: 1
+ end - user: 1
+ function - access: 1
+ qa - focu: 1
+ qualiti - assess: 1
+ qualiti - assur: 2
+ qualiti - framework: 1
+ round - view: 1
+ short - paper: 1
+ site - develop: 1
+ site - qualiti: 3
+ user - satisfac: 1
+ web - site: 6
+
+PageRank scores count: 20
+ access: 0.05222780297548502
+ assess: 0.044452922953757974
+ assur: 0.044452922953757974
+ develop: 0.057252977035992546
+ end: 0.02823124485161353
+ focu: 0.05222780297548502
+ framework: 0.06334541520910511
+ function: 0.02823124485161353
+ method: 0.0660162293623078
+ paper: 0.05222780297548502
+ perspect: 0.07689627915804687
+ qa: 0.02823124485161353
+ qualiti: 0.057252977035992546
+ round: 0.02823124485161353
+ satisfac: 0.0726248773807758
+ short: 0.02823124485161353
+ site: 0.06828642266780997
+ user: 0.05222780297548502
+ view: 0.05222780297548502
+ web: 0.04712373710696067
+
+N-grams list: 10
+ web site qualiti
+ qualiti assur framework
+ qualiti assur web
+ develop perspect
+ site develop
+ user satisfac
+ qualiti framework
+ web site
+ assess method
+ round view
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

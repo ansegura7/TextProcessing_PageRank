@@ -1,0 +1,70 @@
+File name: 14394643
+
+Graph edges count: 20
+ approxim - algorithm: 2
+ boost - content: 1
+ common - neighbor: 1
+ connect - relationship: 1
+ content - propag: 1
+ content - share: 1
+ content - spread: 2
+ incid - edg: 1
+ influenc - propag: 1
+ nearoptim - set: 1
+ neighbor - similar: 1
+ network - content: 1
+ network - node: 1
+ power - mechan: 1
+ realworld - social: 1
+ similaritybas - connec: 1
+ social - graph: 1
+ social - network: 4
+ spread - function: 1
+ user - profil: 1
+
+PageRank scores count: 29
+ algorithm: 0.038810519618090275
+ approxim: 0.02097865925302177
+ boost: 0.02097865925302177
+ common: 0.02097865925302177
+ connec: 0.038810519618090275
+ connect: 0.02097865925302177
+ content: 0.058942689970252614
+ edg: 0.038810519618090275
+ function: 0.06010356636984403
+ graph: 0.02757644758809712
+ incid: 0.02097865925302177
+ influenc: 0.02097865925302177
+ mechan: 0.038810519618090275
+ nearoptim: 0.02097865925302177
+ neighbor: 0.038810519618090275
+ network: 0.04736981259332316
+ node: 0.04111082960518412
+ power: 0.02097865925302177
+ profil: 0.038810519618090275
+ propag: 0.05133584123676895
+ realworld: 0.02097865925302177
+ relationship: 0.038810519618090275
+ set: 0.038810519618090275
+ share: 0.03350398087170045
+ similar: 0.0539676009283985
+ similaritybas: 0.02097865925302177
+ social: 0.038810519618090275
+ spread: 0.046029302490379134
+ user: 0.02097865925302177
+
+N-grams list: 10
+ content spread function
+ social network content
+ boost content propag
+ common neighbor similar
+ content spread
+ network node
+ realworld social graph
+ social network
+ influenc propag
+ user profil
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

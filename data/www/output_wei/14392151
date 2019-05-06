@@ -1,0 +1,65 @@
+File name: 14392151
+
+Graph edges count: 19
+ actual - latenc: 1
+ arbitrari - servic: 1
+ cloud - comput: 1
+ cloud - serviceori: 1
+ comput - latenc: 1
+ current - approach: 2
+ equival - servic: 1
+ execu - polici: 1
+ low - latenc: 1
+ networkawar - approach: 1
+ networkawar - servic: 1
+ network - latenc: 1
+ network - model: 1
+ optim - set: 1
+ potenti - user: 1
+ selec - algorithm: 1
+ serviceori - comput: 1
+ servic - composi: 2
+ suboptim - qo: 1
+
+PageRank scores count: 25
+ actual: 0.02372011450885279
+ algorithm: 0.043882211841377666
+ approach: 0.0539632605076401
+ arbitrari: 0.02372011450885279
+ cloud: 0.02372011450885279
+ composi: 0.08672666867299302
+ comput: 0.06253215187396317
+ current: 0.02372011450885279
+ equival: 0.02372011450885279
+ execu: 0.02372011450885279
+ latenc: 0.12727768693303365
+ low: 0.02372011450885279
+ model: 0.03380116317511523
+ network: 0.02372011450885279
+ networkawar: 0.02372011450885279
+ optim: 0.02372011450885279
+ polici: 0.043882211841377666
+ potenti: 0.02372011450885279
+ qo: 0.043882211841377666
+ selec: 0.02372011450885279
+ servic: 0.07412535784016497
+ serviceori: 0.03380116317511523
+ set: 0.043882211841377666
+ suboptim: 0.02372011450885279
+ user: 0.043882211841377666
+
+N-grams list: 10
+ comput latenc
+ networkawar servic composi
+ servic composi
+ network latenc
+ actual latenc
+ low latenc
+ latenc
+ cloud serviceori comput
+ arbitrari servic
+ equival servic
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

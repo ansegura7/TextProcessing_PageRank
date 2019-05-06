@@ -1,0 +1,77 @@
+File name: 555734
+
+Graph edges count: 23
+ annotea - base: 1
+ base - collabor: 1
+ collabor - support: 1
+ debug - cue: 1
+ debug - experi: 1
+ descrip - logic: 1
+ develop - environ: 2
+ environ - swoop: 1
+ extens - undoredo: 1
+ gener - improv: 1
+ hard - task: 1
+ hypertextu - ontologi: 1
+ larg - number: 1
+ limit - support: 1
+ logic - reason: 1
+ mere - detec: 1
+ ontologi - develop: 2
+ owl - debug: 1
+ owl - ontologi: 3
+ reason - pellet: 1
+ semant - web: 1
+ simpl - debug: 1
+ unsatisfi - concept: 1
+
+PageRank scores count: 33
+ annotea: 0.016420611500493412
+ base: 0.030378131275912813
+ collabor: 0.04224202308501931
+ concept: 0.030378131275912813
+ cue: 0.03229729024503298
+ debug: 0.03735689116362251
+ descrip: 0.016420611500493412
+ detec: 0.030378131275912813
+ develop: 0.04817396898957254
+ environ: 0.05736848514163007
+ experi: 0.03229729024503298
+ extens: 0.016420611500493412
+ gener: 0.016420611500493412
+ hard: 0.016420611500493412
+ hypertextu: 0.016420611500493412
+ improv: 0.030378131275912813
+ larg: 0.016420611500493412
+ limit: 0.016420611500493412
+ logic: 0.030378131275912813
+ mere: 0.016420611500493412
+ number: 0.030378131275912813
+ ontologi: 0.03735689116362251
+ owl: 0.016420611500493412
+ pellet: 0.05232633112275982
+ reason: 0.04224202308501931
+ semant: 0.016420611500493412
+ simpl: 0.016420611500493412
+ support: 0.06628385089817922
+ swoop: 0.06518382387087898
+ task: 0.030378131275912813
+ undoredo: 0.030378131275912813
+ unsatisfi: 0.016420611500493412
+ web: 0.030378131275912813
+
+N-grams list: 10
+ ontologi develop environ
+ environ swoop
+ hypertextu ontologi develop
+ annotea base collabor
+ descrip logic reason
+ simpl debug cue
+ owl debug experi
+ limit support
+ support
+ swoop
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

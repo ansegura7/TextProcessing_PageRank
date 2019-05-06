@@ -1,0 +1,62 @@
+File name: 11785
+
+Graph edges count: 19
+ applicationspecif - data: 1
+ contentbas - trust: 3
+ current - discus: 1
+ explicit - trust: 1
+ finegrain - trust: 1
+ flexibl - finegrain: 1
+ futur - semant: 1
+ huge - part: 1
+ rate - huge: 1
+ reput - trust: 1
+ semant - web: 3
+ taskspecif - trust: 1
+ trust - architectur: 2
+ trust - evalu: 1
+ trust - mechan: 3
+ trust - polici: 2
+ trust - rate: 1
+ trust - relev: 1
+ web - trust: 1
+
+PageRank scores count: 22
+ applicationspecif: 0.022431608680038122
+ architectur: 0.053545399539195855
+ contentbas: 0.022431608680038122
+ current: 0.022431608680038122
+ data: 0.04149847605807052
+ discus: 0.04149847605807052
+ evalu: 0.03798850410961699
+ explicit: 0.022431608680038122
+ finegrain: 0.04149847605807052
+ flexibl: 0.022431608680038122
+ futur: 0.022431608680038122
+ huge: 0.054721837173212565
+ mechan: 0.06910229496877472
+ part: 0.0689451702772688
+ polici: 0.053545399539195855
+ rate: 0.03798850410961699
+ relev: 0.03798850410961699
+ reput: 0.022431608680038122
+ semant: 0.04149847605807052
+ taskspecif: 0.022431608680038122
+ trust: 0.18302229917151605
+ web: 0.05770531332939806
+
+N-grams list: 10
+ contentbas trust mechan
+ reput trust mechan
+ contentbas trust polici
+ taskspecif trust polici
+ flexibl finegrain trust
+ explicit trust rate
+ trust architectur
+ trust relev
+ rate huge part
+ futur semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

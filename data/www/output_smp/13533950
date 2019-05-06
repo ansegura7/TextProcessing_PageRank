@@ -1,0 +1,87 @@
+File name: 13533950
+
+Graph edges count: 28
+ abstrac - encapsul: 1
+ applic - area: 1
+ code - reusabl: 1
+ componentorient - code: 1
+ consolid - ontologi: 1
+ data - mashup: 1
+ desir - properti: 1
+ dierent - sourc: 1
+ encapsul - componentorient: 1
+ everydai - problem: 1
+ fast - implement: 1
+ framework - semant: 1
+ identifi - consolid: 1
+ limit - softwar: 1
+ object - identifi: 1
+ ontologi - align: 1
+ program - paradigm: 1
+ rapid - prototyp: 1
+ rdf - data: 2
+ resourceintens - task: 1
+ semant - data: 1
+ semant - mashup: 1
+ semant - web: 2
+ softwar - support: 1
+ sourc - object: 1
+ standard - program: 1
+ task - due: 1
+ web - pipe: 2
+
+PageRank scores count: 38
+ abstrac: 0.012916405794596254
+ align: 0.0585046802260368
+ applic: 0.012916405794596254
+ area: 0.02389535072000307
+ code: 0.04115974161520528
+ componentorient: 0.03322745390659886
+ consolid: 0.04790218616752075
+ data: 0.030665700090670604
+ desir: 0.012916405794596254
+ dierent: 0.012916405794596254
+ due: 0.03322745390659886
+ encapsul: 0.02389535072000307
+ everydai: 0.012916405794596254
+ fast: 0.012916405794596254
+ framework: 0.012916405794596254
+ identifi: 0.04115974161520528
+ implement: 0.02389535072000307
+ limit: 0.012916405794596254
+ mashup: 0.0457526002423338
+ object: 0.03322745390659886
+ ontologi: 0.053633264036988884
+ paradigm: 0.03322745390659886
+ pipe: 0.02965014768507047
+ problem: 0.02389535072000307
+ program: 0.02389535072000307
+ properti: 0.02389535072000307
+ prototyp: 0.02389535072000307
+ rapid: 0.012916405794596254
+ rdf: 0.012916405794596254
+ resourceintens: 0.012916405794596254
+ reusabl: 0.04790218616752075
+ semant: 0.02389535072000307
+ softwar: 0.02389535072000307
+ sourc: 0.02389535072000307
+ standard: 0.012916405794596254
+ support: 0.03322745390659886
+ task: 0.02389535072000307
+ web: 0.01968675516526379
+
+N-grams list: 10
+ identifi consolid ontologi
+ semant data mashup
+ code reusabl
+ semant web pipe
+ standard program paradigm
+ abstrac encapsul componentorient
+ limit softwar support
+ dierent sourc object
+ resourceintens task due
+ semant mashup
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,60 @@
+File name: 457282
+
+Graph edges count: 17
+ activ - behavior: 2
+ composit - event: 4
+ docum - object: 1
+ event - modul: 1
+ hierarch - order: 1
+ multipl - constraint: 1
+ multipl - event: 1
+ object - model: 1
+ proprietari - approach: 1
+ satisfi - multipl: 1
+ singl - event: 1
+ tempor - order: 1
+ w3c - standard: 1
+ xml - docum: 3
+ xml - event: 1
+ xml - field: 1
+ xml - schema: 1
+
+PageRank scores count: 22
+ activ: 0.02693741008587142
+ approach: 0.04983420865886212
+ behavior: 0.04983420865886212
+ composit: 0.02693741008587142
+ constraint: 0.048116948765887825
+ docum: 0.03266160972911909
+ event: 0.09963474555511692
+ field: 0.03266160972911909
+ hierarch: 0.02693741008587142
+ model: 0.07343222168815067
+ modul: 0.11162694380772081
+ multipl: 0.04983420865886212
+ object: 0.054699778355622654
+ order: 0.07273100723185284
+ proprietari: 0.02693741008587142
+ satisfi: 0.02693741008587142
+ schema: 0.03266160972911909
+ singl: 0.02693741008587142
+ standard: 0.04983420865886212
+ tempor: 0.02693741008587142
+ w3c: 0.02693741008587142
+ xml: 0.02693741008587142
+
+N-grams list: 10
+ event modul
+ docum object model
+ multipl event
+ composit event
+ singl event
+ xml event
+ satisfi multipl constraint
+ hierarch order
+ tempor order
+ event
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

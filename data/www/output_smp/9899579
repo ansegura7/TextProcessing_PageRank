@@ -1,0 +1,106 @@
+File name: 9899579
+
+Graph edges count: 37
+ attack - vector: 1
+ browserbas - attack: 1
+ browserbas - secur: 1
+ browser - window: 1
+ common - case: 1
+ danger - eval: 1
+ dom - method: 1
+ dynam - gener: 2
+ engin - practic: 1
+ extern - domain: 1
+ innerhtml - properti: 1
+ insecur - engin: 1
+ insecur - javascript: 2
+ insecur - practic: 4
+ javascript - code: 1
+ javascript - dynam: 1
+ javascript - file: 1
+ javascript - inclusion: 1
+ javascript - practic: 2
+ measur - result: 1
+ measur - studi: 1
+ measur - websit: 2
+ potenti - secur: 1
+ power - capabl: 1
+ program - languag: 1
+ safe - altern: 1
+ script - elem: 1
+ secur - attack: 1
+ secur - breach: 1
+ secur - risk: 1
+ secur - techniqu: 1
+ toplevel - docum: 1
+ uniqu - websit: 1
+ webpag - docum: 1
+ webpag - interact: 1
+ websit - develop: 1
+ web - javascript: 1
+
+PageRank scores count: 48
+ altern: 0.025435955593691044
+ attack: 0.026239422434235
+ breach: 0.02039602723027895
+ browser: 0.013749165185778943
+ browserbas: 0.013749165185778943
+ capabl: 0.025435955593691044
+ case: 0.025435955593691044
+ code: 0.018735529093154773
+ common: 0.013749165185778943
+ danger: 0.013749165185778943
+ develop: 0.03868098472265809
+ docum: 0.03127935079764709
+ dom: 0.013749165185778943
+ domain: 0.025435955593691044
+ dynam: 0.018735529093154773
+ elem: 0.025435955593691044
+ engin: 0.01764476198841631
+ eval: 0.025435955593691044
+ extern: 0.013749165185778943
+ file: 0.018735529093154773
+ gener: 0.029674364914960498
+ inclusion: 0.018735529093154773
+ innerhtml: 0.013749165185778943
+ insecur: 0.013749165185778943
+ interact: 0.019592560389734996
+ javascript: 0.029331552396328408
+ languag: 0.025435955593691044
+ measur: 0.013749165185778943
+ method: 0.025435955593691044
+ potenti: 0.013749165185778943
+ power: 0.013749165185778943
+ practic: 0.037629173585945995
+ program: 0.013749165185778943
+ properti: 0.025435955593691044
+ result: 0.01764476198841631
+ risk: 0.02039602723027895
+ safe: 0.013749165185778943
+ script: 0.013749165185778943
+ secur: 0.03127935079764709
+ studi: 0.01764476198841631
+ techniqu: 0.02039602723027895
+ toplevel: 0.013749165185778943
+ uniqu: 0.013749165185778943
+ vector: 0.036052674254878694
+ web: 0.013749165185778943
+ webpag: 0.013749165185778943
+ websit: 0.029331552396328408
+ window: 0.025435955593691044
+
+N-grams list: 10
+ insecur javascript practic
+ javascript dynam gener
+ browserbas secur attack
+ insecur engin practic
+ websit develop
+ potenti secur risk
+ attack vector
+ secur techniqu
+ secur breach
+ insecur practic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

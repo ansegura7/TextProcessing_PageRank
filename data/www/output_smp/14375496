@@ -1,0 +1,87 @@
+File name: 14375496
+
+Graph edges count: 29
+ approxim - distanc: 1
+ approxim - ratio: 2
+ approxim - solution: 1
+ common - case: 1
+ distanc - oracl: 1
+ index - oper: 2
+ larg - scale: 1
+ network - distanc: 1
+ network - docum: 1
+ network - queri: 2
+ network - rich: 1
+ network - twitter: 1
+ open - sourc: 1
+ partition - multiindex: 1
+ preprocess - time: 1
+ process - time: 1
+ queri - keyword: 1
+ realtim - text: 1
+ revers - index: 1
+ search - queri: 2
+ social - index: 2
+ social - network: 2
+ social - search: 3
+ stream - system: 1
+ synthet - network: 1
+ text - updat: 1
+ undirect - network: 2
+ usergener - content: 1
+ worstcas - approxim: 1
+
+PageRank scores count: 37
+ approxim: 0.0301205146212033
+ case: 0.0301205146212033
+ common: 0.01628135925470449
+ content: 0.0301205146212033
+ distanc: 0.033072867766056384
+ docum: 0.02453872195671545
+ index: 0.03473356641003624
+ keyword: 0.05223548489686841
+ larg: 0.01628135925470449
+ multiindex: 0.0301205146212033
+ network: 0.04857272177653505
+ open: 0.01628135925470449
+ oper: 0.04580489070323529
+ oracl: 0.044393296855852415
+ partition: 0.01628135925470449
+ preprocess: 0.01628135925470449
+ process: 0.01628135925470449
+ queri: 0.042298971343722264
+ ratio: 0.024815505064045423
+ realtim: 0.01628135925470449
+ revers: 0.01628135925470449
+ rich: 0.02453872195671545
+ scale: 0.0301205146212033
+ search: 0.02089441104353743
+ social: 0.01628135925470449
+ solution: 0.024815505064045423
+ sourc: 0.0301205146212033
+ stream: 0.01628135925470449
+ synthet: 0.01628135925470449
+ system: 0.0301205146212033
+ text: 0.0301205146212033
+ time: 0.04395966998770212
+ twitter: 0.02453872195671545
+ undirect: 0.01628135925470449
+ updat: 0.0418837966827273
+ usergener: 0.01628135925470449
+ worstcas: 0.01628135925470449
+
+N-grams list: 10
+ approxim distanc oracl
+ social index oper
+ queri keyword
+ network queri
+ social network rich
+ social network twitter
+ realtim text updat
+ network distanc
+ social search queri
+ network docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

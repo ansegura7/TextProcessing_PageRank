@@ -1,0 +1,40 @@
+File name: 4473853
+
+Graph edges count: 8
+ experiment - result: 1
+ hidden - posit: 1
+ page - classif: 1
+ posit - exampl: 2
+ product - page: 1
+ techniqu - aem: 1
+ unlabel - exampl: 1
+ unlabel - set: 1
+
+PageRank scores count: 12
+ aem: 0.0953854086104666
+ classif: 0.13263727764887853
+ exampl: 0.15455014178912085
+ experiment: 0.05155968032998195
+ hidden: 0.05155968032998195
+ page: 0.0953854086104666
+ posit: 0.0953854086104666
+ product: 0.05155968032998195
+ result: 0.0953854086104666
+ set: 0.07347254447022428
+ techniqu: 0.05155968032998195
+ unlabel: 0.05155968032998195
+
+N-grams list: 9
+ hidden posit exampl
+ product page classif
+ posit exampl
+ unlabel exampl
+ techniqu aem
+ experiment result
+ unlabel set
+ posit
+ techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

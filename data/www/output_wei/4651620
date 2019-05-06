@@ -1,0 +1,68 @@
+File name: 4651620
+
+Graph edges count: 20
+ build - ontologi: 1
+ context - ontologi: 1
+ data - model: 1
+ dispar - endus: 1
+ lightweight - ontologi: 1
+ local - semant: 1
+ map - relat: 2
+ mashup - script: 2
+ middl - ontologi: 1
+ opensourc - model: 1
+ program - complex: 1
+ program - paradigm: 1
+ script - languag: 2
+ script - writer: 1
+ small - piec: 1
+ web - mashup: 2
+ web - page: 3
+ web - servic: 2
+ wmsl - page: 1
+ wmsl - web: 2
+
+PageRank scores count: 27
+ build: 0.024065960672610368
+ complex: 0.03429399395846978
+ context: 0.024065960672610368
+ data: 0.024065960672610368
+ dispar: 0.024065960672610368
+ endus: 0.04452202724432918
+ languag: 0.05370550233715337
+ lightweight: 0.024065960672610368
+ local: 0.024065960672610368
+ map: 0.024065960672610368
+ mashup: 0.03322248570947498
+ middl: 0.024065960672610368
+ model: 0.064978093816048
+ ontologi: 0.10589022695948562
+ opensourc: 0.024065960672610368
+ page: 0.04461943708514689
+ paradigm: 0.03429399395846978
+ piec: 0.04452202724432918
+ program: 0.024065960672610368
+ relat: 0.04452202724432918
+ script: 0.0523050735256641
+ semant: 0.04452202724432918
+ servic: 0.03322248570947498
+ small: 0.024065960672610368
+ web: 0.03770333838708957
+ wmsl: 0.024065960672610368
+ writer: 0.03888573150488187
+
+N-grams list: 10
+ context ontologi
+ lightweight ontologi
+ middl ontologi
+ build ontologi
+ web mashup script
+ wmsl web page
+ ontologi
+ script writer
+ opensourc model
+ data model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,70 @@
+File name: 3612541
+
+Graph edges count: 20
+ content - locat: 1
+ daili - live: 1
+ detec - rapid: 1
+ geograph - locat: 1
+ geograph - sourc: 1
+ human - activ: 1
+ kei - challeng: 1
+ local - search: 1
+ locationbas - web: 1
+ locationspecif - inform: 1
+ locat - classif: 1
+ popular - mobil: 1
+ provid - locat: 1
+ rapid - pervasion: 1
+ resourc - geograph: 1
+ search - environ: 1
+ unifi - system: 1
+ web - applic: 1
+ web - due: 1
+ web - resourc: 3
+
+PageRank scores count: 29
+ activ: 0.03742021667681322
+ applic: 0.030829538874725854
+ challeng: 0.03742021667681322
+ classif: 0.08342209107780069
+ content: 0.02022714414962877
+ daili: 0.02022714414962877
+ detec: 0.02022714414962877
+ due: 0.030829538874725854
+ environ: 0.05203432832492001
+ geograph: 0.04643225219314574
+ human: 0.02022714414962877
+ inform: 0.03742021667681322
+ kei: 0.02022714414962877
+ live: 0.03742021667681322
+ local: 0.02022714414962877
+ locat: 0.07434699638608462
+ locationbas: 0.02022714414962877
+ locationspecif: 0.02022714414962877
+ mobil: 0.03742021667681322
+ pervasion: 0.05203432832492001
+ popular: 0.02022714414962877
+ provid: 0.02022714414962877
+ rapid: 0.03742021667681322
+ resourc: 0.030829538874725854
+ search: 0.03742021667681322
+ sourc: 0.03996085133171571
+ system: 0.03742021667681322
+ unifi: 0.02022714414962877
+ web: 0.03742021667681322
+
+N-grams list: 10
+ locat classif
+ web resourc geograph
+ local search environ
+ detec rapid pervasion
+ content locat
+ provid locat
+ locationbas web applic
+ geograph sourc
+ locat
+ web due
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,32 @@
+File name: 247234
+
+Graph edges count: 6
+ googl - msn: 1
+ index - size: 1
+ index - web: 2
+ msn - askteoma: 1
+ public - index: 1
+ short - paper: 1
+
+PageRank scores count: 9
+ askteoma: 0.17505954406260638
+ googl: 0.06805035726437565
+ index: 0.12589316093909494
+ msn: 0.12589316093909494
+ paper: 0.12589316093909494
+ public: 0.06805035726437565
+ short: 0.06805035726437565
+ size: 0.10372008619711921
+ web: 0.13938981512986282
+
+N-grams list: 6
+ googl msn askteoma
+ public index web
+ index web
+ index size
+ short paper
+ size
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

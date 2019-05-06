@@ -1,0 +1,71 @@
+File name: 14316718
+
+Graph edges count: 19
+ actual - qualiti: 1
+ comput - applic: 1
+ gametheoret - approach: 1
+ high - reward: 1
+ imperfect - rank: 1
+ mb - adequ: 1
+ mechan - design: 5
+ mechan - mb: 1
+ onlin - qa: 1
+ optim - outcom: 4
+ optim - reward: 1
+ potenti - contributor: 1
+ qa - forum: 1
+ reason - object: 1
+ receiv - contribu: 1
+ site - owner: 1
+ social - comput: 2
+ symmetr - equilibrium: 1
+ uniqu - symmetr: 1
+
+PageRank scores count: 31
+ actual: 0.02084256050855847
+ adequ: 0.04608811192454992
+ applic: 0.05361748690826667
+ approach: 0.03855873694083317
+ comput: 0.03855873694083317
+ contribu: 0.03855873694083317
+ contributor: 0.03855873694083317
+ design: 0.029700648724695817
+ equilibrium: 0.05361748690826667
+ forum: 0.05361748690826667
+ gametheoret: 0.02084256050855847
+ high: 0.02084256050855847
+ imperfect: 0.02084256050855847
+ mb: 0.029700648724695817
+ mechan: 0.02084256050855847
+ object: 0.03855873694083317
+ onlin: 0.02084256050855847
+ optim: 0.02084256050855847
+ outcom: 0.029700648724695817
+ owner: 0.03855873694083317
+ potenti: 0.02084256050855847
+ qa: 0.03855873694083317
+ qualiti: 0.03855873694083317
+ rank: 0.03855873694083317
+ reason: 0.02084256050855847
+ receiv: 0.02084256050855847
+ reward: 0.04741682515697052
+ site: 0.02084256050855847
+ social: 0.02084256050855847
+ symmetr: 0.03855873694083317
+ uniqu: 0.02084256050855847
+
+N-grams list: 10
+ onlin qa forum
+ social comput applic
+ uniqu symmetr equilibrium
+ mechan mb adequ
+ high reward
+ optim reward
+ site owner
+ reason object
+ imperfect rank
+ gametheoret approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

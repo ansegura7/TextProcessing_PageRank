@@ -1,0 +1,65 @@
+File name: 3603342
+
+Graph edges count: 17
+ agglomerativeconglom - doubl: 1
+ agglom - cluster: 1
+ cluster - method: 1
+ distribu - cluster: 1
+ doubl - cluster: 1
+ email - folder: 1
+ googl - queri: 1
+ link - structur: 1
+ multipl - peopl: 1
+ multiwai - distribu: 1
+ person - name: 1
+ search - engin: 1
+ social - network: 2
+ tradition - agglom: 1
+ unsupervis - framework: 1
+ web - appear: 1
+ web - page: 2
+
+PageRank scores count: 27
+ agglom: 0.039549034121730865
+ agglomerativeconglom: 0.021377856282016685
+ appear: 0.030463445201873777
+ cluster: 0.12222789329243039
+ distribu: 0.039549034121730865
+ doubl: 0.039549034121730865
+ email: 0.021377856282016685
+ engin: 0.039549034121730865
+ folder: 0.039549034121730865
+ framework: 0.039549034121730865
+ googl: 0.021377856282016685
+ link: 0.021377856282016685
+ method: 0.1252715655805825
+ multipl: 0.021377856282016685
+ multiwai: 0.021377856282016685
+ name: 0.039549034121730865
+ network: 0.039549034121730865
+ page: 0.030463445201873777
+ peopl: 0.039549034121730865
+ person: 0.021377856282016685
+ queri: 0.039549034121730865
+ search: 0.021377856282016685
+ social: 0.021377856282016685
+ structur: 0.039549034121730865
+ tradition: 0.021377856282016685
+ unsupervis: 0.021377856282016685
+ web: 0.021377856282016685
+
+N-grams list: 10
+ tradition agglom cluster
+ multiwai distribu cluster
+ agglomerativeconglom doubl cluster
+ method
+ person name
+ unsupervis framework
+ email folder
+ multipl peopl
+ social network
+ link structur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

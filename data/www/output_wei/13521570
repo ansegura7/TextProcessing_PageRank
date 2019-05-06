@@ -1,0 +1,82 @@
+File name: 13521570
+
+Graph edges count: 27
+ algebra - method: 1
+ analysi - techniqu: 1
+ cluster - coeffici: 1
+ coeffici - nodelevel: 1
+ edg - weight: 1
+ global - network: 1
+ linklevel - characterist: 1
+ matrix - multipl: 1
+ multipl - transit: 1
+ neg - edg: 2
+ neg - endors: 1
+ network - analysi: 1
+ network - characterist: 1
+ new - site: 1
+ nodelevel - characterist: 1
+ popular - measur: 1
+ sign - variant: 1
+ similar - measur: 1
+ slashdot - technologi: 1
+ slashdot - zoo: 2
+ social - network: 2
+ technologi - new: 1
+ tradition - method: 1
+ unpopular - user: 1
+ user - relationship: 1
+ weight - edg: 1
+ zoo - featur: 1
+
+PageRank scores count: 34
+ algebra: 0.013365650982384628
+ analysi: 0.028702735484670987
+ characterist: 0.0692892053990547
+ cluster: 0.013365650982384628
+ coeffici: 0.02472645431741156
+ edg: 0.1163975547774153
+ endors: 0.017152585427393605
+ featur: 0.031164242873926818
+ global: 0.013365650982384628
+ linklevel: 0.013365650982384628
+ matrix: 0.013365650982384628
+ measur: 0.0360872576524385
+ method: 0.0360872576524385
+ multipl: 0.02472645431741156
+ neg: 0.013365650982384628
+ network: 0.0360872576524385
+ new: 0.027945348595669196
+ nodelevel: 0.034383137152184454
+ popular: 0.013365650982384628
+ relationship: 0.034383137152184454
+ sign: 0.013365650982384628
+ similar: 0.013365650982384628
+ site: 0.03711919728870344
+ slashdot: 0.013365650982384628
+ social: 0.013365650982384628
+ techniqu: 0.03776297614435497
+ technologi: 0.017152585427393605
+ tradition: 0.013365650982384628
+ transit: 0.034383137152184454
+ unpopular: 0.013365650982384628
+ user: 0.02472645431741156
+ variant: 0.02472645431741156
+ weight: 0.11230358425449936
+ zoo: 0.02093951987240258
+
+N-grams list: 10
+ neg edg weight
+ weight edg
+ neg edg
+ global network characterist
+ linklevel characterist
+ social network analysi
+ cluster coeffici nodelevel
+ characterist
+ slashdot zoo featur
+ multipl transit
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

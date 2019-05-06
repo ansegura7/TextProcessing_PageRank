@@ -1,0 +1,48 @@
+File name: 14386517
+
+Graph edges count: 11
+ central - fashion: 1
+ data - sourc: 1
+ declar - languag: 1
+ feasibl - potenti: 1
+ massiv - semant: 1
+ navig - featur: 1
+ rout - web: 1
+ semant - data: 2
+ semant - navig: 1
+ semant - specif: 1
+ web - fragment: 2
+
+PageRank scores count: 16
+ central: 0.03831789242012217
+ data: 0.06844533533544322
+ declar: 0.03831789242012217
+ fashion: 0.070888100977226
+ feasibl: 0.03831789242012217
+ featur: 0.08369226421623746
+ fragment: 0.09857277825076427
+ languag: 0.070888100977226
+ massiv: 0.03831789242012217
+ navig: 0.053381613877782695
+ potenti: 0.070888100977226
+ rout: 0.03831789242012217
+ semant: 0.070888100977226
+ sourc: 0.0964964274552489
+ specif: 0.053381613877782695
+ web: 0.070888100977226
+
+N-grams list: 10
+ rout web fragment
+ massiv semant data
+ web fragment
+ semant data
+ navig featur
+ semant specif
+ semant navig
+ feasibl potenti
+ declar languag
+ central fashion
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

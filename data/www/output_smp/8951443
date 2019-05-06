@@ -1,0 +1,74 @@
+File name: 8951443
+
+Graph edges count: 28
+ collabor - acquisi: 1
+ collabor - content: 1
+ contentprovid - devic: 1
+ content - acquisi: 1
+ content - process: 2
+ conven - web: 1
+ devic - digit: 1
+ digit - content: 3
+ embed - content: 1
+ embed - devic: 1
+ embed - digit: 1
+ embed - web: 2
+ function - web: 1
+ insect - catcher: 1
+ manag - devic: 2
+ network - manag: 1
+ practic - prototyp: 1
+ process - devic: 1
+ process - mechan: 1
+ prototyp - system: 1
+ realworld - situat: 1
+ relat - content: 1
+ system - test: 1
+ ubiquit - devic: 2
+ ubiquit - network: 1
+ virtual - insect: 1
+ web - content: 4
+ web - mechan: 1
+
+PageRank scores count: 25
+ acquisi: 0.08009104957788019
+ catcher: 0.03786032978469164
+ collabor: 0.014717329362367984
+ content: 0.13910318017451948
+ contentprovid: 0.014717329362367984
+ conven: 0.014717329362367984
+ devic: 0.09565187481193169
+ digit: 0.09914885807431643
+ embed: 0.014717329362367984
+ function: 0.014717329362367984
+ insect: 0.027227059320380772
+ manag: 0.0325436945525362
+ mechan: 0.06431500126710968
+ network: 0.02097219434137438
+ practic: 0.014717329362367984
+ process: 0.0738361845988738
+ prototyp: 0.027227059320380772
+ realworld: 0.014717329362367984
+ relat: 0.014717329362367984
+ situat: 0.027227059320380772
+ system: 0.03786032978469164
+ test: 0.04689860967935588
+ ubiquit: 0.014717329362367984
+ virtual: 0.014717329362367984
+ web: 0.04286422176789675
+
+N-grams list: 10
+ content process devic
+ content process mechan
+ embed digit content
+ digit content
+ collabor content acquisi
+ ubiquit devic digit
+ conven web content
+ embed web content
+ web content
+ embed content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

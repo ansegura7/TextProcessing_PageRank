@@ -1,0 +1,118 @@
+File name: 3600017
+
+Graph edges count: 45
+ addition - perform: 1
+ cach - admis: 1
+ cach - index: 1
+ cach - level: 1
+ cach - problem: 1
+ cach - result: 1
+ cach - scheme: 1
+ cach - techniqu: 1
+ care - selec: 1
+ data - set: 1
+ effici - queri: 1
+ engin - larg: 1
+ engin - queri: 1
+ evic - polici: 1
+ experiment - evalu: 1
+ ident - queri: 1
+ immens - workload: 1
+ index - compres: 1
+ index - data: 2
+ interact - respons: 1
+ intermedi - level: 2
+ invert - list: 1
+ larg - search: 1
+ larg - web: 3
+ level - attempt: 1
+ multipl - terabyt: 1
+ onlin - algorithm: 1
+ perform - gain: 2
+ queri - log: 1
+ queri - process: 1
+ queri - prune: 1
+ queri - term: 1
+ real - search: 1
+ repeat - ident: 1
+ respons - time: 1
+ search - engin: 4
+ signific - perform: 1
+ singl - queri: 1
+ techniqu - cach: 1
+ threelevel - cach: 2
+ twolevel - cach: 1
+ web - crawl: 1
+ web - search: 2
+ weight - cach: 1
+ workload - larg: 1
+
+PageRank scores count: 52
+ addition: 0.009329263610546791
+ admis: 0.014887438983457183
+ algorithm: 0.017259137679511562
+ attempt: 0.02872397970510545
+ cach: 0.04577320895337971
+ care: 0.009329263610546791
+ compres: 0.013547371322526326
+ crawl: 0.02020005592237123
+ data: 0.017765479034505864
+ effici: 0.009329263610546791
+ engin: 0.05070738052172178
+ evalu: 0.017259137679511562
+ evic: 0.009329263610546791
+ experiment: 0.009329263610546791
+ gain: 0.03073992359675167
+ ident: 0.017259137679511562
+ immens: 0.009329263610546791
+ index: 0.014887438983457183
+ interact: 0.009329263610546791
+ intermedi: 0.009329263610546791
+ invert: 0.009329263610546791
+ larg: 0.04555016924090646
+ level: 0.022817313052421954
+ list: 0.017259137679511562
+ log: 0.022378871816815
+ multipl: 0.009329263610546791
+ onlin: 0.009329263610546791
+ perform: 0.025189011748476334
+ polici: 0.017259137679511562
+ problem: 0.014887438983457183
+ process: 0.022378871816815
+ prune: 0.022378871816815
+ queri: 0.061409917378836
+ real: 0.009329263610546791
+ repeat: 0.009329263610546791
+ respons: 0.017259137679511562
+ result: 0.014887438983457183
+ scheme: 0.014887438983457183
+ search: 0.048680134030118616
+ selec: 0.017259137679511562
+ set: 0.024429920789876776
+ signific: 0.009329263610546791
+ singl: 0.009329263610546791
+ techniqu: 0.014887438983457183
+ terabyt: 0.017259137679511562
+ term: 0.022378871816815
+ threelevel: 0.009329263610546791
+ time: 0.02399953063813162
+ twolevel: 0.009329263610546791
+ web: 0.03836749879142132
+ weight: 0.009329263610546791
+ workload: 0.017259137679511562
+
+N-grams list: 10
+ engin larg web
+ larg web search
+ real search engin
+ larg web crawl
+ search engin
+ effici queri process
+ repeat ident queri
+ queri prune
+ queri term
+ queri log
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

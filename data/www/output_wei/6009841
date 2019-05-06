@@ -1,0 +1,59 @@
+File name: 6009841
+
+Graph edges count: 17
+ adapt - facet: 1
+ changeabl - larg: 1
+ data - visual: 1
+ divers - user: 1
+ dynam - facet: 1
+ facet - browser: 2
+ facet - gener: 1
+ inform - retriev: 1
+ inform - space: 4
+ larg - size: 1
+ navig - inform: 1
+ open - inform: 3
+ size - complex: 1
+ uniqu - characterist: 1
+ user - base: 1
+ user - characterist: 1
+ user - navig: 1
+
+PageRank scores count: 21
+ adapt: 0.02594311183626912
+ base: 0.03954162629044685
+ browser: 0.06563607294576088
+ changeabl: 0.02594311183626912
+ characterist: 0.06159327135127561
+ complex: 0.0826709687552511
+ data: 0.02594311183626912
+ divers: 0.02594311183626912
+ dynam: 0.02594311183626912
+ facet: 0.07004640195792664
+ gener: 0.045789592391015
+ inform: 0.0816051392439777
+ larg: 0.04799475689709788
+ navig: 0.03954162629044685
+ open: 0.02594311183626912
+ retriev: 0.03981598550774534
+ size: 0.06673865519880232
+ space: 0.08143460652217395
+ uniqu: 0.02594311183626912
+ user: 0.04799475689709788
+ visual: 0.04799475689709788
+
+N-grams list: 10
+ open inform space
+ user navig inform
+ inform space
+ adapt facet browser
+ dynam facet gener
+ changeabl larg size
+ facet browser
+ divers user base
+ user characterist
+ uniqu characterist
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

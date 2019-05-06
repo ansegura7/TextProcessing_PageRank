@@ -1,0 +1,62 @@
+File name: 9096332
+
+Graph edges count: 16
+ 5x - speedup: 1
+ altern - solution: 1
+ candid - size: 1
+ challeng - issu: 1
+ comput - similar: 1
+ data - sourc: 1
+ detec - problem: 1
+ effici - algorithm: 1
+ effici - similar: 1
+ experiment - result: 1
+ multipl - data: 1
+ page - detec: 1
+ previou - algorithm: 1
+ real - dataset: 1
+ similar - valu: 1
+ web - page: 1
+
+PageRank scores count: 25
+ 5x: 0.02402958041348901
+ algorithm: 0.0546672954406875
+ altern: 0.02402958041348901
+ candid: 0.02402958041348901
+ challeng: 0.02402958041348901
+ comput: 0.02402958041348901
+ data: 0.04445472376495467
+ dataset: 0.04445472376495467
+ detec: 0.06181609561370048
+ effici: 0.02402958041348901
+ experiment: 0.02402958041348901
+ issu: 0.04445472376495467
+ multipl: 0.02402958041348901
+ page: 0.04445472376495467
+ previou: 0.02402958041348901
+ problem: 0.07657326168513442
+ real: 0.02402958041348901
+ result: 0.04445472376495467
+ similar: 0.0546672954406875
+ size: 0.04445472376495467
+ solution: 0.04445472376495467
+ sourc: 0.06181609561370048
+ speedup: 0.04445472376495467
+ valu: 0.07049678153807339
+ web: 0.02402958041348901
+
+N-grams list: 10
+ comput similar valu
+ web page detec
+ multipl data sourc
+ previou algorithm
+ effici similar
+ effici algorithm
+ problem
+ altern solution
+ challeng issu
+ real dataset
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

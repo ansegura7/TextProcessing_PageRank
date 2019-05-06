@@ -1,0 +1,67 @@
+File name: 4396653
+
+Graph edges count: 20
+ activ - particip: 2
+ aforemen - technologi: 1
+ camera - phone: 1
+ commun - sensor: 1
+ commun - technologi: 1
+ design - opportun: 1
+ devic - wireless: 1
+ experi - recent: 1
+ life - experi: 3
+ mobil - devic: 1
+ peertop - commun: 1
+ preliminari - experi: 1
+ rank - system: 1
+ recent - trend: 1
+ sensor - technologi: 1
+ shortrang - commun: 1
+ social - interac: 1
+ system - agreerank: 1
+ technologi - weblog: 1
+ wireless - commun: 1
+
+PageRank scores count: 26
+ activ: 0.01720960323142913
+ aforemen: 0.01720960323142913
+ agreerank: 0.044271704312851434
+ camera: 0.01720960323142913
+ commun: 0.08409687739078237
+ design: 0.01720960323142913
+ devic: 0.03183776597814389
+ experi: 0.04646592872485865
+ interac: 0.03183776597814389
+ life: 0.01720960323142913
+ mobil: 0.01720960323142913
+ opportun: 0.03183776597814389
+ particip: 0.03183776597814389
+ peertop: 0.01720960323142913
+ phone: 0.03183776597814389
+ preliminari: 0.01720960323142913
+ rank: 0.01720960323142913
+ recent: 0.05670564264755897
+ sensor: 0.05295077612251163
+ shortrang: 0.01720960323142913
+ social: 0.01720960323142913
+ system: 0.03183776597814389
+ technologi: 0.11258709857336127
+ trend: 0.06540939948185426
+ weblog: 0.11290863701878621
+ wireless: 0.044271704312851434
+
+N-grams list: 10
+ commun sensor technologi
+ shortrang commun technologi
+ aforemen technologi
+ life experi recent
+ weblog
+ peertop commun
+ rank system agreerank
+ mobil devic wireless
+ trend
+ life experi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

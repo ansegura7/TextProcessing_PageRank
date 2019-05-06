@@ -1,0 +1,55 @@
+File name: 14237951
+
+Graph edges count: 14
+ conceptu - framework: 1
+ decept - spam: 1
+ empir - result: 1
+ honeypot - project: 3
+ initi - empir: 1
+ kei - compon: 1
+ network - commun: 1
+ onlin - commun: 2
+ social - honeypot: 4
+ social - network: 1
+ social - spammer: 1
+ spam - classifi: 1
+ spam - profil: 2
+ statist - analysi: 1
+
+PageRank scores count: 20
+ analysi: 0.0589226706302337
+ classifi: 0.048544848911124976
+ commun: 0.08983053096757926
+ compon: 0.0589226706302337
+ conceptu: 0.03185009223255876
+ decept: 0.03185009223255876
+ empir: 0.0589226706302337
+ framework: 0.0589226706302337
+ honeypot: 0.04989847783100872
+ initi: 0.03185009223255876
+ kei: 0.03185009223255876
+ network: 0.03636218863217124
+ onlin: 0.03185009223255876
+ profil: 0.06523960558969119
+ project: 0.07426379838891617
+ result: 0.08193436226825741
+ social: 0.03185009223255876
+ spam: 0.0589226706302337
+ spammer: 0.03636218863217124
+ statist: 0.03185009223255876
+
+N-grams list: 10
+ initi empir result
+ social network commun
+ social honeypot project
+ decept spam profil
+ spam profil
+ onlin commun
+ spam classifi
+ kei compon
+ conceptu framework
+ statist analysi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,63 @@
+File name: 13064271
+
+Graph edges count: 17
+ chang - environ: 1
+ environ - web: 1
+ feedback - control: 1
+ full - set: 1
+ function - requir: 1
+ high - satisfac: 1
+ qualityfunc - requir: 1
+ requirementsdriven - selftun: 1
+ requirementsori - reason: 1
+ requir - tradeoff: 1
+ satisfac - level: 1
+ selftun - method: 1
+ survivabilityori - selftun: 1
+ surviv - assur: 2
+ tradeoff - decision: 1
+ valuebas - feedback: 1
+ web - system: 4
+
+PageRank scores count: 25
+ assur: 0.038707078949364336
+ chang: 0.020922745378034777
+ control: 0.053823762484994465
+ decision: 0.07952212449556569
+ environ: 0.038707078949364336
+ feedback: 0.038707078949364336
+ full: 0.020922745378034777
+ function: 0.020922745378034777
+ high: 0.020922745378034777
+ level: 0.053823762484994465
+ method: 0.06894044602062459
+ qualityfunc: 0.020922745378034777
+ reason: 0.038707078949364336
+ requir: 0.056491412520693896
+ requirementsdriven: 0.020922745378034777
+ requirementsori: 0.020922745378034777
+ satisfac: 0.038707078949364336
+ selftun: 0.056491412520693896
+ set: 0.038707078949364336
+ surviv: 0.020922745378034777
+ survivabilityori: 0.020922745378034777
+ system: 0.06667294349028008
+ tradeoff: 0.06894044602062459
+ valuebas: 0.020922745378034777
+ web: 0.053823762484994465
+
+N-grams list: 10
+ requirementsdriven selftun method
+ function requir tradeoff
+ web system
+ valuebas feedback control
+ high satisfac level
+ chang environ web
+ decision
+ qualityfunc requir
+ survivabilityori selftun
+ method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

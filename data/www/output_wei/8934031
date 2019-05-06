@@ -1,0 +1,58 @@
+File name: 8934031
+
+Graph edges count: 16
+ base - stream: 1
+ continu - playback: 1
+ foroverlai - network: 1
+ gb - stream: 1
+ gossip - base: 1
+ gossip - protocol: 1
+ indynam - user: 1
+ multicast - stream: 1
+ preliminari - result: 1
+ protocol - foroverlai: 1
+ singl - upstream: 1
+ stream - content: 1
+ stream - protocol: 1
+ uniqu - requir: 1
+ upstream - sourc: 1
+ user - environ: 1
+
+PageRank scores count: 21
+ base: 0.03459950336017041
+ content: 0.06464112916146925
+ continu: 0.024280353235207306
+ environ: 0.0624612086975708
+ foroverlai: 0.0879965906286748
+ gb: 0.024280353235207306
+ gossip: 0.024280353235207306
+ indynam: 0.024280353235207306
+ multicast: 0.024280353235207306
+ network: 0.0990774552695809
+ playback: 0.04491865348513352
+ preliminari: 0.024280353235207306
+ protocol: 0.07496027928643235
+ requir: 0.04491865348513352
+ result: 0.04491865348513352
+ singl: 0.024280353235207306
+ sourc: 0.0624612086975708
+ stream: 0.09496653159120458
+ uniqu: 0.024280353235207306
+ upstream: 0.04491865348513352
+ user: 0.04491865348513352
+
+N-grams list: 10
+ multicast stream protocol
+ foroverlai network
+ gb stream content
+ gossip base stream
+ singl upstream sourc
+ indynam user environ
+ gossip protocol
+ stream
+ continu playback
+ preliminari result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

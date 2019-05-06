@@ -1,0 +1,95 @@
+File name: 13060664
+
+Graph edges count: 32
+ analysi - comput: 1
+ art - esa: 1
+ art - method: 1
+ consider - amount: 1
+ consist - improv: 1
+ empir - evalu: 1
+ explicit - semant: 1
+ kei - function: 1
+ languag - applic: 1
+ languag - resourc: 1
+ method - explicit: 1
+ model - tempor: 1
+ multipl - benchmark: 1
+ newspap - archiv: 1
+ previou - approach: 1
+ previou - state: 1
+ refin - represent: 1
+ related - inform: 1
+ related - model: 1
+ search - cluster: 1
+ semant - analysi: 3
+ semant - related: 4
+ static - languag: 1
+ temporallyord - docum: 1
+ tempor - aspect: 1
+ tempor - evid: 1
+ tempor - inform: 1
+ tempor - semant: 2
+ time - seri: 1
+ word - related: 1
+ word - semant: 1
+ word - usag: 1
+
+PageRank scores count: 42
+ amount: 0.02578313042550648
+ analysi: 0.03526062934887883
+ applic: 0.024894657687870785
+ approach: 0.019859978841268503
+ archiv: 0.02578313042550648
+ art: 0.013936827257030528
+ aspect: 0.02116442397754597
+ benchmark: 0.02578313042550648
+ cluster: 0.02578313042550648
+ comput: 0.043908362038210164
+ consider: 0.013936827257030528
+ consist: 0.013936827257030528
+ docum: 0.02578313042550648
+ empir: 0.013936827257030528
+ esa: 0.019859978841268503
+ evalu: 0.02578313042550648
+ evid: 0.02116442397754597
+ explicit: 0.030817809272108754
+ function: 0.02578313042550648
+ improv: 0.02578313042550648
+ inform: 0.04084928958578716
+ kei: 0.013936827257030528
+ languag: 0.02578313042550648
+ method: 0.019859978841268503
+ model: 0.033621692865271724
+ multipl: 0.013936827257030528
+ newspap: 0.013936827257030528
+ previou: 0.013936827257030528
+ refin: 0.013936827257030528
+ related: 0.046317331102320246
+ represent: 0.02578313042550648
+ resourc: 0.024894657687870785
+ search: 0.013936827257030528
+ semant: 0.058535926302179166
+ seri: 0.02578313042550648
+ state: 0.019859978841268503
+ static: 0.013936827257030528
+ tempor: 0.042515269530482395
+ temporallyord: 0.013936827257030528
+ time: 0.013936827257030528
+ usag: 0.017885594979855843
+ word: 0.013936827257030528
+
+N-grams list: 10
+ semant related model
+ tempor semant analysi
+ semant related
+ semant analysi
+ related inform
+ tempor inform
+ word semant
+ art method explicit
+ static languag resourc
+ tempor evid
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

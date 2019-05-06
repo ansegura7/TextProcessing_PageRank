@@ -1,0 +1,110 @@
+File name: 14123171
+
+Graph edges count: 36
+ activ - object: 2
+ annot - studi: 1
+ automat - approach: 1
+ bear - queri: 1
+ commerci - search: 1
+ demo - video: 1
+ empir - evid: 1
+ em - algorithm: 1
+ entiti - bear: 1
+ entiti - type: 1
+ entitybear - queri: 2
+ entitycentr - search: 2
+ evalu - methodologi: 1
+ graphic - model: 1
+ intend - action: 1
+ larg - collec: 1
+ larg - propor: 1
+ latent - factor: 1
+ likelihood - estim: 1
+ maximum - likelihood: 1
+ pertin - action: 1
+ present - action: 1
+ price - onlin: 1
+ probabilist - infer: 2
+ queri - log: 1
+ queri - probabilist: 1
+ queri - session: 1
+ random - sampl: 1
+ realworld - queri: 1
+ recommend - action: 1
+ relev - action: 1
+ search - box: 1
+ search - engin: 1
+ search - experi: 1
+ specif - flashlight: 1
+ user - queri: 1
+
+PageRank scores count: 53
+ action: 0.061495226414747424
+ activ: 0.01171337645995189
+ algorithm: 0.021669746450911
+ annot: 0.01171337645995189
+ approach: 0.021669746450911
+ automat: 0.01171337645995189
+ bear: 0.016691561455431443
+ box: 0.02067410945181509
+ collec: 0.016691561455431443
+ commerci: 0.01171337645995189
+ demo: 0.01171337645995189
+ em: 0.01171337645995189
+ empir: 0.01171337645995189
+ engin: 0.02067410945181509
+ entiti: 0.01171337645995189
+ entitybear: 0.01171337645995189
+ entitycentr: 0.01171337645995189
+ estim: 0.03013266094322624
+ evalu: 0.01171337645995189
+ evid: 0.021669746450911
+ experi: 0.02067410945181509
+ factor: 0.021669746450911
+ flashlight: 0.021669746450911
+ graphic: 0.01171337645995189
+ infer: 0.035101096993089644
+ intend: 0.01171337645995189
+ larg: 0.01171337645995189
+ latent: 0.01171337645995189
+ likelihood: 0.021669746450911
+ log: 0.027514965333103235
+ maximum: 0.01171337645995189
+ methodologi: 0.021669746450911
+ model: 0.021669746450911
+ object: 0.021669746450911
+ onlin: 0.021669746450911
+ pertin: 0.01171337645995189
+ present: 0.01171337645995189
+ price: 0.01171337645995189
+ probabilist: 0.027514965333103235
+ propor: 0.016691561455431443
+ queri: 0.05577031366994594
+ random: 0.01171337645995189
+ realworld: 0.01171337645995189
+ recommend: 0.01171337645995189
+ relev: 0.01171337645995189
+ sampl: 0.021669746450911
+ search: 0.031626116441870106
+ session: 0.027514965333103235
+ specif: 0.01171337645995189
+ studi: 0.021669746450911
+ type: 0.016691561455431443
+ user: 0.01171337645995189
+ video: 0.021669746450911
+
+N-grams list: 10
+ queri probabilist infer
+ user queri session
+ entiti bear queri
+ queri log
+ present action
+ pertin action
+ intend action
+ relev action
+ recommend action
+ realworld queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

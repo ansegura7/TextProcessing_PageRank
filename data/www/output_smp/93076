@@ -1,0 +1,54 @@
+File name: 93076
+
+Graph edges count: 13
+ algorithm - innov: 1
+ basic - paradigm: 1
+ celebr - pagerank: 1
+ direct - manipul: 1
+ effect - paradigm: 1
+ hierarch - structur: 1
+ link - rot: 1
+ pagerank - algorithm: 1
+ promin - featur: 1
+ rank - result: 1
+ search - algorithm: 1
+ web - frontier: 1
+ web - search: 1
+
+PageRank scores count: 20
+ algorithm: 0.11244448819555757
+ basic: 0.02971773721719394
+ celebr: 0.02971773721719394
+ direct: 0.02971773721719394
+ effect: 0.02971773721719394
+ featur: 0.05497781385180879
+ frontier: 0.04234777553450137
+ hierarch: 0.02971773721719394
+ innov: 0.12529555218341787
+ link: 0.02971773721719394
+ manipul: 0.05497781385180879
+ pagerank: 0.05497781385180879
+ paradigm: 0.08023789048642364
+ promin: 0.02971773721719394
+ rank: 0.02971773721719394
+ result: 0.05497781385180879
+ rot: 0.05497781385180879
+ search: 0.04234777553450137
+ structur: 0.05497781385180879
+ web: 0.02971773721719394
+
+N-grams list: 10
+ algorithm innov
+ celebr pagerank algorithm
+ web search algorithm
+ effect paradigm
+ basic paradigm
+ promin featur
+ direct manipul
+ hierarch structur
+ rank result
+ link rot
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

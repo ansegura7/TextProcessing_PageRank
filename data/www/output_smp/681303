@@ -1,0 +1,82 @@
+File name: 681303
+
+Graph edges count: 24
+ 80m - page: 1
+ adequ - inform: 1
+ algorithm - scalabl: 1
+ carlo - similar: 1
+ experiment - result: 1
+ gener - framework: 1
+ hyperlink - structur: 2
+ index - databas: 1
+ jaccard - coeffici: 1
+ linkbas - similar: 1
+ mont - carlo: 1
+ multistep - neighborhood: 2
+ odp - directori: 1
+ queri - time: 1
+ random - fingerprint: 1
+ recurs - refin: 1
+ search - algorithm: 1
+ similar - function: 1
+ similar - inform: 1
+ similar - search: 3
+ singlestep - neighborhood: 1
+ stanford - webbas: 1
+ theoret - characterist: 1
+ time - similar: 1
+
+PageRank scores count: 37
+ 80m: 0.015750826802737004
+ adequ: 0.015750826802737004
+ algorithm: 0.04808668357275096
+ carlo: 0.029139029585063453
+ characterist: 0.029139029585063453
+ coeffici: 0.029139029585063453
+ databas: 0.029139029585063453
+ directori: 0.029139029585063453
+ experiment: 0.015750826802737004
+ fingerprint: 0.029139029585063453
+ framework: 0.029139029585063453
+ function: 0.03804218443531055
+ gener: 0.015750826802737004
+ hyperlink: 0.015750826802737004
+ index: 0.015750826802737004
+ inform: 0.051430387217637
+ jaccard: 0.015750826802737004
+ linkbas: 0.015750826802737004
+ mont: 0.015750826802737004
+ multistep: 0.015750826802737004
+ neighborhood: 0.04252723236738991
+ odp: 0.015750826802737004
+ page: 0.029139029585063453
+ queri: 0.015750826802737004
+ random: 0.015750826802737004
+ recurs: 0.015750826802737004
+ refin: 0.029139029585063453
+ result: 0.029139029585063453
+ scalabl: 0.056624507839575317
+ search: 0.03804218443531055
+ similar: 0.07867537987967133
+ singlestep: 0.015750826802737004
+ stanford: 0.015750826802737004
+ structur: 0.029139029585063453
+ theoret: 0.015750826802737004
+ time: 0.029139029585063453
+ webbas: 0.029139029585063453
+
+N-grams list: 10
+ linkbas similar search
+ similar inform
+ queri time similar
+ mont carlo similar
+ similar function
+ similar search
+ algorithm scalabl
+ search algorithm
+ similar
+ adequ inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,36 @@
+File name: 599990
+
+Graph edges count: 8
+ discoveri - applic: 2
+ equal - queri: 1
+ faulttoler - peertop: 1
+ index - structur: 1
+ p2p - index: 1
+ peertop - index: 1
+ rang - queri: 1
+ resourc - discoveri: 2
+
+PageRank scores count: 11
+ applic: 0.12075126295963808
+ discoveri: 0.08683764294473487
+ equal: 0.04693926645661344
+ faulttoler: 0.04693926645661344
+ index: 0.1606496394477595
+ p2p: 0.04693926645661344
+ peertop: 0.08683764294473487
+ queri: 0.12673601943285628
+ rang: 0.04693926645661344
+ resourc: 0.04693926645661344
+ structur: 0.18349145998720903
+
+N-grams list: 6
+ faulttoler peertop index
+ resourc discoveri applic
+ p2p index
+ structur
+ equal queri
+ rang queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

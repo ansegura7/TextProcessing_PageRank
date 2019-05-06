@@ -1,0 +1,54 @@
+File name: 786406
+
+Graph edges count: 14
+ comprehens - approach: 1
+ copyright - protec: 1
+ correc - code: 1
+ digit - video: 2
+ error - correc: 1
+ hybrid - digit: 2
+ popular - data: 1
+ scheme - video: 1
+ stirmark - test: 1
+ vast - interest: 1
+ video - copyright: 2
+ video - watermark: 2
+ watermark - scheme: 2
+ watermark - techniqu: 1
+
+PageRank scores count: 19
+ approach: 0.0488491652569436
+ code: 0.06792674466134455
+ comprehens: 0.026404954192942486
+ copyright: 0.07656822869400029
+ correc: 0.0488491652569436
+ data: 0.0488491652569436
+ digit: 0.0488491652569436
+ error: 0.026404954192942486
+ hybrid: 0.026404954192942486
+ interest: 0.0488491652569436
+ popular: 0.026404954192942486
+ protec: 0.09148794967172505
+ scheme: 0.058946451932333756
+ stirmark: 0.026404954192942486
+ techniqu: 0.058946451932333756
+ test: 0.0488491652569436
+ vast: 0.026404954192942486
+ video: 0.11803122771494591
+ watermark: 0.07656822869400029
+
+N-grams list: 10
+ watermark scheme video
+ video copyright
+ hybrid digit video
+ copyright protec
+ error correc code
+ watermark scheme
+ watermark techniqu
+ protec
+ watermark
+ comprehens approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,57 @@
+File name: 13061707
+
+Graph edges count: 13
+ automat - method: 1
+ blog - post: 1
+ blog - servic: 1
+ extern - sourc: 1
+ fals - rumor: 1
+ human - assess: 1
+ inform - credibl: 2
+ measur - differ: 1
+ popular - blog: 1
+ previou - research: 1
+ recent - sampl: 1
+ signific - number: 1
+ twitter - post: 1
+
+PageRank scores count: 23
+ assess: 0.05453607487655687
+ automat: 0.029478959392733442
+ blog: 0.05453607487655687
+ credibl: 0.05453607487655687
+ differ: 0.05453607487655687
+ extern: 0.029478959392733442
+ fals: 0.029478959392733442
+ human: 0.029478959392733442
+ inform: 0.029478959392733442
+ measur: 0.029478959392733442
+ method: 0.05453607487655687
+ number: 0.05453607487655687
+ popular: 0.029478959392733442
+ post: 0.07771390669909353
+ previou: 0.029478959392733442
+ recent: 0.029478959392733442
+ research: 0.05453607487655687
+ rumor: 0.05453607487655687
+ sampl: 0.05453607487655687
+ servic: 0.052656791215270116
+ signific: 0.029478959392733442
+ sourc: 0.05453607487655687
+ twitter: 0.029478959392733442
+
+N-grams list: 10
+ popular blog servic
+ blog post
+ twitter post
+ measur differ
+ fals rumor
+ recent sampl
+ human assess
+ signific number
+ inform credibl
+ previou research
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

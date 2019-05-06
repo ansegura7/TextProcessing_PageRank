@@ -1,0 +1,88 @@
+File name: 13062121
+
+Graph edges count: 26
+ addition - frequent: 1
+ corefer - resolu: 1
+ corefer - uri: 3
+ discrimin - propertyvalu: 1
+ equival - infer: 1
+ frequent - properti: 1
+ function - properti: 1
+ good - precision: 1
+ initi - on: 1
+ kei - characterist: 1
+ largescal - dataset: 1
+ link - open: 1
+ multipl - uri: 1
+ object - corefer: 3
+ object - uri: 1
+ open - data: 1
+ owl - semant: 1
+ potenti - candid: 1
+ properti - combin: 1
+ propertyvalu - pair: 2
+ samea - statem: 1
+ scalabl - system: 1
+ selftrain - approach: 2
+ semant - web: 3
+ similar - comput: 1
+ statist - measur: 1
+
+PageRank scores count: 41
+ addition: 0.014990172068437627
+ approach: 0.027731818326609606
+ candid: 0.027731818326609606
+ characterist: 0.027731818326609606
+ combin: 0.05859845638703123
+ comput: 0.027731818326609606
+ corefer: 0.02136099519752362
+ data: 0.038562217646055795
+ dataset: 0.027731818326609606
+ discrimin: 0.014990172068437627
+ equival: 0.014990172068437627
+ frequent: 0.027731818326609606
+ function: 0.014990172068437627
+ good: 0.014990172068437627
+ infer: 0.027731818326609606
+ initi: 0.014990172068437627
+ kei: 0.014990172068437627
+ largescal: 0.014990172068437627
+ link: 0.014990172068437627
+ measur: 0.027731818326609606
+ multipl: 0.014990172068437627
+ object: 0.014990172068437627
+ on: 0.027731818326609606
+ open: 0.027731818326609606
+ owl: 0.014990172068437627
+ pair: 0.038562217646055795
+ potenti: 0.014990172068437627
+ precision: 0.027731818326609606
+ properti: 0.05130386390422777
+ propertyvalu: 0.027731818326609606
+ resolu: 0.024068595027385162
+ samea: 0.014990172068437627
+ scalabl: 0.014990172068437627
+ selftrain: 0.014990172068437627
+ semant: 0.027731818326609606
+ similar: 0.014990172068437627
+ statem: 0.027731818326609606
+ statist: 0.014990172068437627
+ system: 0.027731818326609606
+ uri: 0.04318106441464314
+ web: 0.038562217646055795
+
+N-grams list: 10
+ addition frequent properti
+ link open data
+ discrimin propertyvalu pair
+ semant web
+ function properti
+ propertyvalu pair
+ corefer uri
+ object corefer resolu
+ combin
+ object uri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

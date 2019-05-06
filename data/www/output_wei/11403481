@@ -1,0 +1,57 @@
+File name: 11403481
+
+Graph edges count: 13
+ ant - system: 1
+ ctabl - problem: 1
+ distanceconstrain - trip: 1
+ geotag - photograph: 1
+ gp - metadata: 1
+ highqual - tour: 1
+ larg - volum: 1
+ maxmin - ant: 1
+ mine - distanceconstrain: 1
+ popular - site: 1
+ start - locat: 1
+ tourist - trip: 1
+ travel - distanc: 1
+
+PageRank scores count: 23
+ ant: 0.05212001690378927
+ ctabl: 0.028172982110156362
+ distanc: 0.05212001690378927
+ distanceconstrain: 0.05212001690378927
+ geotag: 0.028172982110156362
+ gp: 0.028172982110156362
+ highqual: 0.028172982110156362
+ larg: 0.028172982110156362
+ locat: 0.05212001690378927
+ maxmin: 0.028172982110156362
+ metadata: 0.05212001690378927
+ mine: 0.028172982110156362
+ photograph: 0.05212001690378927
+ popular: 0.028172982110156362
+ problem: 0.05212001690378927
+ site: 0.05212001690378927
+ start: 0.028172982110156362
+ system: 0.07247499647837724
+ tour: 0.05212001690378927
+ tourist: 0.028172982110156362
+ travel: 0.028172982110156362
+ trip: 0.09642203127201016
+ volum: 0.05212001690378927
+
+N-grams list: 10
+ mine distanceconstrain trip
+ maxmin ant system
+ tourist trip
+ start locat
+ travel distanc
+ popular site
+ geotag photograph
+ larg volum
+ ctabl problem
+ highqual tour
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

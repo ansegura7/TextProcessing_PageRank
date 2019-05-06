@@ -1,0 +1,62 @@
+File name: 13502392
+
+Graph edges count: 18
+ actual - user: 1
+ benchmark - result: 1
+ browser - compliant: 1
+ clientsid - perform: 1
+ explor - firefox: 1
+ internet - explor: 1
+ modern - web: 1
+ popular - web: 1
+ record - user: 1
+ replai - mechan: 1
+ respons - perform: 1
+ typic - web: 1
+ user - interac: 1
+ web - browser: 2
+ web - navig: 1
+ web - user: 1
+ wpbench - comparison: 1
+ wpbench - record: 1
+
+PageRank scores count: 23
+ actual: 0.02354978694802121
+ benchmark: 0.02354978694802121
+ browser: 0.04723694765323921
+ clientsid: 0.02354978694802121
+ comparison: 0.033558446400930225
+ compliant: 0.06370119245327453
+ explor: 0.04356710585383924
+ firefox: 0.06058182692378456
+ interac: 0.10496189104789194
+ internet: 0.02354978694802121
+ mechan: 0.04356710585383924
+ modern: 0.02354978694802121
+ navig: 0.04723694765323921
+ perform: 0.06358442475965725
+ popular: 0.02354978694802121
+ record: 0.033558446400930225
+ replai: 0.02354978694802121
+ respons: 0.02354978694802121
+ result: 0.04356710585383924
+ typic: 0.02354978694802121
+ user: 0.09577894599984792
+ web: 0.08360174366547529
+ wpbench: 0.02354978694802121
+
+N-grams list: 10
+ actual user interac
+ web user
+ popular web browser
+ wpbench record user
+ web navig
+ web browser
+ internet explor firefox
+ browser compliant
+ modern web
+ typic web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

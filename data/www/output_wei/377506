@@ -1,0 +1,72 @@
+File name: 377506
+
+Graph edges count: 20
+ applicationlevel - vulner: 1
+ applicationlevel - web: 3
+ charg - usernam: 1
+ common - attack: 1
+ condenti - inform: 1
+ creditcard - number: 1
+ ecommerc - site: 1
+ heterogen - multiplatform: 1
+ larg - webappl: 1
+ month - applicationlevel: 1
+ multiplatform - environ: 1
+ report - result: 1
+ secur - applic: 1
+ secur - applicationlevel: 1
+ secur - polici: 1
+ ship - good: 1
+ vulner - inher: 1
+ webserverbackend - databas: 1
+ web - secur: 3
+ wide - rang: 1
+
+PageRank scores count: 31
+ applic: 0.037775610165901696
+ applicationlevel: 0.0542015555401769
+ attack: 0.035750586991069554
+ charg: 0.019324641616794352
+ common: 0.019324641616794352
+ condenti: 0.019324641616794352
+ creditcard: 0.019324641616794352
+ databas: 0.035750586991069554
+ ecommerc: 0.019324641616794352
+ environ: 0.04971264055920347
+ good: 0.035750586991069554
+ heterogen: 0.019324641616794352
+ inform: 0.035750586991069554
+ inher: 0.04554074851868711
+ larg: 0.019324641616794352
+ month: 0.019324641616794352
+ multiplatform: 0.035750586991069554
+ number: 0.035750586991069554
+ polici: 0.037775610165901696
+ rang: 0.035750586991069554
+ report: 0.019324641616794352
+ result: 0.035750586991069554
+ secur: 0.06512107157392225
+ ship: 0.019324641616794352
+ site: 0.035750586991069554
+ usernam: 0.035750586991069554
+ vulner: 0.030842472601624597
+ web: 0.05387813457128509
+ webappl: 0.035750586991069554
+ webserverbackend: 0.019324641616794352
+ wide: 0.019324641616794352
+
+N-grams list: 10
+ applicationlevel web secur
+ heterogen multiplatform environ
+ month applicationlevel vulner
+ secur applic
+ secur polici
+ vulner inher
+ secur
+ webserverbackend databas
+ creditcard number
+ condenti inform
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

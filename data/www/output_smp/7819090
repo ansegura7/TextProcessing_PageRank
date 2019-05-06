@@ -1,0 +1,70 @@
+File name: 7819090
+
+Graph edges count: 21
+ addition - contextu: 1
+ annot - task: 1
+ collect - knowledg: 1
+ empir - evalu: 1
+ famili - friend: 1
+ flickr - tag: 1
+ import - facet: 1
+ knowledg - onlin: 1
+ onlin - commun: 1
+ onlin - photo: 1
+ origin - tag: 1
+ photo - annot: 1
+ photo - servic: 1
+ recommend - strategi: 1
+ relev - tag: 1
+ repres - snapshot: 1
+ semant - inform: 1
+ tag - character: 1
+ tag - photo: 1
+ tag - recommend: 2
+ user - tag: 1
+
+PageRank scores count: 28
+ addition: 0.019359456964731545
+ annot: 0.046840034714309434
+ character: 0.04349424664743021
+ collect: 0.019359456964731545
+ commun: 0.040525393257484596
+ contextu: 0.035814995384753356
+ empir: 0.019359456964731545
+ evalu: 0.035814995384753356
+ facet: 0.035814995384753356
+ famili: 0.019359456964731545
+ flickr: 0.019359456964731545
+ friend: 0.035814995384753356
+ import: 0.019359456964731545
+ inform: 0.035814995384753356
+ knowledg: 0.035814995384753356
+ onlin: 0.049802203041771895
+ origin: 0.019359456964731545
+ photo: 0.06466018294018326
+ recommend: 0.04349424664743021
+ relev: 0.019359456964731545
+ repres: 0.019359456964731545
+ semant: 0.019359456964731545
+ servic: 0.046840034714309434
+ snapshot: 0.035814995384753356
+ strategi: 0.05632956661504722
+ tag: 0.0851816106448188
+ task: 0.059173486471894556
+ user: 0.019359456964731545
+
+N-grams list: 10
+ tag recommend strategi
+ photo annot task
+ user tag photo
+ flickr tag recommend
+ tag character
+ photo servic
+ collect knowledg onlin
+ relev tag
+ origin tag
+ onlin commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

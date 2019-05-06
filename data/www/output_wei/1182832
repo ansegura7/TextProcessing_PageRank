@@ -1,0 +1,52 @@
+File name: 1182832
+
+Graph edges count: 13
+ access - view: 1
+ annot - languag: 1
+ author - environ: 1
+ collabor - hypertext: 1
+ design - decision: 1
+ hypertext - author: 1
+ inform - reus: 1
+ popular - collabor: 1
+ prototyp - semperwiki: 1
+ semant - annot: 1
+ semant - wiki: 1
+ structur - access: 2
+ wiki - wiki: 1
+
+PageRank scores count: 18
+ access: 0.04576205493889297
+ annot: 0.03524915042590405
+ author: 0.07882513963224315
+ collabor: 0.04576205493889297
+ decision: 0.04576205493889297
+ design: 0.02473624591291512
+ environ: 0.0917376146003218
+ hypertext: 0.06363399261097415
+ inform: 0.02473624591291512
+ languag: 0.05469802377493356
+ popular: 0.02473624591291512
+ prototyp: 0.02473624591291512
+ reus: 0.04576205493889297
+ semant: 0.02473624591291512
+ semperwiki: 0.04576205493889297
+ structur: 0.02473624591291512
+ view: 0.06363399261097415
+ wiki: 0.23499433617269358
+
+N-grams list: 10
+ wiki wiki
+ semant wiki
+ author environ
+ structur access view
+ popular collabor hypertext
+ annot languag
+ design decision
+ prototyp semperwiki
+ structur access
+ inform reus
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

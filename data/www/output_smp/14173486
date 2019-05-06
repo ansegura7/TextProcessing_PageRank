@@ -1,0 +1,68 @@
+File name: 14173486
+
+Graph edges count: 19
+ actor - politician: 1
+ domain - adapt: 1
+ experiment - result: 1
+ extrac - method: 1
+ extrac - system: 1
+ instanc - sampl: 1
+ latent - relat: 1
+ lowerdimension - projec: 1
+ macroaverag - fscore: 1
+ minimum - supervi: 1
+ numer - baselin: 1
+ relat - classifi: 1
+ relat - extrac: 2
+ relat - extractor: 1
+ relat - map: 1
+ relat - type: 3
+ signific - macroaverag: 1
+ target - relat: 1
+ weaklysupervis - relat: 1
+
+PageRank scores count: 28
+ actor: 0.02309310157096597
+ adapt: 0.04272223790628704
+ baselin: 0.04272223790628704
+ classifi: 0.037029788369043935
+ domain: 0.02309310157096597
+ experiment: 0.02309310157096597
+ extrac: 0.037029788369043935
+ extractor: 0.037029788369043935
+ fscore: 0.05940700379130996
+ instanc: 0.02309310157096597
+ latent: 0.02309310157096597
+ lowerdimension: 0.02309310157096597
+ macroaverag: 0.04272223790628704
+ map: 0.037029788369043935
+ method: 0.03883076162780964
+ minimum: 0.02309310157096597
+ numer: 0.02309310157096597
+ politician: 0.04272223790628704
+ projec: 0.04272223790628704
+ relat: 0.08198051057692919
+ result: 0.04272223790628704
+ sampl: 0.04272223790628704
+ signific: 0.02309310157096597
+ supervi: 0.04272223790628704
+ system: 0.03883076162780964
+ target: 0.02309310157096597
+ type: 0.037029788369043935
+ weaklysupervis: 0.02309310157096597
+
+N-grams list: 10
+ relat extrac system
+ target relat type
+ latent relat map
+ weaklysupervis relat extrac
+ signific macroaverag fscore
+ relat type
+ relat extractor
+ relat classifi
+ relat
+ domain adapt
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,75 @@
+File name: 5003504
+
+Graph edges count: 23
+ activ - triggerbas: 1
+ arrayhasht - method: 1
+ base - spatial: 1
+ capac - plan: 1
+ citi - simul: 1
+ data - gener: 1
+ dynam - spatial: 1
+ highperform - spatial: 1
+ index - method: 1
+ larg - popul: 1
+ lb - applic: 1
+ locationbas - servic: 2
+ locat - track: 1
+ locu - perform: 1
+ mainmemori - base: 1
+ maximum - popul: 1
+ perform - evalu: 1
+ popul - size: 1
+ simul - dynam: 1
+ spatial - data: 1
+ spatial - index: 3
+ triggerbas - lb: 1
+ wireless - carrier: 1
+
+PageRank scores count: 31
+ activ: 0.015461064625621888
+ applic: 0.049268615062622347
+ arrayhasht: 0.015461064625621888
+ base: 0.028602969557400496
+ capac: 0.015461064625621888
+ carrier: 0.028602969557400496
+ citi: 0.015461064625621888
+ data: 0.052318358375853226
+ dynam: 0.03977358874941231
+ evalu: 0.03977358874941231
+ gener: 0.05993166924509713
+ highperform: 0.015461064625621888
+ index: 0.052318358375853226
+ larg: 0.015461064625621888
+ lb: 0.03977358874941231
+ locat: 0.015461064625621888
+ locationbas: 0.015461064625621888
+ locu: 0.015461064625621888
+ mainmemori: 0.015461064625621888
+ maximum: 0.015461064625621888
+ method: 0.07307357417687574
+ perform: 0.028602969557400496
+ plan: 0.028602969557400496
+ popul: 0.041744874489179094
+ servic: 0.028602969557400496
+ simul: 0.028602969557400496
+ size: 0.05094420794142411
+ spatial: 0.08672304411819139
+ track: 0.028602969557400496
+ triggerbas: 0.028602969557400496
+ wireless: 0.015461064625621888
+
+N-grams list: 10
+ spatial data gener
+ highperform spatial index
+ spatial index
+ mainmemori base spatial
+ index method
+ maximum popul size
+ arrayhasht method
+ locu perform evalu
+ citi simul dynam
+ activ triggerbas lb
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

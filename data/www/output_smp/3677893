@@ -1,0 +1,100 @@
+File name: 3677893
+
+Graph edges count: 34
+ abnorm - support: 1
+ boom - search: 1
+ complex - link: 1
+ content - etc: 1
+ current - search: 1
+ engin - industri: 1
+ hyperlink - structur: 1
+ import - measur: 1
+ level - mutual: 1
+ level - nois: 1
+ link - allianc: 1
+ link - databas: 1
+ link - structur: 1
+ mutual - reinforc: 1
+ navig - hyperlink: 1
+ neg - impact: 1
+ noisi - link: 2
+ nois - remov: 1
+ onlin - organ: 1
+ output - rank: 1
+ page - level: 1
+ prior - work: 1
+ real - world: 1
+ reinforc - relationship: 1
+ relationship - abnorm: 1
+ search - engin: 4
+ simpl - relationship: 1
+ site - level: 3
+ site - replic: 1
+ strong - increas: 1
+ todobr - search: 1
+ web - graph: 1
+ web - site: 2
+ world - entiti: 1
+
+PageRank scores count: 45
+ abnorm: 0.05179976344710147
+ allianc: 0.020093530056341614
+ boom: 0.011384436292544825
+ complex: 0.011384436292544825
+ content: 0.011384436292544825
+ current: 0.011384436292544825
+ databas: 0.020093530056341614
+ engin: 0.04573697280529883
+ entiti: 0.02928646236257156
+ etc: 0.021061207141207926
+ graph: 0.016222821716876376
+ hyperlink: 0.021061207141207926
+ impact: 0.021061207141207926
+ import: 0.011384436292544825
+ increas: 0.021061207141207926
+ industri: 0.05026086317704883
+ level: 0.02795590637088038
+ link: 0.030737977989871025
+ measur: 0.021061207141207926
+ mutual: 0.023265696500168985
+ navig: 0.011384436292544825
+ neg: 0.011384436292544825
+ nois: 0.023265696500168985
+ noisi: 0.011384436292544825
+ onlin: 0.011384436292544825
+ organ: 0.021061207141207926
+ output: 0.011384436292544825
+ page: 0.011384436292544825
+ prior: 0.011384436292544825
+ rank: 0.021061207141207926
+ real: 0.011384436292544825
+ reinforc: 0.03116027831768846
+ relationship: 0.047547443711243115
+ remov: 0.03116027831768846
+ replic: 0.018279135522217282
+ search: 0.040414748838534124
+ simpl: 0.011384436292544825
+ site: 0.016222821716876376
+ strong: 0.011384436292544825
+ structur: 0.03799555612636835
+ support: 0.05541423522258108
+ todobr: 0.011384436292544825
+ web: 0.011384436292544825
+ work: 0.021061207141207926
+ world: 0.021061207141207926
+
+N-grams list: 10
+ reinforc relationship abnorm
+ todobr search engin
+ current search engin
+ boom search engin
+ search engin
+ noisi link structur
+ navig hyperlink structur
+ site level mutual
+ site level nois
+ complex link allianc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

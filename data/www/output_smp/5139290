@@ -1,0 +1,66 @@
+File name: 5139290
+
+Graph edges count: 19
+ broad - topic: 1
+ combin - method: 1
+ content - analysi: 1
+ current - hitsbas: 1
+ experiment - result: 1
+ hitsbas - algorithm: 5
+ hitsbas - method: 4
+ hit - algorithm: 2
+ method - vsm: 1
+ okapi - tl: 1
+ qualiti - differ: 1
+ relevancescor - method: 1
+ repres - relev: 1
+ root - docum: 1
+ signific - qualiti: 1
+ topic - queri: 1
+ vsm - okapi: 1
+ web - docum: 2
+ weight - hitsbas: 4
+
+PageRank scores count: 26
+ algorithm: 0.05712185177800132
+ analysi: 0.03525452069701499
+ broad: 0.01905649767406216
+ combin: 0.01905649767406216
+ content: 0.01905649767406216
+ current: 0.01905649767406216
+ differ: 0.0490228402665249
+ docum: 0.051452543719967825
+ experiment: 0.01905649767406216
+ hit: 0.01905649767406216
+ hitsbas: 0.051452543719967825
+ method: 0.07331987480095414
+ okapi: 0.08822813024070435
+ qualiti: 0.03525452069701499
+ queri: 0.0490228402665249
+ relev: 0.03525452069701499
+ relevancescor: 0.01905649767406216
+ repres: 0.01905649767406216
+ result: 0.03525452069701499
+ root: 0.01905649767406216
+ signific: 0.01905649767406216
+ tl: 0.09405040837866085
+ topic: 0.03525452069701499
+ vsm: 0.08137839125487317
+ web: 0.01905649767406216
+ weight: 0.01905649767406216
+
+N-grams list: 10
+ method vsm okapi
+ weight hitsbas method
+ current hitsbas algorithm
+ hitsbas algorithm
+ broad topic queri
+ signific qualiti differ
+ tl
+ combin method
+ relevancescor method
+ hit algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

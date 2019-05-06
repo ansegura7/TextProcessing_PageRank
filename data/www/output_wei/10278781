@@ -1,0 +1,85 @@
+File name: 10278781
+
+Graph edges count: 30
+ access - attempt: 1
+ aspect - system: 1
+ browser - browser: 1
+ browser - frame: 1
+ control - version: 1
+ docum - object: 1
+ docum - polici: 1
+ docum - share: 1
+ docum - structur: 1
+ finegrain - behavior: 1
+ finegrain - share: 1
+ googl - caja: 1
+ interorigin - share: 1
+ isol - system: 1
+ javascript - isol: 1
+ javascript - librari: 1
+ javascript - object: 1
+ messagepass - channel: 1
+ multipl - view: 1
+ object - view: 6
+ polici - system: 2
+ privileg - escal: 1
+ programmat - polici: 1
+ rewritingbas - javascript: 1
+ sameorigin - share: 1
+ secur - challeng: 1
+ secur - share: 1
+ share - object: 1
+ simpl - docum: 1
+ structur - invari: 1
+
+PageRank scores count: 34
+ access: 0.01593882605305125
+ aspect: 0.01593882605305125
+ attempt: 0.029486828198144816
+ behavior: 0.022712827125598033
+ browser: 0.027719704314434376
+ caja: 0.029486828198144816
+ challeng: 0.022712827125598033
+ channel: 0.029486828198144816
+ control: 0.01593882605305125
+ docum: 0.029486828198144816
+ escal: 0.029486828198144816
+ finegrain: 0.01593882605305125
+ frame: 0.027719704314434376
+ googl: 0.01593882605305125
+ interorigin: 0.01593882605305125
+ invari: 0.034812886541434725
+ isol: 0.024293427375858948
+ javascript: 0.029486828198144816
+ librari: 0.024293427375858948
+ messagepass: 0.01593882605305125
+ multipl: 0.01593882605305125
+ object: 0.08398084432633678
+ polici: 0.035752779190250585
+ privileg: 0.01593882605305125
+ programmat: 0.01593882605305125
+ rewritingbas: 0.01593882605305125
+ sameorigin: 0.01593882605305125
+ secur: 0.01593882605305125
+ share: 0.06284878348043771
+ simpl: 0.01593882605305125
+ structur: 0.022204777045157026
+ system: 0.08052610377933793
+ version: 0.029486828198144816
+ view: 0.10087054587553108
+
+N-grams list: 10
+ docum object view
+ object view
+ share object
+ docum polici system
+ multipl view
+ polici system
+ javascript object
+ simpl docum share
+ view
+ aspect system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

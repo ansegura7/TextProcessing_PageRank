@@ -1,0 +1,66 @@
+File name: 14185350
+
+Graph edges count: 20
+ baselin - model: 1
+ behavior - dynam: 1
+ histor - behavior: 1
+ histor - evid: 1
+ improv - tempor: 1
+ inform - goal: 1
+ learn - algorithm: 1
+ learn - procedur: 1
+ model - framework: 1
+ predic - model: 1
+ queri - sugges: 1
+ result - rank: 1
+ signal - process: 1
+ signific - improv: 1
+ tempor - model: 2
+ tempor - user: 1
+ timevari - user: 1
+ user - behavior: 5
+ web - behavior: 1
+ web - user: 1
+
+PageRank scores count: 25
+ algorithm: 0.029562713304336397
+ baselin: 0.02074576372234133
+ behavior: 0.09777614586413898
+ dynam: 0.10385548770685946
+ evid: 0.029562713304336397
+ framework: 0.08763665384484466
+ goal: 0.03837966288633146
+ histor: 0.02074576372234133
+ improv: 0.03837966288633146
+ inform: 0.02074576372234133
+ learn: 0.02074576372234133
+ model: 0.0786951648500039
+ predic: 0.02074576372234133
+ procedur: 0.029562713304336397
+ process: 0.03837966288633146
+ queri: 0.02074576372234133
+ rank: 0.03837966288633146
+ result: 0.02074576372234133
+ signal: 0.02074576372234133
+ signific: 0.02074576372234133
+ sugges: 0.03837966288633146
+ tempor: 0.05336847717572308
+ timevari: 0.02074576372234133
+ user: 0.06987821526800883
+ web: 0.02074576372234133
+
+N-grams list: 10
+ tempor user behavior
+ tempor model framework
+ behavior dynam
+ timevari user behavior
+ web user behavior
+ improv tempor model
+ user behavior
+ web behavior
+ histor behavior
+ dynam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,56 @@
+File name: 85619
+
+Graph edges count: 13
+ content - distribu: 1
+ distribu - network: 1
+ flash - crowd: 1
+ flash - event: 2
+ legitim - request: 1
+ malici - request: 2
+ normal - oper: 1
+ overload - web: 1
+ paper - studi: 1
+ servic - attack: 2
+ special - atten: 1
+ tracedriven - simul: 1
+ web - site: 5
+
+PageRank scores count: 22
+ attack: 0.054985882003269454
+ atten: 0.054985882003269454
+ content: 0.029722098380145653
+ crowd: 0.03814335958785359
+ distribu: 0.054985882003269454
+ event: 0.04656462079556153
+ flash: 0.029722098380145653
+ legitim: 0.029722098380145653
+ malici: 0.029722098380145653
+ network: 0.0764600980829247
+ normal: 0.029722098380145653
+ oper: 0.054985882003269454
+ overload: 0.029722098380145653
+ paper: 0.029722098380145653
+ request: 0.08024966562639327
+ servic: 0.029722098380145653
+ simul: 0.054985882003269454
+ site: 0.0764600980829247
+ special: 0.029722098380145653
+ studi: 0.054985882003269454
+ tracedriven: 0.029722098380145653
+ web: 0.054985882003269454
+
+N-grams list: 10
+ overload web site
+ content distribu network
+ web site
+ malici request
+ legitim request
+ special atten
+ paper studi
+ servic attack
+ tracedriven simul
+ normal oper
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

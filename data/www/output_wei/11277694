@@ -1,0 +1,90 @@
+File name: 11277694
+
+Graph edges count: 30
+ attribut - inform: 1
+ augment - social: 1
+ criteria - link: 1
+ critic - task: 1
+ data - set: 1
+ essenti - role: 1
+ facebook - twitter: 1
+ graph - structur: 2
+ imdb - data: 1
+ link - recommend: 5
+ link - relev: 1
+ local - influenc: 1
+ network - growth: 1
+ network - site: 1
+ network - structur: 1
+ node - attribut: 1
+ onlin - social: 1
+ phenomen - success: 1
+ random - walk: 1
+ recommend - criteria: 1
+ site - link: 1
+ social - graph: 1
+ social - network: 3
+ stateoftheart - method: 1
+ structur - inform: 1
+ substanti - atten: 1
+ unifi - framework: 1
+ user - attribut: 2
+ user - experi: 1
+ walk - algorithm: 1
+
+PageRank scores count: 39
+ algorithm: 0.030258293901926022
+ atten: 0.021760094739966238
+ attribut: 0.028425348984640584
+ augment: 0.011762213372954723
+ criteria: 0.08091014849759914
+ critic: 0.011762213372954723
+ data: 0.021760094739966238
+ essenti: 0.011762213372954723
+ experi: 0.015094840495291896
+ facebook: 0.011762213372954723
+ framework: 0.021760094739966238
+ graph: 0.018510783295687495
+ growth: 0.02083112492961475
+ imdb: 0.011762213372954723
+ influenc: 0.021760094739966238
+ inform: 0.06700425713120596
+ link: 0.09824228675847592
+ local: 0.011762213372954723
+ method: 0.021760094739966238
+ network: 0.032007923141153034
+ node: 0.011762213372954723
+ onlin: 0.011762213372954723
+ phenomen: 0.011762213372954723
+ random: 0.011762213372954723
+ recommend: 0.08135050156295415
+ relev: 0.025679871010954605
+ role: 0.021760094739966238
+ set: 0.030258293901926022
+ site: 0.02083112492961475
+ social: 0.03175797610697775
+ stateoftheart: 0.011762213372954723
+ structur: 0.03656529073094912
+ substanti: 0.011762213372954723
+ success: 0.021760094739966238
+ task: 0.021760094739966238
+ twitter: 0.021760094739966238
+ unifi: 0.011762213372954723
+ user: 0.011762213372954723
+ walk: 0.021760094739966238
+
+N-grams list: 10
+ link recommend criteria
+ criteria link relev
+ site link recommend
+ link recommend
+ node attribut inform
+ structur inform
+ onlin social network
+ network structur
+ random walk algorithm
+ imdb data set
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

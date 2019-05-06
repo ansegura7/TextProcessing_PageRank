@@ -1,0 +1,68 @@
+File name: 4629499
+
+Graph edges count: 21
+ commercialqu - implement: 1
+ current - implement: 1
+ distinct - featur: 1
+ framework - interfac: 1
+ gener - sparql: 1
+ manag - framework: 1
+ manag - servic: 1
+ measur - result: 1
+ monitor - applic: 1
+ perform - framework: 2
+ perform - monitor: 1
+ queri - languag: 1
+ semant - technologi: 1
+ semant - web: 2
+ sparql - interfac: 1
+ sparql - standard: 1
+ sparql - web: 1
+ special - interfac: 1
+ system - readytomanag: 1
+ web - queri: 1
+ web - server: 2
+
+PageRank scores count: 26
+ applic: 0.04979715861461817
+ commercialqu: 0.023816895311893904
+ current: 0.023816895311893904
+ distinct: 0.023816895311893904
+ featur: 0.04406125632700372
+ framework: 0.04743531649618869
+ gener: 0.023816895311893904
+ implement: 0.06430561734211354
+ interfac: 0.0968652979747485
+ languag: 0.05605407202669094
+ manag: 0.023816895311893904
+ measur: 0.023816895311893904
+ monitor: 0.030565015650263844
+ perform: 0.023816895311893904
+ queri: 0.03792609025270239
+ readytomanag: 0.04406125632700372
+ result: 0.04406125632700372
+ semant: 0.023816895311893904
+ server: 0.05203528519351086
+ servic: 0.03393907581944881
+ sparql: 0.04406125632700372
+ special: 0.023816895311893904
+ standard: 0.0363009179378783
+ system: 0.023816895311893904
+ technologi: 0.030565015650263844
+ web: 0.04979715861461817
+
+N-grams list: 10
+ manag framework interfac
+ sparql interfac
+ semant web server
+ special interfac
+ gener sparql web
+ semant web queri
+ current implement
+ commercialqu implement
+ monitor applic
+ sparql standard
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

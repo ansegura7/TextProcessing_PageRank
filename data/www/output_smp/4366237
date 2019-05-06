@@ -1,0 +1,58 @@
+File name: 4366237
+
+Graph edges count: 15
+ applic - level: 1
+ applic - session: 1
+ art - mobil: 1
+ comput - due: 1
+ consequ - necess: 1
+ desktop - comput: 1
+ low - level: 1
+ mobil - comput: 2
+ person - wireless: 1
+ proxybas - architectur: 1
+ research - result: 1
+ session - handoff: 1
+ user - agent: 1
+ web - applic: 2
+ wireless - devic: 1
+
+PageRank scores count: 22
+ agent: 0.04768663437078616
+ applic: 0.04768663437078616
+ architectur: 0.04768663437078616
+ art: 0.02577655911934387
+ comput: 0.0882202735859544
+ consequ: 0.02577655911934387
+ desktop: 0.02577655911934387
+ devic: 0.0663101983345121
+ due: 0.10076379166740511
+ handoff: 0.06491343103723266
+ level: 0.06795345397837027
+ low: 0.02577655911934387
+ mobil: 0.04768663437078616
+ necess: 0.04768663437078616
+ person: 0.02577655911934387
+ proxybas: 0.02577655911934387
+ research: 0.02577655911934387
+ result: 0.04768663437078616
+ session: 0.046043378726927986
+ user: 0.02577655911934387
+ web: 0.02577655911934387
+ wireless: 0.04768663437078616
+
+N-grams list: 10
+ art mobil comput
+ person wireless devic
+ mobil comput
+ web applic session
+ applic level
+ desktop comput
+ session handoff
+ due
+ low level
+ proxybas architectur
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

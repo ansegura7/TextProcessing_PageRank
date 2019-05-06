@@ -1,0 +1,46 @@
+File name: 13505677
+
+Graph edges count: 10
+ comput - node: 1
+ contentbas - similar: 1
+ featur - learn: 1
+ heterogen - imagerich: 1
+ imagerich - inform: 3
+ imag - retriev: 2
+ inform - network: 4
+ node - similar: 1
+ popular - algorithm: 1
+ reinforc - learn: 1
+
+PageRank scores count: 15
+ algorithm: 0.07039138561637645
+ comput: 0.038049397630473755
+ contentbas: 0.038049397630473755
+ featur: 0.038049397630473755
+ heterogen: 0.038049397630473755
+ imag: 0.038049397630473755
+ imagerich: 0.07039138561637645
+ inform: 0.09788207540439374
+ learn: 0.10273337360227913
+ network: 0.12124916172420844
+ node: 0.07039138561637645
+ popular: 0.038049397630473755
+ reinforc: 0.038049397630473755
+ retriev: 0.07039138561637645
+ similar: 0.13022406339029644
+
+N-grams list: 10
+ imagerich inform network
+ comput node similar
+ inform network
+ heterogen imagerich inform
+ contentbas similar
+ featur learn
+ reinforc learn
+ network
+ popular algorithm
+ imag retriev
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

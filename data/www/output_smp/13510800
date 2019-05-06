@@ -1,0 +1,60 @@
+File name: 13510800
+
+Graph edges count: 16
+ adhoc - techniqu: 1
+ anonym - search: 1
+ aol - search: 1
+ applic - keyword: 1
+ keyword - gener: 1
+ keyword - sugges: 1
+ log - releas: 1
+ major - step: 1
+ nonneglig - fraction: 1
+ opposit - side: 1
+ origin - data: 1
+ privacyunawar - aol: 1
+ queri - click: 1
+ real - search: 1
+ search - log: 3
+ search - queri: 1
+
+PageRank scores count: 23
+ adhoc: 0.023689100689189974
+ anonym: 0.023689100689189974
+ aol: 0.04382483627500145
+ applic: 0.023689100689189974
+ click: 0.08038755664841274
+ data: 0.04382483627500145
+ fraction: 0.04382483627500145
+ gener: 0.042314656106065586
+ keyword: 0.04382483627500145
+ log: 0.06670406583437974
+ major: 0.023689100689189974
+ nonneglig: 0.023689100689189974
+ opposit: 0.023689100689189974
+ origin: 0.023689100689189974
+ privacyunawar: 0.023689100689189974
+ queri: 0.06670406583437974
+ real: 0.023689100689189974
+ releas: 0.08038755664841274
+ search: 0.10121168269456415
+ side: 0.04382483627500145
+ step: 0.04382483627500145
+ sugges: 0.042314656106065586
+ techniqu: 0.04382483627500145
+
+N-grams list: 10
+ real search log
+ anonym search log
+ privacyunawar aol search
+ search queri
+ queri click
+ log releas
+ applic keyword gener
+ keyword sugges
+ click
+ nonneglig fraction
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

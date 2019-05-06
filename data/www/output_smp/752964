@@ -1,0 +1,70 @@
+File name: 752964
+
+Graph edges count: 20
+ averag - accuraci: 1
+ book - recommend: 1
+ common - itembas: 1
+ complet - spectrum: 1
+ diversif - approach: 1
+ improv - recommend: 1
+ individu - recommend: 1
+ itembas - collabor: 1
+ list - similar: 2
+ offlin - analysi: 1
+ onlin - studi: 1
+ person - recommend: 1
+ prior - research: 1
+ recommend - data: 1
+ recommend - list: 5
+ recommend - system: 1
+ similar - metric: 1
+ topic - divers: 1
+ topic - diversif: 3
+ user - satisfac: 1
+
+PageRank scores count: 29
+ accuraci: 0.03692125926108253
+ analysi: 0.03692125926108253
+ approach: 0.04413088353571284
+ averag: 0.01995743743842299
+ book: 0.01995743743842299
+ collabor: 0.05134050781034314
+ common: 0.01995743743842299
+ complet: 0.01995743743842299
+ data: 0.04483770944499031
+ divers: 0.028439348349752758
+ diversif: 0.028439348349752758
+ improv: 0.01995743743842299
+ individu: 0.01995743743842299
+ itembas: 0.03692125926108253
+ list: 0.04483770944499031
+ metric: 0.06931650433508803
+ offlin: 0.01995743743842299
+ onlin: 0.01995743743842299
+ person: 0.01995743743842299
+ prior: 0.01995743743842299
+ recommend: 0.08781272472906114
+ research: 0.03692125926108253
+ satisfac: 0.03692125926108253
+ similar: 0.05806949046666476
+ spectrum: 0.03692125926108253
+ studi: 0.03692125926108253
+ system: 0.04483770944499031
+ topic: 0.01995743743842299
+ user: 0.01995743743842299
+
+N-grams list: 10
+ list similar metric
+ book recommend data
+ person recommend list
+ improv recommend list
+ recommend system
+ recommend list
+ common itembas collabor
+ individu recommend
+ list similar
+ topic diversif approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

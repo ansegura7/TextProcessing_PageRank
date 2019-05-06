@@ -1,0 +1,70 @@
+File name: 4537134
+
+Graph edges count: 19
+ cun - group: 1
+ ecommerc - area: 1
+ explosion - recommend: 1
+ great - harm: 1
+ group - shill: 4
+ inform - explosion: 1
+ inform - overload: 1
+ long - term: 1
+ normal - user: 1
+ recommend - system: 3
+ reliabl - protec: 1
+ shill - user: 2
+ similar - spread: 2
+ spread - algorithm: 2
+ system - imprec: 1
+ target - item: 1
+ tradition - method: 1
+ unfair - rate: 1
+ unscrupul - produc: 1
+
+PageRank scores count: 30
+ algorithm: 0.05037197365066044
+ area: 0.036224742955771355
+ cun: 0.01958094213825479
+ ecommerc: 0.01958094213825479
+ explosion: 0.027902842547013074
+ great: 0.01958094213825479
+ group: 0.036224742955771355
+ harm: 0.036224742955771355
+ imprec: 0.06750780682984485
+ inform: 0.01958094213825479
+ item: 0.036224742955771355
+ long: 0.01958094213825479
+ method: 0.036224742955771355
+ normal: 0.01958094213825479
+ overload: 0.027902842547013074
+ produc: 0.036224742955771355
+ protec: 0.036224742955771355
+ rate: 0.036224742955771355
+ recommend: 0.0432983583032159
+ reliabl: 0.01958094213825479
+ shill: 0.05037197365066044
+ similar: 0.01958094213825479
+ spread: 0.036224742955771355
+ system: 0.0563845466959883
+ target: 0.01958094213825479
+ term: 0.036224742955771355
+ tradition: 0.01958094213825479
+ unfair: 0.01958094213825479
+ unscrupul: 0.01958094213825479
+ user: 0.07904092055883273
+
+N-grams list: 10
+ group shill user
+ system imprec
+ similar spread algorithm
+ recommend system
+ normal user
+ inform explosion recommend
+ group shill
+ user
+ system
+ ecommerc area
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

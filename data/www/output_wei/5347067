@@ -1,0 +1,69 @@
+File name: 5347067
+
+Graph edges count: 21
+ complex - process: 1
+ data - process: 1
+ extern - resourc: 1
+ internet - usag: 2
+ internet - user: 1
+ process - platform: 1
+ raw - usag: 2
+ rulebas - system: 1
+ sociologi - research: 1
+ softwar - probe: 1
+ tempor - indic: 1
+ traffic - data: 1
+ usabl - inform: 1
+ usag - data: 4
+ usag - sociologi: 1
+ usercentr - internet: 1
+ usercentr - web: 1
+ web - page: 1
+ web - session: 1
+ web - traffic: 1
+ wide - varieti: 1
+
+PageRank scores count: 27
+ complex: 0.020152545359652958
+ data: 0.08061597529540274
+ extern: 0.020152545359652958
+ indic: 0.037282208915357974
+ inform: 0.037282208915357974
+ internet: 0.028717377137505464
+ page: 0.02828913554861284
+ platform: 0.1100874650886357
+ probe: 0.037282208915357974
+ process: 0.10580578791645029
+ raw: 0.020152545359652958
+ research: 0.0450209626682366
+ resourc: 0.037282208915357974
+ rulebas: 0.020152545359652958
+ session: 0.02828913554861284
+ sociologi: 0.02925696153951017
+ softwar: 0.020152545359652958
+ system: 0.037282208915357974
+ tempor: 0.020152545359652958
+ traffic: 0.02828913554861284
+ usabl: 0.020152545359652958
+ usag: 0.05355538929327773
+ user: 0.02828913554861284
+ usercentr: 0.020152545359652958
+ varieti: 0.037282208915357974
+ web: 0.028717377137505464
+ wide: 0.020152545359652958
+
+N-grams list: 10
+ data process platform
+ raw usag data
+ usag data
+ complex process
+ internet usag sociologi
+ platform
+ usercentr internet usag
+ data
+ usercentr web traffic
+ tempor indic
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

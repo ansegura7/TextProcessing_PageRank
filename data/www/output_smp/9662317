@@ -1,0 +1,86 @@
+File name: 9662317
+
+Graph edges count: 28
+ benchmark - data: 1
+ categor - new: 1
+ categor - problem: 1
+ categor - system: 1
+ categor - tag: 1
+ classif - method: 1
+ content - nontrivi: 1
+ expens - crossvalid: 1
+ extens - experi: 1
+ human - involv: 1
+ intens - human: 1
+ larg - scale: 3
+ metalabel - scale: 1
+ multilabel - categor: 1
+ multilabel - classif: 2
+ multilabel - instanc: 1
+ onlin - content: 1
+ page - categor: 1
+ queri - categor: 2
+ recommend - etc: 1
+ relev - set: 1
+ scale - multilabel: 1
+ scale - queri: 1
+ signific - improv: 1
+ tag - recommend: 1
+ unsatisfactori - perform: 1
+ webrel - task: 1
+ web - page: 1
+
+PageRank scores count: 37
+ benchmark: 0.014797010068117001
+ categor: 0.07407876473768307
+ classif: 0.02380037415248002
+ content: 0.02737446862601645
+ crossvalid: 0.02737446862601645
+ data: 0.02737446862601645
+ etc: 0.04943871374886339
+ expens: 0.014797010068117001
+ experi: 0.02737446862601645
+ extens: 0.014797010068117001
+ human: 0.02737446862601645
+ improv: 0.02737446862601645
+ instanc: 0.02380037415248002
+ intens: 0.014797010068117001
+ involv: 0.03806530840023098
+ larg: 0.014797010068117001
+ metalabel: 0.014797010068117001
+ method: 0.03502732809772502
+ multilabel: 0.03177657912128126
+ new: 0.03053874757487465
+ nontrivi: 0.03806530840023098
+ onlin: 0.014797010068117001
+ page: 0.02737446862601645
+ perform: 0.02737446862601645
+ problem: 0.03053874757487465
+ queri: 0.03177657912128126
+ recommend: 0.040754945506760454
+ relev: 0.014797010068117001
+ scale: 0.0399519271839159
+ set: 0.02737446862601645
+ signific: 0.014797010068117001
+ system: 0.03053874757487465
+ tag: 0.03053874757487465
+ task: 0.02737446862601645
+ unsatisfactori: 0.014797010068117001
+ web: 0.014797010068117001
+ webrel: 0.014797010068117001
+
+N-grams list: 10
+ queri categor tag
+ multilabel categor system
+ web page categor
+ categor problem
+ multilabel classif method
+ recommend etc
+ larg scale multilabel
+ larg scale queri
+ intens human involv
+ content nontrivi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

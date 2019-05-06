@@ -1,0 +1,85 @@
+File name: 13403801
+
+Graph edges count: 28
+ densiti - estim: 1
+ experiment - result: 1
+ flickr - photo: 1
+ free - tag: 1
+ group - recommend: 1
+ imag - content: 1
+ imag - search: 2
+ initi - relev: 1
+ photo - collec: 1
+ probabl - densiti: 1
+ random - order: 1
+ random - walk: 1
+ rank - approach: 1
+ rank - method: 1
+ rank - scheme: 1
+ rank - social: 1
+ relat - applic: 1
+ relev - inform: 1
+ relev - score: 2
+ similar - graph: 1
+ socialtag - relat: 1
+ social - media: 1
+ tagbas - imag: 1
+ tag - rank: 5
+ tag - recommend: 1
+ tag - similar: 1
+ web - imag: 1
+ web - site: 1
+
+PageRank scores count: 36
+ applic: 0.04406819473600961
+ approach: 0.02485948167753187
+ collec: 0.04406819473600961
+ content: 0.028172524234374788
+ densiti: 0.031691413124049675
+ estim: 0.04406819473600961
+ experiment: 0.01713049358056739
+ flickr: 0.01713049358056739
+ free: 0.01713049358056739
+ graph: 0.0349624196929248
+ group: 0.01713049358056739
+ imag: 0.038971872895790814
+ inform: 0.02610972729904813
+ initi: 0.01713049358056739
+ media: 0.03826105300646949
+ method: 0.02485948167753187
+ order: 0.024410953352308532
+ photo: 0.031691413124049675
+ probabl: 0.01713049358056739
+ random: 0.01713049358056739
+ rank: 0.036371708691597546
+ recommend: 0.035539656146255705
+ relat: 0.031691413124049675
+ relev: 0.031691413124049675
+ result: 0.031691413124049675
+ scheme: 0.02485948167753187
+ score: 0.035088961017528876
+ search: 0.039214554888182186
+ similar: 0.020978736602773423
+ site: 0.024410953352308532
+ social: 0.02485948167753187
+ socialtag: 0.01713049358056739
+ tag: 0.031691413124049675
+ tagbas: 0.01713049358056739
+ walk: 0.024410953352308532
+ web: 0.01713049358056739
+
+N-grams list: 10
+ web imag search
+ tagbas imag search
+ tag rank approach
+ tag rank method
+ tag rank social
+ tag rank scheme
+ flickr photo collec
+ socialtag relat applic
+ probabl densiti estim
+ tag similar graph
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

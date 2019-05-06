@@ -1,0 +1,81 @@
+File name: 4673123
+
+Graph edges count: 25
+ addition - markup: 1
+ annot - portlet: 1
+ annot - techniqu: 1
+ apibas - approach: 1
+ background - servic: 1
+ cooper - environ: 1
+ deep - annot: 5
+ definit - answer: 1
+ fragment - b: 1
+ improv - portlet: 1
+ input - form: 1
+ input - process: 1
+ interoper - due: 1
+ multistep - userfac: 1
+ output - process: 1
+ portal - framework: 1
+ portal - set: 1
+ portlet - consum: 1
+ portlet - interoper: 3
+ portlet - markup: 1
+ portlet - produc: 1
+ servic - deep: 1
+ share - scope: 1
+ standard - effort: 1
+ userfac - applic: 1
+
+PageRank scores count: 35
+ addition: 0.01700059127438853
+ annot: 0.05417450916974835
+ answer: 0.03145109385761878
+ apibas: 0.01700059127438853
+ applic: 0.04373402105336449
+ approach: 0.03145109385761878
+ b: 0.03145109385761878
+ background: 0.01700059127438853
+ consum: 0.02471791981047979
+ cooper: 0.01700059127438853
+ deep: 0.04373402105336449
+ definit: 0.01700059127438853
+ due: 0.05113028162465149
+ effort: 0.03145109385761878
+ environ: 0.03145109385761878
+ form: 0.024225842566003658
+ fragment: 0.01700059127438853
+ framework: 0.024225842566003658
+ improv: 0.01700059127438853
+ input: 0.01700059127438853
+ interoper: 0.040152576882662314
+ markup: 0.03916842239371004
+ multistep: 0.01700059127438853
+ output: 0.01700059127438853
+ portal: 0.01700059127438853
+ portlet: 0.05447526025476183
+ process: 0.03867634514923391
+ produc: 0.02471791981047979
+ scope: 0.03145109385761878
+ servic: 0.03145109385761878
+ set: 0.024225842566003658
+ share: 0.01700059127438853
+ standard: 0.01700059127438853
+ techniqu: 0.04002475767153158
+ userfac: 0.03145109385761878
+
+N-grams list: 10
+ deep annot portlet
+ portlet interoper due
+ deep annot techniqu
+ improv portlet interoper
+ deep annot
+ portlet interoper
+ portlet markup
+ background servic deep
+ multistep userfac applic
+ portlet produc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

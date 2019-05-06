@@ -1,0 +1,89 @@
+File name: 14146914
+
+Graph edges count: 29
+ approxim - algorithm: 1
+ bipartit - graph: 1
+ budget - alloc: 1
+ common - set: 1
+ fix - budget: 1
+ inapproxim - result: 1
+ independ - trial: 1
+ influenc - brand: 1
+ influenc - maxim: 1
+ influenc - model: 2
+ main - result: 1
+ major - decision: 1
+ market - budget: 1
+ market - plan: 1
+ media - channel: 1
+ neighbor - target: 1
+ plan - deal: 1
+ potenti - custom: 1
+ potenti - influenc: 1
+ probabilist - model: 1
+ similar - situat: 1
+ social - network: 1
+ sourcesid - influenc: 1
+ sourcesid - model: 1
+ sourc - node: 3
+ targetsid - influenc: 1
+ targetsid - model: 1
+ target - node: 5
+ underli - model: 1
+
+PageRank scores count: 39
+ algorithm: 0.029934669606197277
+ alloc: 0.04747072267955744
+ approxim: 0.016180902489836366
+ bipartit: 0.016180902489836366
+ brand: 0.024003357537266633
+ budget: 0.03681155316437773
+ channel: 0.029934669606197277
+ common: 0.016180902489836366
+ custom: 0.023057786048016823
+ deal: 0.035780020630650666
+ decision: 0.029934669606197277
+ fix: 0.016180902489836366
+ graph: 0.029934669606197277
+ inapproxim: 0.016180902489836366
+ independ: 0.016180902489836366
+ influenc: 0.03681155316437773
+ main: 0.016180902489836366
+ major: 0.016180902489836366
+ market: 0.016180902489836366
+ maxim: 0.024003357537266633
+ media: 0.016180902489836366
+ model: 0.07308711393377963
+ neighbor: 0.016180902489836366
+ network: 0.029934669606197277
+ node: 0.05537913877146496
+ plan: 0.023057786048016823
+ potenti: 0.016180902489836366
+ probabilist: 0.016180902489836366
+ result: 0.04368843672255819
+ set: 0.029934669606197277
+ similar: 0.016180902489836366
+ situat: 0.029934669606197277
+ social: 0.016180902489836366
+ sourc: 0.016180902489836366
+ sourcesid: 0.016180902489836366
+ target: 0.029934669606197277
+ targetsid: 0.016180902489836366
+ trial: 0.029934669606197277
+ underli: 0.016180902489836366
+
+N-grams list: 10
+ sourcesid influenc model
+ targetsid influenc model
+ neighbor target node
+ targetsid model
+ underli model
+ probabilist model
+ sourcesid model
+ target node
+ budget alloc
+ market plan deal
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

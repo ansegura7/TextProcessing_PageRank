@@ -1,0 +1,83 @@
+File name: 589396
+
+Graph edges count: 26
+ actual - xslt: 1
+ applic - develop: 1
+ approach - xqueri: 1
+ code - base: 1
+ common - sublanguag: 1
+ compil - rule: 1
+ databas - manag: 1
+ declar - templat: 1
+ develop - infrastructur: 1
+ function - approach: 2
+ integr - part: 1
+ manag - system: 1
+ oper - function: 1
+ program - paradigm: 1
+ queri - languag: 1
+ relat - databas: 1
+ standard - queri: 1
+ templatebas - approach: 1
+ tight - connec: 1
+ xml - applic: 1
+ xml - languag: 1
+ xqueri - interoper: 1
+ xqueri - runtim: 1
+ xslt - code: 1
+ xslt - stylesheet: 1
+ xslt - user: 1
+
+PageRank scores count: 36
+ actual: 0.015315141094087511
+ applic: 0.0218240760590747
+ approach: 0.052416070394514507
+ base: 0.0351565445123568
+ code: 0.023342827550905047
+ common: 0.015315141094087511
+ compil: 0.015315141094087511
+ connec: 0.028333011024061893
+ databas: 0.028333011024061893
+ declar: 0.015315141094087511
+ develop: 0.03386560574430101
+ function: 0.028333011024061893
+ infrastructur: 0.04410090597674337
+ integr: 0.015315141094087511
+ interoper: 0.04075938148909307
+ languag: 0.04590713542952731
+ manag: 0.03939820046454012
+ oper: 0.015315141094087511
+ paradigm: 0.028333011024061893
+ part: 0.028333011024061893
+ program: 0.015315141094087511
+ queri: 0.028333011024061893
+ relat: 0.015315141094087511
+ rule: 0.028333011024061893
+ runtim: 0.04075938148909307
+ standard: 0.015315141094087511
+ stylesheet: 0.023342827550905047
+ sublanguag: 0.028333011024061893
+ system: 0.048803611488946616
+ templat: 0.028333011024061893
+ templatebas: 0.015315141094087511
+ tight: 0.015315141094087511
+ user: 0.023342827550905047
+ xml: 0.015315141094087511
+ xqueri: 0.05986880092942484
+ xslt: 0.028333011024061893
+
+N-grams list: 10
+ approach xqueri
+ xqueri runtim
+ xqueri interoper
+ oper function approach
+ standard queri languag
+ xslt code base
+ relat databas manag
+ function approach
+ xml applic develop
+ templatebas approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

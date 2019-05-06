@@ -1,0 +1,56 @@
+File name: 8956632
+
+Graph edges count: 16
+ data - transform: 1
+ design - methodologi: 1
+ develop - environ: 1
+ gener - layer: 1
+ gener - semant: 1
+ hera - methodologi: 1
+ hera - model: 2
+ hera - present: 2
+ inform - system: 2
+ integr - develop: 1
+ modeldriven - design: 1
+ model - instanc: 1
+ present - gener: 3
+ semant - web: 2
+ web - inform: 2
+ web - technologi: 1
+
+PageRank scores count: 19
+ data: 0.028084803796256917
+ design: 0.05195688702307529
+ develop: 0.05195688702307529
+ environ: 0.07224815776587092
+ gener: 0.06007339532019354
+ hera: 0.028084803796256917
+ inform: 0.06982456440967087
+ instanc: 0.06007339532019354
+ integr: 0.028084803796256917
+ layer: 0.053615996807339174
+ methodologi: 0.0770225744112346
+ model: 0.037633637086984265
+ modeldriven: 0.028084803796256917
+ present: 0.037633637086984265
+ semant: 0.053615996807339174
+ system: 0.08743568354447714
+ technologi: 0.04895468410296389
+ transform: 0.05195688702307529
+ web: 0.07365840108249522
+
+N-grams list: 10
+ web inform system
+ semant web inform
+ semant web technologi
+ modeldriven design methodologi
+ integr develop environ
+ present gener layer
+ hera present gener
+ hera methodologi
+ model instanc
+ system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

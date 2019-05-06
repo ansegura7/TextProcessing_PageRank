@@ -1,0 +1,63 @@
+File name: 6746528
+
+Graph edges count: 18
+ answer - characterist: 1
+ answer - rate: 1
+ content - characterist: 1
+ countless - number: 1
+ discus - everydai: 1
+ divers - questionansw: 1
+ everydai - advic: 1
+ expert - share: 1
+ factual - expert: 1
+ forum - categori: 1
+ knowledg - share: 2
+ questionansw - forum: 1
+ relat - categori: 1
+ share - forum: 1
+ specif - topic: 1
+ technic - knowledg: 1
+ user - attribut: 1
+ yahoo - answer: 2
+
+PageRank scores count: 24
+ advic: 0.0524281653886983
+ answer: 0.03770344255358284
+ attribut: 0.03770344255358284
+ categori: 0.14330135928552995
+ characterist: 0.05372740563885555
+ content: 0.02038023921815289
+ countless: 0.02038023921815289
+ discus: 0.02038023921815289
+ divers: 0.02038023921815289
+ everydai: 0.03770344255358284
+ expert: 0.03770344255358284
+ factual: 0.02038023921815289
+ forum: 0.12423284321405544
+ knowledg: 0.03770344255358284
+ number: 0.03770344255358284
+ questionansw: 0.03770344255358284
+ rate: 0.036404202303425594
+ relat: 0.02038023921815289
+ share: 0.08447609155924371
+ specif: 0.02038023921815289
+ technic: 0.02038023921815289
+ topic: 0.03770344255358284
+ user: 0.02038023921815289
+ yahoo: 0.02038023921815289
+
+N-grams list: 10
+ forum categori
+ expert share forum
+ divers questionansw forum
+ relat categori
+ categori
+ knowledg share
+ discus everydai advic
+ answer characterist
+ answer rate
+ content characterist
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

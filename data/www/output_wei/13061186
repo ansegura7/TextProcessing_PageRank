@@ -1,0 +1,43 @@
+File name: 13061186
+
+Graph edges count: 9
+ effect - techniqu: 1
+ fake - review: 2
+ genuin - user: 1
+ group - review: 1
+ individu - spammer: 1
+ onlin - review: 1
+ review - spam: 1
+ spammer - group: 1
+ target - product: 1
+
+PageRank scores count: 13
+ effect: 0.038442677522878804
+ fake: 0.038442677522878804
+ genuin: 0.038442677522878804
+ group: 0.09889378792760573
+ individu: 0.038442677522878804
+ onlin: 0.038442677522878804
+ product: 0.07111895341732578
+ review: 0.1878549490502376
+ spam: 0.19811938421558076
+ spammer: 0.07111895341732578
+ target: 0.038442677522878804
+ techniqu: 0.07111895341732578
+ user: 0.07111895341732578
+
+N-grams list: 10
+ group review spam
+ fake review
+ onlin review
+ spammer group
+ genuin user
+ target product
+ individu spammer
+ effect techniqu
+ group
+ spammer
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

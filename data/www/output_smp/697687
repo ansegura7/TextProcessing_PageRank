@@ -1,0 +1,87 @@
+File name: 697687
+
+Graph edges count: 28
+ actual - mean: 1
+ background - knowledg: 1
+ base - wikipedia: 1
+ casual - user: 1
+ design - implement: 1
+ direct - access: 1
+ easytous - manner: 1
+ encyclopaed - knowledg: 1
+ extern - applic: 1
+ e - g: 1
+ knowledg - base: 2
+ knowledg - e: 1
+ numer - data: 1
+ open - semant: 1
+ plain - text: 1
+ rdf - export: 1
+ scope - open: 1
+ semant - enhanc: 1
+ semant - knowledg: 1
+ semant - statem: 1
+ semant - technologi: 1
+ semant - wikipedia: 1
+ size - scope: 1
+ specif - wai: 1
+ structur - knowledg: 1
+ wide - rang: 1
+ wikipedia - benefit: 1
+ wikipedia - wikipedia: 1
+
+PageRank scores count: 38
+ access: 0.02602969870254459
+ actual: 0.014070107406780857
+ applic: 0.02602969870254459
+ background: 0.014070107406780857
+ base: 0.03853779422885484
+ benefit: 0.05431530748392672
+ casual: 0.014070107406780857
+ data: 0.02602969870254459
+ design: 0.014070107406780857
+ direct: 0.014070107406780857
+ e: 0.03853779422885484
+ easytous: 0.014070107406780857
+ encyclopaed: 0.014070107406780857
+ enhanc: 0.021692253929353478
+ export: 0.02602969870254459
+ extern: 0.014070107406780857
+ g: 0.046827232501307464
+ implement: 0.02602969870254459
+ knowledg: 0.057571027816644665
+ manner: 0.02602969870254459
+ mean: 0.02602969870254459
+ numer: 0.014070107406780857
+ open: 0.03619535130394376
+ plain: 0.014070107406780857
+ rang: 0.02602969870254459
+ rdf: 0.014070107406780857
+ scope: 0.02602969870254459
+ semant: 0.04483615601513305
+ size: 0.014070107406780857
+ specif: 0.014070107406780857
+ statem: 0.021692253929353478
+ structur: 0.014070107406780857
+ technologi: 0.021692253929353478
+ text: 0.02602969870254459
+ user: 0.02602969870254459
+ wai: 0.02602969870254459
+ wide: 0.014070107406780857
+ wikipedia: 0.09469457910102594
+
+N-grams list: 10
+ semant wikipedia wikipedia
+ wikipedia benefit
+ open semant knowledg
+ base wikipedia
+ background knowledg base
+ structur knowledg e
+ wikipedia
+ size scope open
+ encyclopaed knowledg
+ semant statem
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,65 @@
+File name: 4332331
+
+Graph edges count: 18
+ advertis - budget: 1
+ advertis - network: 2
+ arbitrari - size: 1
+ comprehens - experi: 1
+ content - publish: 1
+ data - sampl: 1
+ entir - internet: 1
+ inflat - attack: 1
+ internet - advertis: 2
+ network - model: 1
+ network - stream: 1
+ numer - site: 1
+ publish - content: 1
+ publish - theoret: 1
+ real - network: 1
+ similarityseek - algorithm: 1
+ sophist - type: 1
+ theoret - result: 1
+
+PageRank scores count: 26
+ advertis: 0.055723615406180746
+ algorithm: 0.040073348299877305
+ arbitrari: 0.021661269351285033
+ attack: 0.040073348299877305
+ budget: 0.04534380589891185
+ comprehens: 0.021661269351285033
+ content: 0.048324562017443895
+ data: 0.021661269351285033
+ entir: 0.021661269351285033
+ experi: 0.040073348299877305
+ inflat: 0.021661269351285033
+ internet: 0.040073348299877305
+ model: 0.048757520411474284
+ network: 0.06375588484750412
+ numer: 0.021661269351285033
+ publish: 0.06273715921449144
+ real: 0.021661269351285033
+ result: 0.06273715921449144
+ sampl: 0.040073348299877305
+ similarityseek: 0.021661269351285033
+ site: 0.040073348299877305
+ size: 0.040073348299877305
+ sophist: 0.021661269351285033
+ stream: 0.048757520411474284
+ theoret: 0.048324562017443895
+ type: 0.040073348299877305
+
+N-grams list: 10
+ publish theoret result
+ advertis network stream
+ advertis network model
+ publish content
+ content publish
+ advertis budget
+ internet advertis
+ real network
+ result
+ sophist type
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

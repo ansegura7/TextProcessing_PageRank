@@ -1,0 +1,102 @@
+File name: 4363952
+
+Graph edges count: 33
+ access - technologi: 1
+ addition - cost: 1
+ andhra - pradesh: 1
+ antenna - type: 2
+ ashwini - project: 1
+ detail - plan: 1
+ digit - divid: 1
+ distanc - wifi: 1
+ distanc - wireless: 1
+ domain - knowledg: 1
+ height - antenna: 2
+ import - issu: 1
+ input - set: 1
+ longdist - access: 1
+ long - distanc: 2
+ lowcost - longdist: 1
+ network - perform: 1
+ network - plan: 1
+ network - topologi: 2
+ nontrivi - task: 1
+ optim - criterion: 1
+ perform - constraint: 1
+ pradesh - india: 1
+ problem - formul: 1
+ random - input: 1
+ reallif - instanc: 1
+ research - effort: 1
+ system - cost: 1
+ topologi - tower: 1
+ tower - height: 2
+ tractabl - subpart: 1
+ variabl - constraint: 1
+ wifi - network: 1
+
+PageRank scores count: 48
+ access: 0.029583542708419168
+ addition: 0.011499919420182381
+ andhra: 0.011499919420182381
+ antenna: 0.04420468322884274
+ ashwini: 0.011499919420182381
+ constraint: 0.0362807530272288
+ cost: 0.031049782434492426
+ criterion: 0.021274850927337403
+ detail: 0.011499919420182381
+ digit: 0.011499919420182381
+ distanc: 0.021274850927337403
+ divid: 0.021274850927337403
+ domain: 0.011499919420182381
+ effort: 0.021274850927337403
+ formul: 0.021274850927337403
+ height: 0.038476192716071
+ import: 0.011499919420182381
+ india: 0.029583542708419168
+ input: 0.021274850927337403
+ instanc: 0.021274850927337403
+ issu: 0.021274850927337403
+ knowledg: 0.021274850927337403
+ long: 0.011499919420182381
+ longdist: 0.021274850927337403
+ lowcost: 0.011499919420182381
+ network: 0.02896039082483804
+ nontrivi: 0.011499919420182381
+ optim: 0.011499919420182381
+ perform: 0.017654002470460464
+ plan: 0.027428933977615488
+ pradesh: 0.021274850927337403
+ problem: 0.011499919420182381
+ project: 0.021274850927337403
+ random: 0.011499919420182381
+ reallif: 0.011499919420182381
+ research: 0.011499919420182381
+ set: 0.029583542708419168
+ subpart: 0.021274850927337403
+ system: 0.011499919420182381
+ task: 0.021274850927337403
+ technologi: 0.03664593072233867
+ topologi: 0.023808085520738546
+ tower: 0.03173679211281014
+ tractabl: 0.011499919420182381
+ type: 0.0490739001646987
+ variabl: 0.011499919420182381
+ wifi: 0.020541731064300777
+ wireless: 0.020541731064300777
+
+N-grams list: 10
+ height antenna type
+ tower height antenna
+ network topologi tower
+ network perform constraint
+ random input set
+ andhra pradesh india
+ lowcost longdist access
+ network plan
+ long distanc wifi
+ long distanc wireless
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,76 @@
+File name: 4590503
+
+Graph edges count: 23
+ accuraci - precision: 1
+ classifi - composi: 1
+ databas - directori: 1
+ directori - hiddenwebcrawl: 1
+ effectiveand - scalabl: 1
+ entri - point: 2
+ focus - crawler: 1
+ formschema - match: 1
+ form - featur: 1
+ hiddenweb - inform: 1
+ high - accuraci: 1
+ inform - sucha: 1
+ metasearch - onlin: 1
+ modular - classifi: 1
+ onlin - databas: 4
+ onlin - databasedomain: 1
+ partitioningth - space: 1
+ real - web: 1
+ scalabl - solution: 1
+ similar - onlin: 1
+ sucha - metasearch: 1
+ web - data: 1
+ web - form: 2
+
+PageRank scores count: 32
+ accuraci: 0.028852154212575268
+ classifi: 0.028852154212575268
+ composi: 0.04012009011451345
+ crawler: 0.028852154212575268
+ data: 0.02785792457416896
+ databas: 0.04581126769592584
+ databasedomain: 0.04581126769592584
+ directori: 0.05453533657536143
+ effectiveand: 0.015595759033824472
+ entri: 0.015595759033824472
+ featur: 0.03927499492186809
+ focus: 0.015595759033824472
+ form: 0.02785792457416896
+ formschema: 0.015595759033824472
+ hiddenweb: 0.015595759033824472
+ hiddenwebcrawl: 0.06195079512288168
+ high: 0.015595759033824472
+ inform: 0.028852154212575268
+ match: 0.028852154212575268
+ metasearch: 0.049697835631160904
+ modular: 0.015595759033824472
+ onlin: 0.07109531449906205
+ partitioningth: 0.015595759033824472
+ point: 0.028852154212575268
+ precision: 0.04012009011451345
+ real: 0.015595759033824472
+ scalabl: 0.028852154212575268
+ similar: 0.015595759033824472
+ solution: 0.04012009011451345
+ space: 0.028852154212575268
+ sucha: 0.04012009011451345
+ web: 0.028852154212575268
+
+N-grams list: 10
+ metasearch onlin databas
+ onlin databasedomain
+ onlin databas
+ directori hiddenwebcrawl
+ similar onlin
+ effectiveand scalabl solution
+ modular classifi composi
+ hiddenweb inform sucha
+ high accuraci precision
+ real web data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

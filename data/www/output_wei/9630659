@@ -1,0 +1,70 @@
+File name: 9630659
+
+Graph edges count: 21
+ advertis - messag: 1
+ advertis - network: 1
+ banner - ad: 1
+ banner - advertis: 1
+ crosssit - cooki: 1
+ frequenc - cap: 2
+ howevercrosssit - cooki: 1
+ linear - program: 1
+ onlin - advertis: 1
+ optimizeanddispatch - approach: 1
+ payperimpres - advertis: 1
+ platform - provid: 1
+ preserv - frequenc: 1
+ privaci - preserv: 1
+ program - approach: 1
+ simul - result: 1
+ track - mechan: 1
+ tradition - approach: 1
+ uniqu - user: 1
+ user - privaci: 1
+ user - transition: 1
+
+PageRank scores count: 28
+ ad: 0.02831335333152254
+ advertis: 0.06209068713053189
+ approach: 0.0848903874448632
+ banner: 0.019869019881770204
+ cap: 0.07290898659842991
+ cooki: 0.05364635368077956
+ crosssit: 0.019869019881770204
+ frequenc: 0.062399960843129064
+ howevercrosssit: 0.019869019881770204
+ linear: 0.019869019881770204
+ mechan: 0.036757686781274876
+ messag: 0.04625756191224625
+ network: 0.04625756191224625
+ onlin: 0.019869019881770204
+ optimizeanddispatch: 0.019869019881770204
+ payperimpres: 0.019869019881770204
+ platform: 0.019869019881770204
+ preserv: 0.05003640113101043
+ privaci: 0.03549103676381203
+ program: 0.036757686781274876
+ provid: 0.036757686781274876
+ result: 0.036757686781274876
+ simul: 0.019869019881770204
+ track: 0.019869019881770204
+ tradition: 0.019869019881770204
+ transition: 0.03549103676381203
+ uniqu: 0.019869019881770204
+ user: 0.036757686781274876
+
+N-grams list: 10
+ privaci preserv frequenc
+ linear program approach
+ frequenc cap
+ advertis messag
+ advertis network
+ tradition approach
+ optimizeanddispatch approach
+ approach
+ banner advertis
+ payperimpres advertis
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

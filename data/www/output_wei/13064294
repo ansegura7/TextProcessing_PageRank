@@ -1,0 +1,84 @@
+File name: 13064294
+
+Graph edges count: 25
+ adjac - matrix: 1
+ advanc - interac: 1
+ concept - defini: 2
+ continu - zoom: 1
+ data - visual: 1
+ easi - navig: 1
+ essenti - part: 1
+ graph - layout: 1
+ hybrid - visual: 2
+ instanc - set: 1
+ interac - techniqu: 1
+ knowledg - base: 1
+ larg - instanc: 1
+ local - structur: 1
+ machineprocess - mean: 1
+ matrix - represent: 1
+ ontolog - knowledg: 1
+ peripher - inform: 1
+ popul - ontologi: 1
+ semant - web: 1
+ smooth - continu: 1
+ structur - properti: 1
+ visual - techniqu: 1
+ visual - tool: 1
+ web - data: 1
+
+PageRank scores count: 38
+ adjac: 0.014842244106492725
+ advanc: 0.014842244106492725
+ base: 0.038181672963952536
+ concept: 0.014842244106492725
+ continu: 0.02745815159701154
+ data: 0.038181672963952536
+ defini: 0.02745815159701154
+ easi: 0.014842244106492725
+ essenti: 0.014842244106492725
+ graph: 0.014842244106492725
+ hybrid: 0.014842244106492725
+ inform: 0.02745815159701154
+ instanc: 0.02745815159701154
+ interac: 0.02745815159701154
+ knowledg: 0.02745815159701154
+ larg: 0.014842244106492725
+ layout: 0.02745815159701154
+ local: 0.014842244106492725
+ machineprocess: 0.014842244106492725
+ matrix: 0.02745815159701154
+ mean: 0.02745815159701154
+ navig: 0.02745815159701154
+ ontolog: 0.014842244106492725
+ ontologi: 0.02745815159701154
+ part: 0.02745815159701154
+ peripher: 0.014842244106492725
+ popul: 0.014842244106492725
+ properti: 0.038181672963952536
+ represent: 0.038181672963952536
+ semant: 0.014842244106492725
+ set: 0.038181672963952536
+ smooth: 0.014842244106492725
+ structur: 0.02745815159701154
+ techniqu: 0.06364451675091029
+ tool: 0.040305087893450484
+ visual: 0.0599125736163712
+ web: 0.02745815159701154
+ zoom: 0.038181672963952536
+
+N-grams list: 10
+ visual techniqu
+ advanc interac techniqu
+ visual tool
+ larg instanc set
+ adjac matrix represent
+ local structur properti
+ semant web data
+ smooth continu zoom
+ hybrid visual
+ knowledg base
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

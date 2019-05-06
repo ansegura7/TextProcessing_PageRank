@@ -1,0 +1,36 @@
+File name: 13526671
+
+Graph edges count: 8
+ busi - applic: 1
+ busi - model: 1
+ busi - process: 1
+ busi - system: 1
+ collabor - system: 1
+ model - busi: 1
+ process - specif: 1
+ semant - wiki: 1
+
+PageRank scores count: 9
+ applic: 0.09777388127521915
+ busi: 0.1491807657602424
+ collabor: 0.06607296667630612
+ model: 0.09777388127521915
+ process: 0.09777388127521915
+ semant: 0.06607296667630612
+ specif: 0.1491807657602424
+ system: 0.15393590295007933
+ wiki: 0.12223498835116631
+
+N-grams list: 8
+ busi process specif
+ model busi applic
+ busi system
+ busi model
+ collabor system
+ semant wiki
+ system
+ collabor
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,57 @@
+File name: 527314
+
+Graph edges count: 14
+ algorithm - tool: 1
+ comprehens - studi: 1
+ electron - publish: 1
+ gener - domain: 1
+ great - deal: 1
+ histori - xml: 1
+ import - role: 1
+ largescal - electron: 1
+ lingua - franca: 1
+ publish - xml: 1
+ short - histori: 1
+ valuabl - input: 1
+ xml - docum: 2
+ xml - web: 4
+
+PageRank scores count: 22
+ algorithm: 0.02562336440860235
+ comprehens: 0.02562336440860235
+ deal: 0.04740322415591434
+ docum: 0.06017438941524441
+ domain: 0.04740322415591434
+ electron: 0.04740322415591434
+ franca: 0.04740322415591434
+ gener: 0.02562336440860235
+ great: 0.02562336440860235
+ histori: 0.04740322415591434
+ import: 0.02562336440860235
+ input: 0.04740322415591434
+ largescal: 0.02562336440860235
+ lingua: 0.02562336440860235
+ publish: 0.06591610494112954
+ role: 0.04740322415591434
+ short: 0.02562336440860235
+ studi: 0.04740322415591434
+ tool: 0.04740322415591434
+ valuabl: 0.02562336440860235
+ web: 0.09472541442188648
+ xml: 0.12194479414108964
+
+N-grams list: 10
+ xml web
+ short histori xml
+ xml docum
+ largescal electron publish
+ xml
+ web
+ lingua franca
+ valuabl input
+ great deal
+ comprehens studi
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,57 @@
+File name: 13536936
+
+Graph edges count: 15
+ context - awar: 1
+ core - semant: 1
+ dynam - semant: 1
+ interact - soabas: 1
+ main - featur: 1
+ orchestr - process: 1
+ orient - architectur: 1
+ semant - portal: 1
+ semant - web: 1
+ servic - orient: 1
+ soabas - portal: 1
+ stateoftheart - technologi: 1
+ user - interfac: 2
+ user - level: 1
+ web - technologi: 1
+
+PageRank scores count: 21
+ architectur: 0.07162670583280838
+ awar: 0.051509973096480276
+ context: 0.027843228700800148
+ core: 0.027843228700800148
+ dynam: 0.027843228700800148
+ featur: 0.051509973096480276
+ interact: 0.027843228700800148
+ interfac: 0.03967660089864021
+ level: 0.03967660089864021
+ main: 0.027843228700800148
+ orchestr: 0.027843228700800148
+ orient: 0.051509973096480276
+ portal: 0.10357681076697654
+ process: 0.051509973096480276
+ semant: 0.0751767174921604
+ servic: 0.027843228700800148
+ soabas: 0.051509973096480276
+ stateoftheart: 0.027843228700800148
+ technologi: 0.10233430668620333
+ user: 0.027843228700800148
+ web: 0.05979333363496831
+
+N-grams list: 10
+ semant web technologi
+ dynam semant portal
+ interact soabas portal
+ servic orient architectur
+ stateoftheart technologi
+ portal
+ core semant
+ main featur
+ orchestr process
+ context awar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

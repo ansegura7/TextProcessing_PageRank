@@ -1,0 +1,62 @@
+File name: 3605862
+
+Graph edges count: 16
+ appar - advertis: 1
+ content - extrac: 3
+ engin - snippet: 1
+ extrac - previou: 1
+ extrac - result: 1
+ maximum - threshold: 1
+ new - websit: 1
+ nonlink - text: 1
+ previou - work: 1
+ ratio - promin: 1
+ search - engin: 1
+ shop - site: 1
+ tabl - cell: 1
+ text - ratio: 2
+ threshold - valu: 1
+ web - portal: 1
+
+PageRank scores count: 25
+ advertis: 0.043381468198892305
+ appar: 0.02344944226967152
+ cell: 0.043381468198892305
+ content: 0.02344944226967152
+ engin: 0.043381468198892305
+ extrac: 0.043381468198892305
+ maximum: 0.02344944226967152
+ new: 0.02344944226967152
+ nonlink: 0.02344944226967152
+ portal: 0.043381468198892305
+ previou: 0.041886566254200744
+ promin: 0.074724578972592
+ ratio: 0.060323690238729986
+ result: 0.041886566254200744
+ search: 0.02344944226967152
+ shop: 0.02344944226967152
+ site: 0.043381468198892305
+ snippet: 0.060323690238729986
+ tabl: 0.02344944226967152
+ text: 0.043381468198892305
+ threshold: 0.043381468198892305
+ valu: 0.060323690238729986
+ web: 0.02344944226967152
+ websit: 0.043381468198892305
+ work: 0.05905302358574215
+
+N-grams list: 10
+ text ratio promin
+ search engin snippet
+ nonlink text ratio
+ maximum threshold valu
+ content extrac result
+ content extrac previou
+ web portal
+ appar advertis
+ tabl cell
+ content extrac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

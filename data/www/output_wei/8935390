@@ -1,0 +1,46 @@
+File name: 8935390
+
+Graph edges count: 10
+ associ - agent: 1
+ associ - sourc: 3
+ common - associ: 1
+ inform - sourc: 1
+ knowledg - share: 1
+ person - space: 2
+ seamless - navig: 1
+ sourc - api: 1
+ thirdparti - associ: 1
+ zeroinput - publish: 1
+
+PageRank scores count: 15
+ agent: 0.059882660426313156
+ api: 0.15355693014561614
+ associ: 0.10273752702210995
+ common: 0.0380509359341148
+ inform: 0.0380509359341148
+ knowledg: 0.0380509359341148
+ navig: 0.07039423147811237
+ person: 0.0380509359341148
+ publish: 0.07039423147811237
+ seamless: 0.0380509359341148
+ share: 0.07039423147811237
+ sourc: 0.13588940495470747
+ space: 0.07039423147811237
+ thirdparti: 0.0380509359341148
+ zeroinput: 0.0380509359341148
+
+N-grams list: 10
+ common associ sourc
+ thirdparti associ sourc
+ associ sourc
+ inform sourc
+ associ agent
+ api
+ sourc
+ seamless navig
+ zeroinput publish
+ knowledg share
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

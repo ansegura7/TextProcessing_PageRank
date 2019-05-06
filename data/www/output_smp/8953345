@@ -1,0 +1,51 @@
+File name: 8953345
+
+Graph edges count: 13
+ build - complex: 1
+ complex - link: 1
+ essenti - featur: 1
+ linkbas - manag: 1
+ link - sourc: 1
+ link - structur: 5
+ manag - mode: 1
+ open - world: 1
+ process - link: 1
+ relev - linkbas: 1
+ web - hyperlink: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 17
+ build: 0.02780983150544525
+ complex: 0.051448188285073713
+ essenti: 0.02780983150544525
+ featur: 0.051448188285073713
+ hyperlink: 0.1031364101783288
+ link: 0.09517914832738637
+ linkbas: 0.051448188285073713
+ manag: 0.0715407915477579
+ mode: 0.08861950432103946
+ open: 0.02780983150544525
+ process: 0.02780983150544525
+ relev: 0.02780983150544525
+ sourc: 0.06826096954458447
+ structur: 0.06826096954458447
+ web: 0.08861950432103946
+ wide: 0.0715407915477579
+ world: 0.051448188285073713
+
+N-grams list: 10
+ linkbas manag mode
+ world wide web
+ web hyperlink
+ process link structur
+ build complex link
+ link sourc
+ link structur
+ link
+ web
+ relev linkbas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

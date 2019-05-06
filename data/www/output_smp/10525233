@@ -1,0 +1,60 @@
+File name: 10525233
+
+Graph edges count: 16
+ apach - exten: 1
+ authent - protocol: 1
+ client - side: 1
+ dictionari - attack: 1
+ fals - sens: 1
+ internet - draft: 1
+ mozillabas - browser: 1
+ mutual - authent: 1
+ pakebas - mutual: 1
+ passwordbas - mutual: 1
+ phish - attack: 2
+ recent - web: 1
+ server - side: 1
+ success - authent: 1
+ web - applic: 1
+ web - authent: 1
+
+PageRank scores count: 23
+ apach: 0.024237099425126304
+ applic: 0.04329351884813186
+ attack: 0.06544016844784101
+ authent: 0.11951919654015407
+ browser: 0.044838633936483664
+ client: 0.024237099425126304
+ dictionari: 0.024237099425126304
+ draft: 0.044838633936483664
+ exten: 0.044838633936483664
+ fals: 0.024237099425126304
+ internet: 0.024237099425126304
+ mozillabas: 0.024237099425126304
+ mutual: 0.06544016844784101
+ pakebas: 0.024237099425126304
+ passwordbas: 0.024237099425126304
+ phish: 0.024237099425126304
+ protocol: 0.12582841648425727
+ recent: 0.024237099425126304
+ sens: 0.044838633936483664
+ server: 0.024237099425126304
+ side: 0.06544016844784101
+ success: 0.024237099425126304
+ web: 0.044838633936483664
+
+N-grams list: 10
+ web authent protocol
+ passwordbas mutual authent
+ success authent
+ protocol
+ authent
+ recent web applic
+ server side
+ dictionari attack
+ client side
+ pakebas mutual
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

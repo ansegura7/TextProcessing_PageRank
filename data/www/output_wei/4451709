@@ -1,0 +1,67 @@
+File name: 4451709
+
+Graph edges count: 23
+ access - techniqu: 1
+ automat - inform: 1
+ automat - user: 1
+ clip - function: 1
+ inform - access: 2
+ inform - clip: 1
+ inform - deliveri: 1
+ inform - portfolio: 1
+ inform - servic: 3
+ internetbas - inform: 1
+ internet - inform: 1
+ internet - internetbas: 1
+ kei - technologi: 1
+ person - inform: 3
+ person - webpag: 1
+ prefer - captur: 1
+ profilebas - approach: 1
+ servic - applic: 1
+ servic - busi: 1
+ success - internet: 1
+ user - prefer: 1
+ user - profilebas: 1
+ webpag - servic: 1
+
+PageRank scores count: 23
+ access: 0.04385140069798106
+ applic: 0.055828999769215376
+ approach: 0.0537857511082492
+ automat: 0.02274449322035567
+ busi: 0.055828999769215376
+ captur: 0.0537857511082492
+ clip: 0.033297946959168365
+ deliveri: 0.033297946959168365
+ function: 0.05104774813564878
+ inform: 0.09932662342411949
+ internet: 0.042077312457657993
+ internetbas: 0.04062735101486031
+ kei: 0.02274449322035567
+ person: 0.02274449322035567
+ portfolio: 0.033297946959168365
+ prefer: 0.03651912692693357
+ profilebas: 0.03651912692693357
+ servic: 0.07784589776202283
+ success: 0.02274449322035567
+ techniqu: 0.06001818381363957
+ technologi: 0.042077312457657993
+ user: 0.03241090283900683
+ webpag: 0.02757769802968125
+
+N-grams list: 10
+ person inform servic
+ internet internetbas inform
+ person inform access
+ success internet inform
+ automat inform clip
+ servic busi
+ inform portfolio
+ inform deliveri
+ person webpag servic
+ user profilebas approach
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

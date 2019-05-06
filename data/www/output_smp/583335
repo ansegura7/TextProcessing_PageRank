@@ -1,0 +1,104 @@
+File name: 583335
+
+Graph edges count: 36
+ automat - summar: 1
+ bandwidth - small: 1
+ comput - load: 1
+ comput - power: 1
+ docum - summar: 1
+ download - time: 1
+ electron - busi: 1
+ entir - summari: 1
+ fractal - summar: 3
+ fractal - theori: 1
+ handheld - devic: 4
+ huge - inform: 1
+ inform - space: 1
+ interact - summar: 1
+ larg - docum: 2
+ limit - resolu: 1
+ limit - screen: 1
+ low - comput: 1
+ major - comput: 1
+ memori - capac: 1
+ middleti - conduct: 1
+ mobil - devic: 2
+ narrow - network: 1
+ network - bandwidth: 1
+ network - connec: 1
+ portabl - access: 1
+ promis - addition: 1
+ screen - size: 1
+ size - narrow: 1
+ small - memori: 1
+ summar - model: 1
+ threetier - architectur: 1
+ tradition - automat: 1
+ tradition - electron: 1
+ web - wireless: 1
+ wireless - access: 2
+
+PageRank scores count: 47
+ access: 0.03741789857746817
+ addition: 0.020225891122955766
+ architectur: 0.020225891122955766
+ automat: 0.015579402621736196
+ bandwidth: 0.02695227855981031
+ busi: 0.024175406348992397
+ capac: 0.04467698964557253
+ comput: 0.0295188681253949
+ conduct: 0.020225891122955766
+ connec: 0.02695227855981031
+ devic: 0.0295188681253949
+ docum: 0.020225891122955766
+ download: 0.01093291412051663
+ electron: 0.015579402621736196
+ entir: 0.01093291412051663
+ fractal: 0.01093291412051663
+ handheld: 0.01093291412051663
+ huge: 0.01093291412051663
+ inform: 0.020225891122955766
+ interact: 0.01093291412051663
+ larg: 0.01093291412051663
+ limit: 0.01093291412051663
+ load: 0.023478433073809462
+ low: 0.01093291412051663
+ major: 0.01093291412051663
+ memori: 0.03969891238241871
+ middleti: 0.01093291412051663
+ mobil: 0.01093291412051663
+ model: 0.05794376153160561
+ narrow: 0.03148200951716017
+ network: 0.03769262221010277
+ portabl: 0.01093291412051663
+ power: 0.023478433073809462
+ promis: 0.01093291412051663
+ resolu: 0.015579402621736196
+ screen: 0.015579402621736196
+ size: 0.024175406348992397
+ small: 0.03384235089635539
+ space: 0.02812492157502903
+ summar: 0.055306879307163506
+ summari: 0.020225891122955766
+ theori: 0.015579402621736196
+ threetier: 0.01093291412051663
+ time: 0.020225891122955766
+ tradition: 0.01093291412051663
+ web: 0.01093291412051663
+ wireless: 0.020225891122955766
+
+N-grams list: 10
+ fractal summar model
+ small memori capac
+ narrow network bandwidth
+ tradition automat summar
+ docum summar
+ web wireless access
+ fractal summar
+ interact summar
+ network connec
+ low comput power
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,50 @@
+File name: 13527964
+
+Graph edges count: 12
+ applic - program: 1
+ commun - layer: 1
+ commun - widget: 1
+ customiz - start: 1
+ drop - facil: 1
+ interwidget - commun: 3
+ program - interfac: 1
+ start - page: 1
+ subsequ - applic: 1
+ web - desktop: 1
+ widget - contain: 2
+ widget - object: 1
+
+PageRank scores count: 17
+ applic: 0.06234742258703891
+ commun: 0.06234742258703891
+ contain: 0.05928586925155712
+ customiz: 0.03370130950650752
+ desktop: 0.06234742258703891
+ drop: 0.03370130950650752
+ facil: 0.06234742258703891
+ interfac: 0.1073934354061745
+ interwidget: 0.03370130950650752
+ layer: 0.06019896410599906
+ object: 0.05928586925155712
+ page: 0.08669661870549059
+ program: 0.08669661870549059
+ start: 0.06234742258703891
+ subsequ: 0.03370130950650752
+ web: 0.03370130950650752
+ widget: 0.06019896410599906
+
+N-grams list: 10
+ customiz start page
+ subsequ applic program
+ interwidget commun widget
+ interwidget commun layer
+ widget object
+ widget contain
+ interfac
+ drop facil
+ web desktop
+ interwidget commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

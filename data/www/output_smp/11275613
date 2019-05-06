@@ -1,0 +1,92 @@
+File name: 11275613
+
+Graph edges count: 30
+ automat - method: 1
+ consecut - segment: 1
+ data - record: 2
+ distinct - tag: 1
+ dom - tree: 1
+ extrac - process: 1
+ greedi - manner: 1
+ holist - analysi: 1
+ individu - object: 1
+ individu - segment: 1
+ kei - limit: 1
+ noisi - web: 1
+ object - extrac: 1
+ occurr - pattern: 1
+ page - segment: 1
+ page - structur: 1
+ pairwis - comparison: 1
+ path - cluster: 1
+ path - occurr: 1
+ previou - method: 1
+ record - extrac: 2
+ similar - match: 1
+ similar - measur: 2
+ simpl - search: 1
+ stateoftheart - method: 1
+ structur - due: 1
+ tag - path: 6
+ visual - signal: 2
+ web - docum: 1
+ web - page: 3
+
+PageRank scores count: 41
+ analysi: 0.02615784763155381
+ automat: 0.014139377098137196
+ cluster: 0.029598134821744317
+ comparison: 0.02615784763155381
+ consecut: 0.014139377098137196
+ data: 0.014139377098137196
+ distinct: 0.014139377098137196
+ docum: 0.025256462341547565
+ dom: 0.014139377098137196
+ due: 0.035281744652437864
+ extrac: 0.05349986809507661
+ greedi: 0.014139377098137196
+ holist: 0.014139377098137196
+ individu: 0.014139377098137196
+ kei: 0.014139377098137196
+ limit: 0.02615784763155381
+ manner: 0.02615784763155381
+ match: 0.020148612364845504
+ measur: 0.020148612364845504
+ method: 0.05019478869838704
+ noisi: 0.014139377098137196
+ object: 0.020148612364845504
+ occurr: 0.029598134821744317
+ page: 0.025256462341547565
+ pairwis: 0.014139377098137196
+ path: 0.036373547584957935
+ pattern: 0.039297791696619865
+ previou: 0.014139377098137196
+ process: 0.059614264978952315
+ record: 0.02615784763155381
+ search: 0.02615784763155381
+ segment: 0.04290107939341983
+ signal: 0.02615784763155381
+ similar: 0.014139377098137196
+ simpl: 0.014139377098137196
+ stateoftheart: 0.014139377098137196
+ structur: 0.02487337359329491
+ tag: 0.02615784763155381
+ tree: 0.02615784763155381
+ visual: 0.014139377098137196
+ web: 0.02615784763155381
+
+N-grams list: 10
+ object extrac process
+ web page segment
+ tag path cluster
+ tag path occurr
+ record extrac
+ distinct tag path
+ noisi web page
+ previou method
+ automat method
+ stateoftheart method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

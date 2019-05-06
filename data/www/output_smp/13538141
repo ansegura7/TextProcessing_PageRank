@@ -1,0 +1,70 @@
+File name: 13538141
+
+Graph edges count: 20
+ approxim - match: 1
+ candid - string: 2
+ effici - techniqu: 1
+ entiti - extrac: 1
+ entiti - tabl: 1
+ entiti - task: 1
+ experiment - evalu: 1
+ extens - experiment: 1
+ extrac - task: 1
+ import - challeng: 1
+ peopl - name: 1
+ prior - approach: 1
+ product - peopl: 1
+ refer - entiti: 1
+ refer - tabl: 1
+ search - engin: 1
+ signific - atten: 1
+ similar - function: 2
+ stringbas - similar: 1
+ web - search: 2
+
+PageRank scores count: 29
+ approach: 0.03932452162915115
+ approxim: 0.021256498177919542
+ atten: 0.03932452162915115
+ candid: 0.021256498177919542
+ challeng: 0.03932452162915115
+ effici: 0.021256498177919542
+ engin: 0.05468234156269802
+ entiti: 0.030290509903535344
+ evalu: 0.05468234156269802
+ experiment: 0.03932452162915115
+ extens: 0.021256498177919542
+ extrac: 0.02983880931725456
+ function: 0.05468234156269802
+ import: 0.021256498177919542
+ match: 0.03932452162915115
+ name: 0.05468234156269802
+ peopl: 0.03932452162915115
+ prior: 0.021256498177919542
+ product: 0.021256498177919542
+ refer: 0.021256498177919542
+ search: 0.03932452162915115
+ signific: 0.021256498177919542
+ similar: 0.03932452162915115
+ string: 0.03932452162915115
+ stringbas: 0.021256498177919542
+ tabl: 0.03887282104287036
+ task: 0.05520179723692094
+ techniqu: 0.03932452162915115
+ web: 0.021256498177919542
+
+N-grams list: 10
+ entiti extrac task
+ web search engin
+ product peopl name
+ extens experiment evalu
+ similar function
+ refer entiti tabl
+ entiti task
+ signific atten
+ candid string
+ effici techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

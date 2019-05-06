@@ -1,0 +1,77 @@
+File name: 178963
+
+Graph edges count: 23
+ crucial - inform: 1
+ current - recommend: 1
+ flickr - data: 1
+ imag - retriev: 1
+ irrelev - tag: 1
+ largescal - web: 1
+ learningbas - multimod: 1
+ learn - problem: 1
+ loss - tag: 1
+ multimod - recommend: 2
+ optim - combin: 1
+ rankboost - algorithm: 1
+ rank - featur: 2
+ recommend - strategi: 1
+ relat - tag: 1
+ semant - loss: 2
+ semant - object: 1
+ singl - modal: 1
+ social - tag: 1
+ tag - cooccurr: 1
+ tag - recommend: 2
+ visual - correl: 2
+ web - imag: 1
+
+PageRank scores count: 33
+ algorithm: 0.029924056249857063
+ combin: 0.029924056249857063
+ cooccurr: 0.0385476660336935
+ correl: 0.029924056249857063
+ crucial: 0.016175165540463277
+ current: 0.016175165540463277
+ data: 0.029924056249857063
+ featur: 0.029924056249857063
+ flickr: 0.016175165540463277
+ imag: 0.04161061335284178
+ inform: 0.029924056249857063
+ irrelev: 0.016175165540463277
+ largescal: 0.016175165540463277
+ learn: 0.016175165540463277
+ learningbas: 0.016175165540463277
+ loss: 0.025341092680059133
+ modal: 0.029924056249857063
+ multimod: 0.029924056249857063
+ object: 0.020758129110261207
+ optim: 0.016175165540463277
+ problem: 0.029924056249857063
+ rank: 0.016175165540463277
+ rankboost: 0.016175165540463277
+ recommend: 0.10010450504869602
+ relat: 0.016175165540463277
+ retriev: 0.05154418689037879
+ semant: 0.016175165540463277
+ singl: 0.016175165540463277
+ social: 0.016175165540463277
+ strategi: 0.1012639948318549
+ tag: 0.0789617664466949
+ visual: 0.016175165540463277
+ web: 0.029924056249857063
+
+N-grams list: 10
+ tag recommend
+ learningbas multimod recommend
+ multimod recommend
+ semant loss tag
+ tag cooccurr
+ current recommend
+ strategi
+ recommend
+ irrelev tag
+ social tag
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

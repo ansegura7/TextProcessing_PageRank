@@ -1,0 +1,51 @@
+File name: 696215
+
+Graph edges count: 14
+ algorithm - hyperlink: 1
+ commerci - search: 1
+ hyperlink - analysi: 3
+ internet - search: 1
+ multimedia - object: 2
+ multimedia - pagerank: 1
+ multimedia - web: 1
+ pagerank - algorithm: 2
+ rank - mechan: 1
+ search - engin: 2
+ search - result: 1
+ web - docum: 1
+ web - object: 1
+ web - page: 1
+
+PageRank scores count: 16
+ algorithm: 0.07463396376326221
+ analysi: 0.11996026462782189
+ commerci: 0.035695797734521584
+ docum: 0.04867518641076846
+ engin: 0.0766567256348851
+ hyperlink: 0.09913466693329447
+ internet: 0.035695797734521584
+ mechan: 0.06603722580886492
+ multimedia: 0.035695797734521584
+ object: 0.05878899576888291
+ page: 0.04867518641076846
+ pagerank: 0.04580960709263603
+ rank: 0.035695797734521584
+ result: 0.0766567256348851
+ search: 0.09637865388320828
+ web: 0.04580960709263603
+
+N-grams list: 10
+ pagerank algorithm hyperlink
+ hyperlink analysi
+ commerci search engin
+ internet search engin
+ search result
+ multimedia pagerank algorithm
+ multimedia web object
+ analysi
+ rank mechan
+ web page
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

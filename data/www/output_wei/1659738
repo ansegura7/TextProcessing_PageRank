@@ -1,0 +1,71 @@
+File name: 1659738
+
+Graph edges count: 20
+ automat - program: 1
+ crawl - frontier: 1
+ embed - text: 1
+ focus - crawl: 1
+ great - interest: 1
+ href - link: 1
+ href - sourc: 1
+ href - target: 1
+ human - behavior: 1
+ irrelev - page: 1
+ onlin - relev: 1
+ rectangular - region: 1
+ relev - feedback: 1
+ resourc - discoveri: 1
+ sourc - page: 1
+ tag - tree: 1
+ target - page: 1
+ tree - structur: 1
+ unseen - href: 1
+ unvisit - url: 1
+
+PageRank scores count: 30
+ automat: 0.02037444840425622
+ behavior: 0.037692729547874004
+ crawl: 0.037692729547874004
+ discoveri: 0.037692729547874004
+ embed: 0.02037444840425622
+ feedback: 0.05241326851994912
+ focus: 0.02037444840425622
+ frontier: 0.05241326851994912
+ great: 0.02037444840425622
+ href: 0.037692729547874004
+ human: 0.02037444840425622
+ interest: 0.037692729547874004
+ irrelev: 0.02037444840425622
+ link: 0.031054055109487184
+ onlin: 0.02037444840425622
+ page: 0.0904846232340022
+ program: 0.037692729547874004
+ rectangular: 0.02037444840425622
+ region: 0.037692729547874004
+ relev: 0.037692729547874004
+ resourc: 0.02037444840425622
+ sourc: 0.031054055109487184
+ structur: 0.05241326851994912
+ tag: 0.02037444840425622
+ target: 0.031054055109487184
+ text: 0.037692729547874004
+ tree: 0.037692729547874004
+ unseen: 0.02037444840425622
+ unvisit: 0.02037444840425622
+ url: 0.037692729547874004
+
+N-grams list: 10
+ href sourc page
+ irrelev page
+ onlin relev feedback
+ tag tree structur
+ page
+ crawl frontier
+ unseen href target
+ href link
+ unvisit url
+ embed text
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

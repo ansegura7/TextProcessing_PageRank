@@ -1,0 +1,53 @@
+File name: 13193305
+
+Graph edges count: 13
+ author - interfac: 1
+ author - tool: 1
+ content - natur: 1
+ copyandpast - inform: 1
+ guid - user: 1
+ idea - knowledg: 1
+ inform - oneclick: 1
+ meaning - visual: 1
+ natur - author: 1
+ oneclick - access: 1
+ oneclick - publish: 1
+ structur - inform: 1
+ substanti - gain: 1
+
+PageRank scores count: 19
+ access: 0.0710067704731936
+ author: 0.07609849171162446
+ content: 0.029581532249416696
+ copyandpast: 0.029581532249416696
+ gain: 0.05472583466142089
+ guid: 0.029581532249416696
+ idea: 0.029581532249416696
+ inform: 0.07987013707342508
+ interfac: 0.06192339122685708
+ knowledg: 0.05472583466142089
+ meaning: 0.029581532249416696
+ natur: 0.05472583466142089
+ oneclick: 0.09747114876182801
+ publish: 0.0710067704731936
+ structur: 0.029581532249416696
+ substanti: 0.029581532249416696
+ tool: 0.06192339122685708
+ user: 0.05472583466142089
+ visual: 0.05472583466142089
+
+N-grams list: 10
+ inform oneclick publish
+ oneclick access
+ content natur author
+ author tool
+ copyandpast inform
+ structur inform
+ meaning visual
+ idea knowledg
+ substanti gain
+ guid user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

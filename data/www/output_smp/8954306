@@ -1,0 +1,54 @@
+File name: 8954306
+
+Graph edges count: 13
+ decision - tree: 1
+ ensembl - method: 1
+ network - etc: 1
+ neural - network: 1
+ stateoftheart - perform: 1
+ strong - classifi: 1
+ support - vector: 1
+ svm - classifi: 1
+ tc - problem: 1
+ text - classif: 1
+ tree - neural: 1
+ vector - machin: 1
+ weak - classifi: 1
+
+PageRank scores count: 20
+ classif: 0.05183487580031035
+ classifi: 0.09946692383302795
+ decision: 0.02801885178395154
+ ensembl: 0.02801885178395154
+ etc: 0.10391158931508092
+ machin: 0.07207849621421535
+ method: 0.05183487580031035
+ network: 0.08928557356603457
+ neural: 0.07207849621421535
+ perform: 0.05183487580031035
+ problem: 0.05183487580031035
+ stateoftheart: 0.02801885178395154
+ strong: 0.02801885178395154
+ support: 0.02801885178395154
+ svm: 0.02801885178395154
+ tc: 0.02801885178395154
+ text: 0.02801885178395154
+ tree: 0.05183487580031035
+ vector: 0.05183487580031035
+ weak: 0.02801885178395154
+
+N-grams list: 10
+ network etc
+ decision tree neural
+ support vector machin
+ strong classifi
+ svm classifi
+ weak classifi
+ classifi
+ ensembl method
+ stateoftheart perform
+ text classif
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

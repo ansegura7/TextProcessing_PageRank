@@ -1,0 +1,66 @@
+File name: 13005831
+
+Graph edges count: 18
+ centerpiec - subgraph: 1
+ gener - random: 1
+ initi - subset: 1
+ long - tail: 2
+ main - goal: 1
+ markov - chain: 3
+ node - move: 1
+ queri - node: 2
+ queri - recommend: 1
+ queri - sugges: 1
+ random - walker: 1
+ recommend - problem: 1
+ socal - centerpiec: 1
+ stationari - distribu: 1
+ termqueri - graph: 1
+ term - node: 3
+ term - set: 1
+ unseen - queri: 1
+
+PageRank scores count: 27
+ centerpiec: 0.04285399912747714
+ chain: 0.04285399912747714
+ distribu: 0.04285399912747714
+ gener: 0.023164323852690342
+ goal: 0.04285399912747714
+ graph: 0.04285399912747714
+ initi: 0.023164323852690342
+ long: 0.023164323852690342
+ main: 0.023164323852690342
+ markov: 0.023164323852690342
+ move: 0.0615427825757956
+ node: 0.0451511279095356
+ problem: 0.05317467058401121
+ queri: 0.04285399912747714
+ random: 0.04285399912747714
+ recommend: 0.035306290272142195
+ set: 0.03300916149008374
+ socal: 0.023164323852690342
+ stationari: 0.023164323852690342
+ subgraph: 0.05959022311104591
+ subset: 0.04285399912747714
+ sugges: 0.035306290272142195
+ tail: 0.04285399912747714
+ term: 0.023164323852690342
+ termqueri: 0.023164323852690342
+ unseen: 0.023164323852690342
+ walker: 0.05959022311104591
+
+N-grams list: 10
+ queri recommend problem
+ term node move
+ socal centerpiec subgraph
+ gener random walker
+ queri node
+ queri sugges
+ term node
+ markov chain
+ termqueri graph
+ stationari distribu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

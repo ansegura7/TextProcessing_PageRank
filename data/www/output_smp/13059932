@@ -1,0 +1,121 @@
+File name: 13059932
+
+Graph edges count: 40
+ actual - valu: 1
+ attribut - valu: 1
+ bing - shop: 1
+ blue - link: 1
+ canon - eo: 1
+ catalog - expan: 1
+ collect - analysi: 1
+ collect - discoveri: 1
+ commerc - search: 1
+ current - implement: 1
+ digit - camera: 2
+ discret - attribut: 1
+ endtoend - framework: 1
+ engin - todai: 1
+ entertain - travel: 1
+ eo - digit: 1
+ extrac - problem: 1
+ flexibl - integ: 1
+ food - entertain: 1
+ holist - decision: 1
+ individu - docum: 1
+ inform - extrac: 1
+ integ - linear: 1
+ linear - program: 1
+ local - extrac: 1
+ numer - attribut: 1
+ page - context: 1
+ practic - import: 1
+ previou - approach: 1
+ rich - user: 1
+ search - engin: 1
+ signific - practic: 1
+ similar - result: 1
+ structur - data: 2
+ structur - numer: 1
+ structur - represent: 1
+ suitabl - merchant: 1
+ travel - etc: 1
+ user - experi: 1
+ web - page: 2
+
+PageRank scores count: 60
+ actual: 0.00950664851424948
+ analysi: 0.013546974132805508
+ approach: 0.017587299751361536
+ attribut: 0.027957468838988676
+ bing: 0.00950664851424948
+ blue: 0.00950664851424948
+ camera: 0.030294123821720247
+ canon: 0.00950664851424948
+ catalog: 0.00950664851424948
+ collect: 0.00950664851424948
+ commerc: 0.00950664851424948
+ context: 0.024455853302906786
+ current: 0.00950664851424948
+ data: 0.012200198926620165
+ decision: 0.017587299751361536
+ digit: 0.024455853302906786
+ discoveri: 0.013546974132805508
+ discret: 0.00950664851424948
+ docum: 0.017587299751361536
+ endtoend: 0.00950664851424948
+ engin: 0.024455853302906786
+ entertain: 0.017587299751361536
+ eo: 0.017587299751361536
+ etc: 0.030294123821720247
+ expan: 0.017587299751361536
+ experi: 0.024455853302906786
+ extrac: 0.02566795098847359
+ flexibl: 0.00950664851424948
+ food: 0.00950664851424948
+ framework: 0.017587299751361536
+ holist: 0.00950664851424948
+ implement: 0.017587299751361536
+ import: 0.024455853302906786
+ individu: 0.00950664851424948
+ inform: 0.00950664851424948
+ integ: 0.017587299751361536
+ linear: 0.024455853302906786
+ link: 0.017587299751361536
+ local: 0.00950664851424948
+ merchant: 0.017587299751361536
+ numer: 0.012200198926620165
+ page: 0.017587299751361536
+ practic: 0.017587299751361536
+ previou: 0.00950664851424948
+ problem: 0.031324406854452036
+ program: 0.030294123821720247
+ represent: 0.012200198926620165
+ result: 0.017587299751361536
+ rich: 0.00950664851424948
+ search: 0.017587299751361536
+ shop: 0.017587299751361536
+ signific: 0.00950664851424948
+ similar: 0.00950664851424948
+ structur: 0.00950664851424948
+ suitabl: 0.00950664851424948
+ todai: 0.030294123821720247
+ travel: 0.024455853302906786
+ user: 0.017587299751361536
+ valu: 0.04135114826450191
+ web: 0.00950664851424948
+
+N-grams list: 10
+ attribut valu
+ inform extrac problem
+ engin todai
+ digit camera
+ flexibl integ linear
+ rich user experi
+ canon eo digit
+ commerc search engin
+ web page context
+ signific practic import
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

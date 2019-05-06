@@ -1,0 +1,100 @@
+File name: 11798933
+
+Graph edges count: 35
+ breakpoint - breakpoint: 1
+ code - view: 1
+ complex - web: 1
+ css - style: 1
+ debug - process: 1
+ domainspecif - breakpoint: 1
+ dommut - domobject: 1
+ domobject - properti: 1
+ error - messag: 1
+ event - dommut: 1
+ firebug - project: 1
+ firefox - web: 1
+ generalpurpos - debugg: 1
+ graphic - web: 1
+ interfac - problem: 1
+ larg - complex: 1
+ level - sourc: 1
+ messag - network: 1
+ multipl - develop: 1
+ network - event: 1
+ open - sourc: 1
+ page - abstrac: 1
+ page - breakpoint: 1
+ program - state: 1
+ project - version: 1
+ quintessenti - featur: 1
+ relev - sourc: 1
+ rule - updat: 1
+ sourc - code: 2
+ sourc - firebug: 1
+ sourc - line: 1
+ style - rule: 1
+ user - interfac: 1
+ web - browser: 1
+ web - page: 3
+
+PageRank scores count: 44
+ abstrac: 0.023097840817882066
+ breakpoint: 0.20466660696186934
+ browser: 0.01706375285927567
+ code: 0.022437522800560997
+ complex: 0.01654585637510228
+ css: 0.008943706148703936
+ debug: 0.008943706148703936
+ debugg: 0.01654585637510228
+ develop: 0.01654585637510228
+ domainspecif: 0.008943706148703936
+ dommut: 0.03316890811390056
+ domobject: 0.03713727804551942
+ error: 0.008943706148703936
+ event: 0.028500237606113678
+ featur: 0.01654585637510228
+ firebug: 0.015690614474632467
+ firefox: 0.008943706148703936
+ generalpurpos: 0.008943706148703936
+ graphic: 0.008943706148703936
+ interfac: 0.01654585637510228
+ larg: 0.008943706148703936
+ level: 0.008943706148703936
+ line: 0.015690614474632467
+ messag: 0.01654585637510228
+ multipl: 0.008943706148703936
+ network: 0.023007684067540873
+ open: 0.008943706148703936
+ page: 0.03330384628041914
+ problem: 0.023007684067540873
+ process: 0.01654585637510228
+ program: 0.008943706148703936
+ project: 0.022280728452141536
+ properti: 0.04051039248739544
+ quintessenti: 0.008943706148703936
+ relev: 0.008943706148703936
+ rule: 0.023007684067540873
+ sourc: 0.031750156827898966
+ state: 0.01654585637510228
+ style: 0.01654585637510228
+ updat: 0.028500237606113678
+ user: 0.008943706148703936
+ version: 0.027882325333024236
+ view: 0.028015600529180784
+ web: 0.03821198452033757
+
+N-grams list: 10
+ breakpoint breakpoint
+ domainspecif breakpoint
+ breakpoint
+ event dommut domobject
+ web page abstrac
+ graphic web page
+ firefox web browser
+ larg complex web
+ level sourc code
+ open sourc firebug
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

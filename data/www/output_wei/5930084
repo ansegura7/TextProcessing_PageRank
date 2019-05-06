@@ -1,0 +1,92 @@
+File name: 5930084
+
+Graph edges count: 32
+ challeng - problem: 1
+ cluster - user: 1
+ common - interest: 3
+ common - user: 1
+ descript - tag: 1
+ discoveri - approach: 1
+ discoveri - system: 1
+ facebook - myspac: 1
+ frequent - cooccurr: 1
+ gener - usergener: 1
+ human - user: 2
+ interest - discoveri: 3
+ interest - topic: 2
+ internet - social: 1
+ kei - observ: 1
+ larg - amount: 1
+ main - challeng: 1
+ network - human: 1
+ network - system: 1
+ onlin - connec: 3
+ realworld - trace: 1
+ research - commun: 1
+ similar - docum: 1
+ social - interest: 4
+ social - network: 2
+ system - isid: 1
+ tagbas - social: 1
+ usergener - tag: 2
+ user - commun: 1
+ user - interest: 2
+ user - tag: 1
+ web - content: 1
+
+PageRank scores count: 39
+ amount: 0.025133179845640282
+ approach: 0.033129429737760105
+ challeng: 0.025133179845640282
+ cluster: 0.013585502619265019
+ common: 0.013585502619265019
+ commun: 0.035382050119224656
+ connec: 0.025133179845640282
+ content: 0.025133179845640282
+ cooccurr: 0.025133179845640282
+ descript: 0.013585502619265019
+ discoveri: 0.045985710867047266
+ docum: 0.025133179845640282
+ facebook: 0.013585502619265019
+ frequent: 0.013585502619265019
+ gener: 0.013585502619265019
+ human: 0.023776327771541192
+ interest: 0.06352982009369068
+ internet: 0.013585502619265019
+ isid: 0.05040771927579585
+ kei: 0.013585502619265019
+ larg: 0.013585502619265019
+ main: 0.013585502619265019
+ myspac: 0.025133179845640282
+ network: 0.02397841212300276
+ observ: 0.025133179845640282
+ onlin: 0.013585502619265019
+ problem: 0.034948705488059256
+ realworld: 0.013585502619265019
+ research: 0.013585502619265019
+ similar: 0.013585502619265019
+ social: 0.03668085707201555
+ system: 0.043320254890036276
+ tag: 0.05674525298801889
+ tagbas: 0.013585502619265019
+ topic: 0.03518564145111985
+ trace: 0.025133179845640282
+ user: 0.04822997775804411
+ usergener: 0.025133179845640282
+ web: 0.013585502619265019
+
+N-grams list: 10
+ social interest discoveri
+ discoveri system isid
+ common user interest
+ internet social interest
+ tagbas social interest
+ user interest
+ user tag
+ social network system
+ social interest
+ interest topic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

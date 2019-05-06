@@ -1,0 +1,114 @@
+File name: 13062026
+
+Graph edges count: 41
+ abstract - concept: 1
+ addition - hint: 1
+ base - bridg: 1
+ classif - process: 2
+ classif - purpos: 1
+ classif - task: 1
+ class - label: 2
+ common - space: 1
+ complex - abstract: 1
+ concept - inher: 1
+ copiou - avail: 1
+ effect - classifi: 1
+ effect - result: 1
+ featur - transform: 3
+ function - relationship: 1
+ heterogen - space: 1
+ human - origin: 1
+ imag - classif: 1
+ imag - data: 4
+ imag - featur: 4
+ knowledg - propag: 1
+ knowledg - transfer: 1
+ label - text: 2
+ map - instanc: 1
+ mathemat - model: 1
+ natur - semant: 1
+ network - data: 2
+ semant - challeng: 1
+ semant - concept: 1
+ semant - interpret: 1
+ semant - knowledg: 2
+ social - network: 1
+ text - corpora: 1
+ text - corpu: 1
+ text - data: 3
+ text - featur: 1
+ transfer - learn: 1
+ transfer - techniqu: 1
+ unspecif - topic: 1
+ visual - featur: 1
+ web - imag: 1
+
+PageRank scores count: 52
+ abstract: 0.02167911925672823
+ addition: 0.011718442841474719
+ avail: 0.02167911925672823
+ base: 0.011718442841474719
+ bridg: 0.02167911925672823
+ challeng: 0.016325255683529466
+ class: 0.011718442841474719
+ classif: 0.017860859964214385
+ classifi: 0.016698781049101472
+ common: 0.011718442841474719
+ complex: 0.011718442841474719
+ concept: 0.03475250705174846
+ copiou: 0.011718442841474719
+ corpora: 0.01812440286103463
+ corpu: 0.01812440286103463
+ data: 0.04269407135199329
+ effect: 0.011718442841474719
+ featur: 0.03422749639902781
+ function: 0.011718442841474719
+ heterogen: 0.011718442841474719
+ hint: 0.02167911925672823
+ human: 0.011718442841474719
+ imag: 0.02167911925672823
+ inher: 0.04125807383546091
+ instanc: 0.02167911925672823
+ interpret: 0.016325255683529466
+ knowledg: 0.016325255683529466
+ label: 0.02167911925672823
+ learn: 0.019647530356938985
+ map: 0.011718442841474719
+ mathemat: 0.011718442841474719
+ model: 0.02167911925672823
+ natur: 0.011718442841474719
+ network: 0.02167911925672823
+ origin: 0.02167911925672823
+ process: 0.01677901983133546
+ propag: 0.01865667650697474
+ purpos: 0.01677901983133546
+ relationship: 0.02167911925672823
+ result: 0.016698781049101472
+ semant: 0.02167911925672823
+ social: 0.011718442841474719
+ space: 0.03163979567198174
+ task: 0.01677901983133546
+ techniqu: 0.019647530356938985
+ text: 0.030145694209693714
+ topic: 0.02167911925672823
+ transfer: 0.01865667650697474
+ transform: 0.04081181478064836
+ unspecif: 0.011718442841474719
+ visual: 0.011718442841474719
+ web: 0.011718442841474719
+
+N-grams list: 10
+ semant concept inher
+ imag featur transform
+ label text data
+ social network data
+ featur transform
+ text data
+ label text corpora
+ complex abstract concept
+ network data
+ imag data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

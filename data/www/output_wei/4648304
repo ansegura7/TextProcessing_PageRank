@@ -1,0 +1,67 @@
+File name: 4648304
+
+Graph edges count: 20
+ ambigu - problem: 1
+ averag - cluster: 1
+ averag - interclust: 1
+ bottleneck - theori: 1
+ candid - term: 1
+ cluster - similar: 1
+ distinct - topic: 1
+ evalu - experi: 1
+ expan - model: 1
+ inform - bottleneck: 1
+ interclust - similar: 2
+ measur - cluster: 1
+ queri - expan: 3
+ retriev - effect: 1
+ similar - matrix: 1
+ termterm - similar: 1
+ term - ambigu: 1
+ topicori - queri: 2
+ topic - cluster: 1
+ web - search: 2
+
+PageRank scores count: 26
+ ambigu: 0.04674998446778334
+ averag: 0.018172977441315196
+ bottleneck: 0.03362000826643311
+ candid: 0.018172977441315196
+ cluster: 0.06992053070546021
+ distinct: 0.018172977441315196
+ effect: 0.03362000826643311
+ evalu: 0.018172977441315196
+ expan: 0.04674998446778334
+ experi: 0.03362000826643311
+ inform: 0.018172977441315196
+ interclust: 0.025896492853874152
+ matrix: 0.11597778398940242
+ measur: 0.018172977441315196
+ model: 0.05791046423893103
+ problem: 0.05791046423893103
+ queri: 0.03362000826643311
+ retriev: 0.018172977441315196
+ search: 0.03362000826643311
+ similar: 0.11506447829186732
+ term: 0.03362000826643311
+ termterm: 0.018172977441315196
+ theori: 0.04674998446778334
+ topic: 0.03362000826643311
+ topicori: 0.018172977441315196
+ web: 0.018172977441315196
+
+N-grams list: 10
+ termterm similar matrix
+ averag cluster similar
+ averag interclust similar
+ interclust similar
+ term ambigu problem
+ distinct topic cluster
+ inform bottleneck theori
+ topicori queri expan
+ measur cluster
+ queri expan
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

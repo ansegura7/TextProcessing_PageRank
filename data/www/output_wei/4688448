@@ -1,0 +1,59 @@
+File name: 4688448
+
+Graph edges count: 15
+ adapt - crawler: 2
+ content - ofpag: 1
+ entri - point: 2
+ fix - focu: 1
+ focu - strategi: 1
+ frameworkwherebi - crawler: 1
+ harvest - rate: 1
+ hiddenweb - entri: 1
+ hiddenweb - sourc: 2
+ leadsto - signific: 1
+ manual - setup: 1
+ real - web: 1
+ setup - andtun: 1
+ signific - gain: 1
+ web - page: 1
+
+PageRank scores count: 23
+ adapt: 0.026294454061397556
+ andtun: 0.06764248307294521
+ content: 0.026294454061397556
+ crawler: 0.0709950259657734
+ entri: 0.03374454937879353
+ fix: 0.026294454061397556
+ focu: 0.04864474001358548
+ frameworkwherebi: 0.026294454061397556
+ gain: 0.06764248307294521
+ harvest: 0.026294454061397556
+ hiddenweb: 0.026294454061397556
+ leadsto: 0.026294454061397556
+ manual: 0.026294454061397556
+ ofpag: 0.04864474001358548
+ page: 0.06764248307294521
+ point: 0.05497732103337205
+ rate: 0.04864474001358548
+ real: 0.026294454061397556
+ setup: 0.04864474001358548
+ signific: 0.04864474001358548
+ sourc: 0.041194644696189504
+ strategi: 0.06764248307294521
+ web: 0.04864474001358548
+
+N-grams list: 10
+ fix focu strategi
+ real web page
+ manual setup andtun
+ leadsto signific gain
+ hiddenweb entri point
+ adapt crawler
+ frameworkwherebi crawler
+ entri point
+ harvest rate
+ content ofpag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

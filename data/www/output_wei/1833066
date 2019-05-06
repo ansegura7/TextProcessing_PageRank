@@ -1,0 +1,74 @@
+File name: 1833066
+
+Graph edges count: 23
+ access - navig: 3
+ activerend - time: 1
+ activ - visibl: 1
+ annot - freehand: 1
+ annot - slide: 1
+ continu - inkflow: 1
+ elearn - browser: 1
+ elearn - domain: 1
+ freehand - write: 2
+ handwritten - ink: 1
+ inkml - data: 2
+ ink - docum: 3
+ ink - volum: 1
+ massiv - inkml: 1
+ postprocess - inkml: 1
+ postprocess - techniqu: 1
+ randomaccess - navig: 1
+ random - access: 3
+ realtim - random: 2
+ static - annot: 1
+ visibl - scroll: 1
+ volumin - handwritten: 1
+ volumin - inkml: 1
+
+PageRank scores count: 30
+ access: 0.049179622717257794
+ activ: 0.019117443233142
+ activerend: 0.019117443233142
+ annot: 0.0353672699813127
+ browser: 0.027242356607227347
+ continu: 0.019117443233142
+ data: 0.06299197545320288
+ docum: 0.04606676528081134
+ domain: 0.027242356607227347
+ elearn: 0.019117443233142
+ freehand: 0.034148532975199895
+ handwritten: 0.027242356607227347
+ ink: 0.042273446349285246
+ inkflow: 0.0353672699813127
+ inkml: 0.05161709672948339
+ massiv: 0.019117443233142
+ navig: 0.07716994929098182
+ postprocess: 0.019117443233142
+ random: 0.0353672699813127
+ randomaccess: 0.019117443233142
+ realtim: 0.019117443233142
+ scroll: 0.049179622717257794
+ slide: 0.034148532975199895
+ static: 0.019117443233142
+ techniqu: 0.027242356607227347
+ time: 0.0353672699813127
+ visibl: 0.0353672699813127
+ volum: 0.028100550582365113
+ volumin: 0.019117443233142
+ write: 0.04814369626206191
+
+N-grams list: 10
+ random access navig
+ volumin inkml data
+ massiv inkml data
+ annot freehand write
+ activ visibl scroll
+ realtim random access
+ randomaccess navig
+ static annot slide
+ volumin handwritten ink
+ ink docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,85 @@
+File name: 4347448
+
+Graph edges count: 30
+ custom - indic: 1
+ engin - search: 1
+ enterpr - net: 1
+ evalu - result: 1
+ gener - purpos: 1
+ high - precision: 1
+ high - qualiti: 1
+ home - page: 1
+ ibm - net: 1
+ intellig - gener: 1
+ keyword - search: 1
+ larg - enterpr: 1
+ navig - page: 1
+ navig - queri: 3
+ offlin - identif: 1
+ page - etc: 1
+ page - intellig: 1
+ page - servic: 1
+ person - home: 1
+ poor - result: 1
+ purpos - search: 1
+ qualiti - answer: 1
+ result - qualiti: 1
+ search - algorithm: 1
+ search - engin: 1
+ search - problem: 1
+ separ - indic: 1
+ servic - page: 1
+ view - point: 1
+ web - search: 1
+
+PageRank scores count: 34
+ algorithm: 0.04440940219185507
+ answer: 0.05326378942944885
+ custom: 0.01279764282302952
+ engin: 0.04440940219185507
+ enterpr: 0.02367563922260461
+ etc: 0.031174411794058565
+ evalu: 0.01279764282302952
+ gener: 0.03929589290582857
+ high: 0.01279764282302952
+ home: 0.02367563922260461
+ ibm: 0.01279764282302952
+ identif: 0.02367563922260461
+ indic: 0.034553635622179696
+ intellig: 0.031174411794058565
+ keyword: 0.01279764282302952
+ larg: 0.01279764282302952
+ navig: 0.01279764282302952
+ net: 0.04379993256181853
+ offlin: 0.01279764282302952
+ page: 0.06485918444483003
+ person: 0.01279764282302952
+ point: 0.02367563922260461
+ poor: 0.01279764282302952
+ precision: 0.018236641022817066
+ problem: 0.04440940219185507
+ purpos: 0.04619915192796542
+ qualiti: 0.04760723130166981
+ queri: 0.018236641022817066
+ result: 0.034553635622179696
+ search: 0.1115709085909022
+ separ: 0.01279764282302952
+ servic: 0.031174411794058565
+ view: 0.01279764282302952
+ web: 0.01279764282302952
+
+N-grams list: 10
+ gener purpos search
+ web search engin
+ search problem
+ servic page etc
+ keyword search
+ high qualiti answer
+ search
+ navig page intellig
+ person home page
+ poor result qualiti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

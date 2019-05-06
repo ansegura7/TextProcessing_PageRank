@@ -1,0 +1,73 @@
+File name: 13064222
+
+Graph edges count: 23
+ analyt - understand: 1
+ cloudbas - servic: 1
+ cloud - comput: 1
+ cloud - system: 1
+ effici - algorithm: 1
+ effici - servic: 1
+ game - theoret: 2
+ gener - nash: 1
+ iaa - provid: 1
+ iaa - resourc: 1
+ infrastructur - resourc: 1
+ level - agreem: 1
+ nash - game: 1
+ perform - level: 1
+ run - time: 1
+ saa - provid: 2
+ servic - level: 1
+ servic - requir: 1
+ softwar - hardwar: 1
+ system - cloud: 1
+ theoret - approach: 1
+ theoret - formul: 1
+ time - manag: 1
+
+PageRank scores count: 29
+ agreem: 0.06259569325505103
+ algorithm: 0.026278676957349322
+ analyt: 0.018441176812174966
+ approach: 0.043416350712291205
+ cloud: 0.05341086097059099
+ cloudbas: 0.018441176812174966
+ comput: 0.04114080489225414
+ effici: 0.018441176812174966
+ formul: 0.043416350712291205
+ game: 0.0474399273493201
+ gener: 0.018441176812174966
+ hardwar: 0.03411617710252368
+ iaa: 0.018441176812174966
+ infrastructur: 0.018441176812174966
+ level: 0.05194648993279536
+ manag: 0.0474399273493201
+ nash: 0.03411617710252368
+ perform: 0.018441176812174966
+ provid: 0.041953677247698044
+ requir: 0.036271489642446635
+ resourc: 0.041953677247698044
+ run: 0.018441176812174966
+ saa: 0.018441176812174966
+ servic: 0.041953677247698044
+ softwar: 0.018441176812174966
+ system: 0.04114080489225414
+ theoret: 0.05876511505909704
+ time: 0.03411617710252368
+ understand: 0.03411617710252368
+
+N-grams list: 10
+ servic level agreem
+ game theoret approach
+ game theoret formul
+ cloud system cloud
+ run time manag
+ gener nash game
+ servic requir
+ perform level
+ effici servic
+ cloudbas servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

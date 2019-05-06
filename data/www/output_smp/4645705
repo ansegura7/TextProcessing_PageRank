@@ -1,0 +1,108 @@
+File name: 4645705
+
+Graph edges count: 39
+ algebra - techniqu: 1
+ analyt - domain: 1
+ anticip - recommend: 1
+ arbitrari - path: 1
+ constraint - expres: 1
+ current - draft: 1
+ dai - semant: 1
+ data - graph: 1
+ disk - resid: 1
+ effici - algebra: 1
+ evalu - framework: 1
+ extrac - queri: 2
+ graph - algorithm: 1
+ languag - sparq2l: 1
+ larg - scale: 1
+ limit - form: 1
+ main - memori: 1
+ mandatori - node: 1
+ memori - graph: 1
+ path - extrac: 1
+ path - problem: 1
+ path - queri: 2
+ path - structur: 1
+ path - variabl: 2
+ perform - evalu: 1
+ present - dai: 1
+ queri - evalu: 1
+ queri - languag: 2
+ rdf - databas: 1
+ rdf - graph: 1
+ real - world: 1
+ recommend - sparql: 1
+ resid - rdf: 1
+ scale - graph: 1
+ semant - web: 1
+ subgraph - extrac: 1
+ synthet - dataset: 1
+ variabl - constraint: 1
+ web - queri: 1
+
+PageRank scores count: 48
+ algebra: 0.01826920119349847
+ algorithm: 0.060980279073611546
+ analyt: 0.009875243888377551
+ anticip: 0.009875243888377551
+ arbitrari: 0.009875243888377551
+ constraint: 0.020909100765959
+ current: 0.009875243888377551
+ dai: 0.01826920119349847
+ data: 0.009875243888377551
+ databas: 0.02067197147208933
+ dataset: 0.01826920119349847
+ disk: 0.009875243888377551
+ domain: 0.01826920119349847
+ draft: 0.01826920119349847
+ effici: 0.009875243888377551
+ evalu: 0.042875903415644394
+ expres: 0.027647979539442695
+ extrac: 0.021374965396393213
+ form: 0.01826920119349847
+ framework: 0.04631976179167528
+ graph: 0.06012357080615764
+ languag: 0.03448194611052347
+ larg: 0.009875243888377551
+ limit: 0.009875243888377551
+ main: 0.009875243888377551
+ mandatori: 0.009875243888377551
+ memori: 0.01826920119349847
+ node: 0.01826920119349847
+ path: 0.01826920119349847
+ perform: 0.009875243888377551
+ present: 0.009875243888377551
+ problem: 0.012981008091272292
+ queri: 0.05789812287563746
+ rdf: 0.02540406490285125
+ real: 0.009875243888377551
+ recommend: 0.01826920119349847
+ resid: 0.01826920119349847
+ scale: 0.01826920119349847
+ semant: 0.02540406490285125
+ sparq2l: 0.0391848980823225
+ sparql: 0.02540406490285125
+ structur: 0.012981008091272292
+ subgraph: 0.009875243888377551
+ synthet: 0.009875243888377551
+ techniqu: 0.02540406490285125
+ variabl: 0.012981008091272292
+ web: 0.03146869905580111
+ world: 0.01826920119349847
+
+N-grams list: 10
+ queri evalu framework
+ queri languag sparq2l
+ web queri languag
+ path extrac queri
+ subgraph extrac queri
+ larg scale graph
+ main memori graph
+ path queri
+ data graph
+ algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,80 @@
+File name: 339601
+
+Graph edges count: 27
+ automat - web: 1
+ brazilian - onlin: 1
+ data - extrac: 2
+ data - repositori: 1
+ domainori - approach: 1
+ edit - distanc: 1
+ effect - result: 1
+ effici - access: 1
+ effici - tree: 1
+ extrac - result: 1
+ high - human: 1
+ huge - repositori: 1
+ human - interven: 1
+ import - brazilian: 1
+ low - qualiti: 1
+ major - effort: 1
+ new - extrac: 1
+ new - site: 1
+ onlin - new: 1
+ precis - result: 1
+ relev - inform: 1
+ structur - analysi: 1
+ tree - edit: 1
+ tree - structur: 1
+ web - data: 2
+ web - new: 1
+ web - site: 1
+
+PageRank scores count: 32
+ access: 0.023995643085826333
+ analysi: 0.03982066445688018
+ approach: 0.031152238392125414
+ automat: 0.01683904777952725
+ brazilian: 0.031152238392125414
+ data: 0.025665515323962784
+ distanc: 0.03982066445688018
+ domainori: 0.01683904777952725
+ edit: 0.02703719609100344
+ effect: 0.01683904777952725
+ effici: 0.01683904777952725
+ effort: 0.031152238392125414
+ extrac: 0.05430352601653184
+ high: 0.01683904777952725
+ huge: 0.01683904777952725
+ human: 0.031152238392125414
+ import: 0.01683904777952725
+ inform: 0.031152238392125414
+ interven: 0.04331845041283385
+ low: 0.01683904777952725
+ major: 0.01683904777952725
+ new: 0.06248619817487156
+ onlin: 0.04331845041283385
+ precis: 0.01683904777952725
+ qualiti: 0.031152238392125414
+ relev: 0.01683904777952725
+ repositori: 0.0420600824048096
+ result: 0.09162342611877565
+ site: 0.0522221495482832
+ structur: 0.02703719609100344
+ tree: 0.023995643085826333
+ web: 0.031152238392125414
+
+N-grams list: 10
+ extrac result
+ new site
+ web data extrac
+ automat web new
+ effect result
+ precis result
+ high human interven
+ import brazilian onlin
+ tree edit distanc
+ web site
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

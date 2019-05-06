@@ -1,0 +1,108 @@
+File name: 11620085
+
+Graph edges count: 34
+ addition - sulula: 1
+ cellular - phone: 1
+ data - upload: 1
+ deploy - incountri: 1
+ developingworld - access: 1
+ end - user: 1
+ experiment - result: 1
+ futur - visit: 1
+ instant - access: 1
+ kei - ondemand: 1
+ limit - connect: 1
+ marketplac - issu: 1
+ network - access: 1
+ network - environ: 1
+ network - task: 1
+ ongo - deploy: 1
+ person - data: 1
+ predict - prefetch: 1
+ privat - data: 1
+ proofofconcept - lesson: 1
+ secur - retriev: 1
+ session - kei: 1
+ signific - challeng: 1
+ signific - gain: 1
+ simpl - network: 1
+ simpl - sm: 1
+ singl - user: 1
+ small - ongo: 1
+ sm - messag: 1
+ standard - techniqu: 1
+ system - viabl: 1
+ task - unpleas: 1
+ tiresom - process: 1
+ typic - emailnew: 1
+
+PageRank scores count: 53
+ access: 0.037040987501090875
+ addition: 0.011934269029751391
+ cellular: 0.011934269029751391
+ challeng: 0.01700633336739573
+ connect: 0.022078397705040075
+ data: 0.032222526380328756
+ deploy: 0.030700907079035455
+ developingworld: 0.011934269029751391
+ emailnew: 0.022078397705040075
+ end: 0.011934269029751391
+ environ: 0.016752730150513515
+ experiment: 0.011934269029751391
+ futur: 0.011934269029751391
+ gain: 0.01700633336739573
+ incountri: 0.03803004004693153
+ instant: 0.011934269029751391
+ issu: 0.022078397705040075
+ kei: 0.022078397705040075
+ lesson: 0.022078397705040075
+ limit: 0.011934269029751391
+ marketplac: 0.011934269029751391
+ messag: 0.02638965239203776
+ network: 0.01700633336739573
+ ondemand: 0.030700907079035455
+ ongo: 0.022078397705040075
+ person: 0.011934269029751391
+ phone: 0.022078397705040075
+ predict: 0.011934269029751391
+ prefetch: 0.022078397705040075
+ privat: 0.011934269029751391
+ process: 0.022078397705040075
+ proofofconcept: 0.011934269029751391
+ result: 0.022078397705040075
+ retriev: 0.022078397705040075
+ secur: 0.011934269029751391
+ session: 0.011934269029751391
+ signific: 0.011934269029751391
+ simpl: 0.011934269029751391
+ singl: 0.011934269029751391
+ sm: 0.01700633336739573
+ small: 0.011934269029751391
+ standard: 0.011934269029751391
+ sulula: 0.022078397705040075
+ system: 0.011934269029751391
+ task: 0.016752730150513515
+ techniqu: 0.022078397705040075
+ tiresom: 0.011934269029751391
+ typic: 0.011934269029751391
+ unpleas: 0.02617408965768788
+ upload: 0.03932341645303083
+ user: 0.032222526380328756
+ viabl: 0.022078397705040075
+ visit: 0.022078397705040075
+
+N-grams list: 10
+ data upload
+ session kei ondemand
+ small ongo deploy
+ simpl sm messag
+ network access
+ instant access
+ developingworld access
+ simpl network task
+ privat data
+ end user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,77 @@
+File name: 8951730
+
+Graph edges count: 22
+ busi - process: 1
+ compon - model: 1
+ composi - languag: 1
+ deploy - descriptor: 1
+ enterpr - java: 1
+ function - part: 1
+ futur - standard: 1
+ hand - bpel: 1
+ java - bean: 1
+ main - compon: 1
+ middlewar - servic: 2
+ nonfunc - properti: 1
+ process - contain: 1
+ secur - reliabl: 1
+ serversid - compon: 1
+ servic - composi: 4
+ softwar - compon: 1
+ standard - web: 1
+ technic - concern: 1
+ transac - support: 1
+ transpar - integr: 1
+ web - servic: 6
+
+PageRank scores count: 34
+ bean: 0.04027761867308369
+ bpel: 0.028965440056445024
+ busi: 0.01565699462510542
+ compon: 0.05558233091912423
+ composi: 0.06937819816438665
+ concern: 0.028965440056445024
+ contain: 0.04027761867308369
+ deploy: 0.01565699462510542
+ descriptor: 0.028965440056445024
+ enterpr: 0.01565699462510542
+ function: 0.01565699462510542
+ futur: 0.01565699462510542
+ hand: 0.01565699462510542
+ integr: 0.028965440056445024
+ java: 0.028965440056445024
+ languag: 0.07462846306483407
+ main: 0.01565699462510542
+ middlewar: 0.01565699462510542
+ model: 0.06290197590636101
+ nonfunc: 0.01565699462510542
+ part: 0.028965440056445024
+ process: 0.028965440056445024
+ properti: 0.028965440056445024
+ reliabl: 0.028965440056445024
+ secur: 0.01565699462510542
+ serversid: 0.01565699462510542
+ servic: 0.06320141592856617
+ softwar: 0.01565699462510542
+ standard: 0.028965440056445024
+ support: 0.028965440056445024
+ technic: 0.01565699462510542
+ transac: 0.01565699462510542
+ transpar: 0.01565699462510542
+ web: 0.04027761867308369
+
+N-grams list: 10
+ servic composi languag
+ web servic composi
+ serversid compon model
+ web servic
+ enterpr java bean
+ futur standard web
+ middlewar servic
+ main compon
+ softwar compon
+ composi
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,67 @@
+File name: 3602861
+
+Graph edges count: 19
+ applic - scenario: 1
+ conceptu - model: 1
+ constraintbas - model: 1
+ databas - commun: 1
+ descrip - logic: 1
+ languag - rdf: 1
+ logic - program: 1
+ model - paradigm: 1
+ model - primit: 1
+ model - style: 1
+ ontologi - model: 1
+ owl - dl: 2
+ owl - flight: 3
+ practic - applic: 1
+ reason - task: 1
+ semant - web: 5
+ softwar - engin: 1
+ style - common: 1
+ web - languag: 1
+
+PageRank scores count: 27
+ applic: 0.03925597548446647
+ common: 0.057397717848560334
+ commun: 0.03925597548446647
+ conceptu: 0.021219446207819716
+ constraintbas: 0.021219446207819716
+ databas: 0.021219446207819716
+ descrip: 0.021219446207819716
+ dl: 0.028434057918478417
+ engin: 0.03925597548446647
+ flight: 0.032041363773807764
+ languag: 0.05458702536961622
+ logic: 0.03925597548446647
+ model: 0.07532903403775998
+ ontologi: 0.021219446207819716
+ owl: 0.021219446207819716
+ paradigm: 0.04256267251851838
+ practic: 0.021219446207819716
+ primit: 0.04256267251851838
+ program: 0.05458702536961622
+ rdf: 0.06761841777199351
+ reason: 0.021219446207819716
+ scenario: 0.05458702536961622
+ semant: 0.021219446207819716
+ softwar: 0.021219446207819716
+ style: 0.04256267251851838
+ task: 0.03925597548446647
+ web: 0.03925597548446647
+
+N-grams list: 10
+ constraintbas model style
+ model primit
+ model paradigm
+ practic applic scenario
+ semant web languag
+ conceptu model
+ ontologi model
+ logic program
+ model
+ rdf
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

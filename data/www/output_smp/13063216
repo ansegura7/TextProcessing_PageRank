@@ -1,0 +1,67 @@
+File name: 13063216
+
+Graph edges count: 19
+ base - featur: 3
+ clickthrough - rate: 1
+ featur - common: 1
+ imag - base: 1
+ imag - featur: 1
+ larg - scale: 1
+ onlin - shop: 1
+ photographi - literatur: 1
+ product - imag: 1
+ product - search: 2
+ rank - function: 1
+ regres - model: 1
+ scale - product: 1
+ search - engin: 2
+ signific - correl: 1
+ standard - regres: 1
+ stochast - gradient: 1
+ text - base: 2
+ user - click: 1
+
+PageRank scores count: 27
+ base: 0.05446140211295349
+ click: 0.03677597744114767
+ clickthrough: 0.019878906724944686
+ common: 0.09115695143879153
+ correl: 0.03677597744114767
+ engin: 0.05524975606855635
+ featur: 0.08385652319276099
+ function: 0.03677597744114767
+ gradient: 0.03677597744114767
+ imag: 0.04161276393366078
+ larg: 0.019878906724944686
+ literatur: 0.03677597744114767
+ model: 0.0511384875499202
+ onlin: 0.019878906724944686
+ photographi: 0.019878906724944686
+ product: 0.0511384875499202
+ rank: 0.019878906724944686
+ rate: 0.03677597744114767
+ regres: 0.03677597744114767
+ scale: 0.03677597744114767
+ search: 0.04161276393366078
+ shop: 0.03677597744114767
+ signific: 0.019878906724944686
+ standard: 0.019878906724944686
+ stochast: 0.019878906724944686
+ text: 0.019878906724944686
+ user: 0.019878906724944686
+
+N-grams list: 10
+ imag base featur
+ text base featur
+ product search engin
+ imag featur
+ larg scale product
+ search engin
+ product imag
+ common
+ regres model
+ featur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

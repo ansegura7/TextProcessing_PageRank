@@ -1,0 +1,78 @@
+File name: 461122
+
+Graph edges count: 27
+ boolean - connect: 1
+ compos - fulltext: 1
+ connect - phrase: 1
+ current - xml: 1
+ fulltext - languag: 1
+ fulltext - predic: 1
+ fulltext - search: 3
+ kei - benefit: 1
+ languag - exten: 1
+ match - proxim: 1
+ ofth - fulltext: 1
+ phrase - match: 1
+ power - fulltext: 1
+ precursor - ofth: 1
+ proxim - distanc: 1
+ queri - languag: 1
+ queri - result: 1
+ rich - queri: 1
+ rich - set: 1
+ rudimentari - queri: 1
+ search - exten: 2
+ search - primit: 1
+ structur - data: 1
+ texqueri - primit: 1
+ text - data: 2
+ toscor - queri: 1
+ xml - queri: 1
+
+PageRank scores count: 30
+ benefit: 0.02801142268594747
+ boolean: 0.015141309559971606
+ compos: 0.015141309559971606
+ connect: 0.02801142268594747
+ current: 0.015141309559971606
+ data: 0.04088153581192333
+ distanc: 0.0628718132900009
+ exten: 0.08351056801343688
+ fulltext: 0.06469124509497869
+ kei: 0.015141309559971606
+ languag: 0.06369917387485137
+ match: 0.04824967557654452
+ ofth: 0.02801142268594747
+ phrase: 0.03895101884302696
+ power: 0.015141309559971606
+ precursor: 0.015141309559971606
+ predic: 0.033470495670215566
+ primit: 0.04223638334578909
+ proxim: 0.056153533800034454
+ queri: 0.07112630165796661
+ result: 0.04536998776460741
+ rich: 0.015141309559971606
+ rudimentari: 0.015141309559971606
+ search: 0.033470495670215566
+ set: 0.021576366122959538
+ structur: 0.015141309559971606
+ texqueri: 0.015141309559971606
+ text: 0.015141309559971606
+ toscor: 0.015141309559971606
+ xml: 0.02801142268594747
+
+N-grams list: 10
+ fulltext search exten
+ match proxim distanc
+ languag exten
+ toscor queri result
+ current xml queri
+ compos fulltext search
+ power fulltext search
+ precursor ofth fulltext
+ fulltext predic
+ rudimentari queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

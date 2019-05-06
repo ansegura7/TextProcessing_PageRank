@@ -1,0 +1,87 @@
+File name: 14445422
+
+Graph edges count: 29
+ atom - user: 2
+ commerci - search: 1
+ complementari - result: 1
+ experiment - result: 1
+ extens - analys: 1
+ larg - scale: 1
+ page - util: 1
+ potenti - applic: 1
+ previou - studi: 1
+ queri - level: 1
+ queri - pair: 1
+ queri - sugges: 2
+ recommend - system: 1
+ scale - dataset: 1
+ search - applic: 2
+ search - behavior: 1
+ search - engin: 1
+ search - interest: 1
+ search - log: 2
+ search - task: 1
+ taskbas - queri: 1
+ task - identif: 1
+ task - trail: 1
+ topic - similar: 1
+ user - inform: 2
+ user - satisfac: 2
+ user - search: 2
+ web - page: 1
+ web - search: 2
+
+PageRank scores count: 37
+ analys: 0.03263068130063715
+ applic: 0.03962508743543551
+ atom: 0.017638206108452514
+ behavior: 0.024632612243250876
+ commerci: 0.017638206108452514
+ complementari: 0.017638206108452514
+ dataset: 0.04537428521399409
+ engin: 0.024632612243250876
+ experiment: 0.017638206108452514
+ extens: 0.017638206108452514
+ identif: 0.028107066311834135
+ inform: 0.026883565810299704
+ interest: 0.024632612243250876
+ larg: 0.017638206108452514
+ level: 0.026883565810299704
+ log: 0.024632612243250876
+ page: 0.02513444370454483
+ pair: 0.026883565810299704
+ potenti: 0.017638206108452514
+ previou: 0.017638206108452514
+ queri: 0.03263068130063715
+ recommend: 0.017638206108452514
+ result: 0.04762315649282178
+ satisfac: 0.026883565810299704
+ scale: 0.03263068130063715
+ search: 0.04937227859857666
+ similar: 0.03263068130063715
+ studi: 0.03263068130063715
+ sugges: 0.026883565810299704
+ system: 0.03263068130063715
+ task: 0.024632612243250876
+ taskbas: 0.017638206108452514
+ topic: 0.017638206108452514
+ trail: 0.028107066311834135
+ user: 0.03263068130063715
+ util: 0.039002483257315625
+ web: 0.017638206108452514
+
+N-grams list: 10
+ user search interest
+ user search behavior
+ larg scale dataset
+ web search log
+ commerci search engin
+ search applic
+ web page util
+ taskbas queri sugges
+ atom user inform
+ search task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,58 @@
+File name: 4301483
+
+Graph edges count: 15
+ anonym - scheme: 1
+ aspecif - techniqu: 1
+ concret - analysi: 1
+ hash - function: 1
+ log - anonym: 1
+ name - address: 1
+ partial - comprom: 1
+ preserv - properti: 1
+ privaci - preserv: 1
+ queri - log: 2
+ secur - hash: 1
+ specif - risk: 1
+ specif - techniqu: 1
+ statist - techniqu: 1
+ unambigu - name: 1
+
+PageRank scores count: 22
+ address: 0.06747253395756905
+ analysi: 0.04852252199086598
+ anonym: 0.06747253395756905
+ aspecif: 0.026228390265332965
+ comprom: 0.04852252199086598
+ concret: 0.026228390265332965
+ function: 0.06747253395756905
+ hash: 0.04852252199086598
+ log: 0.04852252199086598
+ name: 0.04852252199086598
+ partial: 0.026228390265332965
+ preserv: 0.04852252199086598
+ privaci: 0.026228390265332965
+ properti: 0.06747253395756905
+ queri: 0.026228390265332965
+ risk: 0.03737545612809947
+ scheme: 0.08358004412926666
+ secur: 0.026228390265332965
+ specif: 0.026228390265332965
+ statist: 0.026228390265332965
+ techniqu: 0.0819637195791655
+ unambigu: 0.026228390265332965
+
+N-grams list: 10
+ anonym scheme
+ privaci preserv properti
+ secur hash function
+ unambigu name address
+ queri log anonym
+ statist techniqu
+ aspecif techniqu
+ specif techniqu
+ concret analysi
+ queri log
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

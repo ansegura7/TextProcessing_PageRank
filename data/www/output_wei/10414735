@@ -1,0 +1,51 @@
+File name: 10414735
+
+Graph edges count: 12
+ docum - peopl: 2
+ effect - method: 1
+ facet - search: 1
+ largescal - experi: 1
+ larg - enterpr: 1
+ present - largescal: 1
+ search - engin: 2
+ search - term: 1
+ social - bookmark: 1
+ social - search: 2
+ unifi - approach: 1
+ unifi - manner: 1
+
+PageRank scores count: 18
+ approach: 0.05167412063338572
+ bookmark: 0.046536927354043287
+ docum: 0.03626254079535841
+ effect: 0.03626254079535841
+ engin: 0.085922075829002
+ enterpr: 0.06708570047141305
+ experi: 0.0932853861960595
+ facet: 0.03626254079535841
+ larg: 0.03626254079535841
+ largescal: 0.06708570047141305
+ manner: 0.05167412063338572
+ method: 0.06708570047141305
+ peopl: 0.06708570047141305
+ present: 0.03626254079535841
+ search: 0.08763447358878282
+ social: 0.03626254079535841
+ term: 0.0610923083121802
+ unifi: 0.03626254079535841
+
+N-grams list: 10
+ social search engin
+ present largescal experi
+ search engin
+ search term
+ social search
+ facet search
+ effect method
+ docum peopl
+ larg enterpr
+ unifi approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

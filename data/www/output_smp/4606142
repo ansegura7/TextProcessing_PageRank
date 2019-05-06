@@ -1,0 +1,55 @@
+File name: 4606142
+
+Graph edges count: 14
+ addition - materi: 1
+ blog - system: 1
+ cgbase - video: 1
+ direc - style: 2
+ gener - public: 1
+ materi - content: 2
+ movi - file: 2
+ program - script: 1
+ rss - feed: 1
+ script - direc: 1
+ server - side: 1
+ textbas - video: 1
+ video - blog: 2
+ video - program: 2
+
+PageRank scores count: 20
+ addition: 0.025799026694631848
+ blog: 0.055403409826721886
+ cgbase: 0.025799026694631848
+ content: 0.06636799617194043
+ direc: 0.08775716298487547
+ feed: 0.04772819938506891
+ file: 0.04772819938506891
+ gener: 0.025799026694631848
+ materi: 0.04772819938506891
+ movi: 0.025799026694631848
+ program: 0.055403409826721886
+ public: 0.04772819938506891
+ rss: 0.025799026694631848
+ script: 0.07289192504734544
+ server: 0.025799026694631848
+ side: 0.04772819938506891
+ style: 0.100392615231776
+ system: 0.07289192504734544
+ textbas: 0.025799026694631848
+ video: 0.06965737207550599
+
+N-grams list: 10
+ script direc style
+ video blog system
+ direc style
+ cgbase video program
+ textbas video blog
+ addition materi content
+ program script
+ video program
+ materi content
+ server side
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

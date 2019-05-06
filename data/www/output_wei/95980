@@ -1,0 +1,63 @@
+File name: 95980
+
+Graph edges count: 16
+ activ - databas: 2
+ conven - activ: 1
+ docum - constraint: 1
+ dynam - applic: 1
+ eca - rule: 4
+ eventconditionac - languag: 1
+ import - question: 1
+ natur - method: 1
+ publishsubscrib - applic: 1
+ reactiv - function: 1
+ repositori - statist: 1
+ runtim - behavior: 1
+ widespread - mean: 1
+ xml - repositori: 2
+ xml - set: 2
+ xml - xml: 1
+
+PageRank scores count: 26
+ activ: 0.04726044070202779
+ applic: 0.06897469724079733
+ behavior: 0.04726044070202779
+ constraint: 0.04726044070202779
+ conven: 0.02554618416325827
+ databas: 0.06571755875998189
+ docum: 0.02554618416325827
+ dynam: 0.02554618416325827
+ eca: 0.02554618416325827
+ eventconditionac: 0.02554618416325827
+ function: 0.04726044070202779
+ import: 0.02554618416325827
+ languag: 0.04726044070202779
+ mean: 0.04726044070202779
+ method: 0.04726044070202779
+ natur: 0.02554618416325827
+ publishsubscrib: 0.02554618416325827
+ question: 0.04726044070202779
+ reactiv: 0.02554618416325827
+ repositori: 0.03601088706604037
+ rule: 0.04726044070202779
+ runtim: 0.02554618416325827
+ set: 0.03601088706604037
+ statist: 0.05615544213839924
+ widespread: 0.02554618416325827
+ xml: 0.03077853561464932
+
+N-grams list: 10
+ conven activ databas
+ activ databas
+ xml xml repositori
+ publishsubscrib applic
+ dynam applic
+ repositori statist
+ docum constraint
+ runtim behavior
+ reactiv function
+ eventconditionac languag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

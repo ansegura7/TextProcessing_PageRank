@@ -1,0 +1,75 @@
+File name: 92026
+
+Graph edges count: 22
+ campu - design: 1
+ elearn - environ: 1
+ elearn - person: 1
+ elearn - standard: 1
+ learn - resourc: 1
+ longterm - navig: 1
+ main - goal: 1
+ mine - tool: 1
+ navig - behavior: 3
+ optim - schedul: 1
+ practic - framework: 1
+ recommend - itinerari: 1
+ relev - inform: 1
+ scorm - elearn: 1
+ scorm - standard: 1
+ system - usag: 1
+ teacher - expert: 1
+ usag - analysi: 1
+ usag - mine: 1
+ user - navig: 1
+ user - profil: 1
+ virtual - campu: 3
+
+PageRank scores count: 32
+ analysi: 0.03571906170599138
+ behavior: 0.058665246902702424
+ campu: 0.03699384977247532
+ design: 0.05144144785929339
+ elearn: 0.028495262662582344
+ environ: 0.0280703333070877
+ expert: 0.03699384977247532
+ framework: 0.03699384977247532
+ goal: 0.03699384977247532
+ inform: 0.03699384977247532
+ itinerari: 0.03699384977247532
+ learn: 0.019996675552689365
+ longterm: 0.019996675552689365
+ main: 0.019996675552689365
+ mine: 0.03571906170599138
+ navig: 0.04549243688236831
+ optim: 0.019996675552689365
+ person: 0.0280703333070877
+ practic: 0.019996675552689365
+ profil: 0.028495262662582344
+ recommend: 0.019996675552689365
+ relev: 0.019996675552689365
+ resourc: 0.03699384977247532
+ schedul: 0.03699384977247532
+ scorm: 0.019996675552689365
+ standard: 0.03656892041698067
+ system: 0.019996675552689365
+ teacher: 0.019996675552689365
+ tool: 0.05035787800278203
+ usag: 0.03699384977247532
+ user: 0.019996675552689365
+ virtual: 0.019996675552689365
+
+N-grams list: 10
+ longterm navig behavior
+ user navig behavior
+ usag mine tool
+ virtual campu design
+ navig behavior
+ system usag analysi
+ scorm elearn standard
+ teacher expert
+ recommend itinerari
+ practic framework
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

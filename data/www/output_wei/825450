@@ -1,0 +1,83 @@
+File name: 825450
+
+Graph edges count: 26
+ biolog - concept: 1
+ biolog - ontologi: 2
+ biolog - relationship: 1
+ complex - ontologi: 1
+ divers - collec: 1
+ emerg - framework: 1
+ experiment - domain: 1
+ experiment - lifecycl: 1
+ glycobiologi - research: 1
+ glycoproteom - data: 1
+ glycoproteom - experiment: 1
+ glycoproteom - similar: 1
+ heterogen - data: 1
+ high - throughput: 2
+ informat - solution: 1
+ instanc - base: 1
+ knowledg - model: 1
+ larg - dataset: 1
+ larg - scale: 1
+ larg - volum: 1
+ life - scienc: 1
+ nativ - biolog: 1
+ ontologi - high: 1
+ ontologi - schema: 1
+ semant - structur: 1
+ throughput - glycoproteom: 2
+
+PageRank scores count: 36
+ base: 0.03149641551170559
+ biolog: 0.03149641551170559
+ collec: 0.03149641551170559
+ complex: 0.017025089465786805
+ concept: 0.02371807776202424
+ data: 0.047810392461636424
+ dataset: 0.0218488648144264
+ divers: 0.017025089465786805
+ domain: 0.0311941926924668
+ emerg: 0.017025089465786805
+ experiment: 0.033339066415717634
+ framework: 0.03149641551170559
+ glycobiologi: 0.017025089465786805
+ glycoproteom: 0.05757874217622646
+ heterogen: 0.017025089465786805
+ high: 0.0361001061100635
+ informat: 0.017025089465786805
+ instanc: 0.017025089465786805
+ knowledg: 0.017025089465786805
+ larg: 0.017025089465786805
+ life: 0.017025089465786805
+ lifecycl: 0.0311941926924668
+ model: 0.03149641551170559
+ nativ: 0.017025089465786805
+ ontologi: 0.04488239210418046
+ relationship: 0.02371807776202424
+ research: 0.03149641551170559
+ scale: 0.0218488648144264
+ schema: 0.0361001061100635
+ scienc: 0.03149641551170559
+ semant: 0.017025089465786805
+ similar: 0.033339066415717634
+ solution: 0.03149641551170559
+ structur: 0.03149641551170559
+ throughput: 0.047710179659340775
+ volum: 0.0218488648144264
+
+N-grams list: 10
+ high throughput glycoproteom
+ ontologi high throughput
+ biolog ontologi schema
+ glycoproteom data
+ glycoproteom similar
+ biolog ontologi
+ nativ biolog relationship
+ heterogen data
+ experiment domain
+ experiment lifecycl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

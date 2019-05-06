@@ -1,0 +1,35 @@
+File name: 10348116
+
+Graph edges count: 7
+ queri - evalu: 1
+ schema - evolu: 3
+ schema - valid: 1
+ schema - version: 1
+ xml - databas: 1
+ xml - queri: 1
+ xml - schema: 2
+
+PageRank scores count: 8
+ databas: 0.10931425029582462
+ evalu: 0.18307319546965678
+ evolu: 0.155677015833662
+ queri: 0.10931425029582462
+ schema: 0.12847241787344338
+ valid: 0.11199639375669125
+ version: 0.11199639375669125
+ xml: 0.09015608271820588
+
+N-grams list: 9
+ xml schema evolu
+ queri evalu
+ schema evolu
+ schema valid
+ schema version
+ xml queri
+ xml databas
+ schema
+ queri
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

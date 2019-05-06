@@ -1,0 +1,103 @@
+File name: 8935007
+
+Graph edges count: 32
+ applicationspecif - cost: 1
+ applic - capabl: 1
+ applic - logic: 1
+ cach - infrastructur: 1
+ clientspecif - data: 1
+ client - devic: 3
+ client - server: 1
+ coher - requir: 1
+ cost - metric: 1
+ cpidriven - ondevic: 1
+ data - share: 1
+ deploy - environ: 1
+ flexibl - ondevic: 1
+ huge - diverg: 1
+ larg - amount: 1
+ mobil - environ: 1
+ object - replic: 2
+ ondevic - replic: 1
+ ondevic - servic: 2
+ person - content: 1
+ prefer - inform: 1
+ replet - system: 2
+ replica - invoc: 1
+ resourc - avail: 1
+ servic - object: 4
+ servletbas - web: 1
+ signific - benefit: 1
+ simul - result: 1
+ state - consist: 1
+ weak - connec: 1
+ webrel - applic: 1
+ web - applic: 2
+
+PageRank scores count: 50
+ amount: 0.022168950168394146
+ applic: 0.041012557811529175
+ applicationspecif: 0.011983216307240079
+ avail: 0.022168950168394146
+ benefit: 0.022168950168394146
+ cach: 0.011983216307240079
+ capabl: 0.02941355337713998
+ client: 0.011983216307240079
+ clientspecif: 0.011983216307240079
+ coher: 0.011983216307240079
+ connec: 0.022168950168394146
+ consist: 0.022168950168394146
+ content: 0.022168950168394146
+ cost: 0.022168950168394146
+ cpidriven: 0.011983216307240079
+ data: 0.022168950168394146
+ deploy: 0.011983216307240079
+ devic: 0.01962251670310563
+ diverg: 0.022168950168394146
+ environ: 0.03235468402954821
+ flexibl: 0.011983216307240079
+ huge: 0.011983216307240079
+ inform: 0.022168950168394146
+ infrastructur: 0.022168950168394146
+ invoc: 0.022168950168394146
+ larg: 0.011983216307240079
+ logic: 0.02941355337713998
+ metric: 0.030826823950375108
+ mobil: 0.011983216307240079
+ object: 0.03775312297595987
+ ondevic: 0.03235468402954821
+ person: 0.011983216307240079
+ prefer: 0.011983216307240079
+ replet: 0.011983216307240079
+ replic: 0.053240531311844634
+ replica: 0.011983216307240079
+ requir: 0.022168950168394146
+ resourc: 0.011983216307240079
+ result: 0.022168950168394146
+ server: 0.014529649772528595
+ servic: 0.030317537257317402
+ servletbas: 0.011983216307240079
+ share: 0.030826823950375108
+ signific: 0.011983216307240079
+ simul: 0.011983216307240079
+ state: 0.011983216307240079
+ system: 0.022168950168394146
+ weak: 0.011983216307240079
+ web: 0.022168950168394146
+ webrel: 0.011983216307240079
+
+N-grams list: 10
+ object replic
+ ondevic replic
+ webrel applic logic
+ servletbas web applic
+ flexibl ondevic servic
+ cpidriven ondevic servic
+ applic capabl
+ servic object
+ applicationspecif cost metric
+ web applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

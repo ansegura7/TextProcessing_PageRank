@@ -1,0 +1,85 @@
+File name: 13062911
+
+Graph edges count: 25
+ base - affect: 1
+ bengali - text: 2
+ comput - approach: 1
+ constraint - languag: 1
+ doctor - thesi: 1
+ docum - level: 1
+ emotion - corpora: 1
+ emotion - expres: 1
+ emotion - resourc: 1
+ evalu - emotion: 1
+ label - emotion: 1
+ level - granular: 1
+ lexic - resourc: 1
+ ongo - doctor: 1
+ phrase - sentenc: 1
+ preliminari - urgenc: 1
+ present - discus: 1
+ research - spectrum: 2
+ resourc - constraint: 1
+ satisfactori - outcom: 1
+ semisupervis - strategi: 1
+ sens - base: 1
+ unlabel - exampl: 1
+ unsupervis - supervis: 1
+ word - phrase: 1
+
+PageRank scores count: 39
+ affect: 0.03889060119238053
+ approach: 0.027967973646609908
+ base: 0.027967973646609908
+ bengali: 0.015117823592762114
+ comput: 0.015117823592762114
+ constraint: 0.048720965983574095
+ corpora: 0.02668295864122513
+ discus: 0.027967973646609908
+ doctor: 0.027967973646609908
+ docum: 0.015117823592762114
+ emotion: 0.040818123700457704
+ evalu: 0.015117823592762114
+ exampl: 0.027967973646609908
+ expres: 0.02668295864122513
+ granular: 0.03889060119238053
+ label: 0.015117823592762114
+ languag: 0.05653064467880009
+ level: 0.027967973646609908
+ lexic: 0.015117823592762114
+ ongo: 0.015117823592762114
+ outcom: 0.027967973646609908
+ phrase: 0.027967973646609908
+ preliminari: 0.015117823592762114
+ present: 0.015117823592762114
+ research: 0.015117823592762114
+ resourc: 0.03953310869507293
+ satisfactori: 0.015117823592762114
+ semisupervis: 0.015117823592762114
+ sens: 0.015117823592762114
+ sentenc: 0.03889060119238053
+ spectrum: 0.027967973646609908
+ strategi: 0.027967973646609908
+ supervis: 0.027967973646609908
+ text: 0.027967973646609908
+ thesi: 0.03889060119238053
+ unlabel: 0.015117823592762114
+ unsupervis: 0.015117823592762114
+ urgenc: 0.027967973646609908
+ word: 0.015117823592762114
+
+N-grams list: 10
+ resourc constraint languag
+ evalu emotion expres
+ label emotion corpora
+ word phrase sentenc
+ ongo doctor thesi
+ docum level granular
+ sens base affect
+ emotion resourc
+ lexic resourc
+ preliminari urgenc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

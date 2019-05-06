@@ -1,0 +1,84 @@
+File name: 10389546
+
+Graph edges count: 29
+ area - sync: 1
+ cach - approach: 1
+ cach - toolkit: 1
+ clientserv - toolkit: 1
+ clientsid - databas: 2
+ clientsid - templat: 1
+ concurr - connec: 1
+ databas - cach: 1
+ databas - storag: 1
+ databas - tabl: 1
+ data - intens: 2
+ data - storag: 1
+ embed - relat: 1
+ html5 - standard: 1
+ intens - websit: 2
+ persist - clientsid: 1
+ portion - web: 1
+ prior - work: 1
+ recent - templat: 1
+ relat - databas: 2
+ serveronli - web: 1
+ sync - kit: 4
+ templat - cach: 1
+ templat - librari: 1
+ tradition - serveronli: 1
+ web - applic: 1
+ web - browser: 1
+ web - server: 2
+ web - session: 1
+
+PageRank scores count: 34
+ applic: 0.02810078372460307
+ approach: 0.037509692748648335
+ area: 0.01626879451427095
+ browser: 0.02810078372460307
+ cach: 0.04997858408088797
+ clientserv: 0.01626879451427095
+ clientsid: 0.030097269851401254
+ concurr: 0.01626879451427095
+ connec: 0.030097269851401254
+ data: 0.01626879451427095
+ databas: 0.05464281357480755
+ embed: 0.01626879451427095
+ html5: 0.01626879451427095
+ intens: 0.023183032182836103
+ kit: 0.04185147388796201
+ librari: 0.03449645356802583
+ persist: 0.01626879451427095
+ portion: 0.01626879451427095
+ prior: 0.01626879451427095
+ recent: 0.01626879451427095
+ relat: 0.030097269851401254
+ server: 0.02810078372460307
+ serveronli: 0.030097269851401254
+ session: 0.02810078372460307
+ standard: 0.030097269851401254
+ storag: 0.03866516269569824
+ sync: 0.030097269851401254
+ tabl: 0.03175092502713308
+ templat: 0.04288860953824679
+ toolkit: 0.05133816808577864
+ tradition: 0.01626879451427095
+ web: 0.055679949225092326
+ websit: 0.03597437186968164
+ work: 0.030097269851401254
+
+N-grams list: 10
+ clientsid databas storag
+ relat databas tabl
+ recent templat cach
+ clientsid templat librari
+ tradition serveronli web
+ cach toolkit
+ persist clientsid databas
+ embed relat databas
+ portion web applic
+ area sync kit
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

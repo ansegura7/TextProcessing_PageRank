@@ -1,0 +1,64 @@
+File name: 5125677
+
+Graph edges count: 19
+ chang - inform: 1
+ comput - overhead: 2
+ comput - save: 1
+ expir - time: 2
+ level - agreem: 1
+ life - time: 1
+ optim - decision: 1
+ predefin - servic: 1
+ realist - scenario: 1
+ servic - composi: 1
+ servic - expir: 1
+ servic - level: 1
+ servic - paramet: 2
+ servic - provid: 2
+ substanti - comput: 1
+ time - web: 1
+ volatil - environ: 1
+ web - process: 4
+ web - servic: 1
+
+PageRank scores count: 24
+ agreem: 0.05454307162221654
+ chang: 0.02325388071962031
+ composi: 0.03681081305320277
+ comput: 0.04301967933129757
+ decision: 0.04301967933129757
+ environ: 0.04301967933129757
+ expir: 0.03681081305320277
+ inform: 0.04301967933129757
+ level: 0.03681081305320277
+ life: 0.02325388071962031
+ optim: 0.02325388071962031
+ overhead: 0.041537244435421776
+ paramet: 0.03681081305320277
+ predefin: 0.02325388071962031
+ process: 0.059980859907912285
+ provid: 0.03681081305320277
+ realist: 0.02325388071962031
+ save: 0.041537244435421776
+ scenario: 0.04301967933129757
+ servic: 0.07974665851958956
+ substanti: 0.02325388071962031
+ time: 0.0743088702338938
+ volatil: 0.02325388071962031
+ web: 0.0864164238857002
+
+N-grams list: 10
+ web servic composi
+ expir time web
+ servic expir time
+ web process
+ predefin servic level
+ servic provid
+ servic paramet
+ substanti comput overhead
+ life time
+ comput overhead
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

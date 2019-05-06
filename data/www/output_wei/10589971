@@ -1,0 +1,52 @@
+File name: 10589971
+
+Graph edges count: 12
+ dynam - revision: 1
+ feedback - mechan: 1
+ onlin - social: 1
+ person - feedback: 1
+ relationship - qualiti: 1
+ robust - trust: 1
+ salient - featur: 1
+ socialtrust - framework: 1
+ social - network: 3
+ tamperresili - trust: 1
+ trust - establish: 2
+ webbas - social: 1
+
+PageRank scores count: 19
+ dynam: 0.030476190476190473
+ establish: 0.1004190476190476
+ featur: 0.05638095238095238
+ feedback: 0.05638095238095238
+ framework: 0.05638095238095238
+ mechan: 0.0784
+ network: 0.10041904761904762
+ onlin: 0.030476190476190473
+ person: 0.030476190476190473
+ qualiti: 0.05638095238095238
+ relationship: 0.030476190476190473
+ revision: 0.05638095238095238
+ robust: 0.030476190476190473
+ salient: 0.030476190476190473
+ social: 0.08228571428571428
+ socialtrust: 0.030476190476190473
+ tamperresili: 0.030476190476190473
+ trust: 0.08228571428571428
+ webbas: 0.030476190476190473
+
+N-grams list: 10
+ onlin social network
+ robust trust establish
+ tamperresili trust establish
+ webbas social network
+ social network
+ person feedback mechan
+ dynam revision
+ salient featur
+ socialtrust framework
+ relationship qualiti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

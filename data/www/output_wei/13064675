@@ -1,0 +1,36 @@
+File name: 13064675
+
+Graph edges count: 8
+ busi - account: 1
+ busi - tweet: 2
+ busi - twitter: 1
+ initi - explor: 1
+ specif - busi: 1
+ tweet - class: 1
+ tweet - type: 1
+ twitter - account: 1
+
+PageRank scores count: 9
+ account: 0.17210595180707805
+ busi: 0.12353948985703225
+ class: 0.117473116596654
+ explor: 0.12353948985703225
+ initi: 0.06677810262542284
+ specif: 0.06677810262542284
+ tweet: 0.11928238581466155
+ twitter: 0.0930302442200422
+ type: 0.117473116596654
+
+N-grams list: 8
+ busi twitter account
+ busi tweet type
+ specif busi tweet
+ busi account
+ initi explor
+ busi
+ class
+ twitter
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,82 @@
+File name: 6315215
+
+Graph edges count: 24
+ ag - languag: 1
+ anonym - data: 1
+ averag - path: 1
+ collect - dynam: 1
+ commun - activ: 1
+ commun - graph: 1
+ crossgend - convers: 1
+ highlevel - commun: 1
+ instantmessag - network: 1
+ instantmessag - system: 1
+ larg - instantmessag: 1
+ larg - number: 1
+ messeng - instantmessag: 1
+ messeng - user: 1
+ multipl - aspect: 1
+ node - remov: 1
+ oftcit - report: 1
+ path - length: 1
+ planetaryscal - view: 1
+ similar - ag: 1
+ social - network: 1
+ soft - messeng: 1
+ summari - properti: 1
+ undirect - edg: 1
+
+PageRank scores count: 37
+ activ: 0.030840184609474543
+ ag: 0.031940849000715414
+ anonym: 0.017265323784170495
+ aspect: 0.031940849000715414
+ averag: 0.017265323784170495
+ collect: 0.017265323784170495
+ commun: 0.031940849000715414
+ convers: 0.031940849000715414
+ crossgend: 0.017265323784170495
+ data: 0.031940849000715414
+ dynam: 0.031940849000715414
+ edg: 0.031940849000715414
+ graph: 0.030840184609474543
+ highlevel: 0.017265323784170495
+ instantmessag: 0.03817794721774701
+ languag: 0.044415045434778595
+ larg: 0.017265323784170495
+ length: 0.044415045434778595
+ messeng: 0.031940849000715414
+ multipl: 0.017265323784170495
+ network: 0.04816647656825789
+ node: 0.017265323784170495
+ number: 0.024603086392442956
+ oftcit: 0.017265323784170495
+ path: 0.031940849000715414
+ planetaryscal: 0.017265323784170495
+ properti: 0.031940849000715414
+ remov: 0.031940849000715414
+ report: 0.031940849000715414
+ similar: 0.017265323784170495
+ social: 0.017265323784170495
+ soft: 0.017265323784170495
+ summari: 0.017265323784170495
+ system: 0.033490951351712976
+ undirect: 0.017265323784170495
+ user: 0.030840184609474543
+ view: 0.031940849000715414
+
+N-grams list: 10
+ larg instantmessag network
+ similar ag languag
+ averag path length
+ soft messeng instantmessag
+ highlevel commun activ
+ social network
+ messeng user
+ commun graph
+ oftcit report
+ undirect edg
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

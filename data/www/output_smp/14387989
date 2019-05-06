@@ -1,0 +1,51 @@
+File name: 14387989
+
+Graph edges count: 12
+ activ - learn: 1
+ consist - rank: 1
+ hodg - decomposi: 3
+ inconsist - compon: 1
+ learn - strategi: 1
+ multiobject - rank: 2
+ multipl - object: 1
+ onlin - hodg: 1
+ price - recenc: 1
+ product - rank: 1
+ rate - etc: 1
+ recenc - rate: 1
+
+PageRank scores count: 18
+ activ: 0.031541636932102685
+ compon: 0.058352028324389967
+ consist: 0.031541636932102685
+ decomposi: 0.08114086100783417
+ etc: 0.10051136878876173
+ hodg: 0.058352028324389967
+ inconsist: 0.031541636932102685
+ learn: 0.058352028324389967
+ multiobject: 0.031541636932102685
+ multipl: 0.031541636932102685
+ object: 0.058352028324389967
+ onlin: 0.031541636932102685
+ price: 0.031541636932102685
+ product: 0.031541636932102685
+ rank: 0.11197281110896454
+ rate: 0.08114086100783417
+ recenc: 0.058352028324389967
+ strategi: 0.08114086100783417
+
+N-grams list: 10
+ price recenc rate
+ activ learn strategi
+ onlin hodg decomposi
+ product rank
+ multiobject rank
+ consist rank
+ hodg decomposi
+ rank
+ etc
+ multipl object
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

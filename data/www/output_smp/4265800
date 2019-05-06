@@ -1,0 +1,74 @@
+File name: 4265800
+
+Graph edges count: 23
+ behavior - pattern: 1
+ clickthrough - data: 3
+ cluster - structur: 2
+ collabor - web: 2
+ cooccurr - relationship: 1
+ cubeclust - approach: 1
+ cw - approach: 1
+ cw - framework: 1
+ group - behavior: 1
+ heterogen - web: 1
+ histori - data: 1
+ mine - clickthrough: 1
+ probabilist - model: 1
+ probabilist - relat: 1
+ realworld - clickthrough: 1
+ search - activ: 2
+ search - histori: 1
+ search - perform: 1
+ semant - cluster: 1
+ user - queri: 1
+ web - object: 2
+ web - page: 1
+ web - search: 3
+
+PageRank scores count: 30
+ activ: 0.030085713614792384
+ approach: 0.04562746412331716
+ behavior: 0.03710365214423593
+ clickthrough: 0.05415127610239838
+ cluster: 0.03710365214423593
+ collabor: 0.020056028186073476
+ cooccurr: 0.020056028186073476
+ cubeclust: 0.020056028186073476
+ cw: 0.020056028186073476
+ data: 0.09165746944568562
+ framework: 0.0285798401651547
+ group: 0.020056028186073476
+ heterogen: 0.020056028186073476
+ histori: 0.030085713614792384
+ mine: 0.020056028186073476
+ model: 0.0285798401651547
+ object: 0.03539888974841968
+ page: 0.03539888974841968
+ pattern: 0.051594132508674014
+ perform: 0.030085713614792384
+ probabilist: 0.020056028186073476
+ queri: 0.03710365214423593
+ realworld: 0.020056028186073476
+ relat: 0.0285798401651547
+ relationship: 0.03710365214423593
+ search: 0.03539888974841968
+ semant: 0.020056028186073476
+ structur: 0.051594132508674014
+ user: 0.020056028186073476
+ web: 0.05415127610239838
+
+N-grams list: 10
+ realworld clickthrough data
+ mine clickthrough data
+ clickthrough data
+ web search histori
+ web search activ
+ collabor web search
+ heterogen web object
+ semant cluster structur
+ group behavior pattern
+ data
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

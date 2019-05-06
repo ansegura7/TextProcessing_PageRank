@@ -1,0 +1,84 @@
+File name: 13523265
+
+Graph edges count: 25
+ classic - pagerank: 1
+ digit - camera: 1
+ diversifi - semant: 1
+ divers - structur: 1
+ effect - tool: 1
+ effici - method: 1
+ entir - photo: 1
+ experiment - result: 1
+ explos - growth: 1
+ good - visual: 1
+ imag - collec: 2
+ larg - imag: 1
+ link - structur: 1
+ local - neighborhood: 1
+ onlin - media: 1
+ pagerank - algorithm: 2
+ photo - collec: 2
+ recent - visualrank: 1
+ relev - imag: 1
+ simultan - rank: 2
+ structur - fashion: 1
+ visualrank - algorithm: 1
+ visual - similar: 2
+ visual - summar: 1
+ web - photo: 2
+
+PageRank scores count: 38
+ algorithm: 0.06386502831169832
+ camera: 0.0285042949038943
+ classic: 0.015407726975078001
+ collec: 0.08612919379068602
+ digit: 0.015407726975078001
+ divers: 0.015407726975078001
+ diversifi: 0.015407726975078001
+ effect: 0.015407726975078001
+ effici: 0.015407726975078001
+ entir: 0.015407726975078001
+ experiment: 0.015407726975078001
+ explos: 0.015407726975078001
+ fashion: 0.05076846038288201
+ good: 0.015407726975078001
+ growth: 0.0285042949038943
+ imag: 0.041600862832710604
+ larg: 0.015407726975078001
+ link: 0.015407726975078001
+ local: 0.015407726975078001
+ media: 0.0285042949038943
+ method: 0.0285042949038943
+ neighborhood: 0.0285042949038943
+ onlin: 0.015407726975078001
+ pagerank: 0.0285042949038943
+ photo: 0.041600862832710604
+ rank: 0.0285042949038943
+ recent: 0.015407726975078001
+ relev: 0.015407726975078001
+ result: 0.0285042949038943
+ semant: 0.0285042949038943
+ similar: 0.02752205230923308
+ simultan: 0.015407726975078001
+ structur: 0.041600862832710604
+ summar: 0.02752205230923308
+ tool: 0.0285042949038943
+ visual: 0.0285042949038943
+ visualrank: 0.0285042949038943
+ web: 0.015407726975078001
+
+N-grams list: 10
+ larg imag collec
+ entir photo collec
+ imag collec
+ photo collec
+ recent visualrank algorithm
+ classic pagerank algorithm
+ pagerank algorithm
+ structur fashion
+ good visual summar
+ algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

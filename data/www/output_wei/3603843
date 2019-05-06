@@ -1,0 +1,54 @@
+File name: 3603843
+
+Graph edges count: 15
+ author - bia: 1
+ author - paper: 1
+ citat - databas: 2
+ cites - databas: 1
+ cites - entri: 1
+ comput - scienc: 3
+ databas - dblp: 1
+ databas - entri: 1
+ dblp - databas: 1
+ entir - literatur: 1
+ exponenti - process: 1
+ intuit - explan: 1
+ onlin - comput: 2
+ scienc - citat: 2
+ singl - author: 1
+
+PageRank scores count: 18
+ author: 0.04464218198415452
+ bia: 0.04310383652388974
+ citat: 0.07689615846770617
+ cites: 0.024130909180624067
+ comput: 0.04464218198415452
+ databas: 0.18827328433467824
+ dblp: 0.10414705943819913
+ entir: 0.024130909180624067
+ entri: 0.11440269583996435
+ explan: 0.04464218198415452
+ exponenti: 0.024130909180624067
+ intuit: 0.024130909180624067
+ literatur: 0.04464218198415452
+ onlin: 0.024130909180624067
+ paper: 0.04310383652388974
+ process: 0.04464218198415452
+ scienc: 0.06207676386715541
+ singl: 0.024130909180624067
+
+N-grams list: 10
+ citat databas dblp
+ databas entri
+ dblp databas
+ citat databas
+ cites databas
+ cites entri
+ onlin comput scienc
+ singl author paper
+ comput scienc
+ dblp
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

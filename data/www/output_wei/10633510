@@ -1,0 +1,71 @@
+File name: 10633510
+
+Graph edges count: 22
+ associ - mine: 1
+ docum - content: 1
+ docum - summar: 2
+ experiment - result: 1
+ good - resourc: 1
+ mine - techniqu: 1
+ multipl - topic: 1
+ rank - algorithm: 1
+ signific - improv: 1
+ social - annot: 1
+ sparsiti - problem: 1
+ summar - approach: 1
+ summar - perform: 1
+ summar - social: 1
+ tagori - docum: 1
+ tagori - summar: 1
+ tagori - web: 1
+ tag - annot: 1
+ tag - rank: 1
+ user - atten: 1
+ web - docum: 2
+ web - page: 1
+
+PageRank scores count: 28
+ algorithm: 0.049439634679615915
+ annot: 0.06390997974842307
+ approach: 0.03770529753612758
+ associ: 0.022358229363308498
+ atten: 0.04136272432212072
+ content: 0.03509476033663099
+ docum: 0.044952462258785256
+ experiment: 0.022358229363308498
+ good: 0.022358229363308498
+ improv: 0.04136272432212072
+ mine: 0.04136272432212072
+ multipl: 0.022358229363308498
+ page: 0.030487929984578176
+ perform: 0.03770529753612758
+ problem: 0.04136272432212072
+ rank: 0.03186047684271461
+ resourc: 0.04136272432212072
+ result: 0.04136272432212072
+ signific: 0.022358229363308498
+ social: 0.03770529753612758
+ sparsiti: 0.022358229363308498
+ summar: 0.05416612296289089
+ tag: 0.022358229363308498
+ tagori: 0.022358229363308498
+ techniqu: 0.057516545037111115
+ topic: 0.04136272432212072
+ user: 0.022358229363308498
+ web: 0.028693061016245906
+
+N-grams list: 10
+ tagori docum summar
+ associ mine techniqu
+ tag rank algorithm
+ social annot
+ tagori web docum
+ summar perform
+ summar approach
+ tag annot
+ docum content
+ tagori summar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

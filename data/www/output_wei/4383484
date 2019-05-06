@@ -1,0 +1,60 @@
+File name: 4383484
+
+Graph edges count: 18
+ casebas - reason: 1
+ crosscompani - data: 2
+ crosscompani - effort: 2
+ crosscompani - model: 2
+ data - set: 2
+ effort - estim: 3
+ effort - model: 4
+ estim - techniqu: 1
+ predic - accuraci: 1
+ previou - studi: 2
+ singlecompani - data: 3
+ singlecompani - effort: 1
+ singlecompani - model: 1
+ singl - compani: 2
+ stepwis - regres: 1
+ web - compani: 1
+ web - cross: 1
+ web - project: 3
+
+PageRank scores count: 21
+ accuraci: 0.058067122604432274
+ casebas: 0.03138763384023366
+ compani: 0.063403020357272
+ cross: 0.03672353159307338
+ crosscompani: 0.03138763384023366
+ data: 0.05628849002015236
+ effort: 0.045616694514472915
+ estim: 0.04800514398479165
+ model: 0.06777337470721691
+ predic: 0.03138763384023366
+ previou: 0.03138763384023366
+ project: 0.047395327098752826
+ reason: 0.058067122604432274
+ regres: 0.058067122604432274
+ set: 0.07923285035736317
+ singl: 0.03138763384023366
+ singlecompani: 0.03138763384023366
+ stepwis: 0.03138763384023366
+ studi: 0.058067122604432274
+ techniqu: 0.07219200622730655
+ web: 0.03138763384023366
+
+N-grams list: 10
+ crosscompani data set
+ singlecompani data set
+ effort estim techniqu
+ crosscompani effort model
+ singlecompani effort model
+ effort model
+ crosscompani model
+ singlecompani model
+ singl compani
+ web compani
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

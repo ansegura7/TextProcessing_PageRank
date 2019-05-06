@@ -1,0 +1,78 @@
+File name: 506497
+
+Graph edges count: 24
+ bayesian - model: 1
+ commun - detec: 1
+ commun - discoveri: 1
+ commun - frequenc: 1
+ comput - research: 1
+ email - corpu: 1
+ email - instant: 1
+ enfgibb - sampl: 1
+ enron - email: 1
+ experiment - studi: 1
+ gener - bayesian: 1
+ gener - model: 1
+ instant - messag: 1
+ network - analysi: 1
+ perform - problem: 1
+ previou - work: 1
+ probabilist - model: 2
+ sampl - algorithm: 1
+ semant - commun: 1
+ semant - inform: 1
+ semant - topic: 1
+ social - network: 2
+ topic - descrip: 1
+ tradition - method: 1
+
+PageRank scores count: 33
+ algorithm: 0.04949139852479719
+ analysi: 0.04949139852479719
+ bayesian: 0.027415060407322056
+ commun: 0.02468958656565846
+ comput: 0.01923863888233127
+ corpu: 0.034365018703564225
+ descrip: 0.04022478746314096
+ detec: 0.026234021742601164
+ discoveri: 0.026234021742601164
+ email: 0.035591481932312846
+ enfgibb: 0.01923863888233127
+ enron: 0.01923863888233127
+ experiment: 0.01923863888233127
+ frequenc: 0.026234021742601164
+ gener: 0.01923863888233127
+ inform: 0.02468958656565846
+ instant: 0.034365018703564225
+ messag: 0.04844890478036087
+ method: 0.035591481932312846
+ model: 0.06707070480352738
+ network: 0.035591481932312846
+ perform: 0.01923863888233127
+ previou: 0.01923863888233127
+ probabilist: 0.01923863888233127
+ problem: 0.035591481932312846
+ research: 0.035591481932312846
+ sampl: 0.035591481932312846
+ semant: 0.01923863888233127
+ social: 0.01923863888233127
+ studi: 0.035591481932312846
+ topic: 0.02468958656565846
+ tradition: 0.01923863888233127
+ work: 0.035591481932312846
+
+N-grams list: 10
+ email instant messag
+ gener bayesian model
+ social network analysi
+ enfgibb sampl algorithm
+ enron email corpu
+ probabilist model
+ gener model
+ semant topic descrip
+ semant commun discoveri
+ previou work
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

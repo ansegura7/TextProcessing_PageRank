@@ -1,0 +1,94 @@
+File name: 3953179
+
+Graph edges count: 32
+ accur - align: 1
+ align - techniqu: 1
+ automat - pattern: 1
+ consum - due: 1
+ databas - tabl: 1
+ data - extrac: 1
+ data - field: 2
+ data - item: 1
+ data - itemsfield: 1
+ data - record: 8
+ divers - domain: 1
+ experiment - result: 1
+ extract - data: 1
+ human - label: 1
+ individu - data: 1
+ larg - number: 2
+ machin - learn: 1
+ multipl - data: 1
+ partial - align: 2
+ partial - tree: 1
+ pattern - discoveri: 1
+ record - extract: 1
+ segment - data: 2
+ structur - data: 1
+ time - consum: 1
+ tree - align: 1
+ tree - match: 1
+ twostep - techniqu: 1
+ visual - inform: 1
+ web - data: 1
+ web - page: 2
+ web - site: 1
+
+PageRank scores count: 41
+ accur: 0.012306886660161557
+ align: 0.03645402386128688
+ automat: 0.012306886660161557
+ consum: 0.022767740321298878
+ data: 0.12236122342610078
+ databas: 0.012306886660161557
+ discoveri: 0.0316594659332656
+ divers: 0.012306886660161557
+ domain: 0.022767740321298878
+ due: 0.0316594659332656
+ experiment: 0.012306886660161557
+ extrac: 0.020307428274790946
+ extract: 0.07717143063115404
+ field: 0.028307969889420338
+ human: 0.012306886660161557
+ individu: 0.012306886660161557
+ inform: 0.022767740321298878
+ item: 0.020307428274790946
+ itemsfield: 0.020307428274790946
+ label: 0.022767740321298878
+ larg: 0.012306886660161557
+ learn: 0.022767740321298878
+ machin: 0.012306886660161557
+ match: 0.019019267759391337
+ multipl: 0.012306886660161557
+ number: 0.022767740321298878
+ page: 0.01753731349073022
+ partial: 0.012306886660161557
+ pattern: 0.022767740321298878
+ record: 0.07631121957719668
+ result: 0.022767740321298878
+ segment: 0.012306886660161557
+ site: 0.014922100075445886
+ structur: 0.012306886660161557
+ tabl: 0.022767740321298878
+ techniqu: 0.053753660603392726
+ time: 0.012306886660161557
+ tree: 0.015793837880540663
+ twostep: 0.012306886660161557
+ visual: 0.012306886660161557
+ web: 0.012306886660161557
+
+N-grams list: 10
+ data record extract
+ segment data record
+ individu data record
+ structur data record
+ multipl data record
+ data record
+ web data extrac
+ data field
+ data item
+ data itemsfield
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

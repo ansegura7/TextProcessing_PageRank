@@ -1,0 +1,124 @@
+File name: 670804
+
+Graph edges count: 46
+ activ - node: 1
+ approxim - person: 1
+ averag - querytim: 1
+ cite - seer: 1
+ computesand - index: 1
+ confer - compani: 1
+ dynam - spaceeffici: 1
+ email - paper: 1
+ entityrel - graph: 1
+ er - graph: 3
+ fast - dynam: 1
+ graph - extractor: 1
+ hubrank - computesand: 1
+ hubrank - preprocess: 1
+ incontrast - hubrank: 1
+ log - statist: 1
+ mb - precision: 1
+ pageranklik - comput: 1
+ pagerank - comput: 1
+ pagerank - vector: 1
+ paper - person: 1
+ personnear - compani: 1
+ person - confer: 1
+ person - pagerank: 1
+ perword - pagerank: 1
+ ppv - comput: 1
+ precomput - store: 1
+ preprocess - hubrank: 1
+ proxim - search: 3
+ queri - log: 1
+ queri - time: 2
+ querytim - pagerank: 1
+ random - walk: 1
+ real - cite: 1
+ repres - number: 1
+ search - implement: 1
+ seer - queri: 1
+ small - fraction: 1
+ spaceeffici - proxim: 1
+ testb - hubrank: 1
+ text - index: 1
+ true - pagerank: 1
+ unstructur - text: 1
+ usefulsearch - paradigm: 1
+ walk - fingerprint: 1
+ wholevocabulari - ppv: 2
+
+PageRank scores count: 57
+ activ: 0.00804831857093859
+ approxim: 0.00804831857093859
+ averag: 0.00804831857093859
+ cite: 0.01488938935623639
+ compani: 0.03168122516567392
+ comput: 0.047134990286199614
+ computesand: 0.027058734118210838
+ confer: 0.01975510095227945
+ dynam: 0.01488938935623639
+ email: 0.00804831857093859
+ entityrel: 0.00804831857093859
+ er: 0.00804831857093859
+ extractor: 0.026519209691242652
+ fast: 0.00804831857093859
+ fingerprint: 0.02070429952373952
+ fraction: 0.01488938935623639
+ graph: 0.021730460141534194
+ hubrank: 0.044730381369993355
+ implement: 0.03341932746875606
+ incontrast: 0.00804831857093859
+ index: 0.04370422075219867
+ log: 0.018948282166538395
+ mb: 0.00804831857093859
+ node: 0.01488938935623639
+ number: 0.01488938935623639
+ pagerank: 0.04609322347567598
+ pageranklik: 0.00804831857093859
+ paper: 0.01488938935623639
+ paradigm: 0.01488938935623639
+ person: 0.02754537030903732
+ personnear: 0.00804831857093859
+ perword: 0.00804831857093859
+ ppv: 0.01488938935623639
+ precision: 0.01488938935623639
+ precomput: 0.00804831857093859
+ preprocess: 0.027058734118210838
+ proxim: 0.025646973166117186
+ queri: 0.025646973166117186
+ querytim: 0.01488938935623639
+ random: 0.00804831857093859
+ real: 0.00804831857093859
+ repres: 0.00804831857093859
+ search: 0.0298482457621382
+ seer: 0.02070429952373952
+ small: 0.00804831857093859
+ spaceeffici: 0.02070429952373952
+ statist: 0.024154358412496222
+ store: 0.01488938935623639
+ testb: 0.00804831857093859
+ text: 0.01488938935623639
+ time: 0.018948282166538395
+ true: 0.00804831857093859
+ unstructur: 0.00804831857093859
+ usefulsearch: 0.00804831857093859
+ vector: 0.027637938548100878
+ walk: 0.01488938935623639
+ wholevocabulari: 0.00804831857093859
+
+N-grams list: 10
+ querytim pagerank comput
+ preprocess hubrank computesand
+ proxim search implement
+ approxim person pagerank
+ testb hubrank preprocess
+ wholevocabulari ppv comput
+ queri log statist
+ text index
+ entityrel graph extractor
+ proxim search
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

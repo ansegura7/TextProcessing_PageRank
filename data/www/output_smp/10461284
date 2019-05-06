@@ -1,0 +1,89 @@
+File name: 10461284
+
+Graph edges count: 28
+ current - dissimilar: 1
+ dissimilar - function: 1
+ dissimilar - measur: 1
+ effici - algorithm: 1
+ engin - behavior: 1
+ gener - kendal: 1
+ hoeffd - distanc: 3
+ import - differ: 1
+ manipul - method: 1
+ meaning - embed: 1
+ miss - rank: 1
+ multidimension - scale: 2
+ popular - search: 1
+ probabilist - interpret: 1
+ queri - manipul: 1
+ rankdist - metric: 1
+ rank - inform: 1
+ repres - set: 1
+ result - set: 1
+ search - algorithm: 1
+ search - engin: 4
+ search - result: 2
+ search - strategi: 1
+ strategi - user: 1
+ true - metric: 1
+ visual - techniqu: 1
+ web - search: 1
+ weight - hoeffd: 3
+
+PageRank scores count: 40
+ algorithm: 0.036613609348460904
+ behavior: 0.03531353353430848
+ current: 0.015106182299519712
+ differ: 0.027946437254111466
+ dissimilar: 0.027946437254111466
+ distanc: 0.03886065396551446
+ effici: 0.015106182299519712
+ embed: 0.027946437254111466
+ engin: 0.023773354393869146
+ function: 0.026983418132517086
+ gener: 0.015106182299519712
+ hoeffd: 0.027946437254111466
+ import: 0.015106182299519712
+ inform: 0.03886065396551446
+ interpret: 0.027946437254111466
+ kendal: 0.027946437254111466
+ manipul: 0.027946437254111466
+ meaning: 0.015106182299519712
+ measur: 0.026983418132517086
+ method: 0.03886065396551446
+ metric: 0.04078669220870323
+ miss: 0.015106182299519712
+ multidimension: 0.015106182299519712
+ popular: 0.015106182299519712
+ probabilist: 0.015106182299519712
+ queri: 0.015106182299519712
+ rank: 0.027946437254111466
+ rankdist: 0.015106182299519712
+ repres: 0.015106182299519712
+ result: 0.023773354393869146
+ scale: 0.027946437254111466
+ search: 0.04078669220870323
+ set: 0.04815378848890025
+ strategi: 0.023773354393869146
+ techniqu: 0.027946437254111466
+ true: 0.015106182299519712
+ user: 0.03531353353430848
+ visual: 0.015106182299519712
+ web: 0.015106182299519712
+ weight: 0.015106182299519712
+
+N-grams list: 10
+ search engin behavior
+ search strategi user
+ web search algorithm
+ miss rank inform
+ queri manipul method
+ weight hoeffd distanc
+ popular search engin
+ result set
+ current dissimilar measur
+ search result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

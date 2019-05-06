@@ -1,0 +1,62 @@
+File name: 14186402
+
+Graph edges count: 19
+ approxim - central: 1
+ averag - degre: 1
+ base - central: 1
+ calcul - complex: 1
+ calcul - time: 1
+ central - close: 1
+ central - measur: 4
+ close - base: 1
+ close - central: 1
+ constant - averag: 1
+ global - measur: 1
+ good - approxim: 1
+ high - frequenc: 1
+ kcentral - measur: 2
+ linear - calcul: 1
+ local - approxim: 1
+ path - calcul: 1
+ popular - central: 1
+ tremend - gain: 1
+
+PageRank scores count: 22
+ approxim: 0.05899050991865232
+ averag: 0.04041942346278029
+ base: 0.04166782246502243
+ calcul: 0.05899050991865232
+ central: 0.14579849290880817
+ close: 0.04663408160909597
+ complex: 0.04691930372233549
+ constant: 0.021848337006908265
+ degre: 0.05620484695027151
+ frequenc: 0.04041942346278029
+ gain: 0.04041942346278029
+ global: 0.021848337006908265
+ good: 0.021848337006908265
+ high: 0.021848337006908265
+ kcentral: 0.021848337006908265
+ linear: 0.021848337006908265
+ local: 0.021848337006908265
+ measur: 0.15813348832740312
+ path: 0.021848337006908265
+ popular: 0.021848337006908265
+ time: 0.04691930372233549
+ tremend: 0.021848337006908265
+
+N-grams list: 10
+ approxim central measur
+ central close central
+ popular central measur
+ central measur
+ close base central
+ global measur
+ kcentral measur
+ measur
+ linear calcul complex
+ constant averag degre
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

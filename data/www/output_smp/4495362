@@ -1,0 +1,72 @@
+File name: 4495362
+
+Graph edges count: 22
+ algorithm - techniqu: 1
+ batch - queri: 1
+ crawler - increas: 1
+ detec - system: 1
+ experiment - evalu: 1
+ fbit - fingerprint: 1
+ fingerprint - techniqu: 1
+ multibillion - page: 1
+ multipl - fingerprint: 1
+ neardupl - detec: 1
+ neardupl - web: 1
+ onlin - queri: 1
+ page - repositori: 1
+ real - data: 1
+ research - contribu: 1
+ singl - fingerprint: 1
+ small - k: 1
+ small - portion: 1
+ web - crawler: 1
+ web - docum: 1
+ web - page: 2
+ web - search: 1
+
+PageRank scores count: 29
+ algorithm: 0.021018435138094406
+ batch: 0.021018435138094406
+ contribu: 0.03888410500547465
+ crawler: 0.02738308002834862
+ data: 0.03888410500547465
+ detec: 0.02995127007178453
+ docum: 0.02738308002834862
+ evalu: 0.03888410500547465
+ experiment: 0.021018435138094406
+ fbit: 0.021018435138094406
+ fingerprint: 0.07461544474023514
+ increas: 0.04429405316219073
+ k: 0.02995127007178453
+ multibillion: 0.021018435138094406
+ multipl: 0.021018435138094406
+ neardupl: 0.021018435138094406
+ onlin: 0.021018435138094406
+ page: 0.045248749895728864
+ portion: 0.02995127007178453
+ queri: 0.056749774872854895
+ real: 0.021018435138094406
+ repositori: 0.059479872549463936
+ research: 0.021018435138094406
+ search: 0.02738308002834862
+ singl: 0.021018435138094406
+ small: 0.021018435138094406
+ system: 0.04647701469911126
+ techniqu: 0.10230723303467451
+ web: 0.02995127007178453
+
+N-grams list: 10
+ fingerprint techniqu
+ multibillion page repositori
+ algorithm techniqu
+ techniqu
+ web crawler increas
+ neardupl detec system
+ fbit fingerprint
+ multipl fingerprint
+ singl fingerprint
+ neardupl web docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

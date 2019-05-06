@@ -1,0 +1,89 @@
+File name: 4339733
+
+Graph edges count: 32
+ agglom - hierarch: 1
+ algorithm - nstc: 1
+ benchmark - corpu: 1
+ cluster - algorithm: 5
+ cluster - benchmark: 1
+ corpu - ohsum: 1
+ docum - cluster: 4
+ docum - model: 1
+ effect - docum: 1
+ experiment - result: 1
+ fmeasur - score: 1
+ forum - commun: 2
+ gahc - algorithm: 1
+ groupaverag - agglom: 1
+ hierarch - cluster: 1
+ larg - forum: 1
+ onlin - forum: 1
+ orient - cluster: 1
+ pairwis - similar: 1
+ similar - measur: 4
+ standard - docum: 1
+ suffix - tree: 4
+ term - weight: 1
+ textbas - docum: 1
+ tfidf - similar: 1
+ topic - orient: 1
+ tradition - word: 1
+ tree - docum: 2
+ tree - similar: 2
+ web - docum: 2
+ weight - tfidf: 1
+ word - term: 1
+
+PageRank scores count: 36
+ agglom: 0.01986454501935904
+ algorithm: 0.05164131577398638
+ benchmark: 0.04251436265698357
+ cluster: 0.07476887236382902
+ commun: 0.03538036531826381
+ corpu: 0.04687480016079227
+ docum: 0.05568783600359503
+ effect: 0.01073759190235624
+ experiment: 0.01073759190235624
+ fmeasur: 0.01073759190235624
+ forum: 0.028991498136361846
+ gahc: 0.01073759190235624
+ groupaverag: 0.01073759190235624
+ hierarch: 0.027622455168811427
+ larg: 0.01073759190235624
+ measur: 0.06356975007200615
+ model: 0.03440492220388412
+ nstc: 0.054632710310244664
+ ohsum: 0.05058117203902967
+ onlin: 0.01073759190235624
+ orient: 0.01986454501935904
+ pairwis: 0.01073759190235624
+ result: 0.01986454501935904
+ score: 0.01986454501935904
+ similar: 0.06215548019958812
+ standard: 0.01073759190235624
+ suffix: 0.01073759190235624
+ term: 0.027622455168811427
+ textbas: 0.01073759190235624
+ tfidf: 0.0398217688788253
+ topic: 0.01073759190235624
+ tradition: 0.01073759190235624
+ tree: 0.01986454501935904
+ web: 0.01073759190235624
+ weight: 0.03421667879584595
+ word: 0.01986454501935904
+
+N-grams list: 10
+ standard docum cluster
+ effect docum cluster
+ benchmark corpu ohsum
+ weight tfidf similar
+ docum cluster
+ cluster algorithm
+ similar measur
+ gahc algorithm nstc
+ topic orient cluster
+ suffix tree similar
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,40 @@
+File name: 8929692
+
+Graph edges count: 9
+ address - hierarchi: 1
+ awar - manner: 1
+ awar - web: 1
+ import - limit: 1
+ ip - address: 1
+ locationawar - method: 1
+ locat - awar: 2
+ optim - benefit: 1
+ optim - locat: 1
+
+PageRank scores count: 13
+ address: 0.08783043977532022
+ awar: 0.10498111348820371
+ benefit: 0.0676531765836926
+ hierarchi: 0.1221317872010872
+ import: 0.04747591339206499
+ ip: 0.04747591339206499
+ limit: 0.08783043977532022
+ locat: 0.0676531765836926
+ locationawar: 0.04747591339206499
+ manner: 0.09209288662455156
+ method: 0.08783043977532022
+ optim: 0.04747591339206499
+ web: 0.09209288662455156
+
+N-grams list: 7
+ locat awar web
+ ip address hierarchi
+ optim locat awar
+ locationawar method
+ import limit
+ optim benefit
+ manner
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

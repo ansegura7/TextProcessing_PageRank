@@ -1,0 +1,73 @@
+File name: 13502912
+
+Graph edges count: 22
+ advertis - market: 1
+ behavior - target: 2
+ clickthrough - log: 2
+ clickthrough - rate: 1
+ commerci - search: 3
+ comprehens - experi: 1
+ empir - studi: 2
+ experi - result: 1
+ import - conclusion: 1
+ import - role: 1
+ long - term: 1
+ onlin - advert: 1
+ onlin - advertis: 3
+ real - world: 1
+ search - engin: 3
+ search - log: 1
+ short - term: 1
+ similar - behavior: 1
+ statist - ttest: 1
+ term - user: 2
+ user - behavior: 2
+ world - ad: 1
+
+PageRank scores count: 30
+ ad: 0.04735158969502401
+ advert: 0.026229743562841287
+ advertis: 0.026229743562841287
+ behavior: 0.08560559991219938
+ clickthrough: 0.0184068375879588
+ commerci: 0.0184068375879588
+ comprehens: 0.0184068375879588
+ conclusion: 0.026229743562841287
+ empir: 0.0184068375879588
+ engin: 0.0328792136414914
+ experi: 0.03405264953772377
+ import: 0.0184068375879588
+ log: 0.04070211961637389
+ long: 0.0184068375879588
+ market: 0.04070211961637389
+ onlin: 0.0184068375879588
+ rate: 0.026229743562841287
+ real: 0.0184068375879588
+ result: 0.04735158969502401
+ role: 0.026229743562841287
+ search: 0.03405264953772377
+ short: 0.0184068375879588
+ similar: 0.0184068375879588
+ statist: 0.0184068375879588
+ studi: 0.03405264953772377
+ target: 0.09117159751332828
+ term: 0.04969846148748875
+ ttest: 0.03405264953772377
+ user: 0.06065052985232424
+ world: 0.03405264953772377
+
+N-grams list: 10
+ behavior target
+ long term user
+ short term user
+ similar behavior
+ real world ad
+ comprehens experi result
+ behavior
+ onlin advertis market
+ commerci search engin
+ search log
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,68 @@
+File name: 4436052
+
+Graph edges count: 20
+ architectur - secur: 1
+ busi - applic: 1
+ configur - cost: 1
+ encryp - algorithm: 1
+ extra - configur: 1
+ major - concern: 1
+ misconfigur - hazard: 1
+ missioncrit - busi: 1
+ modeldriven - architectur: 1
+ potenti - misconfigur: 1
+ practic - pattern: 1
+ refin - secur: 1
+ secur - configur: 1
+ secur - properti: 1
+ secur - requir: 3
+ secur - specif: 1
+ serviceori - architectur: 2
+ servic - secur: 2
+ technologyori - view: 1
+ web - servic: 3
+
+PageRank scores count: 27
+ algorithm: 0.03639754890789985
+ applic: 0.050612267332741816
+ architectur: 0.053120747054772745
+ busi: 0.03639754890789985
+ concern: 0.03639754890789985
+ configur: 0.06030127025908629
+ cost: 0.07093043048125029
+ encryp: 0.019674350761026943
+ extra: 0.019674350761026943
+ hazard: 0.050612267332741816
+ major: 0.019674350761026943
+ misconfigur: 0.03639754890789985
+ missioncrit: 0.019674350761026943
+ modeldriven: 0.019674350761026943
+ pattern: 0.03639754890789985
+ potenti: 0.019674350761026943
+ practic: 0.019674350761026943
+ properti: 0.043578072112213394
+ refin: 0.019674350761026943
+ requir: 0.043578072112213394
+ secur: 0.11248810047617155
+ servic: 0.03639754890789985
+ serviceori: 0.019674350761026943
+ specif: 0.043578072112213394
+ technologyori: 0.019674350761026943
+ view: 0.03639754890789985
+ web: 0.019674350761026943
+
+N-grams list: 10
+ serviceori architectur secur
+ refin secur requir
+ web servic secur
+ secur properti
+ secur requir
+ extra configur cost
+ missioncrit busi applic
+ potenti misconfigur hazard
+ modeldriven architectur
+ serviceori architectur
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

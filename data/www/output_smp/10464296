@@ -1,0 +1,97 @@
+File name: 10464296
+
+Graph edges count: 35
+ architectur - unus: 1
+ bad - connect: 1
+ central - server: 1
+ central - wiki: 1
+ connect - problem: 1
+ content - gener: 2
+ cost - power: 1
+ current - wiki: 1
+ dtwiki - system: 1
+ easeofus - make: 1
+ educ - collabor: 1
+ intermitt - environ: 1
+ intermitt - toler: 1
+ local - content: 1
+ longlast - network: 1
+ longlast - partition: 1
+ make - wiki: 1
+ network - environ: 1
+ network - partition: 2
+ partition - due: 1
+ poor - connect: 1
+ popular - wiki: 1
+ simpl - semant: 1
+ snapshot - distribu: 1
+ toler - wiki: 1
+ tradition - central: 1
+ unus - due: 1
+ us - current: 1
+ valuabl - tool: 1
+ webcach - proxi: 1
+ wiki - architectur: 1
+ wiki - data: 1
+ wiki - softwar: 2
+ wiki - system: 3
+ wiki - wiki: 1
+
+PageRank scores count: 41
+ architectur: 0.030721544363033062
+ bad: 0.012631181427063244
+ central: 0.023367685640067002
+ collabor: 0.023367685640067002
+ connect: 0.03410418985307076
+ content: 0.023367685640067002
+ cost: 0.012631181427063244
+ current: 0.023367685640067002
+ data: 0.030721544363033062
+ distribu: 0.023367685640067002
+ dtwiki: 0.012631181427063244
+ due: 0.0673658180877381
+ easeofus: 0.012631181427063244
+ educ: 0.012631181427063244
+ environ: 0.025649192785330302
+ gener: 0.0324937142211202
+ intermitt: 0.012631181427063244
+ local: 0.012631181427063244
+ longlast: 0.012631181427063244
+ make: 0.023367685640067002
+ network: 0.017999433533565125
+ partition: 0.025649192785330302
+ poor: 0.012631181427063244
+ popular: 0.012631181427063244
+ power: 0.023367685640067002
+ problem: 0.041619742802173385
+ proxi: 0.023367685640067002
+ semant: 0.023367685640067002
+ server: 0.022562447824091718
+ simpl: 0.012631181427063244
+ snapshot: 0.012631181427063244
+ softwar: 0.030721544363033062
+ system: 0.04145804857603682
+ toler: 0.017999433533565125
+ tool: 0.023367685640067002
+ tradition: 0.012631181427063244
+ unus: 0.038744494610487325
+ us: 0.012631181427063244
+ valuabl: 0.012631181427063244
+ webcach: 0.012631181427063244
+ wiki: 0.10641389906470954
+
+N-grams list: 10
+ popular wiki softwar
+ wiki system
+ us current wiki
+ easeofus make wiki
+ tradition central wiki
+ wiki data
+ intermitt toler wiki
+ architectur unus due
+ wiki
+ connect problem
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,70 @@
+File name: 8952762
+
+Graph edges count: 20
+ alert - gener: 1
+ classroom - pattern: 1
+ classroom - sentinel: 3
+ critic - teach: 1
+ datadriven - decisionmak: 1
+ data - sourc: 1
+ daytodai - instruc: 1
+ electron - gradebook: 1
+ inform - system: 1
+ instruc - practic: 1
+ learn - pattern: 1
+ mine - electron: 1
+ perform - attend: 1
+ remedi - action: 1
+ school - year: 1
+ sentinel - mine: 1
+ student - inform: 1
+ student - perform: 1
+ system - data: 1
+ web - servic: 1
+
+PageRank scores count: 29
+ action: 0.03601980651279475
+ alert: 0.01947016568259176
+ attend: 0.04305340386563103
+ classroom: 0.01947016568259176
+ critic: 0.01947016568259176
+ data: 0.05606555896837813
+ datadriven: 0.01947016568259176
+ daytodai: 0.01947016568259176
+ decisionmak: 0.03601980651279475
+ electron: 0.05606555896837813
+ gener: 0.03601980651279475
+ gradebook: 0.06712589080571317
+ inform: 0.027744986097693256
+ instruc: 0.03601980651279475
+ learn: 0.01947016568259176
+ mine: 0.04305340386563103
+ pattern: 0.04429462692789625
+ perform: 0.027744986097693256
+ practic: 0.0500870012184673
+ remedi: 0.01947016568259176
+ school: 0.01947016568259176
+ sentinel: 0.027744986097693256
+ servic: 0.03601980651279475
+ sourc: 0.06712589080571317
+ student: 0.01947016568259176
+ system: 0.04305340386563103
+ teach: 0.03601980651279475
+ web: 0.01947016568259176
+ year: 0.03601980651279475
+
+N-grams list: 10
+ data sourc
+ electron gradebook
+ daytodai instruc practic
+ student perform attend
+ student inform system
+ classroom sentinel mine
+ learn pattern
+ classroom pattern
+ data
+ critic teach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

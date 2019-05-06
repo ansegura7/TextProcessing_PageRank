@@ -1,0 +1,85 @@
+File name: 11858468
+
+Graph edges count: 27
+ addition - view: 1
+ content - consump: 1
+ content - short: 1
+ focus - view: 1
+ gener - character: 1
+ high - popular: 1
+ largescal - crawl: 1
+ limit - high: 1
+ measur - sourc: 1
+ messag - length: 1
+ network - servic: 1
+ nonneglig - perform: 1
+ past - year: 1
+ perform - penalti: 1
+ popular - lifetim: 1
+ popular - websit: 1
+ potenti - impact: 1
+ servic - short: 1
+ short - url: 12
+ signific - fraction: 1
+ signific - increas: 1
+ social - network: 1
+ tradition - measur: 1
+ twitter - messag: 1
+ url - short: 1
+ websit - popular: 1
+ web - usag: 1
+
+PageRank scores count: 37
+ addition: 0.010819970807605831
+ character: 0.020016945994070785
+ consump: 0.01541845840083831
+ content: 0.010819970807605831
+ crawl: 0.020016945994070785
+ focus: 0.010819970807605831
+ fraction: 0.01541845840083831
+ gener: 0.010819970807605831
+ high: 0.020016945994070785
+ impact: 0.020016945994070785
+ increas: 0.01541845840083831
+ largescal: 0.010819970807605831
+ length: 0.027834374902566
+ lifetim: 0.03545922526997476
+ limit: 0.010819970807605831
+ measur: 0.020016945994070785
+ messag: 0.020016945994070785
+ network: 0.020016945994070785
+ nonneglig: 0.010819970807605831
+ past: 0.010819970807605831
+ penalti: 0.027834374902566
+ perform: 0.020016945994070785
+ popular: 0.057974716382044544
+ potenti: 0.010819970807605831
+ servic: 0.027834374902566
+ short: 0.17396270480791987
+ signific: 0.010819970807605831
+ social: 0.010819970807605831
+ sourc: 0.027834374902566
+ tradition: 0.010819970807605831
+ twitter: 0.010819970807605831
+ url: 0.15868828102958168
+ usag: 0.020016945994070785
+ view: 0.029213921180535743
+ web: 0.010819970807605831
+ websit: 0.03545922526997476
+ year: 0.020016945994070785
+
+N-grams list: 10
+ short url short
+ content short url
+ short url
+ url
+ websit popular
+ popular websit
+ limit high popular
+ tradition measur sourc
+ social network servic
+ nonneglig perform penalti
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

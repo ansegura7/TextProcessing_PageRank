@@ -1,0 +1,68 @@
+File name: 4412497
+
+Graph edges count: 22
+ common - theme: 1
+ compar - analysi: 1
+ data - set: 1
+ interest - spatiotempor: 1
+ life - cycl: 2
+ locat - inform: 1
+ mine - spatiotempor: 1
+ mine - subtop: 1
+ multipl - domain: 1
+ pattern - mine: 1
+ probabilist - approach: 2
+ probabilist - model: 1
+ spatiotempor - pattern: 1
+ spatiotempor - text: 1
+ spatiotempor - theme: 5
+ subtop - theme: 1
+ text - mine: 1
+ theme - life: 2
+ theme - pattern: 5
+ theme - snapshot: 2
+ time - period: 1
+ weblog - mine: 1
+
+PageRank scores count: 25
+ analysi: 0.03013796339277065
+ approach: 0.02321437720794496
+ common: 0.01629079102311927
+ compar: 0.01629079102311927
+ cycl: 0.057302592756421404
+ data: 0.01629079102311927
+ domain: 0.03013796339277065
+ inform: 0.03013796339277065
+ interest: 0.01629079102311927
+ life: 0.04824917705186838
+ locat: 0.01629079102311927
+ mine: 0.12512817311545688
+ model: 0.02321437720794496
+ multipl: 0.01629079102311927
+ pattern: 0.07185578531845245
+ period: 0.03013796339277065
+ probabilist: 0.01629079102311927
+ set: 0.03013796339277065
+ snapshot: 0.04824917705186838
+ spatiotempor: 0.08331743862658039
+ subtop: 0.06947026625692901
+ text: 0.03989739928970333
+ theme: 0.11279429994490318
+ time: 0.01629079102311927
+ weblog: 0.01629079102311927
+
+N-grams list: 10
+ mine spatiotempor theme
+ spatiotempor theme pattern
+ spatiotempor text mine
+ theme life cycl
+ interest spatiotempor theme
+ weblog mine subtop
+ subtop theme
+ theme snapshot
+ spatiotempor pattern
+ common theme
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

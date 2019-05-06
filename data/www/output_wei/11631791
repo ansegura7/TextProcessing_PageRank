@@ -1,0 +1,74 @@
+File name: 11631791
+
+Graph edges count: 22
+ attract - summari: 1
+ attract - titl: 1
+ behavior - due: 1
+ bia - effect: 1
+ clickthrough - data: 3
+ googl - web: 1
+ inform - retriev: 1
+ popular - approach: 1
+ position - bia: 2
+ potenti - sourc: 1
+ present - bia: 5
+ prior - work: 1
+ result - attract: 1
+ result - summari: 1
+ retriev - system: 1
+ search - engin: 1
+ substanti - evid: 1
+ summari - attract: 1
+ systemat - bias: 1
+ titl - url: 1
+ user - behavior: 1
+ web - search: 1
+
+PageRank scores count: 31
+ approach: 0.031382313609145944
+ attract: 0.07001143541784542
+ behavior: 0.031382313609145944
+ bia: 0.045801214456591376
+ bias: 0.031382313609145944
+ clickthrough: 0.01696341276170051
+ data: 0.031382313609145944
+ due: 0.043638379329474564
+ effect: 0.055894445049803176
+ engin: 0.05405603519175389
+ evid: 0.031382313609145944
+ googl: 0.01696341276170051
+ inform: 0.01696341276170051
+ popular: 0.01696341276170051
+ position: 0.01696341276170051
+ potenti: 0.01696341276170051
+ present: 0.01696341276170051
+ prior: 0.01696341276170051
+ result: 0.01696341276170051
+ retriev: 0.031382313609145944
+ search: 0.043638379329474564
+ sourc: 0.031382313609145944
+ substanti: 0.01696341276170051
+ summari: 0.05392772728131336
+ system: 0.043638379329474564
+ systemat: 0.01696341276170051
+ titl: 0.04671827685759065
+ url: 0.056673952133958407
+ user: 0.01696341276170051
+ web: 0.031382313609145944
+ work: 0.031382313609145944
+
+N-grams list: 10
+ result summari attract
+ attract summari
+ present bia effect
+ attract titl
+ titl url
+ inform retriev system
+ googl web search
+ result attract
+ behavior due
+ attract
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

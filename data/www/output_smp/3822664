@@ -1,0 +1,46 @@
+File name: 3822664
+
+Graph edges count: 12
+ current - web: 1
+ effici - queri: 1
+ engin - current: 1
+ keyword - queri: 1
+ larg - number: 1
+ prospect - search: 2
+ queri - subscrip: 1
+ search - engin: 3
+ simpl - keyword: 1
+ subscrip - process: 1
+ upload - queri: 1
+ web - search: 1
+
+PageRank scores count: 14
+ current: 0.14490314292044504
+ effici: 0.01822345394209945
+ engin: 0.14903491570685148
+ keyword: 0.033713389792883984
+ larg: 0.01822345394209945
+ number: 0.033713389792883984
+ process: 0.08996702807698936
+ prospect: 0.01822345394209945
+ queri: 0.0778597069676199
+ search: 0.15389583737029652
+ simpl: 0.01822345394209945
+ subscrip: 0.08440420486457637
+ upload: 0.01822345394209945
+ web: 0.1413911147969559
+
+N-grams list: 9
+ current web search
+ prospect search engin
+ effici queri subscrip
+ search
+ engin
+ simpl keyword queri
+ upload queri
+ process
+ larg number
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

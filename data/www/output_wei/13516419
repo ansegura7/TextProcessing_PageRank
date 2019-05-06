@@ -1,0 +1,68 @@
+File name: 13516419
+
+Graph edges count: 19
+ clinic - case: 1
+ data - qualiti: 1
+ expan - techniqu: 1
+ experiment - result: 1
+ fuzzi - prototyp: 1
+ healthcar - ontologi: 1
+ health - record: 2
+ inform - retriev: 1
+ intellig - search: 1
+ measur - user: 1
+ multilingu - queri: 1
+ person - health: 2
+ qualiti - measur: 1
+ queri - expan: 1
+ retriev - task: 1
+ specif - clinic: 1
+ user - profil: 1
+ valuabl - inform: 1
+ webbas - person: 2
+
+PageRank scores count: 28
+ case: 0.04680027029543867
+ clinic: 0.03365617105794423
+ data: 0.01819252489618607
+ expan: 0.04680027029543867
+ experiment: 0.01819252489618607
+ fuzzi: 0.01819252489618607
+ health: 0.04680027029543867
+ healthcar: 0.01819252489618607
+ inform: 0.03365617105794423
+ intellig: 0.01819252489618607
+ measur: 0.04680027029543867
+ multilingu: 0.01819252489618607
+ ontologi: 0.03365617105794423
+ person: 0.03365617105794423
+ profil: 0.06746936634639866
+ prototyp: 0.03365617105794423
+ qualiti: 0.03365617105794423
+ queri: 0.03365617105794423
+ record: 0.05797275464730894
+ result: 0.03365617105794423
+ retriev: 0.04680027029543867
+ search: 0.03365617105794423
+ specif: 0.01819252489618607
+ task: 0.05797275464730894
+ techniqu: 0.05797275464730894
+ user: 0.05797275464730894
+ valuabl: 0.01819252489618607
+ webbas: 0.01819252489618607
+
+N-grams list: 10
+ inform retriev task
+ user profil
+ webbas person health
+ data qualiti measur
+ multilingu queri expan
+ specif clinic case
+ techniqu
+ user
+ record
+ healthcar ontologi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,65 @@
+File name: 9598425
+
+Graph edges count: 19
+ analysi - system: 1
+ autom - machin: 1
+ inform - extrac: 1
+ inform - mine: 1
+ machin - learn: 1
+ mine - autom: 1
+ multilingu - new: 2
+ new - articl: 1
+ new - monitor: 1
+ open - sourc: 1
+ realtim - multilingu: 1
+ real - time: 1
+ research - work: 1
+ sourc - intellig: 1
+ statist - analysi: 1
+ text - mine: 1
+ time - inform: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 25
+ analysi: 0.035546728390209996
+ articl: 0.0402218437153143
+ autom: 0.06728545345646944
+ extrac: 0.0402218437153143
+ inform: 0.04942916691017039
+ intellig: 0.04942916691017039
+ learn: 0.08416046851250916
+ machin: 0.07640708321649091
+ mine: 0.05655412432703242
+ monitor: 0.0402218437153143
+ multilingu: 0.035546728390209996
+ new: 0.04942916691017039
+ open: 0.019214447778491888
+ real: 0.019214447778491888
+ realtim: 0.019214447778491888
+ research: 0.019214447778491888
+ sourc: 0.035546728390209996
+ statist: 0.019214447778491888
+ system: 0.04942916691017039
+ text: 0.019214447778491888
+ time: 0.035546728390209996
+ web: 0.04942916691017039
+ wide: 0.035546728390209996
+ work: 0.035546728390209996
+ world: 0.019214447778491888
+
+N-grams list: 10
+ machin learn
+ text mine autom
+ world wide web
+ realtim multilingu new
+ open sourc intellig
+ real time inform
+ new articl
+ inform extrac
+ multilingu new
+ analysi system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

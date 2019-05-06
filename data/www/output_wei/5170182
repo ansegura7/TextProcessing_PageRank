@@ -1,0 +1,95 @@
+File name: 5170182
+
+Graph edges count: 34
+ cach - polici: 1
+ cach - size: 1
+ compres - algorithm: 1
+ compres - cach: 1
+ critic - issu: 1
+ crucial - rule: 1
+ disk - speed: 1
+ earli - termin: 1
+ engin - due: 1
+ enorm - perform: 1
+ heavi - workload: 1
+ highperform - inform: 1
+ index - cach: 1
+ index - compres: 2
+ inform - retriev: 1
+ invert - index: 1
+ invert - list: 3
+ larg - queri: 1
+ list - cach: 2
+ list - compres: 1
+ main - memori: 1
+ memori - cach: 1
+ perform - benefit: 1
+ perform - challeng: 1
+ perform - optim: 1
+ queri - throughput: 1
+ queri - trace: 1
+ rapid - growth: 1
+ retriev - system: 1
+ search - engin: 4
+ techniqu - invert: 1
+ web - search: 2
+ web - web: 1
+ workload - search: 1
+
+PageRank scores count: 40
+ algorithm: 0.025995106880490705
+ benefit: 0.01958574987723982
+ cach: 0.06714378754965533
+ challeng: 0.01958574987723982
+ compres: 0.030929341821927407
+ critic: 0.012850136606171559
+ crucial: 0.012850136606171559
+ disk: 0.012850136606171559
+ due: 0.0549974396939196
+ earli: 0.012850136606171559
+ engin: 0.049585056197781675
+ enorm: 0.012850136606171559
+ growth: 0.023772752721417382
+ heavi: 0.012850136606171559
+ highperform: 0.012850136606171559
+ index: 0.017901846559472752
+ inform: 0.023772752721417382
+ invert: 0.023772752721417382
+ issu: 0.023772752721417382
+ larg: 0.012850136606171559
+ list: 0.02800526646607514
+ main: 0.012850136606171559
+ memori: 0.023772752721417382
+ optim: 0.01958574987723982
+ perform: 0.023772752721417382
+ polici: 0.041386246314775076
+ queri: 0.023772752721417382
+ rapid: 0.012850136606171559
+ retriev: 0.033056976419376334
+ rule: 0.023772752721417382
+ search: 0.04321755037458695
+ size: 0.041386246314775076
+ speed: 0.023772752721417382
+ system: 0.04094856656264144
+ techniqu: 0.012850136606171559
+ termin: 0.023772752721417382
+ throughput: 0.022953556512773945
+ trace: 0.022953556512773945
+ web: 0.017930423583776875
+ workload: 0.023772752721417382
+
+N-grams list: 10
+ search engin due
+ invert list cach
+ index compres cach
+ web search engin
+ main memori cach
+ index cach
+ invert list compres
+ heavi workload search
+ web web search
+ highperform inform retriev
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

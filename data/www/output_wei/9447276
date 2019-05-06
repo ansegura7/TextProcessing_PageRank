@@ -1,0 +1,61 @@
+File name: 9447276
+
+Graph edges count: 18
+ annot - effort: 2
+ automat - gener: 1
+ automat - imag: 1
+ clickthrough - data: 3
+ concept - classifi: 1
+ concept - train: 1
+ data - automat: 1
+ expens - manual: 1
+ experiment - result: 1
+ extens - present: 1
+ imag - annot: 3
+ largescal - imag: 1
+ manual - annot: 2
+ manual - data: 1
+ photograph - imag: 1
+ search - log: 2
+ supervis - learn: 1
+ train - data: 4
+
+PageRank scores count: 22
+ annot: 0.12192979013332625
+ automat: 0.08500920636105319
+ classifi: 0.029928351211344358
+ clickthrough: 0.0210023517272592
+ concept: 0.0210023517272592
+ data: 0.07530218192211058
+ effort: 0.12464267334058651
+ expens: 0.0210023517272592
+ experiment: 0.0210023517272592
+ extens: 0.0210023517272592
+ gener: 0.057131264430706805
+ imag: 0.09283526236704745
+ largescal: 0.0210023517272592
+ learn: 0.038854350695429515
+ log: 0.038854350695429515
+ manual: 0.038854350695429515
+ photograph: 0.0210023517272592
+ present: 0.038854350695429515
+ result: 0.038854350695429515
+ search: 0.0210023517272592
+ supervis: 0.0210023517272592
+ train: 0.029928351211344358
+
+N-grams list: 10
+ manual annot effort
+ largescal imag annot
+ imag annot
+ expens manual annot
+ clickthrough data automat
+ automat gener
+ concept train data
+ effort
+ manual data
+ photograph imag
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,54 @@
+File name: 680590
+
+Graph edges count: 13
+ clue - word: 3
+ comprehens - comparison: 1
+ convers - summar: 1
+ data - set: 1
+ email - convers: 2
+ email - summar: 2
+ enron - data: 1
+ fragment - quotat: 1
+ major - problem: 1
+ mobil - devic: 1
+ preliminari - result: 1
+ quotat - graph: 1
+ small - mobil: 1
+
+PageRank scores count: 20
+ clue: 0.030554176373983118
+ comparison: 0.05652522629186876
+ comprehens: 0.030554176373983118
+ convers: 0.043539701332925944
+ data: 0.05652522629186876
+ devic: 0.07860061872207158
+ email: 0.030554176373983118
+ enron: 0.030554176373983118
+ fragment: 0.030554176373983118
+ graph: 0.07860061872207158
+ major: 0.030554176373983118
+ mobil: 0.05652522629186876
+ preliminari: 0.030554176373983118
+ problem: 0.05652522629186876
+ quotat: 0.05652522629186876
+ result: 0.05652522629186876
+ set: 0.07860061872207158
+ small: 0.030554176373983118
+ summar: 0.08054844746591298
+ word: 0.05652522629186876
+
+N-grams list: 10
+ fragment quotat graph
+ enron data set
+ small mobil devic
+ convers summar
+ email summar
+ clue word
+ comprehens comparison
+ major problem
+ preliminari result
+ email convers
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

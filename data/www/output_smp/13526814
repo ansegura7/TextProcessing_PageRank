@@ -1,0 +1,68 @@
+File name: 13526814
+
+Graph edges count: 20
+ comput - vision: 1
+ consumergener - geotag: 1
+ cultur - differ: 2
+ geotag - imag: 1
+ geotag - photo: 2
+ largescal - unorgan: 1
+ larg - amount: 1
+ larg - number: 1
+ local - region: 2
+ mine - cultur: 1
+ object - recogni: 1
+ object - scene: 1
+ photo - sharingweb: 1
+ recogni - techniqu: 1
+ repres - local: 1
+ repres - photo: 1
+ research - commun: 1
+ sharingweb - site: 1
+ stateoftheart - object: 1
+ unorgan - collec: 1
+
+PageRank scores count: 27
+ amount: 0.03022477489005241
+ collec: 0.05456367256467356
+ commun: 0.03923918143620839
+ comput: 0.02121036834389643
+ consumergener: 0.02121036834389643
+ cultur: 0.03923918143620839
+ differ: 0.05456367256467356
+ geotag: 0.03923918143620839
+ imag: 0.037887020454285
+ larg: 0.02121036834389643
+ largescal: 0.02121036834389643
+ local: 0.03022477489005241
+ mine: 0.02121036834389643
+ number: 0.03022477489005241
+ object: 0.03923918143620839
+ photo: 0.046901427000440976
+ recogni: 0.037887020454285
+ region: 0.046901427000440976
+ repres: 0.02121036834389643
+ research: 0.02121036834389643
+ scene: 0.037887020454285
+ sharingweb: 0.06107658129427126
+ site: 0.073125462444027
+ stateoftheart: 0.02121036834389643
+ techniqu: 0.05341433573003867
+ unorgan: 0.03923918143620839
+ vision: 0.03923918143620839
+
+N-grams list: 10
+ photo sharingweb site
+ mine cultur differ
+ largescal unorgan collec
+ consumergener geotag photo
+ stateoftheart object recogni
+ repres local region
+ cultur differ
+ geotag photo
+ object scene
+ geotag imag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

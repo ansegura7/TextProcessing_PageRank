@@ -1,0 +1,104 @@
+File name: 14392043
+
+Graph edges count: 36
+ administr - detail: 1
+ analyt - hierarchi: 1
+ cloudgeniu - approach: 1
+ cloud - comput: 1
+ cloud - migrat: 1
+ cloud - servic: 4
+ compat - mix: 1
+ complex - depend: 1
+ comput - infrastructur: 1
+ comput - paradigm: 1
+ critic - issu: 1
+ cultur - legal: 1
+ decisionmak - process: 1
+ decision - support: 1
+ heterogen - set: 1
+ infrastructur - servic: 2
+ kei - problem: 1
+ legal - regulatori: 1
+ lowlevel - system: 1
+ map - web: 1
+ migrat - cloud: 1
+ model - factor: 1
+ multicriteria - decision: 1
+ qo - paramet: 1
+ selec - process: 1
+ server - cloud: 1
+ server - imag: 1
+ server - migrat: 1
+ servic - engin: 1
+ softwar - imag: 2
+ softwar - resourc: 1
+ system - administr: 1
+ technic - cultur: 1
+ theoret - cloudgeniu: 1
+ web - applic: 2
+ web - server: 3
+
+PageRank scores count: 47
+ administr: 0.029898388990609207
+ analyt: 0.011622308645523502
+ applic: 0.020760348818066356
+ approach: 0.029898388990609207
+ cloud: 0.042656189204025086
+ cloudgeniu: 0.02150127099421848
+ compat: 0.011622308645523502
+ complex: 0.011622308645523502
+ comput: 0.023708230104035312
+ critic: 0.011622308645523502
+ cultur: 0.02150127099421848
+ decision: 0.02150127099421848
+ decisionmak: 0.011622308645523502
+ depend: 0.02150127099421848
+ detail: 0.037035939287541335
+ engin: 0.04745133824440496
+ factor: 0.02150127099421848
+ heterogen: 0.011622308645523502
+ hierarchi: 0.02150127099421848
+ imag: 0.02244388865165646
+ infrastructur: 0.021698307505372737
+ issu: 0.02150127099421848
+ kei: 0.011622308645523502
+ legal: 0.029898388990609207
+ lowlevel: 0.011622308645523502
+ map: 0.011622308645523502
+ migrat: 0.029590328935820774
+ mix: 0.02150127099421848
+ model: 0.011622308645523502
+ multicriteria: 0.011622308645523502
+ paradigm: 0.021698307505372737
+ paramet: 0.02150127099421848
+ problem: 0.02150127099421848
+ process: 0.031380233342913455
+ qo: 0.011622308645523502
+ regulatori: 0.037035939287541335
+ resourc: 0.01656178981987099
+ selec: 0.011622308645523502
+ server: 0.020760348818066356
+ servic: 0.04215179325965918
+ set: 0.02150127099421848
+ softwar: 0.011622308645523502
+ support: 0.029898388990609207
+ system: 0.02150127099421848
+ technic: 0.011622308645523502
+ theoret: 0.011622308645523502
+ web: 0.02150127099421848
+
+N-grams list: 10
+ cloud servic engin
+ migrat cloud comput
+ web server cloud
+ cloud servic
+ web server migrat
+ web server imag
+ infrastructur servic
+ theoret cloudgeniu approach
+ technic cultur legal
+ lowlevel system administr
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,57 @@
+File name: 4262318
+
+Graph edges count: 14
+ coalesc - view: 1
+ design - decision: 1
+ dynam - person: 1
+ futur - work: 1
+ montag - system: 1
+ person - start: 1
+ portal - site: 1
+ routin - pattern: 1
+ routin - task: 1
+ singl - view: 1
+ start - page: 2
+ user - studi: 1
+ web - montag: 2
+ web - usag: 1
+
+PageRank scores count: 22
+ coalesc: 0.028884724674415007
+ decision: 0.053436740647667756
+ design: 0.028884724674415007
+ dynam: 0.028884724674415007
+ futur: 0.028884724674415007
+ montag: 0.04116073266104138
+ page: 0.09204478576560772
+ pattern: 0.04116073266104138
+ person: 0.053436740647667756
+ portal: 0.028884724674415007
+ routin: 0.028884724674415007
+ singl: 0.028884724674415007
+ site: 0.053436740647667756
+ start: 0.0743059542249326
+ studi: 0.053436740647667756
+ system: 0.06387134743630019
+ task: 0.04116073266104138
+ usag: 0.04116073266104138
+ user: 0.028884724674415007
+ view: 0.07798875662092052
+ web: 0.028884724674415007
+ work: 0.053436740647667756
+
+N-grams list: 10
+ start page
+ dynam person start
+ coalesc view
+ singl view
+ montag system
+ page
+ design decision
+ futur work
+ user studi
+ portal site
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

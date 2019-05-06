@@ -1,0 +1,71 @@
+File name: 13063679
+
+Graph edges count: 18
+ automat - summar: 1
+ costrestrict - subset: 1
+ databas - tool: 1
+ demonstr - propos: 1
+ divers - field: 1
+ good - coverag: 1
+ huge - amount: 1
+ import - detail: 1
+ intuit - manner: 1
+ knowledgeshar - commun: 1
+ knowledg - base: 3
+ knowledg - discoveri: 1
+ rich - type: 1
+ salient - properti: 1
+ semant - type: 1
+ summar - method: 1
+ type - graph: 2
+ valuabl - inform: 1
+
+PageRank scores count: 32
+ amount: 0.038052141718516994
+ automat: 0.02056872525325243
+ base: 0.033681287602200856
+ commun: 0.038052141718516994
+ costrestrict: 0.02056872525325243
+ coverag: 0.038052141718516994
+ databas: 0.02056872525325243
+ demonstr: 0.02056872525325243
+ detail: 0.038052141718516994
+ discoveri: 0.02493957936956857
+ divers: 0.02056872525325243
+ field: 0.038052141718516994
+ good: 0.02056872525325243
+ graph: 0.06777394970946675
+ huge: 0.02056872525325243
+ import: 0.02056872525325243
+ inform: 0.038052141718516994
+ intuit: 0.02056872525325243
+ knowledg: 0.02056872525325243
+ knowledgeshar: 0.02056872525325243
+ manner: 0.038052141718516994
+ method: 0.05291304571399187
+ properti: 0.038052141718516994
+ propos: 0.038052141718516994
+ rich: 0.02056872525325243
+ salient: 0.02056872525325243
+ semant: 0.02056872525325243
+ subset: 0.038052141718516994
+ summar: 0.038052141718516994
+ tool: 0.038052141718516994
+ type: 0.05553555818378156
+ valuabl: 0.02056872525325243
+
+N-grams list: 10
+ rich type graph
+ semant type graph
+ automat summar method
+ demonstr propos
+ databas tool
+ costrestrict subset
+ import detail
+ valuabl inform
+ good coverag
+ divers field
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

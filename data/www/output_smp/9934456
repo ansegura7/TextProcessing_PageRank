@@ -1,0 +1,74 @@
+File name: 9934456
+
+Graph edges count: 22
+ autom - theorem: 1
+ defini - languag: 1
+ detail - counterexampl: 1
+ docum - format: 1
+ effici - reason: 1
+ high - qualiti: 1
+ larg - set: 1
+ logicbas - autom: 1
+ norm - recommend: 1
+ prove - techniqu: 1
+ qualiti - assur: 1
+ qualiti - level: 1
+ recent - advanc: 1
+ schema - design: 1
+ standard - bodi: 1
+ standard - docum: 1
+ theorem - prove: 1
+ type - defini: 1
+ w3c - specif: 1
+ xml - docum: 2
+ xml - schema: 1
+ xml - type: 1
+
+PageRank scores count: 31
+ advanc: 0.034937819926462985
+ assur: 0.03373388153710513
+ autom: 0.034937819926462985
+ bodi: 0.02691156399741067
+ counterexampl: 0.034937819926462985
+ defini: 0.03948603161959262
+ design: 0.03948603161959262
+ detail: 0.018885308068358368
+ docum: 0.03226240128344554
+ effici: 0.018885308068358368
+ format: 0.04630834915928708
+ high: 0.018885308068358368
+ languag: 0.05244843494501209
+ larg: 0.018885308068358368
+ level: 0.03373388153710513
+ logicbas: 0.018885308068358368
+ norm: 0.018885308068358368
+ prove: 0.060180394823332484
+ qualiti: 0.034937819926462985
+ reason: 0.034937819926462985
+ recent: 0.018885308068358368
+ recommend: 0.034937819926462985
+ schema: 0.024236145354393238
+ set: 0.034937819926462985
+ specif: 0.034937819926462985
+ standard: 0.018885308068358368
+ techniqu: 0.07003864366819097
+ theorem: 0.048582455005851906
+ type: 0.024236145354393238
+ w3c: 0.018885308068358368
+ xml: 0.018885308068358368
+
+N-grams list: 10
+ prove techniqu
+ logicbas autom theorem
+ standard docum format
+ high qualiti level
+ xml type defini
+ xml schema design
+ qualiti assur
+ w3c specif
+ detail counterexampl
+ recent advanc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

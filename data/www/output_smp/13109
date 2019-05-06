@@ -1,0 +1,79 @@
+File name: 13109
+
+Graph edges count: 25
+ adapt - scheme: 1
+ adapt - techniqu: 1
+ adapt - view: 1
+ bottom - level: 1
+ desktop - pc: 1
+ detail - inform: 1
+ devic - mobil: 1
+ experiment - result: 1
+ factor - devic: 1
+ form - factor: 1
+ global - view: 1
+ larg - web: 1
+ level - hierarchi: 1
+ mobil - devic: 3
+ page - adapt: 2
+ page - structur: 1
+ relat - unit: 1
+ smallformfactor - devic: 1
+ small - displai: 1
+ small - form: 1
+ small - screen: 1
+ split - autoposi: 1
+ thumbnail - represent: 1
+ top - level: 1
+ web - page: 6
+
+PageRank scores count: 33
+ adapt: 0.02612645579204151
+ autoposi: 0.023089693113320056
+ bottom: 0.012480915196389218
+ desktop: 0.012480915196389218
+ detail: 0.012480915196389218
+ devic: 0.201368129053294
+ displai: 0.01601717450203283
+ experiment: 0.012480915196389218
+ factor: 0.026095513523117127
+ form: 0.01601717450203283
+ global: 0.012480915196389218
+ hierarchi: 0.04112461557210248
+ inform: 0.023089693113320056
+ larg: 0.012480915196389218
+ level: 0.03369847103025089
+ mobil: 0.18364383630909803
+ page: 0.03210715434271127
+ pc: 0.023089693113320056
+ relat: 0.012480915196389218
+ represent: 0.023089693113320056
+ result: 0.023089693113320056
+ scheme: 0.01988341100413431
+ screen: 0.01601717450203283
+ small: 0.012480915196389218
+ smallformfactor: 0.012480915196389218
+ split: 0.012480915196389218
+ structur: 0.02612645579204151
+ techniqu: 0.01988341100413431
+ thumbnail: 0.012480915196389218
+ top: 0.012480915196389218
+ unit: 0.023089693113320056
+ view: 0.030492188921065148
+ web: 0.023089693113320056
+
+N-grams list: 10
+ devic mobil devic
+ mobil devic
+ smallformfactor devic
+ devic
+ web page structur
+ page adapt scheme
+ page adapt techniqu
+ level hierarchi
+ larg web page
+ adapt view
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

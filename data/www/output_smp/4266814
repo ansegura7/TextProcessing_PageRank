@@ -1,0 +1,68 @@
+File name: 4266814
+
+Graph edges count: 19
+ effici - search: 2
+ experiment - result: 1
+ inform - retriev: 3
+ interestbas - model: 1
+ longrang - link: 1
+ network - traffic: 1
+ p2p - system: 1
+ peertop - inform: 1
+ recal - rate: 1
+ search - techniqu: 1
+ semant - overlai: 2
+ semant - small: 1
+ shortcutbas - search: 1
+ shortrang - link: 1
+ similar - shortcutbas: 1
+ small - collec: 1
+ small - world: 2
+ unstructur - p2p: 1
+ world - phenomenon: 1
+
+PageRank scores count: 28
+ collec: 0.03376520107643829
+ effici: 0.02102931947150691
+ experiment: 0.02102931947150691
+ inform: 0.03890424102228778
+ interestbas: 0.02102931947150691
+ link: 0.05677916257306867
+ longrang: 0.02102931947150691
+ model: 0.03890424102228778
+ network: 0.02102931947150691
+ overlai: 0.02996678024689735
+ p2p: 0.03890424102228778
+ peertop: 0.02102931947150691
+ phenomenon: 0.049729740386479454
+ rate: 0.03890424102228778
+ recal: 0.02102931947150691
+ result: 0.03890424102228778
+ retriev: 0.05409792434045153
+ search: 0.07197284589123241
+ semant: 0.02102931947150691
+ shortcutbas: 0.03890424102228778
+ shortrang: 0.02102931947150691
+ similar: 0.02102931947150691
+ small: 0.02996678024689735
+ system: 0.05409792434045153
+ techniqu: 0.08220623847905446
+ traffic: 0.03890424102228778
+ unstructur: 0.02102931947150691
+ world: 0.03376520107643829
+
+N-grams list: 10
+ similar shortcutbas search
+ unstructur p2p system
+ peertop inform retriev
+ small world phenomenon
+ effici search
+ inform retriev
+ semant small world
+ techniqu
+ shortrang link
+ longrang link
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

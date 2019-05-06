@@ -1,0 +1,61 @@
+File name: 4380185
+
+Graph edges count: 18
+ applic - structur: 2
+ applic - trace: 1
+ blackbox - messag: 1
+ blackbox - perform: 1
+ causal - structur: 1
+ contentdistribu - network: 1
+ enterprisescal - incidentmonitor: 1
+ incidentmonitor - system: 1
+ localarea - system: 1
+ messag - trace: 1
+ perform - debug: 1
+ previou - research: 1
+ research - project: 1
+ sourc - code: 1
+ system - widearea: 1
+ time - inform: 1
+ widearea - project: 1
+ widearea - system: 1
+
+PageRank scores count: 22
+ applic: 0.02195899246587431
+ blackbox: 0.02195899246587431
+ causal: 0.02195899246587431
+ code: 0.040624136061867475
+ contentdistribu: 0.02195899246587431
+ debug: 0.04855682209016457
+ enterprisescal: 0.02195899246587431
+ incidentmonitor: 0.040624136061867475
+ inform: 0.040624136061867475
+ localarea: 0.02195899246587431
+ messag: 0.03129156426387089
+ network: 0.040624136061867475
+ perform: 0.03129156426387089
+ previou: 0.02195899246587431
+ project: 0.11360449914543141
+ research: 0.040624136061867475
+ sourc: 0.02195899246587431
+ structur: 0.053067565125862914
+ system: 0.13226964274142458
+ time: 0.02195899246587431
+ trace: 0.05477853662216229
+ widearea: 0.13438819324500623
+
+N-grams list: 10
+ widearea system widearea
+ widearea project
+ enterprisescal incidentmonitor system
+ previou research project
+ localarea system
+ widearea
+ system
+ blackbox messag trace
+ blackbox perform debug
+ applic trace
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,79 @@
+File name: 13061601
+
+Graph edges count: 26
+ cach - hit: 1
+ cach - polici: 1
+ cach - replac: 1
+ cascad - provid: 1
+ content - deliveri: 4
+ content - relev: 1
+ deliveri - network: 4
+ easi - access: 1
+ geograph - inform: 2
+ geograph - model: 1
+ geograph - social: 1
+ high - bandwidth: 1
+ interac - data: 1
+ limit - area: 1
+ multimedia - content: 1
+ multimedia - file: 1
+ onlin - social: 1
+ perform - evalu: 1
+ proofofconcept - geograph: 1
+ replac - polici: 1
+ social - cascad: 5
+ social - inform: 1
+ social - interac: 1
+ social - network: 1
+ storag - demand: 1
+ youtub - link: 1
+
+PageRank scores count: 32
+ access: 0.036366936771117325
+ area: 0.036366936771117325
+ bandwidth: 0.036366936771117325
+ cach: 0.019657803660063422
+ cascad: 0.04308322504114642
+ content: 0.028012370215590374
+ data: 0.04034925840590144
+ deliveri: 0.03870621540666487
+ demand: 0.036366936771117325
+ easi: 0.019657803660063422
+ evalu: 0.036366936771117325
+ file: 0.028012370215590374
+ geograph: 0.036366936771117325
+ high: 0.019657803660063422
+ hit: 0.025227514697081392
+ inform: 0.03979883606400489
+ interac: 0.02434288793628002
+ limit: 0.019657803660063422
+ link: 0.036366936771117325
+ model: 0.027385777723925853
+ multimedia: 0.019657803660063422
+ network: 0.05724317103194516
+ onlin: 0.019657803660063422
+ perform: 0.019657803660063422
+ polici: 0.04667090218960057
+ proofofconcept: 0.019657803660063422
+ provid: 0.05627854494503788
+ relev: 0.024419906596713784
+ replac: 0.025227514697081392
+ social: 0.04409491083497977
+ storag: 0.019657803660063422
+ youtub: 0.019657803660063422
+
+N-grams list: 10
+ content deliveri network
+ geograph social cascad
+ onlin social network
+ social interac data
+ cach replac polici
+ social cascad
+ social inform
+ proofofconcept geograph model
+ geograph inform
+ cach polici
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

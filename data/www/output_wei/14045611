@@ -1,0 +1,70 @@
+File name: 14045611
+
+Graph edges count: 19
+ approxim - guarante: 1
+ collabor - network: 1
+ commun - overhead: 2
+ coordin - cost: 1
+ effici - algorithm: 1
+ film - actor: 1
+ load - balanc: 1
+ onlin - fashion: 1
+ onlin - team: 2
+ potenti - team: 1
+ previou - work: 1
+ requir - skill: 1
+ singl - task: 1
+ small - commun: 1
+ social - network: 2
+ specif - set: 1
+ team - commun: 1
+ team - format: 2
+ team - member: 1
+
+PageRank scores count: 30
+ actor: 0.04024961104507343
+ algorithm: 0.04024961104507343
+ approxim: 0.021756546510850506
+ balanc: 0.04024961104507343
+ collabor: 0.021756546510850506
+ commun: 0.05142250420116645
+ coordin: 0.021756546510850506
+ cost: 0.04024961104507343
+ effici: 0.021756546510850506
+ fashion: 0.02792090135559148
+ film: 0.021756546510850506
+ format: 0.044102332823036536
+ guarante: 0.04024961104507343
+ load: 0.021756546510850506
+ member: 0.03292943966694352
+ network: 0.058742675579296355
+ onlin: 0.021756546510850506
+ overhead: 0.06546567508184199
+ potenti: 0.021756546510850506
+ previou: 0.021756546510850506
+ requir: 0.021756546510850506
+ set: 0.04024961104507343
+ singl: 0.021756546510850506
+ skill: 0.04024961104507343
+ small: 0.021756546510850506
+ social: 0.021756546510850506
+ specif: 0.021756546510850506
+ task: 0.04024961104507343
+ team: 0.05257832073455538
+ work: 0.04024961104507343
+
+N-grams list: 10
+ team commun overhead
+ small commun overhead
+ onlin team format
+ potenti team member
+ social network
+ collabor network
+ load balanc
+ requir skill
+ previou work
+ effici algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

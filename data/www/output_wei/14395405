@@ -1,0 +1,91 @@
+File name: 14395405
+
+Graph edges count: 32
+ aestheticawar - rank: 1
+ aesthet - awar: 1
+ aesthet - predictor: 1
+ aesthet - qualiti: 1
+ aesthet - rate: 1
+ awar - imag: 1
+ commentbas - aesthet: 1
+ common - approach: 1
+ complementari - attribut: 1
+ contentbas - strategi: 1
+ effici - wai: 1
+ imag - search: 1
+ input - queri: 1
+ larg - amount: 1
+ queri - search: 1
+ rank - paramet: 1
+ rate - infer: 1
+ relev - content: 1
+ relev - imag: 1
+ relev - inform: 1
+ relev - result: 1
+ search - rerank: 1
+ search - result: 1
+ similar - metadata: 1
+ textbas - queri: 1
+ top - rank: 1
+ user - comment: 2
+ user - studi: 1
+ visual - aesthet: 1
+ visual - characterist: 1
+ visual - content: 1
+ visual - contentbas: 1
+
+PageRank scores count: 38
+ aesthet: 0.03148918562738205
+ aestheticawar: 0.015267483940548872
+ amount: 0.028244845290015416
+ approach: 0.028244845290015416
+ attribut: 0.028244845290015416
+ awar: 0.021958935886367558
+ characterist: 0.018511824277915506
+ comment: 0.023919058173526565
+ commentbas: 0.015267483940548872
+ common: 0.015267483940548872
+ complementari: 0.015267483940548872
+ content: 0.021756164615282143
+ contentbas: 0.018511824277915506
+ effici: 0.015267483940548872
+ imag: 0.037176919781327936
+ infer: 0.033932579443961296
+ inform: 0.018511824277915506
+ input: 0.015267483940548872
+ larg: 0.015267483940548872
+ metadata: 0.028244845290015416
+ paramet: 0.050306359584108534
+ predictor: 0.021958935886367558
+ qualiti: 0.021958935886367558
+ queri: 0.04122220663948196
+ rank: 0.04122220663948196
+ rate: 0.021958935886367558
+ relev: 0.015267483940548872
+ rerank: 0.05007784903479971
+ result: 0.053322189372166345
+ search: 0.08190674139823728
+ similar: 0.015267483940548872
+ strategi: 0.031002534576777055
+ studi: 0.01959327105703772
+ textbas: 0.015267483940548872
+ top: 0.015267483940548872
+ user: 0.015267483940548872
+ visual: 0.015267483940548872
+ wai: 0.028244845290015416
+
+N-grams list: 10
+ textbas queri search
+ search result
+ search rerank
+ rank paramet
+ aesthet awar imag
+ aesthet rate infer
+ commentbas aesthet predictor
+ visual aesthet qualiti
+ relev result
+ visual contentbas strategi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

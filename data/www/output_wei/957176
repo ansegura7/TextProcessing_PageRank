@@ -1,0 +1,102 @@
+File name: 957176
+
+Graph edges count: 32
+ bandwidth - effici: 1
+ cabl - compani: 1
+ client - playback: 1
+ commerci - web: 1
+ completion - due: 1
+ frequent - playback: 1
+ home - user: 1
+ hybrid - approach: 1
+ innov - system: 1
+ internet - stream: 1
+ kei - find: 1
+ larg - group: 1
+ larg - number: 1
+ long - wait: 1
+ major - isp: 1
+ media - content: 1
+ media - object: 1
+ media - workload: 1
+ multimedia - workload: 1
+ perform - effect: 1
+ playback - delai: 1
+ playback - speed: 1
+ real - stream: 1
+ server - farm: 1
+ standard - web: 1
+ stream - download: 1
+ substanti - percentag: 1
+ unnecessari - traffic: 1
+ wait - time: 1
+ web - server: 1
+ web - site: 2
+ wellknown - cabl: 1
+
+PageRank scores count: 49
+ approach: 0.023602884655254352
+ bandwidth: 0.012758316029867217
+ cabl: 0.023602884655254352
+ client: 0.012758316029867217
+ commerci: 0.012758316029867217
+ compani: 0.032820767986833414
+ completion: 0.012758316029867217
+ content: 0.016373172238329594
+ delai: 0.027398483674139846
+ download: 0.04203865131841247
+ due: 0.023602884655254352
+ effect: 0.023602884655254352
+ effici: 0.023602884655254352
+ farm: 0.03189897965367551
+ find: 0.023602884655254352
+ frequent: 0.012758316029867217
+ group: 0.018180600342560783
+ home: 0.012758316029867217
+ hybrid: 0.012758316029867217
+ innov: 0.012758316029867217
+ internet: 0.012758316029867217
+ isp: 0.023602884655254352
+ kei: 0.012758316029867217
+ larg: 0.012758316029867217
+ long: 0.012758316029867217
+ major: 0.012758316029867217
+ media: 0.012758316029867217
+ multimedia: 0.012758316029867217
+ number: 0.018180600342560783
+ object: 0.016373172238329594
+ percentag: 0.023602884655254352
+ perform: 0.012758316029867217
+ playback: 0.034447453280641485
+ real: 0.012758316029867217
+ server: 0.022518427792715637
+ site: 0.032278539555564055
+ speed: 0.027398483674139846
+ standard: 0.012758316029867217
+ stream: 0.034447453280641485
+ substanti: 0.012758316029867217
+ system: 0.023602884655254352
+ time: 0.032820767986833414
+ traffic: 0.023602884655254352
+ unnecessari: 0.012758316029867217
+ user: 0.023602884655254352
+ wait: 0.023602884655254352
+ web: 0.034447453280641485
+ wellknown: 0.012758316029867217
+ workload: 0.027217740863716727
+
+N-grams list: 10
+ commerci web site
+ standard web site
+ stream download
+ client playback speed
+ frequent playback delai
+ long wait time
+ wellknown cabl compani
+ web server
+ server farm
+ internet stream
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

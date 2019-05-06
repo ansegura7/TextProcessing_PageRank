@@ -1,0 +1,42 @@
+File name: 9398460
+
+Graph edges count: 9
+ behavior - classif: 1
+ behavior - graph: 1
+ bipartit - queryurl: 1
+ classifi - paramet: 1
+ estim - classifi: 1
+ imag - search: 1
+ queryurl - graph: 1
+ relat - queri: 1
+ search - activ: 1
+
+PageRank scores count: 13
+ activ: 0.11710481392966883
+ behavior: 0.045521793558666215
+ bipartit: 0.045521793558666215
+ classif: 0.06486855582109935
+ classifi: 0.08421531808353248
+ estim: 0.045521793558666215
+ graph: 0.13645157619210196
+ imag: 0.045521793558666215
+ paramet: 0.11710481392966883
+ queri: 0.08421531808353248
+ queryurl: 0.08421531808353248
+ relat: 0.045521793558666215
+ search: 0.08421531808353248
+
+N-grams list: 9
+ bipartit queryurl graph
+ estim classifi paramet
+ imag search activ
+ behavior graph
+ graph
+ relat queri
+ behavior classif
+ queri
+ classif
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

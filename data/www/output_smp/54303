@@ -1,0 +1,95 @@
+File name: 54303
+
+Graph edges count: 30
+ activ - model: 2
+ activ - recogni: 1
+ actual - human: 1
+ applic - domain: 1
+ cook - pasta: 2
+ daytodai - activ: 1
+ featur - selec: 1
+ frequenc - identif: 1
+ highlevel - structur: 1
+ human - activ: 3
+ label - activ: 1
+ lowlevel - detail: 1
+ mine - model: 1
+ model - activ: 1
+ model - construc: 1
+ object - term: 1
+ physic - world: 1
+ practic - activ: 1
+ previou - practic: 1
+ probabilist - collec: 1
+ radio - frequenc: 1
+ recogni - system: 1
+ result - previou: 1
+ semant - term: 1
+ sensor - data: 1
+ simul - data: 1
+ spatiotempor - relat: 1
+ text - translat: 1
+ tini - fraction: 1
+ unsupervis - manner: 1
+
+PageRank scores count: 44
+ activ: 0.10393043499926735
+ actual: 0.011753428608366626
+ applic: 0.011753428608366626
+ collec: 0.021743842925478256
+ construc: 0.0397669990476179
+ cook: 0.011753428608366626
+ data: 0.03173425724258989
+ daytodai: 0.011753428608366626
+ detail: 0.021743842925478256
+ domain: 0.021743842925478256
+ featur: 0.011753428608366626
+ fraction: 0.021743842925478256
+ frequenc: 0.021743842925478256
+ highlevel: 0.011753428608366626
+ human: 0.021743842925478256
+ identif: 0.030235695095023142
+ label: 0.011753428608366626
+ lowlevel: 0.011753428608366626
+ manner: 0.021743842925478256
+ mine: 0.011753428608366626
+ model: 0.06591427827264057
+ object: 0.011753428608366626
+ pasta: 0.021743842925478256
+ physic: 0.011753428608366626
+ practic: 0.030235695095023142
+ previou: 0.021743842925478256
+ probabilist: 0.011753428608366626
+ radio: 0.011753428608366626
+ recogni: 0.05592386395552895
+ relat: 0.021743842925478256
+ result: 0.011753428608366626
+ selec: 0.021743842925478256
+ semant: 0.011753428608366626
+ sensor: 0.011753428608366626
+ simul: 0.011753428608366626
+ spatiotempor: 0.011753428608366626
+ structur: 0.021743842925478256
+ system: 0.05928871731732428
+ term: 0.03173425724258989
+ text: 0.011753428608366626
+ tini: 0.011753428608366626
+ translat: 0.021743842925478256
+ unsupervis: 0.011753428608366626
+ world: 0.021743842925478256
+
+N-grams list: 10
+ activ recogni system
+ activ model
+ model activ
+ actual human activ
+ human activ
+ daytodai activ
+ label activ
+ model construc
+ activ
+ mine model
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

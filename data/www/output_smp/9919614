@@ -1,0 +1,98 @@
+File name: 9919614
+
+Graph edges count: 31
+ 140charact - limit: 1
+ 1st - retweet: 1
+ activ - period: 1
+ blog - servic: 1
+ effect - diamet: 1
+ entir - twitter: 1
+ entir - twitterspher: 1
+ fast - diffusion: 1
+ followerfollow - topologi: 1
+ follow - distribu: 1
+ headlin - new: 1
+ human - social: 1
+ inform - diffusion: 1
+ inform - share: 1
+ low - reciproc: 1
+ new - media: 1
+ nonpowerlaw - follow: 1
+ origin - tweet: 1
+ persist - new: 1
+ quantit - studi: 1
+ retweet - tweet: 1
+ short - effect: 1
+ social - network: 2
+ social - relat: 1
+ tempor - behavior: 1
+ topologi - analysi: 1
+ topolog - characterist: 1
+ twitter - site: 1
+ twitter - user: 1
+ user - particip: 1
+ user - profil: 1
+
+PageRank scores count: 46
+ 140charact: 0.01350739297607123
+ 1st: 0.01350739297607123
+ activ: 0.01350739297607123
+ analysi: 0.034747768430943245
+ behavior: 0.024988677005731777
+ blog: 0.01350739297607123
+ characterist: 0.024988677005731777
+ diamet: 0.034747768430943245
+ diffusion: 0.03072931902056205
+ distribu: 0.034747768430943245
+ effect: 0.024988677005731777
+ entir: 0.01350739297607123
+ fast: 0.01350739297607123
+ follow: 0.024988677005731777
+ followerfollow: 0.01350739297607123
+ headlin: 0.01350739297607123
+ human: 0.01350739297607123
+ inform: 0.01350739297607123
+ limit: 0.024988677005731777
+ low: 0.01350739297607123
+ media: 0.0445068598561547
+ network: 0.024127580703507238
+ new: 0.036469961035392316
+ nonpowerlaw: 0.01350739297607123
+ origin: 0.01350739297607123
+ particip: 0.022724711311133086
+ period: 0.024988677005731777
+ persist: 0.01350739297607123
+ profil: 0.022724711311133086
+ quantit: 0.01350739297607123
+ reciproc: 0.024988677005731777
+ relat: 0.024127580703507238
+ retweet: 0.024988677005731777
+ servic: 0.024988677005731777
+ share: 0.019248034990901504
+ short: 0.01350739297607123
+ site: 0.02168780784720437
+ social: 0.024988677005731777
+ studi: 0.024988677005731777
+ tempor: 0.01350739297607123
+ topolog: 0.01350739297607123
+ topologi: 0.024988677005731777
+ tweet: 0.04622905246060379
+ twitter: 0.019248034990901504
+ twitterspher: 0.019248034990901504
+ user: 0.02168780784720437
+
+N-grams list: 10
+ new media
+ nonpowerlaw follow distribu
+ short effect diamet
+ followerfollow topologi analysi
+ retweet tweet
+ human social network
+ origin tweet
+ entir twitter site
+ headlin new
+ persist new
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,86 @@
+File name: 13520597
+
+Graph edges count: 29
+ automaticallybuilt - concept: 1
+ automat - categor: 1
+ categor - power: 1
+ concept - graph: 2
+ current - queri: 1
+ data - set: 1
+ empir - evalu: 1
+ gener - purpos: 1
+ good - categor: 1
+ graph - automat: 1
+ graph - edg: 1
+ import - compon: 1
+ kdd - cup: 1
+ learn - scheme: 1
+ mine - process: 1
+ offlin - web: 1
+ power - summar: 1
+ queri - categor: 1
+ queri - log: 1
+ queri - stream: 1
+ queryspecif - content: 1
+ rich - queryspecif: 1
+ search - engin: 2
+ search - user: 1
+ unsupervis - learn: 1
+ unsupervis - queri: 1
+ user - queri: 1
+ web - mine: 1
+ web - search: 1
+
+PageRank scores count: 36
+ automat: 0.029598124594437777
+ automaticallybuilt: 0.014139372212432581
+ categor: 0.0655588824864725
+ compon: 0.026157838593000273
+ concept: 0.026157838593000273
+ content: 0.036373535016482814
+ cup: 0.026157838593000273
+ current: 0.014139372212432581
+ data: 0.014139372212432581
+ edg: 0.029598124594437777
+ empir: 0.014139372212432581
+ engin: 0.02845136259395861
+ evalu: 0.026157838593000273
+ gener: 0.014139372212432581
+ good: 0.014139372212432581
+ graph: 0.036373535016482814
+ import: 0.014139372212432581
+ kdd: 0.014139372212432581
+ learn: 0.020148605402716426
+ log: 0.02838201020063269
+ mine: 0.025256453614457695
+ offlin: 0.014139372212432581
+ power: 0.0698644223259342
+ process: 0.03560735778472162
+ purpos: 0.026157838593000273
+ queri: 0.05026813407600038
+ queryspecif: 0.026157838593000273
+ rich: 0.014139372212432581
+ scheme: 0.031265686804741545
+ search: 0.025256453614457695
+ set: 0.026157838593000273
+ stream: 0.02838201020063269
+ summar: 0.07352413118947666
+ unsupervis: 0.014139372212432581
+ user: 0.02129536740319559
+ web: 0.026157838593000273
+
+N-grams list: 10
+ good categor power
+ power summar
+ unsupervis queri categor
+ automat categor
+ current queri stream
+ queri log
+ rich queryspecif content
+ automaticallybuilt concept graph
+ web search user
+ user queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

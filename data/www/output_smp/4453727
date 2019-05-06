@@ -1,0 +1,59 @@
+File name: 4453727
+
+Graph edges count: 15
+ data - object: 1
+ data - schema: 1
+ import - issu: 1
+ link - network: 1
+ link - type: 1
+ match - data: 1
+ network - overlai: 1
+ optim - strategi: 1
+ p2p - network: 1
+ peertop - applic: 1
+ queri - request: 1
+ rank - function: 1
+ semant - link: 4
+ semant - relationship: 1
+ total - amount: 1
+
+PageRank scores count: 23
+ amount: 0.05208182124498428
+ applic: 0.05208182124498428
+ data: 0.05208182124498428
+ function: 0.05208182124498428
+ import: 0.028152335808099612
+ issu: 0.05208182124498428
+ link: 0.04011707852654195
+ match: 0.028152335808099612
+ network: 0.06913157961876461
+ object: 0.05028710983721794
+ optim: 0.028152335808099612
+ overlai: 0.08691417848404952
+ p2p: 0.028152335808099612
+ peertop: 0.028152335808099612
+ queri: 0.028152335808099612
+ rank: 0.028152335808099612
+ relationship: 0.04011707852654195
+ request: 0.05208182124498428
+ schema: 0.05028710983721794
+ semant: 0.028152335808099612
+ strategi: 0.05208182124498428
+ total: 0.028152335808099612
+ type: 0.04520209418187994
+
+N-grams list: 10
+ semant link network
+ match data object
+ semant link type
+ data schema
+ p2p network
+ overlai
+ peertop applic
+ import issu
+ queri request
+ total amount
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

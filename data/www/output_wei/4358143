@@ -1,0 +1,38 @@
+File name: 4358143
+
+Graph edges count: 9
+ comput - import: 1
+ comput - normal: 1
+ graph - pagerank: 1
+ import - rank: 1
+ import - score: 1
+ linkbas - import: 1
+ pagerank - measur: 1
+ pagerank - score: 2
+ standard - pagerank: 1
+
+PageRank scores count: 10
+ comput: 0.05672551939303694
+ graph: 0.05672551939303694
+ import: 0.129050556619159
+ linkbas: 0.05672551939303694
+ measur: 0.1001205417287102
+ normal: 0.08083386513507765
+ pagerank: 0.15315890236119975
+ rank: 0.11157200595617953
+ score: 0.19836205062752602
+ standard: 0.05672551939303694
+
+N-grams list: 8
+ comput import score
+ pagerank score
+ standard pagerank measur
+ linkbas import rank
+ graph pagerank
+ pagerank
+ comput normal
+ graph
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

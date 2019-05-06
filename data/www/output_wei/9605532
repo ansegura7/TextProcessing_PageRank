@@ -1,0 +1,62 @@
+File name: 9605532
+
+Graph edges count: 17
+ arbitrari - text: 1
+ expert - review: 1
+ integr - opinion: 1
+ integr - problem: 1
+ interest - applic: 1
+ mine - user: 1
+ model - web: 1
+ multipl - domain: 1
+ opinion - integr: 1
+ opinion - summari: 1
+ polit - figur: 1
+ semisupervis - topic: 2
+ text - collec: 1
+ topic - model: 2
+ user - opinion: 1
+ valuabl - sourc: 1
+ wellwritten - expert: 1
+
+PageRank scores count: 24
+ applic: 0.04151918707024197
+ arbitrari: 0.022442803821752417
+ collec: 0.05773411283145809
+ domain: 0.04151918707024197
+ expert: 0.04151918707024197
+ figur: 0.04151918707024197
+ integr: 0.05733614457692471
+ interest: 0.022442803821752417
+ mine: 0.022442803821752417
+ model: 0.05773411283145809
+ multipl: 0.022442803821752417
+ opinion: 0.08210197724851752
+ polit: 0.022442803821752417
+ problem: 0.04681066823881184
+ review: 0.05773411283145809
+ semisupervis: 0.022442803821752417
+ sourc: 0.04151918707024197
+ summari: 0.05733614457692471
+ text: 0.04151918707024197
+ topic: 0.04151918707024197
+ user: 0.04151918707024197
+ valuabl: 0.022442803821752417
+ web: 0.07151679972849179
+ wellwritten: 0.022442803821752417
+
+N-grams list: 10
+ integr opinion summari
+ mine user opinion
+ opinion integr
+ semisupervis topic model
+ wellwritten expert review
+ arbitrari text collec
+ integr problem
+ opinion
+ web
+ valuabl sourc
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

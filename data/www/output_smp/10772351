@@ -1,0 +1,49 @@
+File name: 10772351
+
+Graph edges count: 11
+ anim - anchor: 1
+ content - system: 1
+ machinegener - content: 2
+ multimedia - new: 1
+ new - articl: 1
+ new - show: 1
+ new - stori: 2
+ reader - comment: 1
+ text - media: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 17
+ anchor: 0.06898480469842454
+ anim: 0.03728908362077002
+ articl: 0.05683477828532364
+ comment: 0.06898480469842454
+ content: 0.06898480469842454
+ machinegener: 0.03728908362077002
+ media: 0.06898480469842454
+ multimedia: 0.03728908362077002
+ new: 0.06898480469842454
+ reader: 0.03728908362077002
+ show: 0.05683477828532364
+ stori: 0.05683477828532364
+ system: 0.09592616761443087
+ text: 0.03728908362077002
+ web: 0.09592616761443087
+ wide: 0.06898480469842454
+ world: 0.03728908362077002
+
+N-grams list: 10
+ world wide web
+ machinegener content system
+ multimedia new show
+ new articl
+ new stori
+ reader comment
+ machinegener content
+ anim anchor
+ text media
+ system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

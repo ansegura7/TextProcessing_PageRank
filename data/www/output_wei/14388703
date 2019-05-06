@@ -1,0 +1,74 @@
+File name: 14388703
+
+Graph edges count: 22
+ analyz - user: 1
+ assort - atten: 1
+ behavior - data: 1
+ behavior - featur: 1
+ commun - pattern: 1
+ contextu - inform: 1
+ credibl - content: 1
+ inform - present: 1
+ recent - year: 1
+ reciproc - assort: 1
+ social - attribut: 1
+ social - behavior: 1
+ social - media: 1
+ social - ti: 2
+ specif - relationship: 1
+ statist - properti: 1
+ textual - content: 2
+ textual - featur: 4
+ tie - strength: 1
+ ti - individu: 1
+ twitter - data: 1
+ user - person: 1
+
+PageRank scores count: 31
+ analyz: 0.02081122141058458
+ assort: 0.03850075960958148
+ atten: 0.05353686707872884
+ attribut: 0.02434912905038396
+ behavior: 0.02434912905038396
+ commun: 0.02081122141058458
+ content: 0.04439727234258044
+ contextu: 0.02081122141058458
+ credibl: 0.02081122141058458
+ data: 0.04884913945599465
+ featur: 0.04295262672299569
+ individu: 0.04451520259724042
+ inform: 0.03850075960958148
+ media: 0.02434912905038396
+ pattern: 0.03850075960958148
+ person: 0.05353686707872884
+ present: 0.05353686707872884
+ properti: 0.03850075960958148
+ recent: 0.02081122141058458
+ reciproc: 0.02081122141058458
+ relationship: 0.03850075960958148
+ social: 0.02081122141058458
+ specif: 0.02081122141058458
+ statist: 0.02081122141058458
+ strength: 0.03850075960958148
+ textual: 0.02081122141058458
+ ti: 0.027887036690183338
+ tie: 0.02081122141058458
+ twitter: 0.02081122141058458
+ user: 0.03850075960958148
+ year: 0.03850075960958148
+
+N-grams list: 10
+ contextu inform present
+ reciproc assort atten
+ analyz user person
+ social behavior data
+ ti individu
+ twitter data
+ behavior featur
+ credibl content
+ textual content
+ textual featur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

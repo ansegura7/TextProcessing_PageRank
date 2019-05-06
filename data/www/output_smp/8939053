@@ -1,0 +1,47 @@
+File name: 8939053
+
+Graph edges count: 13
+ browser - system: 1
+ contextualizednew - articl: 1
+ contextualizednew - browser: 2
+ contextu - page: 1
+ new - articl: 5
+ new - sourc: 1
+ past - relat: 2
+ prototyp - browser: 1
+ relat - new: 1
+ relat - page: 4
+ timebas - contextualizednew: 2
+ userspecifi - new: 2
+ userspecifi - page: 1
+
+PageRank scores count: 13
+ articl: 0.1111967999673674
+ browser: 0.10753455739510408
+ contextu: 0.0407907282674648
+ contextualizednew: 0.07546284729480987
+ new: 0.09019849788143153
+ page: 0.12487061690877661
+ past: 0.0407907282674648
+ prototyp: 0.0407907282674648
+ relat: 0.07546284729480987
+ sourc: 0.0791250898670732
+ system: 0.13219510205330326
+ timebas: 0.0407907282674648
+ userspecifi: 0.0407907282674648
+
+N-grams list: 10
+ prototyp browser system
+ userspecifi new articl
+ past relat page
+ timebas contextualizednew browser
+ past relat new
+ new articl
+ relat page
+ contextualizednew articl
+ new sourc
+ userspecifi page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,52 @@
+File name: 4340570
+
+Graph edges count: 13
+ adapt - method: 1
+ adapt - record: 1
+ data - extrac: 1
+ entrieson - blog: 1
+ extrac - pattern: 1
+ looselystructur - record: 1
+ match - metric: 1
+ product - descrip: 1
+ record - extrac: 1
+ rigidlystructur - record: 1
+ tree - match: 1
+ web - page: 2
+ weight - tree: 1
+
+PageRank scores count: 18
+ adapt: 0.028534181274086856
+ blog: 0.05278823535706068
+ data: 0.028534181274086856
+ descrip: 0.05278823535706068
+ entrieson: 0.028534181274086856
+ extrac: 0.12858215436635387
+ looselystructur: 0.028534181274086856
+ match: 0.07340418132758844
+ method: 0.040661208315573766
+ metric: 0.09092773540253704
+ page: 0.05278823535706068
+ pattern: 0.13782901248548762
+ product: 0.028534181274086856
+ record: 0.08916931648152142
+ rigidlystructur: 0.028534181274086856
+ tree: 0.05278823535706068
+ web: 0.028534181274086856
+ weight: 0.028534181274086856
+
+N-grams list: 10
+ data extrac pattern
+ adapt record extrac
+ weight tree match
+ looselystructur record
+ rigidlystructur record
+ metric
+ record
+ product descrip
+ web page
+ entrieson blog
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

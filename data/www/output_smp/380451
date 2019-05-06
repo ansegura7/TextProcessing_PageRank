@@ -1,0 +1,90 @@
+File name: 380451
+
+Graph edges count: 30
+ abstract - level: 1
+ actual - express: 1
+ competi - regular: 1
+ contextu - pattern: 2
+ declar - consist: 1
+ docum - type: 1
+ effici - class: 1
+ elem - declar: 1
+ equival - formal: 1
+ equival - syntact: 1
+ express - power: 2
+ front - end: 1
+ level - xml: 1
+ lightweight - front: 1
+ limit - express: 1
+ open - tag: 1
+ particl - attribu: 1
+ recurs - type: 2
+ regular - expres: 1
+ restrain - competi: 1
+ schema - defini: 1
+ schema - specif: 1
+ stream - docum: 1
+ syntact - formal: 1
+ type - defini: 1
+ type - mechan: 1
+ uniqu - particl: 1
+ vast - major: 1
+ xml - docum: 1
+ xml - schema: 4
+
+PageRank scores count: 39
+ abstract: 0.013400842394122724
+ actual: 0.013400842394122724
+ attribu: 0.034473667058880705
+ class: 0.024791558429127038
+ competi: 0.024791558429127038
+ consist: 0.034473667058880705
+ contextu: 0.013400842394122724
+ declar: 0.024791558429127038
+ defini: 0.05010815453467012
+ docum: 0.03944286692915134
+ effici: 0.013400842394122724
+ elem: 0.013400842394122724
+ end: 0.034473667058880705
+ equival: 0.013400842394122724
+ expres: 0.04270345939417132
+ express: 0.03618227446413135
+ formal: 0.03532797076150603
+ front: 0.024791558429127038
+ level: 0.024791558429127038
+ lightweight: 0.013400842394122724
+ limit: 0.013400842394122724
+ major: 0.024791558429127038
+ mechan: 0.03818599040465764
+ open: 0.013400842394122724
+ particl: 0.024791558429127038
+ pattern: 0.024791558429127038
+ power: 0.04415577568863437
+ recurs: 0.013400842394122724
+ regular: 0.034473667058880705
+ restrain: 0.013400842394122724
+ schema: 0.028052150894147018
+ specif: 0.02532300652413521
+ stream: 0.013400842394122724
+ syntact: 0.01909620041162488
+ tag: 0.024791558429127038
+ type: 0.05831799531890568
+ uniqu: 0.013400842394122724
+ vast: 0.013400842394122724
+ xml: 0.034473667058880705
+
+N-grams list: 10
+ docum type defini
+ xml schema defini
+ recurs type mechan
+ limit express power
+ actual express power
+ xml schema specif
+ xml docum
+ restrain competi regular
+ lightweight front end
+ elem declar consist
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

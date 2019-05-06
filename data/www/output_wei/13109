@@ -1,0 +1,79 @@
+File name: 13109
+
+Graph edges count: 25
+ adapt - scheme: 1
+ adapt - techniqu: 1
+ adapt - view: 1
+ bottom - level: 1
+ desktop - pc: 1
+ detail - inform: 1
+ devic - mobil: 1
+ experiment - result: 1
+ factor - devic: 1
+ form - factor: 1
+ global - view: 1
+ larg - web: 1
+ level - hierarchi: 1
+ mobil - devic: 3
+ page - adapt: 2
+ page - structur: 1
+ relat - unit: 1
+ smallformfactor - devic: 1
+ small - displai: 1
+ small - form: 1
+ small - screen: 1
+ split - autoposi: 1
+ thumbnail - represent: 1
+ top - level: 1
+ web - page: 6
+
+PageRank scores count: 33
+ adapt: 0.030556829394731214
+ autoposi: 0.023000766709491503
+ bottom: 0.012432846869995406
+ desktop: 0.012432846869995406
+ detail: 0.012432846869995406
+ devic: 0.20059259065724389
+ displai: 0.015955486816494106
+ experiment: 0.012432846869995406
+ factor: 0.025995010664015397
+ form: 0.015955486816494106
+ global: 0.012432846869995406
+ hierarchi: 0.040966230436634866
+ inform: 0.023000766709491503
+ larg: 0.012432846869995406
+ level: 0.0335686865489876
+ mobil: 0.1829365603020892
+ page: 0.031983498573063186
+ pc: 0.023000766709491503
+ relat: 0.012432846869995406
+ represent: 0.023000766709491503
+ result: 0.023000766709491503
+ scheme: 0.021090615198502582
+ screen: 0.015955486816494106
+ small: 0.012432846869995406
+ smallformfactor: 0.012432846869995406
+ split: 0.012432846869995406
+ structur: 0.021494838132363307
+ techniqu: 0.021090615198502582
+ thumbnail: 0.012432846869995406
+ top: 0.012432846869995406
+ unit: 0.023000766709491503
+ view: 0.031658535037998675
+ web: 0.023000766709491503
+
+N-grams list: 10
+ devic mobil devic
+ mobil devic
+ smallformfactor devic
+ devic
+ page adapt scheme
+ page adapt techniqu
+ web page structur
+ level hierarchi
+ larg web page
+ adapt view
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

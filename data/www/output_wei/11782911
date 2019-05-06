@@ -1,0 +1,93 @@
+File name: 11782911
+
+Graph edges count: 29
+ adop - dynam: 1
+ complex - contagion: 2
+ controversi - topic: 1
+ earli - adopt: 1
+ gener - model: 1
+ hashtag - spread: 1
+ idiom - polit: 1
+ inform - diffusion: 1
+ inform - spread: 2
+ initi - adopt: 1
+ intuit - sens: 1
+ largescal - valid: 1
+ larg - margin: 1
+ margin - effect: 2
+ multipl - exposur: 1
+ natur - analog: 1
+ network - structur: 1
+ polit - hashtag: 1
+ rel - extent: 1
+ share - environ: 1
+ signific - margin: 1
+ signific - variat: 1
+ structur - differ: 1
+ subgraph - structur: 1
+ twitter - idiom: 1
+ twitter - user: 1
+ widelyadopt - hashtag: 1
+ widelyus - hashtag: 1
+ widespread - intuit: 1
+
+PageRank scores count: 43
+ adop: 0.013739152992381085
+ adopt: 0.037095713079428924
+ analog: 0.025417433035905004
+ complex: 0.013739152992381085
+ contagion: 0.025417433035905004
+ controversi: 0.013739152992381085
+ differ: 0.04527050910989567
+ diffusion: 0.017631913006889058
+ dynam: 0.025417433035905004
+ earli: 0.013739152992381085
+ effect: 0.04030724009139801
+ environ: 0.025417433035905004
+ exposur: 0.025417433035905004
+ extent: 0.025417433035905004
+ gener: 0.013739152992381085
+ hashtag: 0.0629193098256712
+ idiom: 0.019578293014143044
+ inform: 0.013739152992381085
+ initi: 0.013739152992381085
+ intuit: 0.025417433035905004
+ larg: 0.013739152992381085
+ largescal: 0.013739152992381085
+ margin: 0.031256573057666964
+ model: 0.025417433035905004
+ multipl: 0.013739152992381085
+ natur: 0.013739152992381085
+ network: 0.013739152992381085
+ polit: 0.030380702054402676
+ rel: 0.013739152992381085
+ sens: 0.03534397107290034
+ share: 0.013739152992381085
+ signific: 0.013739152992381085
+ spread: 0.07500608637321755
+ structur: 0.037095713079428924
+ subgraph: 0.013739152992381085
+ topic: 0.025417433035905004
+ twitter: 0.013739152992381085
+ user: 0.019578293014143044
+ valid: 0.025417433035905004
+ variat: 0.019578293014143044
+ widelyadopt: 0.013739152992381085
+ widelyus: 0.013739152992381085
+ widespread: 0.013739152992381085
+
+N-grams list: 10
+ hashtag spread
+ idiom polit hashtag
+ inform spread
+ signific margin effect
+ larg margin effect
+ structur differ
+ widelyus hashtag
+ widelyadopt hashtag
+ widespread intuit sens
+ hashtag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

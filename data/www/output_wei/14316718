@@ -1,0 +1,71 @@
+File name: 14316718
+
+Graph edges count: 19
+ actual - qualiti: 1
+ comput - applic: 1
+ gametheoret - approach: 1
+ high - reward: 1
+ imperfect - rank: 1
+ mb - adequ: 1
+ mechan - design: 5
+ mechan - mb: 1
+ onlin - qa: 1
+ optim - outcom: 4
+ optim - reward: 1
+ potenti - contributor: 1
+ qa - forum: 1
+ reason - object: 1
+ receiv - contribu: 1
+ site - owner: 1
+ social - comput: 2
+ symmetr - equilibrium: 1
+ uniqu - symmetr: 1
+
+PageRank scores count: 31
+ actual: 0.020947709280708028
+ adequ: 0.04127571549519511
+ applic: 0.053887982124621404
+ approach: 0.038753262169309854
+ comput: 0.038753262169309854
+ contribu: 0.038753262169309854
+ contributor: 0.038753262169309854
+ design: 0.03578567002120955
+ equilibrium: 0.053887982124621404
+ forum: 0.053887982124621404
+ gametheoret: 0.020947709280708028
+ high: 0.020947709280708028
+ imperfect: 0.020947709280708028
+ mb: 0.023915301428808333
+ mechan: 0.020947709280708028
+ object: 0.038753262169309854
+ onlin: 0.020947709280708028
+ optim: 0.020947709280708028
+ outcom: 0.035192151591589484
+ owner: 0.038753262169309854
+ potenti: 0.020947709280708028
+ qa: 0.038753262169309854
+ qualiti: 0.038753262169309854
+ rank: 0.038753262169309854
+ reason: 0.020947709280708028
+ receiv: 0.020947709280708028
+ reward: 0.04231437274703021
+ site: 0.020947709280708028
+ social: 0.020947709280708028
+ symmetr: 0.038753262169309854
+ uniqu: 0.020947709280708028
+
+N-grams list: 10
+ onlin qa forum
+ social comput applic
+ uniqu symmetr equilibrium
+ mechan mb adequ
+ high reward
+ optim reward
+ site owner
+ reason object
+ imperfect rank
+ gametheoret approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

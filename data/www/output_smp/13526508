@@ -1,0 +1,54 @@
+File name: 13526508
+
+Graph edges count: 14
+ content - fresh: 1
+ fresh - metric: 2
+ local - repositori: 1
+ perfect - fresh: 1
+ practic - implement: 1
+ previou - fresh: 1
+ produc - search: 2
+ relev - search: 1
+ repositori - fresh: 1
+ search - engin: 5
+ search - result: 2
+ synchron - polici: 1
+ usercentr - content: 1
+ web - crawler: 2
+
+PageRank scores count: 19
+ content: 0.04992140751384644
+ crawler: 0.04992140751384644
+ engin: 0.05794930953296499
+ fresh: 0.15772466319915265
+ implement: 0.04992140751384644
+ local: 0.026984544602079157
+ metric: 0.1610505083213589
+ perfect: 0.026984544602079157
+ polici: 0.04992140751384644
+ practic: 0.026984544602079157
+ previou: 0.026984544602079157
+ produc: 0.026984544602079157
+ relev: 0.026984544602079157
+ repositori: 0.04992140751384644
+ result: 0.05794930953296499
+ search: 0.07285827042561371
+ synchron: 0.026984544602079157
+ usercentr: 0.026984544602079157
+ web: 0.026984544602079157
+
+N-grams list: 10
+ previou fresh metric
+ usercentr content fresh
+ repositori fresh
+ perfect fresh
+ metric
+ relev search result
+ produc search engin
+ fresh
+ search result
+ search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

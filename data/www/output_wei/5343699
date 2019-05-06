@@ -1,0 +1,86 @@
+File name: 5343699
+
+Graph edges count: 25
+ annot - system: 1
+ autonom - system: 1
+ case - studi: 1
+ data - represent: 1
+ effect - solution: 1
+ empir - evid: 1
+ fullfeatur - ontologi: 1
+ innov - solution: 1
+ languag - game: 3
+ lexicon - level: 1
+ lexic - approach: 1
+ main - contribu: 1
+ main - sourc: 1
+ ontologi - level: 1
+ orient - architectur: 1
+ parti - mediat: 1
+ real - world: 1
+ semant - problem: 1
+ semant - web: 1
+ servic - orient: 1
+ share - lexicon: 1
+ singl - point: 1
+ ski - mountain: 1
+ ultim - challeng: 1
+ world - case: 1
+
+PageRank scores count: 40
+ annot: 0.01567972591839094
+ approach: 0.029007492949023238
+ architectur: 0.0403360949250607
+ autonom: 0.01567972591839094
+ case: 0.0403360949250607
+ challeng: 0.029007492949023238
+ contribu: 0.02234360943370709
+ data: 0.01567972591839094
+ effect: 0.01567972591839094
+ empir: 0.01567972591839094
+ evid: 0.029007492949023238
+ fullfeatur: 0.01567972591839094
+ game: 0.02900749294902324
+ innov: 0.01567972591839094
+ languag: 0.01567972591839094
+ level: 0.06499246393173044
+ lexic: 0.01567972591839094
+ lexicon: 0.029007492949023238
+ main: 0.01567972591839094
+ mediat: 0.029007492949023238
+ mountain: 0.029007492949023238
+ ontologi: 0.029007492949023238
+ orient: 0.029007492949023238
+ parti: 0.01567972591839094
+ point: 0.029007492949023238
+ problem: 0.02234360943370709
+ real: 0.01567972591839094
+ represent: 0.029007492949023238
+ semant: 0.01567972591839094
+ servic: 0.01567972591839094
+ share: 0.01567972591839094
+ singl: 0.01567972591839094
+ ski: 0.01567972591839094
+ solution: 0.04233525997965554
+ sourc: 0.02234360943370709
+ studi: 0.04996540660469252
+ system: 0.04233525997965554
+ ultim: 0.01567972591839094
+ web: 0.02234360943370709
+ world: 0.029007492949023238
+
+N-grams list: 10
+ fullfeatur ontologi level
+ lexicon level
+ real world case
+ servic orient architectur
+ annot system
+ autonom system
+ innov solution
+ effect solution
+ studi
+ singl point
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

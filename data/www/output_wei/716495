@@ -1,0 +1,85 @@
+File name: 716495
+
+Graph edges count: 28
+ agentbas - semant: 1
+ aid - scenario: 1
+ commun - intent: 1
+ daml - servic: 2
+ domainneutr - commun: 1
+ domainspecif - content: 1
+ effort - attempt: 1
+ function - signatur: 1
+ humanitarian - aid: 1
+ inform - triag: 1
+ inten - forc: 1
+ motiv - web: 1
+ multiag - system: 2
+ opportunist - servic: 1
+ semant - web: 2
+ servic - descrip: 2
+ servic - discoveri: 1
+ servic - effort: 1
+ servic - model: 1
+ servic - system: 1
+ servic - world: 1
+ similar - develop: 1
+ simul - humanitarian: 1
+ situat - awar: 1
+ speech - act: 1
+ system - commun: 2
+ web - commun: 1
+ web - servic: 4
+
+PageRank scores count: 36
+ act: 0.02731878712010094
+ agentbas: 0.01476691195681132
+ aid: 0.03798788100889713
+ attempt: 0.03498117793540738
+ awar: 0.02731878712010094
+ commun: 0.06679390553676491
+ content: 0.02731878712010094
+ daml: 0.01476691195681132
+ descrip: 0.03279606681635587
+ develop: 0.02731878712010094
+ discoveri: 0.023781489386583594
+ domainneutr: 0.01476691195681132
+ domainspecif: 0.01476691195681132
+ effort: 0.023781489386583594
+ forc: 0.02731878712010094
+ function: 0.01476691195681132
+ humanitarian: 0.02731878712010094
+ inform: 0.01476691195681132
+ inten: 0.01476691195681132
+ intent: 0.07154173166306149
+ model: 0.023781489386583594
+ motiv: 0.01476691195681132
+ multiag: 0.01476691195681132
+ opportunist: 0.01476691195681132
+ scenario: 0.04705661081437388
+ semant: 0.02731878712010094
+ servic: 0.07423769648047755
+ signatur: 0.02731878712010094
+ similar: 0.01476691195681132
+ simul: 0.01476691195681132
+ situat: 0.01476691195681132
+ speech: 0.01476691195681132
+ system: 0.03633336454987321
+ triag: 0.02731878712010094
+ web: 0.05053975617218674
+ world: 0.023781489386583594
+
+N-grams list: 10
+ domainneutr commun intent
+ web servic world
+ semant web commun
+ motiv web servic
+ web servic
+ multiag system commun
+ daml servic effort
+ daml servic model
+ opportunist servic discoveri
+ servic descrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

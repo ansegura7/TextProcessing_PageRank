@@ -1,0 +1,104 @@
+File name: 377638
+
+Graph edges count: 37
+ astatist - machinelearn: 1
+ brows - experi: 1
+ contextdriven - nonvisu: 1
+ contrari - individu: 1
+ csurf - embodyingor: 1
+ disabl - peopl: 1
+ embodyingor - approach: 1
+ graphic - mode: 1
+ inform - onth: 1
+ inform - overload: 1
+ link - csurf: 1
+ machinelearn - model: 1
+ machin - astatist: 1
+ nonvisu - web: 1
+ nonvisu - webbrows: 1
+ problemof - inform: 1
+ process - page: 1
+ prototyp - system: 1
+ relev - inform: 2
+ relev - section: 1
+ screenread - process: 1
+ screenread - tobrows: 1
+ seri - experi: 1
+ simpl - topicboundari: 1
+ stateoftheartscreenread - jaw: 1
+ substantiallyimprov - brows: 1
+ support - vector: 1
+ system - csurf: 1
+ topicboundari - detectiontechniqu: 1
+ usual - featur: 1
+ vector - machin: 1
+ visual - disabl: 1
+ webbrows - web: 1
+ web - access: 1
+ web - brows: 1
+ web - page: 2
+ web - site: 1
+
+PageRank scores count: 46
+ access: 0.017250595756148932
+ approach: 0.047747012712607985
+ astatist: 0.03519787274272391
+ brows: 0.026639272438003663
+ contextdriven: 0.01104550197865262
+ contrari: 0.01104550197865262
+ csurf: 0.0378032305219386
+ detectiontechniqu: 0.02841455384008387
+ disabl: 0.02043417866050735
+ embodyingor: 0.043178247922300426
+ experi: 0.04307756023281046
+ featur: 0.02043417866050735
+ graphic: 0.01104550197865262
+ individu: 0.02043417866050735
+ inform: 0.026693296448410498
+ jaw: 0.02043417866050735
+ link: 0.01104550197865262
+ machin: 0.02841455384008387
+ machinelearn: 0.04096369380996795
+ mode: 0.02043417866050735
+ model: 0.04586464171712538
+ nonvisu: 0.02043417866050735
+ onth: 0.02239015296922708
+ overload: 0.02239015296922708
+ page: 0.03683455380528823
+ peopl: 0.02841455384008387
+ problemof: 0.01104550197865262
+ process: 0.015739840319579985
+ prototyp: 0.01104550197865262
+ relev: 0.01104550197865262
+ screenread: 0.01104550197865262
+ section: 0.014175060872604197
+ seri: 0.01104550197865262
+ simpl: 0.01104550197865262
+ site: 0.017250595756148932
+ stateoftheartscreenread: 0.01104550197865262
+ substantiallyimprov: 0.01104550197865262
+ support: 0.01104550197865262
+ system: 0.02043417866050735
+ tobrows: 0.015739840319579985
+ topicboundari: 0.02043417866050735
+ usual: 0.01104550197865262
+ vector: 0.02043417866050735
+ visual: 0.01104550197865262
+ web: 0.03650055163233125
+ webbrows: 0.019730027909368245
+
+N-grams list: 10
+ astatist machinelearn model
+ embodyingor approach
+ substantiallyimprov brows experi
+ nonvisu web access
+ web page
+ prototyp system csurf
+ screenread process page
+ web brows
+ relev inform onth
+ problemof inform overload
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

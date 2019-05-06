@@ -1,0 +1,84 @@
+File name: 334320
+
+Graph edges count: 28
+ applic - gener: 1
+ cost - globetp: 1
+ databas - replic: 2
+ databas - replica: 1
+ databas - tabl: 1
+ databas - throughput: 2
+ execu - cost: 1
+ experi - globetp: 1
+ full - replic: 1
+ gener - databas: 1
+ hardwar - configur: 1
+ ident - hardwar: 1
+ industri - standard: 1
+ partial - replic: 2
+ queri - cach: 1
+ queri - workload: 1
+ replic - algorithm: 1
+ respect - execu: 1
+ scalabl - web: 1
+ scenario - partial: 1
+ signific - improv: 1
+ singl - queri: 1
+ small - set: 1
+ standard - benchmark: 1
+ tabl - placem: 1
+ templatebas - databas: 1
+ udi - queri: 2
+ web - applic: 2
+
+PageRank scores count: 35
+ algorithm: 0.06981295318620068
+ applic: 0.035868581690460984
+ benchmark: 0.035868581690460984
+ cach: 0.029942771304281815
+ configur: 0.035868581690460984
+ cost: 0.035868581690460984
+ databas: 0.0635613750776728
+ execu: 0.025794704033956395
+ experi: 0.013943083261598052
+ full: 0.013943083261598052
+ gener: 0.04443137769848989
+ globetp: 0.05628299847084823
+ hardwar: 0.025794704033956395
+ ident: 0.013943083261598052
+ improv: 0.025794704033956395
+ industri: 0.013943083261598052
+ partial: 0.025794704033956395
+ placem: 0.0334485529495595
+ queri: 0.037646324806314746
+ replic: 0.06572925873482663
+ replica: 0.022947611397601698
+ respect: 0.013943083261598052
+ scalabl: 0.013943083261598052
+ scenario: 0.013943083261598052
+ set: 0.025794704033956395
+ signific: 0.013943083261598052
+ singl: 0.013943083261598052
+ small: 0.013943083261598052
+ standard: 0.025794704033956395
+ tabl: 0.022947611397601698
+ templatebas: 0.013943083261598052
+ throughput: 0.03195213953360535
+ udi: 0.013943083261598052
+ web: 0.025794704033956395
+ workload: 0.029942771304281815
+
+N-grams list: 10
+ gener databas replic
+ templatebas databas replic
+ databas tabl placem
+ scenario partial replic
+ databas throughput
+ partial replic
+ databas replica
+ singl queri cach
+ full replic
+ ident hardwar configur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

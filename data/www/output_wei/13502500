@@ -1,0 +1,84 @@
+File name: 13502500
+
+Graph edges count: 27
+ access - difficulti: 2
+ common - desktop: 1
+ consciou - effort: 1
+ design - implic: 1
+ design - model: 1
+ design - requir: 1
+ desktop - function: 1
+ dynam - interact: 1
+ impair - individu: 1
+ impair - user: 1
+ increas - access: 1
+ interact - webbas: 1
+ main - contribu: 1
+ model - access: 1
+ reader - support: 1
+ reader - user: 4
+ reader - web: 1
+ screen - reader: 5
+ static - page: 1
+ technologi - websit: 1
+ tradition - websit: 1
+ usabl - research: 1
+ user - workflow: 1
+ waiaria - ajax: 1
+ webbas - applic: 1
+ web - engin: 1
+ workflow - design: 1
+
+PageRank scores count: 36
+ access: 0.053553124048969794
+ ajax: 0.027705777721016293
+ applic: 0.04772320212445057
+ common: 0.014976096065414213
+ consciou: 0.014976096065414213
+ contribu: 0.027705777721016293
+ design: 0.0544678117883104
+ desktop: 0.027705777721016293
+ difficulti: 0.06049625150703853
+ dynam: 0.014976096065414213
+ effort: 0.027705777721016293
+ engin: 0.031042015121588672
+ function: 0.03852600712827806
+ impair: 0.014976096065414213
+ implic: 0.030408642738768824
+ increas: 0.014976096065414213
+ individu: 0.021340936893215253
+ interact: 0.027705777721016293
+ main: 0.014976096065414213
+ model: 0.030408642738768824
+ page: 0.027705777721016293
+ reader: 0.027705777721016293
+ requir: 0.030408642738768824
+ research: 0.027705777721016293
+ screen: 0.014976096065414213
+ static: 0.014976096065414213
+ support: 0.01890108124255819
+ technologi: 0.014976096065414213
+ tradition: 0.014976096065414213
+ usabl: 0.014976096065414213
+ user: 0.03704087760179115
+ waiaria: 0.014976096065414213
+ web: 0.01890108124255819
+ webbas: 0.03852600712827806
+ websit: 0.040435459376618375
+ workflow: 0.0464608420269367
+
+N-grams list: 10
+ model access difficulti
+ user workflow design
+ access difficulti
+ design implic
+ design requir
+ common desktop function
+ dynam interact webbas
+ screen reader user
+ increas access
+ reader user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

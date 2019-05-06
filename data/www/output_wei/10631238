@@ -1,0 +1,72 @@
+File name: 10631238
+
+Graph edges count: 20
+ addition - malwar: 1
+ anomal - javascript: 1
+ clientsid - interfac: 1
+ code - javascript: 1
+ complet - control: 1
+ detec - signatur: 1
+ drivebi - download: 1
+ drivebydownload - attack: 1
+ dynam - natur: 1
+ establish - profil: 1
+ javascript - code: 7
+ javascript - languag: 1
+ machinelearn - techniqu: 1
+ malici - code: 1
+ malici - javascript: 4
+ normal - javascript: 1
+ signaturebas - system: 1
+ sophist - clientsid: 1
+ tight - integr: 1
+ web - applic: 1
+
+PageRank scores count: 31
+ addition: 0.015638418916371296
+ anomal: 0.015638418916371296
+ applic: 0.028931074995286903
+ attack: 0.028931074995286903
+ clientsid: 0.028931074995286903
+ code: 0.15662867239747746
+ complet: 0.015638418916371296
+ control: 0.028931074995286903
+ detec: 0.015638418916371296
+ download: 0.028931074995286903
+ drivebi: 0.015638418916371296
+ drivebydownload: 0.015638418916371296
+ dynam: 0.015638418916371296
+ establish: 0.015638418916371296
+ integr: 0.028931074995286903
+ interfac: 0.04022983266236517
+ javascript: 0.18599221772544175
+ languag: 0.03540009352570317
+ machinelearn: 0.015638418916371296
+ malici: 0.015638418916371296
+ malwar: 0.028931074995286903
+ natur: 0.028931074995286903
+ normal: 0.015638418916371296
+ profil: 0.028931074995286903
+ signatur: 0.028931074995286903
+ signaturebas: 0.015638418916371296
+ sophist: 0.015638418916371296
+ system: 0.028931074995286903
+ techniqu: 0.028931074995286903
+ tight: 0.015638418916371296
+ web: 0.015638418916371296
+
+N-grams list: 10
+ anomal javascript code
+ malici javascript code
+ normal javascript code
+ javascript code
+ javascript languag
+ javascript
+ malici code
+ code
+ sophist clientsid interfac
+ web applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,63 @@
+File name: 8932761
+
+Graph edges count: 18
+ accept - progress: 1
+ addition - metric: 1
+ addition - train: 1
+ busi - requir: 1
+ certif - program: 2
+ corpor - certif: 1
+ easi - registr: 1
+ educ - program: 1
+ elearn - program: 1
+ elearn - success: 1
+ elearn - websit: 1
+ indispens - busi: 1
+ learn - activ: 1
+ learn - commun: 1
+ onlin - feedback: 1
+ onlin - test: 1
+ specif - learn: 1
+ specif - onlin: 1
+
+PageRank scores count: 24
+ accept: 0.027497078435416232
+ activ: 0.04414999656286518
+ addition: 0.027497078435416232
+ busi: 0.05086959510552003
+ certif: 0.05086959510552003
+ commun: 0.04414999656286518
+ corpor: 0.027497078435416232
+ easi: 0.027497078435416232
+ educ: 0.027497078435416232
+ elearn: 0.027497078435416232
+ feedback: 0.04414999656286518
+ indispens: 0.027497078435416232
+ learn: 0.03918333677046813
+ metric: 0.03918333677046813
+ onlin: 0.03918333677046813
+ program: 0.10189958983524665
+ progress: 0.05086959510552003
+ registr: 0.05086959510552003
+ requir: 0.07073623427510824
+ specif: 0.027497078435416232
+ success: 0.03528791732545083
+ test: 0.04414999656286518
+ train: 0.03918333677046813
+ websit: 0.03528791732545083
+
+N-grams list: 10
+ corpor certif program
+ certif program
+ indispens busi requir
+ elearn program
+ educ program
+ specif onlin test
+ specif learn commun
+ learn activ
+ onlin feedback
+ easi registr
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

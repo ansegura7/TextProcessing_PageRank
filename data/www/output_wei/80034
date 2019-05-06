@@ -1,0 +1,93 @@
+File name: 80034
+
+Graph edges count: 30
+ applicationlevel - protocol: 1
+ brows - applic: 1
+ clientsid - softwar: 1
+ data - throughput: 1
+ dn - lookup: 3
+ download - mechan: 1
+ endtoend - user: 1
+ file - transfer: 1
+ ftp - session: 1
+ gener - wireless: 1
+ ip - map: 1
+ larg - roundtrip: 1
+ level - optim: 1
+ level - techniqu: 1
+ link - recent: 1
+ multipl - tcp: 1
+ network - toprovid: 1
+ optim - techniqu: 1
+ provid - network: 1
+ recent - observ: 1
+ roundtrip - time: 1
+ servic - provid: 1
+ session - level: 2
+ tcpdn - rtt: 1
+ tcp - connec: 3
+ transfer - applic: 1
+ transportlevel - protocol: 1
+ web - brows: 1
+ wireless - link: 7
+ wireless - network: 1
+
+PageRank scores count: 42
+ applic: 0.053474690247483816
+ applicationlevel: 0.012901010916160149
+ brows: 0.023866870194896278
+ clientsid: 0.012901010916160149
+ connec: 0.033187850581821984
+ data: 0.012901010916160149
+ dn: 0.012901010916160149
+ download: 0.012901010916160149
+ endtoend: 0.012901010916160149
+ file: 0.012901010916160149
+ ftp: 0.012901010916160149
+ gener: 0.012901010916160149
+ ip: 0.012901010916160149
+ larg: 0.012901010916160149
+ level: 0.033187850581821984
+ link: 0.030651995623614255
+ lookup: 0.023866870194896275
+ map: 0.023866870194896278
+ mechan: 0.023866870194896278
+ multipl: 0.012901010916160149
+ network: 0.03572370554002971
+ observ: 0.04601293703295757
+ optim: 0.027005847413434494
+ protocol: 0.034832729473632404
+ provid: 0.023866870194896278
+ recent: 0.03895520719623226
+ roundtrip: 0.023866870194896278
+ rtt: 0.023866870194896278
+ servic: 0.012901010916160149
+ session: 0.023866870194896278
+ softwar: 0.023866870194896278
+ tcp: 0.023866870194896278
+ tcpdn: 0.012901010916160149
+ techniqu: 0.04996081771485381
+ throughput: 0.023866870194896278
+ time: 0.033187850581821984
+ toprovid: 0.043266160625185394
+ transfer: 0.023866870194896278
+ transportlevel: 0.012901010916160149
+ user: 0.023866870194896278
+ web: 0.012901010916160149
+ wireless: 0.023866870194896278
+
+N-grams list: 10
+ session level techniqu
+ wireless link recent
+ file transfer applic
+ web brows applic
+ session level optim
+ gener wireless network
+ servic provid network
+ multipl tcp connec
+ larg roundtrip time
+ tcp connec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

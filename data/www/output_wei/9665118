@@ -1,0 +1,78 @@
+File name: 9665118
+
+Graph edges count: 23
+ aggreg - comput: 1
+ aggreg - function: 3
+ algorithm - vert: 1
+ analyt - oper: 1
+ busi - data: 1
+ experiment - result: 1
+ flwor - expres: 1
+ index - valu: 1
+ main - techniqu: 1
+ pattern - match: 1
+ previou - xml: 1
+ process - algorithm: 1
+ queri - pattern: 1
+ queri - perform: 1
+ queri - process: 2
+ queri - structur: 1
+ relat - tabl: 1
+ semant - optim: 1
+ tabl - indic: 1
+ w3c - xqueri: 1
+ xml - docum: 2
+ xml - format: 1
+ xml - queri: 4
+
+PageRank scores count: 34
+ aggreg: 0.018985887609374016
+ algorithm: 0.0455412045043362
+ analyt: 0.018985887609374016
+ busi: 0.018985887609374016
+ comput: 0.023020388726365994
+ data: 0.03512389207734193
+ docum: 0.027515975685299916
+ experiment: 0.018985887609374016
+ expres: 0.03512389207734193
+ flwor: 0.018985887609374016
+ format: 0.023250931647336964
+ function: 0.03108939096034995
+ index: 0.018985887609374016
+ indic: 0.04884119587511465
+ main: 0.018985887609374016
+ match: 0.040332548290839064
+ oper: 0.03512389207734193
+ optim: 0.03512389207734193
+ pattern: 0.025113718448782404
+ perform: 0.025113718448782404
+ previou: 0.018985887609374016
+ process: 0.031241549288190795
+ queri: 0.036046063761225815
+ relat: 0.018985887609374016
+ result: 0.03512389207734193
+ semant: 0.018985887609374016
+ structur: 0.025113718448782404
+ tabl: 0.03512389207734193
+ techniqu: 0.03512389207734193
+ valu: 0.03512389207734193
+ vert: 0.05769591143805978
+ w3c: 0.018985887609374016
+ xml: 0.03512389207734193
+ xqueri: 0.03512389207734193
+
+N-grams list: 10
+ process algorithm vert
+ xml queri process
+ queri pattern match
+ previou xml queri
+ tabl indic
+ xml queri
+ xml docum
+ queri perform
+ queri structur
+ xml format
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

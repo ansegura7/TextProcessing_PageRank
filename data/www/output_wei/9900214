@@ -1,0 +1,96 @@
+File name: 9900214
+
+Graph edges count: 33
+ academ - research: 1
+ accur - inform: 1
+ control - integr: 1
+ empir - studi: 1
+ exploratori - search: 1
+ explor - search: 1
+ human - subject: 1
+ import - research: 1
+ inform - explor: 1
+ model - taskinfus: 1
+ onscreen - visual: 1
+ person - search: 1
+ relat - characterist: 1
+ relev - docum: 1
+ relev - feedback: 1
+ research - topic: 1
+ result - list: 1
+ search - result: 1
+ search - system: 2
+ simpl - type: 1
+ snippet - gener: 1
+ taskbas - explor: 1
+ taskbas - inform: 1
+ taskinfus - text: 1
+ task - model: 4
+ text - snippet: 1
+ tradition - search: 1
+ understudi - area: 1
+ usabl - relat: 1
+ user - control: 1
+ web - explor: 1
+ web - industri: 1
+ web - search: 2
+
+PageRank scores count: 42
+ academ: 0.011767923291708943
+ accur: 0.011767923291708943
+ area: 0.021770658089661547
+ characterist: 0.030272982667921257
+ control: 0.021770658089661547
+ docum: 0.016769290690685244
+ empir: 0.011767923291708943
+ explor: 0.04202619605551556
+ exploratori: 0.011767923291708943
+ feedback: 0.016769290690685244
+ gener: 0.04886437814885839
+ human: 0.011767923291708943
+ import: 0.011767923291708943
+ industri: 0.014268606991197095
+ inform: 0.026772025488637843
+ integr: 0.030272982667921257
+ list: 0.04163935070672016
+ model: 0.021770658089661547
+ onscreen: 0.011767923291708943
+ person: 0.011767923291708943
+ relat: 0.021770658089661547
+ relev: 0.011767923291708943
+ research: 0.031773392887614146
+ result: 0.03514285578236614
+ search: 0.08249976173173128
+ simpl: 0.011767923291708943
+ snippet: 0.043642888067234646
+ studi: 0.021770658089661547
+ subject: 0.021770658089661547
+ system: 0.058517788273023334
+ task: 0.011767923291708943
+ taskbas: 0.011767923291708943
+ taskinfus: 0.030272982667921257
+ text: 0.03749995855944201
+ topic: 0.03877530724618096
+ tradition: 0.011767923291708943
+ type: 0.021770658089661547
+ understudi: 0.011767923291708943
+ usabl: 0.011767923291708943
+ user: 0.011767923291708943
+ visual: 0.021770658089661547
+ web: 0.011767923291708943
+
+N-grams list: 10
+ search result list
+ tradition search system
+ web search system
+ taskbas explor search
+ text snippet gener
+ web search
+ exploratori search
+ person search
+ search
+ import research topic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

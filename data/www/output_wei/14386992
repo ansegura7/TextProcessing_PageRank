@@ -1,0 +1,93 @@
+File name: 14386992
+
+Graph edges count: 29
+ altern - semant: 1
+ comput - complex: 1
+ ctabil - result: 1
+ current - semant: 1
+ current - specif: 1
+ data - format: 1
+ empir - result: 1
+ evalu - method: 1
+ fundament - import: 1
+ graph - data: 1
+ handl - properti: 1
+ kei - issu: 1
+ limit - navig: 1
+ natur - altern: 1
+ navig - function: 1
+ path - evalu: 1
+ path - featur: 1
+ path - queri: 1
+ poor - perform: 2
+ practition - develop: 1
+ properti - path: 5
+ queri - languag: 1
+ simpl - scenario: 1
+ standard - queri: 1
+ standard - sparql: 2
+ strong - evid: 1
+ theoret - studi: 1
+ tractabl - evalu: 1
+ wide - adop: 1
+
+PageRank scores count: 43
+ adop: 0.026174660087551885
+ altern: 0.026174660087551885
+ complex: 0.026174660087551885
+ comput: 0.01414846491219021
+ ctabil: 0.01414846491219021
+ current: 0.01414846491219021
+ data: 0.026174660087551885
+ develop: 0.026174660087551885
+ empir: 0.01414846491219021
+ evalu: 0.03648712245042453
+ evid: 0.026174660087551885
+ featur: 0.024460927275062848
+ format: 0.03639692598660931
+ function: 0.03639692598660931
+ fundament: 0.01414846491219021
+ graph: 0.01414846491219021
+ handl: 0.01414846491219021
+ import: 0.026174660087551885
+ issu: 0.026174660087551885
+ kei: 0.01414846491219021
+ languag: 0.038347675062346105
+ limit: 0.01414846491219021
+ method: 0.045162518995051054
+ natur: 0.01414846491219021
+ navig: 0.026174660087551885
+ path: 0.03639692598660931
+ perform: 0.026174660087551885
+ poor: 0.01414846491219021
+ practition: 0.01414846491219021
+ properti: 0.026174660087551885
+ queri: 0.028469659000183403
+ result: 0.038200855262913565
+ scenario: 0.026174660087551885
+ semant: 0.04241002357429015
+ simpl: 0.01414846491219021
+ sparql: 0.02216592836243133
+ specif: 0.020161562499871045
+ standard: 0.01414846491219021
+ strong: 0.01414846491219021
+ studi: 0.026174660087551885
+ theoret: 0.01414846491219021
+ tractabl: 0.01414846491219021
+ wide: 0.01414846491219021
+
+N-grams list: 10
+ properti path evalu
+ properti path featur
+ natur altern semant
+ evalu method
+ standard queri languag
+ handl properti path
+ limit navig function
+ graph data format
+ properti path
+ current semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

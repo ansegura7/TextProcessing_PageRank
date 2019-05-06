@@ -1,0 +1,90 @@
+File name: 11633625
+
+Graph edges count: 31
+ autom - object: 2
+ autom - persist: 1
+ browser - plugin: 1
+ cloud - due: 1
+ connec - qualiti: 1
+ constant - access: 1
+ data - object: 2
+ environ - program: 1
+ forthcom - internet: 1
+ gear - browser: 1
+ googl - gear: 1
+ internet - cloud: 1
+ internet - connec: 1
+ internet - standard: 1
+ interpretercompil - support: 1
+ languag - environ: 1
+ nonbrows - environ: 1
+ object - persist: 3
+ offlin - web: 1
+ persist - solution: 1
+ program - languag: 1
+ runtim - mechan: 1
+ specif - restric: 1
+ specif - runtim: 1
+ standardscompli - web: 1
+ synchron - requir: 1
+ tradition - object: 1
+ uniqu - characterist: 1
+ web - applic: 3
+ web - browser: 1
+ web - develop: 1
+
+PageRank scores count: 38
+ access: 0.020769903847975522
+ applic: 0.019815610968473944
+ autom: 0.011226975052959743
+ browser: 0.03747002923925314
+ characterist: 0.020769903847975522
+ cloud: 0.017111781143219474
+ connec: 0.017111781143219474
+ constant: 0.011226975052959743
+ data: 0.011226975052959743
+ develop: 0.019815610968473944
+ due: 0.025771989024696292
+ environ: 0.09957711828848795
+ forthcom: 0.011226975052959743
+ gear: 0.020769903847975522
+ googl: 0.011226975052959743
+ internet: 0.020769903847975522
+ interpretercompil: 0.011226975052959743
+ languag: 0.09271438247263755
+ mechan: 0.024825648585857226
+ nonbrows: 0.011226975052959743
+ object: 0.035084297040499195
+ offlin: 0.011226975052959743
+ persist: 0.04582009193489194
+ plugin: 0.043076499906324915
+ program: 0.0958675255981745
+ qualiti: 0.025771989024696292
+ requir: 0.020769903847975522
+ restric: 0.01599843945046763
+ runtim: 0.01599843945046763
+ solution: 0.05017405319761789
+ specif: 0.011226975052959743
+ standard: 0.017111781143219474
+ standardscompli: 0.011226975052959743
+ support: 0.020769903847975522
+ synchron: 0.011226975052959743
+ tradition: 0.011226975052959743
+ uniqu: 0.011226975052959743
+ web: 0.030312832642991304
+
+N-grams list: 10
+ nonbrows environ program
+ languag environ
+ autom object persist
+ tradition object persist
+ browser plugin
+ standardscompli web browser
+ googl gear browser
+ internet cloud due
+ offlin web applic
+ autom persist
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

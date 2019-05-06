@@ -1,0 +1,66 @@
+File name: 16381
+
+Graph edges count: 19
+ ambigu - content: 1
+ autom - larg: 1
+ autom - semant: 2
+ disambigu - algorithm: 1
+ final - result: 1
+ label - bureau: 1
+ largescal - data: 1
+ largescal - text: 1
+ larg - corpora: 1
+ larg - scale: 1
+ ontolog - disambigu: 1
+ scale - semant: 2
+ seeker - platform: 1
+ semant - annot: 1
+ semant - tag: 4
+ semant - web: 2
+ semtag - applic: 1
+ text - analyt: 1
+ web - page: 1
+
+PageRank scores count: 26
+ algorithm: 0.06117285283219988
+ ambigu: 0.023779534628649127
+ analyt: 0.05258249594760038
+ annot: 0.04257578291685626
+ applic: 0.04399213906300088
+ autom: 0.023779534628649127
+ bureau: 0.04399213906300088
+ content: 0.04399213906300088
+ corpora: 0.03818101528812475
+ data: 0.033885836845825
+ disambigu: 0.04399213906300088
+ final: 0.023779534628649127
+ label: 0.023779534628649127
+ larg: 0.033885836845825
+ largescal: 0.023779534628649127
+ ontolog: 0.023779534628649127
+ page: 0.05996895010797695
+ platform: 0.04399213906300088
+ result: 0.04399213906300088
+ scale: 0.03818101528812475
+ seeker: 0.023779534628649127
+ semant: 0.06633969984073104
+ semtag: 0.023779534628649127
+ tag: 0.04257578291685626
+ text: 0.033885836845825
+ web: 0.04257578291685626
+
+N-grams list: 10
+ autom semant annot
+ autom semant tag
+ largescal text analyt
+ semant tag
+ semant web
+ disambigu algorithm
+ scale semant
+ web page
+ autom larg scale
+ larg corpora
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

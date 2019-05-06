@@ -1,0 +1,100 @@
+File name: 13064431
+
+Graph edges count: 33
+ common - thread: 1
+ current - stateoftheart: 1
+ decision - problem: 1
+ desir - properti: 1
+ dynam - learningbas: 1
+ dynam - mechan: 3
+ dynam - natur: 1
+ dynam - type: 1
+ economi - learn: 1
+ exchang - economi: 2
+ futur - evolu: 1
+ futur - work: 1
+ import - trait: 1
+ internet - applic: 1
+ learningbas - mechan: 1
+ learn - privat: 1
+ mechan - design: 1
+ mechan - turk: 2
+ multipl - strateg: 1
+ onlin - auction: 1
+ onlin - review: 1
+ optim - outcom: 1
+ past - interac: 1
+ present - decision: 1
+ privat - inform: 2
+ review - forum: 1
+ search - auction: 1
+ similar - set: 1
+ stateoftheart - dynam: 1
+ static - mechan: 1
+ strateg - agent: 2
+ true - opinion: 1
+ true - valu: 1
+
+PageRank scores count: 46
+ agent: 0.03263329788935127
+ applic: 0.023468066509348826
+ auction: 0.028859379085820848
+ common: 0.012685441356404769
+ current: 0.012685441356404769
+ decision: 0.023468066509348826
+ design: 0.027432781618580346
+ desir: 0.012685441356404769
+ dynam: 0.03263329788935127
+ economi: 0.023468066509348826
+ evolu: 0.018076753932876798
+ exchang: 0.012685441356404769
+ forum: 0.028050682199350047
+ futur: 0.012685441356404769
+ import: 0.012685441356404769
+ inform: 0.04704562423440512
+ interac: 0.023468066509348826
+ internet: 0.012685441356404769
+ learn: 0.03263329788935127
+ learningbas: 0.017308491890729534
+ mechan: 0.05204943621944322
+ multipl: 0.012685441356404769
+ natur: 0.017308491890729534
+ onlin: 0.012685441356404769
+ opinion: 0.018076753932876798
+ optim: 0.012685441356404769
+ outcom: 0.023468066509348826
+ past: 0.012685441356404769
+ present: 0.012685441356404769
+ privat: 0.04042374456235335
+ problem: 0.03263329788935127
+ properti: 0.023468066509348826
+ review: 0.018076753932876798
+ search: 0.012685441356404769
+ set: 0.023468066509348826
+ similar: 0.012685441356404769
+ stateoftheart: 0.023468066509348826
+ static: 0.012685441356404769
+ strateg: 0.023468066509348826
+ thread: 0.023468066509348826
+ trait: 0.023468066509348826
+ true: 0.012685441356404769
+ turk: 0.04218012188075593
+ type: 0.017308491890729534
+ valu: 0.018076753932876798
+ work: 0.018076753932876798
+
+N-grams list: 10
+ dynam learningbas mechan
+ mechan turk
+ privat inform
+ dynam mechan
+ exchang economi learn
+ current stateoftheart dynam
+ multipl strateg agent
+ static mechan
+ onlin review forum
+ strateg agent
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,85 @@
+File name: 62128
+
+Graph edges count: 27
+ address - network: 1
+ central - resourc: 1
+ descrip - framework: 1
+ elev - peer: 1
+ failur - toler: 1
+ hash - function: 1
+ load - node: 1
+ match - tripl: 1
+ multiattribut - address: 1
+ network - central: 1
+ peertop - network: 1
+ prior - defini: 1
+ queri - result: 1
+ rang - queri: 1
+ rdf - data: 1
+ rdf - repositori: 3
+ rdf - schema: 2
+ rdf - tripl: 1
+ realworld - rdf: 1
+ resourc - descrip: 1
+ singl - point: 1
+ structur - peertop: 1
+ subject - predic: 1
+ super - peer: 1
+ triplestor - load: 1
+ tripl - valu: 1
+ upfront - defini: 1
+
+PageRank scores count: 37
+ address: 0.024878181643747565
+ central: 0.06082715411896279
+ data: 0.01646858781011784
+ defini: 0.03630869753411807
+ descrip: 0.06882580049469818
+ elev: 0.013447665753377063
+ failur: 0.013447665753377063
+ framework: 0.0719495961738705
+ function: 0.024878181643747565
+ hash: 0.013447665753377063
+ load: 0.024878181643747565
+ match: 0.013447665753377063
+ multiattribut: 0.013447665753377063
+ network: 0.055740574547747924
+ node: 0.03459412015056249
+ peer: 0.03630869753411807
+ peertop: 0.024878181643747565
+ point: 0.024878181643747565
+ predic: 0.024878181643747565
+ prior: 0.013447665753377063
+ queri: 0.024878181643747565
+ rang: 0.013447665753377063
+ rdf: 0.024878181643747565
+ realworld: 0.013447665753377063
+ repositori: 0.02251043192359939
+ resourc: 0.06515074675449543
+ result: 0.03459412015056249
+ schema: 0.019489509866858615
+ singl: 0.013447665753377063
+ structur: 0.013447665753377063
+ subject: 0.013447665753377063
+ super: 0.013447665753377063
+ toler: 0.024878181643747565
+ tripl: 0.027899103700488346
+ triplestor: 0.013447665753377063
+ upfront: 0.013447665753377063
+ valu: 0.037161903898792155
+
+N-grams list: 10
+ central resourc descrip
+ structur peertop network
+ multiattribut address network
+ framework
+ tripl valu
+ queri result
+ load node
+ network
+ realworld rdf data
+ rdf tripl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

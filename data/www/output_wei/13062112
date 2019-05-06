@@ -1,0 +1,66 @@
+File name: 13062112
+
+Graph edges count: 20
+ aggreg - sentim: 1
+ hot - topic: 1
+ media - messag: 1
+ metadata - inform: 1
+ onlin - social: 1
+ program - search: 1
+ showrel - messag: 1
+ social - activ: 1
+ social - media: 1
+ social - tv: 2
+ topic - popular: 1
+ trend - hot: 1
+ tv - program: 1
+ tv - show: 2
+ tv - system: 1
+ tv - view: 1
+ view - experi: 1
+ voiceen - social: 2
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 25
+ activ: 0.035718083268356106
+ aggreg: 0.022696160933030094
+ experi: 0.04903082853583774
+ hot: 0.04198789772610567
+ inform: 0.04198789772610567
+ media: 0.035718083268356106
+ messag: 0.07234826850420835
+ metadata: 0.022696160933030094
+ onlin: 0.022696160933030094
+ popular: 0.07232415383321703
+ program: 0.030981961885656054
+ search: 0.04903082853583774
+ sentim: 0.04198789772610567
+ show: 0.03926776283828202
+ showrel: 0.022696160933030094
+ social: 0.06127963451918125
+ system: 0.030981961885656054
+ topic: 0.05838587400021992
+ trend: 0.022696160933030094
+ tv: 0.04874000560368212
+ view: 0.030981961885656054
+ voiceen: 0.022696160933030094
+ web: 0.05838587400021992
+ wide: 0.04198789772610567
+ world: 0.022696160933030094
+
+N-grams list: 10
+ voiceen social tv
+ tv view experi
+ tv program search
+ world wide web
+ trend hot topic
+ onlin social media
+ social activ
+ showrel messag
+ tv show
+ messag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

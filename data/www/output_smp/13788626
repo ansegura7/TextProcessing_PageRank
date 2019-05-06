@@ -1,0 +1,69 @@
+File name: 13788626
+
+Graph edges count: 23
+ behavior - vector: 1
+ big - search: 1
+ chines - websit: 1
+ commerci - crawler: 1
+ commerci - web: 1
+ configur - file: 1
+ crawler - activ: 1
+ crawler - behavior: 1
+ crawler - ethic: 3
+ engin - crawler: 1
+ ethic - problem: 1
+ ethic - score: 1
+ ethic - web: 1
+ quantit - model: 1
+ research - quantit: 1
+ search - engin: 2
+ servic - attack: 1
+ space - model: 1
+ txt - configur: 1
+ txt - rule: 1
+ vector - space: 1
+ web - crawler: 6
+ web - server: 1
+
+PageRank scores count: 25
+ activ: 0.04408897800872476
+ attack: 0.03589331267439494
+ behavior: 0.04408897800872476
+ big: 0.019401790634808073
+ chines: 0.019401790634808073
+ commerci: 0.019401790634808073
+ configur: 0.027647551654601504
+ crawler: 0.08713124946901744
+ engin: 0.049911106408043776
+ ethic: 0.04408897800872476
+ file: 0.04290220954121935
+ model: 0.10749656698309375
+ problem: 0.0318936679739371
+ quantit: 0.03589331267439494
+ research: 0.019401790634808073
+ rule: 0.027647551654601504
+ score: 0.0318936679739371
+ search: 0.03589331267439494
+ server: 0.0364610480023868
+ servic: 0.019401790634808073
+ space: 0.06774760016063346
+ txt: 0.019401790634808073
+ vector: 0.05687742265219515
+ web: 0.040139428993730526
+ websit: 0.03589331267439494
+
+N-grams list: 10
+ vector space model
+ web crawler ethic
+ research quantit model
+ commerci web crawler
+ crawler ethic
+ crawler activ
+ crawler behavior
+ web crawler
+ commerci crawler
+ big search engin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

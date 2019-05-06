@@ -1,0 +1,81 @@
+File name: 5808407
+
+Graph edges count: 23
+ 1g - arc: 1
+ arc - present: 1
+ artifici - commun: 1
+ collect - behavior: 1
+ common - interest: 1
+ commun - watch: 1
+ comput - scienc: 1
+ data - inform: 1
+ dens - commun: 2
+ dens - subgraph: 3
+ effect - increas: 1
+ homogen - group: 1
+ low - densiti: 1
+ massiv - graph: 1
+ raw - size: 1
+ repres - keyword: 1
+ scalabl - algorithm: 1
+ scienc - literatur: 1
+ share - data: 1
+ watch - system: 1
+ web - page: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 37
+ 1g: 0.015960656980542956
+ algorithm: 0.029527215414004465
+ arc: 0.029527215414004465
+ artifici: 0.015960656980542956
+ behavior: 0.029527215414004465
+ collect: 0.015960656980542956
+ common: 0.015960656980542956
+ commun: 0.03631049463073523
+ comput: 0.015960656980542956
+ data: 0.029527215414004465
+ dens: 0.015960656980542956
+ densiti: 0.029527215414004465
+ effect: 0.015960656980542956
+ graph: 0.029527215414004465
+ group: 0.029527215414004465
+ homogen: 0.015960656980542956
+ increas: 0.029527215414004465
+ inform: 0.04105879008244675
+ interest: 0.029527215414004465
+ keyword: 0.029527215414004465
+ literatur: 0.04105879008244675
+ low: 0.015960656980542956
+ massiv: 0.015960656980542956
+ page: 0.05086062855062269
+ present: 0.04105879008244675
+ raw: 0.015960656980542956
+ repres: 0.015960656980542956
+ scalabl: 0.015960656980542956
+ scienc: 0.029527215414004465
+ share: 0.015960656980542956
+ size: 0.029527215414004465
+ subgraph: 0.02274393619727371
+ system: 0.055761547784710666
+ watch: 0.04682457741666789
+ web: 0.04105879008244675
+ wide: 0.029527215414004465
+ world: 0.015960656980542956
+
+N-grams list: 10
+ commun watch system
+ web page
+ comput scienc literatur
+ world wide web
+ share data inform
+ arc present
+ dens commun
+ artifici commun
+ page
+ raw size
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

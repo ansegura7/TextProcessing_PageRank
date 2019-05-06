@@ -1,0 +1,70 @@
+File name: 11108002
+
+Graph edges count: 21
+ elimin - mechan: 1
+ forum - questionansw: 1
+ freeentri - nash: 2
+ gametheoret - model: 1
+ highqual - user: 1
+ highqual - usergener: 1
+ high - particip: 1
+ high - qualiti: 2
+ ideal - mechan: 1
+ low - qualiti: 1
+ nash - equilibria: 1
+ nash - equilibrium: 1
+ nearoptim - qualiti: 1
+ new - articl: 1
+ onlin - review: 1
+ qualiti - contribu: 1
+ qualiti - ugc: 1
+ questionansw - site: 1
+ review - forum: 1
+ simpl - elimin: 1
+ usergener - content: 1
+
+PageRank scores count: 28
+ articl: 0.03701461614655086
+ content: 0.04424247024543816
+ contribu: 0.04658089363037229
+ elimin: 0.03701461614655086
+ equilibria: 0.03573911248204134
+ equilibrium: 0.03573911248204134
+ forum: 0.05147032434432546
+ freeentri: 0.020007900619757227
+ gametheoret: 0.020007900619757227
+ high: 0.020007900619757227
+ highqual: 0.020007900619757227
+ ideal: 0.020007900619757227
+ low: 0.020007900619757227
+ mechan: 0.06847703987111911
+ model: 0.03701461614655086
+ nash: 0.03701461614655086
+ nearoptim: 0.020007900619757227
+ new: 0.020007900619757227
+ onlin: 0.020007900619757227
+ particip: 0.028511258383154044
+ qualiti: 0.06252468943674133
+ questionansw: 0.06375767631243387
+ review: 0.03701461614655086
+ simpl: 0.020007900619757227
+ site: 0.074201925485326
+ ugc: 0.04658089363037229
+ user: 0.028511258383154044
+ usergener: 0.028511258383154044
+
+N-grams list: 10
+ questionansw site
+ high qualiti ugc
+ low qualiti contribu
+ simpl elimin mechan
+ onlin review forum
+ freeentri nash equilibrium
+ freeentri nash equilibria
+ highqual usergener content
+ ideal mechan
+ nearoptim qualiti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

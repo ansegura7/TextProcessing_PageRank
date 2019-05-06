@@ -1,0 +1,126 @@
+File name: 13518419
+
+Graph edges count: 45
+ absolut - rate: 1
+ adf - approach: 1
+ algorithm - capabl: 1
+ approxim - messag: 1
+ assumeddens - filter: 1
+ bayesian - recommend: 1
+ binari - prefer: 1
+ comput - resourc: 1
+ content - inform: 1
+ data - set: 1
+ direct - observ: 1
+ dynam - model: 1
+ effici - infer: 1
+ ep - pass: 1
+ expect - propag: 1
+ featur - vector: 1
+ item - meta: 1
+ item - observ: 1
+ larg - scale: 1
+ learn - algorithm: 1
+ matchbox - system: 1
+ messag - pass: 2
+ meta - data: 1
+ multipl - ep: 1
+ netflix - data: 1
+ onlin - adf: 1
+ onlin - bayesian: 1
+ onlin - learn: 1
+ ordin - rate: 1
+ personalis - recommend: 1
+ person - rate: 1
+ previou - user: 1
+ probabilist - model: 1
+ rate - scale: 1
+ scale - onlin: 1
+ singl - pass: 1
+ stateoftheart - perform: 1
+ train - data: 2
+ trait - space: 1
+ useritem - prefer: 1
+ userspecif - scale: 1
+ user - behavior: 1
+ user - prefer: 1
+ variat - messag: 1
+ web - servic: 1
+
+PageRank scores count: 60
+ absolut: 0.00854409434028837
+ adf: 0.02272983637327261
+ algorithm: 0.027864455257570094
+ approach: 0.027864455257570094
+ approxim: 0.00854409434028837
+ assumeddens: 0.00854409434028837
+ bayesian: 0.02272983637327261
+ behavior: 0.015261888515340102
+ binari: 0.00854409434028837
+ capabl: 0.03222888130922295
+ comput: 0.00854409434028837
+ content: 0.00854409434028837
+ data: 0.03341808898845289
+ direct: 0.00854409434028837
+ dynam: 0.00854409434028837
+ effici: 0.00854409434028837
+ ep: 0.015806574529533483
+ expect: 0.00854409434028837
+ featur: 0.00854409434028837
+ filter: 0.015806574529533483
+ infer: 0.015806574529533483
+ inform: 0.015806574529533483
+ item: 0.00854409434028837
+ larg: 0.00854409434028837
+ learn: 0.02272983637327261
+ matchbox: 0.00854409434028837
+ messag: 0.023069054718778598
+ meta: 0.012175334434910928
+ model: 0.023069054718778598
+ multipl: 0.00854409434028837
+ netflix: 0.00854409434028837
+ observ: 0.019437814624156044
+ onlin: 0.05006732482229732
+ ordin: 0.00854409434028837
+ pass: 0.04885085939059876
+ perform: 0.015806574529533483
+ person: 0.00854409434028837
+ personalis: 0.00854409434028837
+ prefer: 0.02978684889383033
+ previou: 0.00854409434028837
+ probabilist: 0.00854409434028837
+ propag: 0.015806574529533483
+ rate: 0.030331534908023712
+ recommend: 0.0351269354468152
+ resourc: 0.015806574529533483
+ scale: 0.04885085939059876
+ servic: 0.015806574529533483
+ set: 0.036949469980473326
+ singl: 0.00854409434028837
+ space: 0.015806574529533483
+ stateoftheart: 0.00854409434028837
+ system: 0.015806574529533483
+ train: 0.00854409434028837
+ trait: 0.00854409434028837
+ user: 0.015806574529533483
+ useritem: 0.00854409434028837
+ userspecif: 0.00854409434028837
+ variat: 0.00854409434028837
+ vector: 0.015806574529533483
+ web: 0.00854409434028837
+
+N-grams list: 10
+ larg scale onlin
+ onlin adf approach
+ onlin learn algorithm
+ person rate scale
+ approxim messag pass
+ variat messag pass
+ netflix data set
+ multipl ep pass
+ bayesian recommend
+ singl pass
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

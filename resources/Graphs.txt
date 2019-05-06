@@ -1,0 +1,64 @@
+1. Write a program that loads each document into a word graph (either directed or undirected):
+>> 1 abstract documents were loaded correctly from: data/abstract/
+>> 1 gold documents were loaded correctly from: data/abstract/
+>> Show graph 183 of size: 19
+   Key: trust|valu, Value: 2
+   Key: fileshar|network, Value: 2
+   Key: uniqu|global, Value: 1
+   Key: reput|manag, Value: 1
+   Key: reput|system, Value: 1
+   Key: global|trust, Value: 3
+   Key: peertop|fileshar, Value: 2
+   Key: inauthent|file, Value: 3
+   Key: experi|show, Value: 1
+   Key: eigentrust|algorithm, Value: 1
+   Key: p2p|network, Value: 1
+   Key: ideal|environ, Value: 1
+   Key: open|natur, Value: 1
+   Key: selfrepl|inauthent, Value: 1
+   Key: recent|experi, Value: 1
+   Key: power|iter, Value: 1
+   Key: network|peertop, Value: 1
+   Key: malici|peer, Value: 2
+   Key: secur|method, Value: 1
+   Sum of values: 27
+>> 1 word graphs of abstracts were created.
+
+2. Run PageRank on each word graph corresponding to each document in the collection:
+>> Filename: 183 and edge number: 19
+Creating the edges list by words
+Vocabulary size: 29
+   Graph vocabulary: 29, with follow edges list: 29
+   (98) Convergence gap: 9.823534895259112E-9
+   algorithm: 0.027582796535252856 
+   eigentrust: 0.014909619748785328 
+   environ: 0.027582796535252856 
+   experi: 0.027582796535252856 
+   file: 0.038354996803750256 
+   fileshar: 0.12312631162310939 
+   global: 0.027582796535252856 
+   ideal: 0.014909619748785328 
+   inauthent: 0.027582796535252856 
+   iter: 0.027582796535252856 
+   malici: 0.014909619748785328 
+   manag: 0.02124620814201909 
+   method: 0.027582796535252856 
+   natur: 0.027582796535252856 
+   network: 0.13224017344945063 
+   open: 0.014909619748785328 
+   p2p: 0.014909619748785328 
+   peer: 0.027582796535252856 
+   peertop: 0.12731375514626359 
+   power: 0.014909619748785328 
+   recent: 0.014909619748785328 
+   reput: 0.014909619748785328 
+   secur: 0.014909619748785328 
+   selfrepl: 0.014909619748785328 
+   show: 0.038354996803750256 
+   system: 0.02124620814201909 
+   trust: 0.038354996803750256 
+   uniqu: 0.014909619748785328 
+   valu: 0.04751136703197304 
+>> 1 page rank list.
+
+3. Form n-grams of length up to 3 (unigrams, bigrams and trigrams) from words adjacent in text:

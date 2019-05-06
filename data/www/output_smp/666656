@@ -1,0 +1,82 @@
+File name: 666656
+
+Graph edges count: 25
+ access - ontheroad: 1
+ applic - model: 1
+ broadband - wireless: 1
+ brows - concept: 1
+ cellular - phone: 1
+ classic - webuserwebsit: 1
+ commerci - mobil: 1
+ commun - web: 1
+ digit - assist: 1
+ earli - result: 1
+ gp - receiv: 1
+ gp - support: 1
+ highend - cellular: 1
+ internet - access: 1
+ languag - prefer: 1
+ locationbas - brows: 1
+ locationbas - servic: 1
+ mobil - devic: 2
+ ongo - project: 1
+ person - digit: 1
+ programm - mobil: 1
+ webuserwebsit - interac: 1
+ web - browser: 2
+ web - servic: 1
+ wireless - commun: 1
+
+PageRank scores count: 36
+ access: 0.029219443051749696
+ applic: 0.015794293541486322
+ assist: 0.04063082013547357
+ broadband: 0.015794293541486322
+ brows: 0.02250686829661801
+ browser: 0.03718475207055784
+ cellular: 0.029219443051749696
+ classic: 0.015794293541486322
+ commerci: 0.015794293541486322
+ commun: 0.04063082013547357
+ concept: 0.03492513159361163
+ devic: 0.052042197219197436
+ digit: 0.029219443051749696
+ earli: 0.015794293541486322
+ gp: 0.015794293541486322
+ highend: 0.015794293541486322
+ interac: 0.04063082013547357
+ internet: 0.015794293541486322
+ languag: 0.015794293541486322
+ locationbas: 0.015794293541486322
+ mobil: 0.04264459256201308
+ model: 0.029219443051749696
+ ongo: 0.015794293541486322
+ ontheroad: 0.04063082013547357
+ person: 0.015794293541486322
+ phone: 0.04063082013547357
+ prefer: 0.029219443051749696
+ programm: 0.015794293541486322
+ project: 0.029219443051749696
+ receiv: 0.02250686829661801
+ result: 0.029219443051749696
+ servic: 0.04389732682568952
+ support: 0.02250686829661801
+ web: 0.05033049065663886
+ webuserwebsit: 0.029219443051749696
+ wireless: 0.029219443051749696
+
+N-grams list: 10
+ commerci mobil devic
+ programm mobil devic
+ web servic
+ web browser
+ person digit assist
+ classic webuserwebsit interac
+ broadband wireless commun
+ internet access ontheroad
+ highend cellular phone
+ locationbas brows concept
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

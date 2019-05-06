@@ -1,0 +1,116 @@
+File name: 13507253
+
+Graph edges count: 45
+ addition - queri: 1
+ addition - ruralcaf: 1
+ connect - technologi: 1
+ delai - toler: 1
+ econom - constraint: 1
+ effici - web: 1
+ engin - queri: 1
+ frequent - powercut: 1
+ high - network: 1
+ interact - applic: 1
+ intermitt - connect: 1
+ intermitt - due: 1
+ intermitt - network: 1
+ intermitt - set: 1
+ kerala - india: 1
+ larg - search: 1
+ live - queri: 1
+ longrang - wireless: 1
+ multipl - round: 1
+ natur - intermitt: 1
+ network - connect: 2
+ network - resourc: 1
+ network - usag: 1
+ queri - interfac: 1
+ queri - term: 1
+ rate - frequent: 1
+ resourc - ruralcaf: 1
+ round - search: 1
+ rural - region: 1
+ search - engin: 1
+ search - prefer: 1
+ search - queri: 3
+ search - result: 1
+ singl - round: 1
+ small - testb: 1
+ testb - deploy: 1
+ toler - link: 1
+ tradition - network: 1
+ typic - applic: 1
+ usag - rate: 1
+ web - browser: 1
+ web - search: 4
+ wide - web: 1
+ wireless - technologi: 1
+ world - wide: 1
+
+PageRank scores count: 50
+ addition: 0.009658097799439755
+ applic: 0.026076864058487338
+ browser: 0.01527742055159879
+ connect: 0.02615126159309865
+ constraint: 0.017867480928963547
+ delai: 0.009658097799439755
+ deploy: 0.024845456589058772
+ due: 0.013454937496844508
+ econom: 0.009658097799439755
+ effici: 0.009658097799439755
+ engin: 0.018513696204309225
+ frequent: 0.029432003668830576
+ high: 0.009658097799439755
+ india: 0.017867480928963547
+ interact: 0.009658097799439755
+ interfac: 0.03697523182928835
+ intermitt: 0.017867480928963547
+ kerala: 0.009658097799439755
+ larg: 0.009658097799439755
+ link: 0.024845456589058772
+ live: 0.009658097799439755
+ longrang: 0.009658097799439755
+ multipl: 0.009658097799439755
+ natur: 0.009658097799439755
+ network: 0.02987370375589209
+ powercut: 0.034675300917945746
+ prefer: 0.018513696204309225
+ queri: 0.0642756094819967
+ rate: 0.023263418669871555
+ region: 0.017867480928963547
+ resourc: 0.016006259847566824
+ result: 0.018513696204309225
+ round: 0.026076864058487338
+ rural: 0.009658097799439755
+ ruralcaf: 0.027368110234633453
+ search: 0.06251010638731393
+ set: 0.013454937496844508
+ singl: 0.009658097799439755
+ small: 0.009658097799439755
+ technologi: 0.047074028943192625
+ term: 0.03697523182928835
+ testb: 0.017867480928963547
+ toler: 0.017867480928963547
+ tradition: 0.009658097799439755
+ typic: 0.009658097799439755
+ usag: 0.016006259847566824
+ web: 0.033054839718582564
+ wide: 0.017867480928963547
+ wireless: 0.017867480928963547
+ world: 0.009658097799439755
+
+N-grams list: 10
+ search queri interfac
+ search queri
+ addition queri term
+ effici web search
+ singl round search
+ web search
+ larg search engin
+ rate frequent powercut
+ search prefer
+ longrang wireless technologi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

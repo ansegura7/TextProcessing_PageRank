@@ -1,0 +1,102 @@
+File name: 4310928
+
+Graph edges count: 36
+ automat - onlin: 1
+ broadcast - channel: 1
+ client - applic: 1
+ design - constraint: 1
+ digit - tv: 2
+ digit - video: 1
+ face - idtv: 1
+ handheld - digit: 1
+ home - platform: 1
+ idtv - broadcast: 1
+ idtv - irrelev: 1
+ idtv - platform: 1
+ interact - digit: 1
+ interact - multimedia: 1
+ lowend - set: 1
+ multimedia - home: 1
+ multimedia - servic: 1
+ onlin - servic: 1
+ progress - track: 1
+ proper - visual: 1
+ real - assess: 1
+ reconfigur - web: 1
+ remot - control: 1
+ servic - enjoy: 1
+ set - top: 1
+ set - web: 1
+ smooth - access: 1
+ suitabl - present: 1
+ top - box: 1
+ tv - receiv: 1
+ tv - revolu: 1
+ tv - screen: 1
+ tv - set: 1
+ usabl - interfac: 1
+ video - broadcast: 1
+ web - content: 5
+
+PageRank scores count: 45
+ access: 0.023116275780568518
+ applic: 0.023116275780568518
+ assess: 0.023116275780568518
+ automat: 0.012495284205712713
+ box: 0.03366281807672109
+ broadcast: 0.0365120014043554
+ channel: 0.0435304853994148
+ client: 0.012495284205712713
+ constraint: 0.023116275780568518
+ content: 0.042690660915348524
+ control: 0.023116275780568518
+ design: 0.012495284205712713
+ digit: 0.02842677156799642
+ enjoy: 0.046250123054551326
+ face: 0.012495284205712713
+ handheld: 0.012495284205712713
+ home: 0.020062740702797472
+ idtv: 0.023116275780568518
+ interact: 0.012495284205712713
+ interfac: 0.023116275780568518
+ irrelev: 0.019044895676873792
+ lowend: 0.012495284205712713
+ multimedia: 0.017805779993140616
+ onlin: 0.023116275780568518
+ platform: 0.03609822527425164
+ present: 0.023116275780568518
+ progress: 0.012495284205712713
+ proper: 0.012495284205712713
+ real: 0.012495284205712713
+ receiv: 0.018573589175739567
+ reconfigur: 0.012495284205712713
+ remot: 0.012495284205712713
+ revolu: 0.018573589175739567
+ screen: 0.018573589175739567
+ servic: 0.03971157511628072
+ set: 0.029194580750595372
+ smooth: 0.012495284205712713
+ suitabl: 0.012495284205712713
+ top: 0.024902981024715744
+ track: 0.023116275780568518
+ tv: 0.028603788094244017
+ usabl: 0.012495284205712713
+ video: 0.020549536149978367
+ visual: 0.023116275780568518
+ web: 0.03552397259957155
+
+N-grams list: 10
+ idtv broadcast channel
+ tv set web
+ reconfigur web content
+ digit video broadcast
+ web content
+ automat onlin servic
+ multimedia home platform
+ interact multimedia servic
+ handheld digit tv
+ interact digit tv
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

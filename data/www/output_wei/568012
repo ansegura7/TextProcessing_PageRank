@@ -1,0 +1,82 @@
+File name: 568012
+
+Graph edges count: 27
+ addition - benefit: 1
+ commandlin - tool: 1
+ current - approach: 1
+ deploy - composi: 1
+ descrip - languag: 1
+ develop - infrastructur: 1
+ direct - access: 1
+ galax - xqueri: 1
+ integr - part: 1
+ interfac - languag: 1
+ main - contribu: 1
+ nativ - xml: 1
+ servic - call: 1
+ servic - deploy: 1
+ servic - descrip: 1
+ servic - develop: 2
+ servic - xml: 1
+ simpl - commandlin: 1
+ static - type: 1
+ web - servic: 9
+ xml - inform: 1
+ xml - languag: 1
+ xml - messag: 1
+ xqueri - languag: 1
+ xqueri - modul: 1
+ xqueri - processor: 1
+ xqueri - program: 1
+
+PageRank scores count: 34
+ access: 0.03470668357705528
+ addition: 0.01876036950111096
+ approach: 0.03470668357705528
+ benefit: 0.03470668357705528
+ call: 0.023677149674527123
+ commandlin: 0.03470668357705528
+ composi: 0.03888594672445901
+ contribu: 0.03470668357705528
+ current: 0.01876036950111096
+ deploy: 0.023677149674527123
+ descrip: 0.023677149674527123
+ develop: 0.02859392984794329
+ direct: 0.01876036950111096
+ galax: 0.01876036950111096
+ inform: 0.02998701756374454
+ infrastructur: 0.043065209871862756
+ integr: 0.01876036950111096
+ interfac: 0.01876036950111096
+ languag: 0.07343407912316116
+ main: 0.01876036950111096
+ messag: 0.02998701756374454
+ modul: 0.02613553976123521
+ nativ: 0.01876036950111096
+ part: 0.03470668357705528
+ processor: 0.02613553976123521
+ program: 0.02613553976123521
+ servic: 0.03470668357705528
+ simpl: 0.01876036950111096
+ static: 0.01876036950111096
+ tool: 0.04826105054160794
+ type: 0.03470668357705528
+ web: 0.01876036950111096
+ xml: 0.03962346375047145
+ xqueri: 0.03470668357705528
+
+N-grams list: 10
+ nativ xml languag
+ xqueri languag
+ simpl commandlin tool
+ web servic xml
+ interfac languag
+ web servic develop
+ galax xqueri processor
+ web servic call
+ web servic deploy
+ web servic descrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

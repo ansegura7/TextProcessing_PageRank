@@ -1,0 +1,50 @@
+File name: 8952711
+
+Graph edges count: 13
+ actual - visit: 1
+ analysi - characterist: 1
+ link - analysi: 1
+ outdegre - pagerank: 1
+ polish - web: 1
+ rb - algorithm: 1
+ real - data: 1
+ real - web: 1
+ traffic - analysi: 1
+ traffic - data: 1
+ web - page: 2
+ web - traffic: 2
+ web - user: 1
+
+PageRank scores count: 16
+ actual: 0.0373770269532516
+ algorithm: 0.06914749986351547
+ analysi: 0.09731996671669194
+ characterist: 0.12009899866243975
+ data: 0.08143473026156002
+ link: 0.0373770269532516
+ outdegre: 0.0373770269532516
+ page: 0.06628815730159171
+ pagerank: 0.06914749986351547
+ polish: 0.0373770269532516
+ rb: 0.0373770269532516
+ real: 0.0373770269532516
+ traffic: 0.06628815730159171
+ user: 0.05183259212742166
+ visit: 0.06914749986351547
+ web: 0.08503273631864741
+
+N-grams list: 10
+ link analysi characterist
+ real web traffic
+ web page
+ web traffic
+ traffic data
+ web user
+ polish web
+ real data
+ rb algorithm
+ outdegre pagerank
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

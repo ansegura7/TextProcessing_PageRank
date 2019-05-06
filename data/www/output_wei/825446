@@ -1,0 +1,55 @@
+File name: 825446
+
+Graph edges count: 13
+ final - goal: 1
+ grid - framework: 1
+ grid - resourc: 1
+ inform - grid: 3
+ machin - understand: 1
+ practic - approach: 1
+ prototyp - implement: 1
+ rich - access: 1
+ semant - web: 3
+ smooth - continuum: 1
+ success - semant: 1
+ understand - metadata: 1
+ web - applic: 2
+
+PageRank scores count: 21
+ access: 0.05330778401702968
+ applic: 0.09182265796933362
+ approach: 0.05330778401702968
+ continuum: 0.05330778401702968
+ final: 0.028815018387583605
+ framework: 0.05147082659482122
+ goal: 0.05330778401702968
+ grid: 0.05330778401702967
+ implement: 0.05330778401702968
+ inform: 0.028815018387583605
+ machin: 0.028815018387583605
+ metadata: 0.07412663480205883
+ practic: 0.028815018387583605
+ prototyp: 0.028815018387583605
+ resourc: 0.05147082659482122
+ rich: 0.028815018387583605
+ semant: 0.05330778401702968
+ smooth: 0.028815018387583605
+ success: 0.028815018387583605
+ understand: 0.05330778401702968
+ web: 0.07412663480205883
+
+N-grams list: 10
+ semant web applic
+ success semant web
+ machin understand metadata
+ inform grid resourc
+ inform grid framework
+ semant web
+ applic
+ rich access
+ prototyp implement
+ inform grid
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,64 @@
+File name: 4422416
+
+Graph edges count: 19
+ assess - readabl: 1
+ assess - scheme: 1
+ bilingu - web: 1
+ content - distribu: 1
+ educ - field: 1
+ experiment - result: 1
+ good - heurist: 1
+ low - textual: 1
+ readabl - assess: 3
+ readabl - level: 1
+ real - web: 1
+ site - readabl: 2
+ textual - content: 1
+ textual - featur: 1
+ text - materi: 1
+ web - data: 1
+ web - develop: 1
+ web - page: 2
+ web - site: 2
+
+PageRank scores count: 24
+ assess: 0.08222345257337794
+ bilingu: 0.023110302183850805
+ content: 0.0412807772759035
+ data: 0.031949992769173735
+ develop: 0.031949992769173735
+ distribu: 0.05819896286836877
+ educ: 0.023110302183850805
+ experiment: 0.023110302183850805
+ featur: 0.0412807772759035
+ field: 0.042754059040123985
+ good: 0.023110302183850805
+ heurist: 0.042754059040123985
+ level: 0.042814685647026514
+ low: 0.023110302183850805
+ materi: 0.042754059040123985
+ page: 0.04078968335449667
+ readabl: 0.09272649828971417
+ real: 0.023110302183850805
+ result: 0.042754059040123985
+ scheme: 0.058055267438392004
+ site: 0.04078968335449667
+ text: 0.023110302183850805
+ textual: 0.042754059040123985
+ web: 0.06239781589639717
+
+N-grams list: 10
+ site readabl assess
+ web site readabl
+ readabl assess
+ assess scheme
+ readabl level
+ bilingu web page
+ real web data
+ low textual content
+ web page
+ web site
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,80 @@
+File name: 10581378
+
+Graph edges count: 24
+ approxim - algorithm: 3
+ common - object: 1
+ commun - detec: 3
+ commun - qualiti: 1
+ consider - interest: 1
+ detec - algorithm: 1
+ detec - method: 1
+ empir - comparison: 1
+ extern - connect: 1
+ good - commun: 1
+ inform - network: 1
+ intern - connect: 1
+ larg - realworld: 1
+ larg - social: 1
+ network - cluster: 1
+ network - commun: 3
+ nonobvi - sizedepend: 1
+ object - function: 5
+ optim - problem: 1
+ realworld - graph: 1
+ rel - perform: 1
+ sizedepend - behavior: 1
+ sizeresolv - version: 1
+ systemat - bias: 1
+
+PageRank scores count: 35
+ algorithm: 0.053471928756259064
+ approxim: 0.017272570795257975
+ behavior: 0.04443368837080114
+ bias: 0.03195425597122725
+ cluster: 0.024062850189143767
+ common: 0.017272570795257975
+ commun: 0.05232509415288463
+ comparison: 0.03195425597122725
+ connect: 0.04663594114719654
+ consider: 0.017272570795257975
+ detec: 0.05062981831772192
+ empir: 0.017272570795257975
+ extern: 0.017272570795257975
+ function: 0.04443368837080114
+ good: 0.017272570795257975
+ graph: 0.0381939721710142
+ inform: 0.017272570795257975
+ interest: 0.03195425597122725
+ intern: 0.017272570795257975
+ larg: 0.017272570795257975
+ method: 0.03879024358028979
+ network: 0.03195425597122725
+ nonobvi: 0.017272570795257975
+ object: 0.03195425597122725
+ optim: 0.017272570795257975
+ perform: 0.03195425597122725
+ problem: 0.03195425597122725
+ qualiti: 0.02839165330274596
+ realworld: 0.02461341338324262
+ rel: 0.017272570795257975
+ sizedepend: 0.03195425597122725
+ sizeresolv: 0.017272570795257975
+ social: 0.02461341338324262
+ systemat: 0.017272570795257975
+ version: 0.03195425597122725
+
+N-grams list: 10
+ commun detec algorithm
+ network commun detec
+ common object function
+ nonobvi sizedepend behavior
+ network commun
+ commun qualiti
+ larg realworld graph
+ object function
+ approxim algorithm
+ good commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

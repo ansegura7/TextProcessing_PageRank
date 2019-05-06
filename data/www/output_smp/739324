@@ -1,0 +1,78 @@
+File name: 739324
+
+Graph edges count: 22
+ accur - sizebas: 1
+ admis - control: 2
+ cataclysm - server: 1
+ control - revenu: 1
+ control - techniqu: 1
+ desir - featur: 1
+ dynam - capac: 1
+ extrem - overload: 3
+ import - request: 1
+ incom - rate: 1
+ internet - applic: 3
+ linux - cluster: 1
+ low - overhead: 1
+ multipl - timescal: 1
+ preferenti - admis: 1
+ primari - contribu: 1
+ prototyp - cataclysm: 1
+ respons - time: 1
+ revenu - maxim: 1
+ scalabl - admis: 1
+ server - platform: 1
+ sizebas - admis: 1
+
+PageRank scores count: 35
+ accur: 0.015829470812603934
+ admis: 0.06763141404685032
+ applic: 0.029284521003317278
+ capac: 0.029284521003317278
+ cataclysm: 0.029284521003317278
+ cluster: 0.029284521003317278
+ contribu: 0.029284521003317278
+ control: 0.07331617275242669
+ desir: 0.015829470812603934
+ dynam: 0.015829470812603934
+ extrem: 0.015829470812603934
+ featur: 0.029284521003317278
+ import: 0.015829470812603934
+ incom: 0.015829470812603934
+ internet: 0.015829470812603934
+ linux: 0.015829470812603934
+ low: 0.015829470812603934
+ maxim: 0.05576998841013142
+ multipl: 0.015829470812603934
+ overhead: 0.029284521003317278
+ overload: 0.029284521003317278
+ platform: 0.05044258742821401
+ preferenti: 0.015829470812603934
+ primari: 0.015829470812603934
+ prototyp: 0.015829470812603934
+ rate: 0.029284521003317278
+ request: 0.029284521003317278
+ respons: 0.015829470812603934
+ revenu: 0.04698884423238528
+ scalabl: 0.015829470812603934
+ server: 0.040721313665423614
+ sizebas: 0.029284521003317278
+ techniqu: 0.04698884423238528
+ time: 0.029284521003317278
+ timescal: 0.029284521003317278
+
+N-grams list: 10
+ control revenu maxim
+ scalabl admis control
+ cataclysm server platform
+ accur sizebas admis
+ preferenti admis
+ platform
+ techniqu
+ multipl timescal
+ extrem overload
+ dynam capac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

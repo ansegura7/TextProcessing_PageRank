@@ -1,0 +1,92 @@
+File name: 11876537
+
+Graph edges count: 28
+ aggress - cach: 1
+ bangalor - india: 1
+ brows - experi: 1
+ cach - page: 1
+ clientsid - prefetch: 1
+ client - machin: 1
+ easi - instal: 1
+ end - user: 1
+ firefox - plugin: 1
+ illumin - opportun: 1
+ india - illumin: 1
+ innov - techniqu: 1
+ intermitt - connect: 1
+ internet - access: 1
+ intern - network: 1
+ limit - bandwidth: 1
+ network - set: 1
+ opensourc - firefox: 1
+ page - cach: 1
+ periurban - india: 1
+ prefetch - engin: 1
+ primari - school: 1
+ proxybas - techniqu: 1
+ stale - page: 1
+ technic - expert: 1
+ video - content: 1
+ web - access: 1
+ world - intermitt: 1
+
+PageRank scores count: 43
+ access: 0.029235834831970633
+ aggress: 0.01082808697480394
+ bandwidth: 0.020031960903387287
+ bangalor: 0.01082808697480394
+ brows: 0.01082808697480394
+ cach: 0.13354640602258197
+ client: 0.01082808697480394
+ clientsid: 0.01082808697480394
+ connect: 0.027855253742683134
+ content: 0.020031960903387287
+ easi: 0.01082808697480394
+ end: 0.01082808697480394
+ engin: 0.027855253742683134
+ experi: 0.020031960903387287
+ expert: 0.020031960903387287
+ firefox: 0.020031960903387287
+ illumin: 0.03567854658197898
+ india: 0.029235834831970633
+ innov: 0.01082808697480394
+ instal: 0.020031960903387287
+ intermitt: 0.020031960903387287
+ intern: 0.01082808697480394
+ internet: 0.01082808697480394
+ limit: 0.01082808697480394
+ machin: 0.020031960903387287
+ network: 0.020031960903387287
+ opensourc: 0.01082808697480394
+ opportun: 0.04115485156948607
+ page: 0.13354640602258197
+ periurban: 0.01082808697480394
+ plugin: 0.027855253742683134
+ prefetch: 0.020031960903387287
+ primari: 0.01082808697480394
+ proxybas: 0.01082808697480394
+ school: 0.020031960903387287
+ set: 0.027855253742683134
+ stale: 0.01082808697480394
+ technic: 0.01082808697480394
+ techniqu: 0.029235834831970633
+ user: 0.020031960903387287
+ video: 0.01082808697480394
+ web: 0.01082808697480394
+ world: 0.01082808697480394
+
+N-grams list: 10
+ stale page cach
+ aggress cach
+ page
+ bangalor india illumin
+ world intermitt connect
+ intern network set
+ opensourc firefox plugin
+ prefetch engin
+ opportun
+ innov techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

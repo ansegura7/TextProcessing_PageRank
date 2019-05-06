@@ -1,0 +1,69 @@
+File name: 11708130
+
+Graph edges count: 20
+ background - knowledg: 3
+ exploratori - navig: 1
+ folksonomi - algorithm: 4
+ hierarch - background: 1
+ hierarch - structur: 2
+ kei - idea: 1
+ navig - task: 1
+ pragmat - evalu: 1
+ pragmat - framework: 1
+ pragmat - perspect: 1
+ search - algorithm: 1
+ semant - relationship: 1
+ socal - folksonomi: 1
+ social - tag: 6
+ stateoftheart - folksonomi: 1
+ tag - data: 1
+ tag - dataset: 1
+ tag - network: 1
+ tag - system: 5
+ undiscov - differ: 1
+
+PageRank scores count: 28
+ algorithm: 0.09605747226326003
+ background: 0.033023377074824015
+ data: 0.03228469627183453
+ dataset: 0.03228469627183453
+ differ: 0.042872454448017135
+ evalu: 0.029740351283759636
+ exploratori: 0.023174299701630884
+ folksonomi: 0.0625706091944034
+ framework: 0.029740351283759636
+ hierarch: 0.023174299701630884
+ idea: 0.042872454448017135
+ kei: 0.023174299701630884
+ knowledg: 0.05124417021523129
+ navig: 0.042872454448017135
+ network: 0.03228469627183453
+ perspect: 0.029740351283759636
+ pragmat: 0.023174299701630884
+ relationship: 0.042872454448017135
+ search: 0.023174299701630884
+ semant: 0.023174299701630884
+ socal: 0.023174299701630884
+ social: 0.023174299701630884
+ stateoftheart: 0.023174299701630884
+ structur: 0.033023377074824015
+ system: 0.03228469627183453
+ tag: 0.042872454448017135
+ task: 0.05961588598244545
+ undiscov: 0.023174299701630884
+
+N-grams list: 10
+ stateoftheart folksonomi algorithm
+ folksonomi algorithm
+ search algorithm
+ hierarch background knowledg
+ navig task
+ social tag system
+ social tag dataset
+ social tag data
+ algorithm
+ socal folksonomi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

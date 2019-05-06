@@ -1,0 +1,29 @@
+File name: 5820842
+
+Graph edges count: 5
+ ecommerc - search: 2
+ es - interfac: 1
+ interfac - page: 2
+ search - engin: 3
+ special - featur: 1
+
+PageRank scores count: 8
+ ecommerc: 0.07301935012778386
+ engin: 0.18784227820372398
+ es: 0.07301935012778386
+ featur: 0.13508579773640014
+ interfac: 0.13508579773640014
+ page: 0.18784227820372398
+ search: 0.13508579773640014
+ special: 0.07301935012778386
+
+N-grams list: 5
+ es interfac page
+ ecommerc search engin
+ interfac page
+ search engin
+ special featur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

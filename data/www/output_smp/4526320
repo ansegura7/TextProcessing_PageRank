@@ -1,0 +1,74 @@
+File name: 4526320
+
+Graph edges count: 23
+ afford - effort: 1
+ altern - product: 1
+ altern - web: 1
+ establish - platform: 1
+ highlevel - abstrac: 1
+ innov - program: 1
+ java - program: 1
+ java - vm: 1
+ kei - idea: 1
+ languag - layer: 1
+ platform - todai: 1
+ program - languag: 3
+ program - paradigm: 2
+ runtim - environ: 1
+ serviceori - architectur: 1
+ serviceori - program: 1
+ servic - languag: 1
+ servic - platform: 1
+ specif - focu: 1
+ strong - ti: 1
+ tradition - program: 1
+ web - servic: 4
+ ws - platform: 1
+
+PageRank scores count: 30
+ abstrac: 0.0347853044545579
+ afford: 0.018802867272734003
+ altern: 0.018802867272734003
+ architectur: 0.026794085863645952
+ effort: 0.0347853044545579
+ environ: 0.0347853044545579
+ establish: 0.018802867272734003
+ focu: 0.0347853044545579
+ highlevel: 0.018802867272734003
+ idea: 0.0347853044545579
+ innov: 0.018802867272734003
+ java: 0.018802867272734003
+ kei: 0.018802867272734003
+ languag: 0.06484227537962547
+ layer: 0.07391880134541565
+ paradigm: 0.04717169327047143
+ platform: 0.06843832374553586
+ product: 0.026794085863645952
+ program: 0.0667501788182057
+ runtim: 0.018802867272734003
+ servic: 0.04157784025683306
+ serviceori: 0.018802867272734003
+ specif: 0.018802867272734003
+ strong: 0.018802867272734003
+ ti: 0.0347853044545579
+ todai: 0.07697544245643947
+ tradition: 0.018802867272734003
+ vm: 0.026794085863645952
+ web: 0.026794085863645952
+ ws: 0.018802867272734003
+
+N-grams list: 10
+ servic languag layer
+ ws platform todai
+ innov program languag
+ tradition program paradigm
+ program languag
+ program paradigm
+ establish platform
+ altern web servic
+ java program
+ serviceori program
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

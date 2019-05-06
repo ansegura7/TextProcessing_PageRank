@@ -1,0 +1,59 @@
+File name: 13061384
+
+Graph edges count: 17
+ conven - search: 1
+ intent - queri: 1
+ local - intent: 1
+ major - find: 1
+ mobil - devic: 1
+ mobil - search: 3
+ month - period: 1
+ pattern - evolu: 1
+ queri - search: 1
+ search - interfac: 1
+ search - pattern: 1
+ search - queri: 3
+ search - servic: 1
+ search - topic: 1
+ similar - studi: 1
+ user - interest: 1
+ voic - queri: 2
+
+PageRank scores count: 21
+ conven: 0.02497895990459748
+ devic: 0.035595017864051406
+ evolu: 0.06808354001346403
+ find: 0.046211075823505345
+ intent: 0.046211075823505345
+ interest: 0.046211075823505345
+ interfac: 0.050711267738782144
+ local: 0.02497895990459748
+ major: 0.02497895990459748
+ mobil: 0.02497895990459748
+ month: 0.02497895990459748
+ pattern: 0.050711267738782144
+ period: 0.046211075823505345
+ queri: 0.11122279810766952
+ search: 0.15136651470538012
+ servic: 0.050711267738782144
+ similar: 0.02497895990459748
+ studi: 0.046211075823505345
+ topic: 0.050711267738782144
+ user: 0.02497895990459748
+ voic: 0.02497895990459748
+
+N-grams list: 10
+ voic queri search
+ conven search queri
+ mobil search queri
+ search queri
+ mobil search pattern
+ mobil search servic
+ search topic
+ local intent queri
+ voic queri
+ queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

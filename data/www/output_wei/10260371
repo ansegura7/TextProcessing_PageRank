@@ -1,0 +1,102 @@
+File name: 10260371
+
+Graph edges count: 36
+ air - mile: 1
+ annual - growth: 2
+ awar - forward: 1
+ backbon - traffic: 1
+ broadband - provid: 3
+ broadband - traffic: 1
+ cach - approach: 1
+ cach - deploy: 1
+ cach - opportun: 1
+ cdn - traffic: 1
+ core - backbon: 1
+ deploy - strategi: 1
+ domin - protocol: 1
+ downstream - traffic: 1
+ forward - cach: 4
+ full - cach: 1
+ gener - characterist: 1
+ growth - rate: 3
+ internet - traffic: 1
+ kei - advantag: 1
+ maxim - point: 1
+ multimedia - content: 1
+ networkawar - forward: 1
+ network - awar: 1
+ network - cost: 1
+ net - benefit: 1
+ optim - deploy: 1
+ p2p - content: 1
+ potenti - cach: 1
+ provid - network: 1
+ residenti - broadband: 1
+ standard - method: 1
+ total - downstream: 1
+ total - traffic: 1
+ traffic - volum: 1
+ typic - network: 1
+
+PageRank scores count: 45
+ advantag: 0.02007254623125717
+ air: 0.010850024989868742
+ annual: 0.010850024989868742
+ approach: 0.029700518128655817
+ awar: 0.02792307333609468
+ backbon: 0.02007254623125717
+ benefit: 0.02007254623125717
+ broadband: 0.02007254623125717
+ cach: 0.0665311522545426
+ cdn: 0.010850024989868742
+ characterist: 0.02007254623125717
+ content: 0.0292950674726456
+ core: 0.010850024989868742
+ cost: 0.02792307333609468
+ deploy: 0.03892303937004424
+ domin: 0.010850024989868742
+ downstream: 0.015461285610562956
+ forward: 0.04380715856693765
+ full: 0.010850024989868742
+ gener: 0.010850024989868742
+ growth: 0.02007254623125717
+ internet: 0.010850024989868742
+ kei: 0.010850024989868742
+ maxim: 0.010850024989868742
+ method: 0.02007254623125717
+ mile: 0.02007254623125717
+ multimedia: 0.010850024989868742
+ net: 0.010850024989868742
+ network: 0.04017187846170808
+ networkawar: 0.010850024989868742
+ opportun: 0.029700518128655817
+ optim: 0.010850024989868742
+ p2p: 0.010850024989868742
+ point: 0.02007254623125717
+ potenti: 0.010850024989868742
+ protocol: 0.02007254623125717
+ provid: 0.02364627321229519
+ rate: 0.027911689286437336
+ residenti: 0.010850024989868742
+ standard: 0.010850024989868742
+ strategi: 0.043934608454406346
+ total: 0.010850024989868742
+ traffic: 0.06837550123302907
+ typic: 0.010850024989868742
+ volum: 0.06896920103794345
+
+N-grams list: 10
+ traffic volum
+ networkawar forward cach
+ full cach deploy
+ network awar forward
+ forward cach
+ potenti cach opportun
+ core backbon traffic
+ cach approach
+ total downstream traffic
+ optim deploy strategi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,51 @@
+File name: 13506151
+
+Graph edges count: 14
+ expert - ground: 1
+ ground - truth: 1
+ interest - insight: 1
+ music - search: 1
+ music - theme: 2
+ music - track: 1
+ recommend - tag: 1
+ recommend - theme: 1
+ style - recommend: 1
+ tag - music: 1
+ tag - space: 1
+ theme - annot: 4
+ truth - data: 1
+ user - tag: 2
+
+PageRank scores count: 16
+ annot: 0.1057438913660896
+ data: 0.10259878147068893
+ expert: 0.032196691317832794
+ ground: 0.05956387893799067
+ insight: 0.05956387893799067
+ interest: 0.032196691317832794
+ music: 0.0682700654996534
+ recommend: 0.05956387893799067
+ search: 0.04670408023650914
+ space: 0.0682700654996534
+ style: 0.032196691317832794
+ tag: 0.08487852748663673
+ theme: 0.08652611770383153
+ track: 0.04670408023650914
+ truth: 0.08282598841512487
+ user: 0.032196691317832794
+
+N-grams list: 10
+ music theme annot
+ recommend theme annot
+ theme annot
+ user tag music
+ expert ground truth
+ tag space
+ recommend tag
+ user tag
+ music search
+ music track
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

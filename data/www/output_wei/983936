@@ -1,0 +1,45 @@
+File name: 983936
+
+Graph edges count: 9
+ advertis - system: 1
+ ad - term: 1
+ clickthough - rate: 1
+ clickthrough - rate: 2
+ engin - advertis: 1
+ search - engin: 1
+ signific - elem: 1
+ strong - impact: 1
+ user - satisfac: 2
+
+PageRank scores count: 15
+ ad: 0.040470878673364595
+ advertis: 0.10411133538723043
+ clickthough: 0.040470878673364595
+ clickthrough: 0.040470878673364595
+ elem: 0.0748711255457245
+ engin: 0.0748711255457245
+ impact: 0.0748711255457245
+ rate: 0.1092713724180844
+ satisfac: 0.0748711255457245
+ search: 0.040470878673364595
+ signific: 0.040470878673364595
+ strong: 0.040470878673364595
+ system: 0.12896551375251047
+ term: 0.0748711255457245
+ user: 0.040470878673364595
+
+N-grams list: 10
+ advertis system
+ engin advertis
+ clickthrough rate
+ clickthough rate
+ system
+ user satisfac
+ search engin
+ ad term
+ strong impact
+ signific elem
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

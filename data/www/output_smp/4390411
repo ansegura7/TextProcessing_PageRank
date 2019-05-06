@@ -1,0 +1,96 @@
+File name: 4390411
+
+Graph edges count: 33
+ abnorm - client: 1
+ admis - base: 1
+ base - approach: 1
+ busi - internet: 1
+ client - request: 1
+ comput - resourc: 1
+ earli - request: 2
+ excess - comput: 1
+ experiment - result: 1
+ incom - request: 1
+ internet - servic: 1
+ internet - traffic: 1
+ long - request: 2
+ multipl - incom: 1
+ network - server: 1
+ network - servic: 1
+ overdu - long: 1
+ overload - situat: 1
+ qo - object: 1
+ request - account: 1
+ request - pattern: 1
+ request - servic: 1
+ request - termin: 2
+ resourc - usag: 1
+ safe - termin: 1
+ select - earli: 2
+ selec - threshold: 1
+ servic - internet: 1
+ short - request: 1
+ small - percentag: 1
+ surpris - event: 1
+ system - throughput: 1
+ termin - scheme: 1
+
+PageRank scores count: 42
+ abnorm: 0.01119720199752029
+ account: 0.030565562152731016
+ admis: 0.01119720199752029
+ approach: 0.02880480213862095
+ base: 0.02071482369541254
+ busi: 0.01119720199752029
+ client: 0.02071482369541254
+ comput: 0.02071482369541254
+ earli: 0.02071482369541254
+ event: 0.02071482369541254
+ excess: 0.01119720199752029
+ experiment: 0.01119720199752029
+ incom: 0.02071482369541254
+ internet: 0.07943726070422498
+ long: 0.02071482369541254
+ multipl: 0.01119720199752029
+ network: 0.01119720199752029
+ object: 0.02071482369541254
+ overdu: 0.01119720199752029
+ overload: 0.01119720199752029
+ pattern: 0.030565562152731016
+ percentag: 0.02071482369541254
+ qo: 0.01119720199752029
+ request: 0.09114522425981518
+ resourc: 0.02880480213862095
+ result: 0.02071482369541254
+ safe: 0.01119720199752029
+ scheme: 0.04526790827055006
+ selec: 0.01119720199752029
+ select: 0.01119720199752029
+ server: 0.015956012846466413
+ servic: 0.06908521333810876
+ short: 0.01119720199752029
+ situat: 0.02071482369541254
+ small: 0.01119720199752029
+ surpris: 0.01119720199752029
+ system: 0.01119720199752029
+ termin: 0.04008318385062326
+ threshold: 0.02071482369541254
+ throughput: 0.02071482369541254
+ traffic: 0.04495804233395191
+ usag: 0.035681283815348096
+
+N-grams list: 10
+ busi internet servic
+ internet traffic
+ abnorm client request
+ select earli request
+ overdu long request
+ multipl incom request
+ request account
+ long request
+ short request
+ request
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

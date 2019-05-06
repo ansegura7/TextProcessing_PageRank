@@ -1,0 +1,99 @@
+File name: 3884003
+
+Graph edges count: 36
+ aggreg - function: 1
+ aggreg - queri: 2
+ base - queri: 1
+ client - queri: 2
+ coher - requir: 2
+ content - distribu: 2
+ continu - aggreg: 2
+ continu - queri: 2
+ cost - base: 1
+ cost - model: 1
+ data - aggreg: 4
+ data - dissemin: 1
+ data - item: 3
+ decision - make: 1
+ dissemin - network: 1
+ distribu - network: 2
+ dynam - data: 2
+ dynam - webpag: 1
+ execu - cost: 1
+ incoher - bound: 1
+ individu - subqueri: 1
+ lowcost - scalabl: 1
+ midcap - stock: 1
+ network - continu: 1
+ onlin - decision: 1
+ optim - queri: 1
+ perform - result: 1
+ queri - cost: 1
+ queri - execu: 1
+ queri - plan: 3
+ realworld - trace: 1
+ refresh - messag: 1
+ scalabl - techniqu: 1
+ specif - coher: 1
+ subqueri - incoher: 1
+ user - desir: 1
+
+PageRank scores count: 42
+ aggreg: 0.03718054196129907
+ base: 0.03267857505294973
+ bound: 0.03507077015884979
+ client: 0.011005615709049475
+ coher: 0.02036038906174153
+ content: 0.011005615709049475
+ continu: 0.04434593049248821
+ cost: 0.050995192780118055
+ data: 0.017242131277510845
+ decision: 0.02036038906174153
+ desir: 0.02036038906174153
+ dissemin: 0.012837592157285003
+ distribu: 0.02036038906174153
+ dynam: 0.011005615709049475
+ execu: 0.027564968057852773
+ function: 0.021540102598084213
+ incoher: 0.02831194641152978
+ individu: 0.011005615709049475
+ item: 0.016501545053756058
+ lowcost: 0.011005615709049475
+ make: 0.02831194641152978
+ messag: 0.02036038906174153
+ midcap: 0.011005615709049475
+ model: 0.03267857505294973
+ network: 0.039223899745222036
+ onlin: 0.011005615709049475
+ optim: 0.011005615709049475
+ perform: 0.011005615709049475
+ plan: 0.06068367275545939
+ queri: 0.09740794888171764
+ realworld: 0.011005615709049475
+ refresh: 0.011005615709049475
+ requir: 0.02831194641152978
+ result: 0.02036038906174153
+ scalabl: 0.02036038906174153
+ specif: 0.011005615709049475
+ stock: 0.02036038906174153
+ subqueri: 0.02036038906174153
+ techniqu: 0.02831194641152978
+ trace: 0.02036038906174153
+ user: 0.011005615709049475
+ webpag: 0.01412387349328016
+
+N-grams list: 10
+ continu queri cost
+ cost base queri
+ network continu queri
+ continu aggreg queri
+ queri execu cost
+ optim queri plan
+ queri plan
+ client queri
+ queri
+ content distribu network
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

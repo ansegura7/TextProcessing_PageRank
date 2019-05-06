@@ -1,0 +1,63 @@
+File name: 11820735
+
+Graph edges count: 19
+ databas - web: 1
+ data - item: 2
+ engin - compon: 1
+ experiment - studi: 1
+ extens - experiment: 1
+ incomplet - result: 1
+ low - overhead: 1
+ product - databas: 1
+ product - relat: 1
+ relat - queri: 1
+ relev - structur: 3
+ requir - inform: 1
+ search - architectur: 1
+ search - engin: 3
+ search - result: 2
+ structur - data: 2
+ structur - databas: 4
+ user - queri: 1
+ web - search: 4
+
+PageRank scores count: 23
+ architectur: 0.033976714627180236
+ compon: 0.07094428961322871
+ data: 0.03417689581290707
+ databas: 0.05546037549081913
+ engin: 0.057083479064166755
+ experiment: 0.041483164956070906
+ extens: 0.022423332408686974
+ incomplet: 0.022423332408686974
+ inform: 0.041483164956070906
+ item: 0.051473693849657984
+ low: 0.022423332408686974
+ overhead: 0.041483164956070906
+ product: 0.022423332408686974
+ queri: 0.06864342633609301
+ relat: 0.03195324868237894
+ relev: 0.022423332408686974
+ requir: 0.022423332408686974
+ result: 0.06458992939305742
+ search: 0.08155328624818772
+ structur: 0.041483164956070906
+ studi: 0.057684022621347246
+ user: 0.022423332408686974
+ web: 0.06956465157588324
+
+N-grams list: 10
+ web search result
+ search engin compon
+ web search engin
+ structur databas web
+ search engin
+ product relat queri
+ extens experiment studi
+ relev structur databas
+ search architectur
+ relev structur data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

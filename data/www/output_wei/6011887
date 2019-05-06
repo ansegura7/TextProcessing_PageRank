@@ -1,0 +1,52 @@
+File name: 6011887
+
+Graph edges count: 12
+ constant - time: 1
+ determinist - vpa: 2
+ fix - problem: 1
+ postord - type: 2
+ preorder - type: 1
+ pushdown - automata: 2
+ sdtd - schema: 2
+ stream - algorithm: 2
+ stream - xml: 3
+ typecheck - stream: 1
+ type - tag: 1
+ xml - docum: 5
+
+PageRank scores count: 19
+ algorithm: 0.05201236610766944
+ automata: 0.059068678513927844
+ constant: 0.03192901541293397
+ determinist: 0.03192901541293397
+ docum: 0.08467495064971556
+ fix: 0.03192901541293397
+ postord: 0.03192901541293397
+ preorder: 0.03192901541293397
+ problem: 0.059068678513927844
+ pushdown: 0.03192901541293397
+ schema: 0.059068678513927844
+ sdtd: 0.03192901541293397
+ stream: 0.059068678513927844
+ tag: 0.10520610578561743
+ time: 0.059068678513927844
+ type: 0.08620834161492172
+ typecheck: 0.03192901541293397
+ vpa: 0.059068678513927844
+ xml: 0.062054041455037165
+
+N-grams list: 10
+ stream xml docum
+ type tag
+ typecheck stream xml
+ xml docum
+ stream xml
+ preorder type
+ postord type
+ stream algorithm
+ sdtd schema
+ determinist vpa
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

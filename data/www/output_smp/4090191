@@ -1,0 +1,38 @@
+File name: 4090191
+
+Graph edges count: 7
+ decentr - privacypreserv: 1
+ mail - server: 1
+ peertop - architectur: 1
+ privacypreserv - approach: 1
+ robust - digest: 1
+ slight - variat: 1
+ spam - attack: 1
+
+PageRank scores count: 13
+ approach: 0.13076629813191
+ architectur: 0.09403990341847755
+ attack: 0.09403990341847755
+ decentr: 0.05083238022620409
+ digest: 0.09403990341847755
+ mail: 0.05083238022620409
+ peertop: 0.05083238022620409
+ privacypreserv: 0.09403990341847755
+ robust: 0.05083238022620409
+ server: 0.09403990341847755
+ slight: 0.05083238022620409
+ spam: 0.05083238022620409
+ variat: 0.09403990341847755
+
+N-grams list: 7
+ decentr privacypreserv approach
+ slight variat
+ spam attack
+ robust digest
+ mail server
+ peertop architectur
+ spam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

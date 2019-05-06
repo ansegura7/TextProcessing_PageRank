@@ -1,0 +1,70 @@
+File name: 13063830
+
+Graph edges count: 20
+ attribut - depend: 1
+ databas - normal: 1
+ foreign - kei: 1
+ fragment - web: 2
+ good - balanc: 1
+ implement - smartint: 1
+ individu - entiti: 1
+ intellig - retriev: 1
+ intert - depend: 1
+ kei - relat: 1
+ multipl - sourc: 1
+ normal - problem: 1
+ primari - kei: 1
+ prototyp - implement: 1
+ share - attribut: 2
+ spuriou - entiti: 1
+ tradition - databas: 1
+ unifi - approach: 1
+ univers - relat: 2
+ web - databas: 3
+
+PageRank scores count: 29
+ approach: 0.034167903617884625
+ attribut: 0.034167903617884625
+ balanc: 0.034167903617884625
+ databas: 0.06321062169308657
+ depend: 0.06321062169308657
+ entiti: 0.04986667014502081
+ foreign: 0.018469137090748447
+ fragment: 0.018469137090748447
+ good: 0.018469137090748447
+ implement: 0.034167903617884625
+ individu: 0.018469137090748447
+ intellig: 0.018469137090748447
+ intert: 0.018469137090748447
+ kei: 0.04986667014502081
+ multipl: 0.018469137090748447
+ normal: 0.07219816552987202
+ primari: 0.018469137090748447
+ problem: 0.07983757779113966
+ prototyp: 0.018469137090748447
+ relat: 0.07655457324115231
+ retriev: 0.034167903617884625
+ share: 0.018469137090748447
+ smartint: 0.04751185516595038
+ sourc: 0.034167903617884625
+ spuriou: 0.018469137090748447
+ tradition: 0.018469137090748447
+ unifi: 0.018469137090748447
+ univers: 0.018469137090748447
+ web: 0.034167903617884625
+
+N-grams list: 10
+ tradition databas normal
+ foreign kei relat
+ fragment web databas
+ prototyp implement smartint
+ attribut depend
+ web databas
+ univers relat
+ intert depend
+ problem
+ individu entiti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

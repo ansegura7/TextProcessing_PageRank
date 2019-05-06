@@ -1,0 +1,72 @@
+File name: 4484921
+
+Graph edges count: 21
+ basic - dynam: 1
+ bookmark - site: 1
+ categor - scheme: 1
+ coher - categor: 1
+ collabor - tag: 5
+ complex - dynam: 1
+ complex - system: 1
+ cooccurr - network: 1
+ gener - model: 1
+ law - distribu: 2
+ long - histori: 1
+ optim - mean: 1
+ power - law: 3
+ sampl - domain: 1
+ site - delicio: 1
+ social - bookmark: 1
+ stabl - distribu: 1
+ tag - cooccurr: 1
+ tag - system: 3
+ unsupervis - tag: 1
+ web - commun: 1
+
+PageRank scores count: 30
+ basic: 0.019203256872365553
+ bookmark: 0.03552602521387627
+ categor: 0.03552602521387627
+ coher: 0.019203256872365553
+ collabor: 0.019203256872365553
+ commun: 0.03552602521387627
+ complex: 0.019203256872365553
+ cooccurr: 0.04123899413340502
+ delicio: 0.061193578430901875
+ distribu: 0.0657231466456711
+ domain: 0.03552602521387627
+ dynam: 0.043687409384631636
+ gener: 0.019203256872365553
+ histori: 0.03552602521387627
+ law: 0.03552602521387627
+ long: 0.019203256872365553
+ mean: 0.03552602521387627
+ model: 0.03552602521387627
+ network: 0.054256401885759815
+ optim: 0.019203256872365553
+ power: 0.019203256872365553
+ sampl: 0.019203256872365553
+ scheme: 0.049400378304160386
+ site: 0.049400378304160386
+ social: 0.019203256872365553
+ stabl: 0.019203256872365553
+ system: 0.049400378304160386
+ tag: 0.05184879355538699
+ unsupervis: 0.019203256872365553
+ web: 0.019203256872365553
+
+N-grams list: 10
+ tag cooccurr network
+ collabor tag system
+ power law distribu
+ social bookmark site
+ coher categor scheme
+ stabl distribu
+ unsupervis tag
+ collabor tag
+ complex system
+ distribu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

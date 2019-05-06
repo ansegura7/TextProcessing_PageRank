@@ -1,0 +1,91 @@
+File name: 39868
+
+Graph edges count: 30
+ adapt - custom: 1
+ adapt - systembas: 1
+ basic - web: 1
+ client - machin: 1
+ commun - path: 1
+ contentbas - custom: 1
+ custom - applic: 1
+ deploy - softwar: 1
+ design - featur: 1
+ digit - assist: 1
+ dynam - custom: 1
+ import - design: 1
+ middlewar - architectur: 2
+ nontradi - resourcelimit: 1
+ nontrivi - adapt: 1
+ optim - interac: 1
+ perform - reliabl: 1
+ person - digit: 1
+ proxi - capabl: 1
+ resourcelimit - client: 1
+ softwar - modul: 1
+ stream - custom: 1
+ system - oper: 1
+ transac - model: 1
+ web - middlewar: 2
+ web - stream: 1
+ web - transac: 1
+ wireless - client: 1
+ wireless - pda: 1
+ wsc - architectur: 1
+
+PageRank scores count: 40
+ adapt: 0.02545263629836577
+ applic: 0.06967862693116501
+ architectur: 0.04327693405568755
+ assist: 0.03539292263651132
+ basic: 0.013758181782900418
+ capabl: 0.02545263629836577
+ client: 0.041240149894243995
+ commun: 0.013758181782900418
+ contentbas: 0.013758181782900418
+ custom: 0.06578875899795836
+ deploy: 0.013758181782900418
+ design: 0.02545263629836577
+ digit: 0.02545263629836577
+ dynam: 0.013758181782900418
+ featur: 0.03539292263651132
+ import: 0.013758181782900418
+ interac: 0.02545263629836577
+ machin: 0.04881230919300781
+ middlewar: 0.020969762067437385
+ model: 0.0315824795402222
+ modul: 0.03539292263651132
+ nontradi: 0.013758181782900418
+ nontrivi: 0.013758181782900418
+ oper: 0.02545263629836577
+ optim: 0.013758181782900418
+ path: 0.02545263629836577
+ pda: 0.019605409040633095
+ perform: 0.013758181782900418
+ person: 0.013758181782900418
+ proxi: 0.013758181782900418
+ reliabl: 0.02545263629836577
+ resourcelimit: 0.02545263629836577
+ softwar: 0.02545263629836577
+ stream: 0.020969762067437385
+ system: 0.013758181782900418
+ systembas: 0.02457555220970587
+ transac: 0.020969762067437385
+ web: 0.02545263629836577
+ wireless: 0.013758181782900418
+ wsc: 0.013758181782900418
+
+N-grams list: 10
+ web stream custom
+ nontrivi adapt custom
+ web middlewar architectur
+ nontradi resourcelimit client
+ contentbas custom
+ dynam custom
+ person digit assist
+ import design featur
+ deploy softwar modul
+ applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

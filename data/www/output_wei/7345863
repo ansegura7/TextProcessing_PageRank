@@ -1,0 +1,92 @@
+File name: 7345863
+
+Graph edges count: 34
+ applic - develop: 1
+ applic - web: 1
+ configur - manag: 2
+ control - tool: 1
+ design - decision: 1
+ design - model: 1
+ develop - method: 1
+ engin - lifecycl: 1
+ engin - practic: 1
+ filebas - softwar: 1
+ good - web: 1
+ interrel - web: 1
+ kei - limit: 1
+ largescal - web: 1
+ logic - connec: 1
+ logic - model: 2
+ mainten - process: 1
+ manag - repositori: 1
+ modelbas - object: 2
+ modelbas - version: 1
+ modeltomodel - relat: 1
+ object - web: 1
+ practic - develop: 1
+ softwar - configur: 1
+ structureori - manner: 1
+ version - control: 1
+ web - applic: 2
+ web - artifact: 1
+ web - develop: 2
+ web - docum: 2
+ web - engin: 2
+ web - object: 2
+ web - version: 1
+ wide - varieti: 1
+
+PageRank scores count: 37
+ applic: 0.026156051371207068
+ artifact: 0.01989837273703264
+ configur: 0.03509068557960276
+ connec: 0.017505557432001377
+ control: 0.03383944528307651
+ decision: 0.019437989096572957
+ design: 0.013640694102858217
+ develop: 0.05831583759673728
+ docum: 0.026156051371207068
+ engin: 0.026156051371207068
+ filebas: 0.013640694102858217
+ good: 0.013640694102858217
+ interrel: 0.013640694102858217
+ kei: 0.013640694102858217
+ largescal: 0.013640694102858217
+ lifecycl: 0.02475701645959008
+ limit: 0.025235284090287698
+ logic: 0.013640694102858217
+ mainten: 0.013640694102858217
+ manag: 0.04346777684552056
+ manner: 0.025235284090287698
+ method: 0.06320915908204484
+ model: 0.027167715754859274
+ modelbas: 0.013640694102858217
+ modeltomodel: 0.013640694102858217
+ object: 0.03388577802949339
+ practic: 0.02475701645959008
+ process: 0.025235284090287698
+ relat: 0.025235284090287698
+ repositori: 0.05058830442155069
+ softwar: 0.025235284090287698
+ structureori: 0.013640694102858217
+ tool: 0.04240422247162002
+ varieti: 0.025235284090287698
+ version: 0.0237632360661758
+ web: 0.08834369879488563
+ wide: 0.013640694102858217
+
+N-grams list: 10
+ web applic develop
+ web develop
+ web version control
+ web engin lifecycl
+ modelbas object web
+ interrel web object
+ good web engin
+ largescal web applic
+ web object
+ web docum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

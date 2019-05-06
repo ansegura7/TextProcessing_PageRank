@@ -1,0 +1,83 @@
+File name: 259993
+
+Graph edges count: 29
+ content - dynam: 1
+ coordin - mechan: 2
+ dynam - coordin: 1
+ dynam - parallel: 1
+ dynam - runtim: 1
+ dynam - web: 5
+ effici - develop: 1
+ error - prone: 1
+ execu - servic: 1
+ faulti - servic: 1
+ inform - manag: 6
+ inform - user: 1
+ manag - applic: 2
+ manag - servic: 3
+ manag - task: 1
+ multilevel - lifecycl: 1
+ multipl - execu: 1
+ parallel - spawnsmerg: 1
+ proper - tool: 1
+ rapid - effici: 1
+ runtim - reconfigur: 1
+ servic - branch: 1
+ servic - execu: 1
+ spawnsmerg - multipl: 1
+ tediou - timeconsum: 1
+ tool - support: 1
+ uptod - inform: 1
+ web - content: 6
+ web - resourc: 1
+
+PageRank scores count: 33
+ applic: 0.02201279860641547
+ branch: 0.06388618269296423
+ content: 0.04167881599217075
+ coordin: 0.018387752310526712
+ develop: 0.03400614567490702
+ dynam: 0.04864609942325894
+ effici: 0.024455342856590085
+ error: 0.01321910424680545
+ execu: 0.09596560342324396
+ faulti: 0.01321910424680545
+ inform: 0.024455342856590085
+ lifecycl: 0.024455342856590085
+ manag: 0.03103656832803537
+ mechan: 0.02884869454188506
+ multilevel: 0.01321910424680545
+ multipl: 0.0377404949767997
+ parallel: 0.018387752310526712
+ prone: 0.024455342856590085
+ proper: 0.01321910424680545
+ rapid: 0.01321910424680545
+ reconfigur: 0.02884869454188506
+ resourc: 0.017962389537699665
+ runtim: 0.018387752310526712
+ servic: 0.11921665065948464
+ spawnsmerg: 0.02884869454188506
+ support: 0.03400614567490702
+ task: 0.01761595142661046
+ tediou: 0.01321910424680545
+ timeconsum: 0.024455342856590085
+ tool: 0.024455342856590085
+ uptod: 0.01321910424680545
+ user: 0.016188681593677104
+ web: 0.039062344565411765
+
+N-grams list: 10
+ multipl execu servic
+ servic execu
+ inform manag servic
+ faulti servic
+ dynam web content
+ execu
+ dynam runtim reconfigur
+ dynam parallel spawnsmerg
+ web content
+ inform manag applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

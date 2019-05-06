@@ -1,0 +1,43 @@
+File name: 8933907
+
+Graph edges count: 8
+ applic - interoper: 1
+ catalogu - resourc: 1
+ educ - metadata: 1
+ human - readabl: 1
+ metadata - codevelop: 1
+ metadata - develop: 2
+ semant - web: 1
+ technic - assist: 2
+
+PageRank scores count: 14
+ applic: 0.048373442979804095
+ assist: 0.08949086951263757
+ catalogu: 0.048373442979804095
+ codevelop: 0.08640706252267506
+ develop: 0.08640706252267506
+ educ: 0.048373442979804095
+ human: 0.048373442979804095
+ interoper: 0.08949086951263757
+ metadata: 0.08949086951263757
+ readabl: 0.08949086951263757
+ resourc: 0.08949086951263757
+ semant: 0.048373442979804095
+ technic: 0.048373442979804095
+ web: 0.08949086951263757
+
+N-grams list: 10
+ educ metadata develop
+ metadata codevelop
+ metadata develop
+ catalogu resourc
+ human readabl
+ applic interoper
+ technic assist
+ semant web
+ interoper
+ metadata
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,55 @@
+File name: 11015761
+
+Graph edges count: 12
+ alphanumer - term: 1
+ consecut - sequenc: 1
+ creation - time: 1
+ detec - problem: 2
+ docum - d: 1
+ estim - techniqu: 1
+ fix - amount: 1
+ high - accuraci: 1
+ larg - number: 1
+ origin - detec: 2
+ queri - docum: 1
+ text - segment: 3
+
+PageRank scores count: 22
+ accuraci: 0.05498588200326945
+ alphanumer: 0.02972209838014565
+ amount: 0.05498588200326945
+ consecut: 0.02972209838014565
+ creation: 0.02972209838014565
+ d: 0.07646009808292469
+ detec: 0.05498588200326945
+ docum: 0.05498588200326945
+ estim: 0.02972209838014565
+ fix: 0.02972209838014565
+ high: 0.02972209838014565
+ larg: 0.02972209838014565
+ number: 0.05498588200326945
+ origin: 0.02972209838014565
+ problem: 0.07646009808292469
+ queri: 0.02972209838014565
+ segment: 0.05498588200326945
+ sequenc: 0.05498588200326945
+ techniqu: 0.05498588200326945
+ term: 0.05498588200326945
+ text: 0.02972209838014565
+ time: 0.05498588200326945
+
+N-grams list: 10
+ queri docum d
+ origin detec problem
+ consecut sequenc
+ larg number
+ alphanumer term
+ high accuraci
+ estim techniqu
+ text segment
+ fix amount
+ creation time
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,57 @@
+File name: 8935493
+
+Graph edges count: 14
+ deep - web: 2
+ evalu - measur: 1
+ extrac - method: 1
+ good - varieti: 1
+ inform - extrac: 2
+ result - page: 2
+ result - pageand: 1
+ searchabl - databas: 2
+ search - form: 1
+ search - result: 1
+ static - docum: 1
+ target - data: 2
+ target - inform: 1
+ test - bed: 1
+
+PageRank scores count: 22
+ bed: 0.056266418959248686
+ data: 0.0476490394790034
+ databas: 0.056266418959248686
+ deep: 0.030414280518512804
+ docum: 0.056266418959248686
+ evalu: 0.030414280518512804
+ extrac: 0.06359119151745718
+ form: 0.04334034973888075
+ good: 0.030414280518512804
+ inform: 0.03903165999875809
+ measur: 0.056266418959248686
+ method: 0.08446679330835141
+ page: 0.05497381203721189
+ pageand: 0.042694046277862344
+ result: 0.04334034973888075
+ search: 0.030414280518512804
+ searchabl: 0.030414280518512804
+ static: 0.030414280518512804
+ target: 0.030414280518512804
+ test: 0.030414280518512804
+ varieti: 0.056266418959248686
+ web: 0.056266418959248686
+
+N-grams list: 10
+ extrac method
+ inform extrac
+ result page
+ evalu measur
+ deep web
+ test bed
+ static docum
+ searchabl databas
+ good varieti
+ result pageand
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

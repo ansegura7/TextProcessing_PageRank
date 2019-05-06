@@ -1,0 +1,74 @@
+File name: 396226
+
+Graph edges count: 22
+ advanc - servic: 1
+ classifiersthrough - web: 1
+ classif - techniqu: 1
+ conveni - liveclassifi: 1
+ conven - text: 1
+ empir - evid: 1
+ hierarch - text: 1
+ human - user: 1
+ import - fact: 1
+ inform - extrac: 1
+ inform - servic: 3
+ manuallabel - corpora: 1
+ open - domain: 1
+ person - applic: 1
+ supportedbi - empir: 1
+ text - classif: 2
+ text - classifi: 1
+ themat - inform: 1
+ topic - hierarchi: 1
+ userdefin - topic: 1
+ web - corpora: 2
+ web - inform: 3
+
+PageRank scores count: 31
+ advanc: 0.018822222928055576
+ applic: 0.03482111241690282
+ classif: 0.04042072373799935
+ classifi: 0.04042072373799935
+ classifiersthrough: 0.018822222928055576
+ conven: 0.018822222928055576
+ conveni: 0.018822222928055576
+ corpora: 0.04962008519408651
+ domain: 0.03482111241690282
+ empir: 0.03482111241690282
+ evid: 0.048420168482422976
+ extrac: 0.039910759135542345
+ fact: 0.03482111241690282
+ hierarch: 0.018822222928055576
+ hierarchi: 0.048420168482422976
+ human: 0.018822222928055576
+ import: 0.018822222928055576
+ inform: 0.04962008519408651
+ liveclassifi: 0.03482111241690282
+ manuallabel: 0.018822222928055576
+ open: 0.018822222928055576
+ person: 0.018822222928055576
+ servic: 0.055909648624389574
+ supportedbi: 0.018822222928055576
+ techniqu: 0.05317983810535502
+ text: 0.050820001905750055
+ themat: 0.018822222928055576
+ topic: 0.03482111241690282
+ user: 0.03482111241690282
+ userdefin: 0.018822222928055576
+ web: 0.03482111241690282
+
+N-grams list: 10
+ web inform servic
+ hierarch text classifi
+ conven text classif
+ classifiersthrough web corpora
+ userdefin topic hierarchi
+ supportedbi empir evid
+ text classif
+ inform extrac
+ web corpora
+ advanc servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

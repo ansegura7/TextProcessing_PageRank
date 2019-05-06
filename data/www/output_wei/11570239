@@ -1,0 +1,85 @@
+File name: 11570239
+
+Graph edges count: 26
+ benchmark - dataset: 1
+ block - approach: 1
+ block - techniqu: 1
+ broken - link: 8
+ build - block: 1
+ central - build: 1
+ comprehens - analysi: 1
+ concis - defini: 1
+ data - consum: 1
+ data - idea: 1
+ featur - comparison: 1
+ gener - framework: 1
+ gener - solution: 1
+ heurist - featur: 1
+ instanc - match: 1
+ knowledg - base: 1
+ link - data: 3
+ link - problem: 4
+ machin - actor: 1
+ major - challeng: 1
+ major - threat: 1
+ match - problem: 1
+ structur - link: 1
+ timeintervalbas - block: 2
+ unresolv - issu: 1
+ widespread - adop: 1
+
+PageRank scores count: 38
+ actor: 0.0296675657619109
+ adop: 0.0296675657619109
+ analysi: 0.0296675657619109
+ approach: 0.03936264561376779
+ base: 0.0296675657619109
+ benchmark: 0.01603652203346535
+ block: 0.05488499665953516
+ broken: 0.01603652203346535
+ build: 0.0296675657619109
+ central: 0.01603652203346535
+ challeng: 0.02285204389768812
+ comparison: 0.04125395293108961
+ comprehens: 0.01603652203346535
+ concis: 0.01603652203346535
+ consum: 0.029555596474141525
+ data: 0.03180958691923806
+ dataset: 0.0296675657619109
+ defini: 0.0296675657619109
+ featur: 0.0296675657619109
+ framework: 0.02285204389768812
+ gener: 0.01603652203346535
+ heurist: 0.01603652203346535
+ idea: 0.029555596474141525
+ instanc: 0.01603652203346535
+ issu: 0.0296675657619109
+ knowledg: 0.01603652203346535
+ link: 0.043298609490356445
+ machin: 0.01603652203346535
+ major: 0.01603652203346535
+ match: 0.0296675657619109
+ problem: 0.06228470611211989
+ solution: 0.02285204389768812
+ structur: 0.01603652203346535
+ techniqu: 0.03936264561376779
+ threat: 0.02285204389768812
+ timeintervalbas: 0.01603652203346535
+ unresolv: 0.01603652203346535
+ widespread: 0.01603652203346535
+
+N-grams list: 10
+ broken link problem
+ timeintervalbas block techniqu
+ timeintervalbas block approach
+ instanc match problem
+ link data consum
+ central build block
+ structur link data
+ heurist featur comparison
+ link data
+ problem
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

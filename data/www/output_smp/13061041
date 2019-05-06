@@ -1,0 +1,95 @@
+File name: 13061041
+
+Graph edges count: 32
+ boost - regres: 1
+ current - stateoftheart: 1
+ data - set: 5
+ domain - notori: 1
+ experiment - result: 1
+ good - perform: 1
+ gradient - boost: 1
+ histogram - approxim: 1
+ individu - regres: 1
+ larg - data: 2
+ larg - scale: 1
+ learn - paradigm: 1
+ letor - data: 1
+ linear - speedup: 1
+ masterwork - paradigm: 1
+ master - processor: 1
+ memori - machin: 4
+ perfect - linear: 1
+ rank - data: 1
+ rank - gradient: 1
+ regres - tree: 5
+ scale - web: 1
+ search - rank: 2
+ signific - loss: 1
+ small - amount: 1
+ small - reduc: 1
+ soft - letor: 1
+ stateoftheart - learn: 1
+ tree - creation: 1
+ websearch - rank: 1
+ web - search: 2
+ yahoo - data: 1
+
+PageRank scores count: 42
+ amount: 0.01581222978269065
+ approxim: 0.020528157963493127
+ boost: 0.0377553677109954
+ creation: 0.058546267287631945
+ current: 0.011096301601888176
+ data: 0.06296032599856156
+ domain: 0.011096301601888176
+ experiment: 0.011096301601888176
+ good: 0.011096301601888176
+ gradient: 0.03136360718718497
+ histogram: 0.011096301601888176
+ individu: 0.011096301601888176
+ larg: 0.011096301601888176
+ learn: 0.028545235870857333
+ letor: 0.020528157963493127
+ linear: 0.020528157963493127
+ loss: 0.020528157963493127
+ machin: 0.020528157963493127
+ master: 0.011096301601888176
+ masterwork: 0.011096301601888176
+ memori: 0.011096301601888176
+ notori: 0.020528157963493127
+ paradigm: 0.04479160845372186
+ perfect: 0.011096301601888176
+ perform: 0.020528157963493127
+ processor: 0.020528157963493127
+ rank: 0.04768777784775717
+ reduc: 0.01581222978269065
+ regres: 0.052620220517839204
+ result: 0.020528157963493127
+ scale: 0.01581222978269065
+ search: 0.03195249398148712
+ set: 0.0646125787006655
+ signific: 0.011096301601888176
+ small: 0.011096301601888176
+ soft: 0.011096301601888176
+ speedup: 0.028545235870857333
+ stateoftheart: 0.020528157963493127
+ tree: 0.0558234890420515
+ web: 0.024536696917175225
+ websearch: 0.011096301601888176
+ yahoo: 0.011096301601888176
+
+N-grams list: 10
+ regres tree creation
+ search rank data
+ larg data set
+ yahoo data set
+ data set
+ gradient boost regres
+ individu regres tree
+ regres tree
+ web search rank
+ soft letor data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

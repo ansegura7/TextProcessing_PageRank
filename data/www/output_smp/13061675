@@ -1,0 +1,60 @@
+File name: 13061675
+
+Graph edges count: 16
+ annot - data: 2
+ blog - messag: 2
+ candid - messag: 1
+ data - set: 1
+ initi - classifi: 2
+ larg - dataset: 1
+ low - precision: 1
+ mit - technologi: 1
+ settop - box: 1
+ small - set: 1
+ social - network: 1
+ social - tv: 2
+ technologi - review: 1
+ tv - program: 3
+ tv - social: 1
+ unlabel - messag: 1
+
+PageRank scores count: 23
+ annot: 0.026594667831844415
+ blog: 0.026594667831844415
+ box: 0.049200135488912174
+ candid: 0.026594667831844415
+ classifi: 0.049200135488912174
+ data: 0.049200135488912174
+ dataset: 0.049200135488912174
+ initi: 0.026594667831844415
+ larg: 0.026594667831844415
+ low: 0.026594667831844415
+ messag: 0.09441107080304767
+ mit: 0.026594667831844415
+ network: 0.04625160107328196
+ precision: 0.049200135488912174
+ program: 0.04625160107328196
+ review: 0.06841478299741977
+ set: 0.09102025065448752
+ settop: 0.026594667831844415
+ small: 0.026594667831844415
+ social: 0.04625160107328196
+ technologi: 0.049200135488912174
+ tv: 0.04625160107328196
+ unlabel: 0.026594667831844415
+
+N-grams list: 10
+ annot data set
+ mit technologi review
+ social tv social
+ blog messag
+ candid messag
+ unlabel messag
+ small set
+ messag
+ social network
+ tv program
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

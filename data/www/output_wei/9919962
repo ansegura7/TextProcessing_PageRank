@@ -1,0 +1,53 @@
+File name: 9919962
+
+Graph edges count: 13
+ comput - applic: 1
+ divers - rang: 1
+ epinion - slashdot: 1
+ fundament - principl: 1
+ high - accuraci: 1
+ neg - link: 2
+ onlin - set: 1
+ onlin - social: 2
+ sign - link: 1
+ social - comput: 1
+ social - network: 4
+ social - psychologi: 1
+ surround - social: 1
+
+PageRank scores count: 19
+ accuraci: 0.063803722123294
+ applic: 0.07384011467425734
+ comput: 0.04629601909321595
+ divers: 0.03448849844502378
+ epinion: 0.03448849844502378
+ fundament: 0.03448849844502378
+ high: 0.03448849844502378
+ link: 0.09311894580156421
+ neg: 0.03448849844502378
+ network: 0.08171858103779245
+ onlin: 0.03448849844502378
+ principl: 0.063803722123294
+ psychologi: 0.04629601909321595
+ rang: 0.063803722123294
+ set: 0.04426023967111386
+ sign: 0.03448849844502378
+ slashdot: 0.063803722123294
+ social: 0.08334720457547412
+ surround: 0.03448849844502378
+
+N-grams list: 10
+ social comput applic
+ onlin social network
+ surround social network
+ social network
+ social psychologi
+ sign link
+ neg link
+ high accuraci
+ fundament principl
+ epinion slashdot
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

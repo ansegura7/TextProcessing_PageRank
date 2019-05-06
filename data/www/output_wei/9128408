@@ -1,0 +1,99 @@
+File name: 9128408
+
+Graph edges count: 35
+ applic - domain: 1
+ burn - process: 1
+ commonlyus - network: 1
+ commun - detec: 1
+ commun - profil: 1
+ commun - structur: 4
+ conduct - measur: 1
+ detec - algorithm: 1
+ expand - graph: 1
+ forest - fire: 1
+ gener - model: 2
+ inform - network: 1
+ larg - bodi: 1
+ larg - realworld: 1
+ larg - social: 1
+ larg - spars: 1
+ lowdimension - structur: 1
+ network - commun: 2
+ network - dataset: 1
+ network - gener: 1
+ profil - plot: 1
+ qualit - level: 1
+ realworld - network: 2
+ refin - pictur: 1
+ size - scale: 2
+ small - scale: 1
+ small - social: 1
+ social - network: 1
+ spars - realworld: 1
+ statist - properti: 1
+ strike - find: 1
+ structur - properti: 1
+ structur - similar: 1
+ trivial - commun: 1
+ wide - rang: 2
+
+PageRank scores count: 43
+ algorithm: 0.030122792459206404
+ applic: 0.012657921664905583
+ bodi: 0.01534773001869802
+ burn: 0.012657921664905583
+ commonlyus: 0.012657921664905583
+ commun: 0.055686954013545294
+ conduct: 0.012657921664905583
+ dataset: 0.028792821131640563
+ detec: 0.0205469068168245
+ domain: 0.023417155080075323
+ expand: 0.012657921664905583
+ find: 0.023417155080075323
+ fire: 0.023417155080075323
+ forest: 0.012657921664905583
+ gener: 0.028792821131640563
+ graph: 0.023417155080075323
+ inform: 0.012657921664905583
+ larg: 0.012657921664905583
+ level: 0.023417155080075323
+ lowdimension: 0.012657921664905583
+ measur: 0.023417155080075323
+ model: 0.03713181962680006
+ network: 0.07592893866698816
+ pictur: 0.023417155080075323
+ plot: 0.030122792459206404
+ process: 0.023417155080075323
+ profil: 0.0205469068168245
+ properti: 0.0467807207473695
+ qualit: 0.012657921664905583
+ rang: 0.023417155080075323
+ realworld: 0.028393300534591333
+ refin: 0.012657921664905583
+ scale: 0.028796771787660196
+ similar: 0.03602148733219975
+ size: 0.012657921664905583
+ small: 0.012657921664905583
+ social: 0.020727346726282892
+ spars: 0.01534773001869802
+ statist: 0.012657921664905583
+ strike: 0.012657921664905583
+ structur: 0.05497309568775099
+ trivial: 0.012657921664905583
+ wide: 0.012657921664905583
+
+N-grams list: 10
+ network commun structur
+ network commun profil
+ commonlyus network gener
+ larg realworld network
+ commun structur
+ small social network
+ commun detec algorithm
+ network dataset
+ structur properti
+ inform network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

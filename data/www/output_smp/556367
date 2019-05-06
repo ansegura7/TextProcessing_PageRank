@@ -1,0 +1,52 @@
+File name: 556367
+
+Graph edges count: 12
+ contenti - issu: 1
+ local - modeltheoret: 1
+ modeltheoret - semant: 2
+ numer - propos: 1
+ semant - web: 3
+ singl - mean: 1
+ slight - expan: 1
+ spartan - theori: 1
+ standard - modeltheoret: 1
+ strict - local: 1
+ unifi - singl: 1
+ uri - refer: 1
+
+PageRank scores count: 19
+ contenti: 0.02842776177038151
+ expan: 0.05259135927520579
+ issu: 0.05259135927520579
+ local: 0.05259135927520579
+ mean: 0.07313041715430643
+ modeltheoret: 0.09729401465913072
+ numer: 0.02842776177038151
+ propos: 0.05259135927520579
+ refer: 0.05259135927520579
+ semant: 0.11112767423064261
+ singl: 0.05259135927520579
+ slight: 0.02842776177038151
+ spartan: 0.02842776177038151
+ standard: 0.02842776177038151
+ strict: 0.02842776177038151
+ theori: 0.05259135927520579
+ unifi: 0.02842776177038151
+ uri: 0.02842776177038151
+ web: 0.12288628486642773
+
+N-grams list: 10
+ standard modeltheoret semant
+ semant web
+ strict local modeltheoret
+ unifi singl mean
+ semant
+ slight expan
+ numer propos
+ uri refer
+ spartan theori
+ contenti issu
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

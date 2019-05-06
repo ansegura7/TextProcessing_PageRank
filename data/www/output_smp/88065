@@ -1,0 +1,79 @@
+File name: 88065
+
+Graph edges count: 26
+ comput - model: 1
+ dynam - composi: 1
+ dynam - qo: 1
+ dynam - web: 1
+ fair - comput: 1
+ fair - dynam: 1
+ function - requir: 1
+ hypothet - phone: 1
+ market - place: 1
+ minim - overhead: 1
+ open - fair: 2
+ paradigm - web: 1
+ phone - servic: 1
+ place - applic: 1
+ qo - comput: 2
+ qo - registri: 1
+ qualitydriven - web: 1
+ secur - framework: 1
+ serviceori - comput: 1
+ servic - provid: 1
+ servic - request: 1
+ servic - selec: 3
+ standard - web: 1
+ suffici - trust: 1
+ vast - number: 1
+ web - servic: 7
+
+PageRank scores count: 32
+ applic: 0.04212672925572059
+ composi: 0.024663651102071662
+ comput: 0.053652737821546025
+ dynam: 0.02925126147056595
+ fair: 0.030295218318010922
+ framework: 0.030295218318010922
+ function: 0.01637579368541131
+ hypothet: 0.01637579368541131
+ market: 0.01637579368541131
+ minim: 0.01637579368541131
+ model: 0.06198062083372542
+ number: 0.030295218318010922
+ open: 0.01637579368541131
+ overhead: 0.030295218318010922
+ paradigm: 0.01637579368541131
+ phone: 0.030295218318010922
+ place: 0.030295218318010922
+ provid: 0.044308313912000956
+ qo: 0.024663651102071662
+ qualitydriven: 0.01637579368541131
+ registri: 0.026857845403791766
+ request: 0.044308313912000956
+ requir: 0.030295218318010922
+ secur: 0.01637579368541131
+ selec: 0.044308313912000956
+ servic: 0.09858536550561053
+ serviceori: 0.01637579368541131
+ standard: 0.01637579368541131
+ suffici: 0.01637579368541131
+ trust: 0.030295218318010922
+ vast: 0.01637579368541131
+ web: 0.0664219249998705
+
+N-grams list: 10
+ web servic selec
+ dynam web servic
+ qualitydriven web servic
+ paradigm web servic
+ standard web servic
+ web servic
+ hypothet phone servic
+ servic provid
+ servic request
+ dynam qo comput
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

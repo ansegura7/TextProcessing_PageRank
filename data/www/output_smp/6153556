@@ -1,0 +1,91 @@
+File name: 6153556
+
+Graph edges count: 30
+ ambigu - search: 1
+ author - search: 1
+ balanc - data: 1
+ chemic - formula: 11
+ classif - method: 1
+ condition - random: 1
+ designrank - function: 1
+ engin - todai: 1
+ exact - keyword: 1
+ exact - occurr: 1
+ extract - chemic: 1
+ extrac - work: 1
+ featur - selec: 2
+ formula - extrac: 1
+ formula - search: 3
+ index - chemic: 1
+ index - size: 1
+ keyword - string: 1
+ partial - formula: 1
+ probabilist - model: 1
+ queri - model: 1
+ queri - result: 1
+ random - field: 1
+ redund - featur: 1
+ search - engin: 3
+ selec - method: 1
+ support - vector: 1
+ text - docum: 2
+ tradeoff - tune: 1
+ vector - machin: 1
+
+PageRank scores count: 40
+ ambigu: 0.013036676016472255
+ author: 0.013036676016472255
+ balanc: 0.013036676016472255
+ chemic: 0.029658437937474375
+ classif: 0.013036676016472255
+ condition: 0.013036676016472255
+ data: 0.02411785063047367
+ designrank: 0.013036676016472255
+ docum: 0.02411785063047367
+ engin: 0.0607754151137104
+ exact: 0.013036676016472255
+ extrac: 0.03400087323933618
+ extract: 0.013036676016472255
+ featur: 0.02411785063047367
+ field: 0.033536849052374876
+ formula: 0.04932752287732689
+ function: 0.02411785063047367
+ index: 0.013036676016472255
+ keyword: 0.018577263323472964
+ machin: 0.033536849052374876
+ method: 0.052624172324992315
+ model: 0.029658437937474375
+ occurr: 0.018577263323472964
+ partial: 0.013036676016472255
+ probabilist: 0.013036676016472255
+ queri: 0.013036676016472255
+ random: 0.02411785063047367
+ redund: 0.013036676016472255
+ result: 0.018577263323472964
+ search: 0.056163222467339007
+ selec: 0.033536849052374876
+ size: 0.018577263323472964
+ string: 0.028827349841424276
+ support: 0.013036676016472255
+ text: 0.013036676016472255
+ todai: 0.0646957788631261
+ tradeoff: 0.013036676016472255
+ tune: 0.02411785063047367
+ vector: 0.02411785063047367
+ work: 0.04193741826990801
+
+N-grams list: 10
+ search engin todai
+ chemic formula search
+ chemic formula extrac
+ featur selec method
+ formula search
+ extract chemic formula
+ index chemic formula
+ chemic formula
+ condition random field
+ support vector machin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

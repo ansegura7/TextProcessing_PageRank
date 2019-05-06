@@ -1,0 +1,66 @@
+File name: 4436943
+
+Graph edges count: 19
+ classif - rule: 1
+ crawl - frontier: 1
+ discoveri - techniqu: 1
+ experiment - result: 1
+ firstord - classif: 1
+ firstord - focus: 2
+ focus - crawl: 1
+ focus - crawler: 1
+ focus - web: 1
+ gener - framework: 1
+ interest - featur: 1
+ preliminari - promis: 1
+ promis - experiment: 1
+ relat - rule: 1
+ relat - subgroup: 1
+ relev - clue: 1
+ subgroup - discoveri: 2
+ suffici - support: 1
+ unvisit - page: 1
+
+PageRank scores count: 26
+ classif: 0.03293607800650053
+ clue: 0.04275911881545683
+ crawl: 0.032444925966052716
+ crawler: 0.032444925966052716
+ discoveri: 0.05110870350306969
+ experiment: 0.059458288190682544
+ featur: 0.04275911881545683
+ firstord: 0.023113037197544234
+ focus: 0.03293607800650053
+ framework: 0.04275911881545683
+ frontier: 0.05069122426868904
+ gener: 0.023113037197544234
+ interest: 0.023113037197544234
+ page: 0.04275911881545683
+ preliminari: 0.023113037197544234
+ promis: 0.04275911881545683
+ relat: 0.023113037197544234
+ relev: 0.023113037197544234
+ result: 0.07365258215962439
+ rule: 0.060931744312025984
+ subgroup: 0.03293607800650053
+ suffici: 0.023113037197544234
+ support: 0.04275911881545683
+ techniqu: 0.06655543517515347
+ unvisit: 0.023113037197544234
+ web: 0.032444925966052716
+
+N-grams list: 10
+ subgroup discoveri techniqu
+ preliminari promis experiment
+ firstord classif rule
+ relat subgroup discoveri
+ firstord focus crawler
+ firstord focus crawl
+ relat rule
+ crawl frontier
+ result
+ interest featur
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,41 @@
+File name: 8931011
+
+Graph edges count: 9
+ email - corpu: 1
+ email - servic: 1
+ geograph - origin: 1
+ global - scale: 1
+ hotmail - email: 1
+ junk - email: 1
+ larg - junk: 1
+ spam - email: 1
+ volunt - user: 1
+
+PageRank scores count: 13
+ corpu: 0.12082893050050152
+ email: 0.18333664104530847
+ geograph: 0.04291085805624541
+ global: 0.04291085805624541
+ hotmail: 0.04291085805624541
+ junk: 0.07938508740405399
+ larg: 0.04291085805624541
+ origin: 0.07938508740405399
+ scale: 0.07938508740405399
+ servic: 0.12082893050050152
+ spam: 0.04291085805624541
+ user: 0.07938508740405399
+ volunt: 0.04291085805624541
+
+N-grams list: 8
+ hotmail email servic
+ larg junk email
+ spam email
+ email
+ geograph origin
+ volunt user
+ global scale
+ corpu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

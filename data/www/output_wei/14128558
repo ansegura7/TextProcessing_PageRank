@@ -1,0 +1,63 @@
+File name: 14128558
+
+Graph edges count: 18
+ activ - predic: 1
+ attentionlimit - natur: 1
+ distant - peopl: 1
+ follow - graph: 1
+ forward - activ: 1
+ link - predic: 1
+ media - site: 1
+ network - proxim: 1
+ predic - task: 2
+ proxim - metric: 2
+ similar - action: 1
+ site - digg: 1
+ social - media: 2
+ social - network: 3
+ standard - proxim: 1
+ structur - inform: 1
+ structur - proxim: 1
+ url - forward: 1
+
+PageRank scores count: 24
+ action: 0.04012525042697468
+ activ: 0.05579578741804993
+ attentionlimit: 0.02168932455512145
+ digg: 0.06112376999501552
+ distant: 0.02168932455512145
+ follow: 0.02168932455512145
+ forward: 0.04012525042697468
+ graph: 0.04012525042697468
+ inform: 0.03090728749104807
+ link: 0.02168932455512145
+ media: 0.029063694903862746
+ metric: 0.08729356677011119
+ natur: 0.04012525042697468
+ network: 0.032750880078233395
+ peopl: 0.04012525042697468
+ predic: 0.08755166973231711
+ proxim: 0.07718146142939968
+ similar: 0.02168932455512145
+ site: 0.04639346522340478
+ social: 0.02168932455512145
+ standard: 0.02168932455512145
+ structur: 0.02168932455512145
+ task: 0.09610824382759098
+ url: 0.02168932455512145
+
+N-grams list: 10
+ activ predic task
+ link predic task
+ standard proxim metric
+ proxim metric
+ url forward activ
+ network proxim
+ structur proxim
+ social media site
+ predic
+ metric
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

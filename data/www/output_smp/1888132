@@ -1,0 +1,65 @@
+File name: 1888132
+
+Graph edges count: 19
+ businesstobusi - procur: 1
+ catalog - data: 1
+ catalog - standard: 1
+ commerci - xml: 1
+ electron - businesstobusi: 1
+ electron - product: 2
+ fast - spread: 1
+ gener - model: 1
+ implicit - price: 1
+ indirect - good: 1
+ offic - suppli: 1
+ order - transac: 1
+ price - inform: 2
+ price - model: 3
+ procur - system: 1
+ product - catalog: 3
+ product - essenti: 1
+ simpl - price: 1
+ xml - standard: 1
+
+PageRank scores count: 25
+ businesstobusi: 0.03378030504504411
+ catalog: 0.0380621068687361
+ commerci: 0.023705477224592358
+ data: 0.0398818726438052
+ electron: 0.023705477224592358
+ essenti: 0.0380621068687361
+ fast: 0.023705477224592358
+ gener: 0.023705477224592358
+ good: 0.04385513286549586
+ implicit: 0.023705477224592358
+ indirect: 0.023705477224592358
+ inform: 0.050907512339812076
+ model: 0.07105716798071558
+ offic: 0.023705477224592358
+ order: 0.023705477224592358
+ price: 0.06400478850639936
+ procur: 0.05241873651287984
+ product: 0.03378030504504411
+ simpl: 0.023705477224592358
+ spread: 0.04385513286549586
+ standard: 0.07715873557947668
+ suppli: 0.04385513286549586
+ system: 0.06826140326054023
+ transac: 0.04385513286549586
+ xml: 0.04385513286549586
+
+N-grams list: 10
+ simpl price model
+ implicit price model
+ commerci xml standard
+ price model
+ catalog standard
+ price inform
+ product catalog data
+ electron businesstobusi procur
+ electron product catalog
+ gener model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

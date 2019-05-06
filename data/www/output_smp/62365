@@ -1,0 +1,49 @@
+File name: 62365
+
+Graph edges count: 12
+ abstract - defini: 1
+ activ - depend: 1
+ automat - depend: 1
+ depend - instanti: 1
+ depend - integr: 1
+ depend - model: 3
+ dynam - depend: 2
+ gener - depend: 1
+ model - capabl: 1
+ ontologi - represent: 1
+ reactiv - rule: 2
+ rule - infer: 1
+
+PageRank scores count: 16
+ abstract: 0.03427925019853399
+ activ: 0.03427925019853399
+ automat: 0.03427925019853399
+ capabl: 0.09974119166100107
+ defini: 0.06341661286728788
+ depend: 0.15082870087354955
+ dynam: 0.03427925019853399
+ gener: 0.03427925019853399
+ infer: 0.08818337113572867
+ instanti: 0.07701404877937303
+ integr: 0.07701404877937303
+ model: 0.07701404877937303
+ ontologi: 0.03427925019853399
+ reactiv: 0.03427925019853399
+ represent: 0.06341661286728788
+ rule: 0.06341661286728788
+
+N-grams list: 10
+ dynam depend model
+ activ depend integr
+ automat depend instanti
+ depend model
+ reactiv rule infer
+ gener depend
+ model capabl
+ depend
+ capabl
+ ontologi represent
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

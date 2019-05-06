@@ -1,0 +1,65 @@
+File name: 3605888
+
+Graph edges count: 20
+ automat - web: 1
+ bay - classifi: 1
+ content - inform: 2
+ inform - extrac: 1
+ inform - retriev: 1
+ leaf - segment: 1
+ naiv - bay: 1
+ page - adapt: 1
+ page - segment: 2
+ pretrain - naiv: 1
+ retriev - inform: 1
+ segment - algorithm: 2
+ semant - structur: 3
+ structur - tree: 1
+ uniqu - topic: 1
+ vip - algorithm: 1
+ visual - inform: 3
+ web - applic: 1
+ web - docum: 1
+ web - page: 3
+
+PageRank scores count: 24
+ adapt: 0.033831953405915924
+ algorithm: 0.08157560964543625
+ applic: 0.03129411845772456
+ automat: 0.020531953061382984
+ bay: 0.05281844925040772
+ classifi: 0.06542763492422954
+ content: 0.020531953061382984
+ docum: 0.03129411845772456
+ extrac: 0.06902914972549662
+ inform: 0.11411105804604667
+ leaf: 0.020531953061382984
+ naiv: 0.03798411316355852
+ page: 0.03129411845772456
+ pretrain: 0.020531953061382984
+ retriev: 0.06902914972549662
+ segment: 0.051284113508091464
+ semant: 0.020531953061382984
+ structur: 0.03798411316355852
+ topic: 0.03798411316355852
+ tree: 0.05281844925040772
+ uniqu: 0.020531953061382984
+ vip: 0.020531953061382984
+ visual: 0.020531953061382984
+ web: 0.03798411316355852
+
+N-grams list: 10
+ inform retriev inform
+ page segment algorithm
+ content inform
+ visual inform
+ pretrain naiv bay
+ semant structur tree
+ vip algorithm
+ automat web page
+ algorithm
+ leaf segment
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

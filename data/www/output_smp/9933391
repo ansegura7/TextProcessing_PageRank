@@ -1,0 +1,115 @@
+File name: 9933391
+
+Graph edges count: 44
+ basic - system: 1
+ challeng - due: 1
+ compres - list: 1
+ comput - graphic: 1
+ data - size: 1
+ effici - queri: 2
+ experiment - result: 1
+ formid - perform: 1
+ gpubas - highperform: 1
+ gpubas - system: 2
+ graphic - applic: 1
+ graphic - process: 1
+ graphic - processor: 1
+ heavi - workload: 1
+ highperform - ir: 1
+ high - perform: 2
+ invert - list: 1
+ ir - queri: 1
+ ir - system: 1
+ list - compres: 1
+ list - intersec: 1
+ major - engin: 1
+ massiv - onchip: 1
+ onchip - parallel: 1
+ parallel - system: 1
+ perform - challeng: 1
+ perform - ir: 2
+ problem - domain: 1
+ process - mechan: 1
+ process - perform: 1
+ process - unit: 1
+ process - web: 1
+ prototyp - gpubas: 1
+ queri - load: 1
+ queri - process: 4
+ recent - research: 1
+ scientif - comput: 1
+ search - engin: 1
+ signific - cost: 1
+ signific - gain: 1
+ suitabl - algorithm: 1
+ system - architectur: 1
+ web - page: 1
+ web - search: 1
+
+PageRank scores count: 50
+ algorithm: 0.018019954261184565
+ applic: 0.01684013428286782
+ architectur: 0.06359677209418874
+ basic: 0.009740515816856522
+ challeng: 0.023759114920029623
+ compres: 0.02723914108728919
+ comput: 0.018019954261184565
+ cost: 0.013880235039020543
+ data: 0.009740515816856522
+ domain: 0.018019954261184565
+ due: 0.02993576349888585
+ effici: 0.009740515816856522
+ engin: 0.03223330766718688
+ experiment: 0.009740515816856522
+ formid: 0.009740515816856522
+ gain: 0.013880235039020543
+ gpubas: 0.018019954261184565
+ graphic: 0.025057476938863402
+ heavi: 0.009740515816856522
+ high: 0.009740515816856522
+ highperform: 0.01739899637785996
+ intersec: 0.02723914108728919
+ invert: 0.009740515816856522
+ ir: 0.03854826184121059
+ list: 0.04117321954198874
+ load: 0.024361776172931764
+ major: 0.009740515816856522
+ massiv: 0.009740515816856522
+ mechan: 0.016426062177632587
+ onchip: 0.018019954261184565
+ page: 0.016721592242350786
+ parallel: 0.025057476938863402
+ perform: 0.032984939066288674
+ problem: 0.009740515816856522
+ process: 0.03146139463894306
+ processor: 0.01684013428286782
+ prototyp: 0.009740515816856522
+ queri: 0.03440296554370114
+ recent: 0.009740515816856522
+ research: 0.018019954261184565
+ result: 0.018019954261184565
+ scientif: 0.009740515816856522
+ search: 0.016721592242350786
+ signific: 0.009740515816856522
+ size: 0.018019954261184565
+ suitabl: 0.009740515816856522
+ system: 0.06336030150273847
+ unit: 0.016426062177632587
+ web: 0.016426062177632587
+ workload: 0.018019954261184565
+
+N-grams list: 10
+ basic system architectur
+ queri process perform
+ prototyp gpubas system
+ parallel system
+ queri process web
+ gpubas system
+ high perform ir
+ invert list compres
+ effici queri process
+ gpubas highperform ir
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

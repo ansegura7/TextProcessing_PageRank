@@ -1,0 +1,58 @@
+File name: 4594274
+
+Graph edges count: 14
+ automat - identif: 1
+ browser - interac: 3
+ current - task: 1
+ field - studi: 1
+ highlevel - task: 1
+ implicit - measur: 1
+ individu - model: 1
+ initi - analysi: 1
+ preliminari - explor: 1
+ task - schema: 1
+ task - type: 2
+ user - interest: 1
+ web - browser: 4
+ web - usag: 1
+
+PageRank scores count: 23
+ analysi: 0.05284770576682737
+ automat: 0.028566327441528306
+ browser: 0.04070701660417784
+ current: 0.028566327441528306
+ explor: 0.05284770576682737
+ field: 0.028566327441528306
+ highlevel: 0.028566327441528306
+ identif: 0.05284770576682737
+ implicit: 0.028566327441528306
+ individu: 0.028566327441528306
+ initi: 0.028566327441528306
+ interac: 0.06316729155507947
+ interest: 0.05284770576682737
+ measur: 0.05284770576682737
+ model: 0.05284770576682737
+ preliminari: 0.028566327441528306
+ schema: 0.06134618818068203
+ studi: 0.05284770576682737
+ task: 0.07712908409212642
+ type: 0.06134618818068203
+ usag: 0.04070701660417784
+ user: 0.028566327441528306
+ web: 0.028566327441528306
+
+N-grams list: 10
+ highlevel task schema
+ current task type
+ task type
+ web browser interac
+ individu model
+ automat identif
+ field studi
+ initi analysi
+ user interest
+ preliminari explor
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,87 @@
+File name: 14375496
+
+Graph edges count: 29
+ approxim - distanc: 1
+ approxim - ratio: 2
+ approxim - solution: 1
+ common - case: 1
+ distanc - oracl: 1
+ index - oper: 2
+ larg - scale: 1
+ network - distanc: 1
+ network - docum: 1
+ network - queri: 2
+ network - rich: 1
+ network - twitter: 1
+ open - sourc: 1
+ partition - multiindex: 1
+ preprocess - time: 1
+ process - time: 1
+ queri - keyword: 1
+ realtim - text: 1
+ revers - index: 1
+ search - queri: 2
+ social - index: 2
+ social - network: 2
+ social - search: 3
+ stream - system: 1
+ synthet - network: 1
+ text - updat: 1
+ undirect - network: 2
+ usergener - content: 1
+ worstcas - approxim: 1
+
+PageRank scores count: 37
+ approxim: 0.030048096532120448
+ case: 0.030048096532120448
+ common: 0.01624221434168673
+ content: 0.030048096532120448
+ distanc: 0.02939889135768934
+ docum: 0.023013670844613747
+ index: 0.0339926343008158
+ keyword: 0.05756946525578862
+ larg: 0.01624221434168673
+ multiindex: 0.030048096532120448
+ network: 0.047798516491249526
+ open: 0.01624221434168673
+ oper: 0.045135953497380164
+ oracl: 0.04123127199572267
+ partition: 0.01624221434168673
+ preprocess: 0.01624221434168673
+ process: 0.01624221434168673
+ queri: 0.048620295193061054
+ ratio: 0.029012655367837918
+ realtim: 0.01624221434168673
+ revers: 0.01624221434168673
+ rich: 0.023013670844613747
+ scale: 0.030048096532120448
+ search: 0.022159020994729755
+ social: 0.01624221434168673
+ solution: 0.022627434854762325
+ sourc: 0.030048096532120448
+ stream: 0.01624221434168673
+ synthet: 0.01624221434168673
+ system: 0.030048096532120448
+ text: 0.030048096532120448
+ time: 0.04385397872255417
+ twitter: 0.023013670844613747
+ undirect: 0.01624221434168673
+ updat: 0.04178309639398911
+ usergener: 0.01624221434168673
+ worstcas: 0.01624221434168673
+
+N-grams list: 10
+ queri keyword
+ approxim distanc oracl
+ network queri
+ social index oper
+ realtim text updat
+ social network rich
+ social network twitter
+ social search queri
+ network distanc
+ worstcas approxim ratio
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

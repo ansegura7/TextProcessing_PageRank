@@ -1,0 +1,77 @@
+File name: 369792
+
+Graph edges count: 23
+ addition - complex: 1
+ build - block: 1
+ compon - web: 1
+ composit - servic: 1
+ composit - web: 4
+ decentr - fashion: 1
+ decentr - orchestr: 3
+ decentr - system: 1
+ design - decision: 1
+ error - recoveri: 1
+ fault - handl: 1
+ incorrect - design: 1
+ multipl - compon: 1
+ nonoptim - usag: 1
+ perform - improv: 1
+ perform - result: 1
+ potenti - deadlock: 1
+ respons - time: 1
+ runtim - environ: 1
+ runtim - issu: 1
+ servic - web: 1
+ system - resourc: 1
+ web - servic: 6
+
+PageRank scores count: 33
+ addition: 0.013633884748227593
+ block: 0.02522268678422105
+ build: 0.013633884748227593
+ complex: 0.02522268678422105
+ compon: 0.02522268678422105
+ composit: 0.013633884748227593
+ deadlock: 0.02522268678422105
+ decentr: 0.013633884748227593
+ decision: 0.03507316851481549
+ design: 0.02522268678422105
+ environ: 0.01942828576622432
+ error: 0.013633884748227593
+ fashion: 0.017496818760225415
+ fault: 0.013633884748227593
+ handl: 0.02522268678422105
+ improv: 0.01942828576622432
+ incorrect: 0.013633884748227593
+ issu: 0.01942828576622432
+ multipl: 0.013633884748227593
+ nonoptim: 0.013633884748227593
+ orchestr: 0.017496818760225415
+ perform: 0.013633884748227593
+ potenti: 0.013633884748227593
+ recoveri: 0.02522268678422105
+ resourc: 0.028506180694419195
+ respons: 0.013633884748227593
+ result: 0.01942828576622432
+ runtim: 0.013633884748227593
+ servic: 0.19519178331212503
+ system: 0.017496818760225415
+ time: 0.02522268678422105
+ usag: 0.02522268678422105
+ web: 0.20678058534811847
+
+N-grams list: 10
+ composit web servic
+ web servic
+ multipl compon web
+ composit servic
+ servic
+ design decision
+ system resourc
+ nonoptim usag
+ incorrect design
+ error recoveri
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

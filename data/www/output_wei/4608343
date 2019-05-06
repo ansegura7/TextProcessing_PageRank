@@ -1,0 +1,101 @@
+File name: 4608343
+
+Graph edges count: 36
+ accuraci - level: 1
+ annot - corpu: 1
+ automat - markup: 1
+ context - free: 1
+ core - technologi: 1
+ data - qualiti: 1
+ extrac - grammar: 1
+ extrac - languag: 1
+ extrac - model: 1
+ free - grammar: 1
+ high - accuraci: 1
+ hybrid - approach: 1
+ hybrid - semant: 1
+ hybrid - statist: 1
+ inform - extrac: 2
+ knowledgebas - inform: 1
+ knowledgebas - system: 2
+ legaci - web: 1
+ manual - labor: 1
+ manual - rule: 1
+ migrat - process: 1
+ poor - train: 1
+ raw - content: 1
+ rule - write: 1
+ semant - markup: 1
+ semant - paradigm: 1
+ semant - tag: 2
+ semant - web: 3
+ sentenc - level: 1
+ stochast - context: 1
+ suitabl - set: 1
+ trainabl - extrac: 1
+ train - corpu: 1
+ train - data: 2
+ web - inform: 1
+ web - page: 2
+
+PageRank scores count: 44
+ accuraci: 0.024902325291220388
+ annot: 0.013460716373632643
+ approach: 0.017274586012828556
+ automat: 0.013460716373632643
+ content: 0.024902325291220388
+ context: 0.024902325291220388
+ core: 0.013460716373632643
+ corpu: 0.03195798412373283
+ data: 0.027572034038657524
+ extrac: 0.04709856985763571
+ free: 0.03462769287116997
+ grammar: 0.05623885010712391
+ high: 0.013460716373632643
+ hybrid: 0.013460716373632643
+ inform: 0.02611322890166509
+ knowledgebas: 0.013460716373632643
+ labor: 0.019181520832426517
+ languag: 0.026805311166629427
+ legaci: 0.013460716373632643
+ level: 0.04606930178875772
+ manual: 0.013460716373632643
+ markup: 0.026999953592778143
+ migrat: 0.013460716373632643
+ model: 0.026805311166629427
+ page: 0.03113800215130571
+ paradigm: 0.015558344675190397
+ poor: 0.013460716373632643
+ process: 0.024902325291220388
+ qualiti: 0.03689694530649154
+ raw: 0.013460716373632643
+ rule: 0.019181520832426517
+ semant: 0.017274586012828556
+ sentenc: 0.013460716373632643
+ set: 0.024902325291220388
+ statist: 0.017274586012828556
+ stochast: 0.013460716373632643
+ suitabl: 0.013460716373632643
+ system: 0.021088455652024475
+ tag: 0.017655972976748147
+ technologi: 0.024902325291220388
+ train: 0.024902325291220388
+ trainabl: 0.013460716373632643
+ web: 0.031195210195893653
+ write: 0.029765009081195185
+
+N-grams list: 10
+ trainabl extrac grammar
+ knowledgebas inform extrac
+ high accuraci level
+ semant web page
+ legaci web page
+ extrac languag
+ inform extrac
+ stochast context free
+ poor train data
+ manual rule write
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

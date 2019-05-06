@@ -1,0 +1,94 @@
+File name: 13533362
+
+Graph edges count: 29
+ articl - ctr: 1
+ articl - exposur: 1
+ baselin - method: 1
+ clickthrough - rate: 2
+ content - recommend: 1
+ correl - locat: 1
+ data - analysi: 1
+ dynam - gammapoisson: 1
+ dynam - linear: 1
+ encourag - result: 1
+ exploratori - data: 1
+ exponenti - tilt: 1
+ firstview - ctr: 1
+ fix - locat: 1
+ front - page: 1
+ gammapoisson - model: 1
+ larg - scale: 1
+ linear - regres: 1
+ model - assump: 1
+ perloc - model: 1
+ repeatexposur - featur: 1
+ rigor - exploratori: 1
+ scale - simul: 1
+ signific - improv: 1
+ simul - experi: 1
+ spatiotempor - model: 2
+ todai - modul: 1
+ userspecif - repeatexposur: 1
+ user - fatigu: 1
+
+PageRank scores count: 44
+ analysi: 0.04249523880963989
+ articl: 0.013335500352140551
+ assump: 0.05767020474160382
+ baselin: 0.013335500352140551
+ clickthrough: 0.013335500352140551
+ content: 0.013335500352140551
+ correl: 0.013335500352140551
+ ctr: 0.03033826330111975
+ data: 0.03430557465588156
+ dynam: 0.013335500352140551
+ encourag: 0.013335500352140551
+ experi: 0.04249523880963989
+ exploratori: 0.024670675651460017
+ exponenti: 0.013335500352140551
+ exposur: 0.019003088001800283
+ fatigu: 0.024670675651460017
+ featur: 0.03430557465588156
+ firstview: 0.013335500352140551
+ fix: 0.013335500352140551
+ front: 0.013335500352140551
+ gammapoisson: 0.019003088001800283
+ improv: 0.024670675651460017
+ larg: 0.013335500352140551
+ linear: 0.019003088001800283
+ locat: 0.03600585095077949
+ method: 0.024670675651460017
+ model: 0.05215847575230973
+ modul: 0.024670675651460017
+ page: 0.024670675651460017
+ perloc: 0.013335500352140551
+ rate: 0.024670675651460017
+ recommend: 0.024670675651460017
+ regres: 0.029488125153670795
+ repeatexposur: 0.024670675651460017
+ result: 0.024670675651460017
+ rigor: 0.013335500352140551
+ scale: 0.024670675651460017
+ signific: 0.013335500352140551
+ simul: 0.03430557465588156
+ spatiotempor: 0.013335500352140551
+ tilt: 0.024670675651460017
+ todai: 0.013335500352140551
+ user: 0.013335500352140551
+ userspecif: 0.013335500352140551
+
+N-grams list: 10
+ model assump
+ dynam gammapoisson model
+ userspecif repeatexposur featur
+ larg scale simul
+ rigor exploratori data
+ perloc model
+ spatiotempor model
+ dynam linear regres
+ model
+ fix locat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

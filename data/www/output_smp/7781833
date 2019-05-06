@@ -1,0 +1,58 @@
+File name: 7781833
+
+Graph edges count: 14
+ data - set: 1
+ drive - sale: 1
+ inform - overload: 1
+ larg - data: 1
+ market - penetr: 1
+ movi - rate: 1
+ neverend - quest: 1
+ open - question: 1
+ profit - recommend: 1
+ recommend - algorithm: 1
+ recommend - system: 4
+ shill - attack: 2
+ shill - recommend: 1
+ unscrupul - produc: 1
+
+PageRank scores count: 23
+ algorithm: 0.05618639528655597
+ attack: 0.040707016604177824
+ data: 0.05284770576682735
+ drive: 0.0285663274415283
+ inform: 0.0285663274415283
+ larg: 0.0285663274415283
+ market: 0.0285663274415283
+ movi: 0.0285663274415283
+ neverend: 0.0285663274415283
+ open: 0.0285663274415283
+ overload: 0.05284770576682735
+ penetr: 0.05284770576682735
+ produc: 0.05284770576682735
+ profit: 0.0285663274415283
+ quest: 0.05284770576682735
+ question: 0.05284770576682735
+ rate: 0.05284770576682735
+ recommend: 0.06498839492947688
+ sale: 0.05284770576682735
+ set: 0.07348687734333155
+ shill: 0.0285663274415283
+ system: 0.05618639528655597
+ unscrupul: 0.0285663274415283
+
+N-grams list: 10
+ larg data set
+ profit recommend system
+ shill recommend system
+ recommend system
+ recommend algorithm
+ drive sale
+ unscrupul produc
+ inform overload
+ open question
+ movi rate
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

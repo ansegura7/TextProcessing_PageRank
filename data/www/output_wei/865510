@@ -1,0 +1,62 @@
+File name: 865510
+
+Graph edges count: 17
+ deleteri - implic: 1
+ format - navig: 1
+ inform - retriev: 1
+ link - analysi: 1
+ multipl - page: 1
+ natur - evolu: 1
+ page - templat: 1
+ rank - classif: 1
+ similar - qualiti: 1
+ templat - content: 2
+ templat - extrac: 1
+ templat - materi: 1
+ templat - web: 1
+ text - link: 1
+ total - content: 1
+ uniqu - content: 1
+ web - page: 2
+
+PageRank scores count: 24
+ analysi: 0.062115783863140525
+ classif: 0.04467024301139358
+ content: 0.09603301160768588
+ deleteri: 0.02414607730345599
+ evolu: 0.04467024301139358
+ extrac: 0.03956537874763334
+ format: 0.02414607730345599
+ implic: 0.04467024301139358
+ inform: 0.02414607730345599
+ link: 0.04467024301139358
+ materi: 0.03956537874763334
+ multipl: 0.02414607730345599
+ natur: 0.02414607730345599
+ navig: 0.04467024301139358
+ page: 0.07830081494688193
+ qualiti: 0.04467024301139358
+ rank: 0.02414607730345599
+ retriev: 0.04467024301139358
+ similar: 0.02414607730345599
+ templat: 0.09070177922507654
+ text: 0.02414607730345599
+ total: 0.02414607730345599
+ uniqu: 0.02414607730345599
+ web: 0.03956537874763334
+
+N-grams list: 10
+ web page templat
+ templat content
+ templat extrac
+ templat materi
+ uniqu content
+ total content
+ web page
+ link analysi
+ multipl page
+ content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

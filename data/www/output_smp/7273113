@@ -1,0 +1,53 @@
+File name: 7273113
+
+Graph edges count: 12
+ crawler - access: 1
+ engin - crawler: 1
+ exclusion - protocol: 1
+ previou - survei: 1
+ robot - exclusion: 1
+ scale - studi: 1
+ search - engin: 2
+ signific - prefer: 1
+ txt - file: 1
+ txt - usag: 1
+ unfavor - bia: 1
+ widespread - discus: 1
+
+PageRank scores count: 20
+ access: 0.09917410028282105
+ bia: 0.05757567505533878
+ crawler: 0.08006131031343731
+ discus: 0.05757567505533878
+ engin: 0.05757567505533878
+ exclusion: 0.05757567505533878
+ file: 0.04434883078586907
+ prefer: 0.05757567505533878
+ previou: 0.031121986516399344
+ protocol: 0.08006131031343731
+ robot: 0.031121986516399344
+ scale: 0.031121986516399344
+ search: 0.031121986516399344
+ signific: 0.031121986516399344
+ studi: 0.05757567505533878
+ survei: 0.05757567505533878
+ txt: 0.031121986516399344
+ unfavor: 0.031121986516399344
+ usag: 0.04434883078586907
+ widespread: 0.031121986516399344
+
+N-grams list: 10
+ robot exclusion protocol
+ search engin crawler
+ access
+ scale studi
+ widespread discus
+ signific prefer
+ search engin
+ previou survei
+ unfavor bia
+ crawler
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

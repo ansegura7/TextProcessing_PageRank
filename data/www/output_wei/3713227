@@ -1,0 +1,77 @@
+File name: 3713227
+
+Graph edges count: 24
+ ambigu - queri: 2
+ conven - probabilist: 1
+ conven - retriev: 1
+ conven - texthypertext: 1
+ empir - result: 1
+ firstclass - activ: 1
+ formal - model: 1
+ human - judgment: 1
+ hypermedia - environ: 1
+ inform - retriev: 1
+ larg - web: 1
+ manual - navig: 1
+ nar - paradigm: 1
+ navigationaid - retriev: 4
+ postqueri - navig: 2
+ probabilist - inform: 1
+ rate - scale: 1
+ realworld - applic: 1
+ retriev - model: 1
+ retriev - paradigm: 3
+ retriev - system: 1
+ retriev - user: 1
+ texthypertext - retriev: 1
+ web - corpu: 1
+
+PageRank scores count: 32
+ activ: 0.034461854278282036
+ ambigu: 0.018628029339611912
+ applic: 0.034461854278282036
+ conven: 0.018628029339611912
+ corpu: 0.04792060547615164
+ empir: 0.018628029339611912
+ environ: 0.034461854278282036
+ firstclass: 0.018628029339611912
+ formal: 0.018628029339611912
+ human: 0.018628029339611912
+ hypermedia: 0.018628029339611912
+ inform: 0.038948104677571906
+ judgment: 0.034461854278282036
+ larg: 0.018628029339611912
+ manual: 0.018628029339611912
+ model: 0.047660336978722254
+ nar: 0.018628029339611912
+ navig: 0.050295679216952154
+ navigationaid: 0.018628029339611912
+ paradigm: 0.07405730237960267
+ postqueri: 0.018628029339611912
+ probabilist: 0.023905970985835287
+ queri: 0.034461854278282036
+ rate: 0.018628029339611912
+ realworld: 0.018628029339611912
+ result: 0.034461854278282036
+ retriev: 0.09316576023840152
+ scale: 0.034461854278282036
+ system: 0.03182651204005213
+ texthypertext: 0.023905970985835287
+ user: 0.03182651204005213
+ web: 0.034461854278282036
+
+N-grams list: 10
+ retriev paradigm
+ conven retriev system
+ navigationaid retriev user
+ retriev model
+ conven texthypertext retriev
+ navigationaid retriev
+ larg web corpu
+ nar paradigm
+ conven probabilist inform
+ paradigm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

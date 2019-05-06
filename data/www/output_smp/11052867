@@ -1,0 +1,100 @@
+File name: 11052867
+
+Graph edges count: 37
+ access - live: 1
+ addition - cost: 1
+ approxim - index: 1
+ central - data: 1
+ conjunct - queri: 1
+ current - answer: 1
+ data - principl: 1
+ data - repositori: 1
+ data - sourc: 1
+ data - summari: 1
+ data - typic: 1
+ experiment - result: 1
+ graphstructur - content: 1
+ ideal - queri: 1
+ index - structur: 2
+ larg - amount: 1
+ lightweight - index: 1
+ limit - degre: 1
+ link - data: 5
+ live - sourc: 1
+ ondemand - queri: 1
+ preprocess - phase: 1
+ queri - answer: 1
+ queri - processor: 1
+ queri - result: 2
+ reason - amount: 1
+ satisfi - sourc: 1
+ sourc - adher: 1
+ sourc - rank: 1
+ sourc - summari: 1
+ structur - data: 1
+ structur - web: 1
+ timeconsum - preprocess: 1
+ typic - approach: 1
+ uptod - queri: 1
+ web - data: 1
+ web - resourc: 1
+
+PageRank scores count: 42
+ access: 0.012359032504005567
+ addition: 0.012359032504005567
+ adher: 0.027391909627575185
+ amount: 0.03336938776081503
+ answer: 0.03827180398740391
+ approach: 0.03200887106990396
+ approxim: 0.012359032504005567
+ central: 0.012359032504005567
+ conjunct: 0.012359032504005567
+ content: 0.0228642101324103
+ cost: 0.0228642101324103
+ current: 0.012359032504005567
+ data: 0.06328485077850284
+ degre: 0.0228642101324103
+ experiment: 0.012359032504005567
+ graphstructur: 0.012359032504005567
+ ideal: 0.012359032504005567
+ index: 0.03336938776081503
+ larg: 0.012359032504005567
+ lightweight: 0.012359032504005567
+ limit: 0.012359032504005567
+ link: 0.012359032504005567
+ live: 0.0228642101324103
+ ondemand: 0.012359032504005567
+ phase: 0.03179361111655432
+ preprocess: 0.0228642101324103
+ principl: 0.023117457136351046
+ processor: 0.02776662635899917
+ queri: 0.05437974301762449
+ rank: 0.027391909627575185
+ reason: 0.012359032504005567
+ repositori: 0.023117457136351046
+ resourc: 0.024967215378896568
+ result: 0.03827180398740391
+ satisfi: 0.012359032504005567
+ sourc: 0.053057213377304534
+ structur: 0.04072301210069834
+ summari: 0.03815033425992067
+ timeconsum: 0.012359032504005567
+ typic: 0.023117457136351046
+ uptod: 0.012359032504005567
+ web: 0.02966631264680236
+
+N-grams list: 10
+ structur web data
+ data typic approach
+ data sourc
+ uptod queri result
+ structur data
+ data summari
+ link data principl
+ central data repositori
+ satisfi sourc rank
+ queri answer
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,86 @@
+File name: 13061836
+
+Graph edges count: 27
+ agnost - index: 1
+ busi - intellig: 1
+ dataformat - agnost: 1
+ data - analyst: 1
+ data - analyt: 1
+ data - sourc: 1
+ difficult - task: 1
+ enterpr - data: 1
+ extern - data: 1
+ extern - knowledg: 1
+ helix - project: 1
+ highqual - open: 1
+ index - integr: 1
+ index - mechan: 1
+ initi - architectur: 1
+ intellig - specialist: 1
+ intern - data: 1
+ invalu - insight: 1
+ knowledg - base: 1
+ lightweight - data: 1
+ massiv - increas: 1
+ onlin - analysi: 1
+ onlin - enterpr: 1
+ open - data: 1
+ relat - record: 1
+ research - challeng: 1
+ size - heterogen: 1
+
+PageRank scores count: 38
+ agnost: 0.028418227989074334
+ analysi: 0.021889716153746446
+ analyst: 0.041078100523080995
+ analyt: 0.041078100523080995
+ architectur: 0.028418227989074334
+ base: 0.03396746304910303
+ busi: 0.015361204318418559
+ challeng: 0.028418227989074334
+ data: 0.09076551601645566
+ dataformat: 0.015361204318418559
+ difficult: 0.015361204318418559
+ enterpr: 0.021889716153746446
+ extern: 0.015361204318418559
+ helix: 0.015361204318418559
+ heterogen: 0.028418227989074334
+ highqual: 0.015361204318418559
+ increas: 0.028418227989074334
+ index: 0.03951669810913174
+ initi: 0.015361204318418559
+ insight: 0.028418227989074334
+ integr: 0.03215580101479955
+ intellig: 0.028418227989074334
+ intern: 0.015361204318418559
+ invalu: 0.015361204318418559
+ knowledg: 0.021889716153746446
+ lightweight: 0.015361204318418559
+ massiv: 0.015361204318418559
+ mechan: 0.03215580101479955
+ onlin: 0.015361204318418559
+ open: 0.028418227989074334
+ project: 0.028418227989074334
+ record: 0.028418227989074334
+ relat: 0.015361204318418559
+ research: 0.015361204318418559
+ size: 0.015361204318418559
+ sourc: 0.041078100523080995
+ specialist: 0.03951669810913174
+ task: 0.028418227989074334
+
+N-grams list: 10
+ extern data sourc
+ highqual open data
+ data analyst
+ onlin enterpr data
+ intern data
+ lightweight data
+ data
+ dataformat agnost index
+ busi intellig specialist
+ index integr
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

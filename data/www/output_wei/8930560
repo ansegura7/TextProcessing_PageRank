@@ -1,0 +1,105 @@
+File name: 8930560
+
+Graph edges count: 37
+ chang - monitor: 1
+ coher - framework: 1
+ comprehens - monitor: 1
+ content - structur: 1
+ data - size: 1
+ digest - encod: 1
+ effici - web: 1
+ evalu - linear: 1
+ fresh - inform: 1
+ individu - page: 1
+ inform - monitor: 1
+ inform - overload: 1
+ interest - properti: 1
+ largescal - monitor: 1
+ linear - time: 1
+ magnitud - speed: 1
+ main - contribu: 1
+ monitor - request: 1
+ monitor - system: 3
+ onlin - inform: 1
+ page - digest: 3
+ page - monitor: 1
+ publish - explosion: 1
+ redund - process: 1
+ shortcircuit - evalu: 1
+ side - effect: 1
+ similar - monitor: 1
+ size - reduc: 1
+ structur - similar: 1
+ time - algorithm: 1
+ unfortun - side: 1
+ webbas - inform: 1
+ web - chang: 1
+ web - docum: 3
+ wide - rang: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 47
+ algorithm: 0.03939011970789836
+ chang: 0.01657123173472345
+ coher: 0.010621201476393309
+ comprehens: 0.010621201476393309
+ content: 0.010621201476393309
+ contribu: 0.01964922273132762
+ data: 0.010621201476393309
+ digest: 0.023147580967614666
+ docum: 0.028471292251383746
+ effect: 0.027323040798021784
+ effici: 0.010621201476393309
+ encod: 0.03029664529886577
+ evalu: 0.01964922273132762
+ explosion: 0.01964922273132762
+ framework: 0.01964922273132762
+ fresh: 0.010621201476393309
+ individu: 0.010621201476393309
+ inform: 0.037705265241196245
+ interest: 0.010621201476393309
+ largescal: 0.010621201476393309
+ linear: 0.027323040798021784
+ magnitud: 0.010621201476393309
+ main: 0.010621201476393309
+ monitor: 0.0861875731970109
+ onlin: 0.010621201476393309
+ overload: 0.02664593920390171
+ page: 0.01964922273132762
+ process: 0.01964922273132762
+ properti: 0.01964922273132762
+ publish: 0.010621201476393309
+ rang: 0.01897212113720755
+ reduc: 0.027323040798021784
+ redund: 0.010621201476393309
+ request: 0.028936060780758124
+ shortcircuit: 0.010621201476393309
+ side: 0.01964922273132762
+ similar: 0.027323040798021784
+ size: 0.01964922273132762
+ speed: 0.01964922273132762
+ structur: 0.01964922273132762
+ system: 0.06556577938948777
+ time: 0.03384578615471183
+ unfortun: 0.010621201476393309
+ web: 0.02800014239214186
+ webbas: 0.010621201476393309
+ wide: 0.01964922273132762
+ world: 0.010621201476393309
+
+N-grams list: 10
+ largescal monitor system
+ comprehens monitor system
+ similar monitor request
+ webbas inform monitor
+ individu page monitor
+ monitor
+ time algorithm
+ page digest encod
+ system
+ inform overload
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

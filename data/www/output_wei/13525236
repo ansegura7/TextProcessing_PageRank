@@ -1,0 +1,49 @@
+File name: 13525236
+
+Graph edges count: 12
+ conven - text: 1
+ experiment - result: 1
+ imag - spam: 4
+ invari - featur: 2
+ kernel - function: 1
+ kernel - imag: 1
+ local - invari: 2
+ match - kernel: 2
+ oneclass - svm: 1
+ pyramid - match: 2
+ spam - filter: 1
+ svm - classifi: 1
+
+PageRank scores count: 17
+ classifi: 0.07965417508998844
+ conven: 0.030963722095233605
+ experiment: 0.030963722095233605
+ featur: 0.07965417508998844
+ filter: 0.10411298522855801
+ function: 0.06481674650847868
+ imag: 0.06481674650847868
+ invari: 0.05728288587618217
+ kernel: 0.07965417508998844
+ local: 0.030963722095233605
+ match: 0.05728288587618217
+ oneclass: 0.030963722095233605
+ pyramid: 0.030963722095233605
+ result: 0.05728288587618217
+ spam: 0.08605795662744048
+ svm: 0.05728288587618217
+ text: 0.05728288587618217
+
+N-grams list: 9
+ spam filter
+ local invari featur
+ oneclass svm classifi
+ pyramid match kernel
+ imag spam
+ kernel function
+ experiment result
+ conven text
+ imag
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

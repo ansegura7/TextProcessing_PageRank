@@ -1,0 +1,73 @@
+File name: 4495400
+
+Graph edges count: 22
+ crawler - space: 1
+ crawler - system: 1
+ crawler - trap: 1
+ effect - mechan: 1
+ effect - webscal: 1
+ focus - crawl: 1
+ fullweb - crawl: 1
+ futur - effort: 1
+ gener - area: 1
+ gener - util: 1
+ indepth - opinion: 1
+ individu - web: 1
+ low - qualiti: 1
+ pagelevel - analyt: 1
+ qualiti - websit: 2
+ rel - minimum: 1
+ webscal - crawl: 2
+ websit - analysi: 1
+ web - crawler: 1
+ web - page: 3
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 30
+ analysi: 0.06338995455215271
+ analyt: 0.03680113471823089
+ area: 0.028346819985664337
+ crawl: 0.0778045611711787
+ crawler: 0.0343599513392023
+ effect: 0.01989250525309778
+ effort: 0.03680113471823089
+ focus: 0.01989250525309778
+ fullweb: 0.01989250525309778
+ futur: 0.01989250525309778
+ gener: 0.01989250525309778
+ indepth: 0.01989250525309778
+ individu: 0.01989250525309778
+ low: 0.01989250525309778
+ mechan: 0.028346819985664337
+ minimum: 0.03680113471823089
+ opinion: 0.03680113471823089
+ page: 0.06329484351141135
+ pagelevel: 0.01989250525309778
+ qualiti: 0.03680113471823089
+ rel: 0.01989250525309778
+ space: 0.029627824799205102
+ system: 0.029627824799205102
+ trap: 0.029627824799205102
+ util: 0.028346819985664337
+ web: 0.06808209922872716
+ webscal: 0.028346819985664337
+ websit: 0.05117346976359404
+ wide: 0.03680113471823089
+ world: 0.01989250525309778
+
+N-grams list: 10
+ individu web page
+ web crawler space
+ web page
+ effect webscal crawl
+ world wide web
+ websit analysi
+ low qualiti websit
+ webscal crawl
+ fullweb crawl
+ focus crawl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

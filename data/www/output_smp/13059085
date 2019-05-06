@@ -1,0 +1,78 @@
+File name: 13059085
+
+Graph edges count: 21
+ compres - framework: 1
+ gener - social: 1
+ graph - compres: 1
+ label - propag: 2
+ larg - graph: 1
+ layer - label: 2
+ lexicograph - url: 1
+ long - time: 1
+ main - memori: 1
+ major - increas: 1
+ multicor - architectur: 1
+ multiresolu - coordinatefre: 1
+ on - node: 1
+ previou - work: 1
+ proper - sens: 1
+ scalabl - cluster: 1
+ social - network: 5
+ task - decomposi: 1
+ webgraph - compres: 1
+ web - graph: 3
+ wide - arrai: 1
+
+PageRank scores count: 36
+ architectur: 0.031137835415500727
+ arrai: 0.031137835415500727
+ cluster: 0.031137835415500727
+ compres: 0.0697655825931084
+ coordinatefre: 0.031137835415500727
+ decomposi: 0.031137835415500727
+ framework: 0.07613200759089929
+ gener: 0.01683126238675715
+ graph: 0.045444408444244314
+ increas: 0.031137835415500727
+ label: 0.031137835415500727
+ larg: 0.01683126238675715
+ layer: 0.01683126238675715
+ lexicograph: 0.01683126238675715
+ long: 0.01683126238675715
+ main: 0.01683126238675715
+ major: 0.01683126238675715
+ memori: 0.031137835415500727
+ multicor: 0.01683126238675715
+ multiresolu: 0.01683126238675715
+ network: 0.04329842248993277
+ node: 0.031137835415500727
+ on: 0.01683126238675715
+ previou: 0.01683126238675715
+ propag: 0.04329842248993277
+ proper: 0.01683126238675715
+ scalabl: 0.01683126238675715
+ sens: 0.031137835415500727
+ social: 0.031137835415500727
+ task: 0.01683126238675715
+ time: 0.031137835415500727
+ url: 0.031137835415500727
+ web: 0.01683126238675715
+ webgraph: 0.01683126238675715
+ wide: 0.01683126238675715
+ work: 0.031137835415500727
+
+N-grams list: 10
+ webgraph compres framework
+ graph compres
+ layer label propag
+ gener social network
+ social network
+ compres
+ web graph
+ larg graph
+ multiresolu coordinatefre
+ multicor architectur
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

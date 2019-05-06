@@ -1,0 +1,119 @@
+File name: 11624616
+
+Graph edges count: 46
+ advertiserspecif - user: 1
+ advertis - data: 2
+ ad - campaign: 2
+ ad - event: 1
+ ad - impres: 1
+ ad - path: 1
+ aggreg - step: 1
+ alloc - decision: 1
+ altern - data: 1
+ anonym - userlevel: 1
+ behavior - pattern: 1
+ brand - awar: 1
+ budget - alloc: 1
+ campaign - ad: 1
+ campaign - record: 1
+ clickthrough - rate: 1
+ conver - rate: 1
+ data - mine: 1
+ global - role: 1
+ graph - structur: 1
+ individu - user: 1
+ local - algorithm: 1
+ local - correl: 1
+ longterm - behavior: 1
+ longterm - effect: 1
+ mapreduc - program: 1
+ mine - advertiserspecif: 1
+ mine - framework: 1
+ onlin - ad: 1
+ popular - report: 1
+ pregel - framework: 1
+ program - model: 1
+ record - user: 1
+ report - measur: 1
+ report - statist: 1
+ report - step: 1
+ scalabl - local: 1
+ search - campaign: 1
+ sophist - longterm: 1
+ statist - fit: 1
+ structur - correl: 1
+ userlevel - advertis: 1
+ userlevel - dataset: 1
+ user - behavior: 2
+ user - conver: 2
+ user - histori: 1
+
+PageRank scores count: 52
+ ad: 0.029148571646907474
+ advertis: 0.016896351320543387
+ advertiserspecif: 0.024989127927013046
+ aggreg: 0.009459119003803156
+ algorithm: 0.016896351320543387
+ alloc: 0.017499370157035836
+ altern: 0.009459119003803156
+ anonym: 0.009459119003803156
+ awar: 0.017499370157035836
+ behavior: 0.0361683009078209
+ brand: 0.009459119003803156
+ budget: 0.009459119003803156
+ campaign: 0.027409884857374393
+ clickthrough: 0.009459119003803156
+ conver: 0.02873106859108067
+ correl: 0.031770815954023854
+ data: 0.031861268779497715
+ dataset: 0.016896351320543387
+ decision: 0.024333583637283617
+ effect: 0.016896351320543387
+ event: 0.014414376353972433
+ fit: 0.02171380180318864
+ framework: 0.03302937908024573
+ global: 0.009459119003803156
+ graph: 0.009459119003803156
+ histori: 0.019095093797441915
+ impres: 0.014414376353972433
+ individu: 0.009459119003803156
+ local: 0.017499370157035836
+ longterm: 0.017499370157035836
+ mapreduc: 0.009459119003803156
+ measur: 0.014417273881629979
+ mine: 0.03654119746637621
+ model: 0.024333583637283617
+ onlin: 0.009459119003803156
+ path: 0.014414376353972433
+ pattern: 0.04020217647740098
+ popular: 0.009459119003803156
+ pregel: 0.009459119003803156
+ program: 0.017499370157035836
+ rate: 0.04192078016140447
+ record: 0.021108320493674792
+ report: 0.017499370157035836
+ role: 0.017499370157035836
+ scalabl: 0.009459119003803156
+ search: 0.009459119003803156
+ sophist: 0.009459119003803156
+ statist: 0.014417273881629979
+ step: 0.02245752503486266
+ structur: 0.017499370157035836
+ user: 0.056682202165595524
+ userlevel: 0.017499370157035836
+
+N-grams list: 10
+ mine advertiserspecif user
+ campaign record user
+ longterm behavior pattern
+ user behavior
+ user conver
+ individu user histori
+ altern data mine
+ conver rate
+ userlevel advertis data
+ onlin ad campaign
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

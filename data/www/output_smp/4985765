@@ -1,0 +1,84 @@
+File name: 4985765
+
+Graph edges count: 25
+ comput - applic: 1
+ comput - scienc: 1
+ data - repositori: 1
+ depart - web: 1
+ domain - specif: 1
+ engin - requir: 1
+ experiment - result: 1
+ extract - metadata: 1
+ extrac - averag: 1
+ home - page: 1
+ human - ey: 1
+ individu - faculti: 1
+ instanc - extrac: 2
+ instanc - inform: 1
+ linkag - regular: 1
+ meaning - inform: 1
+ meteor - system: 1
+ object - referr: 1
+ public - data: 1
+ referr - list: 2
+ scienc - depart: 1
+ specif - engin: 1
+ univers - domain: 1
+ vast - major: 1
+ web - site: 1
+
+PageRank scores count: 38
+ applic: 0.021505393585723964
+ averag: 0.03337108881854885
+ comput: 0.015091504270683483
+ data: 0.027919282900764446
+ depart: 0.03337108881854885
+ domain: 0.027919282900764446
+ engin: 0.04809096479656675
+ experiment: 0.015091504270683483
+ extrac: 0.021505393585723964
+ extract: 0.015091504270683483
+ ey: 0.027919282900764446
+ faculti: 0.027919282900764446
+ home: 0.015091504270683483
+ human: 0.015091504270683483
+ individu: 0.015091504270683483
+ inform: 0.034333172215804925
+ instanc: 0.015091504270683483
+ linkag: 0.015091504270683483
+ list: 0.03882289473633326
+ major: 0.027919282900764446
+ meaning: 0.015091504270683483
+ metadata: 0.027919282900764446
+ meteor: 0.015091504270683483
+ object: 0.015091504270683483
+ page: 0.027919282900764446
+ public: 0.015091504270683483
+ referr: 0.027919282900764446
+ regular: 0.027919282900764446
+ repositori: 0.03882289473633326
+ requir: 0.05596882434776523
+ result: 0.027919282900764446
+ scienc: 0.021505393585723964
+ site: 0.05202989457216599
+ specif: 0.03882289473633326
+ system: 0.027919282900764446
+ univers: 0.015091504270683483
+ vast: 0.015091504270683483
+ web: 0.043456929766450006
+
+N-grams list: 10
+ domain specif engin
+ web site
+ object referr list
+ public data repositori
+ comput scienc depart
+ instanc extrac averag
+ referr list
+ requir
+ instanc inform
+ meaning inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

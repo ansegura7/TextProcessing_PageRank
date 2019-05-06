@@ -1,0 +1,47 @@
+File name: 9466892
+
+Graph edges count: 10
+ common - physic: 1
+ comput - devic: 1
+ physic - object: 1
+ relev - compon: 1
+ small - devic: 1
+ success - man: 1
+ system - vertic: 1
+ vertic - structur: 1
+ web - resid: 1
+ web - similar: 1
+
+PageRank scores count: 16
+ common: 0.039848575413428976
+ compon: 0.0737198645148436
+ comput: 0.039848575413428976
+ devic: 0.10759115361625822
+ man: 0.0737198645148436
+ object: 0.10251046025104603
+ physic: 0.0737198645148436
+ relev: 0.039848575413428976
+ resid: 0.05678421996413629
+ similar: 0.05678421996413629
+ small: 0.039848575413428976
+ structur: 0.10251046025104603
+ success: 0.039848575413428976
+ system: 0.039848575413428976
+ vertic: 0.0737198645148436
+ web: 0.039848575413428976
+
+N-grams list: 10
+ system vertic structur
+ common physic object
+ small devic
+ comput devic
+ relev compon
+ success man
+ web resid
+ web similar
+ system
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

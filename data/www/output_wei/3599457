@@ -1,0 +1,48 @@
+File name: 3599457
+
+Graph edges count: 11
+ collectionspecif - coverag: 1
+ collec - order: 1
+ collec - selec: 4
+ experiment - result: 1
+ improv - text: 1
+ inform - retriev: 1
+ realworld - applic: 1
+ retriev - process: 1
+ selec - approach: 1
+ selec - system: 1
+ text - collec: 3
+
+PageRank scores count: 16
+ applic: 0.06626423382606464
+ approach: 0.0776707262166024
+ collec: 0.09214310352300069
+ collectionspecif: 0.03581850477084575
+ coverag: 0.06626423382606464
+ experiment: 0.03581850477084575
+ improv: 0.03581850477084575
+ inform: 0.03581850477084575
+ order: 0.05148283236975587
+ process: 0.09214310352300069
+ realworld: 0.03581850477084575
+ result: 0.06626423382606464
+ retriev: 0.06626423382606464
+ selec: 0.09847581516648622
+ system: 0.0776707262166024
+ text: 0.06626423382606464
+
+N-grams list: 10
+ collec selec system
+ collec selec approach
+ inform retriev process
+ improv text collec
+ collec selec
+ text collec
+ collec order
+ realworld applic
+ collectionspecif coverag
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

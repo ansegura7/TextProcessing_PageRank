@@ -1,0 +1,90 @@
+File name: 92124
+
+Graph edges count: 32
+ abstract - syntax: 1
+ basic - syntax: 1
+ claus - rule: 1
+ coher - manner: 1
+ consider - express: 1
+ consist - problem: 1
+ exchang - syntax: 1
+ express - limit: 1
+ express - power: 2
+ formal - mean: 1
+ horn - claus: 1
+ modeltheoret - semant: 1
+ ontologi - consist: 1
+ ontologi - languag: 1
+ orl - rule: 4
+ owldl - modeltheoret: 1
+ owlweb - ontologi: 1
+ owl - dl: 1
+ owl - rdfxml: 1
+ owl - rule: 2
+ owl - xml: 1
+ present - syntax: 1
+ rdfxml - exchang: 1
+ rdf - graph: 1
+ reason - support: 1
+ rule - exten: 1
+ rule - languag: 2
+ semant - web: 1
+ syntax - basedon: 1
+ wepres - orl: 1
+ xml - present: 1
+ xml - syntax: 1
+
+PageRank scores count: 37
+ abstract: 0.013740580906932098
+ basedon: 0.0857474338842536
+ basic: 0.013740580906932098
+ claus: 0.02542007467782438
+ coher: 0.013740580906932098
+ consider: 0.013740580906932098
+ consist: 0.024544112645007457
+ dl: 0.016076479661110556
+ exchang: 0.02740558861887607
+ express: 0.02542007467782438
+ exten: 0.031201424094416057
+ formal: 0.013740580906932098
+ graph: 0.02542007467782438
+ horn: 0.013740580906932098
+ languag: 0.05946579901997539
+ limit: 0.02094293539898234
+ manner: 0.02542007467782438
+ mean: 0.02542007467782438
+ modeltheoret: 0.02542007467782438
+ ontologi: 0.02542007467782438
+ orl: 0.02542007467782438
+ owl: 0.013740580906932098
+ owldl: 0.013740580906932098
+ owlweb: 0.013740580906932098
+ power: 0.028145289891032575
+ present: 0.020573084762904082
+ problem: 0.03460307665518844
+ rdf: 0.013740580906932098
+ rdfxml: 0.016076479661110556
+ reason: 0.013740580906932098
+ rule: 0.061626505367590456
+ semant: 0.03534764438308282
+ support: 0.02542007467782438
+ syntax: 0.08471394467920178
+ web: 0.043786078632552496
+ wepres: 0.013740580906932098
+ xml: 0.016076479661110556
+
+N-grams list: 10
+ xml syntax basedon
+ owl rule languag
+ horn claus rule
+ owlweb ontologi languag
+ abstract syntax
+ basic syntax
+ orl rule
+ syntax
+ ontologi consist problem
+ semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

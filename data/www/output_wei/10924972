@@ -1,0 +1,99 @@
+File name: 10924972
+
+Graph edges count: 35
+ basket - data: 1
+ bayesian - person: 1
+ common - markov: 1
+ common - matrix: 1
+ factor - model: 1
+ fpmc - model: 1
+ gener - tast: 1
+ hand - mc: 1
+ import - compon: 1
+ interac - model: 1
+ markov - chain: 4
+ matrix - factor: 3
+ mc - method: 1
+ mc - model: 1
+ mf - method: 1
+ model - paramet: 1
+ nextbasket - recommend: 1
+ normal - matrix: 1
+ pairwis - interac: 1
+ person - mc: 1
+ person - rank: 1
+ person - transition: 1
+ popular - approach: 1
+ recent - action: 1
+ recommend - recommend: 1
+ recommend - system: 1
+ sequenti - basket: 1
+ sequenti - behavior: 1
+ special - case: 1
+ transition - cube: 2
+ transition - graph: 2
+ transition - matrix: 1
+ tucker - decomposi: 1
+ unperson - mc: 1
+ useritem - prefer: 1
+
+PageRank scores count: 43
+ action: 0.022846312998374307
+ approach: 0.022846312998374307
+ basket: 0.017597835687936967
+ bayesian: 0.012349358377499627
+ behavior: 0.017597835687936967
+ case: 0.022846312998374307
+ chain: 0.02730751871224605
+ common: 0.012349358377499627
+ compon: 0.022846312998374307
+ cube: 0.01874900171135956
+ data: 0.02730751871224605
+ decomposi: 0.022846312998374307
+ factor: 0.03894977855688
+ fpmc: 0.012349358377499627
+ gener: 0.012349358377499627
+ graph: 0.01874900171135956
+ hand: 0.012349358377499627
+ import: 0.012349358377499627
+ interac: 0.022846312998374307
+ markov: 0.017597835687936967
+ matrix: 0.03129461197574162
+ mc: 0.03981638963545505
+ method: 0.0397682785934427
+ mf: 0.012349358377499627
+ model: 0.09229495641540886
+ nextbasket: 0.012349358377499627
+ normal: 0.012349358377499627
+ pairwis: 0.012349358377499627
+ paramet: 0.09080007133059716
+ person: 0.022846312998374307
+ popular: 0.012349358377499627
+ prefer: 0.022846312998374307
+ rank: 0.01882248039370568
+ recent: 0.012349358377499627
+ recommend: 0.03973272500602677
+ sequenti: 0.012349358377499627
+ special: 0.012349358377499627
+ system: 0.029235770385152085
+ tast: 0.022846312998374307
+ transition: 0.01882248039370568
+ tucker: 0.012349358377499627
+ unperson: 0.012349358377499627
+ useritem: 0.012349358377499627
+
+N-grams list: 10
+ model paramet
+ unperson mc model
+ pairwis interac model
+ fpmc model
+ model
+ hand mc method
+ nextbasket recommend recommend
+ common matrix factor
+ normal matrix factor
+ matrix factor
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

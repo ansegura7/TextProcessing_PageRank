@@ -1,0 +1,61 @@
+File name: 13058990
+
+Graph edges count: 18
+ bagofword - model: 1
+ grammat - structur: 1
+ mutual - inform: 1
+ pointwis - mutual: 1
+ queri - log: 2
+ queri - segment: 2
+ rare - unit: 1
+ search - queri: 1
+ segment - queri: 1
+ segment - scheme: 1
+ signific - word: 1
+ statist - model: 1
+ structur - unit: 1
+ syntact - structur: 1
+ uniqu - syntact: 1
+ unsupervis - queri: 2
+ web - search: 1
+ word - ngram: 1
+
+PageRank scores count: 22
+ bagofword: 0.022032869609175863
+ grammat: 0.022032869609175863
+ inform: 0.056679557069604904
+ log: 0.06600281736659713
+ model: 0.05948874794477483
+ mutual: 0.04076080877697534
+ ngram: 0.056679557069604904
+ pointwis: 0.022032869609175863
+ queri: 0.1034586957021961
+ rare: 0.022032869609175863
+ scheme: 0.050084069073967584
+ search: 0.04076080877697534
+ segment: 0.06600281736659713
+ signific: 0.022032869609175863
+ statist: 0.022032869609175863
+ structur: 0.07540749623740439
+ syntact: 0.04076080877697534
+ uniqu: 0.022032869609175863
+ unit: 0.10485718057876908
+ unsupervis: 0.022032869609175863
+ web: 0.022032869609175863
+ word: 0.04076080877697534
+
+N-grams list: 10
+ unsupervis queri segment
+ structur unit
+ segment queri
+ queri log
+ web search queri
+ uniqu syntact structur
+ rare unit
+ pointwis mutual inform
+ signific word ngram
+ queri
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

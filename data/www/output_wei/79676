@@ -1,0 +1,74 @@
+File name: 79676
+
+Graph edges count: 24
+ architectur - framework: 1
+ architectur - ltsa: 1
+ architectur - pattern: 1
+ assembli - coursewar: 1
+ coursewar - architectur: 1
+ coursewar - system: 1
+ deliveri - function: 1
+ educ - web: 1
+ finer - degre: 1
+ gener - architectur: 1
+ interoper - implement: 1
+ learn - technologi: 1
+ ltsa - approach: 1
+ metadata - annot: 1
+ object - discoveri: 1
+ philosophi - work: 1
+ recent - develop: 1
+ servic - architectur: 1
+ servic - framework: 1
+ servic - philosophi: 1
+ standard - architectur: 1
+ technologi - standard: 1
+ web - servic: 4
+ web - technologi: 1
+
+PageRank scores count: 29
+ annot: 0.033472969594007376
+ approach: 0.058266666980087055
+ architectur: 0.10294960852351427
+ assembli: 0.018093497077841823
+ coursewar: 0.033472969594007376
+ degre: 0.033472969594007376
+ deliveri: 0.018093497077841823
+ develop: 0.033472969594007376
+ discoveri: 0.033472969594007376
+ educ: 0.018093497077841823
+ finer: 0.018093497077841823
+ framework: 0.0588381691400048
+ function: 0.033472969594007376
+ gener: 0.018093497077841823
+ implement: 0.033472969594007376
+ interoper: 0.018093497077841823
+ learn: 0.018093497077841823
+ ltsa: 0.04726255282617087
+ metadata: 0.018093497077841823
+ object: 0.018093497077841823
+ pattern: 0.04726255282617087
+ philosophi: 0.02966911339167576
+ recent: 0.018093497077841823
+ servic: 0.04085511640176684
+ standard: 0.05138236533908216
+ system: 0.03231950915529496
+ technologi: 0.03916337442498863
+ web: 0.033472969594007376
+ work: 0.04331224346076622
+
+N-grams list: 10
+ gener architectur framework
+ web servic architectur
+ architectur ltsa
+ architectur pattern
+ coursewar architectur
+ web servic framework
+ learn technologi standard
+ ltsa approach
+ web servic philosophi
+ educ web servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,83 @@
+File name: 4348523
+
+Graph edges count: 27
+ abstract - design: 1
+ abstract - level: 1
+ abstract - servic: 1
+ commun - unreli: 1
+ comput - model: 1
+ design - languag: 2
+ domin - concern: 1
+ inform - descrip: 1
+ interac - protocol: 1
+ interv - tempor: 1
+ multipl - servic: 1
+ orient - semant: 1
+ orient - system: 3
+ reactiv - web: 1
+ servic - composi: 1
+ servic - design: 1
+ servic - increas: 1
+ servic - orient: 3
+ servic - request: 1
+ sound - formal: 1
+ special - class: 1
+ specif - orient: 1
+ spectrum - languag: 2
+ tempor - logic: 1
+ tempor - properti: 1
+ web - servic: 3
+ wide - spectrum: 2
+
+PageRank scores count: 35
+ abstract: 0.017345518965135122
+ class: 0.032089210085499975
+ commun: 0.017345518965135122
+ composi: 0.02827305136717887
+ comput: 0.017345518965135122
+ concern: 0.032089210085499975
+ descrip: 0.032089210085499975
+ design: 0.033187615073967155
+ domin: 0.017345518965135122
+ formal: 0.032089210085499975
+ increas: 0.02827305136717887
+ inform: 0.017345518965135122
+ interac: 0.017345518965135122
+ interv: 0.017345518965135122
+ languag: 0.07283082035068218
+ level: 0.022260082671923403
+ logic: 0.030983433251472608
+ model: 0.032089210085499975
+ multipl: 0.017345518965135122
+ orient: 0.043016742487543724
+ properti: 0.030983433251472608
+ protocol: 0.032089210085499975
+ reactiv: 0.017345518965135122
+ request: 0.02827305136717887
+ semant: 0.03562763452234121
+ servic: 0.06427960236496325
+ sound: 0.017345518965135122
+ special: 0.017345518965135122
+ specif: 0.017345518965135122
+ spectrum: 0.032089210085499975
+ system: 0.03562763452234121
+ tempor: 0.032089210085499975
+ unreli: 0.032089210085499975
+ web: 0.032089210085499975
+ wide: 0.017345518965135122
+
+N-grams list: 10
+ servic orient system
+ abstract design languag
+ wide spectrum languag
+ abstract servic design
+ reactiv web servic
+ multipl servic request
+ web servic
+ specif orient semant
+ servic composi
+ servic increas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

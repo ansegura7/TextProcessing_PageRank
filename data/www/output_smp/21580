@@ -1,0 +1,75 @@
+File name: 21580
+
+Graph edges count: 25
+ advanc - owl: 1
+ full - rang: 1
+ full - support: 1
+ languag - rdql: 1
+ model - api: 1
+ n3 - io: 1
+ ontologi - api: 1
+ owl - full: 1
+ owl - reason: 1
+ queri - languag: 1
+ rdfxml - grammar: 1
+ rdfxml - output: 1
+ rdfxml - parser: 1
+ rdf - graph: 3
+ rdf - rdf: 1
+ rdf - recommend: 1
+ rdf - toolkit: 1
+ refer - rdfxml: 1
+ rich - api: 1
+ rich - rdfxml: 1
+ secondgener - rdf: 1
+ semant - web: 2
+ virtual - tripl: 1
+ web - api: 1
+ web - recommend: 2
+
+PageRank scores count: 29
+ advanc: 0.020979143586144406
+ api: 0.08205467535130731
+ full: 0.03747399523075044
+ grammar: 0.03450194988937998
+ graph: 0.031452066285170346
+ io: 0.03881141563436715
+ languag: 0.03881141563436715
+ model: 0.020979143586144406
+ n3: 0.020979143586144406
+ ontologi: 0.020979143586144406
+ output: 0.03450194988937998
+ owl: 0.03881141563436715
+ parser: 0.03450194988937998
+ queri: 0.020979143586144406
+ rang: 0.036905591559213344
+ rdf: 0.04928433833339309
+ rdfxml: 0.04772755165847853
+ rdql: 0.05396884687535649
+ reason: 0.03747399523075044
+ recommend: 0.047946917929776386
+ refer: 0.020979143586144406
+ rich: 0.020979143586144406
+ secondgener: 0.020979143586144406
+ semant: 0.020979143586144406
+ support: 0.036905591559213344
+ toolkit: 0.031452066285170346
+ tripl: 0.03881141563436715
+ virtual: 0.020979143586144406
+ web: 0.03881141563436715
+
+N-grams list: 10
+ web api
+ queri languag rdql
+ semant web recommend
+ refer rdfxml parser
+ rich rdfxml grammar
+ ontologi api
+ model api
+ rich api
+ secondgener rdf toolkit
+ rdf rdf
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

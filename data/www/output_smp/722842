@@ -1,0 +1,73 @@
+File name: 722842
+
+Graph edges count: 22
+ accept - termin: 1
+ b2b - interac: 1
+ busi - process: 1
+ composit - web: 2
+ control - flow: 1
+ current - technologi: 1
+ effici - transac: 1
+ failur - atom: 3
+ inform - interac: 1
+ preexist - web: 1
+ recent - evolu: 1
+ requir - at: 1
+ requir - failur: 1
+ servic - current: 1
+ servic - technologi: 2
+ termin - state: 1
+ transac - approach: 1
+ transac - rule: 1
+ transac - support: 1
+ valid - cs: 1
+ valuead - servic: 1
+ web - servic: 7
+
+PageRank scores count: 30
+ accept: 0.018967456704705506
+ approach: 0.028909565260755304
+ at: 0.027028625804205342
+ atom: 0.04194178863828005
+ b2b: 0.018967456704705506
+ busi: 0.018967456704705506
+ composit: 0.018967456704705506
+ control: 0.018967456704705506
+ cs: 0.03508979490370518
+ current: 0.05238100262213234
+ effici: 0.018967456704705506
+ evolu: 0.03508979490370518
+ failur: 0.027028625804205342
+ flow: 0.03508979490370518
+ inform: 0.018967456704705506
+ interac: 0.05121213310270486
+ preexist: 0.018967456704705506
+ process: 0.03508979490370518
+ recent: 0.018967456704705506
+ requir: 0.018967456704705506
+ rule: 0.028909565260755304
+ servic: 0.07862010804100432
+ state: 0.04879378237285491
+ support: 0.028909565260755304
+ technologi: 0.09690485485094481
+ termin: 0.03508979490370518
+ transac: 0.03508979490370518
+ valid: 0.018967456704705506
+ valuead: 0.018967456704705506
+ web: 0.05121213310270486
+
+N-grams list: 10
+ web servic technologi
+ web servic current
+ composit web servic
+ preexist web servic
+ web servic
+ accept termin state
+ valuead servic
+ technologi
+ requir failur atom
+ effici transac support
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

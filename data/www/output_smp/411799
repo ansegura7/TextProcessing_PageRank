@@ -1,0 +1,23 @@
+File name: 411799
+
+Graph edges count: 4
+ computersupport - cooper: 1
+ cooper - learn: 1
+ integr - infrastructur: 1
+ webbas - computersupport: 1
+
+PageRank scores count: 6
+ computersupport: 0.16144339118388182
+ cooper: 0.22449358044353296
+ infrastructur: 0.16144339118388182
+ integr: 0.08726669793723342
+ learn: 0.2780862413142364
+ webbas: 0.08726669793723342
+
+N-grams list: 2
+ webbas computersupport cooper
+ integr infrastructur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

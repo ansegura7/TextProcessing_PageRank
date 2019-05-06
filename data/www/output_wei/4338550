@@ -1,0 +1,83 @@
+File name: 4338550
+
+Graph edges count: 28
+ advertis - auction: 2
+ auction - mechan: 1
+ bid - heurist: 1
+ bid - optim: 1
+ current - system: 1
+ dynam - system: 1
+ econom - interpret: 1
+ firstpric - auction: 1
+ firstpric - mechan: 1
+ keyword - advertis: 1
+ limit - budget: 1
+ market - equilibrium: 2
+ market - equilibriumin: 1
+ mechan - design: 1
+ multipl - bidder: 1
+ natur - bid: 1
+ natur - econom: 1
+ onlin - advertis: 1
+ onlin - keyword: 1
+ random - perturb: 1
+ secondpric - auction: 2
+ small - random: 1
+ small - timedepend: 1
+ stabl - alloc: 1
+ system - literatur: 1
+ timedepend - perturb: 1
+ tãtonnem - process: 1
+ uniqu - market: 1
+
+PageRank scores count: 34
+ advertis: 0.04076028493516805
+ alloc: 0.028603708726433714
+ auction: 0.06982107319631807
+ bid: 0.022032586451442186
+ bidder: 0.028603708726433714
+ budget: 0.028603708726433714
+ current: 0.015461464176450656
+ design: 0.08463488804451631
+ dynam: 0.015461464176450656
+ econom: 0.022032586451442186
+ equilibrium: 0.031670232454763095
+ equilibriumin: 0.023565848315606874
+ firstpric: 0.015461464176450656
+ heurist: 0.024825313418313587
+ interpret: 0.03418916266017652
+ keyword: 0.022032586451442186
+ limit: 0.015461464176450656
+ literatur: 0.050945524461404906
+ market: 0.028603708726433714
+ mechan: 0.08138049866831254
+ multipl: 0.015461464176450656
+ natur: 0.015461464176450656
+ onlin: 0.015461464176450656
+ optim: 0.024825313418313587
+ perturb: 0.05291686114390238
+ process: 0.028603708726433714
+ random: 0.022032586451442186
+ secondpric: 0.015461464176450656
+ small: 0.015461464176450656
+ stabl: 0.015461464176450656
+ system: 0.04174595327641677
+ timedepend: 0.022032586451442186
+ tãtonnem: 0.015461464176450656
+ uniqu: 0.015461464176450656
+
+N-grams list: 10
+ mechan design
+ auction mechan
+ onlin advertis auction
+ dynam system literatur
+ firstpric mechan
+ small timedepend perturb
+ small random perturb
+ secondpric auction
+ firstpric auction
+ mechan
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

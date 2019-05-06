@@ -1,0 +1,70 @@
+File name: 593939
+
+Graph edges count: 22
+ automat - construc: 1
+ automat - search: 1
+ automat - wrapper: 1
+ content - featur: 1
+ deep - web: 1
+ experiment - result: 1
+ extrac - accuraci: 1
+ high - extrac: 1
+ inform - irrelev: 1
+ inform - relat: 1
+ metasearch - engin: 1
+ record - extrac: 1
+ result - page: 5
+ result - record: 3
+ search - engin: 6
+ search - result: 2
+ sourc - file: 1
+ tag - structur: 1
+ visual - content: 1
+ web - crawl: 1
+ web - page: 1
+ wrapper - gener: 1
+
+PageRank scores count: 27
+ accuraci: 0.08619885226613866
+ automat: 0.021386413734987134
+ construc: 0.02744589762656682
+ content: 0.039564865409726195
+ crawl: 0.03820148153412077
+ deep: 0.021386413734987134
+ engin: 0.05122937190101709
+ experiment: 0.021386413734987134
+ extrac: 0.07624992768370768
+ featur: 0.0550165493332544
+ file: 0.039564865409726195
+ gener: 0.04471542671756893
+ high: 0.021386413734987134
+ inform: 0.021386413734987134
+ irrelev: 0.030475639572356664
+ metasearch: 0.021386413734987134
+ page: 0.05997396459205303
+ record: 0.04315889679291939
+ relat: 0.030475639572356664
+ result: 0.05122937190101709
+ search: 0.02744589762656682
+ sourc: 0.021386413734987134
+ structur: 0.039564865409726195
+ tag: 0.021386413734987134
+ visual: 0.021386413734987134
+ web: 0.039564865409726195
+ wrapper: 0.02744589762656682
+
+N-grams list: 10
+ high extrac accuraci
+ search result record
+ record extrac
+ visual content featur
+ result page
+ automat search result
+ web page
+ deep web crawl
+ result record
+ automat wrapper gener
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

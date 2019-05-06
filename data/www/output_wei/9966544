@@ -1,0 +1,66 @@
+File name: 9966544
+
+Graph edges count: 18
+ abstract - model: 1
+ author - incent: 1
+ docum - author: 1
+ docum - degre: 1
+ econom - model: 1
+ elabor - question: 1
+ engin - qualiti: 1
+ engin - spam: 1
+ experiment - analysi: 1
+ import - fact: 1
+ ongo - theoret: 1
+ powerlaw - statist: 1
+ search - algorithm: 1
+ search - engin: 1
+ simpl - abstract: 1
+ user - docum: 1
+ user - util: 1
+ worldwid - web: 2
+
+PageRank scores count: 27
+ abstract: 0.04527679648309423
+ algorithm: 0.03487537026400502
+ analysi: 0.04527679648309423
+ author: 0.03929597640711793
+ degre: 0.03929597640711793
+ docum: 0.03487537026400502
+ econom: 0.0244739440449158
+ elabor: 0.0244739440449158
+ engin: 0.03487537026400502
+ experiment: 0.0244739440449158
+ fact: 0.04527679648309423
+ import: 0.0244739440449158
+ incent: 0.05787552399096605
+ model: 0.08376207349372433
+ ongo: 0.0244739440449158
+ powerlaw: 0.0244739440449158
+ qualiti: 0.03929597640711793
+ question: 0.04527679648309423
+ search: 0.0244739440449158
+ simpl: 0.0244739440449158
+ spam: 0.03929597640711793
+ statist: 0.04527679648309423
+ theoret: 0.04527679648309423
+ user: 0.0244739440449158
+ util: 0.03487537026400502
+ web: 0.04527679648309423
+ worldwid: 0.0244739440449158
+
+N-grams list: 10
+ simpl abstract model
+ econom model
+ user docum author
+ author incent
+ engin qualiti
+ docum degre
+ engin spam
+ experiment analysi
+ import fact
+ worldwid web
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

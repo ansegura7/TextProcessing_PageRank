@@ -1,0 +1,105 @@
+File name: 9770011
+
+Graph edges count: 37
+ anycastawar - transport: 1
+ anycastbas - content: 1
+ anycast - cdn: 1
+ balanc - scenario: 1
+ cdn - server: 1
+ complex - mechan: 1
+ complex - solution: 1
+ connec - state: 2
+ content - deliveri: 2
+ deliveri - network: 2
+ disrup - due: 1
+ download - throughput: 1
+ edg - server: 1
+ effici - mechan: 1
+ endpoint - chang: 1
+ endpoint - switch: 1
+ file - download: 1
+ frequent - switch: 1
+ high - download: 1
+ high - rate: 1
+ larg - file: 1
+ larg - scale: 1
+ load - balanc: 1
+ low - system: 1
+ network - anycastbas: 1
+ ongo - connec: 1
+ scale - distribu: 1
+ server - perform: 1
+ servic - attack: 1
+ session - disrup: 2
+ session - tcp: 1
+ singl - timeouttrigg: 1
+ system - overhead: 1
+ tangibl - impact: 1
+ tcp - connec: 2
+ tcp - session: 2
+ timeouttrigg - retransmis: 1
+
+PageRank scores count: 47
+ anycast: 0.009744094576719233
+ anycastawar: 0.009744094576719233
+ anycastbas: 0.06496063051146155
+ attack: 0.01802657496693058
+ balanc: 0.01802657496693058
+ cdn: 0.01802657496693058
+ chang: 0.013885334771824905
+ complex: 0.009744094576719233
+ connec: 0.024068745413876592
+ content: 0.06496063051146155
+ deliveri: 0.06496063051146155
+ disrup: 0.018689645448403614
+ distribu: 0.021546629132770403
+ download: 0.025687869327876076
+ due: 0.025630295974291933
+ edg: 0.009744094576719233
+ effici: 0.009744094576719233
+ endpoint: 0.009744094576719233
+ file: 0.013885334771824905
+ frequent: 0.009744094576719233
+ high: 0.009744094576719233
+ impact: 0.01802657496693058
+ larg: 0.009744094576719233
+ load: 0.009744094576719233
+ low: 0.009744094576719233
+ mechan: 0.022167815162036253
+ network: 0.06496063051146155
+ ongo: 0.009744094576719233
+ overhead: 0.025066683298610223
+ perform: 0.03809088371221757
+ rate: 0.013885334771824905
+ retransmis: 0.025066683298610223
+ scale: 0.013885334771824905
+ scenario: 0.025066683298610223
+ server: 0.03334916368882158
+ servic: 0.009744094576719233
+ session: 0.015786265023665248
+ singl: 0.009744094576719233
+ solution: 0.013885334771824905
+ state: 0.030202529215925443
+ switch: 0.022167815162036253
+ system: 0.01802657496693058
+ tangibl: 0.009744094576719233
+ tcp: 0.014216870012561424
+ throughput: 0.0315787835054139
+ timeouttrigg: 0.01802657496693058
+ transport: 0.01802657496693058
+
+N-grams list: 10
+ anycastbas content deliveri
+ content deliveri network
+ server perform
+ tcp connec state
+ high download throughput
+ content
+ network
+ session disrup due
+ low system overhead
+ load balanc scenario
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

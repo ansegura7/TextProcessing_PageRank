@@ -1,0 +1,49 @@
+File name: 11881756
+
+Graph edges count: 11
+ actual - position: 1
+ futur - develop: 1
+ geoannot - pictur: 1
+ georeferenc - pictur: 1
+ internet - photo: 1
+ larg - set: 1
+ mobil - browser: 1
+ mobil - phone: 1
+ photo - share: 1
+ share - servic: 1
+ term - browser: 1
+
+PageRank scores count: 17
+ actual: 0.03628562227574352
+ browser: 0.0825497906773165
+ develop: 0.0671284012101255
+ futur: 0.03628562227574352
+ geoannot: 0.03628562227574352
+ georeferenc: 0.03628562227574352
+ internet: 0.03628562227574352
+ larg: 0.03628562227574352
+ mobil: 0.03628562227574352
+ phone: 0.05170701174293452
+ photo: 0.0671284012101255
+ pictur: 0.0979711801445075
+ position: 0.0671284012101255
+ servic: 0.11562867108444118
+ set: 0.0671284012101255
+ share: 0.0933447633043502
+ term: 0.03628562227574352
+
+N-grams list: 10
+ internet photo share
+ geoannot pictur
+ georeferenc pictur
+ mobil browser
+ term browser
+ servic
+ actual position
+ futur develop
+ larg set
+ pictur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

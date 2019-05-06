@@ -1,0 +1,70 @@
+File name: 6248264
+
+Graph edges count: 23
+ access - design: 1
+ access - web: 1
+ blind - user: 3
+ blind - web: 2
+ comput - peopl: 1
+ conveni - lowcost: 1
+ expens - specialpurpos: 1
+ lowcost - solution: 1
+ public - comput: 1
+ public - termin: 1
+ read - interfac: 1
+ read - program: 1
+ screen - read: 2
+ screen - reader: 1
+ selfvoic - web: 1
+ specialpurpos - screen: 1
+ user - onthego: 1
+ user - unabl: 1
+ webbas - selfvoic: 1
+ web - applic: 1
+ web - content: 1
+ web - develop: 1
+ web - user: 2
+
+PageRank scores count: 26
+ access: 0.021556660334397695
+ applic: 0.033787370491626584
+ blind: 0.021556660334397695
+ comput: 0.03071824097651671
+ content: 0.033787370491626584
+ conveni: 0.021556660334397695
+ design: 0.03071824097651671
+ develop: 0.033787370491626584
+ expens: 0.021556660334397695
+ interfac: 0.044073535157565714
+ lowcost: 0.03987982161863573
+ onthego: 0.045786750737641976
+ peopl: 0.0476671651644369
+ program: 0.044073535157565714
+ public: 0.021556660334397695
+ read: 0.05298088193686593
+ reader: 0.03726877113563181
+ screen: 0.05545450871023807
+ selfvoic: 0.03987982161863573
+ solution: 0.05545450871023807
+ specialpurpos: 0.03987982161863573
+ termin: 0.03071824097651671
+ unabl: 0.045786750737641976
+ user: 0.0570119774193983
+ web: 0.0719453538660523
+ webbas: 0.021556660334397695
+
+N-grams list: 10
+ screen read interfac
+ blind web user
+ webbas selfvoic web
+ access web content
+ blind user unabl
+ blind user onthego
+ conveni lowcost solution
+ expens specialpurpos screen
+ web develop
+ read program
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

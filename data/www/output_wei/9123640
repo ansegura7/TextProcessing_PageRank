@@ -1,0 +1,49 @@
+File name: 9123640
+
+Graph edges count: 11
+ academ - social: 2
+ associ - search: 1
+ digit - librari: 1
+ experiment - result: 1
+ expert - search: 1
+ kei - issu: 1
+ main - featur: 1
+ network - system: 1
+ research - profil: 1
+ research - social: 1
+ social - network: 4
+
+PageRank scores count: 17
+ academ: 0.03542652428156116
+ associ: 0.03542652428156116
+ digit: 0.03542652428156116
+ experiment: 0.03542652428156116
+ expert: 0.03542652428156116
+ featur: 0.06553906992088815
+ issu: 0.06553906992088815
+ kei: 0.03542652428156116
+ librari: 0.06553906992088815
+ main: 0.03542652428156116
+ network: 0.10393256561103005
+ profil: 0.050482797101224657
+ research: 0.03542652428156116
+ result: 0.06553906992088815
+ search: 0.09565161556021512
+ social: 0.08059534274055163
+ system: 0.12376920505093669
+
+N-grams list: 10
+ social network system
+ academ social network
+ research social network
+ associ search
+ expert search
+ system
+ main featur
+ digit librari
+ kei issu
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,53 @@
+File name: 4416392
+
+Graph edges count: 14
+ browser - window: 1
+ concret - design: 1
+ design - solution: 1
+ experienc - user: 2
+ experienc - web: 3
+ inform - search: 3
+ kei - strategi: 2
+ previou - studi: 1
+ queri - formul: 1
+ reaccess - inform: 1
+ reaccess - strategi: 1
+ search - engin: 2
+ web - browser: 1
+ web - user: 4
+
+PageRank scores count: 18
+ browser: 0.04173002447367812
+ concret: 0.033206035230109114
+ design: 0.06143116517570185
+ engin: 0.09561885382230106
+ experienc: 0.033206035230109114
+ formul: 0.06143116517570185
+ inform: 0.047318600202905486
+ kei: 0.033206035230109114
+ previou: 0.033206035230109114
+ queri: 0.033206035230109114
+ reaccess: 0.033206035230109114
+ search: 0.07342684540257878
+ solution: 0.0854225256294557
+ strategi: 0.07554373014849823
+ studi: 0.06143116517570185
+ user: 0.07859204418262224
+ web: 0.050141113197464754
+ window: 0.06867655603273551
+
+N-grams list: 10
+ concret design solution
+ search engin
+ experienc web user
+ web user
+ inform search
+ experienc user
+ browser window
+ reaccess strategi
+ kei strategi
+ queri formul
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

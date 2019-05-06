@@ -1,0 +1,49 @@
+File name: 9307524
+
+Graph edges count: 12
+ classif - accuraci: 2
+ comput - resourc: 1
+ comput - time: 2
+ docum - classif: 1
+ expens - portion: 1
+ frequenc - analysi: 4
+ genr - classif: 1
+ linguist - analysi: 5
+ poor - classif: 1
+ practic - genr: 1
+ term - frequenc: 5
+ web - docum: 1
+
+PageRank scores count: 16
+ accuraci: 0.16969260753883855
+ analysi: 0.11071304375955295
+ classif: 0.16158119900042864
+ comput: 0.0323485883884742
+ docum: 0.059844888518677274
+ expens: 0.0323485883884742
+ frequenc: 0.059844888518677274
+ genr: 0.059844888518677274
+ linguist: 0.0323485883884742
+ poor: 0.0323485883884742
+ portion: 0.059844888518677274
+ practic: 0.0323485883884742
+ resourc: 0.04609673845357574
+ term: 0.0323485883884742
+ time: 0.04609673845357574
+ web: 0.0323485883884742
+
+N-grams list: 10
+ poor classif accuraci
+ classif accuraci
+ web docum classif
+ practic genr classif
+ term frequenc analysi
+ accuraci
+ linguist analysi
+ term frequenc
+ expens portion
+ comput time
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

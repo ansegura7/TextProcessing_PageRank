@@ -1,0 +1,112 @@
+File name: 13061924
+
+Graph edges count: 40
+ activelyus - mobil: 1
+ analyt - platform: 1
+ broad - varieti: 1
+ build - applic: 1
+ build - social: 1
+ centric - web: 1
+ citizen - sensor: 1
+ comput - techniqu: 1
+ content - deliveri: 1
+ crisi - manag: 1
+ cultur - entiti: 1
+ data - mine: 1
+ deliveri - crisi: 1
+ develop - centric: 1
+ entiti - extrac: 1
+ facebook - user: 1
+ inform - text: 1
+ intellig - applic: 2
+ media - analyt: 2
+ mine - social: 1
+ mobil - access: 1
+ mobil - phone: 1
+ onlin - content: 1
+ rapid - rise: 1
+ realworld - exampl: 1
+ research - effort: 1
+ semanticbackground - knowledg: 1
+ sensor - data: 1
+ social - data: 1
+ social - develop: 2
+ social - intellig: 1
+ social - media: 4
+ suffici - depth: 1
+ technic - insight: 1
+ text - esp: 1
+ twitter - user: 1
+ ubiquit - mobil: 1
+ unpreced - access: 1
+ user - 100m: 1
+ web - applic: 1
+
+PageRank scores count: 51
+ 100m: 0.031256579801423184
+ access: 0.02843447585880607
+ activelyus: 0.009486063672662576
+ analyt: 0.02591650735505373
+ applic: 0.056735914544287024
+ broad: 0.009486063672662576
+ build: 0.009486063672662576
+ centric: 0.02591650735505373
+ citizen: 0.009486063672662576
+ comput: 0.009486063672662576
+ content: 0.017549217794425764
+ crisi: 0.030228527650898382
+ cultur: 0.009486063672662576
+ data: 0.034246766798275104
+ deliveri: 0.024402898797924476
+ depth: 0.017549217794425764
+ develop: 0.019329931673013206
+ effort: 0.017549217794425764
+ entiti: 0.017549217794425764
+ esp: 0.024402898797924476
+ exampl: 0.017549217794425764
+ extrac: 0.024402898797924476
+ facebook: 0.009486063672662576
+ inform: 0.009486063672662576
+ insight: 0.017549217794425764
+ intellig: 0.019329931673013206
+ knowledg: 0.017549217794425764
+ manag: 0.0351803121759262
+ media: 0.019329931673013206
+ mine: 0.03859581721152634
+ mobil: 0.025612371916188953
+ onlin: 0.009486063672662576
+ phone: 0.020371321737042883
+ platform: 0.03151509472886604
+ rapid: 0.009486063672662576
+ realworld: 0.009486063672662576
+ research: 0.009486063672662576
+ rise: 0.017549217794425764
+ semanticbackground: 0.009486063672662576
+ sensor: 0.017549217794425764
+ social: 0.04632408516774935
+ suffici: 0.009486063672662576
+ technic: 0.009486063672662576
+ techniqu: 0.017549217794425764
+ text: 0.017549217794425764
+ twitter: 0.009486063672662576
+ ubiquit: 0.009486063672662576
+ unpreced: 0.009486063672662576
+ user: 0.025612371916188953
+ varieti: 0.017549217794425764
+ web: 0.03151509472886604
+
+N-grams list: 10
+ social intellig applic
+ mine social media
+ social data
+ develop centric web
+ intellig applic
+ build social media
+ facebook user 100m
+ build applic
+ social develop
+ social media
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

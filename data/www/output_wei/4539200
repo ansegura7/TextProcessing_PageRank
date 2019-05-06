@@ -1,0 +1,70 @@
+File name: 4539200
+
+Graph edges count: 20
+ current - search: 1
+ data - structur: 1
+ domin - relationship: 2
+ dynam - websit: 1
+ effici - domin: 1
+ extens - experi: 1
+ good - rank: 1
+ graph - structur: 1
+ natur - graph: 1
+ onlin - databas: 1
+ onlin - system: 1
+ product - item: 1
+ rank - process: 1
+ recent - year: 1
+ relationship - explor: 1
+ relat - data: 2
+ search - engin: 3
+ structur - data: 1
+ tradition - search: 1
+ web - page: 1
+
+PageRank scores count: 29
+ current: 0.013612858252143036
+ data: 0.1980180381630075
+ databas: 0.019398323009303824
+ domin: 0.025183787766464617
+ dynam: 0.013612858252143036
+ effici: 0.013612858252143036
+ engin: 0.044854367940811296
+ experi: 0.025183787766464617
+ explor: 0.043379074427735295
+ extens: 0.013612858252143036
+ good: 0.013612858252143036
+ graph: 0.025183787766464617
+ item: 0.025183787766464617
+ natur: 0.013612858252143036
+ onlin: 0.013612858252143036
+ page: 0.025183787766464617
+ process: 0.03501907785363796
+ product: 0.013612858252143036
+ rank: 0.025183787766464617
+ recent: 0.013612858252143036
+ relat: 0.013612858252143036
+ relationship: 0.03501907785363796
+ search: 0.0367547172807862
+ structur: 0.20333439930434274
+ system: 0.019398323009303824
+ tradition: 0.013612858252143036
+ web: 0.013612858252143036
+ websit: 0.025183787766464617
+ year: 0.025183787766464617
+
+N-grams list: 10
+ data structur
+ structur data
+ natur graph structur
+ relat data
+ current search engin
+ tradition search engin
+ search engin
+ effici domin relationship
+ domin relationship
+ rank process
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

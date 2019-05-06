@@ -1,0 +1,88 @@
+File name: 230498
+
+Graph edges count: 27
+ complet - webbas: 1
+ daunt - task: 1
+ featur - etc: 1
+ featur - extrac: 1
+ individu - sentenc: 1
+ inform - retriev: 1
+ machin - learn: 1
+ mine - tool: 1
+ mix - good: 1
+ neg - review: 1
+ opinion - extrac: 1
+ opinion - mine: 1
+ peanut - galleri: 1
+ poor - mix: 1
+ product - attribut: 1
+ product - review: 2
+ qualiti - featur: 1
+ retriev - techniqu: 1
+ search - perform: 1
+ search - result: 1
+ semant - classif: 1
+ simpl - method: 1
+ test - situat: 1
+ tradition - machin: 1
+ uniqu - properti: 1
+ webbas - tool: 1
+ web - search: 1
+
+PageRank scores count: 40
+ attribut: 0.019975225531970082
+ classif: 0.028795454987645182
+ complet: 0.015565110804132533
+ daunt: 0.015565110804132533
+ etc: 0.027803179173881736
+ extrac: 0.03441835126563807
+ featur: 0.028795454987645182
+ galleri: 0.028795454987645182
+ good: 0.04004124754363094
+ individu: 0.015565110804132533
+ inform: 0.015565110804132533
+ learn: 0.04004124754363094
+ machin: 0.028795454987645182
+ method: 0.028795454987645182
+ mine: 0.02218028289588886
+ mix: 0.028795454987645182
+ neg: 0.015565110804132533
+ opinion: 0.015565110804132533
+ peanut: 0.015565110804132533
+ perform: 0.027803179173881736
+ poor: 0.015565110804132533
+ product: 0.015565110804132533
+ properti: 0.028795454987645182
+ qualiti: 0.015565110804132533
+ result: 0.027803179173881736
+ retriev: 0.028795454987645182
+ review: 0.03761568444332029
+ search: 0.028795454987645182
+ semant: 0.015565110804132533
+ sentenc: 0.028795454987645182
+ simpl: 0.015565110804132533
+ situat: 0.028795454987645182
+ task: 0.028795454987645182
+ techniqu: 0.04004124754363094
+ test: 0.015565110804132533
+ tool: 0.05889448800513647
+ tradition: 0.015565110804132533
+ uniqu: 0.015565110804132533
+ web: 0.015565110804132533
+ webbas: 0.028795454987645182
+
+N-grams list: 10
+ complet webbas tool
+ opinion mine tool
+ tradition machin learn
+ inform retriev techniqu
+ poor mix good
+ web search perform
+ qualiti featur etc
+ featur extrac
+ search result
+ neg review
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

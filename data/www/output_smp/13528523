@@ -1,0 +1,65 @@
+File name: 13528523
+
+Graph edges count: 19
+ case - natur: 1
+ cluster - algorithm: 1
+ cluster - gener: 1
+ gener - imag: 1
+ googl - imag: 1
+ imag - retriev: 2
+ languag - queri: 1
+ learn - techniqu: 1
+ machin - learn: 1
+ multiview - cluster: 2
+ natur - languag: 1
+ origin - result: 1
+ preliminari - result: 1
+ rerank - web: 1
+ search - engin: 3
+ textbas - search: 2
+ user - queri: 1
+ visual - content: 1
+ web - imag: 1
+
+PageRank scores count: 25
+ algorithm: 0.036256426302502275
+ case: 0.020297509476558305
+ cluster: 0.037550392531632865
+ content: 0.037550392531632865
+ engin: 0.052215343128446244
+ gener: 0.036256426302502275
+ googl: 0.020297509476558305
+ imag: 0.10028618854064773
+ languag: 0.052215343128446244
+ learn: 0.037550392531632865
+ machin: 0.020297509476558305
+ multiview: 0.020297509476558305
+ natur: 0.037550392531632865
+ origin: 0.020297509476558305
+ preliminari: 0.020297509476558305
+ queri: 0.08193343419081217
+ rerank: 0.020297509476558305
+ result: 0.054803275586707424
+ retriev: 0.10554076973610887
+ search: 0.037550392531632865
+ techniqu: 0.052215343128446244
+ textbas: 0.020297509476558305
+ user: 0.020297509476558305
+ visual: 0.020297509476558305
+ web: 0.037550392531632865
+
+N-grams list: 10
+ web imag retriev
+ imag retriev
+ googl imag
+ machin learn techniqu
+ textbas search engin
+ case natur languag
+ user queri
+ imag
+ multiview cluster algorithm
+ multiview cluster gener
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

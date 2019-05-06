@@ -1,0 +1,66 @@
+File name: 4634522
+
+Graph edges count: 20
+ bloom - filter: 1
+ dynam - summar: 1
+ effect - index: 1
+ experiment - evalu: 1
+ extens - experiment: 1
+ fuzzi - content: 1
+ index - method: 1
+ method - flux: 1
+ path - structur: 1
+ process - engin: 1
+ queri - process: 1
+ rang - queri: 3
+ respect - path: 1
+ structur - match: 1
+ structur - rang: 1
+ summar - techniqu: 1
+ textual - content: 1
+ xml - docum: 1
+ xml - queri: 1
+ xml - rang: 2
+
+PageRank scores count: 25
+ bloom: 0.01971355754558994
+ content: 0.05322660537309284
+ docum: 0.023902688524027802
+ dynam: 0.01971355754558994
+ effect: 0.01971355754558994
+ engin: 0.08422794713957828
+ evalu: 0.05071312678603013
+ experiment: 0.03647008145934139
+ extens: 0.01971355754558994
+ filter: 0.03647008145934139
+ flux: 0.06281971531371555
+ fuzzi: 0.01971355754558994
+ index: 0.03647008145934139
+ match: 0.04126663642965274
+ method: 0.05071312678603013
+ path: 0.03647008145934139
+ process: 0.0758992818752804
+ queri: 0.06610085215257701
+ rang: 0.04964489838652846
+ respect: 0.01971355754558994
+ structur: 0.05071312678603013
+ summar: 0.03647008145934139
+ techniqu: 0.05071312678603013
+ textual: 0.01971355754558994
+ xml: 0.01971355754558994
+
+N-grams list: 10
+ structur rang queri
+ xml queri process
+ index method flux
+ xml rang queri
+ respect path structur
+ extens experiment evalu
+ structur match
+ summar techniqu
+ engin
+ fuzzi content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

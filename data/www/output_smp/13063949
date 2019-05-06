@@ -1,0 +1,78 @@
+File name: 13063949
+
+Graph edges count: 26
+ accur - character: 1
+ basic - idea: 1
+ experiment - result: 1
+ gener - framework: 1
+ learn - framework: 1
+ learn - process: 1
+ perform - improv: 1
+ popular - video: 1
+ share - site: 1
+ signific - perform: 1
+ site - youtub: 1
+ structur - learn: 3
+ summar - algorithm: 2
+ summar - problem: 1
+ svmbase - structur: 1
+ textual - featur: 2
+ textual - inform: 6
+ train - process: 1
+ transferr - structur: 1
+ transfer - learn: 1
+ video - featur: 3
+ video - inform: 1
+ video - review: 1
+ video - share: 1
+ video - summar: 5
+ video - transcript: 1
+
+PageRank scores count: 31
+ accur: 0.01878970021444332
+ algorithm: 0.02886822139300926
+ basic: 0.01878970021444332
+ character: 0.034760945396720144
+ experiment: 0.01878970021444332
+ featur: 0.031699790070117084
+ framework: 0.06786135103698886
+ gener: 0.01878970021444332
+ idea: 0.034760945396720144
+ improv: 0.048336503801655446
+ inform: 0.031699790070117084
+ learn: 0.07788330738886756
+ perform: 0.034760945396720144
+ popular: 0.01878970021444332
+ problem: 0.02886822139300926
+ process: 0.06786135103698886
+ result: 0.034760945396720144
+ review: 0.023714167478978677
+ share: 0.023714167478978677
+ signific: 0.01878970021444332
+ site: 0.03894674257157519
+ structur: 0.050732190578996965
+ summar: 0.023714167478978677
+ svmbase: 0.01878970021444332
+ textual: 0.01878970021444332
+ train: 0.01878970021444332
+ transcript: 0.023714167478978677
+ transfer: 0.01878970021444332
+ transferr: 0.01878970021444332
+ video: 0.034760945396720144
+ youtub: 0.051894431400282236
+
+N-grams list: 10
+ structur learn process
+ transfer learn framework
+ svmbase structur learn
+ transferr structur learn
+ signific perform improv
+ site youtub
+ video summar problem
+ video summar algorithm
+ train process
+ gener framework
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

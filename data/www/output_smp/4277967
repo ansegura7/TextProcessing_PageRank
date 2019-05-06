@@ -1,0 +1,105 @@
+File name: 4277967
+
+Graph edges count: 39
+ adequ - function: 1
+ applic - displai: 1
+ applic - logic: 1
+ broad - rang: 1
+ browser - helper: 1
+ control - button: 1
+ crucial - browser: 1
+ fullfunc - web: 1
+ helper - applic: 1
+ highfidel - displai: 1
+ landscap - view: 1
+ local - pda: 1
+ mobil - wireless: 3
+ pda - control: 1
+ pda - thin: 1
+ pda - thinclient: 1
+ pda - web: 2
+ power - server: 1
+ screen - resolu: 1
+ screen - size: 1
+ screen - updat: 1
+ seamless - mobil: 1
+ serversid - screen: 1
+ simpl - screen: 1
+ superior - web: 1
+ system - usabl: 1
+ thinclient - approach: 1
+ thinclient - architectur: 1
+ thinclient - solution: 1
+ thin - client: 1
+ video - playback: 1
+ view - mode: 1
+ web - applic: 1
+ web - browser: 3
+ web - site: 1
+ window - mobil: 1
+ wireless - devic: 1
+ wireless - pda: 1
+ wireless - web: 1
+
+PageRank scores count: 45
+ adequ: 0.01151650333931213
+ applic: 0.06044606420280778
+ approach: 0.016709619996239444
+ architectur: 0.016709619996239444
+ broad: 0.01151650333931213
+ browser: 0.03509205468958362
+ button: 0.027095853310094075
+ client: 0.027095853310094075
+ control: 0.01832864702444935
+ crucial: 0.01151650333931213
+ devic: 0.022268118915171612
+ displai: 0.04699510846392074
+ fullfunc: 0.01151650333931213
+ function: 0.02130553117772744
+ helper: 0.0413447498254582
+ highfidel: 0.01151650333931213
+ landscap: 0.01151650333931213
+ local: 0.01151650333931213
+ logic: 0.037206080625505435
+ mobil: 0.031094559016142748
+ mode: 0.029626204840380452
+ pda: 0.032057146753586924
+ playback: 0.02130553117772744
+ power: 0.01151650333931213
+ rang: 0.02130553117772744
+ resolu: 0.020326628393885906
+ screen: 0.031094559016142748
+ seamless: 0.01151650333931213
+ server: 0.02130553117772744
+ serversid: 0.01151650333931213
+ simpl: 0.01151650333931213
+ site: 0.02530302685116831
+ size: 0.020326628393885906
+ solution: 0.016709619996239444
+ superior: 0.01151650333931213
+ system: 0.01151650333931213
+ thin: 0.01832864702444935
+ thinclient: 0.01832864702444935
+ updat: 0.020326628393885906
+ usabl: 0.02130553117772744
+ video: 0.01151650333931213
+ view: 0.02130553117772744
+ web: 0.048658318277139456
+ window: 0.01151650333931213
+ wireless: 0.037946878503033465
+
+N-grams list: 10
+ mobil wireless web
+ web applic
+ applic displai
+ mobil wireless pda
+ applic logic
+ fullfunc web browser
+ local pda web
+ mobil wireless devic
+ crucial browser helper
+ web browser
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

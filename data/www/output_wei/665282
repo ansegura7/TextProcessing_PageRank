@@ -1,0 +1,67 @@
+File name: 665282
+
+Graph edges count: 19
+ anchorlink - distribu: 1
+ automat - identif: 1
+ automat - querygo: 1
+ experiment - evalu: 1
+ goalidentif - process: 1
+ goalidentif - task: 1
+ human - subject: 1
+ manual - querylog: 1
+ previou - studi: 1
+ queri - goal: 1
+ querygo - identif: 1
+ querylog - investig: 1
+ recent - interest: 1
+ search - engin: 1
+ subject - studi: 1
+ userclick - behavior: 1
+ user - goal: 1
+ web - queri: 2
+ web - search: 1
+
+PageRank scores count: 27
+ anchorlink: 0.023186389589311077
+ automat: 0.023186389589311077
+ behavior: 0.04289482074022549
+ distribu: 0.04289482074022549
+ engin: 0.04847887623298457
+ evalu: 0.04289482074022549
+ experiment: 0.023186389589311077
+ goal: 0.07377136287665807
+ goalidentif: 0.023186389589311077
+ human: 0.023186389589311077
+ identif: 0.061125119554821326
+ interest: 0.04289482074022549
+ investig: 0.05964698721850275
+ manual: 0.023186389589311077
+ previou: 0.023186389589311077
+ process: 0.03304060516476829
+ queri: 0.036325343689920686
+ querygo: 0.03304060516476829
+ querylog: 0.04289482074022549
+ recent: 0.023186389589311077
+ search: 0.029755866639615883
+ studi: 0.07935541836941716
+ subject: 0.04289482074022549
+ task: 0.03304060516476829
+ user: 0.023186389589311077
+ userclick: 0.023186389589311077
+ web: 0.023186389589311077
+
+N-grams list: 10
+ human subject studi
+ web queri goal
+ manual querylog investig
+ automat querygo identif
+ previou studi
+ user goal
+ automat identif
+ search engin
+ goal
+ anchorlink distribu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,40 @@
+File name: 9524697
+
+Graph edges count: 8
+ data - onlin: 1
+ infer - attack: 2
+ network - data: 1
+ onlin - social: 1
+ privat - inform: 3
+ sanit - techniqu: 1
+ social - network: 2
+ undisclos - privat: 2
+
+PageRank scores count: 11
+ attack: 0.04895582949257944
+ data: 0.17641740357686284
+ infer: 0.026462610536529433
+ inform: 0.06807506560522195
+ network: 0.17641740357686284
+ onlin: 0.17641740357686284
+ privat: 0.04895582949257944
+ sanit: 0.026462610536529433
+ social: 0.17641740357686284
+ techniqu: 0.04895582949257944
+ undisclos: 0.026462610536529433
+
+N-grams list: 10
+ onlin social network
+ social network data
+ social
+ network
+ data
+ undisclos privat inform
+ privat inform
+ infer attack
+ sanit techniqu
+ inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

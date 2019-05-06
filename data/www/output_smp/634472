@@ -1,0 +1,46 @@
+File name: 634472
+
+Graph edges count: 11
+ base - satisfi: 1
+ contextu - semant: 1
+ decid - exten: 1
+ fa - semant: 1
+ hilog - semant: 1
+ knowledg - base: 1
+ metamodel - architectur: 1
+ metamodel - exten: 1
+ owl - dl: 2
+ owl - fa: 3
+ satisfi - problem: 1
+
+PageRank scores count: 14
+ architectur: 0.059201404215763156
+ base: 0.07685796336783286
+ contextu: 0.04154484506369344
+ decid: 0.04154484506369344
+ dl: 0.059201404215763156
+ exten: 0.09451452251990257
+ fa: 0.059201404215763156
+ hilog: 0.04154484506369344
+ knowledg: 0.04154484506369344
+ metamodel: 0.04154484506369344
+ owl: 0.04154484506369344
+ problem: 0.13238784190109212
+ satisfi: 0.10687411392635138
+ semant: 0.16249227525537097
+
+N-grams list: 10
+ knowledg base satisfi
+ fa semant
+ hilog semant
+ contextu semant
+ decid exten
+ metamodel exten
+ problem
+ owl fa
+ metamodel architectur
+ owl dl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

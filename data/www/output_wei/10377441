@@ -1,0 +1,60 @@
+File name: 10377441
+
+Graph edges count: 16
+ attribut - valu: 2
+ balanc - method: 1
+ base - alphabet: 1
+ base - load: 1
+ dht - p2p: 2
+ heterogen - node: 1
+ leaveandjoin - base: 1
+ lexicograph - order: 1
+ load - balanc: 1
+ multipl - attribut: 1
+ p2p - overlai: 2
+ rang - overload: 1
+ rang - partition: 1
+ rang - queri: 2
+ string - rang: 1
+ virtual - ring: 1
+
+PageRank scores count: 23
+ alphabet: 0.04592034747788759
+ attribut: 0.04755921222342452
+ balanc: 0.06473997763913661
+ base: 0.04755921222342452
+ dht: 0.02570768228293217
+ heterogen: 0.02570768228293217
+ leaveandjoin: 0.02570768228293217
+ lexicograph: 0.02570768228293217
+ load: 0.04592034747788759
+ method: 0.0807366632761983
+ multipl: 0.02570768228293217
+ node: 0.04755921222342452
+ order: 0.04755921222342452
+ overlai: 0.06613301267284301
+ overload: 0.035814014880409875
+ p2p: 0.04755921222342452
+ partition: 0.035814014880409875
+ queri: 0.04592034747788759
+ rang: 0.04755921222342452
+ ring: 0.04755921222342452
+ string: 0.02570768228293217
+ valu: 0.06613301267284301
+ virtual: 0.02570768228293217
+
+N-grams list: 10
+ balanc method
+ dht p2p overlai
+ multipl attribut valu
+ leaveandjoin base load
+ string rang queri
+ attribut valu
+ rang queri
+ base alphabet
+ rang partition
+ rang overload
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

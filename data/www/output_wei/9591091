@@ -1,0 +1,79 @@
+File name: 9591091
+
+Graph edges count: 27
+ access - point: 1
+ access - ubr: 1
+ analyt - investig: 1
+ crawler - engin: 1
+ current - statu: 1
+ intrigu - result: 1
+ major - sourc: 1
+ metadata - servic: 1
+ object - size: 1
+ retriev - process: 1
+ search - engin: 2
+ servic - access: 1
+ servic - crawler: 1
+ servic - inform: 1
+ servic - interfac: 1
+ servic - portal: 1
+ servic - registri: 1
+ servic - retriev: 1
+ servic - statist: 1
+ size - type: 1
+ statist - data: 1
+ ubr - servic: 1
+ web - search: 2
+ web - servic: 8
+ web - todai: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 31
+ access: 0.027971117848651035
+ analyt: 0.01847557422129865
+ crawler: 0.027971117848651035
+ current: 0.01847557422129865
+ data: 0.04225102464163714
+ engin: 0.06419876811326827
+ inform: 0.027971117848651035
+ interfac: 0.027971117848651035
+ intrigu: 0.01847557422129865
+ investig: 0.03417981230940251
+ major: 0.01847557422129865
+ metadata: 0.01847557422129865
+ object: 0.01847557422129865
+ point: 0.030363299431467893
+ portal: 0.027971117848651035
+ process: 0.04225102464163714
+ registri: 0.027971117848651035
+ result: 0.03417981230940251
+ retriev: 0.027971117848651035
+ search: 0.025820874672507224
+ servic: 0.08936981905781612
+ size: 0.03417981230940251
+ sourc: 0.03417981230940251
+ statist: 0.027971117848651035
+ statu: 0.03417981230940251
+ todai: 0.02214822444690294
+ type: 0.04752841468429079
+ ubr: 0.030363299431467893
+ web: 0.04752841468429079
+ wide: 0.03417981230940251
+ world: 0.01847557422129865
+
+N-grams list: 10
+ web servic interfac
+ web servic statist
+ web servic access
+ web servic crawler
+ servic retriev process
+ access ubr servic
+ web search engin
+ web servic
+ metadata servic inform
+ servic registri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

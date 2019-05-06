@@ -1,0 +1,42 @@
+File name: 4382585
+
+Graph edges count: 9
+ cellular - automata: 2
+ gener - map: 1
+ page - visual: 2
+ search - engin: 1
+ surf - map: 1
+ visual - web: 1
+ web - context: 1
+ web - docum: 1
+ web - page: 5
+
+PageRank scores count: 12
+ automata: 0.08404071096037642
+ cellular: 0.0454274113299332
+ context: 0.0870610790279389
+ docum: 0.0870610790279389
+ engin: 0.08404071096037642
+ gener: 0.0454274113299332
+ map: 0.12265401059081965
+ page: 0.0870610790279389
+ search: 0.0454274113299332
+ surf: 0.0454274113299332
+ visual: 0.11942932850368129
+ web: 0.14694235658119656
+
+N-grams list: 10
+ web page visual
+ web context
+ web page
+ web docum
+ surf map
+ gener map
+ cellular automata
+ search engin
+ map
+ docum
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

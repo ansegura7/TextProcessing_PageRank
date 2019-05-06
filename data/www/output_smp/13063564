@@ -1,0 +1,70 @@
+File name: 13063564
+
+Graph edges count: 21
+ advertis - exchang: 2
+ advertis - network: 1
+ arbitrari - direct: 1
+ contentbas - publishsubscrib: 2
+ contentbas - pubsub: 1
+ content - deliveri: 1
+ deliveri - problem: 1
+ direct - graph: 2
+ edg - constraint: 1
+ effici - algorithm: 1
+ experiment - result: 1
+ graph - constraint: 4
+ graph - g: 1
+ problem - formul: 1
+ pubsub - system: 1
+ realist - dataset: 1
+ social - graph: 1
+ social - network: 1
+ tradition - contentbas: 1
+ valid - path: 1
+ web - advertis: 2
+
+PageRank scores count: 28
+ advertis: 0.037722143280424635
+ algorithm: 0.037722143280424635
+ arbitrari: 0.020390347719148456
+ constraint: 0.06369817187788732
+ content: 0.020390347719148456
+ contentbas: 0.037722143280424635
+ dataset: 0.037722143280424635
+ deliveri: 0.037722143280424635
+ direct: 0.037722143280424635
+ edg: 0.020390347719148456
+ effici: 0.020390347719148456
+ exchang: 0.03642225861332893
+ experiment: 0.020390347719148456
+ formul: 0.06497639180053144
+ g: 0.04636637631661114
+ graph: 0.061120067288147485
+ network: 0.045088156393967016
+ path: 0.037722143280424635
+ problem: 0.0524541695075094
+ publishsubscrib: 0.03642225861332893
+ pubsub: 0.03642225861332893
+ realist: 0.020390347719148456
+ result: 0.037722143280424635
+ social: 0.020390347719148456
+ system: 0.05134926754047805
+ tradition: 0.020390347719148456
+ valid: 0.020390347719148456
+ web: 0.020390347719148456
+
+N-grams list: 10
+ graph constraint
+ arbitrari direct graph
+ problem formul
+ content deliveri problem
+ direct graph
+ web advertis exchang
+ tradition contentbas pubsub
+ edg constraint
+ advertis network
+ social graph
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

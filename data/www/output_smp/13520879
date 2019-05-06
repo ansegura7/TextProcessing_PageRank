@@ -1,0 +1,60 @@
+File name: 13520879
+
+Graph edges count: 16
+ china - mobil: 1
+ core - network: 1
+ dsn - platform: 1
+ function - structur: 1
+ gener - mobil: 1
+ gener - oper: 1
+ internet - commun: 1
+ internet - protocol: 1
+ mobil - internet: 1
+ network - architectur: 1
+ p2p - voip: 1
+ preliminari - implement: 1
+ promis - futur: 1
+ servic - network: 2
+ telecommun - servic: 1
+ wireless - internet: 1
+
+PageRank scores count: 23
+ architectur: 0.09503954536130253
+ china: 0.024312229811352292
+ commun: 0.06340857461955159
+ core: 0.024312229811352292
+ dsn: 0.024312229811352292
+ function: 0.024312229811352292
+ futur: 0.04497762515100174
+ gener: 0.024312229811352292
+ implement: 0.04497762515100174
+ internet: 0.09199139954870424
+ mobil: 0.055310322820826464
+ network: 0.08320860652935322
+ oper: 0.034644927481177014
+ p2p: 0.024312229811352292
+ platform: 0.04497762515100174
+ preliminari: 0.024312229811352292
+ promis: 0.024312229811352292
+ protocol: 0.06340857461955159
+ servic: 0.04497762515100174
+ structur: 0.04497762515100174
+ telecommun: 0.024312229811352292
+ voip: 0.04497762515100174
+ wireless: 0.024312229811352292
+
+N-grams list: 10
+ core network architectur
+ gener mobil internet
+ internet protocol
+ servic network
+ wireless internet
+ china mobil
+ function structur
+ preliminari implement
+ telecommun servic
+ promis futur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

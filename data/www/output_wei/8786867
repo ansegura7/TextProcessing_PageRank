@@ -1,0 +1,92 @@
+File name: 8786867
+
+Graph edges count: 26
+ accept - wrt: 1
+ autom - emailmedi: 1
+ broad - class: 1
+ comput - tractabl: 1
+ decisiontheoret - model: 1
+ emailmedi - applic: 1
+ email - messag: 1
+ email - process: 2
+ email - respons: 1
+ explanatori - text: 1
+ gener - notion: 1
+ inthi - realm: 1
+ logic - model: 1
+ messagehandl - polici: 1
+ ofinfer - problem: 1
+ optim - messagehandl: 1
+ outlin - research: 1
+ pc - dinner: 1
+ polynomi - time: 2
+ program - committe: 1
+ rdf - queri: 1
+ semantic - mail: 1
+ semant - email: 4
+ semant - web: 1
+ set - ofconstraint: 1
+ wide - rang: 1
+
+PageRank scores count: 45
+ accept: 0.015021104652036118
+ applic: 0.03864179171736291
+ autom: 0.015021104652036118
+ broad: 0.015021104652036118
+ class: 0.027789043606266817
+ committe: 0.027789043606266817
+ comput: 0.015021104652036118
+ decisiontheoret: 0.015021104652036118
+ dinner: 0.027789043606266817
+ email: 0.025235455815420676
+ emailmedi: 0.027789043606266817
+ explanatori: 0.015021104652036118
+ gener: 0.015021104652036118
+ inthi: 0.015021104652036118
+ logic: 0.015021104652036118
+ mail: 0.027789043606266817
+ messag: 0.02038363901281301
+ messagehandl: 0.027789043606266817
+ model: 0.040556982560497515
+ notion: 0.027789043606266817
+ ofconstraint: 0.027789043606266817
+ ofinfer: 0.015021104652036118
+ optim: 0.015021104652036118
+ outlin: 0.015021104652036118
+ pc: 0.015021104652036118
+ polici: 0.03864179171736291
+ polynomi: 0.015021104652036118
+ problem: 0.027789043606266817
+ process: 0.025746173373589903
+ program: 0.015021104652036118
+ queri: 0.027789043606266817
+ rang: 0.027789043606266817
+ rdf: 0.015021104652036118
+ realm: 0.027789043606266817
+ research: 0.027789043606266817
+ respons: 0.02038363901281301
+ semant: 0.015021104652036118
+ semantic: 0.015021104652036118
+ set: 0.015021104652036118
+ text: 0.027789043606266817
+ time: 0.027789043606266817
+ tractabl: 0.027789043606266817
+ web: 0.017574692442882258
+ wide: 0.015021104652036118
+ wrt: 0.027789043606266817
+
+N-grams list: 10
+ autom emailmedi applic
+ optim messagehandl polici
+ semant email process
+ logic model
+ decisiontheoret model
+ email process
+ email messag
+ email respons
+ semantic mail
+ set ofconstraint
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

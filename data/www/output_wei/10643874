@@ -1,0 +1,89 @@
+File name: 10643874
+
+Graph edges count: 25
+ awar - dialogu: 1
+ commonplac - occurr: 1
+ comput - interac: 1
+ expect - level: 1
+ futur - usabl: 1
+ global - user: 1
+ human - comput: 1
+ ideal - world: 1
+ interac - commun: 1
+ interfac - design: 2
+ interfac - techniqu: 2
+ invers - situat: 1
+ malici - interfac: 6
+ neg - impact: 1
+ pleasur - manner: 1
+ preliminari - analysi: 1
+ primari - object: 1
+ selfreport - toler: 1
+ signific - compil: 1
+ time - effici: 1
+ ubiquit - problem: 1
+ user - popul: 1
+ vast - emerg: 1
+ web - site: 1
+ world - interfac: 1
+
+PageRank scores count: 43
+ analysi: 0.02682588190086749
+ awar: 0.014500476703171618
+ commonplac: 0.014500476703171618
+ commun: 0.046207581574244254
+ compil: 0.02682588190086749
+ comput: 0.02682588190086749
+ design: 0.03559232634772869
+ dialogu: 0.02682588190086749
+ effici: 0.02682588190086749
+ emerg: 0.02682588190086749
+ expect: 0.014500476703171618
+ futur: 0.014500476703171618
+ global: 0.014500476703171618
+ human: 0.014500476703171618
+ ideal: 0.014500476703171618
+ impact: 0.02682588190086749
+ interac: 0.037302476318908984
+ interfac: 0.049627881516604855
+ invers: 0.014500476703171618
+ level: 0.02682588190086749
+ malici: 0.014500476703171618
+ manner: 0.02682588190086749
+ neg: 0.014500476703171618
+ object: 0.02682588190086749
+ occurr: 0.02682588190086749
+ pleasur: 0.014500476703171618
+ popul: 0.037302476318908984
+ preliminari: 0.014500476703171618
+ primari: 0.014500476703171618
+ problem: 0.02682588190086749
+ selfreport: 0.014500476703171618
+ signific: 0.014500476703171618
+ site: 0.02682588190086749
+ situat: 0.02682588190086749
+ techniqu: 0.03559232634772869
+ time: 0.014500476703171618
+ toler: 0.02682588190086749
+ ubiquit: 0.014500476703171618
+ usabl: 0.02682588190086749
+ user: 0.02682588190086749
+ vast: 0.014500476703171618
+ web: 0.014500476703171618
+ world: 0.02682588190086749
+
+N-grams list: 10
+ malici interfac techniqu
+ malici interfac design
+ ideal world interfac
+ human comput interac
+ global user popul
+ malici interfac
+ commun
+ futur usabl
+ pleasur manner
+ signific compil
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

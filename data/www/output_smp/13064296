@@ -1,0 +1,80 @@
+File name: 13064296
+
+Graph edges count: 23
+ commun - platform: 1
+ context - inform: 1
+ distinct - dataset: 1
+ fast - peopl: 1
+ forward - inform: 1
+ futur - predict: 1
+ human - interac: 1
+ inform - flow: 1
+ inform - spread: 2
+ larg - scale: 1
+ onlin - domain: 1
+ organiz - context: 1
+ peopl - forward: 1
+ predict - model: 1
+ recent - studi: 1
+ scale - privacypreserv: 1
+ sensor - system: 1
+ signific - insight: 1
+ simpl - stochast: 1
+ singl - piec: 1
+ social - sensor: 1
+ spread - process: 2
+ surpris - independ: 1
+
+PageRank scores count: 36
+ commun: 0.015488599849619724
+ context: 0.02865390972179649
+ dataset: 0.02865390972179649
+ distinct: 0.015488599849619724
+ domain: 0.02865390972179649
+ fast: 0.015488599849619724
+ flow: 0.04681627752233135
+ forward: 0.039844423113146746
+ futur: 0.015488599849619724
+ human: 0.015488599849619724
+ independ: 0.02865390972179649
+ inform: 0.07371218275932148
+ insight: 0.02865390972179649
+ interac: 0.02865390972179649
+ larg: 0.015488599849619724
+ model: 0.039844423113146746
+ onlin: 0.015488599849619724
+ organiz: 0.015488599849619724
+ peopl: 0.02865390972179649
+ piec: 0.02865390972179649
+ platform: 0.02865390972179649
+ predict: 0.02865390972179649
+ privacypreserv: 0.039844423113146746
+ process: 0.05528243574360137
+ recent: 0.015488599849619724
+ scale: 0.02865390972179649
+ sensor: 0.02865390972179649
+ signific: 0.015488599849619724
+ simpl: 0.015488599849619724
+ singl: 0.015488599849619724
+ social: 0.015488599849619724
+ spread: 0.04681627752233135
+ stochast: 0.02865390972179649
+ studi: 0.02865390972179649
+ surpris: 0.015488599849619724
+ system: 0.039844423113146746
+
+N-grams list: 10
+ context inform spread
+ inform flow
+ inform spread
+ spread process
+ fast peopl forward
+ larg scale privacypreserv
+ futur predict model
+ social sensor system
+ inform
+ process
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

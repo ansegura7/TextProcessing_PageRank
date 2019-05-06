@@ -1,0 +1,82 @@
+File name: 11619605
+
+Graph edges count: 27
+ access - control: 1
+ alhambra - browser: 1
+ browserbas - system: 1
+ browser - secur: 2
+ comparison - metric: 1
+ compat - alhambra: 1
+ compat - cost: 1
+ control - rule: 1
+ crosssit - script: 2
+ finegrain - secur: 1
+ ident - page: 2
+ malici - content: 1
+ minim - compat: 1
+ multipl - secur: 1
+ page - content: 1
+ polici - alhambra: 1
+ policyenhanc - browser: 1
+ quantit - evalu: 1
+ script - attack: 1
+ secur - polici: 10
+ serversid - modif: 1
+ strong - secur: 1
+ tainttrack - engin: 2
+ test - browser: 1
+ web - applic: 2
+ web - browser: 1
+ web - page: 2
+
+PageRank scores count: 34
+ access: 0.009350880086651494
+ alhambra: 0.1375901201584064
+ applic: 0.01200029611120275
+ attack: 0.024055139022910964
+ browser: 0.1448483807600812
+ browserbas: 0.009350880086651494
+ comparison: 0.009350880086651494
+ compat: 0.017299128160305263
+ content: 0.034255390717433304
+ control: 0.017299128160305263
+ cost: 0.01670300955478123
+ crosssit: 0.009350880086651494
+ engin: 0.017299128160305263
+ evalu: 0.017299128160305263
+ finegrain: 0.009350880086651494
+ ident: 0.009350880086651494
+ malici: 0.009350880086651494
+ metric: 0.017299128160305263
+ minim: 0.009350880086651494
+ modif: 0.017299128160305263
+ multipl: 0.009350880086651494
+ page: 0.019948544184856518
+ polici: 0.14222012584486898
+ policyenhanc: 0.009350880086651494
+ quantit: 0.009350880086651494
+ rule: 0.024055139022910964
+ script: 0.017299128160305263
+ secur: 0.1563167479536818
+ serversid: 0.009350880086651494
+ strong: 0.009350880086651494
+ system: 0.017299128160305263
+ tainttrack: 0.009350880086651494
+ test: 0.009350880086651494
+ web: 0.009350880086651494
+
+N-grams list: 10
+ web browser secur
+ test browser secur
+ finegrain secur polici
+ strong secur polici
+ multipl secur polici
+ secur polici
+ alhambra browser
+ polici alhambra
+ compat alhambra
+ policyenhanc browser
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

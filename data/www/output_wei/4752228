@@ -1,0 +1,55 @@
+File name: 4752228
+
+Graph edges count: 16
+ commerci - area: 1
+ commerci - web: 1
+ dynam - featur: 1
+ explos - growth: 1
+ larg - commerci: 1
+ mine - strategi: 1
+ mine - techniqu: 2
+ pattern - recogni: 1
+ person - system: 1
+ recogni - strategi: 1
+ usag - mine: 2
+ web - mine: 1
+ web - person: 2
+ web - site: 1
+ web - usag: 2
+ year - web: 1
+
+PageRank scores count: 18
+ area: 0.05407108414969027
+ commerci: 0.056000842926201264
+ dynam: 0.03027072590605474
+ explos: 0.03027072590605474
+ featur: 0.056000842926201264
+ growth: 0.056000842926201264
+ larg: 0.03027072590605474
+ mine: 0.08652480237366383
+ pattern: 0.03027072590605474
+ person: 0.0528810662375085
+ recogni: 0.056000842926201264
+ site: 0.041575896071781616
+ strategi: 0.10238680306586388
+ system: 0.07521963220793697
+ techniqu: 0.07930144725113092
+ usag: 0.0528810662375085
+ web: 0.0798012011698368
+ year: 0.03027072590605474
+
+N-grams list: 10
+ web mine strategi
+ web usag mine
+ web person system
+ pattern recogni strategi
+ larg commerci web
+ mine techniqu
+ year web usag
+ web person
+ commerci area
+ explos growth
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

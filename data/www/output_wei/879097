@@ -1,0 +1,67 @@
+File name: 879097
+
+Graph edges count: 20
+ busi - process: 1
+ case - studi: 1
+ hypermedia - compon: 1
+ hypertext - medium: 1
+ issu - track: 1
+ legal - firm: 1
+ manag - report: 3
+ open - hypermedia: 2
+ report - system: 2
+ semant - web: 1
+ share - writabl: 1
+ specif - write: 1
+ track - task: 1
+ webbas - manag: 1
+ web - case: 1
+ web - open: 1
+ web - research: 1
+ worldwid - web: 1
+ writabl - hypertext: 1
+ writabl - web: 1
+
+PageRank scores count: 26
+ busi: 0.020059727902516387
+ case: 0.03987414204922492
+ compon: 0.06591956425022032
+ firm: 0.03711049661965531
+ hypermedia: 0.05395274864435757
+ hypertext: 0.03583168896586989
+ issu: 0.020059727902516387
+ legal: 0.020059727902516387
+ manag: 0.03711049661965531
+ medium: 0.05051666352350579
+ open: 0.03987414204922492
+ process: 0.03711049661965531
+ report: 0.0516036500292234
+ research: 0.03987414204922492
+ semant: 0.020059727902516387
+ share: 0.020059727902516387
+ specif: 0.020059727902516387
+ studi: 0.05395274864435757
+ system: 0.06392283042735628
+ task: 0.0516036500292234
+ track: 0.03711049661965531
+ web: 0.06993322640014775
+ webbas: 0.020059727902516387
+ worldwid: 0.020059727902516387
+ writabl: 0.03711049661965531
+ write: 0.03711049661965531
+
+N-grams list: 10
+ web open hypermedia
+ open hypermedia compon
+ manag report system
+ writabl web case
+ semant web research
+ webbas manag report
+ issu track task
+ share writabl hypertext
+ worldwid web
+ manag report
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

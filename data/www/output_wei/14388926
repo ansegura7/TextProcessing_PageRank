@@ -1,0 +1,68 @@
+File name: 14388926
+
+Graph edges count: 18
+ complex - measur: 1
+ data - local: 1
+ data - shipment: 1
+ evalu - algorithm: 1
+ graph - pattern: 1
+ graph - simul: 6
+ larg - class: 1
+ messagepass - model: 1
+ multipl - machin: 1
+ natur - question: 1
+ network - data: 1
+ optim - techniqu: 1
+ pattern - match: 1
+ rapid - develop: 1
+ social - network: 1
+ synthet - data: 1
+ time - makespan: 1
+ visit - time: 1
+
+PageRank scores count: 29
+ algorithm: 0.040036929816730564
+ class: 0.040036929816730564
+ complex: 0.021641583684719225
+ data: 0.07406832016095155
+ develop: 0.040036929816730564
+ evalu: 0.021641583684719225
+ graph: 0.021641583684719225
+ larg: 0.021641583684719225
+ local: 0.053120619753123634
+ machin: 0.040036929816730564
+ makespan: 0.055672974028940204
+ match: 0.0422706504184748
+ measur: 0.040036929816730564
+ messagepass: 0.021641583684719225
+ model: 0.040036929816730564
+ multipl: 0.021641583684719225
+ natur: 0.021641583684719225
+ network: 0.040036929816730564
+ optim: 0.021641583684719225
+ pattern: 0.02426949027500656
+ question: 0.040036929816730564
+ rapid: 0.021641583684719225
+ shipment: 0.053120619753123634
+ simul: 0.03740902322644323
+ social: 0.021641583684719225
+ synthet: 0.021641583684719225
+ techniqu: 0.040036929816730564
+ time: 0.040036929816730564
+ visit: 0.021641583684719225
+
+N-grams list: 10
+ social network data
+ data shipment
+ data local
+ visit time makespan
+ synthet data
+ data
+ pattern match
+ evalu algorithm
+ larg class
+ optim techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

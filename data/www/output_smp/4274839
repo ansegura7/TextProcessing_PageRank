@@ -1,0 +1,86 @@
+File name: 4274839
+
+Graph edges count: 27
+ broad - set: 1
+ challeng - task: 1
+ coher - region: 2
+ complex - webpag: 1
+ comput - vision: 1
+ decision - tree: 1
+ effect - page: 1
+ effici - machin: 1
+ entropi - reduc: 1
+ framework - fit: 1
+ frustrat - experi: 1
+ full - web: 1
+ learn - framework: 2
+ machin - learn: 2
+ page - segment: 2
+ region - sentenc: 1
+ screen - compel: 1
+ segment - algorithm: 1
+ segment - problem: 1
+ sentenc - imag: 1
+ simpl - techniqu: 1
+ singl - kei: 1
+ small - screen: 2
+ thumbnail - imag: 1
+ tree - learn: 1
+ webpag - segment: 1
+ web - page: 2
+
+PageRank scores count: 38
+ algorithm: 0.04307037348830404
+ broad: 0.012935247847029043
+ challeng: 0.012935247847029043
+ coher: 0.012935247847029043
+ compel: 0.033275925086482215
+ complex: 0.012935247847029043
+ comput: 0.012935247847029043
+ decision: 0.012935247847029043
+ effect: 0.012935247847029043
+ effici: 0.012935247847029043
+ entropi: 0.012935247847029043
+ experi: 0.02393020851700373
+ fit: 0.06266820369749206
+ framework: 0.058509359824074125
+ frustrat: 0.012935247847029043
+ full: 0.012935247847029043
+ imag: 0.05221474484051362
+ kei: 0.02393020851700373
+ learn: 0.053616602325935396
+ machin: 0.02393020851700373
+ page: 0.0442708857564569
+ problem: 0.04307037348830404
+ reduc: 0.02393020851700373
+ region: 0.02393020851700373
+ screen: 0.02393020851700373
+ segment: 0.07090617797947057
+ sentenc: 0.033275925086482215
+ set: 0.02393020851700373
+ simpl: 0.012935247847029043
+ singl: 0.012935247847029043
+ small: 0.012935247847029043
+ task: 0.02393020851700373
+ techniqu: 0.02393020851700373
+ thumbnail: 0.012935247847029043
+ tree: 0.02393020851700373
+ vision: 0.02393020851700373
+ web: 0.02393020851700373
+ webpag: 0.02393020851700373
+
+N-grams list: 10
+ web page segment
+ machin learn framework
+ effect page segment
+ framework fit
+ webpag segment
+ decision tree learn
+ effici machin learn
+ full web page
+ segment
+ coher region sentenc
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

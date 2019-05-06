@@ -1,0 +1,53 @@
+File name: 13819642
+
+Graph edges count: 13
+ human - user: 1
+ inform - qualiti: 5
+ initi - studi: 1
+ intern - discus: 1
+ qualiti - evalu: 1
+ qualiti - model: 2
+ signific - period: 1
+ simpl - inform: 1
+ singl - model: 1
+ specialpurpos - model: 1
+ user - sentim: 1
+ wikipedia - articl: 6
+ wikipedia - editor: 1
+
+PageRank scores count: 19
+ articl: 0.055524612948133246
+ discus: 0.05942510228746493
+ editor: 0.03602216625147488
+ evalu: 0.05553436417148158
+ human: 0.0321216769121432
+ inform: 0.05942510228746493
+ initi: 0.0321216769121432
+ intern: 0.0321216769121432
+ model: 0.13355390218146337
+ period: 0.05942510228746493
+ qualiti: 0.0826330138564884
+ sentim: 0.0826330138564884
+ signific: 0.0321216769121432
+ simpl: 0.0321216769121432
+ singl: 0.0321216769121432
+ specialpurpos: 0.0321216769121432
+ studi: 0.05942510228746493
+ user: 0.05942510228746493
+ wikipedia: 0.0321216769121432
+
+N-grams list: 10
+ inform qualiti model
+ inform qualiti evalu
+ simpl inform qualiti
+ specialpurpos model
+ singl model
+ inform qualiti
+ user sentim
+ model
+ intern discus
+ initi studi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,49 @@
+File name: 4403169
+
+Graph edges count: 13
+ advanc - dynam: 1
+ docum - collec: 1
+ dynam - folder: 2
+ folder - system: 1
+ folder - technologi: 1
+ import - user: 1
+ larg - docum: 1
+ organ - larg: 1
+ power - dynam: 1
+ user - requir: 1
+ xml - docum: 1
+ xml - organ: 1
+ xml - semant: 1
+
+PageRank scores count: 15
+ advanc: 0.032746352687360133
+ collec: 0.11793469299373363
+ docum: 0.10022157683102764
+ dynam: 0.08841515225587235
+ folder: 0.10789923210485164
+ import: 0.032746352687360133
+ larg: 0.06846716574382213
+ organ: 0.042024485948778834
+ power: 0.032746352687360133
+ requir: 0.08423999228823394
+ semant: 0.042024485948778834
+ system: 0.07860352633192207
+ technologi: 0.07860352633192207
+ user: 0.06058075247161624
+ xml: 0.032746352687360133
+
+N-grams list: 10
+ advanc dynam folder
+ power dynam folder
+ docum collec
+ import user requir
+ xml organ larg
+ xml docum
+ folder
+ system
+ technologi
+ xml semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,119 @@
+File name: 13788838
+
+Graph edges count: 41
+ behavior - model: 1
+ candid - group: 1
+ classic - supervis: 1
+ classif - regres: 1
+ collabor - set: 1
+ collusion - phenomenon: 1
+ consum - review: 1
+ decision - make: 1
+ experiment - result: 1
+ fake - review: 12
+ fame - peopl: 1
+ frequent - itemset: 1
+ genuin - user: 1
+ group - individu: 1
+ individu - fake: 2
+ individu - review: 1
+ inher - natur: 1
+ itemset - mine: 1
+ label - dataset: 1
+ learn - approach: 2
+ mine - method: 1
+ multipl - strong: 1
+ opinion - spam: 2
+ paper - studi: 1
+ prior - work: 1
+ product - due: 1
+ product - review: 1
+ relat - model: 1
+ review - group: 6
+ social - media: 1
+ spam - detec: 1
+ spam - review: 1
+ stateoftheart - supervis: 1
+ strong - baselin: 1
+ supervis - classif: 1
+ supervis - learn: 2
+ target - product: 2
+ techniqu - depart: 1
+ total - control: 1
+ tradition - supervis: 1
+ user - experi: 1
+
+PageRank scores count: 57
+ approach: 0.026186961628337502
+ baselin: 0.01892346509671993
+ behavior: 0.007356060290270139
+ candid: 0.007356060290270139
+ classic: 0.007356060290270139
+ classif: 0.01475503093223352
+ collabor: 0.007356060290270139
+ collusion: 0.007356060290270139
+ consum: 0.007356060290270139
+ control: 0.013608711536999756
+ dataset: 0.013608711536999756
+ decision: 0.007356060290270139
+ depart: 0.013608711536999756
+ detec: 0.013139762693495035
+ due: 0.013139762693495035
+ experi: 0.01892346509671993
+ experiment: 0.007356060290270139
+ fake: 0.06009788780196265
+ fame: 0.007356060290270139
+ frequent: 0.007356060290270139
+ genuin: 0.007356060290270139
+ group: 0.10084440082807913
+ individu: 0.09307380219587648
+ inher: 0.007356060290270139
+ itemset: 0.013608711536999756
+ label: 0.007356060290270139
+ learn: 0.022154001574196898
+ make: 0.013608711536999756
+ media: 0.013608711536999756
+ method: 0.023441005622482084
+ mine: 0.01892346509671993
+ model: 0.019861362783729377
+ multipl: 0.007356060290270139
+ natur: 0.013608711536999756
+ opinion: 0.007356060290270139
+ paper: 0.007356060290270139
+ peopl: 0.013608711536999756
+ phenomenon: 0.013608711536999756
+ prior: 0.007356060290270139
+ product: 0.013608711536999756
+ regres: 0.01989783658266863
+ relat: 0.007356060290270139
+ result: 0.013608711536999756
+ review: 0.10263023224734559
+ set: 0.013608711536999756
+ social: 0.007356060290270139
+ spam: 0.013608711536999756
+ stateoftheart: 0.007356060290270139
+ strong: 0.013608711536999756
+ studi: 0.013608711536999756
+ supervis: 0.02611401403045899
+ target: 0.007356060290270139
+ techniqu: 0.007356060290270139
+ total: 0.007356060290270139
+ tradition: 0.007356060290270139
+ user: 0.013608711536999756
+ work: 0.013608711536999756
+
+N-grams list: 10
+ group individu review
+ fake review group
+ individu fake review
+ fake review
+ spam review
+ product review
+ consum review
+ candid group
+ review
+ group
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,69 @@
+File name: 562929
+
+Graph edges count: 22
+ ambigu - queri: 1
+ anchor - text: 5
+ corpor - net: 1
+ docum - collec: 2
+ docum - content: 1
+ high - qualiti: 1
+ hypertext - docum: 2
+ interact - process: 1
+ larg - corpor: 1
+ larg - hypertext: 2
+ mine - anchor: 2
+ qualiti - refin: 1
+ queri - log: 1
+ queri - modif: 1
+ queri - refin: 4
+ refin - algorithm: 1
+ refin - sugges: 1
+ relat - term: 1
+ search - result: 1
+ text - collec: 1
+ text - refin: 1
+ tradition - queri: 1
+
+PageRank scores count: 26
+ algorithm: 0.06514485945696505
+ ambigu: 0.020305606570454333
+ anchor: 0.03756537215534051
+ collec: 0.06933532677985393
+ content: 0.03372027993337421
+ corpor: 0.026058861765416393
+ docum: 0.04734590598677602
+ high: 0.020305606570454333
+ hypertext: 0.03181211696037846
+ interact: 0.020305606570454333
+ larg: 0.020305606570454333
+ log: 0.028072501083653115
+ mine: 0.020305606570454333
+ modif: 0.028072501083653115
+ net: 0.04245563907105827
+ process: 0.03756537215534051
+ qualiti: 0.03756537215534051
+ queri: 0.054825137740226695
+ refin: 0.10550412443884875
+ relat: 0.020305606570454333
+ result: 0.03756537215534051
+ search: 0.020305606570454333
+ sugges: 0.06514485945696505
+ term: 0.03756537215534051
+ text: 0.05223617290249377
+ tradition: 0.020305606570454333
+
+N-grams list: 10
+ anchor text refin
+ tradition queri refin
+ high qualiti refin
+ queri refin
+ anchor text collec
+ mine anchor text
+ refin
+ larg hypertext docum
+ anchor text
+ larg corpor net
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

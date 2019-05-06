@@ -1,0 +1,59 @@
+File name: 10460577
+
+Graph edges count: 16
+ durat - time: 1
+ geotag - photo: 1
+ manual - estim: 1
+ mine - inform: 1
+ photo - share: 1
+ popular - activ: 1
+ relat - inform: 1
+ share - platform: 1
+ tag - geotag: 1
+ tempor - inform: 2
+ tourist - attrac: 1
+ tourist - photo: 1
+ tourist - site: 1
+ trip - relat: 1
+ usersuppli - metadata: 1
+ visit - durat: 1
+
+PageRank scores count: 22
+ activ: 0.046589758238504204
+ attrac: 0.032319021480764175
+ durat: 0.046589758238504204
+ estim: 0.046589758238504204
+ geotag: 0.046589758238504204
+ inform: 0.10759715787784283
+ manual: 0.025183653101894167
+ metadata: 0.046589758238504204
+ mine: 0.025183653101894167
+ photo: 0.07192031598349274
+ platform: 0.09855218653657771
+ popular: 0.025183653101894167
+ relat: 0.046589758238504204
+ share: 0.086315921687863
+ site: 0.032319021480764175
+ tag: 0.025183653101894167
+ tempor: 0.025183653101894167
+ time: 0.06478494760462274
+ tourist: 0.025183653101894167
+ trip: 0.025183653101894167
+ usersuppli: 0.025183653101894167
+ visit: 0.025183653101894167
+
+N-grams list: 10
+ photo share platform
+ trip relat inform
+ visit durat time
+ mine inform
+ tempor inform
+ geotag photo
+ tourist photo
+ tag geotag
+ usersuppli metadata
+ popular activ
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

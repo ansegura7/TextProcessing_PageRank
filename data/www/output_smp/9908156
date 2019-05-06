@@ -1,0 +1,76 @@
+File name: 9908156
+
+Graph edges count: 23
+ crawl - data: 1
+ data - set: 1
+ experiment - result: 1
+ hash - function: 1
+ high - perform: 2
+ huffman - code: 1
+ internet - search: 1
+ larg - data: 1
+ memori - access: 1
+ minim - perfect: 3
+ perfect - function: 1
+ perfect - hash: 1
+ perform - algorithm: 1
+ perform - architectur: 1
+ random - graph: 1
+ scalabl - high: 1
+ scalabl - minim: 1
+ search - applic: 1
+ simpl - heurist: 1
+ space - effici: 1
+ space - requir: 1
+ static - set: 1
+ url - dataset: 1
+
+PageRank scores count: 32
+ access: 0.03432413246552417
+ algorithm: 0.035989896529264896
+ applic: 0.04772909771219509
+ architectur: 0.035989896529264896
+ code: 0.03432413246552417
+ crawl: 0.01855358511649955
+ data: 0.050094679814548786
+ dataset: 0.03432413246552417
+ effici: 0.02643885879101186
+ experiment: 0.01855358511649955
+ function: 0.06658130857914005
+ graph: 0.03432413246552417
+ hash: 0.035989896529264896
+ heurist: 0.03432413246552417
+ high: 0.02643885879101186
+ huffman: 0.01855358511649955
+ internet: 0.01855358511649955
+ larg: 0.01855358511649955
+ memori: 0.01855358511649955
+ minim: 0.02643885879101186
+ perfect: 0.04102661508885963
+ perform: 0.04102661508885963
+ random: 0.01855358511649955
+ requir: 0.02643885879101186
+ result: 0.03432413246552417
+ scalabl: 0.01855358511649955
+ search: 0.03432413246552417
+ set: 0.07690461030789063
+ simpl: 0.01855358511649955
+ space: 0.01855358511649955
+ static: 0.01855358511649955
+ url: 0.01855358511649955
+
+N-grams list: 10
+ larg data set
+ minim perfect function
+ high perform architectur
+ minim perfect hash
+ internet search applic
+ static set
+ scalabl high perform
+ scalabl minim perfect
+ set
+ crawl data
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,35 @@
+File name: 942587
+
+Graph edges count: 7
+ articl - retriev: 1
+ cluster - method: 2
+ cluster - task: 1
+ entiti - extrac: 1
+ new - articl: 2
+ retriev - system: 1
+ system - organ: 1
+
+PageRank scores count: 10
+ articl: 0.09727751137834675
+ cluster: 0.052582438582890134
+ entiti: 0.052582438582890134
+ extrac: 0.09727751137834675
+ method: 0.08237915377986121
+ new: 0.052582438582890134
+ organ: 0.19500887492971206
+ retriev: 0.1352683232544849
+ system: 0.16756051334920227
+ task: 0.06748079618137567
+
+N-grams list: 7
+ system organ
+ new articl retriev
+ entiti extrac
+ new articl
+ cluster method
+ cluster task
+ task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

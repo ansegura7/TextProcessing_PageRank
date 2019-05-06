@@ -1,0 +1,81 @@
+File name: 14007948
+
+Graph edges count: 27
+ addition - entri: 1
+ aggreg - inform: 1
+ cluster - proactiv: 1
+ empir - evalu: 1
+ entri - point: 1
+ gener - link: 1
+ gener - web: 1
+ histor - data: 1
+ link - sugges: 5
+ multipl - site: 1
+ navig - queri: 1
+ prior - work: 1
+ proactiv - link: 1
+ quick - link: 1
+ reallif - search: 1
+ relev - inform: 1
+ relev - link: 1
+ search - engin: 1
+ search - result: 1
+ search - scenario: 1
+ site - cluster: 1
+ tail - site: 2
+ top - search: 1
+ user - experi: 1
+ web - brows: 1
+ web - search: 2
+ web - site: 3
+
+PageRank scores count: 33
+ addition: 0.015306954567256963
+ aggreg: 0.015306954567256963
+ brows: 0.018397046020521963
+ cluster: 0.058316148504937444
+ data: 0.028317865949425383
+ empir: 0.015306954567256963
+ engin: 0.028767826634725376
+ entri: 0.028317865949425383
+ evalu: 0.028317865949425383
+ experi: 0.028317865949425383
+ gener: 0.015306954567256963
+ histor: 0.015306954567256963
+ inform: 0.03482332164050959
+ link: 0.09647310600857952
+ multipl: 0.015306954567256963
+ navig: 0.015306954567256963
+ point: 0.03937714062426854
+ prior: 0.015306954567256963
+ proactiv: 0.06487568079645378
+ queri: 0.028317865949425383
+ quick: 0.015306954567256963
+ reallif: 0.015306954567256963
+ relev: 0.015306954567256963
+ result: 0.028767826634725376
+ scenario: 0.028767826634725376
+ search: 0.0475089602381238
+ site: 0.0505990516913888
+ sugges: 0.09730909467454954
+ tail: 0.015306954567256963
+ top: 0.015306954567256963
+ user: 0.015306954567256963
+ web: 0.021812410258341172
+ work: 0.028317865949425383
+
+N-grams list: 10
+ proactiv link sugges
+ relev link sugges
+ gener link sugges
+ link sugges
+ web site cluster
+ quick link
+ web search scenario
+ link
+ top search result
+ addition entri point
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

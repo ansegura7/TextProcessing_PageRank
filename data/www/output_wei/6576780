@@ -1,0 +1,83 @@
+File name: 6576780
+
+Graph edges count: 28
+ closeknit - onlin: 1
+ cluster - properti: 1
+ correl - pattern: 1
+ cyworld - data: 2
+ cyworld - myspac: 1
+ degre - correl: 2
+ degre - distribu: 4
+ distribu - cluster: 1
+ fastgrow - busi: 1
+ growth - pattern: 1
+ huge - onlin: 1
+ multisc - behavior: 1
+ network - servic: 4
+ network - topologi: 1
+ onlin - activ: 1
+ onlin - relationship: 1
+ onlin - social: 4
+ partial - network: 1
+ properti - degre: 1
+ reallif - social: 2
+ real - life: 1
+ sampl - method: 1
+ scale - behavior: 1
+ servic - social: 1
+ similar - degre: 1
+ snowbal - sampl: 1
+ social - network: 7
+ topolog - characterist: 1
+
+PageRank scores count: 34
+ activ: 0.014739954060918464
+ behavior: 0.028786890390220504
+ busi: 0.019724350822928866
+ characterist: 0.019724350822928866
+ closeknit: 0.010661811255637225
+ cluster: 0.05151879022681947
+ correl: 0.02936442266969052
+ cyworld: 0.010661811255637225
+ data: 0.016703504300498318
+ degre: 0.06600921618315383
+ distribu: 0.04806703408374382
+ fastgrow: 0.010661811255637225
+ growth: 0.010661811255637225
+ huge: 0.010661811255637225
+ life: 0.019724350822928866
+ method: 0.02742750945512676
+ multisc: 0.010661811255637225
+ myspac: 0.01368265777806777
+ network: 0.11413189983490327
+ onlin: 0.028786890390220504
+ partial: 0.010661811255637225
+ pattern: 0.04468411009216581
+ properti: 0.054452783921392016
+ real: 0.010661811255637225
+ reallif: 0.010661811255637225
+ relationship: 0.014739954060918464
+ sampl: 0.019724350822928866
+ scale: 0.010661811255637225
+ servic: 0.08827149937091662
+ similar: 0.010661811255637225
+ snowbal: 0.010661811255637225
+ social: 0.11106770028178774
+ topolog: 0.010661811255637225
+ topologi: 0.030064233284457075
+
+N-grams list: 10
+ network servic social
+ onlin social network
+ reallif social network
+ network servic
+ degre distribu cluster
+ partial network topologi
+ closeknit onlin social
+ huge onlin social
+ properti degre correl
+ network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

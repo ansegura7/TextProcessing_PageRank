@@ -1,0 +1,72 @@
+File name: 4337520
+
+Graph edges count: 21
+ challeng - problem: 1
+ docum - rank: 1
+ experiment - result: 1
+ googl - search: 1
+ import - relationship: 1
+ keyword - match: 1
+ larg - amount: 1
+ larg - weight: 1
+ low - overhead: 1
+ main - challeng: 1
+ page - pair: 5
+ queri - scenario: 1
+ queri - term: 1
+ rank - process: 1
+ relationship - queri: 3
+ search - engin: 3
+ top - potenti: 2
+ top - web: 1
+ web - page: 10
+ web - search: 2
+ wide - varieti: 1
+
+PageRank scores count: 30
+ amount: 0.028461612400275126
+ challeng: 0.03695016346702385
+ docum: 0.019973061333526405
+ engin: 0.06166245776009606
+ experiment: 0.019973061333526405
+ googl: 0.019973061333526405
+ import: 0.019973061333526405
+ keyword: 0.019973061333526405
+ larg: 0.019973061333526405
+ low: 0.019973061333526405
+ main: 0.019973061333526405
+ match: 0.03695016346702385
+ overhead: 0.03695016346702385
+ page: 0.03206924660364333
+ pair: 0.04723192094662324
+ potenti: 0.028461612400275126
+ problem: 0.051380700280496676
+ process: 0.051380700280496676
+ queri: 0.051380700280496676
+ rank: 0.03695016346702385
+ relationship: 0.03695016346702385
+ result: 0.03695016346702385
+ scenario: 0.04180985895273749
+ search: 0.049046348737140776
+ term: 0.04180985895273749
+ top: 0.019973061333526405
+ varieti: 0.03695016346702385
+ web: 0.028461612400275126
+ weight: 0.028461612400275126
+ wide: 0.019973061333526405
+
+N-grams list: 10
+ web search engin
+ googl search engin
+ web page pair
+ queri scenario
+ queri term
+ relationship queri
+ rank process
+ challeng problem
+ top web page
+ web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

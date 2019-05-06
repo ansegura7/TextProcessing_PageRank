@@ -1,0 +1,57 @@
+File name: 8950239
+
+Graph edges count: 16
+ apach - web: 1
+ differenti - paramet: 1
+ experiment - result: 1
+ feedback - control: 4
+ initi - rate: 1
+ integr - feedback: 1
+ internet - server: 2
+ prespecifi - differenti: 1
+ process - rate: 2
+ propor - slowdown: 1
+ rate - class: 1
+ server - propor: 1
+ slowdown - differenti: 2
+ slowdown - ratio: 2
+ target - slowdown: 1
+ web - server: 1
+
+PageRank scores count: 20
+ apach: 0.021593663193373795
+ class: 0.07115112022216666
+ control: 0.05554969856495409
+ differenti: 0.0874202483114072
+ experiment: 0.021593663193373795
+ feedback: 0.03994827690774152
+ initi: 0.021593663193373795
+ integr: 0.021593663193373795
+ internet: 0.021593663193373795
+ paramet: 0.09590087425806991
+ prespecifi: 0.021593663193373795
+ process: 0.021593663193373795
+ propor: 0.08441232863079733
+ rate: 0.05830289062210925
+ ratio: 0.06906563459703946
+ result: 0.03994827690774152
+ server: 0.07390431227932182
+ slowdown: 0.11169875624391924
+ target: 0.021593663193373795
+ web: 0.03994827690774152
+
+N-grams list: 10
+ prespecifi differenti paramet
+ target slowdown ratio
+ slowdown differenti
+ slowdown ratio
+ internet server propor
+ initi rate class
+ apach web server
+ integr feedback control
+ feedback control
+ internet server
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,53 @@
+File name: 11212270
+
+Graph edges count: 14
+ experiment - setup: 1
+ futur - rank: 1
+ markov - model: 2
+ model - train: 1
+ page - rank: 1
+ past - topk: 1
+ rank - position: 1
+ rank - predic: 1
+ rank - trend: 1
+ similar - measur: 1
+ success - past: 1
+ topk - rank: 1
+ trend - sequenc: 1
+ web - page: 3
+
+PageRank scores count: 18
+ experiment: 0.027046950014478145
+ futur: 0.027046950014478145
+ markov: 0.027046950014478145
+ measur: 0.050036857526784564
+ model: 0.050036857526784564
+ page: 0.050036857526784564
+ past: 0.050036857526784564
+ position: 0.07003137167280006
+ predic: 0.07003137167280006
+ rank: 0.1517097234999597
+ sequenc: 0.08657361593635819
+ setup: 0.050036857526784564
+ similar: 0.027046950014478145
+ success: 0.027046950014478145
+ topk: 0.06957827891224502
+ train: 0.06957827891224502
+ trend: 0.07003137167280006
+ web: 0.027046950014478145
+
+N-grams list: 10
+ rank trend sequenc
+ web page rank
+ rank position
+ futur rank
+ rank
+ markov model train
+ success past topk
+ similar measur
+ experiment setup
+ web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,80 @@
+File name: 6713423
+
+Graph edges count: 24
+ 2hop - label: 10
+ effici - reachabl: 1
+ experiment - evalu: 1
+ fundament - queri: 1
+ graphstructur - databas: 1
+ graph - connect: 1
+ graph - recent: 1
+ increment - mainten: 3
+ index - larg: 1
+ index - size: 1
+ label - hybrid: 1
+ larg - collec: 1
+ mainten - algorithm: 1
+ main - conclusion: 1
+ main - reason: 1
+ previou - work: 1
+ reachabl - test: 2
+ recent - interest: 1
+ semant - web: 1
+ space - effici: 1
+ updat - 2hop: 1
+ web - data: 1
+ web - ontologi: 1
+ xml - semant: 1
+
+PageRank scores count: 35
+ 2hop: 0.03102861970862449
+ algorithm: 0.04314655362185756
+ collec: 0.03708758666524103
+ conclusion: 0.02390042328907562
+ connect: 0.02390042328907562
+ data: 0.03510951215881621
+ databas: 0.03102861970862449
+ effici: 0.03102861970862449
+ evalu: 0.03102861970862449
+ experiment: 0.01677222686952675
+ fundament: 0.01677222686952675
+ graph: 0.01677222686952675
+ graphstructur: 0.01677222686952675
+ hybrid: 0.05344679744810568
+ increment: 0.01677222686952675
+ index: 0.01677222686952675
+ interest: 0.03708758666524103
+ label: 0.04314655362185756
+ larg: 0.02390042328907562
+ main: 0.01677222686952675
+ mainten: 0.03102861970862449
+ ontologi: 0.03510951215881621
+ previou: 0.01677222686952675
+ queri: 0.03102861970862449
+ reachabl: 0.04314655362185756
+ reason: 0.02390042328907562
+ recent: 0.02390042328907562
+ semant: 0.03102861970862449
+ size: 0.02390042328907562
+ space: 0.01677222686952675
+ test: 0.05344679744810568
+ updat: 0.01677222686952675
+ web: 0.04314655362185756
+ work: 0.03102861970862449
+ xml: 0.01677222686952675
+
+N-grams list: 10
+ effici reachabl test
+ reachabl test
+ updat 2hop label
+ xml semant web
+ increment mainten algorithm
+ web data
+ web ontologi
+ index larg collec
+ graph recent interest
+ 2hop label
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,71 @@
+File name: 9942031
+
+Graph edges count: 19
+ approxim - guarante: 1
+ case - inexpens: 1
+ complet - data: 1
+ current - state: 1
+ degre - central: 1
+ greedi - approach: 1
+ greedi - method: 1
+ greedi - solution: 1
+ inexpens - heurist: 1
+ influenc - limit: 2
+ larg - amount: 1
+ limit - problem: 1
+ optim - problem: 1
+ predic - algorithm: 2
+ propag - process: 1
+ random - span: 1
+ social - network: 2
+ span - tree: 1
+ supermodular - problem: 1
+
+PageRank scores count: 31
+ algorithm: 0.03885126266603665
+ amount: 0.03885126266603665
+ approach: 0.02695087590346686
+ approxim: 0.021000682522181967
+ case: 0.021000682522181967
+ central: 0.03885126266603665
+ complet: 0.021000682522181967
+ current: 0.021000682522181967
+ data: 0.03885126266603665
+ degre: 0.021000682522181967
+ greedi: 0.021000682522181967
+ guarante: 0.03885126266603665
+ heurist: 0.054024255788313116
+ inexpens: 0.03885126266603665
+ influenc: 0.021000682522181967
+ larg: 0.021000682522181967
+ limit: 0.03885126266603665
+ method: 0.02695087590346686
+ network: 0.03885126266603665
+ optim: 0.021000682522181967
+ predic: 0.021000682522181967
+ problem: 0.08972541607602245
+ process: 0.03885126266603665
+ propag: 0.021000682522181967
+ random: 0.021000682522181967
+ social: 0.021000682522181967
+ solution: 0.02695087590346686
+ span: 0.03885126266603665
+ state: 0.03885126266603665
+ supermodular: 0.021000682522181967
+ tree: 0.054024255788313116
+
+N-grams list: 10
+ influenc limit problem
+ case inexpens heurist
+ random span tree
+ optim problem
+ supermodular problem
+ problem
+ complet data
+ social network
+ approxim guarante
+ current state
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

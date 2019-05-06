@@ -1,0 +1,70 @@
+File name: 11749957
+
+Graph edges count: 21
+ bloom - filter: 1
+ common - ancestor: 1
+ databas - selec: 2
+ docum - collec: 2
+ experiment - result: 1
+ keyword - queri: 1
+ lcabas - result: 1
+ lcabas - selec: 1
+ lca - inform: 1
+ lowest - common: 1
+ low - error: 1
+ phase - inform: 1
+ preprocess - phase: 1
+ process - effici: 1
+ queri - keyword: 1
+ queri - result: 1
+ selec - problem: 1
+ support - lowest: 1
+ user - queri: 1
+ weight - version: 1
+ xml - docum: 3
+
+PageRank scores count: 28
+ ancestor: 0.060116111305677046
+ bloom: 0.01886513515260724
+ collec: 0.04853056018008212
+ common: 0.04853056018008212
+ databas: 0.01886513515260724
+ docum: 0.034900500032323395
+ effici: 0.034900500032323395
+ error: 0.034900500032323395
+ experiment: 0.01886513515260724
+ filter: 0.034900500032323395
+ inform: 0.06456592505979829
+ keyword: 0.05275593136405461
+ lca: 0.01886513515260724
+ lcabas: 0.01886513515260724
+ low: 0.01886513515260724
+ lowest: 0.034900500032323395
+ phase: 0.034900500032323395
+ preprocess: 0.01886513515260724
+ problem: 0.05534559025396149
+ process: 0.01886513515260724
+ queri: 0.0797430384429836
+ result: 0.07680897868362885
+ selec: 0.04291818247218147
+ support: 0.01886513515260724
+ user: 0.01886513515260724
+ version: 0.034900500032323395
+ weight: 0.01886513515260724
+ xml: 0.01886513515260724
+
+N-grams list: 10
+ queri result
+ queri keyword
+ keyword queri
+ preprocess phase inform
+ databas selec problem
+ support lowest common
+ xml docum collec
+ user queri
+ lcabas result
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

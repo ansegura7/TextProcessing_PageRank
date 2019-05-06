@@ -1,0 +1,75 @@
+File name: 102655
+
+Graph edges count: 24
+ classif - metadata: 1
+ coher - focus: 1
+ coher - path: 1
+ corpor - set: 1
+ descrip - framework: 1
+ dynam - assembli: 2
+ focus - learn: 1
+ focus - organ: 1
+ gener - educ: 1
+ instruc - sequenc: 1
+ learn - object: 3
+ learn - sequenc: 1
+ link - web: 1
+ lom - topic: 1
+ object - content: 1
+ object - metadata: 1
+ prefer - context: 1
+ rel - match: 1
+ resourc - descrip: 1
+ sequenc - polici: 1
+ topic - classif: 1
+ web - resourc: 3
+ xml - learn: 1
+ xml - web: 1
+
+PageRank scores count: 30
+ assembli: 0.03275315707653397
+ classif: 0.04554459274561278
+ coher: 0.017704409230558903
+ content: 0.03496926154936762
+ context: 0.03275315707653397
+ corpor: 0.017704409230558903
+ descrip: 0.06185367322368826
+ dynam: 0.017704409230558903
+ educ: 0.03275315707653397
+ focus: 0.025228783153546437
+ framework: 0.07028003147069391
+ gener: 0.017704409230558903
+ instruc: 0.017704409230558903
+ learn: 0.035951015993803674
+ link: 0.017704409230558903
+ lom: 0.017704409230558903
+ match: 0.03275315707653397
+ metadata: 0.07368216538313847
+ object: 0.04062318192660875
+ organ: 0.028426642070816136
+ path: 0.025228783153546437
+ polici: 0.05203824500949357
+ prefer: 0.017704409230558903
+ rel: 0.017704409230558903
+ resourc: 0.05194031058015219
+ sequenc: 0.040392747975217254
+ set: 0.03275315707653397
+ topic: 0.03275315707653397
+ web: 0.040277530999521506
+ xml: 0.017704409230558903
+
+N-grams list: 10
+ resourc descrip framework
+ classif metadata
+ learn object content
+ instruc sequenc polici
+ xml web resourc
+ link web resourc
+ lom topic classif
+ xml learn object
+ web resourc
+ learn object
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,57 @@
+File name: 72036
+
+Graph edges count: 15
+ flexibl - learn: 1
+ geometr - view: 1
+ learn - rate: 1
+ learn - system: 3
+ manag - system: 1
+ tabular - data: 1
+ text - asm: 1
+ tokenlevel - represent: 1
+ twodimension - geometr: 1
+ visual - appear: 1
+ websit - wrapper: 1
+ whizbang - lab: 1
+ wrapperlearn - system: 2
+ wrapper - learn: 1
+ wrapper - manag: 1
+
+PageRank scores count: 21
+ appear: 0.05203334352905605
+ asm: 0.05203334352905605
+ data: 0.05203334352905605
+ flexibl: 0.028126131637327592
+ geometr: 0.05203334352905605
+ lab: 0.05203334352905605
+ learn: 0.07414751452890486
+ manag: 0.050240302637176416
+ rate: 0.04388247847471988
+ represent: 0.05203334352905605
+ system: 0.14200664128283286
+ tabular: 0.028126131637327592
+ text: 0.028126131637327592
+ tokenlevel: 0.028126131637327592
+ twodimension: 0.028126131637327592
+ view: 0.07235447363702524
+ visual: 0.028126131637327592
+ websit: 0.028126131637327592
+ whizbang: 0.028126131637327592
+ wrapper: 0.05203334352905605
+ wrapperlearn: 0.028126131637327592
+
+N-grams list: 10
+ flexibl learn system
+ wrapper manag system
+ learn system
+ wrapperlearn system
+ twodimension geometr view
+ wrapper learn
+ learn rate
+ visual appear
+ tokenlevel represent
+ text asm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

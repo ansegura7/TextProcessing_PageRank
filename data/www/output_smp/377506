@@ -1,0 +1,72 @@
+File name: 377506
+
+Graph edges count: 20
+ applicationlevel - vulner: 1
+ applicationlevel - web: 3
+ charg - usernam: 1
+ common - attack: 1
+ condenti - inform: 1
+ creditcard - number: 1
+ ecommerc - site: 1
+ heterogen - multiplatform: 1
+ larg - webappl: 1
+ month - applicationlevel: 1
+ multiplatform - environ: 1
+ report - result: 1
+ secur - applic: 1
+ secur - applicationlevel: 1
+ secur - polici: 1
+ ship - good: 1
+ vulner - inher: 1
+ webserverbackend - databas: 1
+ web - secur: 3
+ wide - rang: 1
+
+PageRank scores count: 31
+ applic: 0.035182561931030386
+ applicationlevel: 0.05184392948542096
+ attack: 0.03626297644190889
+ charg: 0.019601608887518315
+ common: 0.019601608887518315
+ condenti: 0.019601608887518315
+ creditcard: 0.019601608887518315
+ databas: 0.03626297644190889
+ ecommerc: 0.019601608887518315
+ environ: 0.05042513886314087
+ good: 0.03626297644190889
+ heterogen: 0.019601608887518315
+ inform: 0.03626297644190889
+ inher: 0.0549916005512462
+ larg: 0.019601608887518315
+ month: 0.019601608887518315
+ multiplatform: 0.03626297644190889
+ number: 0.03626297644190889
+ polici: 0.035182561931030386
+ rang: 0.03626297644190889
+ report: 0.019601608887518315
+ result: 0.03626297644190889
+ secur: 0.0549916005512462
+ ship: 0.019601608887518315
+ site: 0.03626297644190889
+ usernam: 0.03626297644190889
+ vulner: 0.04163527958783375
+ web: 0.04163527958783375
+ webappl: 0.03626297644190889
+ webserverbackend: 0.019601608887518315
+ wide: 0.019601608887518315
+
+N-grams list: 10
+ applicationlevel web secur
+ month applicationlevel vulner
+ heterogen multiplatform environ
+ vulner inher
+ secur applic
+ secur polici
+ webserverbackend databas
+ creditcard number
+ condenti inform
+ report result
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

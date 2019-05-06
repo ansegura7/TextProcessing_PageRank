@@ -1,0 +1,77 @@
+File name: 13059042
+
+Graph edges count: 26
+ base - entiti: 1
+ entiti - rank: 3
+ entiti - relationship: 2
+ experiment - result: 1
+ extens - analysi: 1
+ knowledg - base: 1
+ largescal - graph: 1
+ pairwis - prefer: 1
+ prefer - model: 1
+ queri - entiti: 1
+ rank - model: 2
+ rank - relat: 1
+ rank - solution: 1
+ recent - paradigm: 1
+ relationship - graph: 1
+ relat - entiti: 1
+ relat - object: 1
+ search - queri: 1
+ semant - search: 1
+ simpl - user: 1
+ structur - knowledg: 1
+ structur - sourc: 1
+ user - behavior: 1
+ user - data: 1
+ webscal - entiti: 1
+ web - search: 1
+
+PageRank scores count: 30
+ analysi: 0.028412401091415615
+ base: 0.033960498331563664
+ behavior: 0.027433325107860076
+ data: 0.027433325107860076
+ entiti: 0.11453078699748898
+ experiment: 0.015358054644008442
+ extens: 0.015358054644008442
+ graph: 0.0828409949665633
+ knowledg: 0.021885227867712027
+ largescal: 0.015358054644008442
+ model: 0.05765146019676095
+ object: 0.029595945424046043
+ pairwis: 0.015358054644008442
+ paradigm: 0.028412401091415615
+ prefer: 0.028412401091415615
+ queri: 0.05060479005200782
+ rank: 0.06403364005316219
+ recent: 0.015358054644008442
+ relat: 0.03350091926905767
+ relationship: 0.06403364005316219
+ result: 0.028412401091415615
+ search: 0.04146674753882279
+ semant: 0.015358054644008442
+ simpl: 0.015358054644008442
+ solution: 0.03350091926905767
+ sourc: 0.021885227867712027
+ structur: 0.015358054644008442
+ user: 0.028412401091415615
+ web: 0.015358054644008442
+ webscal: 0.015358054644008442
+
+N-grams list: 10
+ entiti relationship graph
+ rank relat entiti
+ webscal entiti rank
+ entiti rank
+ entiti relationship
+ rank model
+ entiti
+ web search queri
+ pairwis prefer model
+ largescal graph
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

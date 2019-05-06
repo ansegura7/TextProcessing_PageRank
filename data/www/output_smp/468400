@@ -1,0 +1,88 @@
+File name: 468400
+
+Graph edges count: 31
+ analysi - model: 1
+ applic - domain: 1
+ cs - paper: 1
+ current - web: 1
+ documentlevel - rank: 1
+ domainindepend - objectlevel: 1
+ effici - approach: 1
+ experiment - result: 1
+ heterogen - relationship: 2
+ link - analysi: 1
+ objectlevel - link: 1
+ objectlevel - rank: 1
+ object - graph: 1
+ object - level: 1
+ object - popular: 1
+ object - relationship: 1
+ object - relev: 1
+ pagerank - model: 1
+ popular - calcul: 1
+ popular - propag: 2
+ popular - rank: 1
+ propag - factor: 2
+ relationship - studi: 1
+ search - method: 1
+ specif - applic: 1
+ specif - domain: 1
+ tradition - pagerank: 1
+ user - queri: 1
+ web - inform: 1
+ web - object: 1
+ web - search: 2
+
+PageRank scores count: 36
+ analysi: 0.04149131506382765
+ applic: 0.023478072703826233
+ approach: 0.03048030491373932
+ calcul: 0.022353553112204248
+ cs: 0.01647584049391315
+ current: 0.01647584049391315
+ documentlevel: 0.01647584049391315
+ domain: 0.04343443450207853
+ domainindepend: 0.01647584049391315
+ effici: 0.01647584049391315
+ experiment: 0.01647584049391315
+ factor: 0.035476360639286754
+ graph: 0.020744868064556825
+ heterogen: 0.01647584049391315
+ inform: 0.025111926886139287
+ level: 0.020744868064556825
+ link: 0.029429970082252357
+ method: 0.037820978347131544
+ model: 0.07765171747484506
+ object: 0.025111926886139287
+ objectlevel: 0.03048030491373932
+ pagerank: 0.03048030491373932
+ paper: 0.03048030491373932
+ popular: 0.020744868064556825
+ propag: 0.022353553112204248
+ queri: 0.03048030491373932
+ rank: 0.04931214712036963
+ relationship: 0.034749332484383
+ relev: 0.020744868064556825
+ result: 0.03048030491373932
+ search: 0.025111926886139287
+ specif: 0.01647584049391315
+ studi: 0.04601277310563869
+ tradition: 0.01647584049391315
+ user: 0.01647584049391315
+ web: 0.03048030491373932
+
+N-grams list: 10
+ tradition pagerank model
+ analysi model
+ object relationship studi
+ specif applic domain
+ objectlevel rank
+ popular propag factor
+ domainindepend objectlevel link
+ current web search
+ popular rank
+ object popular calcul
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

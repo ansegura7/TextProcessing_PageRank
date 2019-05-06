@@ -1,0 +1,81 @@
+File name: 14377120
+
+Graph edges count: 24
+ analysi - framework: 1
+ convers - behavior: 1
+ current - work: 1
+ discus - power: 1
+ domainindepend - languagebas: 1
+ group - discus: 1
+ languagebas - signal: 1
+ languag - effect: 1
+ linguist - coordin: 1
+ linguist - style: 1
+ multipl - type: 1
+ natur - languag: 1
+ network - structur: 1
+ onlin - commun: 1
+ power - differ: 1
+ power - differenti: 1
+ power - relationship: 2
+ role - statu: 1
+ social - interac: 2
+ statu - differ: 1
+ structur - properti: 1
+ suprem - court: 1
+ s - suprem: 1
+ u - s: 1
+
+PageRank scores count: 36
+ analysi: 0.016431625950466856
+ behavior: 0.030398508008363686
+ commun: 0.030398508008363686
+ convers: 0.016431625950466856
+ coordin: 0.023415066979415273
+ court: 0.05236143004440645
+ current: 0.016431625950466856
+ differ: 0.05125280878106088
+ differenti: 0.025414076973951757
+ discus: 0.030398508008363686
+ domainindepend: 0.016431625950466856
+ effect: 0.042270357757575996
+ framework: 0.030398508008363686
+ group: 0.016431625950466856
+ interac: 0.030398508008363686
+ languag: 0.030398508008363686
+ languagebas: 0.030398508008363686
+ linguist: 0.016431625950466856
+ multipl: 0.016431625950466856
+ natur: 0.016431625950466856
+ network: 0.016431625950466856
+ onlin: 0.016431625950466856
+ power: 0.042270357757575996
+ properti: 0.042270357757575996
+ relationship: 0.03439652799743666
+ role: 0.016431625950466856
+ s: 0.030398508008363686
+ signal: 0.042270357757575996
+ social: 0.016431625950466856
+ statu: 0.030398508008363686
+ structur: 0.030398508008363686
+ style: 0.023415066979415273
+ suprem: 0.042270357757575996
+ type: 0.030398508008363686
+ u: 0.016431625950466856
+ work: 0.030398508008363686
+
+N-grams list: 10
+ power differ
+ group discus power
+ u s suprem
+ domainindepend languagebas signal
+ statu differ
+ power relationship
+ languag effect
+ structur properti
+ court
+ social interac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,71 @@
+File name: 618523
+
+Graph edges count: 21
+ complet - index: 1
+ diff - algorithm: 1
+ docum - collec: 1
+ dynam - mainten: 1
+ effici - method: 1
+ high - frequenc: 1
+ increment - crawl: 1
+ increment - invert: 1
+ index - docum: 1
+ index - updat: 1
+ invert - index: 6
+ keyword - index: 1
+ landmarkdiff - method: 1
+ landmark - recent: 1
+ previou - work: 1
+ recent - work: 1
+ search - engin: 1
+ signific - save: 1
+ web - index: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 29
+ algorithm: 0.033741313788213746
+ collec: 0.07391823317531634
+ complet: 0.018238547993629055
+ crawl: 0.0259899308909214
+ diff: 0.018238547993629055
+ docum: 0.06550551197845564
+ dynam: 0.018238547993629055
+ effici: 0.018238547993629055
+ engin: 0.033741313788213746
+ frequenc: 0.033741313788213746
+ high: 0.018238547993629055
+ increment: 0.018238547993629055
+ index: 0.11121638584665078
+ invert: 0.0259899308909214
+ keyword: 0.018238547993629055
+ landmark: 0.018238547993629055
+ landmarkdiff: 0.018238547993629055
+ mainten: 0.033741313788213746
+ method: 0.049244079582798445
+ previou: 0.018238547993629055
+ recent: 0.033741313788213746
+ save: 0.033741313788213746
+ search: 0.018238547993629055
+ signific: 0.018238547993629055
+ updat: 0.06550551197845564
+ web: 0.04691866471361074
+ wide: 0.033741313788213746
+ work: 0.06242143050819544
+ world: 0.018238547993629055
+
+N-grams list: 10
+ index docum
+ web index
+ increment invert index
+ docum collec
+ invert index
+ complet index
+ keyword index
+ landmark recent work
+ world wide web
+ previou work
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

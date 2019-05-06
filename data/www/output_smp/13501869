@@ -1,0 +1,92 @@
+File name: 13501869
+
+Graph edges count: 29
+ basic - auction: 1
+ bid - scheme: 1
+ complex - dynam: 1
+ domin - sourc: 1
+ dynam - program: 1
+ extra - cost: 1
+ extra - inform: 1
+ extrem - case: 1
+ hybrid - auction: 5
+ hybrid - bid: 1
+ hybrid - fashion: 1
+ import - step: 1
+ internet - commerc: 1
+ multipl - slot: 1
+ multipl - wai: 1
+ obscur - keyword: 1
+ perclick - auction: 1
+ perclick - bid: 3
+ perimpres - bid: 4
+ price - mechan: 1
+ price - model: 1
+ program - strategi: 1
+ revenu - gener: 1
+ riskavers - advert: 1
+ riskseek - advert: 1
+ risk - characterist: 1
+ search - auction: 1
+ separ - belief: 1
+ sophist - price: 1
+
+PageRank scores count: 42
+ advert: 0.04112330072873283
+ auction: 0.05191182098164113
+ basic: 0.015230852121752899
+ belief: 0.028177076425242868
+ bid: 0.038965596678151165
+ case: 0.028177076425242868
+ characterist: 0.028177076425242868
+ commerc: 0.028177076425242868
+ complex: 0.015230852121752899
+ cost: 0.02170396427349788
+ domin: 0.015230852121752899
+ dynam: 0.028177076425242868
+ extra: 0.015230852121752899
+ extrem: 0.015230852121752899
+ fashion: 0.01954626022291622
+ gener: 0.028177076425242868
+ hybrid: 0.015230852121752899
+ import: 0.015230852121752899
+ inform: 0.02170396427349788
+ internet: 0.015230852121752899
+ keyword: 0.028177076425242868
+ mechan: 0.02720610960248112
+ model: 0.02720610960248112
+ multipl: 0.015230852121752899
+ obscur: 0.015230852121752899
+ perclick: 0.015230852121752899
+ perimpres: 0.015230852121752899
+ price: 0.028177076425242868
+ program: 0.03918136708320934
+ revenu: 0.015230852121752899
+ risk: 0.015230852121752899
+ riskavers: 0.015230852121752899
+ riskseek: 0.015230852121752899
+ scheme: 0.048351609298181386
+ search: 0.015230852121752899
+ separ: 0.015230852121752899
+ slot: 0.02170396427349788
+ sophist: 0.015230852121752899
+ sourc: 0.028177076425242868
+ step: 0.028177076425242868
+ strategi: 0.048535014142480834
+ wai: 0.02170396427349788
+
+N-grams list: 10
+ perimpres bid scheme
+ complex dynam program
+ sophist price model
+ basic auction
+ perclick auction
+ search auction
+ hybrid auction
+ riskavers advert
+ riskseek advert
+ price mechan
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,116 @@
+File name: 5851594
+
+Graph edges count: 41
+ adapt - greedi: 1
+ advertis - campaign: 1
+ advertis - opportun: 1
+ alloc - mechan: 2
+ ampl - compens: 1
+ approxim - result: 1
+ autom - system: 1
+ banner - advertis: 4
+ bicriteria - approxim: 1
+ brand - recogni: 1
+ combinatori - alloc: 2
+ current - banner: 1
+ current - combinatori: 1
+ current - negoti: 1
+ current - solution: 1
+ distinguish - featur: 1
+ failur - mode: 1
+ feasibl - subset: 1
+ greedi - algorithm: 2
+ greedi - heurist: 1
+ host - webpag: 1
+ larg - transac: 1
+ major - goal: 1
+ margin - perimpres: 2
+ maximum - margin: 2
+ maximum - perimpres: 1
+ maximum - total: 1
+ monetari - payment: 1
+ negoti - system: 1
+ optimum - algorithm: 1
+ optimum - solution: 1
+ perform - guarante: 1
+ perimpres - price: 1
+ perimpres - profit: 2
+ simpl - greedi: 1
+ structur - approxim: 1
+ suboptim - alloc: 1
+ theoret - techniqu: 1
+ total - quantiti: 1
+ transac - cost: 1
+ undesir - failur: 1
+
+PageRank scores count: 54
+ adapt: 0.011086333668617943
+ advertis: 0.022512186305837307
+ algorithm: 0.028519593362519656
+ alloc: 0.031935569924162556
+ ampl: 0.011086333668617943
+ approxim: 0.02993310090526844
+ autom: 0.011086333668617943
+ banner: 0.013442179573199254
+ bicriteria: 0.011086333668617943
+ brand: 0.011086333668617943
+ campaign: 0.020654012848598795
+ combinatori: 0.013442179573199254
+ compens: 0.02050971728694319
+ cost: 0.028519593362519656
+ current: 0.011086333668617943
+ distinguish: 0.011086333668617943
+ failur: 0.02050971728694319
+ feasibl: 0.011086333668617943
+ featur: 0.02050971728694319
+ goal: 0.02050971728694319
+ greedi: 0.02993310090526844
+ guarante: 0.02050971728694319
+ heurist: 0.02380790155335703
+ host: 0.011086333668617943
+ larg: 0.011086333668617943
+ major: 0.011086333668617943
+ margin: 0.014227461541393026
+ maximum: 0.011086333668617943
+ mechan: 0.03823156810415611
+ mode: 0.028519593362519656
+ monetari: 0.011086333668617943
+ negoti: 0.013442179573199254
+ opportun: 0.020654012848598795
+ optimum: 0.011086333668617943
+ payment: 0.02050971728694319
+ perform: 0.011086333668617943
+ perimpres: 0.026320803851577097
+ price: 0.022272675305538208
+ profit: 0.022272675305538208
+ quantiti: 0.023179675978802012
+ recogni: 0.02050971728694319
+ result: 0.03652946943809612
+ simpl: 0.011086333668617943
+ solution: 0.01815387138236188
+ structur: 0.011086333668617943
+ suboptim: 0.011086333668617943
+ subset: 0.02050971728694319
+ system: 0.031935569924162556
+ techniqu: 0.02050971728694319
+ theoret: 0.011086333668617943
+ total: 0.014227461541393026
+ transac: 0.02050971728694319
+ undesir: 0.011086333668617943
+ webpag: 0.02050971728694319
+
+N-grams list: 10
+ combinatori alloc mechan
+ structur approxim result
+ adapt greedi algorithm
+ simpl greedi algorithm
+ undesir failur mode
+ larg transac cost
+ maximum perimpres price
+ current combinatori alloc
+ current negoti system
+ greedi heurist
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

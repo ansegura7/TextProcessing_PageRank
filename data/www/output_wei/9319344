@@ -1,0 +1,88 @@
+File name: 9319344
+
+Graph edges count: 26
+ averag - path: 1
+ comment - activ: 1
+ common - featur: 1
+ compon - small: 1
+ degre - distribu: 1
+ discus - thread: 2
+ giant - compon: 1
+ high - cluster: 1
+ intuit - radial: 1
+ kolmogorovsmirnov - statist: 1
+ moder - reciproc: 1
+ nest - level: 1
+ neutral - assort: 1
+ path - length: 1
+ powerlaw - distribu: 1
+ radial - tree: 1
+ simpl - measur: 1
+ small - averag: 1
+ social - network: 3
+ statist - analysi: 1
+ statist - test: 1
+ strong - heterogen: 1
+ tradition - social: 1
+ tree - represent: 1
+ user - comment: 1
+ websit - slashdot: 1
+
+PageRank scores count: 41
+ activ: 0.03538674203469562
+ analysi: 0.02457126062564628
+ assort: 0.025448191550704335
+ averag: 0.043834509946088215
+ cluster: 0.025448191550704335
+ comment: 0.025448191550704335
+ common: 0.01375577921659694
+ compon: 0.025448191550704335
+ degre: 0.01375577921659694
+ discus: 0.01375577921659694
+ distribu: 0.03714060388481173
+ featur: 0.025448191550704335
+ giant: 0.01375577921659694
+ heterogen: 0.025448191550704335
+ high: 0.01375577921659694
+ intuit: 0.01375577921659694
+ kolmogorovsmirnov: 0.01375577921659694
+ length: 0.05711862498675306
+ level: 0.025448191550704335
+ measur: 0.025448191550704335
+ moder: 0.01375577921659694
+ nest: 0.01375577921659694
+ network: 0.03538674203469562
+ neutral: 0.01375577921659694
+ path: 0.05101511267077192
+ powerlaw: 0.01375577921659694
+ radial: 0.025448191550704335
+ reciproc: 0.025448191550704335
+ represent: 0.043834509946088215
+ simpl: 0.01375577921659694
+ slashdot: 0.025448191550704335
+ small: 0.03538674203469562
+ social: 0.025448191550704335
+ statist: 0.025448191550704335
+ strong: 0.01375577921659694
+ test: 0.02457126062564628
+ thread: 0.025448191550704335
+ tradition: 0.01375577921659694
+ tree: 0.03538674203469562
+ user: 0.01375577921659694
+ websit: 0.01375577921659694
+
+N-grams list: 10
+ averag path length
+ intuit radial tree
+ tradition social network
+ giant compon small
+ user comment activ
+ kolmogorovsmirnov statist test
+ social network
+ powerlaw distribu
+ degre distribu
+ statist analysi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

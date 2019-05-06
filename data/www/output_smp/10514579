@@ -1,0 +1,87 @@
+File name: 10514579
+
+Graph edges count: 27
+ activ - learn: 3
+ author - inten: 1
+ autom - approach: 1
+ collabor - inform: 1
+ collabor - natur: 1
+ experiment - result: 1
+ extens - manual: 1
+ high - visibl: 1
+ incomplet - label: 1
+ influenti - collabor: 1
+ inform - system: 1
+ labori - process: 1
+ languag - model: 5
+ learn - approach: 1
+ learn - model: 1
+ malici - edit: 1
+ manual - effort: 1
+ model - statist: 1
+ previou - version: 1
+ revision - histori: 2
+ statist - languag: 2
+ unexpect - word: 1
+ vandal - detec: 1
+ vandal - instanc: 1
+ wikipedia - articl: 2
+ wikipedia - domain: 1
+ wikipedia - vandal: 3
+
+PageRank scores count: 39
+ activ: 0.012549875952319881
+ approach: 0.033084610479303285
+ articl: 0.016105674138810516
+ author: 0.012549875952319881
+ autom: 0.012549875952319881
+ collabor: 0.02321727051179178
+ detec: 0.01939478746131435
+ domain: 0.016105674138810516
+ edit: 0.02321727051179178
+ effort: 0.03228455588734289
+ experiment: 0.012549875952319881
+ extens: 0.012549875952319881
+ high: 0.012549875952319881
+ histori: 0.02321727051179178
+ incomplet: 0.012549875952319881
+ influenti: 0.012549875952319881
+ inform: 0.022417215919831385
+ instanc: 0.01939478746131435
+ inten: 0.02321727051179178
+ label: 0.02321727051179178
+ labori: 0.012549875952319881
+ languag: 0.10214113645168163
+ learn: 0.02321727051179178
+ malici: 0.012549875952319881
+ manual: 0.02321727051179178
+ model: 0.10923718190376078
+ natur: 0.022417215919831385
+ previou: 0.012549875952319881
+ process: 0.02321727051179178
+ result: 0.02321727051179178
+ revision: 0.012549875952319881
+ statist: 0.105401467141032
+ system: 0.031604509484176556
+ unexpect: 0.012549875952319881
+ vandal: 0.016105674138810516
+ version: 0.02321727051179178
+ visibl: 0.02321727051179178
+ wikipedia: 0.012549875952319881
+ word: 0.02321727051179178
+
+N-grams list: 10
+ statist languag model
+ languag model statist
+ languag model
+ activ learn model
+ model
+ activ learn approach
+ extens manual effort
+ influenti collabor inform
+ collabor natur
+ autom approach
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,59 @@
+File name: 650974
+
+Graph edges count: 17
+ access - web: 1
+ content - deliveri: 1
+ content - owner: 2
+ deliveri - tradeoff: 1
+ extran - content: 2
+ extran - materi: 1
+ futur - measur: 1
+ latenc - reduc: 1
+ measurementbas - studi: 1
+ popular - page: 1
+ popular - site: 1
+ public - databas: 1
+ share - public: 1
+ site - user: 1
+ web - access: 1
+ web - page: 1
+ web - site: 1
+
+PageRank scores count: 21
+ access: 0.04756761586643773
+ content: 0.04408446710598476
+ databas: 0.0723876329554122
+ deliveri: 0.04062962057037389
+ extran: 0.028139021557011545
+ futur: 0.028139021557011545
+ latenc: 0.028139021557011545
+ materi: 0.03611174433149815
+ measur: 0.052057189880471366
+ measurementbas: 0.028139021557011545
+ owner: 0.05312021958373624
+ page: 0.05952670002816762
+ popular: 0.028139021557011545
+ public: 0.052057189880471366
+ reduc: 0.052057189880471366
+ share: 0.028139021557011545
+ site: 0.05952670002816762
+ studi: 0.052057189880471366
+ tradeoff: 0.06267419904182935
+ user: 0.07873671658095402
+ web: 0.06857149504348362
+
+N-grams list: 10
+ web access web
+ share public databas
+ content deliveri tradeoff
+ site user
+ web site
+ content owner
+ popular page
+ popular site
+ measurementbas studi
+ futur measur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

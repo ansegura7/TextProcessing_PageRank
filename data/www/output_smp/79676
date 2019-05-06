@@ -1,0 +1,74 @@
+File name: 79676
+
+Graph edges count: 24
+ architectur - framework: 1
+ architectur - ltsa: 1
+ architectur - pattern: 1
+ assembli - coursewar: 1
+ coursewar - architectur: 1
+ coursewar - system: 1
+ deliveri - function: 1
+ educ - web: 1
+ finer - degre: 1
+ gener - architectur: 1
+ interoper - implement: 1
+ learn - technologi: 1
+ ltsa - approach: 1
+ metadata - annot: 1
+ object - discoveri: 1
+ philosophi - work: 1
+ recent - develop: 1
+ servic - architectur: 1
+ servic - framework: 1
+ servic - philosophi: 1
+ standard - architectur: 1
+ technologi - standard: 1
+ web - servic: 4
+ web - technologi: 1
+
+PageRank scores count: 29
+ annot: 0.03320071162895713
+ approach: 0.058688179267627275
+ architectur: 0.1058303154546857
+ assembli: 0.0179463306102471
+ coursewar: 0.03320071162895713
+ degre: 0.03320071162895713
+ deliveri: 0.0179463306102471
+ develop: 0.03320071162895713
+ discoveri: 0.03320071162895713
+ educ: 0.0179463306102471
+ finer: 0.0179463306102471
+ framework: 0.05701429935396498
+ function: 0.03320071162895713
+ gener: 0.0179463306102471
+ implement: 0.03320071162895713
+ interoper: 0.0179463306102471
+ learn: 0.0179463306102471
+ ltsa: 0.047931586655741376
+ metadata: 0.0179463306102471
+ object: 0.0179463306102471
+ pattern: 0.047931586655741376
+ philosophi: 0.027029043308470696
+ recent: 0.0179463306102471
+ servic: 0.03205663305255388
+ standard: 0.058160692570821425
+ system: 0.03205663305255388
+ technologi: 0.04731101407126391
+ web: 0.03320071162895713
+ work: 0.04092101742244719
+
+N-grams list: 10
+ gener architectur framework
+ web servic architectur
+ architectur ltsa
+ architectur pattern
+ coursewar architectur
+ learn technologi standard
+ web servic framework
+ ltsa approach
+ web servic philosophi
+ educ web servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,50 @@
+File name: 91382
+
+Graph edges count: 11
+ claimak - model: 1
+ claimak - system: 1
+ current - knowledg: 1
+ direct - graph: 1
+ graph - model: 1
+ primari - activ: 1
+ scholarli - publish: 1
+ semant - structur: 1
+ specialist - servic: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 18
+ activ: 0.06620146716765075
+ claimak: 0.03578457684737879
+ current: 0.03578457684737879
+ direct: 0.03578457684737879
+ graph: 0.06620146716765075
+ knowledg: 0.06620146716765075
+ model: 0.10726426910001792
+ primari: 0.03578457684737879
+ publish: 0.06620146716765075
+ scholarli: 0.03578457684737879
+ semant: 0.03578457684737879
+ servic: 0.06620146716765075
+ specialist: 0.03578457684737879
+ structur: 0.06620146716765075
+ system: 0.05099302200751477
+ web: 0.09205582393988195
+ wide: 0.06620146716765075
+ world: 0.03578457684737879
+
+N-grams list: 10
+ direct graph model
+ world wide web
+ claimak model
+ current knowledg
+ scholarli publish
+ specialist servic
+ primari activ
+ semant structur
+ claimak system
+ structur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

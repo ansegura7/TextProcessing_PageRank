@@ -1,0 +1,100 @@
+File name: 9940239
+
+Graph edges count: 34
+ advertis - new: 1
+ articleselec - strategi: 1
+ articl - etc: 1
+ articl - recommend: 1
+ bandit - algorithm: 3
+ bandit - problem: 1
+ contextfre - bandit: 1
+ contextualbandit - approach: 1
+ contextu - bandit: 2
+ contextu - inform: 1
+ evalu - method: 1
+ front - page: 1
+ gener - contextu: 1
+ individu - user: 1
+ learn - algorithm: 1
+ method - inapplic: 1
+ modul - dataset: 1
+ new - articl: 3
+ offlin - evalu: 1
+ page - todai: 1
+ person - new: 1
+ person - recommend: 1
+ practic - interest: 1
+ principl - approach: 1
+ random - traffic: 1
+ recent - advanc: 1
+ standard - contextfre: 1
+ todai - modul: 1
+ total - user: 1
+ tradition - collabor: 1
+ userclick - feedback: 1
+ user - click: 1
+ user - inform: 1
+ web - servic: 3
+
+PageRank scores count: 45
+ advanc: 0.022222420755861106
+ advertis: 0.01201211932749249
+ algorithm: 0.03936934571712765
+ approach: 0.03243272218422972
+ articl: 0.03524055507703109
+ articleselec: 0.01201211932749249
+ bandit: 0.0403457057912154
+ click: 0.02579602625579012
+ collabor: 0.022222420755861106
+ contextfre: 0.022222420755861106
+ contextu: 0.022222420755861106
+ contextualbandit: 0.01201211932749249
+ dataset: 0.04454852111666763
+ etc: 0.026989355235230703
+ evalu: 0.022222420755861106
+ feedback: 0.022222420755861106
+ front: 0.01201211932749249
+ gener: 0.01201211932749249
+ inapplic: 0.03827811975197075
+ individu: 0.01201211932749249
+ inform: 0.03524055507703109
+ interest: 0.022222420755861106
+ learn: 0.01201211932749249
+ method: 0.030901176969974426
+ modul: 0.03827811975197075
+ new: 0.02732757147004541
+ offlin: 0.01201211932749249
+ page: 0.022222420755861106
+ person: 0.01201211932749249
+ practic: 0.01201211932749249
+ principl: 0.01201211932749249
+ problem: 0.029159044288759036
+ random: 0.01201211932749249
+ recent: 0.01201211932749249
+ recommend: 0.032094505949415014
+ servic: 0.022222420755861106
+ standard: 0.01201211932749249
+ strategi: 0.022222420755861106
+ todai: 0.030901176969974426
+ total: 0.01201211932749249
+ tradition: 0.01201211932749249
+ traffic: 0.022222420755861106
+ user: 0.03243272218422972
+ userclick: 0.01201211932749249
+ web: 0.01201211932749249
+
+N-grams list: 10
+ contextu bandit problem
+ modul dataset
+ bandit algorithm
+ standard contextfre bandit
+ person new articl
+ advertis new articl
+ gener contextu bandit
+ total user click
+ method inapplic
+ user inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,84 @@
+File name: 13395437
+
+Graph edges count: 28
+ attribut - valu: 2
+ autocorrel - attribut: 1
+ class - label: 1
+ dynam - network: 1
+ effect - relat: 1
+ homophili - effect: 3
+ influenc - effect: 1
+ neighbor - valu: 1
+ network - data: 2
+ network - dataset: 1
+ polit - belief: 1
+ present - instanc: 2
+ random - techniqu: 1
+ random - test: 1
+ realworld - social: 1
+ recent - surg: 1
+ relat - autocorrel: 1
+ relat - domain: 1
+ relat - network: 1
+ semisynthet - data: 1
+ signific - portion: 1
+ similar - attribut: 1
+ social - influenc: 2
+ social - network: 2
+ social - process: 1
+ static - relat: 1
+ tempor - network: 1
+ time - step: 1
+
+PageRank scores count: 35
+ attribut: 0.05726061798433138
+ autocorrel: 0.03463543776499827
+ belief: 0.02782049588408285
+ class: 0.015038105883288027
+ data: 0.06729403482548263
+ dataset: 0.03477487535398792
+ domain: 0.03463543776499827
+ dynam: 0.015038105883288027
+ effect: 0.04864300919537761
+ homophili: 0.015038105883288027
+ influenc: 0.024497074483876197
+ instanc: 0.02782049588408285
+ label: 0.02782049588408285
+ neighbor: 0.015038105883288027
+ network: 0.06965918636717609
+ polit: 0.015038105883288027
+ portion: 0.02782049588408285
+ present: 0.015038105883288027
+ process: 0.019767590183582113
+ random: 0.015038105883288027
+ realworld: 0.015038105883288027
+ recent: 0.015038105883288027
+ relat: 0.06916705370015382
+ semisynthet: 0.015038105883288027
+ signific: 0.015038105883288027
+ similar: 0.015038105883288027
+ social: 0.02782049588408285
+ static: 0.015038105883288027
+ step: 0.02782049588408285
+ surg: 0.02782049588408285
+ techniqu: 0.02142930088368544
+ tempor: 0.015038105883288027
+ test: 0.02142930088368544
+ time: 0.015038105883288027
+ valu: 0.07649202117076452
+
+N-grams list: 10
+ autocorrel attribut valu
+ static relat network
+ dynam network data
+ tempor network data
+ similar attribut valu
+ homophili effect relat
+ realworld social network
+ relat domain
+ social influenc effect
+ social network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

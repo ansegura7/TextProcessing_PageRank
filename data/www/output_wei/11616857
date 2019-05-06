@@ -1,0 +1,82 @@
+File name: 11616857
+
+Graph edges count: 28
+ activ - log: 1
+ affili - tenur: 1
+ communitybas - initi: 1
+ communitybas - project: 1
+ communitybas - scientif: 1
+ commun - research: 1
+ comput - aspect: 1
+ comput - project: 1
+ comput - resourc: 1
+ comput - task: 1
+ comput - user: 1
+ individu - motiv: 1
+ intric - relationship: 1
+ largescal - task: 1
+ larg - comput: 1
+ larg - number: 1
+ motiv - social: 1
+ onlin - commun: 1
+ particip - aspect: 1
+ research - atten: 1
+ research - volunt: 1
+ resourc - contribu: 1
+ scientif - research: 1
+ social - affili: 1
+ social - psychologi: 1
+ survei - data: 1
+ threedimension - model: 1
+ volunt - comput: 7
+
+PageRank scores count: 33
+ activ: 0.016830037371077994
+ affili: 0.035230527604344704
+ aspect: 0.04143091463104674
+ atten: 0.04303300305473217
+ commun: 0.031135569136494293
+ communitybas: 0.016830037371077994
+ comput: 0.060560855850308494
+ contribu: 0.03988661280686387
+ data: 0.031135569136494293
+ individu: 0.016830037371077994
+ initi: 0.021598547959550095
+ intric: 0.016830037371077994
+ larg: 0.016830037371077994
+ largescal: 0.016830037371077994
+ log: 0.031135569136494293
+ model: 0.031135569136494293
+ motiv: 0.031135569136494293
+ number: 0.023982803253786142
+ onlin: 0.016830037371077994
+ particip: 0.016830037371077994
+ project: 0.03189389345410253
+ psychologi: 0.035230527604344704
+ relationship: 0.031135569136494293
+ research: 0.06165403690271572
+ resourc: 0.02712538286563044
+ scientif: 0.021598547959550095
+ social: 0.04329527113709815
+ survei: 0.016830037371077994
+ task: 0.04143091463104674
+ tenur: 0.046775985834770994
+ threedimension: 0.016830037371077994
+ user: 0.02712538286563044
+ volunt: 0.04303300305473217
+
+N-grams list: 10
+ volunt comput project
+ volunt comput user
+ larg comput task
+ onlin commun research
+ research atten
+ volunt comput
+ comput aspect
+ communitybas scientif research
+ individu motiv social
+ comput resourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

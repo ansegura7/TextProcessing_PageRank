@@ -1,0 +1,55 @@
+File name: 43125
+
+Graph edges count: 14
+ 800k - trust: 1
+ build - block: 1
+ comput - trust: 1
+ fundament - build: 1
+ high - accuraci: 1
+ larg - trust: 1
+ propag - scheme: 1
+ propag - set: 1
+ recommend - system: 1
+ small - number: 1
+ success - ecommerc: 1
+ trust - network: 1
+ trust - propag: 2
+ trust - score: 3
+
+PageRank scores count: 20
+ 800k: 0.030216082761850685
+ accuraci: 0.055899753109423765
+ block: 0.0777308729048609
+ build: 0.055899753109423765
+ comput: 0.030216082761850685
+ ecommerc: 0.055899753109423765
+ fundament: 0.030216082761850685
+ high: 0.030216082761850685
+ larg: 0.030216082761850685
+ network: 0.04541225438416476
+ number: 0.055899753109423765
+ propag: 0.060608426006478824
+ recommend: 0.030216082761850685
+ scheme: 0.05597466381460419
+ score: 0.07580459762879291
+ set: 0.05597466381460419
+ small: 0.030216082761850685
+ success: 0.030216082761850685
+ system: 0.055899753109423765
+ trust: 0.10726709380456992
+
+N-grams list: 10
+ trust propag scheme
+ 800k trust score
+ comput trust propag
+ trust score
+ larg trust network
+ fundament build block
+ trust
+ small number
+ high accuraci
+ recommend system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

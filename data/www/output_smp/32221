@@ -1,0 +1,52 @@
+File name: 32221
+
+Graph edges count: 14
+ applic - framework: 1
+ gener - issu: 1
+ machin - understand: 1
+ relev - data: 1
+ search - activ: 1
+ search - queri: 1
+ search - result: 1
+ search - term: 1
+ semant - search: 1
+ semant - web: 2
+ tradition - search: 1
+ tradition - web: 1
+ understand - data: 1
+ web - servic: 1
+
+PageRank scores count: 17
+ activ: 0.05194835461918525
+ applic: 0.037289083620770026
+ data: 0.12762188869208543
+ framework: 0.06898480469842455
+ gener: 0.037289083620770026
+ issu: 0.06898480469842455
+ machin: 0.037289083620770026
+ queri: 0.05194835461918525
+ relev: 0.037289083620770026
+ result: 0.05194835461918525
+ search: 0.06898480469842455
+ semant: 0.037289083620770026
+ servic: 0.09592616761443089
+ term: 0.05194835461918525
+ tradition: 0.037289083620770026
+ understand: 0.06898480469842455
+ web: 0.06898480469842455
+
+N-grams list: 10
+ machin understand data
+ relev data
+ web servic
+ tradition search result
+ semant search activ
+ search queri
+ search term
+ applic framework
+ tradition web
+ semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,40 @@
+File name: 8957938
+
+Graph edges count: 8
+ current - headword: 1
+ encycloped - term: 1
+ encycloped - web: 1
+ highqual - page: 1
+ page - fragment: 2
+ search - site: 2
+ term - descrip: 2
+ web - search: 2
+
+PageRank scores count: 11
+ current: 0.051481210966784964
+ descrip: 0.11383782775030327
+ encycloped: 0.051481210966784964
+ fragment: 0.13243541521205432
+ headword: 0.09524024028855217
+ highqual: 0.051481210966784964
+ page: 0.09524024028855217
+ search: 0.11383782775030327
+ site: 0.14824336455454273
+ term: 0.07336072562766857
+ web: 0.07336072562766857
+
+N-grams list: 10
+ web search site
+ highqual page fragment
+ encycloped web search
+ encycloped term descrip
+ page fragment
+ term descrip
+ site
+ current headword
+ headword
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

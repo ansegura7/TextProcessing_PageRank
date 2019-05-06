@@ -1,0 +1,40 @@
+File name: 8937400
+
+Graph edges count: 8
+ addition - memori: 1
+ data - sourc: 1
+ digit - photograph: 2
+ global - collec: 1
+ locat - inform: 1
+ memori - cue: 1
+ photorel - metadata: 1
+ webbas - data: 1
+
+PageRank scores count: 14
+ addition: 0.044953922229714546
+ collec: 0.0831647561249719
+ cue: 0.11564396493594067
+ data: 0.0831647561249719
+ digit: 0.044953922229714546
+ global: 0.044953922229714546
+ inform: 0.0831647561249719
+ locat: 0.044953922229714546
+ memori: 0.0831647561249719
+ metadata: 0.0831647561249719
+ photograph: 0.0831647561249719
+ photorel: 0.044953922229714546
+ sourc: 0.11564396493594067
+ webbas: 0.044953922229714546
+
+N-grams list: 7
+ addition memori cue
+ webbas data sourc
+ global collec
+ photorel metadata
+ locat inform
+ digit photograph
+ metadata
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

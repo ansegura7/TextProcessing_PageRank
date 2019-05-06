@@ -1,0 +1,61 @@
+File name: 817017
+
+Graph edges count: 16
+ altern - model: 1
+ content - trust: 3
+ entitycent - issu: 1
+ integr - part: 1
+ larg - amount: 1
+ minim - user: 1
+ prior - work: 1
+ resourc - trust: 1
+ semant - web: 1
+ simul - environ: 1
+ trust - estim: 1
+ trust - measur: 1
+ user - input: 1
+ user - interac: 1
+ web - architectur: 1
+ web - resourc: 2
+
+PageRank scores count: 24
+ altern: 0.025259858159581466
+ amount: 0.04673073759522571
+ architectur: 0.03850023381156208
+ content: 0.025259858159581466
+ entitycent: 0.025259858159581466
+ environ: 0.04673073759522571
+ estim: 0.06381171680625719
+ input: 0.045120421637552394
+ integr: 0.025259858159581466
+ interac: 0.045120421637552394
+ issu: 0.04673073759522571
+ larg: 0.025259858159581466
+ measur: 0.06381171680625719
+ minim: 0.025259858159581466
+ model: 0.04673073759522571
+ part: 0.04673073759522571
+ prior: 0.025259858159581466
+ resourc: 0.051740609463542704
+ semant: 0.025259858159581466
+ simul: 0.025259858159581466
+ trust: 0.09071025563923701
+ user: 0.04673073759522571
+ web: 0.04673073759522571
+ work: 0.04673073759522571
+
+N-grams list: 10
+ web resourc trust
+ trust estim
+ trust measur
+ minim user interac
+ content trust
+ semant web architectur
+ web resourc
+ user input
+ larg amount
+ altern model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

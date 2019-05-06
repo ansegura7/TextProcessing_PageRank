@@ -1,0 +1,115 @@
+File name: 4328019
+
+Graph edges count: 43
+ andqueri - process: 1
+ archiv - collec: 1
+ archiv - web: 1
+ betweendiffer - page: 1
+ collec - consistingof: 1
+ consistingof - multipl: 1
+ cpu - cost: 1
+ current - engin: 1
+ current - web: 1
+ data - size: 1
+ desirableto - search: 1
+ effici - search: 1
+ email - archiv: 1
+ engin - queri: 1
+ experiment - resultsbas: 1
+ file - system: 1
+ gener - framework: 1
+ index - andqueri: 1
+ index - compres: 1
+ index - size: 1
+ internet - archiv: 1
+ larg - collec: 1
+ larg - textual: 1
+ local - search: 1
+ multipl - time: 1
+ offindex - size: 1
+ perform - challeng: 1
+ queri - execu: 1
+ queri - log: 1
+ queri - processingcost: 1
+ redund - current: 1
+ search - engin: 2
+ signific - perform: 1
+ signific - reduc: 1
+ sinceth - data: 1
+ site - email: 1
+ suffici - amount: 1
+ textual - collec: 1
+ themost - recentsnapshot: 1
+ thesignific - similar: 1
+ trade - offindex: 1
+ web - search: 2
+ web - site: 1
+
+PageRank scores count: 51
+ amount: 0.016380182095366548
+ andqueri: 0.011362829021110129
+ archiv: 0.03673711614669133
+ betweendiffer: 0.008854152483981918
+ challeng: 0.019578744680205016
+ collec: 0.03895503423574975
+ compres: 0.011362829021110129
+ consistingof: 0.04196593274689502
+ cost: 0.016380182095366548
+ cpu: 0.008854152483981918
+ current: 0.016380182095366548
+ data: 0.016380182095366548
+ desirableto: 0.008854152483981918
+ effici: 0.008854152483981918
+ email: 0.02394933417802916
+ engin: 0.05767143916025336
+ execu: 0.02525203446888262
+ experiment: 0.008854152483981918
+ file: 0.008854152483981918
+ framework: 0.016380182095366548
+ gener: 0.008854152483981918
+ index: 0.008854152483981918
+ internet: 0.008854152483981918
+ larg: 0.008854152483981918
+ local: 0.008854152483981918
+ log: 0.02525203446888262
+ multipl: 0.04452519473757978
+ offindex: 0.016380182095366548
+ page: 0.016380182095366548
+ perform: 0.012617167289674231
+ process: 0.018512557151925527
+ processingcost: 0.02525203446888262
+ queri: 0.057874875770197266
+ recentsnapshot: 0.016380182095366548
+ reduc: 0.012617167289674231
+ redund: 0.008854152483981918
+ resultsbas: 0.016380182095366548
+ search: 0.049242011380293264
+ signific: 0.008854152483981918
+ similar: 0.016380182095366548
+ sinceth: 0.008854152483981918
+ site: 0.017759037515060642
+ size: 0.03920913858323325
+ suffici: 0.008854152483981918
+ system: 0.016380182095366548
+ textual: 0.012617167289674231
+ themost: 0.008854152483981918
+ thesignific: 0.008854152483981918
+ time: 0.046700568010924724
+ trade: 0.008854152483981918
+ web: 0.03142900462436512
+
+N-grams list: 10
+ search engin queri
+ archiv web search
+ search engin
+ multipl time
+ larg collec consistingof
+ queri processingcost
+ queri execu
+ archiv collec
+ current engin
+ web site email
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

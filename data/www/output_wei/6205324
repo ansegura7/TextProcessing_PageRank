@@ -1,0 +1,68 @@
+File name: 6205324
+
+Graph edges count: 19
+ algorithm - question: 1
+ approxim - algorithm: 1
+ chosen - set: 1
+ extract - revenu: 1
+ find - revenu: 1
+ gener - case: 1
+ hard - result: 1
+ influenceandexploit - strategi: 1
+ influenc - maxim: 1
+ market - strategi: 4
+ maxim - techniqu: 1
+ natur - object: 1
+ optim - market: 2
+ polynomi - time: 1
+ price - strategi: 1
+ revenu - maxim: 1
+ setfunc - maxim: 1
+ social - network: 2
+ viral - market: 1
+
+PageRank scores count: 28
+ algorithm: 0.03616230031324371
+ approxim: 0.019547189358510113
+ case: 0.03616230031324371
+ chosen: 0.019547189358510113
+ extract: 0.019547189358510113
+ find: 0.019547189358510113
+ gener: 0.019547189358510113
+ hard: 0.019547189358510113
+ influenc: 0.019547189358510113
+ influenceandexploit: 0.019547189358510113
+ market: 0.05277741126797731
+ maxim: 0.09763821084575804
+ natur: 0.019547189358510113
+ network: 0.03616230031324371
+ object: 0.03616230031324371
+ optim: 0.019547189358510113
+ polynomi: 0.019547189358510113
+ price: 0.019547189358510113
+ question: 0.05028514462476727
+ result: 0.03616230031324371
+ revenu: 0.05277741126797731
+ set: 0.03616230031324371
+ setfunc: 0.019547189358510113
+ social: 0.019547189358510113
+ strategi: 0.09763821084575802
+ techniqu: 0.10253966857740444
+ time: 0.03616230031324371
+ viral: 0.019547189358510113
+
+N-grams list: 10
+ setfunc maxim techniqu
+ optim market strategi
+ viral market strategi
+ revenu maxim
+ market strategi
+ influenc maxim
+ price strategi
+ influenceandexploit strategi
+ strategi
+ algorithm question
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

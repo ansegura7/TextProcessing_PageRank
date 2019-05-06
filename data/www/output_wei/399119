@@ -1,0 +1,106 @@
+File name: 399119
+
+Graph edges count: 35
+ answer - passag: 3
+ answer - type: 4
+ column - name: 1
+ featur - extractor: 1
+ gener - trainabl: 1
+ group - effort: 1
+ kei - techniqu: 1
+ larg - group: 1
+ learn - algorithm: 1
+ lexic - network: 1
+ offtheshelf - compon: 1
+ ontologi - question: 1
+ partofspeech - tagger: 1
+ qa - data: 1
+ qa - pair: 2
+ qa - system: 1
+ question - answer: 1
+ question - classifi: 1
+ question - fragment: 1
+ question - token: 1
+ rank - function: 1
+ recent - year: 1
+ reciproc - rank: 1
+ relat - queri: 1
+ shallow - parser: 1
+ simpl - featur: 1
+ structur - queri: 1
+ suitabl - schema: 1
+ supervis - learn: 1
+ top - trec: 1
+ trainabl - algorithm: 1
+ train - data: 1
+ trec - qa: 2
+ type - clue: 1
+ wellknown - supervis: 1
+
+PageRank scores count: 50
+ algorithm: 0.057139165838629616
+ answer: 0.016726183995785123
+ classifi: 0.016726183995785123
+ clue: 0.02911705644546281
+ column: 0.012006233464897353
+ compon: 0.022211531910060103
+ data: 0.028774814472605395
+ effort: 0.030886035588448442
+ extractor: 0.030886035588448442
+ featur: 0.022211531910060103
+ fragment: 0.016726183995785123
+ function: 0.030886035588448442
+ gener: 0.012006233464897353
+ group: 0.022211531910060103
+ kei: 0.012006233464897353
+ larg: 0.012006233464897353
+ learn: 0.030886035588448442
+ lexic: 0.012006233464897353
+ name: 0.022211531910060103
+ network: 0.022211531910060103
+ offtheshelf: 0.012006233464897353
+ ontologi: 0.012006233464897353
+ pair: 0.02513279858998794
+ parser: 0.022211531910060103
+ partofspeech: 0.012006233464897353
+ passag: 0.01809934334907622
+ qa: 0.030886035588448442
+ queri: 0.03241683035522285
+ question: 0.022211531910060103
+ rank: 0.022211531910060103
+ recent: 0.012006233464897353
+ reciproc: 0.012006233464897353
+ relat: 0.012006233464897353
+ schema: 0.022211531910060103
+ shallow: 0.012006233464897353
+ simpl: 0.012006233464897353
+ structur: 0.012006233464897353
+ suitabl: 0.012006233464897353
+ supervis: 0.022211531910060103
+ system: 0.018569516027442647
+ tagger: 0.022211531910060103
+ techniqu: 0.022211531910060103
+ token: 0.016726183995785123
+ top: 0.012006233464897353
+ train: 0.012006233464897353
+ trainabl: 0.022211531910060103
+ trec: 0.022211531910060103
+ type: 0.02013037997713584
+ wellknown: 0.012006233464897353
+ year: 0.022211531910060103
+
+N-grams list: 10
+ gener trainabl algorithm
+ trec qa data
+ answer type clue
+ simpl featur extractor
+ top trec qa
+ larg group effort
+ wellknown supervis learn
+ algorithm
+ qa pair
+ rank function
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

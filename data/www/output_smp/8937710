@@ -1,0 +1,40 @@
+File name: 8937710
+
+Graph edges count: 8
+ abil - properti: 1
+ coordin - mechan: 1
+ crawler - explor: 1
+ implicit - coordin: 1
+ ineffici - explor: 1
+ massiv - distribu: 1
+ thest - abil: 1
+ web - commun: 1
+
+PageRank scores count: 13
+ abil: 0.08707931277947749
+ commun: 0.08707931277947749
+ coordin: 0.08707931277947749
+ crawler: 0.04706989879971757
+ distribu: 0.08707931277947749
+ explor: 0.1270887267592374
+ implicit: 0.04706989879971757
+ ineffici: 0.04706989879971757
+ massiv: 0.04706989879971757
+ mechan: 0.12108731466227343
+ properti: 0.12108731466227343
+ thest: 0.04706989879971757
+ web: 0.04706989879971757
+
+N-grams list: 8
+ implicit coordin mechan
+ thest abil properti
+ crawler explor
+ ineffici explor
+ web commun
+ massiv distribu
+ commun
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

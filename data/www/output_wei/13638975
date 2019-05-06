@@ -1,0 +1,57 @@
+File name: 13638975
+
+Graph edges count: 14
+ divers - real: 1
+ fairplai - network: 1
+ footprint - propor: 1
+ graph - topologi: 2
+ market - share: 1
+ qualiti - ratio: 1
+ realist - condition: 1
+ real - data: 1
+ real - graph: 1
+ router - graph: 1
+ socialcontact - graph: 1
+ strength - ratio: 1
+ surpris - result: 1
+ virus - etc: 1
+
+PageRank scores count: 22
+ condition: 0.0515524066788233
+ data: 0.049775938610836824
+ divers: 0.027866165772336922
+ etc: 0.0515524066788233
+ fairplai: 0.027866165772336922
+ footprint: 0.027866165772336922
+ graph: 0.09714842042380958
+ market: 0.027866165772336922
+ network: 0.0515524066788233
+ propor: 0.0515524066788233
+ qualiti: 0.027866165772336922
+ ratio: 0.07523864758530968
+ real: 0.0515524066788233
+ realist: 0.027866165772336922
+ result: 0.0515524066788233
+ router: 0.027866165772336922
+ share: 0.0515524066788233
+ socialcontact: 0.027866165772336922
+ strength: 0.027866165772336922
+ surpris: 0.027866165772336922
+ topologi: 0.11044232313257507
+ virus: 0.027866165772336922
+
+N-grams list: 10
+ graph topologi
+ divers real graph
+ router graph
+ socialcontact graph
+ topologi
+ strength ratio
+ qualiti ratio
+ real data
+ surpris result
+ realist condition
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

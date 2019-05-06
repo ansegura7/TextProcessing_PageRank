@@ -1,0 +1,92 @@
+File name: 503869
+
+Graph edges count: 30
+ apach - server: 1
+ clientserv - applic: 1
+ control - transmis: 1
+ current - httpbase: 1
+ denialofservic - syn: 1
+ firefox - browser: 1
+ headoflin - block: 1
+ httpbase - clientserv: 1
+ httpbase - network: 1
+ ietf - transport: 1
+ innov - transport: 1
+ layer - protocol: 2
+ network - applic: 1
+ network - failur: 1
+ position - paper: 1
+ recent - ietf: 1
+ reliabl - web: 1
+ resourc - access: 1
+ sctp - design: 1
+ sctp - featur: 2
+ simpl - experi: 1
+ singl - tcp: 1
+ stream - control: 1
+ syn - attack: 1
+ tcp - connec: 1
+ transmis - protocol: 1
+ transport - layer: 2
+ user - request: 1
+ web - domain: 1
+ web - transport: 1
+
+PageRank scores count: 41
+ access: 0.024381722554695465
+ apach: 0.013179309489024576
+ applic: 0.04319477499685651
+ attack: 0.033903773660515724
+ block: 0.024381722554695465
+ browser: 0.024381722554695465
+ clientserv: 0.023541541574770147
+ connec: 0.033903773660515724
+ control: 0.024381722554695465
+ current: 0.013179309489024576
+ denialofservic: 0.013179309489024576
+ design: 0.016913447177581538
+ domain: 0.023541541574770147
+ experi: 0.024381722554695465
+ failur: 0.023184464658301887
+ featur: 0.0206475848661385
+ firefox: 0.013179309489024576
+ headoflin: 0.013179309489024576
+ httpbase: 0.024381722554695465
+ ietf: 0.024381722554695465
+ innov: 0.013179309489024576
+ layer: 0.06032746547916693
+ network: 0.023541541574770147
+ paper: 0.024381722554695465
+ position: 0.013179309489024576
+ protocol: 0.09327586275775482
+ recent: 0.013179309489024576
+ reliabl: 0.013179309489024576
+ request: 0.024381722554695465
+ resourc: 0.013179309489024576
+ sctp: 0.013179309489024576
+ server: 0.024381722554695465
+ simpl: 0.013179309489024576
+ singl: 0.013179309489024576
+ stream: 0.013179309489024576
+ syn: 0.024381722554695465
+ tcp: 0.024381722554695465
+ transmis: 0.033903773660515724
+ transport: 0.05546841881193219
+ user: 0.013179309489024576
+ web: 0.024381722554695465
+
+N-grams list: 10
+ layer protocol
+ innov transport layer
+ protocol
+ reliabl web transport
+ recent ietf transport
+ httpbase network applic
+ stream control transmis
+ singl tcp connec
+ denialofservic syn attack
+ current httpbase clientserv
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

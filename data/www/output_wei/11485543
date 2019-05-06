@@ -1,0 +1,67 @@
+File name: 11485543
+
+Graph edges count: 20
+ adhoc - docum: 1
+ adhoc - object: 2
+ commerci - web: 1
+ concept - challeng: 1
+ data - semant: 1
+ docum - retriev: 1
+ evalu - metric: 1
+ formal - model: 1
+ loos - set: 1
+ object - retriev: 2
+ realist - evalu: 1
+ search - applic: 1
+ search - engin: 1
+ search - problem: 1
+ search - task: 1
+ semant - search: 2
+ solid - framework: 1
+ specif - semant: 1
+ tradition - adhoc: 1
+ web - search: 3
+
+PageRank scores count: 26
+ adhoc: 0.03867339792836015
+ applic: 0.04252701911720131
+ challeng: 0.03867339792836015
+ commerci: 0.020904539420735217
+ concept: 0.020904539420735217
+ data: 0.020904539420735217
+ docum: 0.03186200216710393
+ engin: 0.04252701911720131
+ evalu: 0.03867339792836015
+ formal: 0.020904539420735217
+ framework: 0.03867339792836015
+ loos: 0.020904539420735217
+ metric: 0.05377692765984134
+ model: 0.03867339792836015
+ object: 0.04281946491347263
+ problem: 0.04252701911720131
+ realist: 0.020904539420735217
+ retriev: 0.08438378643922528
+ search: 0.10175284563042866
+ semant: 0.056442256435985085
+ set: 0.03867339792836015
+ solid: 0.020904539420735217
+ specif: 0.020904539420735217
+ task: 0.04252701911720131
+ tradition: 0.020904539420735217
+ web: 0.03867339792836015
+
+N-grams list: 10
+ semant search problem
+ web search applic
+ specif semant search
+ adhoc object retriev
+ commerci web search
+ web search
+ evalu metric
+ tradition adhoc docum
+ retriev
+ data semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

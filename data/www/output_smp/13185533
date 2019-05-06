@@ -1,0 +1,51 @@
+File name: 13185533
+
+Graph edges count: 12
+ contextu - inform: 1
+ factfind - algorithm: 1
+ factfind - process: 1
+ gener - factfind: 1
+ great - deal: 1
+ inform - extrac: 1
+ inform - extractor: 1
+ inform - retriev: 1
+ inform - sourc: 2
+ manner - analog: 1
+ relev - background: 1
+ stateoftheart - class: 1
+
+PageRank scores count: 18
+ algorithm: 0.06806058296818442
+ analog: 0.07048961706991808
+ background: 0.07048961706991808
+ class: 0.07048961706991808
+ contextu: 0.038102495713469235
+ deal: 0.07048961706991808
+ extrac: 0.05308153934082682
+ extractor: 0.05308153934082682
+ factfind: 0.07048961706991808
+ gener: 0.038102495713469235
+ great: 0.038102495713469235
+ inform: 0.07048961706991808
+ manner: 0.038102495713469235
+ process: 0.06806058296818442
+ relev: 0.038102495713469235
+ retriev: 0.05308153934082682
+ sourc: 0.05308153934082682
+ stateoftheart: 0.038102495713469235
+
+N-grams list: 10
+ factfind process
+ factfind algorithm
+ inform extractor
+ inform retriev
+ inform extrac
+ inform sourc
+ manner analog
+ great deal
+ stateoftheart class
+ relev background
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,27 @@
+File name: 1103679
+
+Graph edges count: 6
+ dynam - web: 1
+ engin - serverdriven: 1
+ larg - scale: 1
+ scale - dynam: 1
+ serverdriven - consist: 1
+ web - servic: 1
+
+PageRank scores count: 8
+ consist: 0.14500917933471222
+ dynam: 0.14500917933471222
+ engin: 0.05636897155868309
+ larg: 0.05636897155868309
+ scale: 0.1042825973835637
+ serverdriven: 0.1042825973835637
+ servic: 0.20905172945289333
+ web: 0.1796267739931885
+
+N-grams list: 2
+ engin serverdriven consist
+ larg scale dynam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

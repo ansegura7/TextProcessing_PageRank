@@ -1,0 +1,82 @@
+File name: 163229
+
+Graph edges count: 25
+ collec - hunter: 1
+ collec - make: 1
+ compon - collec: 1
+ critic - question: 1
+ design - develop: 1
+ design - review: 1
+ frequent - due: 1
+ futur - work: 1
+ harvest - recontextualiz: 1
+ hunter - gather: 2
+ inform - manag: 1
+ interac - issu: 1
+ interac - support: 2
+ iter - design: 1
+ larg - part: 1
+ main - task: 1
+ manag - practic: 1
+ poor - interac: 1
+ recontextualiz - data: 1
+ task - analysi: 1
+ user - percep: 1
+ webbas - inform: 2
+ web - page: 2
+ web - user: 1
+ withinwebpag - collec: 2
+
+PageRank scores count: 36
+ analysi: 0.041774418142033004
+ collec: 0.04384487035315418
+ compon: 0.016238840871538582
+ critic: 0.016238840871538582
+ data: 0.041774418142033004
+ design: 0.030041855612346378
+ develop: 0.029006629506785793
+ due: 0.030041855612346378
+ frequent: 0.016238840871538582
+ futur: 0.016238840871538582
+ gather: 0.04588081502742332
+ harvest: 0.016238840871538582
+ hunter: 0.03487291077162911
+ inform: 0.030041855612346378
+ interac: 0.030041855612346378
+ issu: 0.029006629506785793
+ iter: 0.016238840871538582
+ larg: 0.016238840871538582
+ main: 0.016238840871538582
+ make: 0.03487291077162911
+ manag: 0.041774418142033004
+ page: 0.023140348241942478
+ part: 0.030041855612346378
+ percep: 0.03590813687718969
+ poor: 0.016238840871538582
+ practic: 0.05174709629226664
+ question: 0.030041855612346378
+ recontextualiz: 0.030041855612346378
+ review: 0.029006629506785793
+ support: 0.029006629506785793
+ task: 0.030041855612346378
+ user: 0.023140348241942478
+ web: 0.016238840871538582
+ webbas: 0.016238840871538582
+ withinwebpag: 0.016238840871538582
+ work: 0.030041855612346378
+
+N-grams list: 10
+ withinwebpag collec make
+ withinwebpag collec hunter
+ webbas inform manag
+ harvest recontextualiz data
+ hunter gather
+ poor interac support
+ iter design review
+ task analysi
+ compon collec
+ interac issu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,105 @@
+File name: 39860
+
+Graph edges count: 36
+ alter - content: 1
+ analysi - period: 1
+ applic - server: 1
+ cach - decision: 1
+ character - driven: 1
+ character - polici: 1
+ clientspecif - categor: 1
+ client - categor: 1
+ client - character: 2
+ client - cluster: 2
+ cluster - techniqu: 1
+ divers - set: 1
+ driven - server: 1
+ enhanc - represent: 1
+ improv - web: 1
+ larg - portion: 1
+ long - time: 1
+ mirror - site: 1
+ networkawar - client: 1
+ poor - client: 1
+ poor - connect: 1
+ poor - perform: 1
+ previou - inform: 1
+ qualiti - imag: 1
+ real - recent: 1
+ request - sequenc: 1
+ server - action: 2
+ server - adapt: 1
+ server - log: 1
+ signific - number: 1
+ simpl - character: 1
+ subsequ - client: 1
+ web - page: 1
+ web - perform: 1
+ web - server: 5
+ web - site: 2
+
+PageRank scores count: 48
+ action: 0.027505514022030525
+ adapt: 0.027505514022030525
+ alter: 0.012779838586285532
+ analysi: 0.012779838586285532
+ applic: 0.012779838586285532
+ cach: 0.012779838586285532
+ categor: 0.03444521494520237
+ character: 0.03444521494520237
+ client: 0.03812651844908517
+ clientspecif: 0.012779838586285532
+ cluster: 0.023582352146859664
+ connect: 0.016400792852399766
+ content: 0.023642701384628234
+ decision: 0.023642701384628234
+ divers: 0.012779838586285532
+ driven: 0.02741905493799654
+ enhanc: 0.012779838586285532
+ imag: 0.023642701384628234
+ improv: 0.012779838586285532
+ inform: 0.023642701384628234
+ larg: 0.012779838586285532
+ log: 0.027505514022030525
+ long: 0.012779838586285532
+ mirror: 0.012779838586285532
+ networkawar: 0.012779838586285532
+ number: 0.023642701384628234
+ page: 0.01780391263051903
+ perform: 0.021424866896633265
+ period: 0.023642701384628234
+ polici: 0.02741905493799654
+ poor: 0.012779838586285532
+ portion: 0.023642701384628234
+ previou: 0.012779838586285532
+ qualiti: 0.012779838586285532
+ real: 0.012779838586285532
+ recent: 0.023642701384628234
+ represent: 0.023642701384628234
+ request: 0.012779838586285532
+ sequenc: 0.023642701384628234
+ server: 0.0519729721261588
+ set: 0.023642701384628234
+ signific: 0.012779838586285532
+ simpl: 0.012779838586285532
+ site: 0.028666775428861733
+ subsequ: 0.012779838586285532
+ techniqu: 0.03282483791111625
+ time: 0.023642701384628234
+ web: 0.023642701384628234
+
+N-grams list: 10
+ web server log
+ client character driven
+ applic server action
+ server adapt
+ server action
+ web server
+ simpl character polici
+ networkawar client cluster
+ client categor
+ client character
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

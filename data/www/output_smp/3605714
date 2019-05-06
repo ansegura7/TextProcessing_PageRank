@@ -1,0 +1,132 @@
+File name: 3605714
+
+Graph edges count: 50
+ amp - model: 2
+ asynchron - multiprocess: 1
+ basic - thread: 1
+ competit - perform: 1
+ disk - speed: 1
+ futur - largescal: 1
+ global - inform: 1
+ helper - thread: 2
+ high - perform: 1
+ indepth - perform: 1
+ inform - share: 1
+ io - oper: 1
+ largescal - smpsoc: 1
+ machin - design: 1
+ machin - increas: 1
+ main - advantag: 1
+ memori - size: 1
+ minim - synchron: 1
+ mp - model: 1
+ mp - mt: 1
+ mt - sped: 1
+ multipl - thread: 1
+ multiprocess - eventdriven: 1
+ multithread - pipelin: 2
+ networkbas - servic: 1
+ nonblock - io: 1
+ overhead - due: 1
+ perform - analysi: 1
+ perform - web: 1
+ pipelin - model: 2
+ pipelin - web: 3
+ prior - web: 1
+ propos - pipelin: 1
+ recent - research: 1
+ research - thrust: 1
+ server - architectur: 4
+ server - model: 2
+ server - suitabl: 1
+ server - workload: 1
+ simul - result: 1
+ singleprocess - eventdriven: 1
+ size - disk: 1
+ smpsoc - machin: 3
+ symmetr - multiprocessor: 1
+ synchron - overhead: 1
+ system - perform: 1
+ thread - minim: 1
+ thread - pool: 2
+ web - server: 7
+ workload - paramet: 1
+
+PageRank scores count: 61
+ advantag: 0.014738580347065473
+ amp: 0.007966800187602959
+ analysi: 0.02286471653842049
+ architectur: 0.01666409371178264
+ asynchron: 0.007966800187602959
+ basic: 0.007966800187602959
+ competit: 0.007966800187602959
+ design: 0.018756362162926574
+ disk: 0.02049459348260861
+ due: 0.03276893174333338
+ eventdriven: 0.027266373642071125
+ futur: 0.007966800187602959
+ global: 0.007966800187602959
+ helper: 0.007966800187602959
+ high: 0.007966800187602959
+ increas: 0.018756362162926574
+ indepth: 0.007966800187602959
+ inform: 0.014738580347065473
+ io: 0.014738580347065473
+ largescal: 0.014738580347065473
+ machin: 0.025387204647820277
+ main: 0.007966800187602959
+ memori: 0.007966800187602959
+ minim: 0.019986709970648924
+ model: 0.03596366716625081
+ mp: 0.007966800187602959
+ mt: 0.011352690267334216
+ multipl: 0.007966800187602959
+ multiprocess: 0.014738580347065473
+ multiprocessor: 0.014738580347065473
+ multithread: 0.007966800187602959
+ networkbas: 0.007966800187602959
+ nonblock: 0.007966800187602959
+ oper: 0.02049459348260861
+ overhead: 0.029178978300859318
+ paramet: 0.022131279842618205
+ perform: 0.035053920825453014
+ pipelin: 0.021510360506527985
+ pool: 0.019986709970648924
+ prior: 0.007966800187602959
+ propos: 0.007966800187602959
+ recent: 0.007966800187602959
+ research: 0.014738580347065473
+ result: 0.014738580347065473
+ server: 0.04092844011378675
+ servic: 0.014738580347065473
+ share: 0.02049459348260861
+ simul: 0.007966800187602959
+ singleprocess: 0.007966800187602959
+ size: 0.014738580347065473
+ smpsoc: 0.02049459348260861
+ sped: 0.017616586914837043
+ speed: 0.025387204647820277
+ suitabl: 0.01666409371178264
+ symmetr: 0.007966800187602959
+ synchron: 0.024955503662654543
+ system: 0.007966800187602959
+ thread: 0.0282821406659905
+ thrust: 0.02049459348260861
+ web: 0.038778399913157395
+ workload: 0.01666409371178264
+
+N-grams list: 10
+ web server architectur
+ web server workload
+ prior web server
+ high perform web
+ server model
+ thread minim synchron
+ multithread pipelin web
+ propos pipelin web
+ indepth perform analysi
+ smpsoc machin design
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,53 @@
+File name: 11840142
+
+Graph edges count: 14
+ analog - reason: 1
+ analog - reasoningbas: 1
+ answer - questionansw: 1
+ commun - answer: 1
+ commun - questionansw: 1
+ lexic - gap: 1
+ previou - relev: 1
+ questionansw - site: 1
+ questionansw - thread: 1
+ rank - commun: 1
+ reasoningbas - method: 1
+ reason - due: 1
+ relat - data: 1
+ relev - knowledg: 1
+
+PageRank scores count: 18
+ analog: 0.031109336582703546
+ answer: 0.055569052470854204
+ commun: 0.05755227267800156
+ data: 0.05755227267800156
+ due: 0.06879052051850322
+ gap: 0.05755227267800156
+ knowledg: 0.08002876835900488
+ lexic: 0.031109336582703546
+ method: 0.06879052051850322
+ previou: 0.031109336582703546
+ questionansw: 0.10280274707108028
+ rank: 0.031109336582703546
+ reason: 0.04433080463035255
+ reasoningbas: 0.04433080463035255
+ relat: 0.031109336582703546
+ relev: 0.05755227267800156
+ site: 0.07480050408791268
+ thread: 0.07480050408791268
+
+N-grams list: 10
+ commun questionansw site
+ answer questionansw thread
+ previou relev knowledg
+ analog reason due
+ rank commun answer
+ analog reasoningbas method
+ lexic gap
+ relat data
+ answer
+ analog
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

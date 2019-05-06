@@ -1,0 +1,76 @@
+File name: 9228586
+
+Graph edges count: 24
+ baselin - method: 1
+ build - search: 1
+ content - inform: 1
+ experiment - result: 1
+ hierarchi - similar: 1
+ kei - machineri: 1
+ learn - problem: 2
+ learn - task: 2
+ learn - technologi: 1
+ optim - problem: 1
+ optim - task: 1
+ rank - model: 2
+ rank - task: 1
+ relat - inform: 2
+ relat - object: 2
+ relev - feedback: 1
+ search - engin: 1
+ search - learn: 1
+ similar - etc: 1
+ sort - object: 1
+ statist - learn: 1
+ topic - distil: 1
+ url - hierarchi: 1
+ web - search: 4
+
+PageRank scores count: 31
+ baselin: 0.01941672168071142
+ build: 0.01941672168071142
+ content: 0.01941672168071142
+ distil: 0.035920935109316134
+ engin: 0.041697409809327776
+ etc: 0.06187381072579703
+ experiment: 0.01941672168071142
+ feedback: 0.035920935109316134
+ hierarchi: 0.035920935109316134
+ inform: 0.04417304182361848
+ kei: 0.01941672168071142
+ learn: 0.05820162323793248
+ machineri: 0.035920935109316134
+ method: 0.035920935109316134
+ model: 0.02766882839501377
+ object: 0.04417304182361848
+ optim: 0.01941672168071142
+ problem: 0.04415928831242798
+ rank: 0.01941672168071142
+ relat: 0.01941672168071142
+ relev: 0.01941672168071142
+ result: 0.035920935109316134
+ search: 0.05242514853792083
+ similar: 0.04994951652363013
+ sort: 0.01941672168071142
+ statist: 0.01941672168071142
+ task: 0.05241139502673033
+ technologi: 0.03590718159812562
+ topic: 0.01941672168071142
+ url: 0.01941672168071142
+ web: 0.01941672168071142
+
+N-grams list: 10
+ web search learn
+ build search engin
+ statist learn technologi
+ learn task
+ url hierarchi similar
+ learn problem
+ web search
+ rank task
+ optim task
+ relat inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

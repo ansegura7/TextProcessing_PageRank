@@ -1,0 +1,79 @@
+File name: 4603143
+
+Graph edges count: 23
+ algorithm - selhit: 1
+ analysi - algorithm: 1
+ author - valu: 1
+ base - analysi: 1
+ broadtop - queri: 2
+ expan - method: 1
+ experiment - evalu: 1
+ hyperlink - environ: 1
+ initi - experiment: 1
+ latent - inform: 1
+ link - base: 1
+ relev - page: 1
+ result - consist: 1
+ search - result: 1
+ select - expan: 1
+ select - hypertext: 1
+ topic - drift: 1
+ topic - search: 1
+ uniform - notion: 1
+ user - feedback: 1
+ virtual - link: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 35
+ algorithm: 0.059559991642263145
+ analysi: 0.051176659412290396
+ author: 0.01605983114181631
+ base: 0.041313915612322456
+ broadtop: 0.01605983114181631
+ consist: 0.04624528751230643
+ drift: 0.022885259377088244
+ environ: 0.029710687612360172
+ evalu: 0.041313915612322456
+ expan: 0.022885259377088244
+ experiment: 0.029710687612360172
+ feedback: 0.029710687612360172
+ hyperlink: 0.01605983114181631
+ hypertext: 0.022885259377088244
+ inform: 0.029710687612360172
+ initi: 0.01605983114181631
+ latent: 0.01605983114181631
+ link: 0.029710687612360172
+ method: 0.03551230161234132
+ notion: 0.029710687612360172
+ page: 0.029710687612360172
+ queri: 0.029710687612360172
+ relev: 0.01605983114181631
+ result: 0.03551230161234132
+ search: 0.022885259377088244
+ select: 0.01605983114181631
+ selhit: 0.06668582403773998
+ topic: 0.01605983114181631
+ uniform: 0.01605983114181631
+ user: 0.01605983114181631
+ valu: 0.029710687612360172
+ virtual: 0.01605983114181631
+ web: 0.041313915612322456
+ wide: 0.029710687612360172
+ world: 0.01605983114181631
+
+N-grams list: 10
+ algorithm selhit
+ link base analysi
+ world wide web
+ initi experiment evalu
+ result consist
+ select expan method
+ algorithm
+ search result
+ broadtop queri
+ uniform notion
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

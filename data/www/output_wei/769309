@@ -1,0 +1,60 @@
+File name: 769309
+
+Graph edges count: 18
+ actual - qualiti: 1
+ adapt - inform: 1
+ clear - separ: 1
+ consequ - tradition: 1
+ endtoend - qualiti: 1
+ inform - system: 2
+ mobil - devic: 1
+ model - aspect: 1
+ model - suitabl: 1
+ multichannel - adapt: 1
+ multichannel - inform: 1
+ multichannel - system: 1
+ network - technologi: 1
+ ongo - diffusion: 1
+ qualiti - aspect: 1
+ qualiti - model: 2
+ servic - network: 1
+ tradition - inform: 1
+
+PageRank scores count: 21
+ actual: 0.025102921980118483
+ adapt: 0.03221541654115205
+ aspect: 0.07129857415403151
+ clear: 0.025102921980118483
+ consequ: 0.025102921980118483
+ devic: 0.0464404056632192
+ diffusion: 0.0464404056632192
+ endtoend: 0.025102921980118483
+ inform: 0.0990728654148676
+ mobil: 0.025102921980118483
+ model: 0.06351039260969976
+ multichannel: 0.025102921980118483
+ network: 0.0464404056632192
+ ongo: 0.025102921980118483
+ qualiti: 0.0677778893463199
+ separ: 0.0464404056632192
+ servic: 0.025102921980118483
+ suitabl: 0.05209483883924088
+ system: 0.11642735214378949
+ technologi: 0.0645772667938548
+ tradition: 0.0464404056632192
+
+N-grams list: 10
+ multichannel inform system
+ qualiti model suitabl
+ consequ tradition inform
+ multichannel adapt inform
+ multichannel system
+ qualiti aspect
+ model aspect
+ qualiti model
+ system
+ network technologi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

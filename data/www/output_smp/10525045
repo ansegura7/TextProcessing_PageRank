@@ -1,0 +1,64 @@
+File name: 10525045
+
+Graph edges count: 17
+ case - studi: 1
+ complex - data: 1
+ contextu - menu: 1
+ data - object: 1
+ data - structur: 2
+ enduserori - program: 1
+ endus - program: 1
+ end - user: 1
+ express - data: 1
+ formallydefin - mashup: 1
+ formula - bar: 1
+ major - contribu: 1
+ mashup - applic: 1
+ mashup - oper: 2
+ nest - tabl: 2
+ program - environ: 1
+ program - model: 1
+
+PageRank scores count: 26
+ applic: 0.04302920806985846
+ bar: 0.04456489009334536
+ case: 0.024089129780186683
+ complex: 0.024089129780186683
+ contextu: 0.024089129780186683
+ contribu: 0.04456489009334536
+ data: 0.06504065040650404
+ end: 0.024089129780186683
+ endus: 0.024089129780186683
+ enduserori: 0.024089129780186683
+ environ: 0.0517314062029509
+ express: 0.024089129780186683
+ formallydefin: 0.024089129780186683
+ formula: 0.024089129780186683
+ major: 0.024089129780186683
+ mashup: 0.04456489009334536
+ menu: 0.04456489009334536
+ model: 0.0517314062029509
+ nest: 0.024089129780186683
+ object: 0.0517314062029509
+ oper: 0.04302920806985846
+ program: 0.06504065040650404
+ structur: 0.0517314062029509
+ studi: 0.04456489009334536
+ tabl: 0.04456489009334536
+ user: 0.04456489009334536
+
+N-grams list: 10
+ endus program model
+ express data structur
+ enduserori program environ
+ complex data object
+ data structur
+ formallydefin mashup oper
+ mashup applic
+ mashup oper
+ case studi
+ contextu menu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,64 @@
+File name: 10844303
+
+Graph edges count: 21
+ algorithm - cluster: 1
+ cluster - queri: 1
+ cluster - refin: 1
+ cooccurr - inform: 2
+ engin - queri: 1
+ inform - relev: 1
+ markov - graph: 1
+ multipl - random: 1
+ origin - user: 1
+ queri - refin: 1
+ queri - sugges: 1
+ search - behavior: 1
+ search - engin: 2
+ search - queri: 1
+ session - cooccurr: 2
+ top - search: 1
+ underli - user: 1
+ user - intent: 2
+ user - queri: 1
+ user - search: 2
+ user - studi: 1
+
+PageRank scores count: 22
+ algorithm: 0.023022757225694152
+ behavior: 0.03581621563154707
+ cluster: 0.04259210086753418
+ cooccurr: 0.04259210086753418
+ engin: 0.04860967403739999
+ graph: 0.04259210086753418
+ inform: 0.059226042963098205
+ intent: 0.040635166503350174
+ markov: 0.023022757225694152
+ multipl: 0.023022757225694152
+ origin: 0.023022757225694152
+ queri: 0.1040422860708671
+ random: 0.04259210086753418
+ refin: 0.0853423716745147
+ relev: 0.07336489374432763
+ search: 0.06020451014519021
+ session: 0.023022757225694152
+ studi: 0.031828961864522165
+ sugges: 0.06724072880581267
+ top: 0.023022757225694152
+ underli: 0.023022757225694152
+ user: 0.06216144450937421
+
+N-grams list: 10
+ cluster queri refin
+ user search queri
+ origin user queri
+ queri sugges
+ user search behavior
+ algorithm cluster refin
+ inform relev
+ top search engin
+ underli user intent
+ session cooccurr inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,102 @@
+File name: 14316716
+
+Graph edges count: 36
+ adequ - particip: 1
+ atten - reward: 1
+ averag - contribu: 1
+ averag - qualiti: 1
+ content - set: 1
+ crowdsourc - content: 3
+ endogen - entri: 2
+ endogen - strateg: 1
+ entir - equilibrium: 1
+ equilibrium - distribu: 1
+ exogen - entri: 1
+ fix - total: 1
+ free - entri: 1
+ high - qualiti: 1
+ mixedstrategi - equilibrium: 1
+ monetari - reward: 1
+ monoton - rankbas: 1
+ monoton - rankord: 1
+ nonzero - cost: 1
+ onlin - qa: 1
+ optim - mechan: 1
+ particip - probabl: 1
+ poorest - contribu: 1
+ qa - forum: 1
+ qualiti - choic: 1
+ qualiti - content: 1
+ qualiti - outcom: 1
+ rankbas - reward: 1
+ rankord - mechan: 1
+ small - fee: 1
+ strateg - agent: 1
+ strateg - choic: 1
+ total - reward: 1
+ uniqu - mixedstrategi: 1
+ wide - varieti: 1
+ winnertakeal - contest: 1
+
+PageRank scores count: 45
+ adequ: 0.012695735846172116
+ agent: 0.019620201772271823
+ atten: 0.012695735846172116
+ averag: 0.012695735846172116
+ choic: 0.027803661503116934
+ content: 0.03167057104626352
+ contest: 0.02348711131541841
+ contribu: 0.028882799050041562
+ cost: 0.02348711131541841
+ crowdsourc: 0.012695735846172116
+ distribu: 0.049629218389667565
+ endogen: 0.012695735846172116
+ entir: 0.012695735846172116
+ entri: 0.04147273709749558
+ equilibrium: 0.04345115593352406
+ exogen: 0.012695735846172116
+ fee: 0.02348711131541841
+ fix: 0.012695735846172116
+ forum: 0.03265978046427777
+ free: 0.012695735846172116
+ high: 0.012695735846172116
+ mechan: 0.03886482135909439
+ mixedstrategi: 0.02348711131541841
+ monetari: 0.012695735846172116
+ monoton: 0.012695735846172116
+ nonzero: 0.012695735846172116
+ onlin: 0.012695735846172116
+ optim: 0.012695735846172116
+ outcom: 0.020879195577017225
+ particip: 0.02348711131541841
+ poorest: 0.012695735846172116
+ probabl: 0.03265978046427777
+ qa: 0.02348711131541841
+ qualiti: 0.028882799050041562
+ rankbas: 0.018091423580795265
+ rankord: 0.018091423580795265
+ reward: 0.06962024144644634
+ set: 0.03961572123549611
+ small: 0.012695735846172116
+ strateg: 0.01629286100258755
+ total: 0.02348711131541841
+ uniqu: 0.012695735846172116
+ varieti: 0.02348711131541841
+ wide: 0.012695735846172116
+ winnertakeal: 0.012695735846172116
+
+N-grams list: 10
+ fix total reward
+ entir equilibrium distribu
+ monoton rankbas reward
+ crowdsourc content set
+ atten reward
+ monetari reward
+ uniqu mixedstrategi equilibrium
+ monoton rankord mechan
+ reward
+ onlin qa forum
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

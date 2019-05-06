@@ -1,0 +1,102 @@
+File name: 9663473
+
+Graph edges count: 34
+ advertis - auction: 1
+ advertis - slot: 1
+ assign - model: 2
+ auction - mechan: 3
+ autom - auction: 1
+ bidderoptim - match: 1
+ bidderoptim - stabl: 2
+ bidderspecif - minimum: 1
+ bidder - prefer: 1
+ bipartit - match: 2
+ deep - insight: 1
+ gener - auction: 1
+ incent - properti: 1
+ item - specif: 1
+ linear - util: 1
+ main - technic: 1
+ marriag - model: 1
+ match - algorithm: 1
+ match - market: 2
+ minimum - price: 2
+ nondegeneraci - assump: 1
+ polynomi - time: 1
+ positionspecif - bid: 1
+ profitmaxim - bidder: 1
+ rich - bodi: 1
+ rich - mixtur: 1
+ search - advertis: 1
+ specif - maximum: 1
+ stabl - marriag: 1
+ stabl - match: 3
+ stabl - outcom: 1
+ technic - contribu: 1
+ truth - mechan: 1
+ wellknown - vickreyclarkegrov: 1
+
+PageRank scores count: 47
+ advertis: 0.023454433397676316
+ algorithm: 0.02321136658189439
+ assign: 0.012678072106852062
+ assump: 0.023454433397676316
+ auction: 0.044198928882513
+ autom: 0.012678072106852062
+ bid: 0.023454433397676316
+ bidder: 0.023454433397676316
+ bidderoptim: 0.012678072106852062
+ bidderspecif: 0.012678072106852062
+ bipartit: 0.012678072106852062
+ bodi: 0.018066252752264186
+ contribu: 0.03261434049487693
+ deep: 0.012678072106852062
+ gener: 0.012678072106852062
+ incent: 0.012678072106852062
+ insight: 0.023454433397676316
+ item: 0.012678072106852062
+ linear: 0.012678072106852062
+ main: 0.012678072106852062
+ market: 0.033744661056936714
+ marriag: 0.016054665311310327
+ match: 0.037176333441325864
+ maximum: 0.03261434049487693
+ mechan: 0.06102352294781236
+ minimum: 0.023454433397676316
+ mixtur: 0.018066252752264186
+ model: 0.0371008989122901
+ nondegeneraci: 0.012678072106852062
+ outcom: 0.016054665311310327
+ polynomi: 0.012678072106852062
+ positionspecif: 0.012678072106852062
+ prefer: 0.03261434049487693
+ price: 0.03261434049487693
+ profitmaxim: 0.012678072106852062
+ properti: 0.023454433397676316
+ rich: 0.012678072106852062
+ search: 0.012678072106852062
+ slot: 0.022646206300864495
+ specif: 0.023454433397676316
+ stabl: 0.01986231296740156
+ technic: 0.023454433397676316
+ time: 0.023454433397676316
+ truth: 0.012678072106852062
+ util: 0.023454433397676316
+ vickreyclarkegrov: 0.023454433397676316
+ wellknown: 0.012678072106852062
+
+N-grams list: 10
+ gener auction mechan
+ auction mechan
+ bipartit match market
+ truth mechan
+ stabl marriag model
+ bidderoptim stabl match
+ main technic contribu
+ item specif maximum
+ bidderspecif minimum price
+ advertis auction
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

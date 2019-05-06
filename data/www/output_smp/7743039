@@ -1,0 +1,68 @@
+File name: 7743039
+
+Graph edges count: 18
+ aggreg - knowledg: 1
+ aggreg - user: 1
+ arbitrari - area: 1
+ flickr - data: 1
+ georeferenc - inform: 1
+ georeferenc - photo: 1
+ imag - collec: 1
+ implicit - feedback: 2
+ interact - web: 1
+ locationawar - devic: 1
+ map - interfac: 2
+ onlin - imag: 1
+ photoshar - websit: 1
+ popular - photoshar: 1
+ repres - tag: 1
+ unstructur - georeferenc: 1
+ user - interac: 1
+ web - applic: 1
+
+PageRank scores count: 29
+ aggreg: 0.02180965622529375
+ applic: 0.05610534063956817
+ arbitrari: 0.02180965622529375
+ area: 0.04034786401679344
+ collec: 0.05610534063956817
+ data: 0.04034786401679344
+ devic: 0.04034786401679344
+ feedback: 0.04034786401679344
+ flickr: 0.02180965622529375
+ georeferenc: 0.04034786401679344
+ imag: 0.04034786401679344
+ implicit: 0.02180965622529375
+ inform: 0.03895749843243096
+ interac: 0.0482266023281808
+ interact: 0.02180965622529375
+ interfac: 0.04034786401679344
+ knowledg: 0.031078760121043592
+ locationawar: 0.02180965622529375
+ map: 0.02180965622529375
+ onlin: 0.02180965622529375
+ photo: 0.03895749843243096
+ photoshar: 0.04034786401679344
+ popular: 0.02180965622529375
+ repres: 0.02180965622529375
+ tag: 0.04034786401679344
+ unstructur: 0.02180965622529375
+ user: 0.031078760121043592
+ web: 0.04034786401679344
+ websit: 0.05610534063956817
+
+N-grams list: 10
+ onlin imag collec
+ interact web applic
+ popular photoshar websit
+ unstructur georeferenc inform
+ aggreg user interac
+ georeferenc photo
+ flickr data
+ implicit feedback
+ repres tag
+ locationawar devic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

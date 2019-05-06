@@ -1,0 +1,87 @@
+File name: 40425
+
+Graph edges count: 27
+ dynam - program: 1
+ effici - dynam: 1
+ experiment - result: 1
+ global - notion: 2
+ graphtheoret - result: 1
+ import - score: 1
+ increment - comput: 1
+ initiallyinterest - page: 1
+ iter - comput: 1
+ linkag - structur: 1
+ multipl - person: 1
+ pagerank - algorithm: 1
+ partial - vector: 5
+ person - view: 7
+ person - web: 1
+ program - algorithm: 1
+ queri - time: 2
+ recent - web: 1
+ refin - search: 1
+ search - recent: 1
+ search - techniqu: 1
+ storag - cost: 1
+ text - match: 1
+ tradition - text: 1
+ userspecifi - set: 1
+ web - graph: 1
+ web - search: 2
+
+PageRank scores count: 39
+ algorithm: 0.05876614031649695
+ comput: 0.039307237817370146
+ cost: 0.026932737023012878
+ dynam: 0.026932737023012878
+ effici: 0.01455823622865561
+ experiment: 0.01455823622865561
+ global: 0.01455823622865561
+ graph: 0.02863912386576861
+ graphtheoret: 0.01455823622865561
+ import: 0.01455823622865561
+ increment: 0.01455823622865561
+ initiallyinterest: 0.01455823622865561
+ iter: 0.01455823622865561
+ linkag: 0.01455823622865561
+ match: 0.037451062698216554
+ multipl: 0.01455823622865561
+ notion: 0.026932737023012878
+ page: 0.026932737023012878
+ pagerank: 0.01455823622865561
+ partial: 0.01455823622865561
+ person: 0.026932737023012878
+ program: 0.037451062698216554
+ queri: 0.01455823622865561
+ recent: 0.03797340206712406
+ refin: 0.01455823622865561
+ result: 0.039307237817370146
+ score: 0.026932737023012878
+ search: 0.05509451229723888
+ set: 0.026932737023012878
+ storag: 0.01455823622865561
+ structur: 0.026932737023012878
+ techniqu: 0.03797340206712406
+ text: 0.026932737023012878
+ time: 0.026932737023012878
+ tradition: 0.01455823622865561
+ userspecifi: 0.01455823622865561
+ vector: 0.02693273702301288
+ view: 0.03458945938952144
+ web: 0.04969723582526555
+
+N-grams list: 10
+ recent web search
+ person web search
+ effici dynam program
+ tradition text match
+ web graph
+ multipl person view
+ pagerank algorithm
+ refin search
+ person view
+ algorithm
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

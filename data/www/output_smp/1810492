@@ -1,0 +1,67 @@
+File name: 1810492
+
+Graph edges count: 18
+ asynchron - commun: 1
+ cluster - work: 1
+ distribu - properti: 1
+ dynam - content: 1
+ ephemer - natur: 1
+ gener - framework: 1
+ group - user: 2
+ local - file: 1
+ ongo - task: 1
+ ongo - work: 1
+ opportunist - commun: 2
+ previou - work: 1
+ product - applic: 1
+ util - url: 1
+ web - access: 1
+ web - content: 1
+ web - resourc: 1
+ work - context: 1
+
+PageRank scores count: 28
+ access: 0.030156165858912228
+ applic: 0.04347187545895139
+ asynchron: 0.023498311058892645
+ cluster: 0.023498311058892645
+ commun: 0.06344543985901015
+ content: 0.050129730258970974
+ context: 0.08591569980907623
+ distribu: 0.023498311058892645
+ dynam: 0.023498311058892645
+ ephemer: 0.023498311058892645
+ file: 0.04347187545895139
+ framework: 0.04347187545895139
+ gener: 0.023498311058892645
+ group: 0.023498311058892645
+ local: 0.023498311058892645
+ natur: 0.04347187545895139
+ ongo: 0.023498311058892645
+ opportunist: 0.023498311058892645
+ previou: 0.023498311058892645
+ product: 0.023498311058892645
+ properti: 0.04347187545895139
+ resourc: 0.030156165858912228
+ task: 0.033485093258922016
+ url: 0.04347187545895139
+ user: 0.04347187545895139
+ util: 0.023498311058892645
+ web: 0.023498311058892645
+ work: 0.07343222205903951
+
+N-grams list: 10
+ cluster work context
+ previou work
+ ongo work
+ asynchron commun
+ opportunist commun
+ context
+ dynam content
+ web content
+ local file
+ product applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

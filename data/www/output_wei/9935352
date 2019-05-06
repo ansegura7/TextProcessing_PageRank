@@ -1,0 +1,63 @@
+File name: 9935352
+
+Graph edges count: 18
+ 2layer - interfac: 1
+ 2liptyp - user: 1
+ 3d - encyclopedia: 1
+ 3d - scene: 2
+ 3d - techniqu: 1
+ background - layer: 1
+ brows - experi: 1
+ foreground - layer: 1
+ interact - web: 1
+ interfac - paradigm: 1
+ potenti - path: 1
+ refer - implement: 1
+ user - interfac: 1
+ virtual - 3d: 1
+ web - applic: 1
+ web - interfac: 2
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 24
+ 2layer: 0.02237924787264269
+ 2liptyp: 0.02237924787264269
+ 3d: 0.041401608564388966
+ applic: 0.04408059102847658
+ background: 0.02237924787264269
+ brows: 0.02237924787264269
+ encyclopedia: 0.031177089692575342
+ experi: 0.041401608564388966
+ foreground: 0.02237924787264269
+ implement: 0.041401608564388966
+ interact: 0.02237924787264269
+ interfac: 0.11999566215578737
+ layer: 0.06042396925613525
+ paradigm: 0.12437556070506194
+ path: 0.041401608564388966
+ potenti: 0.02237924787264269
+ refer: 0.02237924787264269
+ scene: 0.039974931512508
+ techniqu: 0.031177089692575342
+ user: 0.041401608564388966
+ virtual: 0.02237924787264269
+ web: 0.0765929758441196
+ wide: 0.041401608564388966
+ world: 0.02237924787264269
+
+N-grams list: 10
+ 2layer interfac paradigm
+ web interfac
+ 2liptyp user interfac
+ interact web applic
+ world wide web
+ virtual 3d encyclopedia
+ background layer
+ foreground layer
+ 3d scene
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

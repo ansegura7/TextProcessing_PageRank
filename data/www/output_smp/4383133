@@ -1,0 +1,35 @@
+File name: 4383133
+
+Graph edges count: 7
+ interest - result: 1
+ mine - model: 1
+ structur - content: 1
+ structur - organ: 1
+ structur - websit: 1
+ websit - mine: 1
+ websit - person: 1
+
+PageRank scores count: 9
+ content: 0.09793120332966092
+ interest: 0.07631002856856695
+ mine: 0.11793078998367283
+ model: 0.17655120005468886
+ organ: 0.09793120332966092
+ person: 0.11793078998367283
+ result: 0.14117355285184882
+ structur: 0.07631002856856695
+ websit: 0.09793120332966092
+
+N-grams list: 8
+ structur websit mine
+ interest result
+ websit person
+ model
+ structur organ
+ structur content
+ websit
+ content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

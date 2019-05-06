@@ -1,0 +1,67 @@
+File name: 4520820
+
+Graph edges count: 21
+ benefit - user: 1
+ data - set: 1
+ diffusion - center: 1
+ diffusion - process: 4
+ diffusion - relationship: 1
+ diffusion - start: 1
+ docum - forward: 1
+ inform - diffusion: 4
+ learn - inform: 1
+ learn - techniqu: 1
+ match - learn: 1
+ mine - inform: 1
+ preliminari - user: 1
+ real - data: 1
+ sourc - docum: 2
+ sourc - site: 1
+ specif - topic: 2
+ text - docum: 1
+ user - studi: 1
+ web - inform: 1
+ web - site: 1
+
+PageRank scores count: 25
+ benefit: 0.02183025643069895
+ center: 0.031378664408733783
+ data: 0.04038597439679306
+ diffusion: 0.07863394805440453
+ docum: 0.0527564530408558
+ forward: 0.06667324151542639
+ inform: 0.06682787249847716
+ learn: 0.04038597439679306
+ match: 0.02183025643069895
+ mine: 0.02183025643069895
+ preliminari: 0.02183025643069895
+ process: 0.0600238883428383
+ real: 0.02183025643069895
+ relationship: 0.031378664408733783
+ set: 0.056158334667973056
+ site: 0.03729335473577738
+ sourc: 0.02183025643069895
+ specif: 0.02183025643069895
+ start: 0.031378664408733783
+ studi: 0.07193069493915304
+ techniqu: 0.038994295549336
+ text: 0.02183025643069895
+ topic: 0.04038597439679306
+ user: 0.05894169236288717
+ web: 0.02183025643069895
+
+N-grams list: 10
+ inform diffusion process
+ learn inform diffusion
+ mine inform diffusion
+ web inform diffusion
+ preliminari user studi
+ diffusion process
+ docum forward
+ real data set
+ diffusion center
+ diffusion relationship
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

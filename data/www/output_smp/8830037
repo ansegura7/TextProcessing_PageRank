@@ -1,0 +1,64 @@
+File name: 8830037
+
+Graph edges count: 19
+ access - client: 1
+ client - aggreg: 1
+ client - type: 1
+ client - web: 1
+ divers - rang: 1
+ event - vocabulari: 1
+ gain - access: 1
+ multidevic - brows: 1
+ multipl - client: 2
+ multipl - modal: 1
+ small - number: 1
+ user - acquir: 1
+ user - experi: 1
+ user - interfac: 2
+ web - access: 1
+ web - applic: 1
+ web - interac: 1
+ web - resourc: 1
+ xml - event: 1
+
+PageRank scores count: 24
+ access: 0.059660618198681854
+ acquir: 0.03381567592529612
+ aggreg: 0.05135690565317665
+ applic: 0.03726322245595326
+ brows: 0.048747273087115184
+ client: 0.0882601012546876
+ divers: 0.02634987734438659
+ event: 0.048747273087115184
+ experi: 0.03381567592529612
+ gain: 0.02634987734438659
+ interac: 0.03726322245595326
+ interfac: 0.03381567592529612
+ modal: 0.03754857521575089
+ multidevic: 0.02634987734438659
+ multipl: 0.02634987734438659
+ number: 0.048747273087115184
+ rang: 0.048747273087115184
+ resourc: 0.03726322245595326
+ small: 0.02634987734438659
+ type: 0.05135690565317665
+ user: 0.02634987734438659
+ vocabulari: 0.0677850594684345
+ web: 0.05135690565317665
+ xml: 0.02634987734438659
+
+N-grams list: 10
+ web access client
+ multipl client type
+ xml event vocabulari
+ client aggreg
+ multipl client
+ web applic
+ web resourc
+ web interac
+ client
+ gain access
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

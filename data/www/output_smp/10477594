@@ -1,0 +1,83 @@
+File name: 10477594
+
+Graph edges count: 25
+ advertis - audienc: 1
+ ad - auction: 1
+ approxim - algorithm: 1
+ approxim - factor: 1
+ atten - span: 1
+ audienc - prefer: 1
+ audienc - side: 1
+ choic - model: 1
+ clickthrough - rate: 1
+ conver - rate: 1
+ determin - algorithm: 1
+ determin - problem: 2
+ extern - effect: 1
+ gener - case: 1
+ highqual - ad: 1
+ interest - special: 1
+ minimum - bid: 1
+ model - extern: 1
+ onlin - advertis: 3
+ polynomi - time: 1
+ singl - peak: 1
+ special - case: 1
+ truth - mechan: 1
+ vcgstyle - payment: 1
+ winner - determin: 3
+
+PageRank scores count: 37
+ ad: 0.02984556934456708
+ advertis: 0.02984556934456708
+ algorithm: 0.03567352173685079
+ approxim: 0.016132740186252475
+ atten: 0.016132740186252475
+ auction: 0.04150147412913449
+ audienc: 0.04150147412913449
+ bid: 0.02984556934456708
+ case: 0.055214303287449105
+ choic: 0.016132740186252475
+ clickthrough: 0.016132740186252475
+ conver: 0.016132740186252475
+ determin: 0.02984556934456708
+ effect: 0.05140899319601679
+ extern: 0.04150147412913449
+ factor: 0.02298915476540978
+ gener: 0.016132740186252475
+ highqual: 0.016132740186252475
+ interest: 0.016132740186252475
+ mechan: 0.02984556934456708
+ minimum: 0.016132740186252475
+ model: 0.02984556934456708
+ onlin: 0.016132740186252475
+ payment: 0.02984556934456708
+ peak: 0.02984556934456708
+ polynomi: 0.016132740186252475
+ prefer: 0.03377086669113463
+ problem: 0.02881710715769348
+ rate: 0.043558398502881686
+ side: 0.03377086669113463
+ singl: 0.016132740186252475
+ span: 0.02984556934456708
+ special: 0.02984556934456708
+ time: 0.02984556934456708
+ truth: 0.016132740186252475
+ vcgstyle: 0.016132740186252475
+ winner: 0.016132740186252475
+
+N-grams list: 10
+ interest special case
+ extern effect
+ winner determin algorithm
+ audienc side
+ audienc prefer
+ winner determin problem
+ gener case
+ advertis audienc
+ ad auction
+ model extern
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

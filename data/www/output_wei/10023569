@@ -1,0 +1,64 @@
+File name: 10023569
+
+Graph edges count: 19
+ applic - dynam: 1
+ autonom - resourc: 1
+ dynam - resourc: 1
+ endtoend - respons: 1
+ entir - multiservic: 1
+ extens - experi: 1
+ frontend - servic: 1
+ monolith - applic: 1
+ multipl - servic: 1
+ multiservic - applic: 1
+ multiservic - web: 1
+ optim - effect: 1
+ perform - object: 1
+ predefin - sla: 1
+ resourc - util: 1
+ respons - time: 2
+ sla - target: 1
+ time - object: 1
+ web - applic: 2
+
+PageRank scores count: 24
+ applic: 0.0781639395028482
+ autonom: 0.018814000151122574
+ dynam: 0.08525334872854354
+ effect: 0.03480590027957676
+ endtoend: 0.018814000151122574
+ entir: 0.018814000151122574
+ experi: 0.03480590027957676
+ extens: 0.018814000151122574
+ frontend: 0.018814000151122574
+ monolith: 0.018814000151122574
+ multipl: 0.018814000151122574
+ multiservic: 0.03480590027957676
+ object: 0.07594506336002514
+ optim: 0.018814000151122574
+ perform: 0.018814000151122574
+ predefin: 0.018814000151122574
+ resourc: 0.10727124669883877
+ respons: 0.03480590027957676
+ servic: 0.05079780040803095
+ sla: 0.03480590027957676
+ target: 0.04839901538876282
+ time: 0.04839901538876282
+ util: 0.10999455984513552
+ web: 0.033606507769942694
+
+N-grams list: 10
+ resourc util
+ dynam resourc
+ respons time object
+ multiservic web applic
+ entir multiservic applic
+ autonom resourc
+ web applic
+ resourc
+ endtoend respons time
+ monolith applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

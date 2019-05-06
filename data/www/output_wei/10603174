@@ -1,0 +1,44 @@
+File name: 10603174
+
+Graph edges count: 10
+ auction - user: 1
+ auction - websit: 1
+ central - queue: 1
+ huge - onlin: 1
+ onlin - auction: 1
+ onlin - social: 3
+ parallel - crawl: 1
+ parallel - crawler: 2
+ redund - crawl: 1
+ social - network: 3
+
+PageRank scores count: 13
+ auction: 0.06631047223527871
+ central: 0.04759836499616238
+ crawl: 0.10154317865847973
+ crawler: 0.07457077182732105
+ huge: 0.04759836499616238
+ network: 0.13577284870264705
+ onlin: 0.08805697524290039
+ parallel: 0.04759836499616238
+ queue: 0.08805697524290039
+ redund: 0.04759836499616238
+ social: 0.10373468671351137
+ user: 0.07578031569615583
+ websit: 0.07578031569615583
+
+N-grams list: 10
+ onlin social network
+ huge onlin social
+ onlin auction websit
+ parallel crawl
+ redund crawl
+ auction user
+ network
+ central queue
+ parallel crawler
+ crawler
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

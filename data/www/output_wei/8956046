@@ -1,0 +1,33 @@
+File name: 8956046
+
+Graph edges count: 7
+ chat - inform: 1
+ live - chat: 2
+ person - tv: 1
+ tv - content: 1
+ tv - program: 1
+ tv - view: 2
+ view - method: 1
+
+PageRank scores count: 9
+ chat: 0.12041673955405124
+ content: 0.09067868664391224
+ inform: 0.1674443581096199
+ live: 0.06509012948867635
+ method: 0.16391728671795225
+ person: 0.06509012948867635
+ program: 0.09067868664391224
+ tv: 0.12041673955405124
+ view: 0.11626724379914812
+
+N-grams list: 6
+ tv view method
+ live chat inform
+ person tv view
+ tv program
+ tv content
+ live chat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

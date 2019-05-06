@@ -1,0 +1,56 @@
+File name: 4614551
+
+Graph edges count: 14
+ classic - algorithm: 1
+ cluster - web: 1
+ docum - web: 1
+ futur - work: 1
+ huge - size: 1
+ kmean - algorithm: 1
+ linear - mechan: 1
+ posit - result: 1
+ retriev - perform: 1
+ symbol - object: 2
+ vector - model: 1
+ web - cluster: 1
+ web - directori: 1
+ web - docum: 3
+
+PageRank scores count: 21
+ algorithm: 0.07241196294016064
+ classic: 0.02681924553339283
+ cluster: 0.06640135313641107
+ directori: 0.06640135313641107
+ docum: 0.06640135313641107
+ futur: 0.02681924553339283
+ huge: 0.02681924553339283
+ kmean: 0.02681924553339283
+ linear: 0.02681924553339283
+ mechan: 0.04961560423677674
+ model: 0.04961560423677674
+ object: 0.04961560423677674
+ perform: 0.04961560423677674
+ posit: 0.02681924553339283
+ result: 0.04961560423677674
+ retriev: 0.02681924553339283
+ size: 0.04961560423677674
+ symbol: 0.02681924553339283
+ vector: 0.02681924553339283
+ web: 0.13970153819263353
+ work: 0.04961560423677674
+
+N-grams list: 10
+ web docum web
+ cluster web docum
+ web docum
+ web directori
+ web
+ kmean algorithm
+ classic algorithm
+ huge size
+ retriev perform
+ symbol object
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

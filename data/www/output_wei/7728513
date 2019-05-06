@@ -1,0 +1,91 @@
+File name: 7728513
+
+Graph edges count: 30
+ annot - data: 1
+ background - model: 1
+ bayesian - network: 1
+ comput - algorithm: 1
+ domain - interest: 1
+ enhanc - docum: 1
+ gener - gener: 1
+ gener - model: 1
+ hierarch - bayesian: 1
+ inform - retriev: 3
+ languag - model: 2
+ languag - modelingbas: 1
+ minim - framework: 1
+ modelingbas - method: 1
+ probabilist - model: 1
+ queri - languag: 1
+ realworld - annot: 1
+ research - area: 1
+ retriev - social: 1
+ risk - minim: 1
+ signific - improv: 1
+ social - annot: 5
+ text - analysi: 1
+ topic - background: 1
+ topic - inform: 1
+ tractabl - hierarch: 1
+ tradition - approach: 1
+ unifi - framework: 1
+ user - domain: 1
+ webbas - applic: 1
+
+PageRank scores count: 40
+ algorithm: 0.024864554397339526
+ analysi: 0.024864554397339526
+ annot: 0.05776140988843177
+ applic: 0.024864554397339526
+ approach: 0.024864554397339526
+ area: 0.024864554397339526
+ background: 0.019152427035788556
+ bayesian: 0.034575170911976184
+ comput: 0.013440299674237582
+ data: 0.06253749807940458
+ docum: 0.024864554397339526
+ domain: 0.024864554397339526
+ enhanc: 0.013440299674237582
+ framework: 0.045999425635078126
+ gener: 0.02337443997614449
+ hierarch: 0.024864554397339526
+ improv: 0.024864554397339526
+ inform: 0.019152427035788556
+ interest: 0.034575170911976184
+ languag: 0.024864554397339526
+ method: 0.0308527679146988
+ minim: 0.024864554397339526
+ model: 0.06516817183815911
+ modelingbas: 0.020485256753483783
+ network: 0.04282919494941733
+ probabilist: 0.013440299674237582
+ queri: 0.013440299674237582
+ realworld: 0.013440299674237582
+ research: 0.013440299674237582
+ retriev: 0.02971986265465786
+ risk: 0.013440299674237582
+ signific: 0.013440299674237582
+ social: 0.038702182930696764
+ text: 0.013440299674237582
+ topic: 0.013440299674237582
+ tractabl: 0.013440299674237582
+ tradition: 0.013440299674237582
+ unifi: 0.013440299674237582
+ user: 0.013440299674237582
+ webbas: 0.013440299674237582
+
+N-grams list: 10
+ realworld annot data
+ gener gener model
+ queri languag model
+ topic background model
+ social annot
+ languag model
+ inform retriev social
+ risk minim framework
+ probabilist model
+ languag modelingbas method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,39 @@
+File name: 4859597
+
+Graph edges count: 8
+ applic - design: 1
+ design - philosophi: 1
+ domain - specif: 2
+ driven - design: 3
+ model - driven: 3
+ rapid - prototyp: 2
+ specif - languag: 2
+ web - applic: 2
+
+PageRank scores count: 11
+ applic: 0.0817110740589424
+ design: 0.18307697404017095
+ domain: 0.044168148139968874
+ driven: 0.0817110740589424
+ languag: 0.11362256109006992
+ model: 0.044168148139968874
+ philosophi: 0.19978357607411418
+ prototyp: 0.0817110740589424
+ rapid: 0.044168148139968874
+ specif: 0.0817110740589424
+ web: 0.044168148139968874
+
+N-grams list: 9
+ model driven design
+ applic design
+ domain specif languag
+ philosophi
+ rapid prototyp
+ web applic
+ applic
+ specif
+ model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

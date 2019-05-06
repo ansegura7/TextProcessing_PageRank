@@ -1,0 +1,50 @@
+File name: 3928768
+
+Graph edges count: 10
+ altern - defini: 1
+ axiom - relev: 1
+ dl - reason: 1
+ empir - evalu: 1
+ meaning - fragment: 1
+ minim - modul: 1
+ owl - dl: 1
+ polynomi - time: 1
+ restrict - sublanguag: 1
+ syntact - approxim: 1
+
+PageRank scores count: 19
+ altern: 0.03543272211887679
+ approxim: 0.06555053591992206
+ axiom: 0.03543272211887679
+ defini: 0.06555053591992206
+ dl: 0.06555053591992206
+ empir: 0.03543272211887679
+ evalu: 0.06555053591992206
+ fragment: 0.06555053591992206
+ meaning: 0.03543272211887679
+ minim: 0.03543272211887679
+ modul: 0.06555053591992206
+ owl: 0.03543272211887679
+ polynomi: 0.03543272211887679
+ reason: 0.09115067765081054
+ relev: 0.06555053591992206
+ restrict: 0.03543272211887679
+ sublanguag: 0.06555053591992206
+ syntact: 0.03543272211887679
+ time: 0.06555053591992206
+
+N-grams list: 10
+ dl reason
+ meaning fragment
+ minim modul
+ restrict sublanguag
+ axiom relev
+ empir evalu
+ polynomi time
+ syntact approxim
+ altern defini
+ owl dl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

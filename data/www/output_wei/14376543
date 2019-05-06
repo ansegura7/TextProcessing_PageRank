@@ -1,0 +1,87 @@
+File name: 14376543
+
+Graph edges count: 28
+ causal - relationship: 1
+ dynam - inform: 1
+ friendship - link: 1
+ friendship - network: 1
+ futur - dynam: 1
+ grain - notion: 1
+ group - behavior: 1
+ hidden - network: 1
+ import - role: 1
+ influenti - individu: 1
+ influenti - transfer: 1
+ inform - diffusion: 1
+ inform - transfer: 2
+ larg - group: 1
+ meaning - hidden: 1
+ media - recent: 1
+ natur - predict: 1
+ network - structur: 1
+ predict - interpret: 1
+ realworld - data: 1
+ recent - research: 1
+ small - group: 1
+ social - media: 2
+ static - friendship: 1
+ strong - influenc: 1
+ theoret - notion: 1
+ transfer - entropi: 4
+ weak - influenc: 1
+
+PageRank scores count: 38
+ behavior: 0.04668062835384197
+ causal: 0.014167110274307124
+ data: 0.02620915400746818
+ diffusion: 0.024493162775492728
+ dynam: 0.02620915400746818
+ entropi: 0.048881311846077156
+ friendship: 0.02620915400746818
+ futur: 0.014167110274307124
+ grain: 0.014167110274307124
+ group: 0.03825119774062923
+ hidden: 0.02620915400746818
+ import: 0.014167110274307124
+ individu: 0.02018813214088765
+ influenc: 0.03825119774062923
+ influenti: 0.014167110274307124
+ inform: 0.036444891180655074
+ interpret: 0.036444891180655074
+ larg: 0.014167110274307124
+ link: 0.025306000727481102
+ meaning: 0.014167110274307124
+ media: 0.02620915400746818
+ natur: 0.014167110274307124
+ network: 0.04758378163382905
+ notion: 0.03825119774062923
+ predict: 0.02620915400746818
+ realworld: 0.014167110274307124
+ recent: 0.036444891180655074
+ relationship: 0.02620915400746818
+ research: 0.045145267777863936
+ role: 0.02620915400746818
+ small: 0.014167110274307124
+ social: 0.014167110274307124
+ static: 0.014167110274307124
+ strong: 0.014167110274307124
+ structur: 0.05461332466306182
+ theoret: 0.014167110274307124
+ transfer: 0.04084023714325886
+ weak: 0.014167110274307124
+
+N-grams list: 10
+ influenti transfer entropi
+ transfer entropi
+ meaning hidden network
+ static friendship network
+ group behavior
+ inform transfer
+ social media recent
+ natur predict interpret
+ dynam inform
+ inform diffusion
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

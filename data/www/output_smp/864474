@@ -1,0 +1,78 @@
+File name: 864474
+
+Graph edges count: 26
+ bookmark - browser: 1
+ browser - configur: 1
+ browser - web: 1
+ browser - window: 1
+ capac - cost: 1
+ checkpointrestart - mechan: 1
+ configur - option: 1
+ content - open: 1
+ interneten - devic: 1
+ linux - webpod: 1
+ malici - web: 1
+ mobil - user: 2
+ open - browser: 1
+ persist - person: 1
+ persist - web: 1
+ person - web: 1
+ plugin - bookmark: 1
+ pocket - storag: 1
+ portabl - storag: 2
+ portabl - system: 1
+ rapid - improv: 1
+ seamless - web: 1
+ storag - devic: 3
+ webpod - prototyp: 1
+ webpod - virtual: 1
+ web - content: 2
+
+PageRank scores count: 31
+ bookmark: 0.024885178495731308
+ browser: 0.11086886524481365
+ capac: 0.013451447835530435
+ checkpointrestart: 0.013451447835530435
+ configur: 0.04486429368879359
+ content: 0.08973188512245195
+ cost: 0.024885178495731308
+ devic: 0.05089691574768828
+ improv: 0.024885178495731308
+ interneten: 0.013451447835530435
+ linux: 0.013451447835530435
+ malici: 0.013451447835530435
+ mechan: 0.024885178495731308
+ mobil: 0.013451447835530435
+ open: 0.0897235462197408
+ option: 0.05158610120735682
+ persist: 0.013451447835530435
+ person: 0.019168313165630866
+ plugin: 0.013451447835530435
+ pocket: 0.013451447835530435
+ portabl: 0.013451447835530435
+ prototyp: 0.024027648696216236
+ rapid: 0.013451447835530435
+ seamless: 0.013451447835530435
+ storag: 0.03060204382583174
+ system: 0.019168313165630866
+ user: 0.024885178495731308
+ virtual: 0.024027648696216236
+ web: 0.08974168653008201
+ webpod: 0.024885178495731308
+ window: 0.04486429368879359
+
+N-grams list: 10
+ web content open
+ browser configur option
+ malici web content
+ browser window
+ plugin bookmark browser
+ persist person web
+ persist web
+ seamless web
+ portabl storag devic
+ pocket storag devic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

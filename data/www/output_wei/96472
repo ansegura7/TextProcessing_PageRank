@@ -1,0 +1,71 @@
+File name: 96472
+
+Graph edges count: 22
+ audienc - interconnec: 1
+ classroom - confer: 1
+ collabor - applic: 1
+ collabor - educ: 1
+ collabor - tool: 1
+ cscw - applic: 1
+ educ - activ: 2
+ educ - materi: 1
+ educ - mediat: 2
+ educ - resourc: 1
+ gener - conclusion: 1
+ group - collabor: 1
+ internet - support: 1
+ isabel - cscw: 1
+ isabel - educanext: 1
+ ist - project: 1
+ live - educ: 1
+ open - standard: 1
+ reusabl - educ: 1
+ support - audienc: 1
+ synchron - collabor: 1
+ univers - ist: 1
+
+PageRank scores count: 28
+ activ: 0.041044360736799866
+ applic: 0.061641619095698555
+ audienc: 0.05327948429187216
+ classroom: 0.020711169792758857
+ collabor: 0.05592015844044892
+ conclusion: 0.038315664116603886
+ confer: 0.038315664116603886
+ cscw: 0.029513416954681373
+ educ: 0.07176420333190944
+ educanext: 0.029513416954681373
+ gener: 0.020711169792758857
+ group: 0.020711169792758857
+ interconnec: 0.0659987314408502
+ internet: 0.020711169792758857
+ isabel: 0.020711169792758857
+ ist: 0.038315664116603886
+ live: 0.020711169792758857
+ materi: 0.030877765264779363
+ mediat: 0.041044360736799866
+ open: 0.020711169792758857
+ project: 0.05327948429187216
+ resourc: 0.030877765264779363
+ reusabl: 0.020711169792758857
+ standard: 0.038315664116603886
+ support: 0.038315664116603886
+ synchron: 0.020711169792758857
+ tool: 0.036555214684219385
+ univers: 0.020711169792758857
+
+N-grams list: 10
+ collabor educ activ
+ synchron collabor applic
+ reusabl educ materi
+ live educ resourc
+ group collabor tool
+ educ activ
+ educ mediat
+ internet support audienc
+ univers ist project
+ isabel cscw applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

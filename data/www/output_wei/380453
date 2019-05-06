@@ -1,0 +1,63 @@
+File name: 380453
+
+Graph edges count: 18
+ api - design: 1
+ care - atten: 1
+ compil - techniqu: 1
+ data - copi: 1
+ experiment - system: 1
+ high - perform: 3
+ integr - approach: 1
+ nonvalid - parser: 1
+ parser - gener: 1
+ pars - valid: 1
+ perform - xml: 2
+ schemabas - valid: 1
+ tradition - nonvalid: 1
+ unnecessari - data: 1
+ xml - pars: 1
+ xml - parser: 1
+ xml - perform: 1
+ xml - screamer: 1
+
+PageRank scores count: 24
+ api: 0.02284459017355462
+ approach: 0.04226249182107605
+ atten: 0.04226249182107605
+ care: 0.02284459017355462
+ compil: 0.02284459017355462
+ copi: 0.058767708221469254
+ data: 0.04226249182107605
+ design: 0.04226249182107605
+ experiment: 0.02284459017355462
+ gener: 0.08575204140947598
+ high: 0.02284459017355462
+ integr: 0.02284459017355462
+ nonvalid: 0.04226249182107605
+ pars: 0.038085644044670755
+ parser: 0.0740087620925854
+ perform: 0.05750354569219219
+ schemabas: 0.02284459017355462
+ screamer: 0.038085644044670755
+ system: 0.04226249182107605
+ techniqu: 0.04226249182107605
+ tradition: 0.02284459017355462
+ unnecessari: 0.02284459017355462
+ valid: 0.07463529271626995
+ xml: 0.07172260746914175
+
+N-grams list: 10
+ parser gener
+ high perform xml
+ tradition nonvalid parser
+ xml perform
+ unnecessari data copi
+ pars valid
+ xml screamer
+ schemabas valid
+ high perform
+ parser
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

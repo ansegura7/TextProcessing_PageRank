@@ -1,0 +1,57 @@
+File name: 738775
+
+Graph edges count: 15
+ experiment - evalu: 1
+ hard - case: 1
+ interest - result: 1
+ match - servic: 1
+ model - nonfunc: 1
+ nonfunc - properti: 1
+ onetim - cost: 1
+ optim - selec: 1
+ optim - servic: 2
+ polynomi - time: 1
+ preliminari - experiment: 1
+ selec - problem: 2
+ servic - matchmak: 1
+ servic - request: 1
+ servic - selec: 2
+
+PageRank scores count: 21
+ case: 0.05291304801203653
+ cost: 0.05291304801203653
+ evalu: 0.07357773838430484
+ experiment: 0.05291304801203653
+ hard: 0.028601647574073796
+ interest: 0.028601647574073796
+ match: 0.028601647574073796
+ matchmak: 0.04328978533867628
+ model: 0.028601647574073796
+ nonfunc: 0.05291304801203653
+ onetim: 0.028601647574073796
+ optim: 0.028601647574073796
+ polynomi: 0.028601647574073796
+ preliminari: 0.028601647574073796
+ problem: 0.08477111233595018
+ properti: 0.07357773838430484
+ request: 0.04328978533867628
+ result: 0.05291304801203653
+ selec: 0.06608172324926634
+ servic: 0.06912064830401167
+ time: 0.05291304801203653
+
+N-grams list: 10
+ optim selec problem
+ optim servic selec
+ preliminari experiment evalu
+ model nonfunc properti
+ match servic request
+ servic matchmak
+ problem
+ hard case
+ interest result
+ polynomi time
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

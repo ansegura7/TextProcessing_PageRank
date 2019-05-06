@@ -1,0 +1,81 @@
+File name: 13061804
+
+Graph edges count: 27
+ channel - transform: 1
+ common - phenomenon: 1
+ completion - sugges: 2
+ correct - completion: 1
+ correc - pair: 1
+ engin - queri: 1
+ gener - model: 1
+ input - queri: 1
+ intend - queri: 1
+ markov - ngram: 1
+ ngram - transform: 1
+ noisi - channel: 1
+ onlin - spell: 4
+ prune - heurist: 1
+ queri - completion: 2
+ search - algorithm: 1
+ search - engin: 1
+ search - space: 1
+ spellcorrect - completion: 1
+ spell - behavior: 1
+ spell - correc: 5
+ spell - correct: 1
+ substanti - increas: 1
+ top - spellcorrect: 1
+ transform - model: 1
+ unsupervis - fashion: 1
+ user - spell: 1
+
+PageRank scores count: 33
+ algorithm: 0.018844834295934206
+ behavior: 0.02591776560960302
+ channel: 0.027165929959073985
+ common: 0.014684286464364314
+ completion: 0.10712125791226834
+ correc: 0.02591776560960302
+ correct: 0.02591776560960302
+ engin: 0.018844834295934206
+ fashion: 0.027165929959073985
+ gener: 0.014684286464364314
+ heurist: 0.027165929959073985
+ increas: 0.027165929959073985
+ input: 0.014684286464364314
+ intend: 0.014684286464364314
+ markov: 0.014684286464364314
+ model: 0.07890234224464557
+ ngram: 0.027165929959073985
+ noisi: 0.014684286464364314
+ onlin: 0.014684286464364314
+ pair: 0.03671438723252688
+ phenomenon: 0.027165929959073985
+ prune: 0.014684286464364314
+ queri: 0.05566568260532772
+ search: 0.014684286464364314
+ space: 0.018844834295934206
+ spell: 0.039647573453783655
+ spellcorrect: 0.027165929959073985
+ substanti: 0.014684286464364314
+ sugges: 0.1057373556897924
+ top: 0.014684286464364314
+ transform: 0.060866367394790094
+ unsupervis: 0.014684286464364314
+ user: 0.014684286464364314
+
+N-grams list: 10
+ spell correct completion
+ queri completion
+ top spellcorrect completion
+ sugges
+ noisi channel transform
+ markov ngram transform
+ spell correc pair
+ gener model
+ search engin queri
+ user spell behavior
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

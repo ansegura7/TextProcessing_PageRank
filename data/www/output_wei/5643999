@@ -1,0 +1,51 @@
+File name: 5643999
+
+Graph edges count: 13
+ defec - detec: 1
+ effect - onlin: 1
+ engin - switch: 2
+ engin - user: 1
+ incom - searcher: 1
+ inform - onlin: 1
+ qualiti - experi: 1
+ reason - level: 1
+ search - engin: 3
+ search - experi: 1
+ switch - searcher: 1
+ user - group: 1
+ web - search: 1
+
+PageRank scores count: 17
+ defec: 0.033727305146686634
+ detec: 0.06239551452137028
+ effect: 0.033727305146686634
+ engin: 0.07350444565406018
+ experi: 0.07565456135716146
+ group: 0.08009783518305644
+ incom: 0.033727305146686634
+ inform: 0.033727305146686634
+ level: 0.06239551452137028
+ onlin: 0.09106372389605391
+ qualiti: 0.033727305146686634
+ reason: 0.033727305146686634
+ search: 0.06239551452137028
+ searcher: 0.12646836521942625
+ switch: 0.07537982435065407
+ user: 0.054553564748670354
+ web: 0.033727305146686634
+
+N-grams list: 10
+ search engin switch
+ web search engin
+ incom searcher
+ search experi
+ user group
+ engin user
+ searcher
+ effect onlin
+ inform onlin
+ qualiti experi
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

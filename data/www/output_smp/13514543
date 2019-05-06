@@ -1,0 +1,78 @@
+File name: 13514543
+
+Graph edges count: 24
+ account - world: 1
+ autom - ontologi: 1
+ docum - extract: 1
+ extract - ontolog: 1
+ highqual - output: 1
+ inform - extrac: 1
+ internet - docum: 1
+ knowledg - axiom: 1
+ languag - docum: 1
+ logic - reason: 1
+ match - word: 1
+ natur - languag: 1
+ ontologi - exten: 1
+ ontolog - fact: 1
+ ontolog - reason: 1
+ pattern - match: 1
+ probabl - mean: 1
+ selforgan - framework: 1
+ sens - disambigu: 1
+ text - pattern: 1
+ unifi - model: 1
+ unstructur - internet: 1
+ word - sens: 1
+ world - knowledg: 1
+
+PageRank scores count: 33
+ account: 0.013901868129129292
+ autom: 0.013901868129129292
+ axiom: 0.044300040526986634
+ disambigu: 0.05772523531963703
+ docum: 0.05762324339524092
+ exten: 0.03576255576218511
+ extrac: 0.025718456038889195
+ extract: 0.06288162501508408
+ fact: 0.042526149120708366
+ framework: 0.025718456038889195
+ highqual: 0.013901868129129292
+ inform: 0.013901868129129292
+ internet: 0.025718456038889195
+ knowledg: 0.03576255576218511
+ languag: 0.025718456038889195
+ logic: 0.013901868129129292
+ match: 0.03576255576218511
+ mean: 0.025718456038889195
+ model: 0.025718456038889195
+ natur: 0.013901868129129292
+ ontolog: 0.06735124939195077
+ ontologi: 0.025718456038889195
+ output: 0.025718456038889195
+ pattern: 0.025718456038889195
+ probabl: 0.013901868129129292
+ reason: 0.05434273703046827
+ selforgan: 0.013901868129129292
+ sens: 0.05155690257706793
+ text: 0.013901868129129292
+ unifi: 0.013901868129129292
+ unstructur: 0.013901868129129292
+ word: 0.044300040526986634
+ world: 0.025718456038889195
+
+N-grams list: 10
+ extract ontolog fact
+ ontolog reason
+ sens disambigu
+ pattern match word
+ natur languag docum
+ unstructur internet docum
+ autom ontologi exten
+ account world knowledg
+ logic reason
+ axiom
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

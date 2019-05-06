@@ -1,0 +1,45 @@
+File name: 3599654
+
+Graph edges count: 9
+ data - orderbas: 1
+ experiment - comparison: 1
+ holist - algorithm: 1
+ navig - ax: 1
+ orderbas - queri: 3
+ perform - benefit: 1
+ previou - approach: 1
+ xml - data: 2
+ xpath - navig: 1
+
+PageRank scores count: 15
+ algorithm: 0.07274407356981712
+ approach: 0.07274407356981712
+ ax: 0.10115358338289435
+ benefit: 0.07274407356981712
+ comparison: 0.07274407356981712
+ data: 0.07274407356981712
+ experiment: 0.039321120848549794
+ holist: 0.039321120848549794
+ navig: 0.07274407356981712
+ orderbas: 0.10115358338289435
+ perform: 0.039321120848549794
+ previou: 0.039321120848549794
+ queri: 0.12530166672401
+ xml: 0.039321120848549794
+ xpath: 0.039321120848549794
+
+N-grams list: 10
+ orderbas queri
+ xpath navig ax
+ xml data orderbas
+ queri
+ previou approach
+ holist algorithm
+ xml data
+ perform benefit
+ experiment comparison
+ algorithm
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

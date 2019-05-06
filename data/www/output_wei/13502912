@@ -1,0 +1,73 @@
+File name: 13502912
+
+Graph edges count: 22
+ advertis - market: 1
+ behavior - target: 2
+ clickthrough - log: 2
+ clickthrough - rate: 1
+ commerci - search: 3
+ comprehens - experi: 1
+ empir - studi: 2
+ experi - result: 1
+ import - conclusion: 1
+ import - role: 1
+ long - term: 1
+ onlin - advert: 1
+ onlin - advertis: 3
+ real - world: 1
+ search - engin: 3
+ search - log: 1
+ short - term: 1
+ similar - behavior: 1
+ statist - ttest: 1
+ term - user: 2
+ user - behavior: 2
+ world - ad: 1
+
+PageRank scores count: 30
+ ad: 0.04719467988912689
+ advert: 0.022244334058529196
+ advertis: 0.03004131713059098
+ behavior: 0.085321927111509
+ clickthrough: 0.018345842522498306
+ commerci: 0.018345842522498306
+ comprehens: 0.018345842522498306
+ conclusion: 0.026142825594560087
+ empir: 0.018345842522498306
+ engin: 0.03998247054746975
+ experi: 0.03393980866662187
+ import: 0.018345842522498306
+ log: 0.03595402929357116
+ long: 0.018345842522498306
+ market: 0.04388096208350063
+ onlin: 0.018345842522498306
+ rate: 0.023543831237206162
+ real: 0.018345842522498306
+ result: 0.04719467988912689
+ role: 0.026142825594560087
+ search: 0.03393980866662187
+ short: 0.018345842522498306
+ similar: 0.018345842522498306
+ statist: 0.018345842522498306
+ studi: 0.03393980866662187
+ target: 0.09086948056728096
+ term: 0.049533774810745425
+ ttest: 0.03393980866662187
+ user: 0.06044955111163192
+ world: 0.03393980866662187
+
+N-grams list: 10
+ behavior target
+ long term user
+ short term user
+ similar behavior
+ real world ad
+ comprehens experi result
+ commerci search engin
+ onlin advertis market
+ behavior
+ search log
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

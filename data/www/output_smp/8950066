@@ -1,0 +1,73 @@
+File name: 8950066
+
+Graph edges count: 23
+ annot - applic: 1
+ data - set: 1
+ descrip - framework: 1
+ earli - result: 1
+ earli - stage: 2
+ entir - web: 1
+ histor - data: 1
+ longitudin - studi: 1
+ markup - languag: 2
+ metadata - annot: 1
+ ontologi - languag: 1
+ popular - applic: 1
+ rdf - site: 1
+ research - develop: 1
+ resourc - descrip: 1
+ semant - markup: 2
+ semant - page: 1
+ semant - web: 6
+ semant - webscap: 1
+ site - summari: 1
+ web - adop: 1
+ web - ontologi: 1
+ web - page: 2
+
+PageRank scores count: 29
+ adop: 0.03306259394634991
+ annot: 0.03860563237916991
+ applic: 0.07142041990146433
+ data: 0.03860563237916991
+ descrip: 0.03860563237916991
+ develop: 0.03860563237916991
+ earli: 0.020867909394145897
+ entir: 0.020867909394145897
+ framework: 0.05368269691644032
+ histor: 0.020867909394145897
+ languag: 0.07047810336788495
+ longitudin: 0.020867909394145897
+ markup: 0.0253023401404019
+ metadata: 0.020867909394145897
+ ontologi: 0.03306259394634991
+ page: 0.03749702469260591
+ popular: 0.020867909394145897
+ rdf: 0.020867909394145897
+ research: 0.020867909394145897
+ resourc: 0.020867909394145897
+ result: 0.029736770886657903
+ semant: 0.020867909394145897
+ set: 0.05368269691644032
+ site: 0.03860563237916991
+ stage: 0.029736770886657903
+ studi: 0.03860563237916991
+ summari: 0.05368269691644032
+ web: 0.04304006312542591
+ webscap: 0.0253023401404019
+
+N-grams list: 10
+ web ontologi languag
+ metadata annot applic
+ semant markup languag
+ resourc descrip framework
+ rdf site summari
+ histor data set
+ semant web page
+ semant web adop
+ popular applic
+ semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,83 @@
+File name: 14395704
+
+Graph edges count: 27
+ 2d - graphic: 1
+ 3d - content: 1
+ 3d - graphic: 2
+ 3d - interac: 1
+ 3d - scene: 2
+ current - rich: 1
+ dualmod - user: 1
+ graphic - audio: 1
+ graphic - data: 1
+ hypertextbas - interac: 1
+ hypertextbas - web: 1
+ hypertextu - annot: 1
+ imag - 2d: 1
+ immers - 3d: 1
+ inform - space: 1
+ interact - medium: 1
+ interac - techniqu: 1
+ limit - accept: 1
+ major - media: 1
+ media - type: 1
+ simpl - hypertextbas: 1
+ textbas - system: 1
+ user - interfac: 3
+ user - studi: 1
+ web - interfac: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 35
+ 2d: 0.029904698977885686
+ 3d: 0.029904698977885686
+ accept: 0.029904698977885686
+ annot: 0.029904698977885686
+ audio: 0.03743879723839536
+ content: 0.02040120117207562
+ current: 0.01616470215020848
+ data: 0.03743879723839536
+ dualmod: 0.01616470215020848
+ graphic: 0.0500566943251456
+ hypertextbas: 0.029904698977885686
+ hypertextu: 0.01616470215020848
+ imag: 0.01616470215020848
+ immers: 0.01616470215020848
+ inform: 0.01616470215020848
+ interac: 0.03311069823767704
+ interact: 0.01616470215020848
+ interfac: 0.08137816209357142
+ limit: 0.01616470215020848
+ major: 0.01616470215020848
+ media: 0.029904698977885686
+ medium: 0.029904698977885686
+ rich: 0.029904698977885686
+ scene: 0.02463770019394276
+ simpl: 0.01616470215020848
+ space: 0.029904698977885686
+ studi: 0.022519450683009187
+ system: 0.029904698977885686
+ techniqu: 0.04430879565223396
+ textbas: 0.01616470215020848
+ type: 0.041583696281411314
+ user: 0.029904698977885686
+ web: 0.05429319334701272
+ wide: 0.029904698977885686
+ world: 0.01616470215020848
+
+N-grams list: 10
+ hypertextbas web interfac
+ dualmod user interfac
+ 3d graphic data
+ user interfac
+ 3d interac techniqu
+ world wide web
+ imag 2d graphic
+ major media type
+ 3d graphic
+ simpl hypertextbas interac
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

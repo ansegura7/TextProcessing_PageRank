@@ -1,0 +1,87 @@
+File name: 373164
+
+Graph edges count: 30
+ averag - precision: 1
+ compres - method: 1
+ compres - rate: 1
+ continu - growth: 1
+ engin - indic: 2
+ great - challeng: 1
+ improv - web: 1
+ index - prune: 1
+ lossless - compres: 1
+ origin - size: 1
+ origin - time: 1
+ overhead - queri: 1
+ process - time: 1
+ prune - method: 2
+ prune - strategi: 1
+ prune - techniqu: 1
+ queri - process: 1
+ real - search: 1
+ retriev - precision: 1
+ search - algorithm: 1
+ search - effici: 1
+ search - engin: 6
+ signif - improv: 1
+ space - effici: 1
+ static - prune: 2
+ storag - cost: 1
+ storag - overhead: 1
+ strategi - capabl: 1
+ tradition - lossless: 1
+ web - search: 1
+
+PageRank scores count: 36
+ algorithm: 0.020601724130358868
+ averag: 0.014417977489574442
+ capabl: 0.03370472575265955
+ challeng: 0.026673258355712718
+ compres: 0.037090247091930255
+ continu: 0.014417977489574442
+ cost: 0.020545617922643578
+ effici: 0.03285700499649715
+ engin: 0.051520457334281004
+ great: 0.014417977489574442
+ growth: 0.026673258355712718
+ improv: 0.026673258355712718
+ index: 0.014417977489574442
+ indic: 0.05821036622371329
+ lossless: 0.026673258355712718
+ method: 0.04672596167293147
+ origin: 0.014417977489574442
+ overhead: 0.020545617922643578
+ precision: 0.038928539221850994
+ process: 0.041517467304822704
+ prune: 0.038928539221850994
+ queri: 0.03188175272382149
+ rate: 0.0301813325036448
+ real: 0.014417977489574442
+ retriev: 0.014417977489574442
+ search: 0.05819996838385343
+ signif: 0.014417977489574442
+ size: 0.020545617922643578
+ space: 0.014417977489574442
+ static: 0.014417977489574442
+ storag: 0.014417977489574442
+ strategi: 0.02269029207421778
+ techniqu: 0.02269029207421778
+ time: 0.05583546513174288
+ tradition: 0.014417977489574442
+ web: 0.037090247091930255
+
+N-grams list: 10
+ search engin indic
+ real search engin
+ improv web search
+ search engin
+ static prune method
+ process time
+ prune strategi capabl
+ search algorithm
+ tradition lossless compres
+ index prune techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

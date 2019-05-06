@@ -1,0 +1,57 @@
+File name: 11759742
+
+Graph edges count: 15
+ aspect - summar: 1
+ aspect - summari: 2
+ automat - summar: 1
+ comment - web: 1
+ decompos - view: 1
+ ebai - seller: 1
+ feedback - comment: 1
+ larg - scale: 1
+ major - aspect: 1
+ product - servic: 1
+ seller - product: 1
+ short - comment: 4
+ summar - task: 1
+ target - entiti: 1
+ usergener - short: 1
+
+PageRank scores count: 21
+ aspect: 0.04668028525439179
+ automat: 0.025232586623995558
+ comment: 0.08635852772062479
+ decompos: 0.025232586623995558
+ ebai: 0.025232586623995558
+ entiti: 0.04668028525439179
+ feedback: 0.025232586623995558
+ larg: 0.025232586623995558
+ major: 0.025232586623995558
+ product: 0.06491082909022858
+ scale: 0.04668028525439179
+ seller: 0.04668028525439179
+ servic: 0.08040679135068984
+ short: 0.04668028525439179
+ summar: 0.05990636607646946
+ summari: 0.05168474826815091
+ target: 0.025232586623995558
+ task: 0.0761529977889946
+ usergener: 0.025232586623995558
+ view: 0.04668028525439179
+ web: 0.09863733518652662
+
+N-grams list: 10
+ short comment web
+ seller product servic
+ usergener short comment
+ summar task
+ short comment
+ feedback comment
+ aspect summar
+ aspect summari
+ automat summar
+ major aspect
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

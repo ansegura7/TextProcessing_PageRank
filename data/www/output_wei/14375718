@@ -1,0 +1,75 @@
+File name: 14375718
+
+Graph edges count: 20
+ compiletim - verif: 1
+ css - selector: 1
+ css - style: 4
+ debug - tool: 1
+ docum - instanc: 1
+ empti - css: 1
+ entir - set: 1
+ equival - selector: 1
+ import - issu: 1
+ origin - tool: 1
+ recent - advanc: 1
+ rigor - method: 1
+ runtim - debugg: 2
+ schema - inform: 1
+ style - sheet: 8
+ syntact - rule: 1
+ tree - logic: 1
+ usual - debug: 1
+ web - develop: 1
+ wide - rang: 1
+
+PageRank scores count: 34
+ advanc: 0.03512816082241668
+ compiletim: 0.018988195039144153
+ css: 0.03512816082241668
+ debug: 0.03512816082241668
+ debugg: 0.03512816082241668
+ develop: 0.03512816082241668
+ docum: 0.018988195039144153
+ empti: 0.018988195039144153
+ entir: 0.018988195039144153
+ equival: 0.018988195039144153
+ import: 0.018988195039144153
+ inform: 0.03512816082241668
+ instanc: 0.03512816082241668
+ issu: 0.03512816082241668
+ logic: 0.03512816082241668
+ method: 0.03512816082241668
+ origin: 0.018988195039144153
+ rang: 0.03512816082241668
+ recent: 0.018988195039144153
+ rigor: 0.018988195039144153
+ rule: 0.03512816082241668
+ runtim: 0.018988195039144153
+ schema: 0.018988195039144153
+ selector: 0.04109994816222752
+ set: 0.03512816082241668
+ sheet: 0.05543223777777352
+ style: 0.04287534439838749
+ syntact: 0.018988195039144153
+ tool: 0.06498709752147087
+ tree: 0.018988195039144153
+ usual: 0.018988195039144153
+ verif: 0.03512816082241668
+ web: 0.018988195039144153
+ wide: 0.018988195039144153
+
+N-grams list: 10
+ css style sheet
+ usual debug tool
+ style sheet
+ empti css selector
+ origin tool
+ tool
+ equival selector
+ entir set
+ tree logic
+ docum instanc
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

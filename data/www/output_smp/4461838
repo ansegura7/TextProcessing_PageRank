@@ -1,0 +1,39 @@
+File name: 4461838
+
+Graph edges count: 7
+ bayesian - network: 4
+ intens - investig: 1
+ retriev - model: 2
+ retriev - precision: 1
+ sentenc - retriev: 4
+ term - relationship: 3
+ term - set: 1
+
+PageRank scores count: 11
+ bayesian: 0.06260760682422914
+ intens: 0.06260760682422914
+ investig: 0.1158240726248239
+ model: 0.11183283768977931
+ network: 0.1158240726248239
+ precision: 0.11183283768977931
+ relationship: 0.08921583972452653
+ retriev: 0.1158240726248239
+ sentenc: 0.06260760682422914
+ set: 0.08921583972452653
+ term: 0.06260760682422914
+
+N-grams list: 10
+ sentenc retriev model
+ retriev precision
+ intens investig
+ bayesian network
+ sentenc retriev
+ term relationship
+ term set
+ retriev
+ relationship
+ term
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

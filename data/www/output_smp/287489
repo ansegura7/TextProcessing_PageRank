@@ -1,0 +1,74 @@
+File name: 287489
+
+Graph edges count: 23
+ classif - method: 1
+ classif - perform: 1
+ cluster - shrinkag: 1
+ implicit - knowledg: 1
+ induct - learn: 1
+ kei - insight: 1
+ master - taxonomi: 2
+ method - cluster: 1
+ method - support: 1
+ power - classif: 1
+ realworld - web: 1
+ semant - web: 1
+ sourc - taxonomi: 4
+ straightforward - approach: 1
+ substanti - improv: 1
+ support - vector: 2
+ taxonomi - data: 1
+ taxonomi - integr: 2
+ test - exampl: 1
+ transduct - learn: 1
+ vector - machin: 2
+ web - data: 1
+ web - taxonomi: 1
+
+PageRank scores count: 30
+ approach: 0.03427973599571342
+ classif: 0.03427973599571342
+ cluster: 0.03259643882443743
+ data: 0.07009163721853254
+ exampl: 0.03427973599571342
+ implicit: 0.01852958702470996
+ improv: 0.03427973599571342
+ induct: 0.01852958702470996
+ insight: 0.03427973599571342
+ integr: 0.04882893610767787
+ kei: 0.01852958702470996
+ knowledg: 0.03427973599571342
+ learn: 0.050029884966716884
+ machin: 0.05783066304636947
+ master: 0.01852958702470996
+ method: 0.03309847482288816
+ perform: 0.03309847482288816
+ power: 0.01852958702470996
+ realworld: 0.01852958702470996
+ semant: 0.01852958702470996
+ shrinkag: 0.04623656002548177
+ sourc: 0.01852958702470996
+ straightforward: 0.01852958702470996
+ substanti: 0.01852958702470996
+ support: 0.03259643882443743
+ taxonomi: 0.07129258607757155
+ test: 0.01852958702470996
+ transduct: 0.01852958702470996
+ vector: 0.04623656002548177
+ web: 0.050029884966716884
+
+N-grams list: 10
+ web taxonomi integr
+ sourc taxonomi data
+ realworld web data
+ support vector machin
+ taxonomi integr
+ method cluster shrinkag
+ sourc taxonomi
+ master taxonomi
+ power classif method
+ transduct learn
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

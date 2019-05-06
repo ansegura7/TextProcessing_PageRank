@@ -1,0 +1,61 @@
+File name: 13062436
+
+Graph edges count: 18
+ adecn - platform: 1
+ auction - mechan: 1
+ bid - data: 1
+ bintac - mechan: 1
+ counterfactu - experi: 1
+ high - valuat: 1
+ larg - class: 1
+ optim - mechan: 1
+ optim - secondpric: 1
+ screen - mechan: 1
+ secondpric - auction: 2
+ secondpric - mechan: 1
+ sequenti - screen: 1
+ similar - alloc: 1
+ simpl - auction: 1
+ simpl - sequenti: 1
+ takeach - alloc: 1
+ valuat - bidder: 1
+
+PageRank scores count: 22
+ adecn: 0.026128634533889666
+ alloc: 0.0705473132415021
+ auction: 0.058332176596908675
+ bid: 0.026128634533889666
+ bidder: 0.06721591233843116
+ bintac: 0.026128634533889666
+ class: 0.048337973887695874
+ counterfactu: 0.026128634533889666
+ data: 0.048337973887695874
+ experi: 0.048337973887695874
+ high: 0.026128634533889666
+ larg: 0.026128634533889666
+ mechan: 0.1686848315111333
+ optim: 0.026128634533889666
+ platform: 0.048337973887695874
+ screen: 0.05777694311306353
+ secondpric: 0.037233304210792774
+ sequenti: 0.037233304210792774
+ similar: 0.026128634533889666
+ simpl: 0.026128634533889666
+ takeach: 0.026128634533889666
+ valuat: 0.048337973887695874
+
+N-grams list: 10
+ simpl auction mechan
+ optim secondpric mechan
+ bintac mechan
+ optim mechan
+ mechan
+ high valuat bidder
+ simpl sequenti screen
+ takeach alloc
+ similar alloc
+ secondpric auction
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

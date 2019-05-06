@@ -1,0 +1,66 @@
+File name: 14389185
+
+Graph edges count: 19
+ databas - schema: 1
+ desir - properti: 1
+ direct - map: 2
+ draft - method: 1
+ fundament - problem: 1
+ fundament - properti: 1
+ inform - preserv: 1
+ integr - constraint: 1
+ map - relat: 1
+ monoton - map: 1
+ nonmonoton - direct: 1
+ null - valu: 1
+ owl - map: 1
+ owl - ontologi: 1
+ queri - preserv: 1
+ rdf - instanc: 1
+ relat - databas: 5
+ semant - preserv: 3
+ semant - web: 1
+
+PageRank scores count: 26
+ constraint: 0.038059547595286874
+ databas: 0.0952480038233387
+ desir: 0.0205727284298848
+ direct: 0.038059547595286874
+ draft: 0.0205727284298848
+ fundament: 0.0205727284298848
+ inform: 0.0205727284298848
+ instanc: 0.038059547595286874
+ integr: 0.0205727284298848
+ map: 0.07915357263398176
+ method: 0.038059547595286874
+ monoton: 0.0205727284298848
+ nonmonoton: 0.0205727284298848
+ null: 0.0205727284298848
+ ontologi: 0.029316138012585834
+ owl: 0.0205727284298848
+ preserv: 0.06866148113474052
+ problem: 0.029316138012585834
+ properti: 0.04680295717798792
+ queri: 0.0205727284298848
+ rdf: 0.0205727284298848
+ relat: 0.08785326516876929
+ schema: 0.10153353167972269
+ semant: 0.0205727284298848
+ valu: 0.038059547595286874
+ web: 0.02494443322123532
+
+N-grams list: 10
+ relat databas schema
+ owl map relat
+ relat databas
+ nonmonoton direct map
+ direct map
+ monoton map
+ databas
+ queri preserv
+ semant preserv
+ inform preserv
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

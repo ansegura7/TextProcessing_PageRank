@@ -1,0 +1,71 @@
+File name: 4349722
+
+Graph edges count: 21
+ access - servic: 1
+ client - prefer: 1
+ discoveri - process: 2
+ endtoend - qualiti: 1
+ exist - standard: 1
+ experiment - valid: 1
+ heterogen - registri: 1
+ major - research: 1
+ qo - metric: 1
+ relev - function: 1
+ relev - rank: 1
+ research - challeng: 1
+ servic - major: 1
+ servic - registri: 1
+ servic - relev: 1
+ similar - function: 1
+ technic - challeng: 1
+ uddi - wsdl: 1
+ valid - result: 1
+ web - servic: 5
+ wsdl - soap: 1
+
+PageRank scores count: 29
+ access: 0.020094156192378435
+ challeng: 0.07987854087289516
+ client: 0.020094156192378435
+ discoveri: 0.020094156192378435
+ endtoend: 0.020094156192378435
+ exist: 0.020094156192378435
+ experiment: 0.020094156192378435
+ function: 0.05224731786970798
+ heterogen: 0.020094156192378435
+ major: 0.035466185679547936
+ metric: 0.0371741889559001
+ prefer: 0.0371741889559001
+ process: 0.0371741889559001
+ qo: 0.020094156192378435
+ qualiti: 0.0371741889559001
+ rank: 0.03516728510618631
+ registri: 0.05254621844306961
+ relev: 0.035466185679547936
+ research: 0.050240414019994184
+ result: 0.05169221680489352
+ servic: 0.05425422171942177
+ similar: 0.020094156192378435
+ soap: 0.05169221680489352
+ standard: 0.0371741889559001
+ technic: 0.020094156192378435
+ uddi: 0.020094156192378435
+ valid: 0.0371741889559001
+ web: 0.020094156192378435
+ wsdl: 0.0371741889559001
+
+N-grams list: 10
+ research challeng
+ access servic registri
+ web servic major
+ web servic relev
+ uddi wsdl soap
+ experiment valid result
+ technic challeng
+ challeng
+ web servic
+ heterogen registri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

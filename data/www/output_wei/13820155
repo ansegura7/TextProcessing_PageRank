@@ -1,0 +1,90 @@
+File name: 13820155
+
+Graph edges count: 28
+ approxim - algorithm: 1
+ approxim - ratio: 1
+ attribut - space: 1
+ attribut - valu: 1
+ commerc - search: 4
+ consider - set: 2
+ constant - factor: 1
+ disper - problem: 2
+ empir - analysi: 1
+ extens - empir: 1
+ factor - approxim: 1
+ gener - maxsum: 2
+ import - attribut: 2
+ kei - featur: 1
+ maxsum - disper: 2
+ metric - space: 1
+ natur - defini: 1
+ pairwis - distanc: 1
+ potenti - transac: 1
+ realworld - data: 1
+ search - engin: 1
+ total - cost: 1
+ unit - cost: 1
+ unspecifi - attribut: 2
+ user - interac: 1
+ user - prefer: 1
+ user - queri: 1
+ user - satisfac: 2
+
+PageRank scores count: 41
+ algorithm: 0.03098529787257662
+ analysi: 0.03807825099081162
+ approxim: 0.03807825099081162
+ attribut: 0.03996551124400054
+ commerc: 0.01480204120148168
+ consider: 0.01480204120148168
+ constant: 0.01480204120148168
+ cost: 0.03996551124400054
+ data: 0.027383776222741105
+ defini: 0.027383776222741105
+ disper: 0.03807825099081162
+ distanc: 0.027383776222741105
+ empir: 0.027383776222741105
+ engin: 0.03807825099081162
+ extens: 0.01480204120148168
+ factor: 0.027383776222741105
+ featur: 0.027383776222741105
+ gener: 0.01480204120148168
+ import: 0.01480204120148168
+ interac: 0.017318388205733563
+ kei: 0.01480204120148168
+ maxsum: 0.027383776222741105
+ metric: 0.01480204120148168
+ natur: 0.01480204120148168
+ pairwis: 0.01480204120148168
+ potenti: 0.01480204120148168
+ prefer: 0.017318388205733563
+ problem: 0.047168554543671554
+ queri: 0.017318388205733563
+ ratio: 0.03098529787257662
+ realworld: 0.01480204120148168
+ satisfac: 0.019834735209985452
+ search: 0.027383776222741105
+ set: 0.027383776222741105
+ space: 0.04436911850144133
+ total: 0.01480204120148168
+ transac: 0.027383776222741105
+ unit: 0.01480204120148168
+ unspecifi: 0.01480204120148168
+ user: 0.01480204120148168
+ valu: 0.031787383480181904
+
+N-grams list: 10
+ attribut space
+ extens empir analysi
+ constant factor approxim
+ gener maxsum disper
+ attribut valu
+ approxim ratio
+ search engin
+ metric space
+ import attribut
+ unit cost
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,112 @@
+File name: 1833006
+
+Graph edges count: 37
+ access - etc: 1
+ applic - server: 3
+ blackbox - optim: 1
+ brokerag - applic: 1
+ busi - transac: 1
+ complex - enterpr: 1
+ complex - interac: 1
+ concurr - memori: 1
+ configur - paramet: 1
+ databas - access: 1
+ descent - direc: 1
+ empir - result: 1
+ enterpr - applic: 1
+ errorpron - task: 1
+ extens - experi: 1
+ heurist - method: 1
+ hillclimb - algorithm: 2
+ hypercub - sampl: 1
+ import - sampl: 2
+ inform - retriev: 1
+ larg - number: 1
+ latin - hypercub: 1
+ local - function: 1
+ manag - databas: 1
+ memori - manag: 1
+ onlin - brokerag: 1
+ optim - configur: 1
+ optim - problem: 1
+ overwhelm - success: 1
+ past - search: 1
+ random - sampl: 1
+ select - fashion: 1
+ server - configur: 1
+ smart - hillclimb: 2
+ tradition - heurist: 1
+ webspher - environ: 1
+ web - applic: 1
+
+PageRank scores count: 54
+ access: 0.03544962836104091
+ algorithm: 0.02458971054584565
+ applic: 0.04429254470041294
+ blackbox: 0.00955868242792834
+ brokerag: 0.017683562491667425
+ busi: 0.00955868242792834
+ complex: 0.00955868242792834
+ concurr: 0.00955868242792834
+ configur: 0.057200440096674424
+ databas: 0.030459936391897147
+ descent: 0.00955868242792834
+ direc: 0.017683562491667425
+ empir: 0.00955868242792834
+ enterpr: 0.013621122459797883
+ environ: 0.017683562491667425
+ errorpron: 0.00955868242792834
+ etc: 0.039690866534813116
+ experi: 0.017683562491667425
+ extens: 0.00955868242792834
+ fashion: 0.017683562491667425
+ function: 0.017683562491667425
+ heurist: 0.017683562491667425
+ hillclimb: 0.017683562491667425
+ hypercub: 0.017683562491667425
+ import: 0.00955868242792834
+ inform: 0.00955868242792834
+ interac: 0.013621122459797883
+ larg: 0.00955868242792834
+ latin: 0.00955868242792834
+ local: 0.00955868242792834
+ manag: 0.02458971054584565
+ memori: 0.017683562491667425
+ method: 0.02458971054584565
+ number: 0.017683562491667425
+ onlin: 0.00955868242792834
+ optim: 0.017683562491667425
+ overwhelm: 0.00955868242792834
+ paramet: 0.0581790565101016
+ past: 0.00955868242792834
+ problem: 0.017074196486886996
+ random: 0.00955868242792834
+ result: 0.017683562491667425
+ retriev: 0.017683562491667425
+ sampl: 0.04083947067332383
+ search: 0.017683562491667425
+ select: 0.00955868242792834
+ server: 0.04720734542327934
+ smart: 0.00955868242792834
+ success: 0.017683562491667425
+ task: 0.017683562491667425
+ tradition: 0.00955868242792834
+ transac: 0.017683562491667425
+ web: 0.00955868242792834
+ webspher: 0.00955868242792834
+
+N-grams list: 10
+ applic server configur
+ configur paramet
+ databas access etc
+ web applic server
+ applic server
+ optim configur
+ onlin brokerag applic
+ latin hypercub sampl
+ complex enterpr applic
+ configur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

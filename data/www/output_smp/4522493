@@ -1,0 +1,54 @@
+File name: 4522493
+
+Graph edges count: 14
+ accur - keyword: 1
+ annot - problem: 1
+ data - mine: 1
+ experiment - result: 1
+ imag - annot: 2
+ imag - databas: 1
+ largescal - imag: 1
+ mine - annot: 1
+ mine - technologi: 2
+ notabl - advantag: 1
+ real - web: 1
+ similar - imag: 1
+ unlimit - vocabulari: 1
+ web - imag: 1
+
+PageRank scores count: 19
+ accur: 0.028059638306001056
+ advantag: 0.05191033086610196
+ annot: 0.10107257090560993
+ data: 0.028059638306001056
+ databas: 0.0790106802875166
+ experiment: 0.028059638306001056
+ imag: 0.1198848046623895
+ keyword: 0.05191033086610196
+ largescal: 0.028059638306001056
+ mine: 0.05191033086610196
+ notabl: 0.028059638306001056
+ problem: 0.1139713235757695
+ real: 0.028059638306001056
+ result: 0.05191033086610196
+ similar: 0.028059638306001056
+ technologi: 0.05012152892409439
+ unlimit: 0.028059638306001056
+ vocabulari: 0.05191033086610196
+ web: 0.05191033086610196
+
+N-grams list: 10
+ imag annot problem
+ largescal imag databas
+ imag annot
+ real web imag
+ mine annot
+ similar imag
+ data mine technologi
+ imag
+ mine technologi
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

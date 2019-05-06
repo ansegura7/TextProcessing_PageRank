@@ -1,0 +1,32 @@
+File name: 10378963
+
+Graph edges count: 5
+ import - context: 1
+ ontolog - knowledg: 2
+ queri - log: 3
+ search - queri: 1
+ semant - categori: 1
+
+PageRank scores count: 9
+ categori: 0.1324029343353015
+ context: 0.1324029343353015
+ import: 0.07156915369475757
+ knowledg: 0.1324029343353015
+ log: 0.18411164787976386
+ ontolog: 0.07156915369475757
+ queri: 0.1324029343353015
+ search: 0.07156915369475757
+ semant: 0.07156915369475757
+
+N-grams list: 7
+ search queri log
+ queri log
+ import context
+ semant categori
+ ontolog knowledg
+ categori
+ context
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

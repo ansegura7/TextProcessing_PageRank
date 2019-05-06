@@ -1,0 +1,74 @@
+File name: 380379
+
+Graph edges count: 21
+ consum - opinion: 3
+ custom - hesh: 1
+ custom - review: 2
+ discus - group: 1
+ excel - sourc: 1
+ experiment - result: 1
+ featurebyfeatur - comparison: 1
+ forum - discus: 1
+ languag - pattern: 1
+ market - intellig: 1
+ numer - web: 1
+ onlin - custom: 1
+ opinion - observ: 2
+ pattern - mine: 1
+ potenti - custom: 2
+ product - featur: 2
+ product - forum: 1
+ product - manufactur: 2
+ prototyp - system: 1
+ singl - glanc: 1
+ web - site: 1
+
+PageRank scores count: 32
+ comparison: 0.035643875298457244
+ consum: 0.0192669596207877
+ custom: 0.05202079097612679
+ discus: 0.03842795096366106
+ excel: 0.0192669596207877
+ experiment: 0.0192669596207877
+ featur: 0.02581772589185552
+ featurebyfeatur: 0.0192669596207877
+ forum: 0.022542342756321606
+ glanc: 0.035643875298457244
+ group: 0.051930717939899604
+ hesh: 0.03400618373069029
+ intellig: 0.035643875298457244
+ languag: 0.0192669596207877
+ manufactur: 0.02581772589185552
+ market: 0.0192669596207877
+ mine: 0.049564253624476355
+ numer: 0.0192669596207877
+ observ: 0.049564253624476355
+ onlin: 0.0192669596207877
+ opinion: 0.035643875298457244
+ pattern: 0.035643875298457244
+ potenti: 0.0192669596207877
+ product: 0.0192669596207877
+ prototyp: 0.0192669596207877
+ result: 0.035643875298457244
+ review: 0.04874540784059288
+ singl: 0.0192669596207877
+ site: 0.049564253624476355
+ sourc: 0.035643875298457244
+ system: 0.035643875298457244
+ web: 0.035643875298457244
+
+N-grams list: 10
+ onlin custom review
+ potenti custom hesh
+ languag pattern mine
+ numer web site
+ custom review
+ opinion observ
+ product forum discus
+ potenti custom
+ singl glanc
+ excel sourc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

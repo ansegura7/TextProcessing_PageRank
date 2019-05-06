@@ -1,0 +1,45 @@
+File name: 4411099
+
+Graph edges count: 9
+ associ - search: 6
+ bayesian - network: 4
+ infer - associ: 1
+ network - paramet: 1
+ network - structur: 1
+ ontologi - taxonomi: 1
+ preliminari - solution: 1
+ queri - log: 1
+ semant - web: 2
+
+PageRank scores count: 15
+ associ: 0.07958700795870077
+ bayesian: 0.04302000430200042
+ infer: 0.04302000430200042
+ log: 0.07958700795870077
+ network: 0.07958700795870077
+ ontologi: 0.04302000430200042
+ paramet: 0.07684448268444825
+ preliminari: 0.04302000430200042
+ queri: 0.04302000430200042
+ search: 0.11066896106689608
+ semant: 0.04302000430200042
+ solution: 0.07958700795870077
+ structur: 0.07684448268444825
+ taxonomi: 0.07958700795870077
+ web: 0.07958700795870077
+
+N-grams list: 10
+ infer associ search
+ associ search
+ network paramet
+ network structur
+ preliminari solution
+ ontologi taxonomi
+ bayesian network
+ queri log
+ semant web
+ search
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

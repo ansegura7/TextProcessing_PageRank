@@ -1,0 +1,94 @@
+File name: 10795381
+
+Graph edges count: 33
+ averag - navig: 1
+ averag - pairwis: 1
+ categori - system: 1
+ collabor - vocabulari: 1
+ discoveri - algorithm: 1
+ dynam - gener: 1
+ experiment - evalu: 1
+ facet - gener: 1
+ facet - hierarchi: 1
+ facet - interfac: 4
+ facet - retriev: 2
+ hierarchi - construc: 1
+ individu - facet: 1
+ inform - discoveri: 1
+ intens - intern: 1
+ interfac - discoveri: 1
+ intern - structur: 1
+ keyword - queri: 1
+ navig - cost: 2
+ pairwis - similar: 1
+ queri - facetedpedia: 1
+ querydepend - facet: 1
+ rank - individu: 1
+ rank - interfac: 1
+ rank - metric: 1
+ result - articl: 1
+ retriev - system: 2
+ rich - semant: 1
+ semant - inform: 1
+ sheer - size: 1
+ system - facetedpedia: 1
+ user - studi: 1
+ wikipedia - articl: 1
+
+PageRank scores count: 40
+ algorithm: 0.06690762254619005
+ articl: 0.03550976483701391
+ averag: 0.013151764754449595
+ categori: 0.013151764754449595
+ collabor: 0.013151764754449595
+ construc: 0.03131682468611342
+ cost: 0.02908183981327667
+ discoveri: 0.06324218563734171
+ dynam: 0.013151764754449595
+ evalu: 0.02433076479573175
+ experiment: 0.013151764754449595
+ facet: 0.03867714818204385
+ facetedpedia: 0.06995436584910782
+ gener: 0.03254965878441607
+ hierarchi: 0.021370658743133913
+ individu: 0.016878098101543646
+ inform: 0.033832914830821584
+ intens: 0.013151764754449595
+ interfac: 0.025096992090227963
+ intern: 0.02433076479573175
+ keyword: 0.013151764754449595
+ metric: 0.016878098101543646
+ navig: 0.018741264775090673
+ pairwis: 0.018741264775090673
+ queri: 0.02433076479573175
+ querydepend: 0.013151764754449595
+ rank: 0.013151764754449595
+ result: 0.013151764754449595
+ retriev: 0.021370658743133913
+ rich: 0.013151764754449595
+ semant: 0.02433076479573175
+ sheer: 0.013151764754449595
+ similar: 0.02908183981327667
+ size: 0.02433076479573175
+ structur: 0.033832914830821584
+ studi: 0.02433076479573175
+ system: 0.042495824727395576
+ user: 0.013151764754449595
+ vocabulari: 0.02433076479573175
+ wikipedia: 0.013151764754449595
+
+N-grams list: 10
+ facet interfac discoveri
+ keyword queri facetedpedia
+ facet retriev system
+ inform discoveri
+ querydepend facet interfac
+ rich semant inform
+ intens intern structur
+ facet gener
+ facetedpedia
+ rank individu facet
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

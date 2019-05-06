@@ -1,0 +1,60 @@
+File name: 5215473
+
+Graph edges count: 15
+ analysi - method: 1
+ contentbas - flash: 1
+ eigenvectorbas - model: 1
+ experi - result: 1
+ express - semant: 5
+ flash - movi: 1
+ flash - search: 2
+ link - analysi: 1
+ lowlevel - featur: 2
+ multimedia - format: 1
+ previou - work: 1
+ promis - approach: 1
+ search - engin: 3
+ semant - flash: 1
+ user - queri: 2
+
+PageRank scores count: 24
+ analysi: 0.045064105212100185
+ approach: 0.045064105212100185
+ contentbas: 0.02435897579032443
+ eigenvectorbas: 0.02435897579032443
+ engin: 0.08521997829818248
+ experi: 0.02435897579032443
+ express: 0.02435897579032443
+ featur: 0.045064105212100185
+ flash: 0.08336859464238536
+ format: 0.045064105212100185
+ link: 0.02435897579032443
+ lowlevel: 0.02435897579032443
+ method: 0.06266346522060959
+ model: 0.045064105212100185
+ movi: 0.04798007760566695
+ multimedia: 0.02435897579032443
+ previou: 0.02435897579032443
+ promis: 0.02435897579032443
+ queri: 0.045064105212100185
+ result: 0.045064105212100185
+ search: 0.07160117942100946
+ semant: 0.045064105212100185
+ user: 0.02435897579032443
+ work: 0.045064105212100185
+
+N-grams list: 10
+ flash search engin
+ contentbas flash search
+ search engin
+ express semant flash
+ link analysi method
+ flash movi
+ engin
+ flash
+ multimedia format
+ express semant
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

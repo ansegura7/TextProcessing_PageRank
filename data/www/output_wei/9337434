@@ -1,0 +1,125 @@
+File name: 9337434
+
+Graph edges count: 46
+ aggreg - annot: 1
+ bookmark - system: 1
+ collabor - aggreg: 1
+ commun - detec: 1
+ data - sourc: 1
+ detec - navig: 1
+ directori - project: 1
+ distribu - aggreg: 1
+ emerg - inform: 1
+ emerg - semant: 1
+ establish - informationtheoret: 1
+ evalu - framework: 1
+ evalu - purpos: 1
+ extern - ground: 1
+ folksonomybas - similar: 1
+ framework - deal: 1
+ gener - folksonomybas: 1
+ import - data: 1
+ increment - comput: 1
+ informationtheoret - statist: 1
+ inform - structur: 1
+ kei - question: 1
+ mutual - inform: 1
+ navig - support: 1
+ ontologi - learn: 1
+ open - directori: 1
+ perus - projec: 1
+ practic - measur: 1
+ scalabl - approach: 1
+ search - user: 1
+ semant - proxi: 1
+ semant - search: 1
+ semant - web: 1
+ similar - measur: 3
+ social - bookmark: 1
+ social - tag: 1
+ support - semant: 1
+ tag - relat: 1
+ tag - similar: 2
+ tag - social: 1
+ tradition - notion: 1
+ usercr - tag: 1
+ uservalid - semant: 1
+ user - profil: 1
+ user - tag: 1
+ web - applic: 1
+
+PageRank scores count: 58
+ aggreg: 0.023655035837837735
+ annot: 0.028867904846546423
+ applic: 0.026723396472950824
+ approach: 0.01620808011111104
+ bookmark: 0.015590932065611816
+ collabor: 0.008761124384384346
+ commun: 0.008761124384384346
+ comput: 0.01620808011111104
+ data: 0.01620808011111104
+ deal: 0.019373036294969885
+ detec: 0.01620808011111104
+ directori: 0.01620808011111104
+ distribu: 0.008761124384384346
+ emerg: 0.008761124384384346
+ establish: 0.008761124384384346
+ evalu: 0.008761124384384346
+ extern: 0.008761124384384346
+ folksonomybas: 0.01620808011111104
+ framework: 0.012484602247747693
+ gener: 0.008761124384384346
+ ground: 0.01620808011111104
+ import: 0.008761124384384346
+ increment: 0.008761124384384346
+ inform: 0.01993155797447439
+ informationtheoret: 0.01620808011111104
+ kei: 0.008761124384384346
+ learn: 0.01620808011111104
+ measur: 0.047790692989571934
+ mutual: 0.008761124384384346
+ navig: 0.02253799247882873
+ notion: 0.01620808011111104
+ ontologi: 0.008761124384384346
+ open: 0.008761124384384346
+ perus: 0.008761124384384346
+ practic: 0.008761124384384346
+ profil: 0.020118567885388447
+ projec: 0.01620808011111104
+ project: 0.02253799247882873
+ proxi: 0.021132084810078215
+ purpos: 0.012484602247747693
+ question: 0.01620808011111104
+ relat: 0.016070132358715458
+ scalabl: 0.008761124384384346
+ search: 0.021132084810078215
+ semant: 0.04366221326715483
+ similar: 0.03715600842749096
+ social: 0.016070132358715458
+ sourc: 0.02253799247882873
+ statist: 0.02253799247882873
+ structur: 0.025702948662687575
+ support: 0.027918417991388764
+ system: 0.022013416938137628
+ tag: 0.03439533129334261
+ tradition: 0.008761124384384346
+ user: 0.026723396472950824
+ usercr: 0.008761124384384346
+ uservalid: 0.008761124384384346
+ web: 0.021132084810078215
+
+N-grams list: 10
+ tag similar measur
+ support semant search
+ semant web applic
+ similar measur
+ uservalid semant proxi
+ tag similar
+ social tag social
+ gener folksonomybas similar
+ user tag
+ usercr tag relat
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

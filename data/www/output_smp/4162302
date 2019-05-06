@@ -1,0 +1,102 @@
+File name: 4162302
+
+Graph edges count: 34
+ activ - seat: 1
+ child - develop: 1
+ classroom - activ: 1
+ classroom - instruc: 1
+ computeraid - learn: 3
+ comput - applic: 1
+ comput - monitor: 1
+ comput - resourc: 1
+ educ - fund: 1
+ field - observ: 1
+ group - interest: 1
+ implement - realiti: 1
+ inclass - comput: 1
+ intern - agenc: 1
+ learn - environ: 1
+ learn - modul: 1
+ learn - rang: 1
+ learn - uniqu: 1
+ multius - design: 2
+ multius - environ: 1
+ primari - school: 1
+ privat - group: 1
+ public - booth: 1
+ region - computeraid: 1
+ resourcestrap - learn: 1
+ school - children: 1
+ school - curriculum: 1
+ selfguid - learn: 1
+ specif - curriculum: 1
+ state - educ: 1
+ strong - case: 1
+ teacher - shortag: 1
+ underprivileg - children: 1
+ unsupervis - selfguid: 1
+
+PageRank scores count: 47
+ activ: 0.018460462224064667
+ agenc: 0.023966214115452376
+ applic: 0.019745137665388466
+ booth: 0.023966214115452376
+ case: 0.023966214115452376
+ child: 0.012954710332676958
+ children: 0.03415185511451963
+ classroom: 0.012954710332676958
+ comput: 0.023966214115452376
+ computeraid: 0.023966214115452376
+ curriculum: 0.03415185511451963
+ design: 0.018460462224064667
+ develop: 0.023966214115452376
+ educ: 0.023966214115452376
+ environ: 0.03221107757280547
+ field: 0.012954710332676958
+ fund: 0.033325992330811474
+ group: 0.023966214115452376
+ implement: 0.012954710332676958
+ inclass: 0.012954710332676958
+ instruc: 0.018460462224064667
+ interest: 0.033325992330811474
+ intern: 0.012954710332676958
+ learn: 0.0647087781117214
+ modul: 0.02670532568141776
+ monitor: 0.019745137665388466
+ multius: 0.012954710332676958
+ observ: 0.023966214115452376
+ primari: 0.012954710332676958
+ privat: 0.012954710332676958
+ public: 0.012954710332676958
+ rang: 0.02670532568141776
+ realiti: 0.023966214115452376
+ region: 0.012954710332676958
+ resourc: 0.019745137665388466
+ resourcestrap: 0.012954710332676958
+ school: 0.023966214115452376
+ seat: 0.028646103223131925
+ selfguid: 0.023966214115452376
+ shortag: 0.023966214115452376
+ specif: 0.012954710332676958
+ state: 0.012954710332676958
+ strong: 0.012954710332676958
+ teacher: 0.012954710332676958
+ underprivileg: 0.012954710332676958
+ uniqu: 0.02670532568141776
+ unsupervis: 0.012954710332676958
+
+N-grams list: 10
+ computeraid learn rang
+ computeraid learn modul
+ resourcestrap learn environ
+ region computeraid learn
+ unsupervis selfguid learn
+ learn uniqu
+ primari school children
+ privat group interest
+ state educ fund
+ learn
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,111 @@
+File name: 13062409
+
+Graph edges count: 38
+ access - system: 1
+ advers - condition: 1
+ averag - servic: 1
+ cach - system: 1
+ cellular - connect: 1
+ collabor - cach: 1
+ consider - power: 1
+ delaytoler - network: 1
+ design - space: 1
+ design - studi: 1
+ digit - access: 1
+ dtnstyle - connect: 1
+ futur - system: 1
+ hybrid - transport: 1
+ import - tool: 1
+ influenc - oper: 1
+ inform - technologi: 1
+ interact - web: 1
+ internet - access: 3
+ life - digit: 1
+ limit - cellular: 1
+ limit - form: 1
+ lowinfrastructur - method: 1
+ mobil - devic: 1
+ mobil - scenario: 1
+ mobil - user: 1
+ modern - life: 1
+ page - request: 1
+ servic - latenc: 1
+ shortterm - widelyemploi: 1
+ start - point: 1
+ transport - layer: 1
+ user - mobil: 1
+ user - node: 1
+ verylowinfrastructur - internet: 1
+ web - access: 1
+ web - content: 1
+ widelyemploi - mobil: 1
+
+PageRank scores count: 52
+ access: 0.059829463443956496
+ advers: 0.010789074398747876
+ averag: 0.010789074398747876
+ cach: 0.01995978763768357
+ cellular: 0.01537443101821572
+ collabor: 0.010789074398747876
+ condition: 0.01995978763768357
+ connect: 0.03302805400316693
+ consider: 0.010789074398747876
+ content: 0.01927198414476339
+ delaytoler: 0.010789074398747876
+ design: 0.010789074398747876
+ devic: 0.02120659262515855
+ digit: 0.027754893890778908
+ dtnstyle: 0.010789074398747876
+ form: 0.01537443101821572
+ futur: 0.010789074398747876
+ hybrid: 0.010789074398747876
+ import: 0.010789074398747876
+ influenc: 0.010789074398747876
+ inform: 0.010789074398747876
+ interact: 0.010789074398747876
+ internet: 0.01995978763768357
+ latenc: 0.027754893890778908
+ layer: 0.027754893890778908
+ life: 0.01995978763768357
+ limit: 0.010789074398747876
+ lowinfrastructur: 0.010789074398747876
+ method: 0.01995978763768357
+ mobil: 0.036767696522248317
+ modern: 0.010789074398747876
+ network: 0.01995978763768357
+ node: 0.019801877030217286
+ oper: 0.01995978763768357
+ page: 0.010789074398747876
+ point: 0.01995978763768357
+ power: 0.01995978763768357
+ request: 0.01995978763768357
+ scenario: 0.02120659262515855
+ servic: 0.01995978763768357
+ shortterm: 0.010789074398747876
+ space: 0.01537443101821572
+ start: 0.010789074398747876
+ studi: 0.01537443101821572
+ system: 0.08778065105707762
+ technologi: 0.01995978763768357
+ tool: 0.01995978763768357
+ transport: 0.01995978763768357
+ user: 0.02120659262515855
+ verylowinfrastructur: 0.010789074398747876
+ web: 0.01995978763768357
+ widelyemploi: 0.01995978763768357
+
+N-grams list: 10
+ internet access system
+ collabor cach system
+ futur system
+ interact web access
+ verylowinfrastructur internet access
+ internet access
+ shortterm widelyemploi mobil
+ access
+ averag servic latenc
+ modern life digit
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,50 @@
+File name: 204586
+
+Graph edges count: 13
+ advertis - content: 2
+ cach - techniqu: 4
+ index - data: 2
+ multipl - uri: 2
+ redund - data: 2
+ redund - transfer: 2
+ resourc - modif: 4
+ singl - uri: 2
+ techniqu - index: 2
+ techniqu - redund: 2
+ tradition - web: 4
+ valuebas - web: 1
+ web - cach: 5
+
+PageRank scores count: 16
+ advertis: 0.029522535538536347
+ cach: 0.09727675459947727
+ content: 0.05461669074629224
+ data: 0.12796635748391755
+ index: 0.07721084074147545
+ modif: 0.05461669074629224
+ multipl: 0.029522535538536347
+ redund: 0.07721084074147545
+ resourc: 0.029522535538536347
+ singl: 0.029522535538536347
+ techniqu: 0.112207776948092
+ tradition: 0.029522535538536347
+ transfer: 0.062337142853663416
+ uri: 0.07971084595404813
+ valuebas: 0.029522535538536347
+ web: 0.07971084595404813
+
+N-grams list: 10
+ techniqu redund data
+ techniqu index data
+ tradition web cach
+ valuebas web cach
+ redund transfer
+ data
+ multipl uri
+ singl uri
+ resourc modif
+ advertis content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

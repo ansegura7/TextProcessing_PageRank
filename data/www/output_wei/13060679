@@ -1,0 +1,76 @@
+File name: 13060679
+
+Graph edges count: 23
+ bia - problem: 1
+ challeng - task: 1
+ clickthrough - behavior: 1
+ docum - relev: 1
+ examin - hypothesi: 3
+ experiment - result: 1
+ intent - divers: 1
+ intent - hypothesi: 2
+ ndcg - improv: 1
+ position - bia: 3
+ previou - work: 1
+ recent - advanc: 1
+ search - engin: 1
+ search - intent: 4
+ search - result: 1
+ search - session: 1
+ signific - ndcg: 1
+ task - due: 1
+ ubm - dbn: 1
+ unbias - relev: 1
+ user - click: 3
+ user - search: 2
+ wellknown - position: 1
+
+PageRank scores count: 32
+ advanc: 0.03582053469547255
+ behavior: 0.03582053469547255
+ bia: 0.04980990567789358
+ challeng: 0.01936245118674192
+ click: 0.029237301291980298
+ clickthrough: 0.01936245118674192
+ dbn: 0.03582053469547255
+ divers: 0.02841909942611769
+ docum: 0.01936245118674192
+ due: 0.04980990567789358
+ engin: 0.022512998601270352
+ examin: 0.01936245118674192
+ experiment: 0.01936245118674192
+ hypothesi: 0.05393383117422408
+ improv: 0.04980990567789358
+ intent: 0.03196464084485566
+ ndcg: 0.03582053469547255
+ position: 0.03582053469547255
+ previou: 0.01936245118674192
+ problem: 0.061700871012951464
+ recent: 0.01936245118674192
+ relev: 0.052278618204203174
+ result: 0.038971082110000985
+ search: 0.02594568459023417
+ session: 0.022512998601270352
+ signific: 0.01936245118674192
+ task: 0.03582053469547255
+ ubm: 0.01936245118674192
+ unbias: 0.01936245118674192
+ user: 0.01936245118674192
+ wellknown: 0.01936245118674192
+ work: 0.03582053469547255
+
+N-grams list: 10
+ wellknown position bia
+ challeng task due
+ signific ndcg improv
+ search intent divers
+ intent hypothesi
+ position bia
+ user search intent
+ examin hypothesi
+ docum relev
+ unbias relev
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

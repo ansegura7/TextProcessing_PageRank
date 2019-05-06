@@ -1,0 +1,74 @@
+File name: 4265800
+
+Graph edges count: 23
+ behavior - pattern: 1
+ clickthrough - data: 3
+ cluster - structur: 2
+ collabor - web: 2
+ cooccurr - relationship: 1
+ cubeclust - approach: 1
+ cw - approach: 1
+ cw - framework: 1
+ group - behavior: 1
+ heterogen - web: 1
+ histori - data: 1
+ mine - clickthrough: 1
+ probabilist - model: 1
+ probabilist - relat: 1
+ realworld - clickthrough: 1
+ search - activ: 2
+ search - histori: 1
+ search - perform: 1
+ semant - cluster: 1
+ user - queri: 1
+ web - object: 2
+ web - page: 1
+ web - search: 3
+
+PageRank scores count: 30
+ activ: 0.03814064986230986
+ approach: 0.04536547576995978
+ behavior: 0.03689060667007718
+ clickthrough: 0.05384034486984237
+ cluster: 0.03689060667007718
+ collabor: 0.01994086847031199
+ cooccurr: 0.01994086847031199
+ cubeclust: 0.01994086847031199
+ cw: 0.01994086847031199
+ data: 0.0903898069010423
+ framework: 0.028415737570194586
+ group: 0.01994086847031199
+ heterogen: 0.01994086847031199
+ histori: 0.029040759166310926
+ mine: 0.01994086847031199
+ model: 0.028415737570194586
+ object: 0.03519563285010066
+ page: 0.027568250660206326
+ pattern: 0.05129788413987759
+ perform: 0.029040759166310926
+ probabilist: 0.01994086847031199
+ queri: 0.03689060667007718
+ realworld: 0.01994086847031199
+ relat: 0.028415737570194586
+ relationship: 0.03689060667007718
+ search: 0.042823015039995
+ semant: 0.01994086847031199
+ structur: 0.05129788413987759
+ user: 0.01994086847031199
+ web: 0.05384034486984237
+
+N-grams list: 10
+ realworld clickthrough data
+ mine clickthrough data
+ clickthrough data
+ web search activ
+ web search histori
+ collabor web search
+ heterogen web object
+ semant cluster structur
+ group behavior pattern
+ data
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

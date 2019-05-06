@@ -1,0 +1,55 @@
+File name: 91574
+
+Graph edges count: 12
+ descript - power: 1
+ docum - text: 1
+ entropi - loss: 1
+ inform - sourc: 1
+ organ - search: 1
+ posit - exampl: 1
+ previou - research: 1
+ rank - word: 1
+ rel - util: 1
+ target - docum: 2
+ web - page: 2
+ web - structur: 2
+
+PageRank scores count: 22
+ descript: 0.031179359264167136
+ docum: 0.057681814638709195
+ entropi: 0.031179359264167136
+ exampl: 0.057681814638709195
+ inform: 0.031179359264167136
+ loss: 0.057681814638709195
+ organ: 0.031179359264167136
+ page: 0.044430586951438165
+ posit: 0.031179359264167136
+ power: 0.057681814638709195
+ previou: 0.031179359264167136
+ rank: 0.031179359264167136
+ rel: 0.031179359264167136
+ research: 0.057681814638709195
+ search: 0.057681814638709195
+ sourc: 0.057681814638709195
+ structur: 0.044430586951438165
+ target: 0.031179359264167136
+ text: 0.08020890170706996
+ util: 0.057681814638709195
+ web: 0.031179359264167136
+ word: 0.057681814638709195
+
+N-grams list: 10
+ docum text
+ rank word
+ posit exampl
+ rel util
+ organ search
+ previou research
+ inform sourc
+ entropi loss
+ target docum
+ descript power
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

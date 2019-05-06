@@ -1,0 +1,63 @@
+File name: 9357379
+
+Graph edges count: 18
+ analysi - framework: 1
+ award - win: 1
+ compar - inform: 1
+ data - analysi: 1
+ design - encompass: 1
+ detail - data: 1
+ futur - work: 1
+ inform - content: 1
+ listen - prefer: 1
+ podcast - analysi: 1
+ podcast - content: 1
+ podcast - context: 1
+ podcast - prefer: 1
+ podcr - framework: 2
+ prescript - standard: 1
+ qualit - accept: 1
+ technic - execu: 1
+ win - podcast: 1
+
+PageRank scores count: 24
+ accept: 0.04398958650568906
+ analysi: 0.07416778036980308
+ award: 0.02377815486794003
+ compar: 0.02377815486794003
+ content: 0.07416778036980308
+ context: 0.03677663183996737
+ data: 0.04398958650568906
+ design: 0.02377815486794003
+ detail: 0.02377815486794003
+ encompass: 0.04398958650568906
+ execu: 0.04398958650568906
+ framework: 0.10703219982002167
+ futur: 0.02377815486794003
+ inform: 0.04398958650568906
+ listen: 0.02377815486794003
+ podcast: 0.06116930339777572
+ podcr: 0.02377815486794003
+ prefer: 0.05698806347771639
+ prescript: 0.02377815486794003
+ qualit: 0.02377815486794003
+ standard: 0.04398958650568906
+ technic: 0.02377815486794003
+ win: 0.04398958650568906
+ work: 0.04398958650568906
+
+N-grams list: 10
+ podcast analysi framework
+ detail data analysi
+ compar inform content
+ podcast content
+ podcr framework
+ award win podcast
+ podcast prefer
+ framework
+ podcast context
+ listen prefer
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

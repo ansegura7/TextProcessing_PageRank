@@ -1,0 +1,73 @@
+File name: 1247888
+
+Graph edges count: 22
+ current - implement: 1
+ current - level: 1
+ gnutella - show: 1
+ inform - share: 1
+ limit - impact: 1
+ malici - program: 1
+ network - peertop: 1
+ p2p - environ: 1
+ p2p - network: 1
+ p2p - protocol: 1
+ p2p - secur: 1
+ peertop - inform: 1
+ perspect - provid: 1
+ poll - algorithm: 1
+ recent - experi: 1
+ reput - servent: 1
+ reput - share: 1
+ resourc - provid: 1
+ resourc - requestor: 1
+ share - environ: 1
+ show - anonym: 1
+ trojan - hors: 1
+
+PageRank scores count: 30
+ algorithm: 0.03761914308685247
+ anonym: 0.052310943562663775
+ current: 0.020334671938839175
+ environ: 0.08933646832758793
+ experi: 0.03761914308685247
+ gnutella: 0.020334671938839175
+ hors: 0.03761914308685247
+ impact: 0.03761914308685247
+ implement: 0.028976907512845824
+ inform: 0.05543295116377368
+ level: 0.028976907512845824
+ limit: 0.020334671938839175
+ malici: 0.020334671938839175
+ network: 0.024655789725842498
+ p2p: 0.020334671938839175
+ peertop: 0.041292093205805305
+ perspect: 0.020334671938839175
+ poll: 0.020334671938839175
+ program: 0.03761914308685247
+ protocol: 0.024655789725842498
+ provid: 0.04626137866085913
+ recent: 0.020334671938839175
+ reput: 0.020334671938839175
+ requestor: 0.028976907512845824
+ resourc: 0.020334671938839175
+ secur: 0.024655789725842498
+ servent: 0.028976907512845824
+ share: 0.07609491600205345
+ show: 0.03761914308685247
+ trojan: 0.020334671938839175
+
+N-grams list: 10
+ inform share environ
+ gnutella show anonym
+ p2p environ
+ reput share
+ p2p network peertop
+ share
+ resourc provid
+ perspect provid
+ poll algorithm
+ trojan hors
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

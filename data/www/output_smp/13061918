@@ -1,0 +1,79 @@
+File name: 13061918
+
+Graph edges count: 25
+ akamai - platform: 1
+ architectur - question: 1
+ cdn - arena: 1
+ cdn - design: 1
+ cdn - platform: 1
+ center - approach: 1
+ coloc - approach: 1
+ commerci - content: 1
+ consolid - data: 1
+ content - deliveri: 3
+ crucial - part: 1
+ current - akamai: 1
+ data - center: 1
+ deliveri - network: 2
+ deliveri - provid: 1
+ influenti - cdn: 1
+ inher - perform: 1
+ internet - locat: 1
+ kei - architectur: 1
+ modern - web: 1
+ network - content: 1
+ numer - internet: 1
+ perform - benefit: 1
+ prospect - custom: 1
+ web - infrastructur: 1
+
+PageRank scores count: 33
+ akamai: 0.028069054580483952
+ approach: 0.06124553915997082
+ architectur: 0.028069054580483952
+ arena: 0.023125360733200512
+ benefit: 0.03903115832880809
+ cdn: 0.028069054580483952
+ center: 0.03903115832880809
+ coloc: 0.015172461935396729
+ commerci: 0.015172461935396729
+ consolid: 0.015172461935396729
+ content: 0.06702870693671735
+ crucial: 0.015172461935396729
+ current: 0.015172461935396729
+ custom: 0.028069054580483952
+ data: 0.028069054580483952
+ deliveri: 0.07214685799013262
+ design: 0.023125360733200512
+ influenti: 0.015172461935396729
+ infrastructur: 0.03903115832880809
+ inher: 0.015172461935396729
+ internet: 0.028069054580483952
+ kei: 0.015172461935396729
+ locat: 0.03903115832880809
+ modern: 0.015172461935396729
+ network: 0.045834876581203096
+ numer: 0.015172461935396729
+ part: 0.028069054580483952
+ perform: 0.028069054580483952
+ platform: 0.04698405712661187
+ prospect: 0.015172461935396729
+ provid: 0.045834876581203096
+ question: 0.03903115832880809
+ web: 0.028069054580483952
+
+N-grams list: 10
+ network content deliveri
+ content deliveri provid
+ commerci content deliveri
+ current akamai platform
+ consolid data center
+ modern web infrastructur
+ inher perform benefit
+ numer internet locat
+ kei architectur question
+ coloc approach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,69 @@
+File name: 3596563
+
+Graph edges count: 21
+ awar - support: 1
+ collabor - scenario: 1
+ collabor - system: 1
+ event - notif: 1
+ event - subscrip: 2
+ extens - xml: 1
+ exten - framework: 1
+ fullfledg - collabor: 1
+ gener - webdav: 1
+ implement - webdav: 1
+ initi - implement: 1
+ notif - framework: 1
+ scheme - awaredav: 1
+ share - awar: 1
+ soft - exchang: 1
+ subscrip - scheme: 1
+ transport - mechan: 1
+ webdav - exten: 1
+ webdav - notif: 1
+ webdav - protocol: 1
+ wide - rang: 1
+
+PageRank scores count: 27
+ awar: 0.03761726483342372
+ awaredav: 0.06063326970875681
+ collabor: 0.03761726483342372
+ event: 0.020333656666715525
+ exchang: 0.03761726483342372
+ exten: 0.04005137298356846
+ extens: 0.020333656666715525
+ framework: 0.09331801305268257
+ fullfledg: 0.020333656666715525
+ gener: 0.020333656666715525
+ implement: 0.03761726483342372
+ initi: 0.020333656666715525
+ mechan: 0.03761726483342372
+ notif: 0.04581257570580453
+ protocol: 0.04005137298356846
+ rang: 0.03761726483342372
+ scenario: 0.03632099422092061
+ scheme: 0.04741130946122503
+ share: 0.020333656666715525
+ soft: 0.020333656666715525
+ subscrip: 0.031856062111187654
+ support: 0.05230833177512569
+ system: 0.03632099422092061
+ transport: 0.020333656666715525
+ webdav: 0.06959193994183388
+ wide: 0.020333656666715525
+ xml: 0.03761726483342372
+
+N-grams list: 10
+ webdav exten framework
+ gener webdav notif
+ webdav protocol
+ implement webdav
+ event subscrip scheme
+ fullfledg collabor system
+ framework
+ awar support
+ collabor scenario
+ event notif
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

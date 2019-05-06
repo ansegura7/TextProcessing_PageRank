@@ -1,0 +1,71 @@
+File name: 13061698
+
+Graph edges count: 22
+ cost - function: 2
+ docum - retriev: 1
+ earli - learn: 1
+ improv - iterationdepend: 1
+ iterationdepend - cost: 1
+ latestag - learn: 1
+ learningtorank - problem: 1
+ multipl - measur: 1
+ multipl - object: 2
+ object - function: 2
+ open - problem: 1
+ rank - algorithm: 1
+ rank - model: 1
+ relev - measur: 2
+ scorecard - compar: 1
+ secondti - measur: 2
+ signific - improv: 1
+ size - model: 1
+ standard - web: 1
+ stateoftheart - rank: 1
+ toptier - measur: 2
+ web - relev: 1
+
+PageRank scores count: 28
+ algorithm: 0.034231777078387704
+ compar: 0.03545348500770734
+ cost: 0.0610686279257759
+ docum: 0.01916404595011208
+ earli: 0.01916404595011208
+ function: 0.09659250087725418
+ improv: 0.03545348500770734
+ iterationdepend: 0.049299508206663324
+ latestag: 0.01916404595011208
+ learn: 0.05174292406530262
+ learningtorank: 0.01916404595011208
+ measur: 0.09907731906016487
+ model: 0.05052121613598296
+ multipl: 0.01916404595011208
+ object: 0.030023671988508926
+ open: 0.01916404595011208
+ problem: 0.05174292406530262
+ rank: 0.03545348500770734
+ relev: 0.049299508206663324
+ retriev: 0.03545348500770734
+ scorecard: 0.01916404595011208
+ secondti: 0.01916404595011208
+ signific: 0.01916404595011208
+ size: 0.01916404595011208
+ standard: 0.01916404595011208
+ stateoftheart: 0.01916404595011208
+ toptier: 0.01916404595011208
+ web: 0.03545348500770734
+
+N-grams list: 10
+ cost function
+ relev measur
+ improv iterationdepend cost
+ multipl object function
+ multipl measur
+ secondti measur
+ toptier measur
+ standard web relev
+ measur
+ function
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

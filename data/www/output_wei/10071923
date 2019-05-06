@@ -1,0 +1,91 @@
+File name: 10071923
+
+Graph edges count: 31
+ altern - web: 1
+ avail - respons: 1
+ closetooptim - result: 1
+ compon - servic: 1
+ comput - time: 1
+ decision - problem: 1
+ dynam - web: 1
+ effici - local: 1
+ effici - qosawar: 1
+ endtoend - qo: 1
+ experiment - evalu: 1
+ global - constraint: 1
+ global - optim: 3
+ global - qo: 2
+ integ - program: 1
+ local - constraint: 2
+ local - selec: 4
+ mix - integ: 1
+ optim - decomposi: 1
+ poor - perform: 1
+ qosawar - servic: 1
+ qo - constraint: 1
+ qo - requir: 2
+ qualiti - paramet: 1
+ realtim - requir: 1
+ respons - time: 1
+ runtim - bind: 1
+ selec - strategi: 1
+ selec - techniqu: 1
+ servic - composi: 3
+ web - servic: 4
+
+PageRank scores count: 39
+ altern: 0.014372716272699532
+ avail: 0.014372716272699532
+ bind: 0.02658952510449413
+ closetooptim: 0.014372716272699532
+ compon: 0.014372716272699532
+ composi: 0.07980899857799935
+ comput: 0.014372716272699532
+ constraint: 0.030899343775710564
+ decision: 0.014372716272699532
+ decomposi: 0.03178166885800684
+ dynam: 0.014372716272699532
+ effici: 0.014372716272699532
+ endtoend: 0.014372716272699532
+ evalu: 0.02658952510449413
+ experiment: 0.014372716272699532
+ global: 0.014372716272699532
+ integ: 0.02658952510449413
+ local: 0.020481120688596834
+ mix: 0.014372716272699532
+ optim: 0.020481120688596834
+ paramet: 0.02658952510449413
+ perform: 0.02658952510449413
+ poor: 0.014372716272699532
+ problem: 0.02658952510449413
+ program: 0.03697381261151954
+ qo: 0.030661794715092335
+ qosawar: 0.020481120688596834
+ qualiti: 0.014372716272699532
+ realtim: 0.014372716272699532
+ requir: 0.04396454210971312
+ respons: 0.02658952510449413
+ result: 0.02658952510449413
+ runtim: 0.014372716272699532
+ selec: 0.025978684662904403
+ servic: 0.07698386153564686
+ strategi: 0.0254136572544339
+ techniqu: 0.0254136572544339
+ time: 0.049190621443314146
+ web: 0.03880633393628873
+
+N-grams list: 10
+ servic composi
+ altern web servic
+ dynam web servic
+ web servic
+ effici qosawar servic
+ compon servic
+ avail respons time
+ endtoend qo requir
+ global qo requir
+ composi
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

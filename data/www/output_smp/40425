@@ -1,0 +1,87 @@
+File name: 40425
+
+Graph edges count: 27
+ dynam - program: 1
+ effici - dynam: 1
+ experiment - result: 1
+ global - notion: 2
+ graphtheoret - result: 1
+ import - score: 1
+ increment - comput: 1
+ initiallyinterest - page: 1
+ iter - comput: 1
+ linkag - structur: 1
+ multipl - person: 1
+ pagerank - algorithm: 1
+ partial - vector: 5
+ person - view: 7
+ person - web: 1
+ program - algorithm: 1
+ queri - time: 2
+ recent - web: 1
+ refin - search: 1
+ search - recent: 1
+ search - techniqu: 1
+ storag - cost: 1
+ text - match: 1
+ tradition - text: 1
+ userspecifi - set: 1
+ web - graph: 1
+ web - search: 2
+
+PageRank scores count: 39
+ algorithm: 0.05869494126380404
+ comput: 0.039259614507731314
+ cost: 0.026900106236778864
+ dynam: 0.026900106236778864
+ effici: 0.014540597965826412
+ experiment: 0.014540597965826412
+ global: 0.014540597965826412
+ graph: 0.038665988210065866
+ graphtheoret: 0.014540597965826412
+ import: 0.014540597965826412
+ increment: 0.014540597965826412
+ initiallyinterest: 0.014540597965826412
+ iter: 0.014540597965826412
+ linkag: 0.014540597965826412
+ match: 0.03740568826708844
+ multipl: 0.014540597965826412
+ notion: 0.026900106236778864
+ page: 0.026900106236778864
+ pagerank: 0.014540597965826412
+ partial: 0.014540597965826412
+ person: 0.026900106236778864
+ program: 0.03740568826708844
+ queri: 0.014540597965826412
+ recent: 0.036226435923028814
+ refin: 0.014540597965826412
+ result: 0.039259614507731314
+ score: 0.026900106236778864
+ search: 0.05102549648101831
+ set: 0.026900106236778864
+ storag: 0.014540597965826412
+ structur: 0.026900106236778864
+ techniqu: 0.036226435923028814
+ text: 0.026900106236778864
+ time: 0.026900106236778864
+ tradition: 0.014540597965826412
+ userspecifi: 0.014540597965826412
+ vector: 0.026900106236778864
+ view: 0.025973143116457428
+ web: 0.05676561950934078
+
+N-grams list: 10
+ recent web search
+ person web search
+ web graph
+ effici dynam program
+ tradition text match
+ pagerank algorithm
+ multipl person view
+ refin search
+ algorithm
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

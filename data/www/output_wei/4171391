@@ -1,0 +1,80 @@
+File name: 4171391
+
+Graph edges count: 27
+ common - concept: 1
+ companion - languag: 1
+ contrast - xcerpt: 1
+ current - mainstream: 1
+ data - format: 1
+ emphversatil - semistructur: 1
+ heterogen - data: 1
+ languag - construct: 2
+ languag - visxcerpt: 1
+ languag - xcerpt: 2
+ mainstream - web: 1
+ mere - render: 1
+ optim - techniqu: 1
+ queri - languag: 5
+ rdf - data: 1
+ reason - xcerpt: 1
+ semant - web: 1
+ semistructur - queri: 1
+ uniqu - featur: 1
+ versatil - web: 1
+ visual - companion: 1
+ web - data: 2
+ web - queri: 2
+ web - reason: 1
+ xcerpt - applic: 1
+ xcerpt - project: 1
+ xqueri - xslt: 1
+
+PageRank scores count: 32
+ applic: 0.047160832115824614
+ common: 0.014395857498374185
+ companion: 0.026632336371992242
+ concept: 0.026632336371992242
+ construct: 0.04373343965829603
+ contrast: 0.014395857498374185
+ current: 0.014395857498374185
+ data: 0.059780957640623564
+ emphversatil: 0.014395857498374185
+ featur: 0.026632336371992242
+ format: 0.06520967149290421
+ heterogen: 0.014395857498374185
+ languag: 0.08628700635271132
+ mainstream: 0.026632336371992242
+ mere: 0.014395857498374185
+ optim: 0.014395857498374185
+ project: 0.047160832115824614
+ queri: 0.057945485809580845
+ rdf: 0.014395857498374185
+ reason: 0.024851928695880817
+ render: 0.026632336371992242
+ semant: 0.014395857498374185
+ semistructur: 0.026632336371992242
+ techniqu: 0.026632336371992242
+ uniqu: 0.014395857498374185
+ versatil: 0.014395857498374185
+ visual: 0.014395857498374185
+ visxcerpt: 0.029064648578335107
+ web: 0.0615063011618037
+ xcerpt: 0.07709405792341278
+ xqueri: 0.014395857498374185
+ xslt: 0.026632336371992242
+
+N-grams list: 10
+ queri languag xcerpt
+ languag xcerpt applic
+ queri languag
+ versatil web queri
+ languag construct
+ visual companion languag
+ data format
+ xcerpt project
+ web data
+ current mainstream web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,55 @@
+File name: 4499757
+
+Graph edges count: 13
+ basic - machin: 1
+ content - deliveri: 1
+ function - categori: 1
+ learn - method: 1
+ machin - learn: 1
+ mobil - content: 1
+ probabl - mass: 1
+ random - walk: 1
+ relat - link: 1
+ stationari - distribu: 1
+ walk - model: 1
+ web - elem: 3
+ web - page: 1
+
+PageRank scores count: 21
+ basic: 0.028815018387583605
+ categori: 0.05330778401702967
+ content: 0.05330778401702967
+ deliveri: 0.07412663480205882
+ distribu: 0.05330778401702967
+ elem: 0.047184592609668154
+ function: 0.028815018387583605
+ learn: 0.07412663480205882
+ link: 0.05330778401702967
+ machin: 0.05330778401702967
+ mass: 0.05330778401702967
+ method: 0.0918226579693336
+ mobil: 0.028815018387583605
+ model: 0.07412663480205882
+ page: 0.03493820979494512
+ probabl: 0.028815018387583605
+ random: 0.028815018387583605
+ relat: 0.028815018387583605
+ stationari: 0.028815018387583605
+ walk: 0.05330778401702967
+ web: 0.028815018387583605
+
+N-grams list: 10
+ basic machin learn
+ mobil content deliveri
+ random walk model
+ method
+ probabl mass
+ stationari distribu
+ relat link
+ function categori
+ web elem
+ web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

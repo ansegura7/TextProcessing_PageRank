@@ -1,0 +1,57 @@
+File name: 13064078
+
+Graph edges count: 14
+ content - featur: 1
+ effici - algorithm: 1
+ extens - evalu: 1
+ full - websit: 1
+ inform - theori: 1
+ larg - full: 1
+ larg - websit: 1
+ previou - techniqu: 1
+ principl - framework: 1
+ scalabl - algorithm: 1
+ scale - unattain: 1
+ simpl - content: 1
+ structur - cluster: 1
+ structur - properti: 1
+
+PageRank scores count: 22
+ algorithm: 0.08112066699215087
+ cluster: 0.042813685356968514
+ content: 0.05558267923536263
+ effici: 0.030044691478574397
+ evalu: 0.05558267923536263
+ extens: 0.030044691478574397
+ featur: 0.07728996882863264
+ framework: 0.05558267923536263
+ full: 0.042813685356968514
+ inform: 0.030044691478574397
+ larg: 0.030044691478574397
+ previou: 0.030044691478574397
+ principl: 0.030044691478574397
+ properti: 0.042813685356968514
+ scalabl: 0.030044691478574397
+ scale: 0.030044691478574397
+ simpl: 0.030044691478574397
+ structur: 0.030044691478574397
+ techniqu: 0.05558267923536263
+ theori: 0.05558267923536263
+ unattain: 0.05558267923536263
+ websit: 0.07920531791039176
+
+N-grams list: 10
+ simpl content featur
+ larg full websit
+ effici algorithm
+ scalabl algorithm
+ larg websit
+ inform theori
+ previou techniqu
+ scale unattain
+ extens evalu
+ principl framework
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

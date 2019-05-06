@@ -1,0 +1,81 @@
+File name: 4443752
+
+Graph edges count: 29
+ acoust - analysi: 1
+ asf - media: 1
+ automat - tv: 1
+ content - process: 1
+ dialogu - system: 1
+ even - new: 1
+ failur - shutdown: 1
+ inform - retriev: 1
+ larg - vocabulari: 1
+ media - deliveri: 1
+ multimedia - tv: 1
+ new - content: 2
+ new - program: 1
+ new - video: 1
+ new - web: 1
+ ocr - content: 1
+ power - failur: 1
+ prime - time: 1
+ process - web: 1
+ retriev - dialogu: 1
+ speaker - verif: 1
+ system - record: 1
+ time - even: 1
+ tv - new: 4
+ verif - acoust: 1
+ video - index: 1
+ video - inform: 1
+ video - ocr: 1
+ vocabulari - video: 1
+
+PageRank scores count: 31
+ acoust: 0.032630611238268166
+ analysi: 0.040420416535333833
+ asf: 0.012684396982805895
+ automat: 0.012684396982805895
+ content: 0.057811969309872605
+ deliveri: 0.032630611238268166
+ dialogu: 0.0417300807966552
+ even: 0.032630611238268166
+ failur: 0.02346613441819091
+ index: 0.025278818516905603
+ inform: 0.025278818516905603
+ larg: 0.012684396982805895
+ media: 0.02346613441819091
+ multimedia: 0.012684396982805895
+ new: 0.06953110761087336
+ ocr: 0.025278818516905603
+ power: 0.012684396982805895
+ prime: 0.012684396982805895
+ process: 0.06182457089619761
+ program: 0.024504685276654364
+ record: 0.05361611779377429
+ retriev: 0.03417139272217566
+ shutdown: 0.032630611238268166
+ speaker: 0.012684396982805895
+ system: 0.04815496565996282
+ time: 0.02346613441819091
+ tv: 0.03424787185357592
+ verif: 0.02346613441819091
+ video: 0.04445089953211663
+ vocabulari: 0.02346613441819091
+ web: 0.07705557053842232
+
+N-grams list: 10
+ tv new web
+ tv new content
+ process web
+ multimedia tv new
+ automat tv new
+ video inform retriev
+ system record
+ new program
+ dialogu system
+ ocr content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

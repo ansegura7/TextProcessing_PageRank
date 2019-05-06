@@ -1,0 +1,76 @@
+File name: 823225
+
+Graph edges count: 23
+ alloi - analyz: 2
+ approach - zeve: 1
+ check - web: 1
+ combin - approach: 1
+ complex - ontologyrel: 2
+ current - web: 2
+ engin - techniqu: 1
+ high - degre: 1
+ militari - plan: 1
+ model - capabl: 1
+ ontologi - languag: 2
+ ontologi - reason: 1
+ ontologi - tool: 1
+ ontologyrel - properti: 2
+ ontolog - inconsist: 1
+ plan - ontologi: 1
+ reason - ontologi: 1
+ semant - web: 2
+ softwar - engin: 1
+ trivial - syntax: 1
+ type - error: 1
+ web - docum: 2
+ web - ontologi: 3
+
+PageRank scores count: 32
+ alloi: 0.016585637873074644
+ analyz: 0.030683430065188092
+ approach: 0.030683430065188092
+ capabl: 0.030683430065188092
+ check: 0.016585637873074644
+ combin: 0.016585637873074644
+ complex: 0.016585637873074644
+ current: 0.016585637873074644
+ degre: 0.030683430065188092
+ docum: 0.041609219014076014
+ engin: 0.030683430065188092
+ error: 0.030683430065188092
+ high: 0.016585637873074644
+ inconsist: 0.030683430065188092
+ languag: 0.047110228491825556
+ militari: 0.016585637873074644
+ model: 0.016585637873074644
+ ontolog: 0.016585637873074644
+ ontologi: 0.10773382777372738
+ ontologyrel: 0.030683430065188092
+ plan: 0.030683430065188092
+ properti: 0.04266655342848452
+ reason: 0.047110228491825556
+ semant: 0.016585637873074644
+ softwar: 0.016585637873074644
+ syntax: 0.030683430065188092
+ techniqu: 0.04266655342848452
+ tool: 0.047110228491825556
+ trivial: 0.016585637873074644
+ type: 0.016585637873074644
+ web: 0.05887901444941499
+ zeve: 0.04266655342848452
+
+N-grams list: 10
+ current web ontologi
+ check web ontologi
+ militari plan ontologi
+ ontologi reason
+ ontologi tool
+ reason ontologi
+ semant web docum
+ ontologi
+ softwar engin techniqu
+ complex ontologyrel properti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,66 @@
+File name: 4530378
+
+Graph edges count: 20
+ clientserv - architectur: 1
+ conven - standalon: 1
+ extrac - knowledg: 1
+ geograph - inform: 3
+ hyperlink - architectur: 1
+ inform - system: 2
+ knowledg - discoveri: 1
+ local - web: 3
+ locationspecif - web: 1
+ mapand - hyperlink: 1
+ map - interfac: 1
+ search - system: 2
+ simpl - mapand: 1
+ standalon - geograph: 1
+ superfici - level: 1
+ system - integr: 1
+ system - todai: 1
+ webbas - clientserv: 1
+ web - content: 2
+ web - search: 5
+
+PageRank scores count: 25
+ architectur: 0.08813820950015794
+ clientserv: 0.034261694655066254
+ content: 0.03977134555229987
+ conven: 0.01851983494868446
+ discoveri: 0.047642275405490785
+ extrac: 0.01851983494868446
+ geograph: 0.047642275405490785
+ hyperlink: 0.047642275405490785
+ inform: 0.059015769043351624
+ integr: 0.06207760994955446
+ interfac: 0.034261694655066254
+ knowledg: 0.034261694655066254
+ level: 0.034261694655066254
+ local: 0.01851983494868446
+ locationspecif: 0.01851983494868446
+ map: 0.01851983494868446
+ mapand: 0.034261694655066254
+ search: 0.03977134555229987
+ simpl: 0.01851983494868446
+ standalon: 0.034261694655066254
+ superfici: 0.01851983494868446
+ system: 0.10248888235498824
+ todai: 0.06207760994955446
+ web: 0.050003554361448044
+ webbas: 0.01851983494868446
+
+N-grams list: 10
+ geograph inform system
+ system todai
+ inform system
+ webbas clientserv architectur
+ locationspecif web content
+ local web content
+ local web search
+ geograph inform
+ system
+ extrac knowledg discoveri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

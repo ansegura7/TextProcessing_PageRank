@@ -1,0 +1,83 @@
+File name: 4348523
+
+Graph edges count: 27
+ abstract - design: 1
+ abstract - level: 1
+ abstract - servic: 1
+ commun - unreli: 1
+ comput - model: 1
+ design - languag: 2
+ domin - concern: 1
+ inform - descrip: 1
+ interac - protocol: 1
+ interv - tempor: 1
+ multipl - servic: 1
+ orient - semant: 1
+ orient - system: 3
+ reactiv - web: 1
+ servic - composi: 1
+ servic - design: 1
+ servic - increas: 1
+ servic - orient: 3
+ servic - request: 1
+ sound - formal: 1
+ special - class: 1
+ specif - orient: 1
+ spectrum - languag: 2
+ tempor - logic: 1
+ tempor - properti: 1
+ web - servic: 3
+ wide - spectrum: 2
+
+PageRank scores count: 35
+ abstract: 0.017208513592513217
+ class: 0.03183575014614945
+ commun: 0.017208513592513217
+ composi: 0.02495224227751564
+ comput: 0.017208513592513217
+ concern: 0.03183575014614945
+ descrip: 0.03183575014614945
+ design: 0.029827987795394383
+ domin: 0.017208513592513217
+ formal: 0.03183575014614945
+ increas: 0.02495224227751564
+ inform: 0.017208513592513217
+ interac: 0.017208513592513217
+ interv: 0.017208513592513217
+ languag: 0.06962269084282548
+ level: 0.02208425911039196
+ logic: 0.030738707404626732
+ model: 0.03183575014614945
+ multipl: 0.017208513592513217
+ orient: 0.05506693620115671
+ properti: 0.030738707404626732
+ protocol: 0.03183575014614945
+ reactiv: 0.017208513592513217
+ request: 0.02495224227751564
+ semant: 0.028910237535259023
+ servic: 0.06377188328825524
+ sound: 0.017208513592513217
+ special: 0.017208513592513217
+ specif: 0.017208513592513217
+ spectrum: 0.03183575014614945
+ system: 0.052313685420750614
+ tempor: 0.03183575014614945
+ unreli: 0.03183575014614945
+ web: 0.03183575014614945
+ wide: 0.017208513592513217
+
+N-grams list: 10
+ servic orient system
+ wide spectrum languag
+ abstract design languag
+ reactiv web servic
+ abstract servic design
+ multipl servic request
+ specif orient semant
+ web servic
+ servic composi
+ servic increas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

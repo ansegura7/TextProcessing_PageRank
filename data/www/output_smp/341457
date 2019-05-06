@@ -1,0 +1,54 @@
+File name: 341457
+
+Graph edges count: 14
+ compat - check: 1
+ consist - constraint: 1
+ method - call: 2
+ output - paramet: 1
+ output - valu: 1
+ proposi - constraint: 1
+ protocol - constraint: 1
+ servic - b: 2
+ servic - convers: 1
+ servic - interfac: 3
+ signatur - constraint: 1
+ substitut - check: 1
+ tempor - constraint: 1
+ web - servic: 7
+
+PageRank scores count: 19
+ b: 0.05242640525123972
+ call: 0.06363401840227019
+ check: 0.09287127010061055
+ compat: 0.03439676670392983
+ consist: 0.03439676670392983
+ constraint: 0.18058302519563163
+ convers: 0.05242640525123972
+ interfac: 0.05242640525123972
+ method: 0.03439676670392983
+ output: 0.03439676670392983
+ paramet: 0.04901539255310001
+ proposi: 0.03439676670392983
+ protocol: 0.03439676670392983
+ servic: 0.06363401840227019
+ signatur: 0.03439676670392983
+ substitut: 0.03439676670392983
+ tempor: 0.03439676670392983
+ valu: 0.04901539255310001
+ web: 0.03439676670392983
+
+N-grams list: 10
+ consist constraint
+ tempor constraint
+ protocol constraint
+ proposi constraint
+ signatur constraint
+ constraint
+ web servic interfac
+ web servic b
+ web servic convers
+ substitut check
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

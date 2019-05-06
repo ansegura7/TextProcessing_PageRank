@@ -1,0 +1,69 @@
+File name: 1194360
+
+Graph edges count: 22
+ altern - approach: 1
+ cach - coher: 1
+ cach - consist: 5
+ cach - object: 1
+ coher - polici: 1
+ consist - polici: 1
+ content - provid: 1
+ current - practic: 1
+ current - web: 1
+ evalu - show: 1
+ heuristicbas - polici: 1
+ optim - cach: 1
+ perclient - state: 2
+ real - web: 1
+ request - traffic: 1
+ serverdriven - invalid: 1
+ show - monarch: 1
+ strong - cach: 2
+ strong - web: 1
+ web - cach: 3
+ web - object: 1
+ web - site: 1
+
+PageRank scores count: 26
+ altern: 0.02161465460922493
+ approach: 0.03998711102706612
+ cach: 0.08043713590701315
+ coher: 0.03138202111221938
+ consist: 0.0704514871241972
+ content: 0.02161465460922493
+ current: 0.02161465460922493
+ evalu: 0.02161465460922493
+ heuristicbas: 0.02161465460922493
+ invalid: 0.03998711102706612
+ monarch: 0.05560369898223114
+ object: 0.040782594646014796
+ optim: 0.02161465460922493
+ perclient: 0.02161465460922493
+ polici: 0.1265455930280202
+ practic: 0.030800882818145525
+ provid: 0.03998711102706612
+ real: 0.02161465460922493
+ request: 0.02161465460922493
+ serverdriven: 0.02161465460922493
+ show: 0.03998711102706612
+ site: 0.03101522814302034
+ state: 0.03998711102706612
+ strong: 0.02161465460922493
+ traffic: 0.03998711102706612
+ web: 0.05529749137526712
+
+N-grams list: 10
+ cach consist polici
+ web cach consist
+ strong cach consist
+ current web cach
+ strong web cach
+ heuristicbas polici
+ optim cach coher
+ polici
+ cach object
+ evalu show monarch
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

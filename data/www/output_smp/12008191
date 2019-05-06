@@ -1,0 +1,68 @@
+File name: 12008191
+
+Graph edges count: 21
+ ad - model: 1
+ ad - placem: 1
+ aggreg - hint: 1
+ content - user: 1
+ diffusion - model: 1
+ experiment - result: 1
+ hint - word: 2
+ influencebas - diffusion: 1
+ influenti - user: 3
+ larg - onlin: 1
+ onlin - qa: 1
+ page - content: 1
+ qa - commun: 1
+ relev - model: 3
+ signific - margin: 1
+ social - ad: 1
+ social - network: 1
+ user - hint: 1
+ user - influenc: 1
+ user - interest: 1
+ web - page: 1
+
+PageRank scores count: 26
+ ad: 0.02854122202751345
+ aggreg: 0.020028927738605932
+ commun: 0.06382468185503512
+ content: 0.05152441660756376
+ diffusion: 0.037053516316420974
+ experiment: 0.020028927738605932
+ hint: 0.05996080960572852
+ influenc: 0.04293622102791348
+ influencebas: 0.020028927738605932
+ influenti: 0.020028927738605932
+ interest: 0.04293622102791348
+ larg: 0.020028927738605932
+ margin: 0.037053516316420974
+ model: 0.08067902454707201
+ network: 0.02854122202751345
+ onlin: 0.037053516316420974
+ page: 0.037053516316420974
+ placem: 0.03215894710029915
+ qa: 0.05152441660756376
+ relev: 0.020028927738605932
+ result: 0.037053516316420974
+ signific: 0.020028927738605932
+ social: 0.020028927738605932
+ user: 0.08084927043285016
+ web: 0.020028927738605932
+ word: 0.07099561590347517
+
+N-grams list: 10
+ user hint word
+ influencebas diffusion model
+ hint word
+ social ad model
+ user influenc
+ user interest
+ web page content
+ larg onlin qa
+ influenti user
+ relev model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

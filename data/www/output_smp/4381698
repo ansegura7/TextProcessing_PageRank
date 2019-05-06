@@ -1,0 +1,61 @@
+File name: 4381698
+
+Graph edges count: 16
+ andpassword - reus: 1
+ athre - month: 1
+ averag - number: 2
+ client - compon: 1
+ detail - data: 1
+ frequenc - metric: 1
+ largescal - studi: 1
+ larg - scale: 2
+ month - period: 1
+ onlin - experi: 1
+ password - habit: 1
+ password - strength: 2
+ reus - habit: 1
+ scale - studi: 2
+ strength - usag: 1
+ web - password: 1
+
+PageRank scores count: 24
+ andpassword: 0.024808778586302763
+ athre: 0.024808778586302763
+ averag: 0.024808778586302763
+ client: 0.024808778586302763
+ compon: 0.04589624038466011
+ data: 0.04589624038466011
+ detail: 0.024808778586302763
+ experi: 0.04589624038466011
+ frequenc: 0.024808778586302763
+ habit: 0.0833264850767444
+ larg: 0.024808778586302763
+ largescal: 0.024808778586302763
+ metric: 0.04589624038466011
+ month: 0.04589624038466011
+ number: 0.04589624038466011
+ onlin: 0.024808778586302763
+ password: 0.04589624038466011
+ period: 0.06382058291326385
+ reus: 0.04589624038466011
+ scale: 0.04589624038466011
+ strength: 0.04431468074978331
+ studi: 0.08490804471162121
+ usag: 0.062476257223618575
+ web: 0.024808778586302763
+
+N-grams list: 10
+ larg scale studi
+ andpassword reus habit
+ web password habit
+ password strength usag
+ athre month period
+ largescal studi
+ password strength
+ studi
+ frequenc metric
+ client compon
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,58 @@
+File name: 4401471
+
+Graph edges count: 16
+ challeng - issu: 1
+ concept - level: 1
+ keywordsbas - strategi: 1
+ latent - semant: 1
+ preliminari - experi: 1
+ probabilist - latent: 1
+ probabilist - semant: 1
+ relat - algorithm: 1
+ semant - analysi: 1
+ semant - approach: 1
+ semant - concept: 1
+ serviceori - comput: 1
+ servic - discoveri: 1
+ servic - match: 1
+ servic - servic: 1
+ web - servic: 3
+
+PageRank scores count: 21
+ algorithm: 0.05428221253175977
+ analysi: 0.05125817981335193
+ approach: 0.05125817981335193
+ challeng: 0.029341736503653928
+ comput: 0.05428221253175977
+ concept: 0.05125817981335193
+ discoveri: 0.05080214987566485
+ experi: 0.05428221253175977
+ issu: 0.05428221253175977
+ keywordsbas: 0.029341736503653928
+ latent: 0.041811974517706844
+ level: 0.07291118934500307
+ match: 0.05080214987566485
+ preliminari: 0.029341736503653928
+ probabilist: 0.029341736503653928
+ relat: 0.029341736503653928
+ semant: 0.07735215285775766
+ servic: 0.07574262590377069
+ serviceori: 0.029341736503653928
+ strategi: 0.05428221253175977
+ web: 0.029341736503653928
+
+N-grams list: 10
+ web servic servic
+ probabilist semant approach
+ probabilist latent semant
+ semant concept
+ servic match
+ concept level
+ web servic
+ challeng issu
+ relat algorithm
+ keywordsbas strategi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

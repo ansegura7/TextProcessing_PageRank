@@ -1,0 +1,72 @@
+File name: 4030772
+
+Graph edges count: 21
+ approach - wecreat: 1
+ constructpredict - model: 1
+ contextu - subgraph: 1
+ date - specif: 1
+ graphic - properti: 1
+ graphic - relationship: 1
+ predict - model: 1
+ present - experi: 1
+ prior - effort: 1
+ rank - search: 1
+ result - qualiti: 1
+ search - result: 2
+ specif - graphicalproperti: 1
+ thelarg - web: 1
+ userqueri - reformul: 1
+ webprojec - methodologi: 1
+ web - graph: 1
+ web - graphic: 1
+ web - page: 1
+ web - projec: 1
+ wecreat - subgraph: 1
+
+PageRank scores count: 30
+ approach: 0.020403673936538195
+ constructpredict: 0.020403673936538195
+ contextu: 0.020403673936538195
+ date: 0.020403673936538195
+ effort: 0.037746796782595654
+ experi: 0.037746796782595654
+ graph: 0.028424868252839772
+ graphic: 0.028424868252839772
+ graphicalproperti: 0.0524884512017445
+ methodologi: 0.037746796782595654
+ model: 0.05508991962865312
+ page: 0.028424868252839772
+ predict: 0.020403673936538195
+ present: 0.020403673936538195
+ prior: 0.020403673936538195
+ projec: 0.028424868252839772
+ properti: 0.032484242943995094
+ qualiti: 0.06501885745802102
+ rank: 0.020403673936538195
+ reformul: 0.037746796782595654
+ relationship: 0.032484242943995094
+ result: 0.0524884512017445
+ search: 0.037746796782595654
+ specif: 0.037746796782595654
+ subgraph: 0.06983157404780196
+ thelarg: 0.020403673936538195
+ userqueri: 0.020403673936538195
+ web: 0.037746796782595654
+ webprojec: 0.020403673936538195
+ wecreat: 0.037746796782595654
+
+N-grams list: 10
+ search result qualiti
+ approach wecreat subgraph
+ rank search result
+ date specif graphicalproperti
+ web graphic relationship
+ contextu subgraph
+ thelarg web graph
+ predict model
+ constructpredict model
+ web page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

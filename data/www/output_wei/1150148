@@ -1,0 +1,92 @@
+File name: 1150148
+
+Graph edges count: 28
+ aktiv - space: 1
+ aktiv - spacesupport: 1
+ andmainten - method: 1
+ applic - domainand: 1
+ comput - scienc: 2
+ content - acquisi: 1
+ continu - basi: 1
+ cs - aktiv: 2
+ dimension - represent: 1
+ implic - inher: 1
+ integr - tractabl: 1
+ interac - support: 1
+ knowledg - servic: 1
+ multi - dimension: 1
+ number - ofsubstanti: 1
+ ofsubstanti - challeng: 1
+ rang - model: 1
+ rdf - tripl: 1
+ referenti - integr: 1
+ relat - work: 1
+ relev - relat: 1
+ retriev - andmainten: 1
+ scienc - research: 1
+ semant - web: 3
+ storag - retriev: 1
+ tractabl - infer: 1
+ web - applic: 1
+ wide - rang: 1
+
+PageRank scores count: 43
+ acquisi: 0.024194906318303608
+ aktiv: 0.024194906318303608
+ andmainten: 0.033643998110181636
+ applic: 0.033643998110181636
+ basi: 0.024194906318303608
+ challeng: 0.033643998110181636
+ comput: 0.013078327739623571
+ content: 0.013078327739623571
+ continu: 0.013078327739623571
+ cs: 0.013078327739623571
+ dimension: 0.024194906318303608
+ domainand: 0.04167572613327796
+ implic: 0.013078327739623571
+ infer: 0.04167572613327796
+ inher: 0.024194906318303608
+ integr: 0.024194906318303608
+ interac: 0.013078327739623571
+ knowledg: 0.013078327739623571
+ method: 0.04167572613327796
+ model: 0.033643998110181636
+ multi: 0.013078327739623571
+ number: 0.013078327739623571
+ ofsubstanti: 0.024194906318303608
+ rang: 0.024194906318303608
+ rdf: 0.013078327739623571
+ referenti: 0.013078327739623571
+ relat: 0.024194906318303608
+ relev: 0.013078327739623571
+ represent: 0.033643998110181636
+ research: 0.033643998110181636
+ retriev: 0.024194906318303608
+ scienc: 0.024194906318303608
+ semant: 0.013078327739623571
+ servic: 0.024194906318303608
+ space: 0.023361162924902607
+ spacesupport: 0.023361162924902607
+ storag: 0.013078327739623571
+ support: 0.024194906318303608
+ tractabl: 0.033643998110181636
+ tripl: 0.024194906318303608
+ web: 0.024194906318303608
+ wide: 0.013078327739623571
+ work: 0.033643998110181636
+
+N-grams list: 10
+ applic domainand
+ relev relat work
+ number ofsubstanti challeng
+ multi dimension represent
+ semant web applic
+ comput scienc research
+ referenti integr tractabl
+ storag retriev andmainten
+ cs aktiv spacesupport
+ cs aktiv space
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

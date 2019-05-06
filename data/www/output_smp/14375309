@@ -1,0 +1,90 @@
+File name: 14375309
+
+Graph edges count: 28
+ analyt - power: 1
+ biolog - physic: 1
+ colloc - profil: 2
+ compar - perform: 1
+ complet - inform: 1
+ domain - expert: 1
+ embed - vertex: 1
+ format - mechan: 1
+ growth - mechan: 1
+ larg - network: 1
+ link - analysi: 2
+ link - format: 1
+ link - predic: 1
+ local - structur: 1
+ network - famili: 1
+ sociolog - biolog: 1
+ subgraph - count: 1
+ supervis - method: 1
+ supervis - model: 1
+ surround - local: 1
+ theori - mathemat: 1
+ time - result: 1
+ topolog - link: 1
+ vcp - approach: 1
+ vcp - comput: 1
+ vcp - method: 1
+ vertex - colloc: 2
+ vertex - pair: 1
+
+PageRank scores count: 41
+ analysi: 0.023657502995183446
+ analyt: 0.01552159846594868
+ approach: 0.019919384697967474
+ biolog: 0.028714957162005058
+ colloc: 0.02772545525980083
+ compar: 0.01552159846594868
+ complet: 0.01552159846594868
+ comput: 0.019919384697967474
+ count: 0.028714957162005058
+ domain: 0.01552159846594868
+ embed: 0.01552159846594868
+ expert: 0.028714957162005058
+ famili: 0.03992931205365298
+ format: 0.023657502995183446
+ growth: 0.01552159846594868
+ inform: 0.028714957162005058
+ larg: 0.01552159846594868
+ link: 0.028714957162005058
+ local: 0.028714957162005058
+ mathemat: 0.028714957162005058
+ mechan: 0.04882383470791098
+ method: 0.026516064045995665
+ model: 0.02211827781397687
+ network: 0.028714957162005058
+ pair: 0.02772545525980083
+ perform: 0.028714957162005058
+ physic: 0.03992931205365298
+ power: 0.028714957162005058
+ predic: 0.023657502995183446
+ profil: 0.03908823543677939
+ result: 0.028714957162005058
+ sociolog: 0.01552159846594868
+ structur: 0.03992931205365298
+ subgraph: 0.01552159846594868
+ supervis: 0.01552159846594868
+ surround: 0.01552159846594868
+ theori: 0.01552159846594868
+ time: 0.01552159846594868
+ topolog: 0.01552159846594868
+ vcp: 0.01552159846594868
+ vertex: 0.028714957162005058
+
+N-grams list: 10
+ link format mechan
+ vertex colloc profil
+ surround local structur
+ sociolog biolog physic
+ embed vertex pair
+ network famili
+ topolog link analysi
+ growth mechan
+ link analysi
+ link predic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

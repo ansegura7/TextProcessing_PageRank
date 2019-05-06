@@ -1,0 +1,56 @@
+File name: 12191750
+
+Graph edges count: 14
+ data - represent: 1
+ firstclass - citizen: 1
+ gener - world: 1
+ knowledg - base: 1
+ queri - languag: 1
+ spaceawar - queri: 1
+ space - context: 1
+ spatial - knowledg: 1
+ spatiotempor - inform: 1
+ special - time: 1
+ time - space: 1
+ wikipedia - geonam: 1
+ world - knowledg: 2
+ yago - knowledg: 1
+
+PageRank scores count: 21
+ base: 0.11819666587981603
+ citizen: 0.047211039727451956
+ context: 0.08132101593053599
+ data: 0.02551948093375781
+ firstclass: 0.02551948093375781
+ gener: 0.02551948093375781
+ geonam: 0.047211039727451956
+ inform: 0.047211039727451956
+ knowledg: 0.10903198228948024
+ languag: 0.06564886470209197
+ queri: 0.047211039727451956
+ represent: 0.047211039727451956
+ space: 0.06564886470209197
+ spaceawar: 0.02551948093375781
+ spatial: 0.02551948093375781
+ spatiotempor: 0.02551948093375781
+ special: 0.02551948093375781
+ time: 0.047211039727451956
+ wikipedia: 0.02551948093375781
+ world: 0.047211039727451956
+ yago: 0.02551948093375781
+
+N-grams list: 10
+ yago knowledg base
+ time space context
+ gener world knowledg
+ world knowledg
+ spaceawar queri languag
+ spatial knowledg
+ spatiotempor inform
+ data represent
+ special time
+ wikipedia geonam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

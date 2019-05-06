@@ -1,0 +1,48 @@
+File name: 336149
+
+Graph edges count: 10
+ fresh - view: 1
+ high - cost: 1
+ index - ontologi: 1
+ main - hurdl: 1
+ merg - fragment: 1
+ onlin - librari: 1
+ onlin - ontologi: 3
+ ontologi - construc: 1
+ position - paper: 1
+ wide - endors: 1
+
+PageRank scores count: 17
+ construc: 0.12017943708848854
+ cost: 0.0713889491836095
+ endors: 0.0713889491836095
+ fragment: 0.0713889491836095
+ fresh: 0.038588621180329456
+ high: 0.038588621180329456
+ hurdl: 0.0713889491836095
+ index: 0.038588621180329456
+ librari: 0.046788703181149464
+ main: 0.038588621180329456
+ merg: 0.038588621180329456
+ onlin: 0.038588621180329456
+ ontologi: 0.0959891951860695
+ paper: 0.0713889491836095
+ position: 0.038588621180329456
+ view: 0.0713889491836095
+ wide: 0.038588621180329456
+
+N-grams list: 10
+ ontologi construc
+ onlin ontologi
+ index ontologi
+ main hurdl
+ fresh view
+ wide endors
+ high cost
+ merg fragment
+ position paper
+ ontologi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,56 @@
+File name: 7827690
+
+Graph edges count: 13
+ daunt - task: 1
+ enorm - potenti: 1
+ entir - uservideo: 1
+ live - data: 1
+ month - snapshot: 1
+ person - video: 1
+ prefer - inform: 1
+ rapid - growth: 1
+ simpl - method: 1
+ uservideo - graph: 1
+ video - repositori: 1
+ video - sugges: 2
+ view - graph: 1
+
+PageRank scores count: 22
+ data: 0.054985882003269454
+ daunt: 0.029722098380145653
+ enorm: 0.029722098380145653
+ entir: 0.029722098380145653
+ graph: 0.1017238817060485
+ growth: 0.054985882003269454
+ inform: 0.054985882003269454
+ live: 0.029722098380145653
+ method: 0.054985882003269454
+ month: 0.029722098380145653
+ person: 0.029722098380145653
+ potenti: 0.054985882003269454
+ prefer: 0.029722098380145653
+ rapid: 0.029722098380145653
+ repositori: 0.04530143161440533
+ simpl: 0.029722098380145653
+ snapshot: 0.054985882003269454
+ sugges: 0.060880764848665
+ task: 0.054985882003269454
+ uservideo: 0.054985882003269454
+ video: 0.054985882003269454
+ view: 0.029722098380145653
+
+N-grams list: 10
+ entir uservideo graph
+ person video sugges
+ view graph
+ video sugges
+ graph
+ video repositori
+ prefer inform
+ month snapshot
+ live data
+ simpl method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

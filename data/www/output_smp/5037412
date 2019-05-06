@@ -1,0 +1,89 @@
+File name: 5037412
+
+Graph edges count: 29
+ apach - web: 1
+ character - driven: 1
+ client - character: 1
+ client - request: 1
+ client - site: 1
+ connect - inform: 1
+ content - deliveri: 1
+ design - implement: 2
+ driven - web: 1
+ individu - action: 1
+ measur - studi: 1
+ modifi - action: 1
+ modifi - apach: 1
+ multipl - client: 1
+ numer - perform: 1
+ perform - relat: 1
+ qualiti - version: 1
+ relat - factor: 1
+ server - action: 2
+ server - implement: 1
+ signific - overhead: 1
+ singl - unifi: 1
+ stabl - manner: 1
+ strong - incent: 1
+ unifi - framework: 1
+ userperceiv - latenc: 1
+ web - server: 5
+ web - site: 1
+ work - system: 1
+
+PageRank scores count: 39
+ action: 0.05002389791643375
+ apach: 0.02065100450860493
+ character: 0.022088121196630655
+ client: 0.02681007602871517
+ connect: 0.014491932988494688
+ content: 0.014491932988494688
+ deliveri: 0.02681007602871517
+ design: 0.014491932988494688
+ driven: 0.03326683600563074
+ factor: 0.04618035595946188
+ framework: 0.03728049761290258
+ implement: 0.04386482639632351
+ incent: 0.02681007602871517
+ individu: 0.014491932988494688
+ inform: 0.02681007602871517
+ latenc: 0.02681007602871517
+ manner: 0.02681007602871517
+ measur: 0.014491932988494688
+ modifi: 0.014491932988494688
+ multipl: 0.014491932988494688
+ numer: 0.014491932988494688
+ overhead: 0.02681007602871517
+ perform: 0.02681007602871517
+ qualiti: 0.014491932988494688
+ relat: 0.03728049761290258
+ request: 0.022088121196630655
+ server: 0.04012882439437257
+ signific: 0.014491932988494688
+ singl: 0.014491932988494688
+ site: 0.04772501260250853
+ stabl: 0.014491932988494688
+ strong: 0.014491932988494688
+ studi: 0.02681007602871517
+ system: 0.02681007602871517
+ unifi: 0.02681007602871517
+ userperceiv: 0.014491932988494688
+ version: 0.02681007602871517
+ web: 0.060322097425595016
+ work: 0.014491932988494688
+
+N-grams list: 10
+ web server implement
+ web site
+ web server
+ modifi apach web
+ server action
+ multipl client site
+ client character driven
+ numer perform relat
+ singl unifi framework
+ modifi action
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

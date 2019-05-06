@@ -1,0 +1,71 @@
+File name: 13059029
+
+Graph edges count: 19
+ acm - corpu: 2
+ background - knowledg: 1
+ concret - inform: 1
+ concret - summari: 1
+ discov - topic: 1
+ docum - collec: 1
+ docum - network: 1
+ evolutionari - chang: 1
+ evolu - graph: 3
+ evolu - inher: 1
+ finer - resolu: 1
+ fix - time: 1
+ inhomogen - distribu: 1
+ navig - tool: 1
+ rich - topologi: 2
+ timestamp - docum: 1
+ time - point: 1
+ topic - evolu: 5
+ topolog - restric: 1
+
+PageRank scores count: 31
+ acm: 0.02078823801493115
+ background: 0.02078823801493115
+ chang: 0.038458240327622635
+ collec: 0.03713299015417077
+ concret: 0.02078823801493115
+ corpu: 0.038458240327622635
+ discov: 0.02078823801493115
+ distribu: 0.038458240327622635
+ docum: 0.038458240327622635
+ evolu: 0.053477742293410395
+ evolutionari: 0.02078823801493115
+ finer: 0.02078823801493115
+ fix: 0.02078823801493115
+ graph: 0.04351627848963057
+ inform: 0.029623239171276888
+ inher: 0.04351627848963057
+ inhomogen: 0.02078823801493115
+ knowledg: 0.038458240327622635
+ navig: 0.02078823801493115
+ network: 0.03713299015417077
+ point: 0.053477742293410395
+ resolu: 0.038458240327622635
+ restric: 0.038458240327622635
+ rich: 0.02078823801493115
+ summari: 0.029623239171276888
+ time: 0.038458240327622635
+ timestamp: 0.02078823801493115
+ tool: 0.038458240327622635
+ topic: 0.038458240327622635
+ topolog: 0.02078823801493115
+ topologi: 0.038458240327622635
+
+N-grams list: 10
+ topic evolu inher
+ topic evolu graph
+ fix time point
+ timestamp docum collec
+ topic evolu
+ docum network
+ topolog restric
+ discov topic
+ finer resolu
+ navig tool
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

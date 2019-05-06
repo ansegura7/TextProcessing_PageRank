@@ -1,0 +1,96 @@
+File name: 51476
+
+Graph edges count: 33
+ advanc - function: 1
+ base - network: 1
+ base - topologi: 1
+ complex - queri: 1
+ count - algorithm: 1
+ dynam - frequenc: 1
+ edutella - infrastructur: 1
+ edutella - peer: 1
+ extend - descrip: 1
+ frequenc - count: 1
+ inhomogen - schemabas: 1
+ keywordbas - search: 1
+ local - mediat: 1
+ metadata - schema: 2
+ napster - gnutella: 1
+ network - rdfbase: 1
+ network - schemabas: 1
+ p2p - network: 7
+ peertop - network: 1
+ perfect - support: 1
+ previou - paper: 1
+ queri - facil: 1
+ rdfbase - p2p: 4
+ rdfbase - peertop: 1
+ rdf - function: 1
+ schemabas - network: 1
+ schemabas - p2p: 1
+ schema - attribut: 2
+ semant - web: 1
+ simpl - keywordbas: 1
+ superp - base: 2
+ support - local: 1
+ transform - rule: 1
+
+PageRank scores count: 42
+ advanc: 0.0094194184451052
+ algorithm: 0.03001615430263336
+ attribut: 0.02423145395003313
+ base: 0.01742592412344462
+ complex: 0.0094194184451052
+ count: 0.02423145395003313
+ descrip: 0.01742592412344462
+ dynam: 0.0094194184451052
+ edutella: 0.0094194184451052
+ extend: 0.0094194184451052
+ facil: 0.02423145395003313
+ frequenc: 0.01742592412344462
+ function: 0.025432429801784038
+ gnutella: 0.01742592412344462
+ infrastructur: 0.01342267128427491
+ inhomogen: 0.0094194184451052
+ keywordbas: 0.01742592412344462
+ local: 0.02423145395003313
+ mediat: 0.03001615430263336
+ metadata: 0.0094194184451052
+ napster: 0.0094194184451052
+ network: 0.14868421466400453
+ p2p: 0.09305647160571319
+ paper: 0.01742592412344462
+ peer: 0.01342267128427491
+ peertop: 0.02176315509853808
+ perfect: 0.0094194184451052
+ previou: 0.0094194184451052
+ queri: 0.01742592412344462
+ rdf: 0.0094194184451052
+ rdfbase: 0.07261021199780035
+ rule: 0.01742592412344462
+ schema: 0.01742592412344462
+ schemabas: 0.08061671767613976
+ search: 0.02423145395003313
+ semant: 0.0094194184451052
+ simpl: 0.0094194184451052
+ superp: 0.0094194184451052
+ support: 0.01742592412344462
+ topologi: 0.016825436197569165
+ transform: 0.0094194184451052
+ web: 0.01742592412344462
+
+N-grams list: 10
+ p2p network schemabas
+ rdfbase p2p network
+ rdfbase peertop network
+ p2p network
+ inhomogen schemabas network
+ superp base network
+ network
+ support local mediat
+ metadata schema attribut
+ simpl keywordbas search
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

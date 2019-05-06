@@ -1,0 +1,92 @@
+File name: 13058954
+
+Graph edges count: 32
+ algorithm - nearestcompl: 1
+ aol - queri: 1
+ autocompl - queri: 1
+ auto - completion: 2
+ charact - nearestcompl: 1
+ completion - algorithm: 1
+ contextsensit - queri: 2
+ context - queri: 1
+ cosin - similar: 1
+ current - queri: 1
+ expan - techniqu: 1
+ extens - experiment: 1
+ highdimension - termweight: 1
+ input - prefix: 1
+ mostpopularcompl - algorithm: 1
+ mrr - rel: 1
+ poor - predic: 1
+ predic - qualiti: 1
+ public - aol: 1
+ queri - auto: 2
+ queri - autocompl: 1
+ queri - expan: 1
+ queri - log: 1
+ queri - recommend: 1
+ recent - queri: 1
+ recent - user: 1
+ recommend - tree: 1
+ short - prefix: 1
+ singl - charact: 1
+ standard - mostpopularcompl: 1
+ termweight - vector: 1
+ total - improv: 1
+
+PageRank scores count: 39
+ algorithm: 0.06919208624581873
+ aol: 0.022720512920162587
+ auto: 0.03759049814532653
+ autocompl: 0.02493592824027478
+ charact: 0.022720512920162587
+ completion: 0.04423328189258299
+ context: 0.01228135833522302
+ contextsensit: 0.01228135833522302
+ cosin: 0.01228135833522302
+ current: 0.01228135833522302
+ expan: 0.02493592824027478
+ experiment: 0.022720512920162587
+ extens: 0.01228135833522302
+ highdimension: 0.01228135833522302
+ improv: 0.022720512920162587
+ input: 0.01228135833522302
+ log: 0.02493592824027478
+ mostpopularcompl: 0.022720512920162587
+ mrr: 0.01228135833522302
+ nearestcompl: 0.09040706842930166
+ poor: 0.01228135833522302
+ predic: 0.022720512920162587
+ prefix: 0.03315966750510216
+ public: 0.01228135833522302
+ qualiti: 0.031593794317361215
+ queri: 0.08932637443579948
+ recent: 0.01228135833522302
+ recommend: 0.02493592824027478
+ rel: 0.022720512920162587
+ short: 0.01228135833522302
+ similar: 0.022720512920162587
+ singl: 0.01228135833522302
+ standard: 0.01228135833522302
+ techniqu: 0.033476897406372795
+ termweight: 0.022720512920162587
+ total: 0.01228135833522302
+ tree: 0.033476897406372795
+ user: 0.017500935627692806
+ vector: 0.031593794317361215
+
+N-grams list: 10
+ completion algorithm nearestcompl
+ queri auto completion
+ queri expan techniqu
+ queri recommend tree
+ contextsensit queri auto
+ contextsensit queri autocompl
+ singl charact nearestcompl
+ public aol queri
+ standard mostpopularcompl algorithm
+ current queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

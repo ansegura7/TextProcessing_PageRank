@@ -1,0 +1,81 @@
+File name: 71622
+
+Graph edges count: 26
+ bioinformat - specif: 1
+ conceptu - unifi: 1
+ coordin - capabl: 1
+ current - techniqu: 1
+ edit - workbench: 1
+ enact - engin: 1
+ flow - languag: 1
+ freefluo - enact: 1
+ inform - technologi: 1
+ low - cost: 1
+ scufl - simpl: 1
+ servic - coordin: 1
+ servic - technologi: 1
+ servic - user: 1
+ silico - experi: 1
+ simpl - conceptu: 1
+ taverna - edit: 1
+ taverna - workbench: 1
+ technologi - expert: 1
+ unifi - flow: 1
+ userdriven - composi: 1
+ user - commun: 1
+ web - resourc: 2
+ web - servic: 4
+ workflow - solution: 1
+ workflow - techniqu: 1
+
+PageRank scores count: 34
+ bioinformat: 0.016321959048031322
+ capabl: 0.035797116559654195
+ commun: 0.035797116559654195
+ composi: 0.030195624238857948
+ conceptu: 0.04198823965106058
+ coordin: 0.022911950013673972
+ cost: 0.030195624238857948
+ current: 0.016321959048031322
+ edit: 0.02325879164344464
+ enact: 0.030195624238857948
+ engin: 0.04198823965106058
+ experi: 0.030195624238857948
+ expert: 0.04758973197185682
+ flow: 0.060532127386749214
+ freefluo: 0.016321959048031322
+ inform: 0.016321959048031322
+ languag: 0.06777426732676815
+ low: 0.016321959048031322
+ resourc: 0.02325879164344464
+ scufl: 0.016321959048031322
+ servic: 0.02325879164344464
+ silico: 0.016321959048031322
+ simpl: 0.030195624238857948
+ solution: 0.02325879164344464
+ specif: 0.030195624238857948
+ taverna: 0.016321959048031322
+ techniqu: 0.03713245683427126
+ technologi: 0.03678561520450059
+ unifi: 0.05201196275143281
+ user: 0.022911950013673972
+ userdriven: 0.016321959048031322
+ web: 0.016321959048031322
+ workbench: 0.04302876454037258
+ workflow: 0.016321959048031322
+
+N-grams list: 10
+ flow languag
+ simpl conceptu unifi
+ inform technologi expert
+ freefluo enact engin
+ taverna edit workbench
+ web servic technologi
+ web servic coordin
+ taverna workbench
+ user commun
+ current techniqu
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

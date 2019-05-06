@@ -1,0 +1,133 @@
+File name: 1168781
+
+Graph edges count: 51
+ batteri - life: 1
+ cambas - applic: 1
+ cam - applic: 1
+ client - hardwar: 1
+ comput - applic: 2
+ comput - capabl: 1
+ connect - solidst: 1
+ current - mobil: 1
+ custom - mobil: 1
+ devic - user: 1
+ direct - linkag: 1
+ electron - medic: 1
+ financ - loan: 1
+ grassroot - innov: 1
+ hardwar - constraint: 1
+ inform - servic: 1
+ infrastructur - constraint: 1
+ interac - cam: 1
+ life - wireless: 1
+ long - batteri: 1
+ low - price: 1
+ media - capabl: 1
+ medic - histori: 1
+ memori - low: 1
+ minim - navig: 1
+ mobil - applic: 2
+ mobil - comput: 1
+ mobil - inform: 1
+ mobil - phone: 3
+ mobil - softwar: 1
+ multimedia - interac: 1
+ navig - direct: 1
+ numer - string: 1
+ offlin - multimedia: 1
+ onlin - connec: 1
+ paper - practic: 1
+ phone - camera: 1
+ phone - comput: 1
+ process - financ: 1
+ recent - advanc: 1
+ rural - comput: 1
+ rural - condition: 1
+ rural - devic: 1
+ rural - suppli: 1
+ signific - challeng: 1
+ softwar - platform: 1
+ solidst - memori: 1
+ success - rural: 1
+ suppli - chain: 1
+ webbas - mobil: 1
+ wireless - connect: 1
+
+PageRank scores count: 61
+ advanc: 0.014619858764220403
+ applic: 0.049789146519926025
+ batteri: 0.014619858764220403
+ cam: 0.025182706721369644
+ cambas: 0.007902626359038056
+ camera: 0.013288167439893004
+ capabl: 0.023614610799082357
+ chain: 0.017260570753507714
+ challeng: 0.014619858764220403
+ client: 0.007902626359038056
+ comput: 0.021164122434969308
+ condition: 0.011009346346434893
+ connec: 0.014619858764220403
+ connect: 0.029307927072202256
+ constraint: 0.027046738713807746
+ current: 0.007902626359038056
+ custom: 0.007902626359038056
+ devic: 0.011009346346434893
+ direct: 0.0203295063086254
+ electron: 0.007902626359038056
+ financ: 0.014619858764220403
+ grassroot: 0.007902626359038056
+ hardwar: 0.014619858764220403
+ histori: 0.0203295063086254
+ inform: 0.012671861366717524
+ infrastructur: 0.007902626359038056
+ innov: 0.014619858764220403
+ interac: 0.0203295063086254
+ life: 0.0203295063086254
+ linkag: 0.025182706721369644
+ loan: 0.0203295063086254
+ long: 0.007902626359038056
+ low: 0.03832823702184161
+ media: 0.007902626359038056
+ medic: 0.014619858764220403
+ memori: 0.03579483607388653
+ minim: 0.007902626359038056
+ mobil: 0.028054323574585097
+ multimedia: 0.014619858764220403
+ navig: 0.014619858764220403
+ numer: 0.007902626359038056
+ offlin: 0.007902626359038056
+ onlin: 0.007902626359038056
+ paper: 0.007902626359038056
+ phone: 0.012671861366717524
+ platform: 0.018673708520747952
+ practic: 0.014619858764220403
+ price: 0.04048162782760342
+ process: 0.007902626359038056
+ recent: 0.007902626359038056
+ rural: 0.014619858764220403
+ servic: 0.018673708520747952
+ signific: 0.007902626359038056
+ softwar: 0.012671861366717524
+ solidst: 0.03281436437040997
+ string: 0.014619858764220403
+ success: 0.007902626359038056
+ suppli: 0.011009346346434893
+ user: 0.017260570753507714
+ webbas: 0.007902626359038056
+ wireless: 0.025182706721369644
+
+N-grams list: 10
+ memori low price
+ mobil comput applic
+ wireless connect solidst
+ webbas mobil applic
+ custom mobil applic
+ cam applic
+ mobil phone comput
+ mobil inform servic
+ cambas applic
+ mobil phone camera
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

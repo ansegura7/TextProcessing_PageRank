@@ -1,0 +1,67 @@
+File name: 293077
+
+Graph edges count: 19
+ annot - collec: 1
+ artist - period: 1
+ dynam - gener: 1
+ gener - person: 1
+ interact - dialog: 1
+ museum - collec: 3
+ museum - tour: 1
+ museum - web: 1
+ period - genr: 1
+ person - museum: 1
+ person - servic: 1
+ recommend - strategi: 1
+ relat - concept: 1
+ relev - artefact: 1
+ rijksmuseum - amsterdam: 1
+ specif - user: 1
+ user - interest: 2
+ user - profil: 1
+ web - site: 1
+
+PageRank scores count: 27
+ amsterdam: 0.04158618776365946
+ annot: 0.022479020412788896
+ artefact: 0.04158618776365946
+ artist: 0.022479020412788896
+ collec: 0.06558455111676101
+ concept: 0.04158618776365946
+ dialog: 0.04158618776365946
+ dynam: 0.022479020412788896
+ gener: 0.04158618776365946
+ genr: 0.057827280011899435
+ interact: 0.022479020412788896
+ interest: 0.046044526812195924
+ museum: 0.04705561441784616
+ period: 0.04158618776365946
+ person: 0.057827280011899435
+ profil: 0.034261773612492406
+ recommend: 0.022479020412788896
+ relat: 0.022479020412788896
+ relev: 0.022479020412788896
+ rijksmuseum: 0.022479020412788896
+ servic: 0.04705561441784616
+ site: 0.048385724047038225
+ specif: 0.022479020412788896
+ strategi: 0.04158618776365946
+ tour: 0.030478474863822744
+ user: 0.04158618776365946
+ web: 0.030478474863822744
+
+N-grams list: 10
+ museum web site
+ artist period genr
+ dynam gener person
+ museum collec
+ person servic
+ annot collec
+ user interest
+ museum tour
+ user profil
+ relat concept
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

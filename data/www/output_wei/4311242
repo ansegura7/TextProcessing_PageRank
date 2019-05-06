@@ -1,0 +1,52 @@
+File name: 4311242
+
+Graph edges count: 11
+ anchorbas - proxim: 1
+ arbitrari - node: 1
+ bad - web: 1
+ connect - structur: 1
+ direct - graph: 1
+ disjoint - anchor: 1
+ prespecifi - subset: 1
+ propag - schemesand: 1
+ proxim - measur: 1
+ webspecif - applic: 1
+ web - page: 1
+
+PageRank scores count: 20
+ anchor: 0.06007468744926125
+ anchorbas: 0.0324728040266277
+ applic: 0.06007468744926125
+ arbitrari: 0.0324728040266277
+ bad: 0.0324728040266277
+ connect: 0.0324728040266277
+ direct: 0.0324728040266277
+ disjoint: 0.0324728040266277
+ graph: 0.06007468744926125
+ measur: 0.08353628835849977
+ node: 0.06007468744926125
+ page: 0.08353628835849977
+ prespecifi: 0.0324728040266277
+ propag: 0.0324728040266277
+ proxim: 0.06007468744926125
+ schemesand: 0.06007468744926125
+ structur: 0.06007468744926125
+ subset: 0.06007468744926125
+ web: 0.06007468744926125
+ webspecif: 0.0324728040266277
+
+N-grams list: 10
+ anchorbas proxim measur
+ bad web page
+ connect structur
+ direct graph
+ prespecifi subset
+ disjoint anchor
+ propag schemesand
+ arbitrari node
+ webspecif applic
+ measur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

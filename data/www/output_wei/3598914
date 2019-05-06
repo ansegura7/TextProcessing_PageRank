@@ -1,0 +1,50 @@
+File name: 3598914
+
+Graph edges count: 13
+ exploratori - studi: 1
+ good - predictor: 1
+ metric - measur: 1
+ navig - metric: 1
+ navig - task: 1
+ optim - path: 2
+ page - properti: 1
+ task - success: 1
+ usag - graph: 1
+ web - metric: 1
+ web - navig: 3
+ web - page: 1
+ web - usag: 1
+
+PageRank scores count: 16
+ exploratori: 0.03936688211833193
+ good: 0.03936688211833193
+ graph: 0.07756916064066322
+ measur: 0.09783449342614076
+ metric: 0.06878542506801039
+ navig: 0.056097807018623
+ optim: 0.03936688211833193
+ page: 0.04494385708509562
+ path: 0.07282873191891406
+ predictor: 0.07282873191891406
+ properti: 0.07756916064066322
+ studi: 0.07282873191891406
+ success: 0.09309406470439163
+ task: 0.0632084501012467
+ usag: 0.04494385708509562
+ web: 0.03936688211833193
+
+N-grams list: 10
+ web navig metric
+ web page properti
+ web usag graph
+ web navig task
+ task success
+ exploratori studi
+ optim path
+ good predictor
+ web metric
+ measur
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

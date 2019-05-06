@@ -1,0 +1,111 @@
+File name: 14322308
+
+Graph edges count: 40
+ app - user: 1
+ cf - algorithm: 1
+ cf - baselin: 1
+ cf - matrix: 2
+ cf - method: 1
+ cf - object: 1
+ common - interest: 1
+ complex - problem: 1
+ complex - set: 1
+ customdevelop - facebook: 1
+ direct - learn: 1
+ facebook - app: 1
+ featurebas - user: 1
+ featur - recommend: 1
+ import - aspect: 1
+ inform - diffusion: 1
+ interac - inform: 1
+ item - featur: 1
+ kei - featur: 1
+ leverag - coprefer: 1
+ live - user: 1
+ main - drawback: 1
+ matrix - factor: 2
+ network - set: 1
+ object - function: 3
+ restrict - area: 1
+ simpl - user: 1
+ social - cf: 3
+ social - collabor: 2
+ social - network: 2
+ social - set: 1
+ standard - cf: 1
+ tradition - cf: 1
+ unifi - framework: 1
+ usertous - inform: 1
+ user - behavior: 1
+ user - prefer: 1
+ user - profil: 1
+ user - similar: 1
+ user - trial: 1
+
+PageRank scores count: 50
+ algorithm: 0.01750255986461526
+ app: 0.030114763148046324
+ area: 0.021656875344561982
+ aspect: 0.021656875344561982
+ baselin: 0.01750255986461526
+ behavior: 0.023122826310030608
+ cf: 0.03409494564380366
+ collabor: 0.014194033165016974
+ common: 0.011706419105168639
+ complex: 0.011706419105168639
+ coprefer: 0.021656875344561982
+ customdevelop: 0.011706419105168639
+ diffusion: 0.03857265095153066
+ direct: 0.011706419105168639
+ drawback: 0.021656875344561982
+ facebook: 0.021656875344561982
+ factor: 0.026583594990091608
+ featur: 0.031607331583955324
+ featurebas: 0.011706419105168639
+ framework: 0.021656875344561982
+ function: 0.026583594990091608
+ import: 0.011706419105168639
+ inform: 0.031607331583955324
+ interac: 0.011706419105168639
+ interest: 0.021656875344561982
+ item: 0.011706419105168639
+ kei: 0.011706419105168639
+ learn: 0.021656875344561982
+ leverag: 0.011706419105168639
+ live: 0.011706419105168639
+ main: 0.011706419105168639
+ matrix: 0.01750255986461526
+ method: 0.01750255986461526
+ network: 0.014194033165016974
+ object: 0.01750255986461526
+ prefer: 0.023122826310030608
+ problem: 0.01668164722486531
+ profil: 0.023122826310030608
+ recommend: 0.03857265095153066
+ restrict: 0.011706419105168639
+ set: 0.03123418947497807
+ similar: 0.023122826310030608
+ simpl: 0.011706419105168639
+ social: 0.011706419105168639
+ standard: 0.011706419105168639
+ tradition: 0.011706419105168639
+ trial: 0.023122826310030608
+ unifi: 0.011706419105168639
+ user: 0.06715533649918803
+ usertous: 0.011706419105168639
+
+N-grams list: 10
+ featurebas user similar
+ live user trial
+ app user
+ user prefer
+ user behavior
+ user profil
+ usertous inform diffusion
+ item featur recommend
+ simpl user
+ user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

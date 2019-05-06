@@ -1,0 +1,75 @@
+File name: 3610967
+
+Graph edges count: 26
+ applic - model: 3
+ applic - part: 1
+ applic - specif: 2
+ build - adapt: 1
+ declar - transform: 1
+ docum - model: 1
+ driven - architectur: 1
+ explicit - applic: 1
+ intend - behavior: 1
+ intend - mean: 1
+ lowlevel - syntact: 1
+ model - driven: 1
+ model - transform: 2
+ process - logic: 1
+ reusabl - xml: 1
+ softwar - develop: 1
+ specif - model: 2
+ syntact - detail: 1
+ syntax - process: 1
+ syntax - syntax: 1
+ transform - languag: 1
+ transform - rule: 2
+ xml - applic: 4
+ xml - docum: 1
+ xml - languag: 3
+ xml - schema: 1
+
+PageRank scores count: 28
+ adapt: 0.03453092466113646
+ applic: 0.041868746151627965
+ architectur: 0.0629178896991661
+ behavior: 0.026598144671415924
+ build: 0.018665364681695384
+ declar: 0.018665364681695384
+ detail: 0.048016650643661375
+ develop: 0.03453092466113646
+ docum: 0.026003186172186884
+ driven: 0.05206179413820085
+ explicit: 0.018665364681695384
+ intend: 0.018665364681695384
+ languag: 0.0548723116721847
+ logic: 0.04625764970627781
+ lowlevel: 0.018665364681695384
+ mean: 0.026598144671415924
+ model: 0.07857983401530698
+ part: 0.030528176091323307
+ process: 0.03246150719398659
+ reusabl: 0.018665364681695384
+ rule: 0.0475344901816932
+ schema: 0.026003186172186884
+ softwar: 0.018665364681695384
+ specif: 0.030528176091323307
+ syntact: 0.03453092466113646
+ syntax: 0.03246150719398659
+ transform: 0.06792735411764193
+ xml: 0.03453092466113646
+
+N-grams list: 10
+ model transform languag
+ model driven architectur
+ applic specif model
+ model transform
+ explicit applic model
+ xml docum model
+ declar transform rule
+ applic model
+ transform rule
+ lowlevel syntact detail
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

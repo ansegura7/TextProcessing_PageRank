@@ -1,0 +1,66 @@
+File name: 217637
+
+Graph edges count: 21
+ adapt - educ: 1
+ current - adapt: 1
+ dynam - learn: 1
+ educ - system: 1
+ elearn - environ: 1
+ elearn - network: 1
+ inform - network: 1
+ learn - assist: 1
+ learn - environ: 1
+ learn - support: 1
+ open - dynam: 1
+ person - access: 1
+ person - elearn: 1
+ person - function: 2
+ person - learn: 2
+ person - servic: 1
+ repositori - network: 1
+ semant - web: 1
+ servicebas - architectur: 1
+ web - technologi: 1
+ wellestablish - person: 1
+
+PageRank scores count: 24
+ access: 0.029133130078278828
+ adapt: 0.044009802801249435
+ architectur: 0.044009802801249435
+ assist: 0.04415664374560238
+ current: 0.02378908259526997
+ dynam: 0.044009802801249435
+ educ: 0.06119741497633198
+ elearn: 0.029133130078278828
+ environ: 0.056538224028870876
+ function: 0.03447717756128769
+ inform: 0.02378908259526997
+ learn: 0.0718855099423497
+ network: 0.07661210329049743
+ open: 0.02378908259526997
+ person: 0.044009802801249435
+ repositori: 0.02378908259526997
+ semant: 0.02378908259526997
+ servic: 0.029133130078278828
+ servicebas: 0.02378908259526997
+ support: 0.04415664374560238
+ system: 0.07580688532515215
+ technologi: 0.06119741497633198
+ web: 0.044009802801249435
+ wellestablish: 0.02378908259526997
+
+N-grams list: 10
+ person learn assist
+ person learn support
+ semant web technologi
+ current adapt educ
+ learn environ
+ dynam learn
+ elearn network
+ wellestablish person function
+ inform network
+ repositori network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

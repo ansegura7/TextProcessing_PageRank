@@ -1,0 +1,77 @@
+File name: 3969685
+
+Graph edges count: 23
+ acommon - format: 1
+ anchor - text: 1
+ classif - perform: 1
+ data - fusion: 1
+ data - sourc: 5
+ experiment - result: 1
+ fusion - web: 1
+ gener - similar: 1
+ heterogen - data: 3
+ kernel - function: 1
+ kernel - learn: 1
+ kernel - matrix: 1
+ learn - approach: 1
+ meta - data: 1
+ odp - databas: 1
+ page - classif: 1
+ similar - measur: 1
+ singl - data: 1
+ structur - inform: 1
+ text - etc: 1
+ tradition - method: 1
+ web - page: 3
+ weight - combin: 1
+
+PageRank scores count: 33
+ acommon: 0.016910943731730865
+ anchor: 0.016910943731730865
+ approach: 0.03535796485242728
+ classif: 0.05911184357593261
+ combin: 0.0312852459037021
+ data: 0.06003385024764456
+ databas: 0.0312852459037021
+ etc: 0.04350340274987765
+ experiment: 0.016910943731730865
+ format: 0.0312852459037021
+ function: 0.021702377789054608
+ fusion: 0.025415739183480508
+ gener: 0.016910943731730865
+ heterogen: 0.016910943731730865
+ inform: 0.0312852459037021
+ kernel: 0.016910943731730865
+ learn: 0.021702377789054608
+ matrix: 0.021702377789054608
+ measur: 0.04350340274987765
+ meta: 0.016910943731730865
+ method: 0.0312852459037021
+ odp: 0.016910943731730865
+ page: 0.04964811746376676
+ perform: 0.06715601077127357
+ result: 0.0312852459037021
+ similar: 0.0312852459037021
+ singl: 0.016910943731730865
+ sourc: 0.05943492099047909
+ structur: 0.016910943731730865
+ text: 0.0312852459037021
+ tradition: 0.016910943731730865
+ web: 0.03851432203768929
+ weight: 0.016910943731730865
+
+N-grams list: 10
+ web page classif
+ singl data sourc
+ heterogen data sourc
+ classif perform
+ data sourc
+ heterogen data fusion
+ gener similar measur
+ anchor text etc
+ web page
+ meta data
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

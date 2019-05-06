@@ -1,0 +1,77 @@
+File name: 5332662
+
+Graph edges count: 22
+ applic - clone: 1
+ applic - engin: 1
+ clone - rate: 1
+ clone - relat: 1
+ divers - purpos: 1
+ futur - mainten: 1
+ initi - result: 1
+ mainten - product: 1
+ posit - impact: 1
+ potenti - benefit: 1
+ present - view: 1
+ relat - problem: 1
+ reusebas - method: 1
+ reus - opportun: 1
+ similar - studi: 1
+ systemat - studi: 1
+ tight - schedul: 1
+ uniqu - challeng: 1
+ unstabl - requir: 1
+ web - applic: 4
+ web - engin: 1
+ web - technologi: 1
+
+PageRank scores count: 34
+ applic: 0.030319505293727143
+ benefit: 0.035802820080890564
+ challeng: 0.035802820080890564
+ clone: 0.03223866546923434
+ divers: 0.019352875719400305
+ engin: 0.034980322862816056
+ futur: 0.019352875719400305
+ impact: 0.035802820080890564
+ initi: 0.019352875719400305
+ mainten: 0.035802820080890564
+ method: 0.035802820080890564
+ opportun: 0.035802820080890564
+ posit: 0.019352875719400305
+ potenti: 0.019352875719400305
+ present: 0.019352875719400305
+ problem: 0.047449037981651475
+ product: 0.04978527278815728
+ purpos: 0.035802820080890564
+ rate: 0.0330543085438249
+ relat: 0.0330543085438249
+ requir: 0.035802820080890564
+ result: 0.035802820080890564
+ reus: 0.019352875719400305
+ reusebas: 0.019352875719400305
+ schedul: 0.035802820080890564
+ similar: 0.019352875719400305
+ studi: 0.05225276444238082
+ systemat: 0.019352875719400305
+ technologi: 0.022094533112982016
+ tight: 0.019352875719400305
+ uniqu: 0.019352875719400305
+ unstabl: 0.019352875719400305
+ view: 0.035802820080890564
+ web: 0.019352875719400305
+
+N-grams list: 10
+ clone relat problem
+ mainten product
+ web applic engin
+ web applic clone
+ systemat studi
+ similar studi
+ clone rate
+ reusebas method
+ unstabl requir
+ posit impact
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

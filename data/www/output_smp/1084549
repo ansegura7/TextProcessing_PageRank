@@ -1,0 +1,74 @@
+File name: 1084549
+
+Graph edges count: 22
+ applic - overlai: 1
+ challeng - problem: 1
+ clientserv - unicast: 1
+ continu - stream: 1
+ forward - techniqu: 1
+ initi - portion: 1
+ kei - technic: 1
+ multicastbas - patch: 1
+ outperform - multicastbas: 1
+ patch - scheme: 1
+ patch - techniqu: 1
+ peertop - approach: 1
+ peertop - patch: 1
+ simul - experi: 1
+ singl - session: 1
+ stream - playback: 1
+ stream - video: 1
+ technic - issu: 1
+ tradition - clientserv: 1
+ unicast - connec: 1
+ unicast - servic: 1
+ vod - servic: 1
+
+PageRank scores count: 31
+ applic: 0.019148100987084606
+ approach: 0.027286043906595562
+ challeng: 0.019148100987084606
+ clientserv: 0.03542398682610653
+ connec: 0.04008295914752655
+ continu: 0.019148100987084606
+ experi: 0.03542398682610653
+ forward: 0.019148100987084606
+ initi: 0.019148100987084606
+ issu: 0.049258489789275155
+ kei: 0.019148100987084606
+ multicastbas: 0.03542398682610653
+ outperform: 0.019148100987084606
+ overlai: 0.03542398682610653
+ patch: 0.0573964327087861
+ peertop: 0.019148100987084606
+ playback: 0.03420329538817988
+ portion: 0.03542398682610653
+ problem: 0.03542398682610653
+ scheme: 0.0435415848883187
+ servic: 0.05635884498654846
+ session: 0.03542398682610653
+ simul: 0.019148100987084606
+ singl: 0.019148100987084606
+ stream: 0.03542398682610653
+ technic: 0.03542398682610653
+ techniqu: 0.05981747072734062
+ tradition: 0.019148100987084606
+ unicast: 0.049258489789275155
+ video: 0.03420329538817988
+ vod: 0.019148100987084606
+
+N-grams list: 10
+ peertop patch scheme
+ patch techniqu
+ outperform multicastbas patch
+ tradition clientserv unicast
+ kei technic issu
+ unicast connec
+ continu stream playback
+ forward techniqu
+ vod servic
+ stream video
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

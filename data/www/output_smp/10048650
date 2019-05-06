@@ -1,0 +1,69 @@
+File name: 10048650
+
+Graph edges count: 20
+ applic - scenario: 1
+ cach - trust: 1
+ client - activ: 1
+ feedback - data: 1
+ high - avail: 1
+ low - overhead: 1
+ manag - framework: 2
+ manag - servic: 2
+ manag - system: 1
+ previou - work: 1
+ realist - applic: 1
+ recent - client: 1
+ reputationbas - trust: 1
+ reput - manag: 2
+ reput - scheme: 1
+ serviceori - environ: 1
+ trustrel - feedback: 1
+ trust - evalu: 1
+ trust - manag: 4
+ trust - valu: 1
+
+PageRank scores count: 28
+ activ: 0.05669546436285096
+ applic: 0.04077224842420769
+ avail: 0.04077224842420769
+ cach: 0.022039053202274426
+ client: 0.04077224842420769
+ data: 0.05669546436285096
+ environ: 0.04077224842420769
+ evalu: 0.03889892890201436
+ feedback: 0.04077224842420769
+ framework: 0.035714285714285705
+ high: 0.022039053202274426
+ low: 0.022039053202274426
+ manag: 0.048265526512980994
+ overhead: 0.04077224842420769
+ previou: 0.022039053202274426
+ realist: 0.022039053202274426
+ recent: 0.022039053202274426
+ reput: 0.022039053202274426
+ reputationbas: 0.022039053202274426
+ scenario: 0.05669546436285096
+ scheme: 0.03140565081324106
+ servic: 0.035714285714285705
+ serviceori: 0.022039053202274426
+ system: 0.035714285714285705
+ trust: 0.05950544364614095
+ trustrel: 0.022039053202274426
+ valu: 0.03889892890201436
+ work: 0.04077224842420769
+
+N-grams list: 10
+ trust manag framework
+ trust manag servic
+ reputationbas trust manag
+ cach trust valu
+ recent client activ
+ realist applic scenario
+ reput manag system
+ trust evalu
+ feedback data
+ reput manag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

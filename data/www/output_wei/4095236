@@ -1,0 +1,61 @@
+File name: 4095236
+
+Graph edges count: 17
+ automat - code: 1
+ code - gener: 1
+ complex - web: 1
+ conceptu - model: 1
+ develop - process: 1
+ full - integr: 1
+ internet - applic: 2
+ model - languag: 2
+ ria - concept: 1
+ ria - paradigm: 1
+ rich - internet: 2
+ singl - model: 1
+ webbas - system: 1
+ web - develop: 1
+ web - interfac: 1
+ web - model: 1
+ web - solution: 1
+
+PageRank scores count: 23
+ applic: 0.06711310906858552
+ automat: 0.02608867213550457
+ code: 0.04826404345068346
+ complex: 0.02608867213550457
+ concept: 0.037176357793094014
+ conceptu: 0.02608867213550457
+ develop: 0.0363447813687748
+ full: 0.02608867213550457
+ gener: 0.06711310906858552
+ integr: 0.04826404345068346
+ interfac: 0.0363447813687748
+ internet: 0.04826404345068346
+ languag: 0.09467986753476727
+ model: 0.08069552399913259
+ paradigm: 0.037176357793094014
+ process: 0.05698173629896315
+ ria: 0.02608867213550457
+ rich: 0.02608867213550457
+ singl: 0.02608867213550457
+ solution: 0.0363447813687748
+ system: 0.04826404345068346
+ web: 0.04826404345068346
+ webbas: 0.02608867213550457
+
+N-grams list: 10
+ web model languag
+ singl model languag
+ web develop process
+ automat code gener
+ rich internet applic
+ complex web solution
+ conceptu model
+ web interfac
+ webbas system
+ full integr
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

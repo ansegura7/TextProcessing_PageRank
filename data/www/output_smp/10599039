@@ -1,0 +1,89 @@
+File name: 10599039
+
+Graph edges count: 29
+ autom - wai: 1
+ clarketax - mechan: 1
+ collabor - enforc: 1
+ collabor - manag: 1
+ collect - privaci: 1
+ content - ownership: 1
+ content - share: 1
+ extend - notion: 1
+ game - theori: 1
+ infer - techniqu: 1
+ major - technolog: 1
+ minim - increas: 1
+ network - site: 1
+ network - social: 1
+ popular - social: 1
+ privaci - manag: 1
+ privaci - polici: 1
+ privaci - prefer: 1
+ privaci - set: 1
+ promin - featur: 1
+ proofofconcept - applic: 1
+ protec - mechan: 1
+ reward - user: 1
+ share - content: 1
+ share - data: 1
+ simpl - mechan: 1
+ site - social: 1
+ social - network: 7
+ technolog - phenomena: 1
+
+PageRank scores count: 39
+ applic: 0.023221313764241854
+ autom: 0.012552061494184787
+ clarketax: 0.012552061494184787
+ collabor: 0.012552061494184787
+ collect: 0.012552061494184787
+ content: 0.02182967216383337
+ data: 0.02182967216383337
+ enforc: 0.017886687629213322
+ extend: 0.012552061494184787
+ featur: 0.023221313764241854
+ game: 0.012552061494184787
+ increas: 0.023221313764241854
+ infer: 0.012552061494184787
+ major: 0.012552061494184787
+ manag: 0.022821216804114714
+ mechan: 0.044559818304355986
+ minim: 0.012552061494184787
+ network: 0.12469279511274893
+ notion: 0.023221313764241854
+ ownership: 0.02182967216383337
+ phenomena: 0.03229017819379036
+ polici: 0.017486590669086182
+ popular: 0.012552061494184787
+ prefer: 0.017486590669086182
+ privaci: 0.023221313764241854
+ promin: 0.012552061494184787
+ proofofconcept: 0.012552061494184787
+ protec: 0.012552061494184787
+ reward: 0.012552061494184787
+ set: 0.017486590669086182
+ share: 0.02182967216383337
+ simpl: 0.012552061494184787
+ site: 0.06554649941710308
+ social: 0.13193028382089078
+ techniqu: 0.023221313764241854
+ technolog: 0.023221313764241854
+ theori: 0.023221313764241854
+ user: 0.023221313764241854
+ wai: 0.023221313764241854
+
+N-grams list: 10
+ social network social
+ social network site
+ popular social network
+ social network
+ network
+ major technolog phenomena
+ collect privaci manag
+ protec mechan
+ simpl mechan
+ clarketax mechan
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

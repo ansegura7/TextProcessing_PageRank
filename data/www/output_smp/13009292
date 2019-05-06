@@ -1,0 +1,63 @@
+File name: 13009292
+
+Graph edges count: 18
+ analysi - modul: 2
+ compact - formal: 1
+ dialogu - author: 1
+ dialogu - context: 1
+ dialogu - histori: 1
+ dialogu - script: 1
+ dialogu - system: 2
+ discours - analysi: 2
+ discours - context: 1
+ docum - object: 1
+ humanmachin - interac: 1
+ input - modaliti: 1
+ multimod - interac: 1
+ object - model: 1
+ semant - represent: 1
+ spoken - dialogu: 1
+ user - input: 2
+ xpathbas - discours: 2
+
+PageRank scores count: 24
+ analysi: 0.04626594337683108
+ author: 0.03404707211691782
+ compact: 0.02590115794364231
+ context: 0.054411857550106586
+ dialogu: 0.04791714219573827
+ discours: 0.04791714219573827
+ docum: 0.02590115794364231
+ formal: 0.04791714219573827
+ histori: 0.03404707211691782
+ humanmachin: 0.02590115794364231
+ input: 0.04791714219573827
+ interac: 0.06993312644783424
+ modaliti: 0.06663072881001983
+ model: 0.06663072881001983
+ modul: 0.06522720981394872
+ multimod: 0.02590115794364231
+ object: 0.04791714219573827
+ represent: 0.04791714219573827
+ script: 0.03404707211691782
+ semant: 0.02590115794364231
+ spoken: 0.02590115794364231
+ system: 0.03404707211691782
+ user: 0.02590115794364231
+ xpathbas: 0.02590115794364231
+
+N-grams list: 10
+ docum object model
+ xpathbas discours analysi
+ input modaliti
+ spoken dialogu system
+ dialogu context
+ discours context
+ humanmachin interac
+ multimod interac
+ dialogu author
+ dialogu histori
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

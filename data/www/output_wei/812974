@@ -1,0 +1,54 @@
+File name: 812974
+
+Graph edges count: 14
+ engin - rank: 1
+ experiment - result: 1
+ larg - dataset: 1
+ rank - algorithm: 1
+ recent - algorithm: 1
+ search - engin: 1
+ seed - set: 3
+ set - trustrank: 1
+ spam - site: 1
+ spam - web: 1
+ topic - inform: 1
+ topic - trustrank: 2
+ trust - score: 2
+ web - spam: 3
+
+PageRank scores count: 19
+ algorithm: 0.11653159458873916
+ dataset: 0.05340685597229553
+ engin: 0.05340685597229553
+ experiment: 0.02886857079583542
+ inform: 0.037047999187988796
+ larg: 0.02886857079583542
+ rank: 0.07426439837228663
+ recent: 0.02886857079583542
+ result: 0.05340685597229553
+ score: 0.05340685597229553
+ search: 0.02886857079583542
+ seed: 0.02886857079583542
+ set: 0.05340685597229553
+ site: 0.06440347595306357
+ spam: 0.08361152535593946
+ topic: 0.02886857079583542
+ trust: 0.02886857079583542
+ trustrank: 0.09062325515659336
+ web: 0.06440347595306357
+
+N-grams list: 10
+ web spam web
+ seed set trustrank
+ search engin rank
+ spam site
+ web spam
+ recent algorithm
+ topic trustrank
+ algorithm
+ trustrank
+ spam
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,70 @@
+File name: 4617564
+
+Graph edges count: 22
+ actual - usag: 1
+ bookmark - servic: 2
+ coarsegrain - inform: 1
+ complem - approach: 1
+ current - social: 1
+ emerg - semant: 2
+ formal - annot: 2
+ formal - ontologi: 2
+ initi - evalu: 1
+ machin - understand: 1
+ normal - web: 1
+ predefin - formal: 1
+ relat - web: 1
+ resourc - research: 1
+ semant - web: 2
+ share - web: 1
+ social - annot: 4
+ social - bookmark: 2
+ understand - semant: 1
+ web - bookmark: 2
+ web - resourc: 4
+ web - user: 1
+
+PageRank scores count: 27
+ actual: 0.017981579640916876
+ annot: 0.050970285957148954
+ approach: 0.033265922335696224
+ bookmark: 0.055613632876530796
+ coarsegrain: 0.017981579640916876
+ complem: 0.017981579640916876
+ current: 0.017981579640916876
+ emerg: 0.017981579640916876
+ evalu: 0.033265922335696224
+ formal: 0.033265922335696224
+ inform: 0.033265922335696224
+ initi: 0.017981579640916876
+ machin: 0.017981579640916876
+ normal: 0.017981579640916876
+ ontologi: 0.03211959663358777
+ predefin: 0.017981579640916876
+ relat: 0.017981579640916876
+ research: 0.08121732691121288
+ resourc: 0.07439499678858354
+ semant: 0.06154195632103801
+ servic: 0.06525316758596805
+ share: 0.017981579640916876
+ social: 0.033265922335696224
+ understand: 0.033265922335696224
+ usag: 0.033265922335696224
+ user: 0.03208493392783354
+ web: 0.11614527059813722
+
+N-grams list: 10
+ web resourc research
+ web resourc
+ relat web bookmark
+ share web bookmark
+ semant web
+ normal web user
+ social bookmark servic
+ web
+ machin understand semant
+ current social bookmark
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

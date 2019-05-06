@@ -1,0 +1,82 @@
+File name: 4795633
+
+Graph edges count: 27
+ access - control: 2
+ analysi - servic: 1
+ analysi - task: 1
+ analysi - tool: 2
+ autom - fashion: 1
+ comparison - verif: 1
+ control - languag: 1
+ control - polici: 1
+ decid - fragment: 1
+ descrip - logic: 2
+ dl - reason: 2
+ empir - evalu: 1
+ express - subset: 1
+ firstord - logic: 1
+ logicbas - analysi: 1
+ offtheshelf - dl: 1
+ open - sourc: 1
+ polici - analysi: 1
+ polici - comparison: 1
+ polici - redund: 1
+ polici - xacml: 1
+ popular - access: 1
+ proposi - logicbas: 1
+ reason - pellet: 1
+ rich - express: 1
+ sourc - dl: 1
+ web - access: 1
+
+PageRank scores count: 34
+ access: 0.04132281337086767
+ analysi: 0.04717809819532967
+ autom: 0.015304745692913953
+ comparison: 0.023111385593222473
+ control: 0.05042913705815147
+ decid: 0.015304745692913953
+ descrip: 0.015304745692913953
+ dl: 0.05238049213399801
+ empir: 0.015304745692913953
+ evalu: 0.028313779531890813
+ express: 0.028313779531890813
+ fashion: 0.028313779531890813
+ firstord: 0.015304745692913953
+ fragment: 0.028313779531890813
+ languag: 0.03673712894262833
+ logic: 0.04132281337086767
+ logicbas: 0.028313779531890813
+ offtheshelf: 0.015304745692913953
+ open: 0.015304745692913953
+ pellet: 0.06615868509870437
+ polici: 0.03673712894262833
+ popular: 0.015304745692913953
+ proposi: 0.015304745692913953
+ reason: 0.05982816400681226
+ redund: 0.023111385593222473
+ rich: 0.015304745692913953
+ servic: 0.025330091559421508
+ sourc: 0.028313779531890813
+ subset: 0.039371458295021144
+ task: 0.025330091559421508
+ tool: 0.03535543742592906
+ verif: 0.03494942344715305
+ web: 0.015304745692913953
+ xacml: 0.023111385593222473
+
+N-grams list: 10
+ offtheshelf dl reason
+ reason pellet
+ polici analysi tool
+ popular access control
+ web access control
+ open sourc dl
+ polici comparison verif
+ proposi logicbas analysi
+ analysi servic
+ analysi task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

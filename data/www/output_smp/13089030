@@ -1,0 +1,69 @@
+File name: 13089030
+
+Graph edges count: 18
+ blog - servic: 1
+ celebr - blogger: 1
+ commun - research: 1
+ consider - support: 1
+ elit - user: 2
+ formal - organ: 1
+ gener - rebroadcast: 1
+ longstand - question: 1
+ media - commun: 1
+ media - outlet: 1
+ new - topic: 1
+ ordinari - user: 1
+ produc - flow: 1
+ servic - twitter: 1
+ signific - homophili: 1
+ strike - concentr: 1
+ twostep - flow: 1
+ user - categori: 1
+
+PageRank scores count: 30
+ blog: 0.021286219833435326
+ blogger: 0.03937950669185535
+ categori: 0.0701380943511694
+ celebr: 0.021286219833435326
+ commun: 0.030332863262645338
+ concentr: 0.03937950669185535
+ consider: 0.021286219833435326
+ elit: 0.021286219833435326
+ flow: 0.057472793550275375
+ formal: 0.021286219833435326
+ gener: 0.021286219833435326
+ homophili: 0.03937950669185535
+ longstand: 0.021286219833435326
+ media: 0.021286219833435326
+ new: 0.021286219833435326
+ ordinari: 0.021286219833435326
+ organ: 0.03937950669185535
+ outlet: 0.030332863262645338
+ produc: 0.021286219833435326
+ question: 0.03937950669185535
+ rebroadcast: 0.03937950669185535
+ research: 0.04706915360668386
+ servic: 0.03937950669185535
+ signific: 0.021286219833435326
+ strike: 0.021286219833435326
+ support: 0.03937950669185535
+ topic: 0.03937950669185535
+ twitter: 0.05475880052151237
+ twostep: 0.021286219833435326
+ user: 0.057472793550275375
+
+N-grams list: 10
+ user categori
+ blog servic twitter
+ media commun research
+ ordinari user
+ elit user
+ produc flow
+ twostep flow
+ categori
+ longstand question
+ gener rebroadcast
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,66 @@
+File name: 4530378
+
+Graph edges count: 20
+ clientserv - architectur: 1
+ conven - standalon: 1
+ extrac - knowledg: 1
+ geograph - inform: 3
+ hyperlink - architectur: 1
+ inform - system: 2
+ knowledg - discoveri: 1
+ local - web: 3
+ locationspecif - web: 1
+ mapand - hyperlink: 1
+ map - interfac: 1
+ search - system: 2
+ simpl - mapand: 1
+ standalon - geograph: 1
+ superfici - level: 1
+ system - integr: 1
+ system - todai: 1
+ webbas - clientserv: 1
+ web - content: 2
+ web - search: 5
+
+PageRank scores count: 25
+ architectur: 0.08689371766003422
+ clientserv: 0.03377792717591223
+ content: 0.030230592738905226
+ conven: 0.01825833901400661
+ discoveri: 0.04696957711353201
+ extrac: 0.01825833901400661
+ geograph: 0.04696957711353201
+ hyperlink: 0.04696957711353201
+ inform: 0.058182479560508815
+ integr: 0.06444482045030217
+ interfac: 0.03377792717591223
+ knowledg: 0.03377792717591223
+ level: 0.03377792717591223
+ local: 0.01825833901400661
+ locationspecif: 0.01825833901400661
+ map: 0.01825833901400661
+ mapand: 0.03377792717591223
+ search: 0.048188973326253166
+ simpl: 0.01825833901400661
+ standalon: 0.03377792717591223
+ superfici: 0.01825833901400661
+ system: 0.10867407396775428
+ todai: 0.06444482045030217
+ web: 0.04929751533781784
+ webbas: 0.01825833901400661
+
+N-grams list: 10
+ geograph inform system
+ system todai
+ inform system
+ webbas clientserv architectur
+ local web search
+ system
+ geograph inform
+ extrac knowledg discoveri
+ simpl mapand hyperlink
+ conven standalon geograph
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

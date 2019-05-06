@@ -1,0 +1,82 @@
+File name: 8831209
+
+Graph edges count: 27
+ art - commerci: 1
+ commerci - system: 1
+ contextu - queri: 1
+ contextu - retriev: 1
+ inform - integr: 1
+ inform - system: 1
+ integr - techniqu: 1
+ larg - scale: 1
+ machin - understand: 1
+ meaning - data: 1
+ ontologydriven - approach: 1
+ portal - semant: 1
+ relat - area: 1
+ research - inform: 1
+ retriev - collec: 1
+ rich - contextu: 1
+ semagix - freedom: 1
+ semant - brows: 1
+ semant - portal: 1
+ semant - web: 3
+ signific - autom: 1
+ system - lab: 1
+ system - semagix: 1
+ techniqu - sempl: 1
+ web - page: 1
+ web - portal: 1
+ web - technologi: 2
+
+PageRank scores count: 34
+ approach: 0.02965352792763883
+ area: 0.02965352792763883
+ art: 0.01602893401493991
+ autom: 0.02965352792763883
+ brows: 0.023277330187619145
+ collec: 0.04036586489149836
+ commerci: 0.02965352792763883
+ contextu: 0.02965352792763883
+ data: 0.02965352792763883
+ freedom: 0.049102209969456766
+ inform: 0.02965352792763883
+ integr: 0.02863168338418641
+ lab: 0.03890973641707866
+ larg: 0.01602893401493991
+ machin: 0.01602893401493991
+ meaning: 0.01602893401493991
+ ontologydriven: 0.01602893401493991
+ page: 0.02405593606922823
+ portal: 0.031304332241907463
+ queri: 0.02863168338418641
+ relat: 0.01602893401493991
+ research: 0.01602893401493991
+ retriev: 0.02863168338418641
+ rich: 0.01602893401493991
+ scale: 0.02965352792763883
+ semagix: 0.03890973641707866
+ semant: 0.042637619326979286
+ sempl: 0.05033991917271351
+ signific: 0.01602893401493991
+ system: 0.05383718212267942
+ techniqu: 0.04036586489149836
+ technologi: 0.03208293812351655
+ understand: 0.02965352792763883
+ web: 0.03777412253297762
+
+N-grams list: 10
+ inform system lab
+ semant portal semant
+ semant web technologi
+ semant web portal
+ art commerci system
+ inform integr techniqu
+ semagix freedom
+ rich contextu retriev
+ web technologi
+ retriev collec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

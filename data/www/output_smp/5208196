@@ -1,0 +1,75 @@
+File name: 5208196
+
+Graph edges count: 24
+ detail - person: 1
+ hand - privaci: 1
+ hierarch - organ: 1
+ higherlevel - user: 1
+ individu - inform: 1
+ inform - goal: 1
+ msn - rank: 1
+ person - inform: 1
+ person - web: 1
+ prefer - inform: 1
+ privaci - protec: 1
+ privaci - requir: 1
+ privacyenhanc - person: 1
+ privat - prefer: 1
+ profil - inform: 2
+ rich - user: 1
+ search - engin: 1
+ search - qualiti: 4
+ search - result: 1
+ signific - improv: 1
+ specif - interest: 1
+ standard - msn: 1
+ user - profil: 3
+ web - search: 2
+
+PageRank scores count: 30
+ detail: 0.016141963728402174
+ engin: 0.029063975612990223
+ goal: 0.11727358600685447
+ hand: 0.016141963728402174
+ hierarch: 0.016141963728402174
+ higherlevel: 0.016141963728402174
+ improv: 0.029862632897544022
+ individu: 0.016141963728402174
+ inform: 0.11897837915112033
+ interest: 0.029862632897544022
+ msn: 0.029862632897544022
+ organ: 0.029862632897544022
+ person: 0.04358330206668587
+ prefer: 0.029862632897544022
+ privaci: 0.029862632897544022
+ privacyenhanc: 0.016141963728402174
+ privat: 0.016141963728402174
+ profil: 0.05318777048508517
+ protec: 0.028833582709858387
+ qualiti: 0.029063975612990223
+ rank: 0.041525201691314594
+ requir: 0.028833582709858387
+ result: 0.029063975612990223
+ rich: 0.016141963728402174
+ search: 0.04560710076913429
+ signific: 0.016141963728402174
+ specif: 0.016141963728402174
+ standard: 0.016141963728402174
+ user: 0.04358330206668587
+ web: 0.034664867106743665
+
+N-grams list: 10
+ individu inform goal
+ detail person inform
+ profil inform
+ privat prefer inform
+ inform
+ rich user profil
+ higherlevel user profil
+ user profil
+ privacyenhanc person web
+ standard msn rank
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

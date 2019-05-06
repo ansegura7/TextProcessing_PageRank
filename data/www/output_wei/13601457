@@ -1,0 +1,71 @@
+File name: 13601457
+
+Graph edges count: 19
+ alia - extrac: 1
+ anchor - text: 1
+ candid - alias: 2
+ cooccurr - model: 1
+ extract - lexic: 1
+ inform - relat: 1
+ lexic - pattern: 1
+ numer - baselin: 1
+ numer - rank: 1
+ person - name: 1
+ previou - work: 1
+ rank - score: 1
+ reciproc - rank: 1
+ relationdetec - task: 1
+ search - engin: 1
+ text - snippet: 1
+ train - data: 1
+ web - search: 1
+ word - cooccurr: 1
+
+PageRank scores count: 31
+ alia: 0.019891096248041966
+ alias: 0.03679852805887764
+ anchor: 0.019891096248041966
+ baselin: 0.0283448121534598
+ candid: 0.019891096248041966
+ cooccurr: 0.03679852805887764
+ data: 0.03679852805887764
+ engin: 0.05116984509808796
+ extrac: 0.03679852805887764
+ extract: 0.019891096248041966
+ inform: 0.019891096248041966
+ lexic: 0.03679852805887764
+ model: 0.05116984509808796
+ name: 0.03679852805887764
+ numer: 0.019891096248041966
+ pattern: 0.05116984509808796
+ person: 0.019891096248041966
+ previou: 0.019891096248041966
+ rank: 0.045252243964295474
+ reciproc: 0.019891096248041966
+ relat: 0.03679852805887764
+ relationdetec: 0.019891096248041966
+ score: 0.058355503617693115
+ search: 0.03679852805887764
+ snippet: 0.05116984509808796
+ task: 0.03679852805887764
+ text: 0.03679852805887764
+ train: 0.019891096248041966
+ web: 0.019891096248041966
+ word: 0.019891096248041966
+ work: 0.03679852805887764
+
+N-grams list: 10
+ numer rank score
+ word cooccurr model
+ web search engin
+ extract lexic pattern
+ text snippet
+ reciproc rank
+ previou work
+ anchor text
+ inform relat
+ candid alias
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,63 @@
+File name: 598222
+
+Graph edges count: 18
+ dom - subtre: 1
+ edit - distanc: 1
+ gener - pattern: 1
+ haystack - semant: 1
+ nontechn - user: 1
+ rdf - class: 1
+ rich - semant: 1
+ semant - content: 2
+ semant - data: 1
+ semant - interac: 1
+ semant - web: 3
+ standard - docum: 1
+ tree - edit: 1
+ web - browser: 2
+ web - content: 1
+ web - page: 1
+ wide - web: 2
+ world - wide: 2
+
+PageRank scores count: 24
+ browser: 0.04756620650740534
+ class: 0.04652412889069815
+ content: 0.061994973507966455
+ data: 0.03957694477931688
+ distanc: 0.06469368733584918
+ docum: 0.04652412889069815
+ dom: 0.02514817777875576
+ edit: 0.04652412889069815
+ gener: 0.02514817777875576
+ haystack: 0.02514817777875576
+ interac: 0.03957694477931688
+ nontechn: 0.02514817777875576
+ page: 0.04756620650740534
+ pattern: 0.04652412889069815
+ rdf: 0.02514817777875576
+ rich: 0.02514817777875576
+ semant: 0.06790008000264054
+ standard: 0.02514817777875576
+ subtre: 0.04652412889069815
+ tree: 0.02514817777875576
+ user: 0.04652412889069815
+ web: 0.0791224543364103
+ wide: 0.04652412889069815
+ world: 0.02514817777875576
+
+N-grams list: 10
+ semant web content
+ haystack semant web
+ world wide web
+ semant web
+ tree edit distanc
+ rich semant interac
+ semant content
+ web page
+ web browser
+ semant data
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

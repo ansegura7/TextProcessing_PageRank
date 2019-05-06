@@ -1,0 +1,75 @@
+File name: 259989
+
+Graph edges count: 23
+ access - consider: 1
+ case - studi: 1
+ coordin - function: 1
+ deliveri - capabl: 1
+ devic - access: 1
+ divers - interac: 1
+ function - specif: 1
+ interac - interfac: 1
+ interac - manag: 3
+ interac - media: 1
+ manag - multimod: 1
+ mixedin - dialog: 2
+ mobil - devic: 1
+ multimod - interfac: 1
+ multimod - web: 2
+ multipl - interac: 1
+ partial - input: 1
+ person - dialog: 1
+ session - cach: 1
+ softwar - framework: 1
+ softwar - technologi: 1
+ stage - transform: 2
+ web - interac: 2
+
+PageRank scores count: 31
+ access: 0.04524256189922165
+ cach: 0.03253595316367738
+ capabl: 0.03253595316367738
+ case: 0.017587001710095876
+ consider: 0.05604317932443428
+ coordin: 0.017587001710095876
+ deliveri: 0.017587001710095876
+ devic: 0.03253595316367738
+ dialog: 0.04748490461725887
+ divers: 0.017587001710095876
+ framework: 0.025061477436886623
+ function: 0.03253595316367738
+ input: 0.03253595316367738
+ interac: 0.08125691336182317
+ interfac: 0.06275455558204743
+ manag: 0.04060979169859873
+ media: 0.04060979169859873
+ mixedin: 0.017587001710095876
+ mobil: 0.017587001710095876
+ multimod: 0.05210532678458517
+ multipl: 0.017587001710095876
+ partial: 0.017587001710095876
+ person: 0.017587001710095876
+ session: 0.017587001710095876
+ softwar: 0.017587001710095876
+ specif: 0.04524256189922165
+ stage: 0.017587001710095876
+ studi: 0.03253595316367738
+ technologi: 0.025061477436886623
+ transform: 0.03253595316367738
+ web: 0.03973176559354457
+
+N-grams list: 10
+ multimod web interac
+ multipl interac interfac
+ manag multimod interfac
+ divers interac media
+ interac manag
+ mobil devic access
+ interac
+ function specif
+ person dialog
+ mixedin dialog
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

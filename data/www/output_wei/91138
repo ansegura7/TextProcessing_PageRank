@@ -1,0 +1,60 @@
+File name: 91138
+
+Graph edges count: 15
+ complementari - approach: 1
+ content - develop: 1
+ econom - model: 1
+ import - goal: 1
+ limit - adapt: 1
+ narrow - confin: 1
+ narrow - defini: 1
+ small - popul: 1
+ specif - aim: 1
+ technic - convers: 1
+ technic - work: 1
+ unrealist - econom: 1
+ view - web: 1
+ web - access: 3
+ web - content: 1
+
+PageRank scores count: 24
+ access: 0.06057326594477878
+ adapt: 0.051418659935917745
+ aim: 0.051418659935917745
+ approach: 0.051418659935917745
+ complementari: 0.027793870235631214
+ confin: 0.03960626508577448
+ content: 0.038720335472013735
+ convers: 0.03960626508577448
+ defini: 0.03960626508577448
+ develop: 0.06070615538684289
+ econom: 0.051418659935917745
+ goal: 0.051418659935917745
+ import: 0.027793870235631214
+ limit: 0.027793870235631214
+ model: 0.07149973118116129
+ narrow: 0.027793870235631214
+ popul: 0.051418659935917745
+ small: 0.027793870235631214
+ specif: 0.027793870235631214
+ technic: 0.027793870235631214
+ unrealist: 0.027793870235631214
+ view: 0.027793870235631214
+ web: 0.051418659935917745
+ work: 0.03960626508577448
+
+N-grams list: 10
+ web content develop
+ unrealist econom model
+ view web access
+ web access
+ specif aim
+ small popul
+ complementari approach
+ import goal
+ limit adapt
+ narrow confin
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

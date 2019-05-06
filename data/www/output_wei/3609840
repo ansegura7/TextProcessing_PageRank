@@ -1,0 +1,57 @@
+File name: 3609840
+
+Graph edges count: 16
+ directori - inform: 1
+ filesystem - tree: 1
+ folder - move: 1
+ handl - network: 1
+ higherlevel - folder: 1
+ internet - wand: 1
+ level - folder: 1
+ mainten - system: 1
+ manag - system: 1
+ metadata - mainten: 1
+ metadata - manag: 1
+ network - partition: 1
+ p2p - network: 1
+ root - directori: 1
+ virtual - folder: 1
+ wand - system: 1
+
+PageRank scores count: 20
+ directori: 0.04801453412924993
+ filesystem: 0.02595380223202699
+ folder: 0.0921359979236958
+ handl: 0.02595380223202699
+ higherlevel: 0.02595380223202699
+ inform: 0.06676615624188943
+ internet: 0.02595380223202699
+ level: 0.02595380223202699
+ mainten: 0.03698416818063846
+ manag: 0.03698416818063846
+ metadata: 0.02595380223202699
+ move: 0.10426940046716843
+ network: 0.07007526602647288
+ p2p: 0.02595380223202699
+ partition: 0.08551777835452892
+ root: 0.02595380223202699
+ system: 0.1296392421489748
+ tree: 0.04801453412924993
+ virtual: 0.02595380223202699
+ wand: 0.04801453412924993
+
+N-grams list: 10
+ higherlevel folder move
+ metadata mainten system
+ metadata manag system
+ handl network partition
+ wand system
+ root directori inform
+ virtual folder
+ level folder
+ p2p network
+ filesystem tree
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

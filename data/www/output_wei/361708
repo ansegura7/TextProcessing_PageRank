@@ -1,0 +1,55 @@
+File name: 361708
+
+Graph edges count: 13
+ draw - implic: 1
+ malici - behavior: 1
+ peertop - network: 1
+ preferenti - walk: 2
+ probabilist - search: 1
+ rank - distribu: 1
+ scalabl - search: 1
+ search - algorithm: 1
+ search - effici: 1
+ simul - result: 1
+ trustbas - probabilist: 1
+ unnecessari - traffic: 1
+ unstructur - peertop: 1
+
+PageRank scores count: 21
+ algorithm: 0.0707282635709732
+ behavior: 0.05330778401702968
+ distribu: 0.05330778401702968
+ draw: 0.02881501838758361
+ effici: 0.0707282635709732
+ implic: 0.05330778401702968
+ malici: 0.02881501838758361
+ network: 0.07412663480205885
+ peertop: 0.05330778401702968
+ preferenti: 0.02881501838758361
+ probabilist: 0.05330778401702968
+ rank: 0.02881501838758361
+ result: 0.05330778401702968
+ scalabl: 0.02881501838758361
+ search: 0.0986194004315049
+ simul: 0.02881501838758361
+ traffic: 0.05330778401702968
+ trustbas: 0.02881501838758361
+ unnecessari: 0.02881501838758361
+ unstructur: 0.02881501838758361
+ walk: 0.05330778401702968
+
+N-grams list: 10
+ trustbas probabilist search
+ search effici
+ unstructur peertop network
+ scalabl search
+ unnecessari traffic
+ rank distribu
+ preferenti walk
+ draw implic
+ malici behavior
+ simul result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

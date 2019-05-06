@@ -1,0 +1,88 @@
+File name: 95405
+
+Graph edges count: 28
+ architectur - choic: 1
+ central - point: 1
+ common - protocol: 1
+ decentr - natur: 1
+ direct - access: 1
+ end - user: 2
+ import - architectur: 1
+ import - sociolog: 1
+ inappropri - choic: 1
+ inform - ontolog: 1
+ marri - content: 1
+ ontolog - specif: 1
+ pointandclick - access: 1
+ pointandclick - interfac: 1
+ present - knowledg: 1
+ rdf - metadata: 1
+ relev - inform: 1
+ represent - end: 1
+ semant - web: 5
+ singl - represent: 1
+ singl - type: 1
+ site - design: 1
+ sociolog - forc: 1
+ standalon - client: 1
+ user - applic: 1
+ web - browser: 3
+ web - content: 1
+ web - site: 1
+
+PageRank scores count: 39
+ access: 0.03483392757557538
+ applic: 0.052788759742315054
+ architectur: 0.021819053536349418
+ browser: 0.029758126700277256
+ central: 0.015311616516736432
+ choic: 0.046872686061859396
+ client: 0.0283264905559624
+ common: 0.015311616516736432
+ content: 0.033141993950476005
+ decentr: 0.015311616516736432
+ design: 0.03241966844129896
+ direct: 0.015311616516736432
+ end: 0.03385781202263344
+ forc: 0.03385781202263344
+ import: 0.015311616516736432
+ inappropri: 0.015311616516736432
+ inform: 0.0283264905559624
+ interfac: 0.021819053536349418
+ knowledg: 0.0283264905559624
+ marri: 0.015311616516736432
+ metadata: 0.0283264905559624
+ natur: 0.0283264905559624
+ ontolog: 0.039389133489304465
+ point: 0.0283264905559624
+ pointandclick: 0.015311616516736432
+ present: 0.015311616516736432
+ protocol: 0.0283264905559624
+ rdf: 0.015311616516736432
+ relev: 0.015311616516736432
+ represent: 0.021819053536349418
+ semant: 0.015311616516736432
+ singl: 0.015311616516736432
+ site: 0.02012711991125004
+ sociolog: 0.021819053536349418
+ specif: 0.048792379982645226
+ standalon: 0.015311616516736432
+ type: 0.021819053536349418
+ user: 0.04409075673597485
+ web: 0.028326490555962404
+
+N-grams list: 10
+ end user applic
+ import architectur choic
+ relev inform ontolog
+ web site design
+ semant web content
+ semant web browser
+ singl represent end
+ import sociolog forc
+ inappropri choic
+ web browser
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

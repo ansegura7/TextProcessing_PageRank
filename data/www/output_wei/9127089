@@ -1,0 +1,55 @@
+File name: 9127089
+
+Graph edges count: 12
+ adapt - distanc: 1
+ ambigu - problem: 1
+ baselin - method: 1
+ challeng - issu: 1
+ disambigu - problem: 1
+ distanc - measur: 1
+ dynam - approach: 1
+ experiment - result: 1
+ long - histori: 1
+ person - number: 1
+ probabilist - model: 1
+ unifi - framework: 2
+
+PageRank scores count: 22
+ adapt: 0.030374364036752994
+ ambigu: 0.030374364036752994
+ approach: 0.056192573467993036
+ baselin: 0.030374364036752994
+ challeng: 0.030374364036752994
+ disambigu: 0.030374364036752994
+ distanc: 0.056192573467993036
+ dynam: 0.030374364036752994
+ experiment: 0.030374364036752994
+ framework: 0.056192573467993036
+ histori: 0.056192573467993036
+ issu: 0.056192573467993036
+ long: 0.030374364036752994
+ measur: 0.07813805148454707
+ method: 0.056192573467993036
+ model: 0.056192573467993036
+ number: 0.056192573467993036
+ person: 0.030374364036752994
+ probabilist: 0.030374364036752994
+ problem: 0.08201078289923308
+ result: 0.056192573467993036
+ unifi: 0.030374364036752994
+
+N-grams list: 10
+ adapt distanc measur
+ disambigu problem
+ ambigu problem
+ probabilist model
+ unifi framework
+ baselin method
+ person number
+ dynam approach
+ challeng issu
+ experiment result
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

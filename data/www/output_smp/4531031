@@ -1,0 +1,77 @@
+File name: 4531031
+
+Graph edges count: 21
+ arbitrari - scale: 1
+ backend - system: 1
+ challeng - task: 1
+ cover - problem: 1
+ data - structur: 1
+ effici - backend: 1
+ effici - gener: 1
+ flickr - servic: 1
+ imag - share: 1
+ interest - tag: 2
+ interv - cover: 1
+ larg - dataset: 1
+ onlin - imag: 1
+ past - year: 1
+ previou - work: 1
+ real - time: 1
+ score - aggreg: 1
+ share - commun: 1
+ system - capabl: 1
+ web - browser: 1
+ year - user: 1
+
+PageRank scores count: 35
+ aggreg: 0.03251607403558534
+ arbitrari: 0.017576256235451535
+ backend: 0.025046165135518442
+ browser: 0.03251607403558534
+ capabl: 0.05061192834599741
+ challeng: 0.017576256235451535
+ commun: 0.05600893752629575
+ cover: 0.03251607403558534
+ data: 0.017576256235451535
+ dataset: 0.03251607403558534
+ effici: 0.017576256235451535
+ flickr: 0.017576256235451535
+ gener: 0.025046165135518442
+ imag: 0.03251607403558534
+ interest: 0.017576256235451535
+ interv: 0.017576256235451535
+ larg: 0.017576256235451535
+ onlin: 0.017576256235451535
+ past: 0.017576256235451535
+ previou: 0.017576256235451535
+ problem: 0.04521491916569908
+ real: 0.017576256235451535
+ scale: 0.03251607403558534
+ score: 0.017576256235451535
+ servic: 0.03251607403558534
+ share: 0.04521491916569908
+ structur: 0.03251607403558534
+ system: 0.038865496600642216
+ tag: 0.03251607403558534
+ task: 0.03251607403558534
+ time: 0.03251607403558534
+ user: 0.04521491916569908
+ web: 0.017576256235451535
+ work: 0.03251607403558534
+ year: 0.03251607403558534
+
+N-grams list: 10
+ past year user
+ interv cover problem
+ onlin imag share
+ effici backend system
+ commun
+ capabl
+ arbitrari scale
+ flickr servic
+ previou work
+ challeng task
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

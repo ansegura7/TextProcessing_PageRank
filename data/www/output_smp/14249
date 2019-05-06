@@ -1,0 +1,41 @@
+File name: 14249
+
+Graph edges count: 7
+ assign - bandwidth: 1
+ experiment - result: 1
+ fetcher - thread: 1
+ futur - download: 1
+ optim - number: 1
+ transfer - rate: 1
+ web - crawler: 1
+
+PageRank scores count: 14
+ assign: 0.05012531328320803
+ bandwidth: 0.09273182957393485
+ crawler: 0.09273182957393485
+ download: 0.09273182957393485
+ experiment: 0.05012531328320803
+ fetcher: 0.05012531328320803
+ futur: 0.05012531328320803
+ number: 0.09273182957393485
+ optim: 0.05012531328320803
+ rate: 0.09273182957393485
+ result: 0.09273182957393485
+ thread: 0.09273182957393485
+ transfer: 0.05012531328320803
+ web: 0.05012531328320803
+
+N-grams list: 9
+ assign bandwidth
+ fetcher thread
+ futur download
+ transfer rate
+ optim number
+ web crawler
+ experiment result
+ bandwidth
+ crawler
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

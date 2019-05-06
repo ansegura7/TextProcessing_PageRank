@@ -1,0 +1,63 @@
+File name: 8932777
+
+Graph edges count: 17
+ audio - brows: 2
+ audio - browsabl: 1
+ automat - partition: 1
+ browsabl - content: 1
+ hearsai - system: 1
+ hypertext - content: 1
+ hypertext - web: 2
+ initi - system: 1
+ kei - technologi: 1
+ semant - analysi: 1
+ semant - structur: 1
+ softwar - compon: 1
+ standard - technologi: 1
+ system - evalu: 1
+ voic - dialog: 1
+ web - docum: 3
+ xml - output: 1
+
+PageRank scores count: 25
+ analysi: 0.036475331157611826
+ audio: 0.02559672361937672
+ automat: 0.02559672361937672
+ brows: 0.036475331157611826
+ browsabl: 0.036475331157611826
+ compon: 0.04735393869584693
+ content: 0.06747936264158187
+ dialog: 0.04735393869584693
+ docum: 0.056600755103346764
+ evalu: 0.08434120432584628
+ hearsai: 0.02559672361937672
+ hypertext: 0.02559672361937672
+ initi: 0.02559672361937672
+ kei: 0.02559672361937672
+ output: 0.04735393869584693
+ partition: 0.04735393869584693
+ semant: 0.02559672361937672
+ softwar: 0.02559672361937672
+ standard: 0.02559672361937672
+ structur: 0.036475331157611826
+ system: 0.06911115377231714
+ technologi: 0.06911115377231714
+ voic: 0.02559672361937672
+ web: 0.036475331157611826
+ xml: 0.02559672361937672
+
+N-grams list: 10
+ initi system evalu
+ audio browsabl content
+ hypertext web docum
+ kei technologi
+ standard technologi
+ hearsai system
+ hypertext content
+ web docum
+ automat partition
+ xml output
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

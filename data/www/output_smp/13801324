@@ -1,0 +1,93 @@
+File name: 13801324
+
+Graph edges count: 29
+ detail - analysi: 1
+ direct - audienc: 1
+ farm - problem: 1
+ follow - link: 1
+ futur - design: 1
+ import - implic: 1
+ larg - number: 1
+ link - farm: 5
+ link - spam: 1
+ new - stori: 1
+ popular - platform: 1
+ rank - scheme: 1
+ realtim - inform: 1
+ search - engin: 1
+ simpl - user: 1
+ small - fraction: 1
+ social - capit: 1
+ social - capitalist: 1
+ social - dynam: 1
+ social - network: 2
+ spammer - account: 1
+ spam - defens: 1
+ turn - impact: 1
+ twitter - network: 2
+ twitter - social: 1
+ twitter - user: 1
+ user - rank: 1
+ web - twitter: 1
+ wide - spread: 1
+
+PageRank scores count: 43
+ account: 0.02694415014736903
+ analysi: 0.02694415014736903
+ audienc: 0.02694415014736903
+ capit: 0.01928160402409669
+ capitalist: 0.01928160402409669
+ defens: 0.0366777243881061
+ design: 0.02694415014736903
+ detail: 0.014564405485064342
+ direct: 0.014564405485064342
+ dynam: 0.01928160402409669
+ engin: 0.02694415014736903
+ farm: 0.026015669297696182
+ follow: 0.014564405485064342
+ fraction: 0.02694415014736903
+ futur: 0.014564405485064342
+ impact: 0.02694415014736903
+ implic: 0.02694415014736903
+ import: 0.014564405485064342
+ inform: 0.02694415014736903
+ larg: 0.014564405485064342
+ link: 0.02694415014736903
+ network: 0.026915779899184585
+ new: 0.014564405485064342
+ number: 0.02694415014736903
+ platform: 0.02694415014736903
+ popular: 0.014564405485064342
+ problem: 0.0366777243881061
+ rank: 0.04395598260415273
+ realtim: 0.014564405485064342
+ scheme: 0.05192699069859416
+ search: 0.014564405485064342
+ simpl: 0.014564405485064342
+ small: 0.014564405485064342
+ social: 0.022198581360152233
+ spam: 0.026015669297696182
+ spammer: 0.014564405485064342
+ spread: 0.02694415014736903
+ stori: 0.02694415014736903
+ turn: 0.014564405485064342
+ twitter: 0.02694415014736903
+ user: 0.034578326022456925
+ web: 0.014564405485064342
+ wide: 0.014564405485064342
+
+N-grams list: 10
+ simpl user rank
+ link spam defens
+ link farm problem
+ twitter social network
+ twitter user
+ twitter network
+ link farm
+ scheme
+ social network
+ rank
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

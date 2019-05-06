@@ -1,0 +1,85 @@
+File name: 4347448
+
+Graph edges count: 30
+ custom - indic: 1
+ engin - search: 1
+ enterpr - net: 1
+ evalu - result: 1
+ gener - purpos: 1
+ high - precision: 1
+ high - qualiti: 1
+ home - page: 1
+ ibm - net: 1
+ intellig - gener: 1
+ keyword - search: 1
+ larg - enterpr: 1
+ navig - page: 1
+ navig - queri: 3
+ offlin - identif: 1
+ page - etc: 1
+ page - intellig: 1
+ page - servic: 1
+ person - home: 1
+ poor - result: 1
+ purpos - search: 1
+ qualiti - answer: 1
+ result - qualiti: 1
+ search - algorithm: 1
+ search - engin: 1
+ search - problem: 1
+ separ - indic: 1
+ servic - page: 1
+ view - point: 1
+ web - search: 1
+
+PageRank scores count: 34
+ algorithm: 0.04448920170232476
+ answer: 0.053640482682480665
+ custom: 0.012888150572436488
+ engin: 0.04448920170232476
+ enterpr: 0.023843078559007504
+ etc: 0.030372744898618784
+ evalu: 0.012888150572436488
+ gener: 0.038704983861917806
+ high: 0.012888150572436488
+ home: 0.023843078559007504
+ ibm: 0.012888150572436488
+ identif: 0.023843078559007504
+ indic: 0.03479800654557852
+ intellig: 0.030372744898618784
+ keyword: 0.012888150572436488
+ larg: 0.012888150572436488
+ navig: 0.012888150572436488
+ net: 0.04410969533416389
+ offlin: 0.012888150572436488
+ page: 0.06171033263371693
+ person: 0.012888150572436488
+ point: 0.023843078559007504
+ poor: 0.012888150572436488
+ precision: 0.018365614565722
+ problem: 0.04448920170232476
+ purpos: 0.04578738709495411
+ qualiti: 0.04794392012946373
+ queri: 0.021104346562364748
+ result: 0.03479800654557852
+ search: 0.11153311256352419
+ separ: 0.012888150572436488
+ servic: 0.030372744898618784
+ view: 0.012888150572436488
+ web: 0.012888150572436488
+
+N-grams list: 10
+ gener purpos search
+ web search engin
+ search problem
+ keyword search
+ servic page etc
+ high qualiti answer
+ search
+ navig page intellig
+ person home page
+ poor result qualiti
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

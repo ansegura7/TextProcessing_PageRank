@@ -1,0 +1,59 @@
+File name: 50272
+
+Graph edges count: 15
+ applic - object: 1
+ content - interac: 1
+ context - applic: 1
+ critic - elem: 1
+ current - situat: 1
+ kei - technologi: 1
+ profil - view: 1
+ requir - experi: 1
+ rich - vocabulari: 1
+ situationawar - servic: 1
+ situat - web: 2
+ web - applic: 1
+ web - architectur: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 23
+ applic: 0.08757974453558685
+ architectur: 0.06696775329750183
+ content: 0.024249401456570615
+ context: 0.024249401456570615
+ critic: 0.024249401456570615
+ current: 0.024249401456570615
+ elem: 0.044861392694655645
+ experi: 0.044861392694655645
+ interac: 0.044861392694655645
+ kei: 0.024249401456570615
+ object: 0.09869218431181945
+ profil: 0.024249401456570615
+ requir: 0.024249401456570615
+ rich: 0.024249401456570615
+ servic: 0.044861392694655645
+ situat: 0.044861392694655645
+ situationawar: 0.024249401456570615
+ technologi: 0.044861392694655645
+ view: 0.044861392694655645
+ vocabulari: 0.044861392694655645
+ web: 0.10051376903748521
+ wide: 0.044861392694655645
+ world: 0.024249401456570615
+
+N-grams list: 10
+ situat web applic
+ applic object
+ world wide web
+ web architectur
+ situat web
+ context applic
+ critic elem
+ kei technologi
+ profil view
+ situationawar servic
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

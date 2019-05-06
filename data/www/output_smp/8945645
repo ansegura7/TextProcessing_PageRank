@@ -1,0 +1,57 @@
+File name: 8945645
+
+Graph edges count: 15
+ actual - web: 1
+ adapt - queri: 1
+ central - search: 2
+ forward - problem: 1
+ learn - scheme: 1
+ local - adapt: 1
+ model - user: 1
+ network - applic: 2
+ queri - forward: 1
+ queri - respons: 1
+ respons - interac: 1
+ scalabl - limit: 1
+ search - engin: 3
+ simpl - learn: 1
+ web - search: 1
+
+PageRank scores count: 21
+ actual: 0.024800430163461184
+ adapt: 0.045880795802403194
+ applic: 0.045880795802403194
+ central: 0.024800430163461184
+ engin: 0.09694798156274019
+ forward: 0.051915050466550344
+ interac: 0.06892822306002898
+ learn: 0.045880795802403194
+ limit: 0.045880795802403194
+ local: 0.024800430163461184
+ model: 0.024800430163461184
+ network: 0.024800430163461184
+ problem: 0.06892822306002898
+ queri: 0.0637991065955039
+ respons: 0.051915050466550344
+ scalabl: 0.024800430163461184
+ scheme: 0.0637991065955039
+ search: 0.08487947223444589
+ simpl: 0.024800430163461184
+ user: 0.045880795802403194
+ web: 0.045880795802403194
+
+N-grams list: 10
+ central search engin
+ queri respons interac
+ queri forward problem
+ search engin
+ simpl learn scheme
+ web search
+ adapt queri
+ model user
+ local adapt
+ scalabl limit
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

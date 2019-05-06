@@ -1,0 +1,91 @@
+File name: 10030413
+
+Graph edges count: 32
+ associ - rule: 1
+ behavior - user: 1
+ commun - arm: 1
+ commun - recommend: 3
+ data - set: 2
+ dirichlet - alloc: 1
+ effect - commun: 1
+ empir - comparison: 1
+ largescal - data: 1
+ latent - aspect: 1
+ latent - behavior: 1
+ latent - dirichlet: 1
+ latent - inform: 1
+ latent - structur: 1
+ lowrank - latent: 1
+ model - lowrank: 1
+ model - usercommun: 1
+ network - servic: 1
+ onlin - interac: 1
+ orkut - commun: 1
+ orkut - data: 1
+ parallel - implement: 1
+ person - commun: 1
+ recommend - list: 1
+ recommend - metric: 1
+ recommend - task: 1
+ rule - mine: 1
+ social - network: 1
+ time - user: 1
+ topk - recommend: 1
+ usercommun - cooccurr: 1
+ user - latent: 1
+
+PageRank scores count: 38
+ alloc: 0.03623801732913914
+ arm: 0.03254471493722663
+ aspect: 0.026187152896942362
+ associ: 0.013978937959614125
+ behavior: 0.026187152896942362
+ commun: 0.04368418112379414
+ comparison: 0.02586103522528613
+ cooccurr: 0.03091092656319673
+ data: 0.03180208385812214
+ dirichlet: 0.026187152896942362
+ effect: 0.013978937959614125
+ empir: 0.013978937959614125
+ implement: 0.02586103522528613
+ inform: 0.026187152896942362
+ interac: 0.02586103522528613
+ largescal: 0.013978937959614125
+ latent: 0.07181303078686024
+ list: 0.026566534750435404
+ lowrank: 0.019919986592450128
+ metric: 0.026566534750435404
+ mine: 0.035960817901107334
+ model: 0.013978937959614125
+ network: 0.02586103522528613
+ onlin: 0.013978937959614125
+ orkut: 0.013978937959614125
+ parallel: 0.013978937959614125
+ person: 0.013978937959614125
+ recommend: 0.04442681220289864
+ rule: 0.02586103522528613
+ servic: 0.035960817901107334
+ set: 0.04101070923901794
+ social: 0.013978937959614125
+ structur: 0.026187152896942362
+ task: 0.026566534750435404
+ time: 0.013978937959614125
+ topk: 0.013978937959614125
+ user: 0.048120114594811136
+ usercommun: 0.019919986592450128
+
+N-grams list: 10
+ user latent behavior
+ latent dirichlet alloc
+ commun recommend task
+ model lowrank latent
+ effect commun recommend
+ person commun recommend
+ latent aspect
+ latent inform
+ orkut data set
+ largescal data set
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,41 @@
+File name: 4339859
+
+Graph edges count: 9
+ autonom - agent: 1
+ central - cf: 1
+ cf - approach: 1
+ cooper - agent: 1
+ decentr - cf: 1
+ overlai - network: 1
+ p2p - overlai: 1
+ sparsiti - problem: 1
+ tradition - central: 1
+
+PageRank scores count: 13
+ agent: 0.11178214901181473
+ approach: 0.16184088639104083
+ autonom: 0.041400795930301756
+ central: 0.07659147247105824
+ cf: 0.14169422407145776
+ cooper: 0.041400795930301756
+ decentr: 0.041400795930301756
+ network: 0.10650354753070126
+ overlai: 0.07659147247105824
+ p2p: 0.041400795930301756
+ problem: 0.07659147247105824
+ sparsiti: 0.041400795930301756
+ tradition: 0.041400795930301756
+
+N-grams list: 8
+ decentr cf approach
+ tradition central cf
+ p2p overlai network
+ approach
+ autonom agent
+ cooper agent
+ cf
+ sparsiti problem
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,67 @@
+File name: 13060796
+
+Graph edges count: 21
+ approv - vote: 1
+ contextdepend - relev: 1
+ contextu - model: 2
+ contextu - opinion: 2
+ contextu - relev: 1
+ docum - word: 1
+ facet - opinion: 1
+ grammat - tree: 1
+ languag - model: 1
+ model - bm25: 1
+ model - evalu: 1
+ opinion - docum: 1
+ opinion - retriev: 5
+ opinion - threshold: 1
+ queri - term: 2
+ relev - result: 1
+ retriev - techniqu: 1
+ sentencelevel - contextu: 2
+ stateoftheart - techniqu: 1
+ tree - deriv: 1
+ vote - mechan: 1
+
+PageRank scores count: 25
+ approv: 0.022019068452115452
+ bm25: 0.04423676725089269
+ contextdepend: 0.022019068452115452
+ contextu: 0.04073527663641358
+ deriv: 0.056644053593067005
+ docum: 0.036830867651300274
+ evalu: 0.04423676725089269
+ facet: 0.022019068452115452
+ grammat: 0.022019068452115452
+ languag: 0.022019068452115452
+ mechan: 0.056644053593067005
+ model: 0.052276938350064105
+ opinion: 0.052276938350064105
+ queri: 0.022019068452115452
+ relev: 0.052276938350064105
+ result: 0.06645446604966994
+ retriev: 0.036830867651300274
+ sentencelevel: 0.022019068452115452
+ stateoftheart: 0.022019068452115452
+ techniqu: 0.07204151414001882
+ term: 0.04073527663641358
+ threshold: 0.036830867651300274
+ tree: 0.04073527663641358
+ vote: 0.04073527663641358
+ word: 0.05332530595572069
+
+N-grams list: 10
+ opinion retriev techniqu
+ opinion docum word
+ contextdepend relev result
+ contextu model bm25
+ contextu opinion retriev
+ grammat tree deriv
+ approv vote mechan
+ sentencelevel contextu opinion
+ sentencelevel contextu model
+ facet opinion retriev
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

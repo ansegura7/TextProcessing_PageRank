@@ -1,0 +1,73 @@
+File name: 4623375
+
+Graph edges count: 22
+ auction - fraud: 1
+ auction - network: 1
+ auction - user: 2
+ belief - propag: 1
+ fraudul - node: 1
+ fraud - detec: 2
+ hidden - network: 1
+ increment - netprob: 1
+ larg - onlin: 1
+ markov - random: 1
+ model - auction: 1
+ netprob - model: 1
+ onlin - auction: 2
+ onlin - network: 1
+ propag - mechan: 1
+ random - field: 1
+ realist - respons: 1
+ real - dataset: 1
+ respons - time: 1
+ scalabl - system: 1
+ suspici - pattern: 1
+ synthet - graph: 1
+
+PageRank scores count: 30
+ auction: 0.07278611472627647
+ belief: 0.01832076637857382
+ dataset: 0.03389341780036157
+ detec: 0.051422740430273145
+ field: 0.04713017150888116
+ fraud: 0.03894349888435215
+ fraudul: 0.01832076637857382
+ graph: 0.03389341780036157
+ hidden: 0.01832076637857382
+ increment: 0.01832076637857382
+ larg: 0.01832076637857382
+ markov: 0.01832076637857382
+ mechan: 0.04713017150888116
+ model: 0.04713017150888116
+ netprob: 0.03389341780036157
+ network: 0.06892085287129357
+ node: 0.03389341780036157
+ onlin: 0.03389341780036157
+ pattern: 0.03389341780036157
+ propag: 0.03389341780036157
+ random: 0.03389341780036157
+ real: 0.01832076637857382
+ realist: 0.01832076637857382
+ respons: 0.03389341780036157
+ scalabl: 0.01832076637857382
+ suspici: 0.01832076637857382
+ synthet: 0.01832076637857382
+ system: 0.03389341780036157
+ time: 0.04713017150888116
+ user: 0.03894349888435215
+
+N-grams list: 10
+ onlin auction network
+ netprob model auction
+ onlin auction user
+ larg onlin network
+ auction fraud
+ realist respons time
+ belief propag mechan
+ markov random field
+ fraud detec
+ hidden network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

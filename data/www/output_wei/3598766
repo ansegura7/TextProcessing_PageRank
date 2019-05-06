@@ -1,0 +1,67 @@
+File name: 3598766
+
+Graph edges count: 19
+ access - pattern: 1
+ automata - autonom: 1
+ autonom - websit: 1
+ base - techniqu: 1
+ behavior - pattern: 1
+ fsm - model: 1
+ gener - algorithm: 1
+ gener - class: 1
+ import - compon: 1
+ larg - number: 1
+ learningautomata - base: 1
+ learn - automata: 1
+ live - dataset: 1
+ model - discoveri: 1
+ predic - hitrat: 1
+ real - websit: 1
+ small - number: 1
+ user - access: 1
+ user - behavior: 1
+
+PageRank scores count: 27
+ access: 0.031197576440903846
+ algorithm: 0.031197576440903846
+ automata: 0.0405021167829278
+ autonom: 0.05631983536436852
+ base: 0.0405021167829278
+ behavior: 0.031197576440903846
+ class: 0.031197576440903846
+ compon: 0.0405021167829278
+ dataset: 0.0405021167829278
+ discoveri: 0.05631983536436852
+ fsm: 0.02189303609887989
+ gener: 0.02189303609887989
+ hitrat: 0.0405021167829278
+ import: 0.02189303609887989
+ larg: 0.02189303609887989
+ learn: 0.02189303609887989
+ learningautomata: 0.02189303609887989
+ live: 0.02189303609887989
+ model: 0.0405021167829278
+ number: 0.0591111974669757
+ pattern: 0.07492891604841642
+ predic: 0.02189303609887989
+ real: 0.02189303609887989
+ small: 0.02189303609887989
+ techniqu: 0.05631983536436852
+ user: 0.02189303609887989
+ websit: 0.08837397684264105
+
+N-grams list: 10
+ autonom websit
+ user access pattern
+ learningautomata base techniqu
+ learn automata autonom
+ real websit
+ behavior pattern
+ model discoveri
+ websit
+ larg number
+ small number
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

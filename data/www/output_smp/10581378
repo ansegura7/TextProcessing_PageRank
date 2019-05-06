@@ -1,0 +1,80 @@
+File name: 10581378
+
+Graph edges count: 24
+ approxim - algorithm: 3
+ common - object: 1
+ commun - detec: 3
+ commun - qualiti: 1
+ consider - interest: 1
+ detec - algorithm: 1
+ detec - method: 1
+ empir - comparison: 1
+ extern - connect: 1
+ good - commun: 1
+ inform - network: 1
+ intern - connect: 1
+ larg - realworld: 1
+ larg - social: 1
+ network - cluster: 1
+ network - commun: 3
+ nonobvi - sizedepend: 1
+ object - function: 5
+ optim - problem: 1
+ realworld - graph: 1
+ rel - perform: 1
+ sizedepend - behavior: 1
+ sizeresolv - version: 1
+ systemat - bias: 1
+
+PageRank scores count: 35
+ algorithm: 0.04837489653627048
+ approxim: 0.017583373557589852
+ behavior: 0.04523322847689989
+ bias: 0.032529241081541226
+ cluster: 0.03140830101724487
+ common: 0.017583373557589852
+ commun: 0.04635416854119625
+ comparison: 0.032529241081541226
+ connect: 0.0474751086054926
+ consider: 0.017583373557589852
+ detec: 0.03728389518759826
+ empir: 0.017583373557589852
+ extern: 0.017583373557589852
+ function: 0.04523322847689989
+ good: 0.017583373557589852
+ graph: 0.038881234779220564
+ inform: 0.017583373557589852
+ interest: 0.032529241081541226
+ intern: 0.017583373557589852
+ larg: 0.017583373557589852
+ method: 0.03342902901231911
+ network: 0.032529241081541226
+ nonobvi: 0.017583373557589852
+ object: 0.032529241081541226
+ optim: 0.017583373557589852
+ perform: 0.032529241081541226
+ problem: 0.032529241081541226
+ qualiti: 0.03728389518759826
+ realworld: 0.02505630731956554
+ rel: 0.017583373557589852
+ sizedepend: 0.032529241081541226
+ sizeresolv: 0.017583373557589852
+ social: 0.02505630731956554
+ systemat: 0.017583373557589852
+ version: 0.032529241081541226
+
+N-grams list: 10
+ commun detec algorithm
+ network commun detec
+ common object function
+ nonobvi sizedepend behavior
+ commun qualiti
+ larg realworld graph
+ network commun
+ object function
+ approxim algorithm
+ intern connect
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

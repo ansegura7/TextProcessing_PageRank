@@ -1,0 +1,108 @@
+File name: 4297
+
+Graph edges count: 35
+ addition - save: 1
+ cach - placem: 2
+ ceoemploye - town: 1
+ divers - set: 1
+ effici - algorithm: 1
+ extens - simul: 1
+ flowbas - solution: 1
+ frame - relai: 1
+ gener - problem: 1
+ hall - meet: 1
+ heurist - solution: 1
+ implement - complex: 1
+ internet - protocol: 1
+ larg - compani: 1
+ live - content: 1
+ multipl - heurist: 1
+ optim - cach: 1
+ perform - isol: 1
+ placem - suitabl: 1
+ privat - network: 1
+ public - internet: 1
+ relai - mpl: 1
+ remot - locat: 1
+ robust - cach: 1
+ robust - stream: 1
+ secur - network: 1
+ singl - secur: 1
+ standard - internet: 1
+ stream - cach: 1
+ stream - splitter: 1
+ town - hall: 1
+ tremend - interest: 1
+ virtual - privat: 1
+ vpn - endpoint: 1
+ vpn - todai: 1
+
+PageRank scores count: 52
+ addition: 0.011156336692035654
+ algorithm: 0.020639222880265956
+ cach: 0.03213722238349521
+ ceoemploye: 0.011156336692035654
+ compani: 0.020639222880265956
+ complex: 0.020639222880265956
+ content: 0.020639222880265956
+ divers: 0.011156336692035654
+ effici: 0.011156336692035654
+ endpoint: 0.015897779786150805
+ extens: 0.011156336692035654
+ flowbas: 0.011156336692035654
+ frame: 0.011156336692035654
+ gener: 0.011156336692035654
+ hall: 0.02869967614026172
+ heurist: 0.020639222880265956
+ implement: 0.011156336692035654
+ interest: 0.020639222880265956
+ internet: 0.030122109068496262
+ isol: 0.020639222880265956
+ larg: 0.011156336692035654
+ live: 0.011156336692035654
+ locat: 0.020639222880265956
+ meet: 0.03555106141125811
+ mpl: 0.02869967614026172
+ multipl: 0.011156336692035654
+ network: 0.04624301558848778
+ optim: 0.011156336692035654
+ perform: 0.011156336692035654
+ placem: 0.03847297571800658
+ privat: 0.020639222880265956
+ problem: 0.020639222880265956
+ protocol: 0.036760129400257475
+ public: 0.011156336692035654
+ relai: 0.020639222880265956
+ remot: 0.011156336692035654
+ robust: 0.011156336692035654
+ save: 0.020639222880265956
+ secur: 0.020639222880265956
+ set: 0.020639222880265956
+ simul: 0.020639222880265956
+ singl: 0.011156336692035654
+ solution: 0.03818256232849202
+ splitter: 0.017912893101149744
+ standard: 0.011156336692035654
+ stream: 0.015897779786150805
+ suitabl: 0.043858366052341245
+ todai: 0.015897779786150805
+ town: 0.020639222880265956
+ tremend: 0.011156336692035654
+ virtual: 0.011156336692035654
+ vpn: 0.011156336692035654
+
+N-grams list: 10
+ optim cach placem
+ robust cach placem
+ standard internet protocol
+ singl secur network
+ virtual privat network
+ ceoemploye town hall
+ frame relai mpl
+ heurist solution
+ flowbas solution
+ stream cach
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

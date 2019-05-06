@@ -1,0 +1,56 @@
+File name: 4059849
+
+Graph edges count: 16
+ base - measur: 1
+ content - analysi: 1
+ content - link: 1
+ link - analysi: 1
+ link - base: 1
+ link - inform: 1
+ link - similar: 1
+ massiv - number: 1
+ page - pair: 1
+ rank - web: 1
+ relev - approxim: 1
+ search - tool: 1
+ semant - associ: 1
+ semant - similar: 3
+ similar - measur: 2
+ web - page: 2
+
+PageRank scores count: 19
+ analysi: 0.0545974315804026
+ approxim: 0.05845845450460905
+ associ: 0.04502880955084751
+ base: 0.04116778662664107
+ content: 0.03159916459708597
+ inform: 0.04116778662664107
+ link: 0.04502880955084751
+ massiv: 0.03159916459708597
+ measur: 0.1129996000730731
+ number: 0.05845845450460905
+ page: 0.08128885092600366
+ pair: 0.10069468788418909
+ rank: 0.03159916459708597
+ relev: 0.03159916459708597
+ search: 0.03159916459708597
+ semant: 0.03159916459708597
+ similar: 0.0545974315804026
+ tool: 0.05845845450460905
+ web: 0.05845845450460905
+
+N-grams list: 10
+ web page pair
+ semant similar measur
+ link base measur
+ rank web page
+ similar measur
+ link analysi
+ link similar
+ search tool
+ relev approxim
+ massiv number
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

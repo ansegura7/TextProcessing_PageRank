@@ -1,0 +1,99 @@
+File name: 7029529
+
+Graph edges count: 31
+ actual - bid: 1
+ auction - mechan: 1
+ bayesian - model: 1
+ chain - mont: 1
+ consum - spend: 1
+ crosssel - opportun: 1
+ detail - analysi: 1
+ electron - market: 1
+ engin - advertis: 1
+ final - rank: 1
+ firm - behavior: 1
+ hierarch - bayesian: 1
+ keyword - advertis: 3
+ level - variabl: 1
+ markov - chain: 1
+ model - framework: 1
+ mont - carlo: 1
+ multipl - product: 1
+ onlin - advertis: 1
+ optim - bid: 1
+ polici - simul: 1
+ primari - form: 1
+ prior - work: 1
+ product - categori: 2
+ product - level: 1
+ purchas - order: 1
+ search - advertis: 2
+ search - engin: 3
+ search - keyword: 1
+ signific - potenti: 1
+ spillov - effect: 1
+
+PageRank scores count: 47
+ actual: 0.013022405319652574
+ advertis: 0.056191678954300855
+ analysi: 0.024091449841357263
+ auction: 0.013022405319652574
+ bayesian: 0.024091449841357263
+ behavior: 0.024091449841357263
+ bid: 0.03516049436306195
+ carlo: 0.041497522351737884
+ categori: 0.02326127150222941
+ chain: 0.024091449841357263
+ consum: 0.013022405319652574
+ crosssel: 0.013022405319652574
+ detail: 0.013022405319652574
+ effect: 0.024091449841357263
+ electron: 0.013022405319652574
+ engin: 0.01671208682688747
+ final: 0.013022405319652574
+ firm: 0.013022405319652574
+ form: 0.024091449841357263
+ framework: 0.041497522351737884
+ hierarch: 0.013022405319652574
+ keyword: 0.01671208682688747
+ level: 0.02326127150222941
+ market: 0.024091449841357263
+ markov: 0.013022405319652574
+ mechan: 0.024091449841357263
+ model: 0.033500137684806246
+ mont: 0.033500137684806246
+ multipl: 0.013022405319652574
+ onlin: 0.013022405319652574
+ opportun: 0.024091449841357263
+ optim: 0.013022405319652574
+ order: 0.024091449841357263
+ polici: 0.013022405319652574
+ potenti: 0.024091449841357263
+ primari: 0.013022405319652574
+ prior: 0.013022405319652574
+ product: 0.024091449841357263
+ purchas: 0.013022405319652574
+ rank: 0.024091449841357263
+ search: 0.013022405319652574
+ signific: 0.013022405319652574
+ simul: 0.024091449841357263
+ spend: 0.024091449841357263
+ spillov: 0.013022405319652574
+ variabl: 0.03279448609654757
+ work: 0.024091449841357263
+
+N-grams list: 10
+ search engin advertis
+ search keyword advertis
+ product level variabl
+ keyword advertis
+ markov chain mont
+ hierarch bayesian model
+ onlin advertis
+ search advertis
+ multipl product categori
+ advertis
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

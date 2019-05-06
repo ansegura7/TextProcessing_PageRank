@@ -1,0 +1,72 @@
+File name: 13386371
+
+Graph edges count: 24
+ adapt - develop: 1
+ behavior - descrip: 1
+ busi - protocol: 1
+ depthbas - interfac: 1
+ function - descrip: 1
+ interfac - match: 4
+ iter - referencebas: 1
+ match - algorithm: 1
+ match - approach: 1
+ onlin - web: 1
+ protocolawar - match: 1
+ protocolawar - servic: 1
+ protocol - defini: 1
+ rapid - growth: 1
+ realworld - web: 1
+ referencebas - interfac: 1
+ semiautom - match: 1
+ servic - adapt: 1
+ servic - descrip: 1
+ servic - interfac: 2
+ servic - oper: 1
+ signific - atten: 1
+ signific - improv: 1
+ web - servic: 3
+
+PageRank scores count: 27
+ adapt: 0.03253525057208118
+ algorithm: 0.06339551721304189
+ approach: 0.06339551721304189
+ atten: 0.025893734747397763
+ behavior: 0.01817104192799843
+ busi: 0.01817104192799843
+ defini: 0.04674500535977596
+ depthbas: 0.01817104192799843
+ descrip: 0.06342602184967852
+ develop: 0.045826004914267436
+ function: 0.01817104192799843
+ growth: 0.03361642756679709
+ improv: 0.025893734747397763
+ interfac: 0.07655459964265739
+ iter: 0.01817104192799843
+ match: 0.1064105300824552
+ onlin: 0.01817104192799843
+ oper: 0.03253525057208118
+ protocol: 0.03361642756679709
+ protocolawar: 0.01817104192799843
+ rapid: 0.01817104192799843
+ realworld: 0.01817104192799843
+ referencebas: 0.03361642756679709
+ semiautom: 0.01817104192799843
+ servic: 0.06759627597215415
+ signific: 0.01817104192799843
+ web: 0.04906181320559575
+
+N-grams list: 10
+ depthbas interfac match
+ web servic interfac
+ semiautom match approach
+ interfac match
+ match algorithm
+ protocolawar servic interfac
+ realworld web servic
+ onlin web servic
+ servic descrip
+ iter referencebas interfac
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

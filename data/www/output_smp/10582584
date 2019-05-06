@@ -1,0 +1,49 @@
+File name: 10582584
+
+Graph edges count: 11
+ browser - exten: 2
+ cach - local: 1
+ claim - databas: 1
+ design - decision: 1
+ disput - claim: 5
+ disput - finder: 6
+ entail - algorithm: 1
+ local - copi: 1
+ simpl - textual: 1
+ textual - entail: 1
+ web - site: 1
+
+PageRank scores count: 17
+ algorithm: 0.11125367128823485
+ browser: 0.03491269643846856
+ cach: 0.03491269643846856
+ claim: 0.0497505924248177
+ copi: 0.08981291158796036
+ databas: 0.07720069999956361
+ decision: 0.06458848841116684
+ design: 0.03491269643846856
+ disput: 0.03491269643846856
+ entail: 0.08981291158796036
+ exten: 0.06458848841116684
+ finder: 0.0497505924248177
+ local: 0.06458848841116684
+ simpl: 0.03491269643846856
+ site: 0.06458848841116684
+ textual: 0.06458848841116684
+ web: 0.03491269643846856
+
+N-grams list: 10
+ cach local copi
+ simpl textual entail
+ claim databas
+ algorithm
+ design decision
+ browser exten
+ web site
+ disput finder
+ disput claim
+ databas
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

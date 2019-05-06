@@ -1,0 +1,40 @@
+File name: 4437005
+
+Graph edges count: 8
+ allright - project: 1
+ bottomup - tabl: 1
+ preliminari - evalu: 1
+ tabl - detec: 2
+ unsupervis - tabl: 1
+ visual - rendition: 1
+ web - docum: 2
+ web - page: 1
+
+PageRank scores count: 13
+ allright: 0.04903162539838195
+ bottomup: 0.04903162539838195
+ detec: 0.1615592056876685
+ docum: 0.06987006619269427
+ evalu: 0.0907085069870066
+ page: 0.06987006619269427
+ preliminari: 0.04903162539838195
+ project: 0.0907085069870066
+ rendition: 0.0907085069870066
+ tabl: 0.13238538857563126
+ unsupervis: 0.04903162539838195
+ visual: 0.04903162539838195
+ web: 0.04903162539838195
+
+N-grams list: 8
+ unsupervis tabl detec
+ bottomup tabl detec
+ visual rendition
+ allright project
+ preliminari evalu
+ web page
+ web docum
+ bottomup
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

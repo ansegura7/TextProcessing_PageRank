@@ -1,0 +1,73 @@
+File name: 408689
+
+Graph edges count: 22
+ adapt - privaci: 1
+ cluster - engin: 2
+ commod - search: 1
+ complementari - view: 1
+ current - search: 1
+ efficaci - perform: 1
+ engin - vivisimocom: 1
+ flatrank - list: 1
+ folder - label: 1
+ hierarch - cluster: 3
+ inform - polysem: 1
+ label - folder: 1
+ opensourc - system: 1
+ person - search: 2
+ poor - queri: 1
+ preserv - scalabl: 1
+ privaci - preserv: 1
+ search - engin: 6
+ search - result: 2
+ variablelength - sentenc: 1
+ websnippet - cluster: 1
+ websnippet - hierarch: 1
+
+PageRank scores count: 30
+ adapt: 0.015197764953361939
+ cluster: 0.04006510785830041
+ commod: 0.015197764953361939
+ complementari: 0.015197764953361939
+ current: 0.015197764953361939
+ efficaci: 0.015197764953361939
+ engin: 0.07218273450630211
+ flatrank: 0.015197764953361939
+ folder: 0.1013184330224129
+ hierarch: 0.021656815058540762
+ inform: 0.015197764953361939
+ label: 0.1013184330224129
+ list: 0.028115865163719587
+ opensourc: 0.015197764953361939
+ perform: 0.028115865163719587
+ person: 0.015197764953361939
+ polysem: 0.028115865163719587
+ poor: 0.015197764953361939
+ preserv: 0.039096250342523585
+ privaci: 0.028115865163719587
+ queri: 0.028115865163719587
+ result: 0.038127392826746764
+ scalabl: 0.048429577744506985
+ search: 0.053952065584434876
+ sentenc: 0.028115865163719587
+ system: 0.028115865163719587
+ variablelength: 0.015197764953361939
+ view: 0.028115865163719587
+ vivisimocom: 0.07655308928371872
+ websnippet: 0.015197764953361939
+
+N-grams list: 10
+ folder label
+ label folder
+ engin vivisimocom
+ current search engin
+ person search engin
+ commod search engin
+ hierarch cluster engin
+ websnippet cluster engin
+ search engin
+ search result
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,92 @@
+File name: 13063954
+
+Graph edges count: 27
+ account - signup: 1
+ activ - bia: 2
+ brandrelev - search: 1
+ campaign - signal: 1
+ causal - effect: 1
+ competit - effect: 1
+ control - experi: 1
+ divers - websit: 1
+ experi - exposur: 1
+ expos - group: 1
+ incorrect - estim: 1
+ massiv - overestim: 1
+ match - control: 1
+ myriad - activ: 1
+ observ - data: 1
+ observ - method: 1
+ onlin - advertis: 1
+ onlin - behavior: 1
+ page - view: 1
+ peopl - signup: 1
+ prior - behavior: 1
+ publish - industri: 1
+ recent - histori: 1
+ search - queri: 1
+ surpris - amount: 1
+ timebas - correl: 1
+ user - behavior: 1
+
+PageRank scores count: 44
+ account: 0.014544581870542306
+ activ: 0.026907476460503264
+ advertis: 0.020726029165522786
+ amount: 0.026907476460503264
+ behavior: 0.0454518183454447
+ bia: 0.03741593686197008
+ brandrelev: 0.014544581870542306
+ campaign: 0.014544581870542306
+ causal: 0.014544581870542306
+ competit: 0.014544581870542306
+ control: 0.026907476460503264
+ correl: 0.026907476460503264
+ data: 0.020726029165522786
+ divers: 0.014544581870542306
+ effect: 0.03927037105046423
+ estim: 0.026907476460503264
+ experi: 0.03741593686197008
+ expos: 0.014544581870542306
+ exposur: 0.046348128203216876
+ group: 0.026907476460503264
+ histori: 0.026907476460503264
+ incorrect: 0.014544581870542306
+ industri: 0.026907476460503264
+ massiv: 0.014544581870542306
+ match: 0.014544581870542306
+ method: 0.020726029165522786
+ myriad: 0.014544581870542306
+ observ: 0.014544581870542306
+ onlin: 0.014544581870542306
+ overestim: 0.026907476460503264
+ page: 0.014544581870542306
+ peopl: 0.014544581870542306
+ prior: 0.014544581870542306
+ publish: 0.014544581870542306
+ queri: 0.03741593686197008
+ recent: 0.014544581870542306
+ search: 0.026907476460503264
+ signal: 0.026907476460503264
+ signup: 0.03927037105046423
+ surpris: 0.014544581870542306
+ timebas: 0.014544581870542306
+ user: 0.014544581870542306
+ view: 0.026907476460503264
+ websit: 0.026907476460503264
+
+N-grams list: 10
+ experi exposur
+ brandrelev search queri
+ activ bia
+ control experi
+ prior behavior
+ onlin behavior
+ user behavior
+ account signup
+ competit effect
+ causal effect
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

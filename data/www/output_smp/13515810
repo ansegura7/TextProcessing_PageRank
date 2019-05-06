@@ -1,0 +1,52 @@
+File name: 13515810
+
+Graph edges count: 13
+ book - review: 1
+ capabl - user: 1
+ case - user: 1
+ control - store: 1
+ easi - access: 1
+ person - expres: 2
+ rate - review: 1
+ recommend - blog: 1
+ review - recommend: 1
+ search - web: 1
+ social - network: 2
+ social - search: 1
+ user - control: 1
+
+PageRank scores count: 18
+ access: 0.05232973389623156
+ blog: 0.10750931681410926
+ book: 0.028286342646611656
+ capabl: 0.028286342646611656
+ case: 0.028286342646611656
+ control: 0.0932034990205854
+ easi: 0.028286342646611656
+ expres: 0.05232973389623156
+ network: 0.040308038271421605
+ person: 0.028286342646611656
+ rate: 0.028286342646611656
+ recommend: 0.0932034990205854
+ review: 0.07637312514585147
+ search: 0.040308038271421605
+ social: 0.028286342646611656
+ store: 0.10750931681410926
+ user: 0.07637312514585147
+ web: 0.06254817517732002
+
+N-grams list: 10
+ user control store
+ rate review recommend
+ social search web
+ blog
+ book review
+ case user
+ capabl user
+ person expres
+ easi access
+ user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

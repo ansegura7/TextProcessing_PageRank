@@ -1,0 +1,70 @@
+File name: 13512950
+
+Graph edges count: 19
+ adapt - bid: 1
+ advertis - campaign: 1
+ auctionbas - marketplac: 1
+ bid - agent: 2
+ cpm - basi: 1
+ displai - ad: 2
+ displai - advertis: 2
+ distribu - p: 1
+ extern - bid: 1
+ full - inform: 1
+ inform - set: 1
+ media - exchang: 1
+ observ - case: 1
+ observ - set: 2
+ onlin - learn: 1
+ perform - guarante: 1
+ target - quantiti: 1
+ uniform - close: 1
+ unknown - distribu: 1
+
+PageRank scores count: 30
+ ad: 0.029873430989753924
+ adapt: 0.02096381122087995
+ advertis: 0.029873430989753924
+ agent: 0.06907575797279943
+ auctionbas: 0.02096381122087995
+ basi: 0.0387830507586279
+ bid: 0.056602290296375854
+ campaign: 0.04635622756217078
+ case: 0.029873430989753924
+ close: 0.0387830507586279
+ cpm: 0.02096381122087995
+ displai: 0.02096381122087995
+ distribu: 0.0387830507586279
+ exchang: 0.0387830507586279
+ extern: 0.02096381122087995
+ full: 0.02096381122087995
+ guarante: 0.0387830507586279
+ inform: 0.0387830507586279
+ learn: 0.0387830507586279
+ marketplac: 0.0387830507586279
+ media: 0.02096381122087995
+ observ: 0.02096381122087995
+ onlin: 0.02096381122087995
+ p: 0.05392940436571367
+ perform: 0.02096381122087995
+ quantiti: 0.0387830507586279
+ set: 0.06283902413458764
+ target: 0.02096381122087995
+ uniform: 0.02096381122087995
+ unknown: 0.02096381122087995
+
+N-grams list: 10
+ bid agent
+ full inform set
+ unknown distribu p
+ displai advertis campaign
+ observ set
+ adapt bid
+ extern bid
+ agent
+ set
+ perform guarante
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

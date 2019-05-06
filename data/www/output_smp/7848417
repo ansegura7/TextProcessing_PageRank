@@ -1,0 +1,67 @@
+File name: 7848417
+
+Graph edges count: 21
+ adapt - mechan: 1
+ approach - suitabl: 1
+ aspectori - approach: 1
+ bpel - environ: 1
+ bpel - interfac: 1
+ bpel - process: 1
+ chosen - replac: 1
+ dynam - process: 1
+ highavail - bpel: 1
+ nonintrus - monitor: 1
+ partner - servic: 1
+ penalti - cost: 1
+ perform - penalti: 1
+ process - servic: 1
+ replac - servic: 1
+ replac - strategi: 1
+ servic - adapt: 1
+ servic - process: 1
+ soap - messag: 1
+ web - servic: 1
+ wsbpel - web: 1
+
+PageRank scores count: 25
+ adapt: 0.08760142145266409
+ approach: 0.031510866786360024
+ aspectori: 0.017032900965600013
+ bpel: 0.031510866786360024
+ chosen: 0.017032900965600013
+ cost: 0.043817137734006036
+ dynam: 0.017032900965600013
+ environ: 0.025960979888402014
+ highavail: 0.017032900965600013
+ interfac: 0.025960979888402014
+ mechan: 0.09149411127808686
+ messag: 0.031510866786360024
+ monitor: 0.031510866786360024
+ nonintrus: 0.017032900965600013
+ partner: 0.017032900965600013
+ penalti: 0.031510866786360024
+ perform: 0.017032900965600013
+ process: 0.1110074661962261
+ replac: 0.031510866786360024
+ servic: 0.1660435702834836
+ soap: 0.017032900965600013
+ strategi: 0.03042501934980302
+ suitabl: 0.043817137734006036
+ web: 0.031510866786360024
+ wsbpel: 0.017032900965600013
+
+N-grams list: 10
+ dynam process servic
+ servic adapt
+ chosen replac servic
+ wsbpel web servic
+ partner servic
+ adapt mechan
+ servic
+ bpel process
+ process
+ perform penalti cost
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

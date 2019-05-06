@@ -1,0 +1,88 @@
+File name: 9035229
+
+Graph edges count: 29
+ batch - method: 1
+ digit - librari: 1
+ docum - recommend: 2
+ docum - similar: 1
+ effici - improv: 1
+ factor - strategi: 1
+ graph - construc: 1
+ incom - docum: 1
+ increment - algorithm: 1
+ increment - method: 3
+ latent - space: 1
+ learn - multipl: 1
+ lowdimension - embed: 1
+ multipl - graph: 2
+ qualiti - improv: 1
+ qualiti - loss: 1
+ real - world: 1
+ recommend - framework: 1
+ relat - data: 1
+ rel - similar: 1
+ rich - relat: 1
+ scalabl - issu: 1
+ semisupervis - learn: 1
+ signific - effici: 1
+ signific - qualiti: 1
+ singl - graph: 1
+ singl - lowdimension: 1
+ toler - qualiti: 1
+ world - dataset: 1
+
+PageRank scores count: 38
+ algorithm: 0.021167221888467112
+ batch: 0.014854190798924291
+ construc: 0.06045479261646449
+ data: 0.03821240583023274
+ dataset: 0.03821240583023274
+ digit: 0.014854190798924291
+ docum: 0.027480252978009937
+ effici: 0.021167221888467112
+ embed: 0.032846329404121334
+ factor: 0.014854190798924291
+ framework: 0.037407494366316026
+ graph: 0.05364776684416494
+ improv: 0.04720847513283126
+ incom: 0.014854190798924291
+ increment: 0.014854190798924291
+ issu: 0.027480252978009937
+ latent: 0.014854190798924291
+ learn: 0.027480252978009937
+ librari: 0.027480252978009937
+ loss: 0.029216336527634213
+ lowdimension: 0.021167221888467112
+ method: 0.03379328406755276
+ multipl: 0.03821240583023274
+ qualiti: 0.03379328406755276
+ real: 0.014854190798924291
+ recommend: 0.026533298314578513
+ rel: 0.014854190798924291
+ relat: 0.027480252978009937
+ rich: 0.014854190798924291
+ scalabl: 0.014854190798924291
+ semisupervis: 0.014854190798924291
+ signific: 0.014854190798924291
+ similar: 0.03915936049366416
+ singl: 0.014854190798924291
+ space: 0.027480252978009937
+ strategi: 0.027480252978009937
+ toler: 0.014854190798924291
+ world: 0.027480252978009937
+
+N-grams list: 10
+ learn multipl graph
+ graph construc
+ signific qualiti improv
+ multipl graph
+ signific effici improv
+ rich relat data
+ real world dataset
+ toler qualiti loss
+ singl lowdimension embed
+ singl graph
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,90 @@
+File name: 14388642
+
+Graph edges count: 30
+ advertis - match: 1
+ answer - advertis: 1
+ bareminimum - set: 1
+ baselin - method: 1
+ central - search: 1
+ constitu - keyword: 1
+ current - stateoftheart: 1
+ engin - oper: 1
+ engin - task: 1
+ gener - model: 1
+ hidden - structur: 1
+ import - properti: 1
+ individu - keyword: 1
+ manual - interven: 1
+ principl - solution: 1
+ queri - answer: 1
+ queri - templat: 2
+ queri - web: 1
+ research - commun: 1
+ search - engin: 2
+ search - intent: 1
+ search - queri: 4
+ search - result: 1
+ strong - baselin: 1
+ structur - inform: 1
+ templat - inform: 1
+ templat - structur: 1
+ unsupervis - extrac: 1
+ user - search: 1
+ web - search: 2
+
+PageRank scores count: 39
+ advertis: 0.034272692335805106
+ answer: 0.02275413743957562
+ bareminimum: 0.014931675237586881
+ baselin: 0.027623599189535726
+ central: 0.014931675237586881
+ commun: 0.027623599189535726
+ constitu: 0.014931675237586881
+ current: 0.014931675237586881
+ engin: 0.027608690770734273
+ extrac: 0.027623599189535726
+ gener: 0.014931675237586881
+ hidden: 0.014931675237586881
+ import: 0.014931675237586881
+ individu: 0.014931675237586881
+ inform: 0.056302176828965204
+ intent: 0.027608690770734273
+ interven: 0.027623599189535726
+ keyword: 0.04031552314148457
+ manual: 0.014931675237586881
+ match: 0.04406346665186342
+ method: 0.03841173454869225
+ model: 0.027623599189535726
+ oper: 0.02666536854056999
+ principl: 0.014931675237586881
+ properti: 0.027623599189535726
+ queri: 0.027608690770734273
+ research: 0.014931675237586881
+ result: 0.027608690770734273
+ search: 0.05965654023970281
+ set: 0.027623599189535726
+ solution: 0.027623599189535726
+ stateoftheart: 0.027623599189535726
+ strong: 0.014931675237586881
+ structur: 0.03729410773864484
+ task: 0.02666536854056999
+ templat: 0.02275413743957562
+ unsupervis: 0.014931675237586881
+ user: 0.014931675237586881
+ web: 0.02275413743957562
+
+N-grams list: 10
+ search engin task
+ web search queri
+ central search engin
+ structur inform
+ search queri
+ search result
+ search intent
+ queri answer advertis
+ strong baselin method
+ templat inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

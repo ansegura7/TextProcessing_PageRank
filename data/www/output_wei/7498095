@@ -1,0 +1,35 @@
+File name: 7498095
+
+Graph edges count: 6
+ browser - cachehistori: 1
+ detriment - effect: 1
+ invas - browser: 1
+ phish - attack: 1
+ secur - properti: 1
+ url - person: 1
+
+PageRank scores count: 11
+ attack: 0.10997176400653884
+ browser: 0.10997176400653884
+ cachehistori: 0.1529201961658493
+ detriment: 0.05944419676029127
+ effect: 0.10997176400653884
+ invas: 0.05944419676029127
+ person: 0.10997176400653884
+ phish: 0.05944419676029127
+ properti: 0.10997176400653884
+ secur: 0.05944419676029127
+ url: 0.05944419676029127
+
+N-grams list: 7
+ browser cachehistori
+ detriment effect
+ invas browser
+ url person
+ phish attack
+ secur properti
+ person
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

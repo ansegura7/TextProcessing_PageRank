@@ -1,0 +1,87 @@
+File name: 4259117
+
+Graph edges count: 29
+ account - global: 1
+ approach - individu: 1
+ budget - constraint: 1
+ busi - applic: 1
+ busi - logic: 1
+ compon - servic: 5
+ composit - servic: 3
+ composit - web: 1
+ driven - web: 1
+ durat - reliabl: 1
+ effici - linear: 1
+ experiment - result: 1
+ global - constraint: 1
+ global - plan: 2
+ individu - web: 1
+ linear - program: 1
+ multipl - criteria: 1
+ optim - problem: 1
+ organiz - boundari: 1
+ plan - approach: 2
+ price - durat: 1
+ processdriven - composi: 1
+ process - model: 2
+ program - method: 1
+ promis - approach: 1
+ qualiti - driven: 1
+ servic - composi: 1
+ servic - selec: 1
+ web - servic: 4
+
+PageRank scores count: 37
+ account: 0.012869615726049971
+ applic: 0.01833920240962121
+ approach: 0.04334888752025069
+ boundari: 0.023808789093192444
+ budget: 0.012869615726049971
+ busi: 0.012869615726049971
+ compon: 0.012869615726049971
+ composi: 0.06545389345666022
+ composit: 0.012869615726049971
+ constraint: 0.03392752445779924
+ criteria: 0.023808789093192444
+ driven: 0.023808789093192444
+ durat: 0.023808789093192444
+ effici: 0.012869615726049971
+ experiment: 0.012869615726049971
+ global: 0.023808789093192444
+ individu: 0.049716170118263056
+ linear: 0.023808789093192444
+ logic: 0.01833920240962121
+ method: 0.04101063921302399
+ model: 0.023808789093192444
+ multipl: 0.012869615726049971
+ optim: 0.012869615726049971
+ organiz: 0.012869615726049971
+ plan: 0.02298835109065676
+ price: 0.012869615726049971
+ problem: 0.023808789093192444
+ process: 0.012869615726049971
+ processdriven: 0.012869615726049971
+ program: 0.03310708645526355
+ promis: 0.012869615726049971
+ qualiti: 0.012869615726049971
+ reliabl: 0.03310708645526355
+ result: 0.023808789093192444
+ selec: 0.05451472008951775
+ servic: 0.0979884808552183
+ web: 0.08083541773935839
+
+N-grams list: 10
+ composit web servic
+ web servic
+ approach individu web
+ servic composi
+ servic selec
+ qualiti driven web
+ composit servic
+ compon servic
+ servic
+ global plan approach
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

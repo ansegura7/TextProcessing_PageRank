@@ -1,0 +1,48 @@
+File name: 4382315
+
+Graph edges count: 10
+ anchor - text: 2
+ data - set: 1
+ decision - tree: 2
+ focus - crawler: 1
+ japanes - univers: 1
+ person - search: 1
+ real - data: 1
+ scalabl - problem: 1
+ search - engin: 1
+ unvisit - url: 1
+
+PageRank scores count: 18
+ anchor: 0.03578457684737879
+ crawler: 0.06620146716765075
+ data: 0.06620146716765075
+ decision: 0.03578457684737879
+ engin: 0.09205582393988195
+ focus: 0.03578457684737879
+ japanes: 0.03578457684737879
+ person: 0.03578457684737879
+ problem: 0.06620146716765075
+ real: 0.03578457684737879
+ scalabl: 0.03578457684737879
+ search: 0.06620146716765075
+ set: 0.09205582393988195
+ text: 0.06620146716765075
+ tree: 0.06620146716765075
+ univers: 0.06620146716765075
+ unvisit: 0.03578457684737879
+ url: 0.06620146716765075
+
+N-grams list: 9
+ real data set
+ person search engin
+ focus crawler
+ anchor text
+ japanes univers
+ unvisit url
+ decision tree
+ scalabl problem
+ crawler
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

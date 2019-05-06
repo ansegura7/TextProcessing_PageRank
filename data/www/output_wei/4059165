@@ -1,0 +1,41 @@
+File name: 4059165
+
+Graph edges count: 9
+ acquisi - system: 1
+ core - inform: 2
+ gather - system: 1
+ import - consequ: 1
+ inform - gather: 1
+ knowledg - acquisi: 2
+ success - knowledg: 1
+ web - coverag: 1
+ web - inform: 1
+
+PageRank scores count: 11
+ acquisi: 0.11389515336829145
+ consequ: 0.0819071073785575
+ core: 0.04427411209651757
+ coverag: 0.06309060973753754
+ gather: 0.12988917636315842
+ import: 0.04427411209651757
+ inform: 0.10072360501957747
+ knowledg: 0.0819071073785575
+ success: 0.04427411209651757
+ system: 0.25149079236824995
+ web: 0.04427411209651757
+
+N-grams list: 10
+ inform gather system
+ knowledg acquisi system
+ success knowledg acquisi
+ web inform
+ core inform
+ import consequ
+ web coverag
+ inform
+ knowledg
+ coverag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

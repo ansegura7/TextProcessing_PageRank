@@ -1,0 +1,86 @@
+File name: 4580931
+
+Graph edges count: 28
+ applic - assembli: 1
+ assembli - line: 1
+ back - end: 1
+ builtin - custom: 1
+ coarsegrain - natur: 1
+ compon - commun: 1
+ consum - profil: 4
+ consum - registri: 1
+ custom - function: 1
+ develop - time: 1
+ end - user: 1
+ famili - portlet: 1
+ front - end: 1
+ organizationawar - wsrpcompliant: 1
+ organizationspecif - portlet: 1
+ perspect - shift: 1
+ portal - owner: 1
+ portlet - consum: 1
+ portlet - function: 1
+ portlet - provid: 1
+ present - layer: 1
+ profil - portlet: 1
+ registr - time: 1
+ reusabl - servic: 3
+ tradition - portlet: 1
+ user - profil: 2
+ web - servic: 1
+ wsrpcompliant - architectur: 1
+
+PageRank scores count: 37
+ applic: 0.013298150524692099
+ architectur: 0.034209492224770426
+ assembli: 0.024601578470680383
+ back: 0.013298150524692099
+ builtin: 0.013298150524692099
+ coarsegrain: 0.013298150524692099
+ commun: 0.024601578470680383
+ compon: 0.013298150524692099
+ consum: 0.043275756666462106
+ custom: 0.024601578470680383
+ develop: 0.013298150524692099
+ end: 0.03590500641666867
+ famili: 0.013298150524692099
+ front: 0.013298150524692099
+ function: 0.06418709836654042
+ layer: 0.024601578470680383
+ line: 0.034209492224770426
+ natur: 0.024601578470680383
+ organizationawar: 0.013298150524692099
+ organizationspecif: 0.013298150524692099
+ owner: 0.024601578470680383
+ perspect: 0.013298150524692099
+ portal: 0.013298150524692099
+ portlet: 0.1058033046065443
+ present: 0.013298150524692099
+ profil: 0.06893514120620292
+ provid: 0.043275756666462106
+ registr: 0.013298150524692099
+ registri: 0.03169034612417153
+ reusabl: 0.013298150524692099
+ servic: 0.03590500641666867
+ shift: 0.024601578470680383
+ time: 0.03590500641666867
+ tradition: 0.013298150524692099
+ user: 0.04381740597886046
+ web: 0.013298150524692099
+ wsrpcompliant: 0.024601578470680383
+
+N-grams list: 10
+ consum profil portlet
+ portlet consum registri
+ portlet function
+ portlet provid
+ tradition portlet
+ famili portlet
+ organizationspecif portlet
+ user profil
+ consum profil
+ portlet
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

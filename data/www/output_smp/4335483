@@ -1,0 +1,62 @@
+File name: 4335483
+
+Graph edges count: 18
+ addition - schema: 1
+ composit - schema: 1
+ extens - schema: 1
+ intermedi - format: 1
+ modular - set: 1
+ output - format: 1
+ schematron - rule: 1
+ schema - compon: 1
+ schema - docum: 1
+ schema - document: 2
+ schema - inform: 1
+ standard - xml: 1
+ stylesheet - x2doc: 1
+ xmlbase - output: 1
+ xml - schema: 3
+ xml - syntax: 2
+ xml - technologi: 1
+ xslt - stylesheet: 1
+
+PageRank scores count: 23
+ addition: 0.02575292429820599
+ compon: 0.04804878676900594
+ composit: 0.02575292429820599
+ docum: 0.04804878676900594
+ document: 0.04804878676900594
+ extens: 0.02575292429820599
+ format: 0.08813938341061
+ inform: 0.04804878676900594
+ intermedi: 0.02575292429820599
+ modular: 0.02575292429820599
+ output: 0.047642909951681085
+ rule: 0.047642909951681085
+ schema: 0.1049217057449409
+ schematron: 0.02575292429820599
+ set: 0.047642909951681085
+ standard: 0.02575292429820599
+ stylesheet: 0.047642909951681085
+ syntax: 0.03925174878451563
+ technologi: 0.03925174878451563
+ x2doc: 0.06624939775713491
+ xml: 0.047642909951681085
+ xmlbase: 0.02575292429820599
+ xslt: 0.02575292429820599
+
+N-grams list: 10
+ xml schema docum
+ xml schema compon
+ addition schema inform
+ extens schema document
+ xmlbase output format
+ schema document
+ xml schema
+ xslt stylesheet x2doc
+ composit schema
+ intermedi format
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

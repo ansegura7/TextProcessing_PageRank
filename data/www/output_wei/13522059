@@ -1,0 +1,87 @@
+File name: 13522059
+
+Graph edges count: 30
+ abstract - model: 1
+ actual - data: 1
+ advanc - reserv: 1
+ arbitragefre - deriv: 1
+ busi - servic: 1
+ consist - arbitragefre: 1
+ deriv - model: 1
+ deriv - price: 1
+ deriv - web: 1
+ energi - exchang: 1
+ eventu - shortcom: 1
+ highvalu - busi: 1
+ incomplet - market: 1
+ inform - process: 1
+ inventor - servic: 1
+ market - design: 1
+ market - particip: 1
+ missioncrit - web: 2
+ price - process: 1
+ process - servic: 1
+ servic - characterist: 1
+ servic - deriv: 2
+ servic - develop: 1
+ servic - market: 1
+ shortterm - trend: 1
+ simpl - inform: 1
+ strategi - space: 1
+ tradeabl - underli: 1
+ trade - process: 1
+ web - servic: 5
+
+PageRank scores count: 36
+ abstract: 0.012118718785418982
+ actual: 0.012118718785418982
+ advanc: 0.012118718785418982
+ arbitragefre: 0.022419629753025118
+ busi: 0.022419629753025118
+ characterist: 0.035846869276392204
+ consist: 0.012118718785418982
+ data: 0.022419629753025118
+ deriv: 0.07863170505743677
+ design: 0.03173152620514232
+ develop: 0.035846869276392204
+ energi: 0.012118718785418982
+ eventu: 0.012118718785418982
+ exchang: 0.022419629753025118
+ highvalu: 0.012118718785418982
+ incomplet: 0.012118718785418982
+ inform: 0.022419629753025118
+ inventor: 0.012118718785418982
+ market: 0.04614778024399834
+ missioncrit: 0.012118718785418982
+ model: 0.04469861394066426
+ particip: 0.03173152620514232
+ price: 0.03439770297305812
+ process: 0.0707143639653157
+ reserv: 0.022419629753025118
+ servic: 0.13957734960425786
+ shortcom: 0.022419629753025118
+ shortterm: 0.012118718785418982
+ simpl: 0.012118718785418982
+ space: 0.022419629753025118
+ strategi: 0.012118718785418982
+ trade: 0.012118718785418982
+ tradeabl: 0.012118718785418982
+ trend: 0.022419629753025118
+ underli: 0.022419629753025118
+ web: 0.04469861394066426
+
+N-grams list: 10
+ web servic deriv
+ web servic market
+ web servic develop
+ servic deriv
+ missioncrit web servic
+ servic characterist
+ highvalu busi servic
+ inventor servic
+ servic
+ deriv model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

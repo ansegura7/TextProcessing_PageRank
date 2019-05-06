@@ -1,0 +1,87 @@
+File name: 4949647
+
+Graph edges count: 29
+ asynchron - messag: 1
+ central - notion: 1
+ composit - eservic: 2
+ context - free: 1
+ context - sensit: 1
+ convers - specif: 2
+ delai - effect: 1
+ eservic - composi: 3
+ finit - state: 1
+ framework - peer: 1
+ global - behavior: 2
+ global - perspect: 1
+ global - prepon: 1
+ hand - meali: 1
+ incom - messag: 1
+ individu - eservic: 2
+ individu - peer: 1
+ local - behavior: 1
+ local - prepon: 3
+ meali - eservic: 1
+ meali - implement: 1
+ meali - machin: 1
+ meali - peer: 4
+ projectionjoin - closur: 3
+ queue - delai: 2
+ regular - languag: 3
+ state - machin: 1
+ technic - result: 1
+ unexpect - behavior: 1
+
+PageRank scores count: 37
+ asynchron: 0.017112912601681445
+ behavior: 0.043780534739301685
+ central: 0.017112912601681445
+ closur: 0.031658888313110665
+ composi: 0.055923394046738545
+ composit: 0.017112912601681445
+ context: 0.017112912601681445
+ convers: 0.017112912601681445
+ delai: 0.031658888313110665
+ effect: 0.04402296766782551
+ eservic: 0.045659389935361304
+ finit: 0.017112912601681445
+ framework: 0.017112912601681445
+ free: 0.024385900457396057
+ global: 0.017112912601681445
+ hand: 0.017112912601681445
+ implement: 0.02384042636821746
+ incom: 0.017112912601681445
+ individu: 0.017112912601681445
+ languag: 0.031658888313110665
+ local: 0.017112912601681445
+ machin: 0.05075048143436152
+ meali: 0.031658888313110665
+ messag: 0.046204864024539896
+ notion: 0.031658888313110665
+ peer: 0.045659389935361304
+ perspect: 0.021961571172157853
+ prepon: 0.02923455902787247
+ projectionjoin: 0.017112912601681445
+ queue: 0.017112912601681445
+ regular: 0.017112912601681445
+ result: 0.031658888313110665
+ sensit: 0.024385900457396057
+ specif: 0.031658888313110665
+ state: 0.031658888313110665
+ technic: 0.017112912601681445
+ unexpect: 0.017112912601681445
+
+N-grams list: 10
+ eservic composi
+ finit state machin
+ queue delai effect
+ meali machin
+ meali peer
+ meali eservic
+ hand meali implement
+ asynchron messag
+ incom messag
+ individu eservic
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

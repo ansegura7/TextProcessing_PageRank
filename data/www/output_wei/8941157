@@ -1,0 +1,61 @@
+File name: 8941157
+
+Graph edges count: 19
+ applic - engin: 1
+ base - develop: 2
+ board - approach: 1
+ board - design: 1
+ circuit - board: 4
+ compon - base: 2
+ compon - engin: 1
+ design - methodologi: 1
+ design - techniqu: 1
+ develop - methodologi: 1
+ develop - process: 1
+ electron - devic: 1
+ process - easi: 1
+ softwar - circuit: 2
+ softwar - system: 2
+ specif - focu: 1
+ visual - softwar: 2
+ web - applic: 1
+ web - engin: 1
+
+PageRank scores count: 21
+ applic: 0.03705315221394099
+ approach: 0.053831932756118146
+ base: 0.04073679892526846
+ board: 0.06548169570861072
+ circuit: 0.04644645132782603
+ compon: 0.02600221207995859
+ design: 0.053831932756118146
+ develop: 0.06062849116643678
+ devic: 0.04810409234792339
+ easi: 0.07000613478179868
+ electron: 0.02600221207995859
+ engin: 0.07591562501844576
+ focu: 0.04810409234792339
+ methodologi: 0.07464789224704442
+ process: 0.05176932082569422
+ softwar: 0.04810409234792339
+ specif: 0.02600221207995859
+ system: 0.04644645132782603
+ techniqu: 0.0488807835013088
+ visual: 0.02600221207995859
+ web: 0.02600221207995859
+
+N-grams list: 10
+ circuit board design
+ circuit board approach
+ web applic engin
+ design methodologi
+ compon base develop
+ process easi
+ visual softwar circuit
+ web engin
+ compon engin
+ softwar system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

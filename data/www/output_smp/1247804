@@ -1,0 +1,60 @@
+File name: 1247804
+
+Graph edges count: 16
+ abstract - syntax: 1
+ direct - represent: 1
+ extens - mechan: 1
+ friendli - macro: 1
+ gener - syntact: 1
+ human - friendli: 1
+ layer - rdf: 1
+ persist - problem: 1
+ rdf - abstract: 1
+ rdf - tripl: 1
+ semant - web: 1
+ simpl - direct: 1
+ simpl - serial: 1
+ syntact - extens: 1
+ xml - ina: 1
+ xml - rdfxml: 1
+
+PageRank scores count: 23
+ abstract: 0.04629547136986324
+ direct: 0.03693270634124849
+ extens: 0.06667325407920123
+ friendli: 0.04794772402197173
+ gener: 0.025917688660525257
+ human: 0.025917688660525257
+ ina: 0.03693270634124849
+ layer: 0.025917688660525257
+ macro: 0.06667325407920123
+ mechan: 0.0825899546278463
+ persist: 0.025917688660525257
+ problem: 0.04794772402197173
+ rdf: 0.04794772402197173
+ rdfxml: 0.03693270634124849
+ represent: 0.05731048905058648
+ semant: 0.025917688660525257
+ serial: 0.03693270634124849
+ simpl: 0.025917688660525257
+ syntact: 0.04794772402197173
+ syntax: 0.06526883932490901
+ tripl: 0.04629547136986324
+ web: 0.04794772402197173
+ xml: 0.025917688660525257
+
+N-grams list: 10
+ rdf abstract syntax
+ gener syntact extens
+ human friendli macro
+ simpl direct represent
+ rdf tripl
+ mechan
+ persist problem
+ layer rdf
+ semant web
+ syntax
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

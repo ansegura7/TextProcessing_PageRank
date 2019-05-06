@@ -1,0 +1,56 @@
+File name: 4440031
+
+Graph edges count: 16
+ cartoon - distribu: 1
+ distribu - servic: 1
+ entropi - principl: 1
+ log - data: 1
+ maximum - entropi: 2
+ model - user: 1
+ onlin - cartoon: 1
+ onlin - store: 1
+ purchas - behavior: 2
+ purchas - probabl: 1
+ recommend - effect: 1
+ recommend - servic: 1
+ recommend - system: 3
+ user - behavior: 1
+ user - interest: 1
+ user - purchas: 2
+
+PageRank scores count: 19
+ behavior: 0.07056016730907848
+ cartoon: 0.046294259579493804
+ data: 0.060101319454079684
+ distribu: 0.07183732034747767
+ effect: 0.04169190628796519
+ entropi: 0.060101319454079684
+ interest: 0.049515906883563846
+ log: 0.03248719970490794
+ maximum: 0.03248719970490794
+ model: 0.03248719970490794
+ onlin: 0.03248719970490794
+ principl: 0.08357332124087567
+ probabl: 0.05353146013042257
+ purchas: 0.049515906883563846
+ recommend: 0.03248719970490794
+ servic: 0.10275362858332121
+ store: 0.046294259579493804
+ system: 0.04169190628796519
+ user: 0.060101319454079684
+
+N-grams list: 10
+ user purchas behavior
+ maximum entropi principl
+ model user behavior
+ onlin cartoon distribu
+ recommend servic
+ user interest
+ purchas probabl
+ servic
+ maximum entropi
+ log data
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

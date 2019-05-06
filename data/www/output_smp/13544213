@@ -1,0 +1,46 @@
+File name: 13544213
+
+Graph edges count: 9
+ case - studi: 1
+ coauthor - network: 1
+ experiment - result: 1
+ genet - algorithm: 1
+ object - function: 2
+ optim - program: 1
+ peopl - discoveri: 1
+ program - problem: 1
+ social - network: 4
+
+PageRank scores count: 16
+ algorithm: 0.07590522104831265
+ case: 0.04102984921530414
+ coauthor: 0.04102984921530414
+ discoveri: 0.07590522104831265
+ experiment: 0.04102984921530414
+ function: 0.07590522104831265
+ genet: 0.04102984921530414
+ network: 0.11078059288132117
+ object: 0.04102984921530414
+ optim: 0.04102984921530414
+ peopl: 0.04102984921530414
+ problem: 0.10554928710636989
+ program: 0.07590522104831265
+ result: 0.07590522104831265
+ social: 0.04102984921530414
+ studi: 0.07590522104831265
+
+N-grams list: 10
+ optim program problem
+ coauthor network
+ social network
+ case studi
+ peopl discoveri
+ object function
+ experiment result
+ genet algorithm
+ problem
+ peopl
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

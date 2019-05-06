@@ -1,0 +1,47 @@
+File name: 10153001
+
+Graph edges count: 11
+ common - evalu: 1
+ criteria - common: 1
+ current - research: 1
+ evalu - methodologi: 1
+ open - issu: 1
+ potenti - applic: 1
+ recommend - method: 1
+ recommend - system: 4
+ social - recommend: 3
+ social - web: 1
+ stateoftheart - recommend: 1
+
+PageRank scores count: 16
+ applic: 0.06858583424472167
+ common: 0.06858583424472167
+ criteria: 0.03707342391606577
+ current: 0.03707342391606577
+ evalu: 0.09537138302407919
+ issu: 0.06858583424472167
+ method: 0.05275084805457208
+ methodologi: 0.11813909948653309
+ open: 0.03707342391606577
+ potenti: 0.03707342391606577
+ recommend: 0.0922201419912136
+ research: 0.06858583424472167
+ social: 0.03707342391606577
+ stateoftheart: 0.03707342391606577
+ system: 0.09978312047009102
+ web: 0.04495152649822974
+
+N-grams list: 9
+ social recommend system
+ criteria common evalu
+ recommend system
+ stateoftheart recommend method
+ methodologi
+ open issu
+ potenti applic
+ current research
+ social web
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

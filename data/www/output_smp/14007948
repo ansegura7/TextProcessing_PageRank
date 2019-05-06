@@ -1,0 +1,81 @@
+File name: 14007948
+
+Graph edges count: 27
+ addition - entri: 1
+ aggreg - inform: 1
+ cluster - proactiv: 1
+ empir - evalu: 1
+ entri - point: 1
+ gener - link: 1
+ gener - web: 1
+ histor - data: 1
+ link - sugges: 5
+ multipl - site: 1
+ navig - queri: 1
+ prior - work: 1
+ proactiv - link: 1
+ quick - link: 1
+ reallif - search: 1
+ relev - inform: 1
+ relev - link: 1
+ search - engin: 1
+ search - result: 1
+ search - scenario: 1
+ site - cluster: 1
+ tail - site: 2
+ top - search: 1
+ user - experi: 1
+ web - brows: 1
+ web - search: 2
+ web - site: 3
+
+PageRank scores count: 33
+ addition: 0.015436153914007898
+ aggreg: 0.015436153914007898
+ brows: 0.021668501056788587
+ cluster: 0.05615962221801961
+ data: 0.028556884740914616
+ empir: 0.015436153914007898
+ engin: 0.029010643348678474
+ entri: 0.028556884740914616
+ evalu: 0.028556884740914616
+ experi: 0.028556884740914616
+ gener: 0.015436153914007898
+ histor: 0.015436153914007898
+ inform: 0.035117250154367965
+ link: 0.09537367344724722
+ multipl: 0.015436153914007898
+ navig: 0.015436153914007898
+ point: 0.03970950594378533
+ prior: 0.015436153914007898
+ proactiv: 0.06317183279932456
+ queri: 0.028556884740914616
+ quick: 0.015436153914007898
+ reallif: 0.015436153914007898
+ relev: 0.015436153914007898
+ result: 0.029010643348678474
+ scenario: 0.029010643348678474
+ search: 0.04790996271060202
+ site: 0.04790996271060202
+ sugges: 0.09650377634416803
+ tail: 0.015436153914007898
+ top: 0.015436153914007898
+ user: 0.015436153914007898
+ web: 0.021996519327461255
+ work: 0.028556884740914616
+
+N-grams list: 10
+ proactiv link sugges
+ relev link sugges
+ gener link sugges
+ link sugges
+ web site cluster
+ quick link
+ web search scenario
+ link
+ top search result
+ addition entri point
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

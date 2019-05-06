@@ -1,0 +1,63 @@
+File name: 14389159
+
+Graph edges count: 16
+ between - center: 1
+ between - central: 9
+ candid - set: 1
+ candid - vertic: 1
+ commun - detec: 1
+ effici - algorithm: 1
+ experiment - result: 1
+ influenti - user: 1
+ larg - real: 1
+ network - analys: 1
+ network - graph: 1
+ quick - algorithm: 1
+ real - dataset: 1
+ recurs - comput: 1
+ search - space: 1
+ social - network: 2
+
+PageRank scores count: 26
+ algorithm: 0.07013897908819325
+ analys: 0.046402130146772295
+ between: 0.025977399662293798
+ candid: 0.025977399662293798
+ center: 0.03701779451876866
+ central: 0.03701779451876866
+ commun: 0.025977399662293798
+ comput: 0.048058189375243525
+ dataset: 0.06682686063125079
+ detec: 0.048058189375243525
+ effici: 0.025977399662293798
+ experiment: 0.025977399662293798
+ graph: 0.046402130146772295
+ influenti: 0.025977399662293798
+ larg: 0.025977399662293798
+ network: 0.048058189375243525
+ quick: 0.025977399662293798
+ real: 0.048058189375243525
+ recurs: 0.025977399662293798
+ result: 0.048058189375243525
+ search: 0.025977399662293798
+ set: 0.03701779451876866
+ social: 0.025977399662293798
+ space: 0.048058189375243525
+ user: 0.048058189375243525
+ vertic: 0.03701779451876866
+
+N-grams list: 10
+ larg real dataset
+ social network graph
+ effici algorithm
+ quick algorithm
+ network analys
+ social network
+ search space
+ influenti user
+ recurs comput
+ commun detec
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

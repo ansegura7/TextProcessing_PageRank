@@ -1,0 +1,71 @@
+File name: 13545447
+
+Graph edges count: 22
+ attack - detec: 1
+ audit - data: 2
+ cluster - method: 1
+ concept - drift: 1
+ current - defenseindepth: 1
+ data - stream: 1
+ defenseindepth - secur: 1
+ detec - model: 2
+ dynam - cluster: 1
+ gener - framework: 3
+ import - issu: 1
+ larg - size: 1
+ log - data: 1
+ normal - behavior: 1
+ onlin - cluster: 1
+ onlin - detec: 2
+ preliminari - test: 1
+ secur - framework: 1
+ stream - data: 2
+ test - result: 1
+ web - attack: 3
+ web - audit: 2
+
+PageRank scores count: 28
+ attack: 0.019711605380576643
+ audit: 0.019711605380576643
+ behavior: 0.02559050523092406
+ cluster: 0.031469405081271475
+ concept: 0.013832705530229222
+ current: 0.013832705530229222
+ data: 0.19496638313574371
+ defenseindepth: 0.02559050523092406
+ detec: 0.036466469954066785
+ drift: 0.02559050523092406
+ dynam: 0.013832705530229222
+ framework: 0.05583744496096154
+ gener: 0.013832705530229222
+ import: 0.013832705530229222
+ issu: 0.02559050523092406
+ larg: 0.013832705530229222
+ log: 0.013832705530229222
+ method: 0.04058169984930998
+ model: 0.044829204991185985
+ normal: 0.013832705530229222
+ onlin: 0.013832705530229222
+ preliminari: 0.013832705530229222
+ result: 0.03558463497651467
+ secur: 0.03558463497651467
+ size: 0.02559050523092406
+ stream: 0.17955411909521204
+ test: 0.02559050523092406
+ web: 0.013832705530229222
+
+N-grams list: 10
+ stream data
+ web audit data
+ log data
+ stream
+ onlin cluster method
+ detec model
+ current defenseindepth secur
+ preliminari test result
+ web attack detec
+ gener framework
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

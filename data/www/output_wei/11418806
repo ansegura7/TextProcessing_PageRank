@@ -1,0 +1,50 @@
+File name: 11418806
+
+Graph edges count: 13
+ expert - judg: 1
+ popular - mean: 1
+ queri - intent: 1
+ real - queri: 1
+ repres - topic: 1
+ search - log: 1
+ search - queri: 1
+ topic - descrip: 1
+ track - judg: 1
+ trec - queri: 1
+ usercentr - intent: 1
+ web - search: 2
+ web - track: 1
+
+PageRank scores count: 16
+ descrip: 0.08930444077686474
+ expert: 0.03471504014649747
+ intent: 0.1635411076701435
+ judg: 0.10209114723082463
+ log: 0.05782947104404037
+ mean: 0.06422282427102032
+ popular: 0.03471504014649747
+ queri: 0.11684503929308607
+ real: 0.03471504014649747
+ repres: 0.03471504014649747
+ search: 0.054386896229512705
+ topic: 0.06422282427102032
+ track: 0.04455096818800509
+ trec: 0.03471504014649747
+ usercentr: 0.03471504014649747
+ web: 0.03471504014649747
+
+N-grams list: 10
+ queri intent
+ web search queri
+ usercentr intent
+ repres topic descrip
+ web track judg
+ trec queri
+ real queri
+ web search log
+ expert judg
+ queri
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,47 @@
+File name: 588225
+
+Graph edges count: 11
+ commun - inform: 1
+ current - statu: 1
+ design - challeng: 1
+ environment - organ: 1
+ extens - custom: 1
+ inform - portal: 3
+ prototyp - directori: 1
+ semant - inform: 2
+ semant - web: 1
+ structur - extens: 1
+ web - standard: 1
+
+PageRank scores count: 17
+ challeng: 0.06686545585976326
+ commun: 0.03614348965392609
+ current: 0.03614348965392609
+ custom: 0.09297912713472485
+ design: 0.03614348965392609
+ directori: 0.06686545585976326
+ environment: 0.03614348965392609
+ extens: 0.06686545585976326
+ inform: 0.08222643896268185
+ organ: 0.06686545585976326
+ portal: 0.10603596277220566
+ prototyp: 0.03614348965392609
+ semant: 0.03614348965392609
+ standard: 0.07992229149724407
+ statu: 0.06686545585976326
+ structur: 0.03614348965392609
+ web: 0.05150447275684468
+
+N-grams list: 8
+ commun inform portal
+ semant inform portal
+ structur extens custom
+ semant web standard
+ environment organ
+ current statu
+ prototyp directori
+ design challeng
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

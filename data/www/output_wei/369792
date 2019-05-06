@@ -1,0 +1,77 @@
+File name: 369792
+
+Graph edges count: 23
+ addition - complex: 1
+ build - block: 1
+ compon - web: 1
+ composit - servic: 1
+ composit - web: 4
+ decentr - fashion: 1
+ decentr - orchestr: 3
+ decentr - system: 1
+ design - decision: 1
+ error - recoveri: 1
+ fault - handl: 1
+ incorrect - design: 1
+ multipl - compon: 1
+ nonoptim - usag: 1
+ perform - improv: 1
+ perform - result: 1
+ potenti - deadlock: 1
+ respons - time: 1
+ runtim - environ: 1
+ runtim - issu: 1
+ servic - web: 1
+ system - resourc: 1
+ web - servic: 6
+
+PageRank scores count: 33
+ addition: 0.013651815008805416
+ block: 0.025255857766290024
+ build: 0.013651815008805416
+ complex: 0.025255857766290024
+ compon: 0.025255857766290024
+ composit: 0.013651815008805416
+ deadlock: 0.025255857766290024
+ decentr: 0.013651815008805416
+ decision: 0.03511929411015194
+ design: 0.025255857766290024
+ environ: 0.01945383638754772
+ error: 0.013651815008805416
+ fashion: 0.015972623560302338
+ fault: 0.013651815008805416
+ handl: 0.025255857766290024
+ improv: 0.01945383638754772
+ incorrect: 0.013651815008805416
+ issu: 0.01945383638754772
+ multipl: 0.013651815008805416
+ nonoptim: 0.013651815008805416
+ orchestr: 0.020614240663296177
+ perform: 0.013651815008805416
+ potenti: 0.013651815008805416
+ recoveri: 0.025255857766290024
+ resourc: 0.027228545035062408
+ respons: 0.013651815008805416
+ result: 0.01945383638754772
+ runtim: 0.013651815008805416
+ servic: 0.19356674136636082
+ system: 0.015972623560302338
+ time: 0.025255857766290024
+ usag: 0.025255857766290024
+ web: 0.2089342711432523
+
+N-grams list: 10
+ composit web servic
+ web servic
+ multipl compon web
+ composit servic
+ servic
+ design decision
+ system resourc
+ nonoptim usag
+ incorrect design
+ error recoveri
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

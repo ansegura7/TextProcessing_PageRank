@@ -1,0 +1,67 @@
+File name: 8957036
+
+Graph edges count: 19
+ adversari - model: 1
+ base - commun: 1
+ common - privaci: 1
+ encryp - scheme: 1
+ english - plaintext: 1
+ english - text: 1
+ frequenc - distribu: 1
+ grammat - structur: 1
+ linguist - featur: 1
+ nonsemant - linguist: 1
+ normal - english: 1
+ plaintext - stealth: 1
+ privaci - threat: 1
+ profil - adversari: 1
+ semant - content: 1
+ stealth - encryp: 2
+ webbas - commun: 1
+ web - base: 1
+ word - frequenc: 1
+
+PageRank scores count: 27
+ adversari: 0.036696622485327915
+ base: 0.036696622485327915
+ common: 0.019836012154231305
+ commun: 0.06788875159785664
+ content: 0.036696622485327915
+ distribu: 0.05102814126676004
+ encryp: 0.06229629790866103
+ english: 0.036696622485327915
+ featur: 0.05102814126676004
+ frequenc: 0.036696622485327915
+ grammat: 0.019836012154231305
+ linguist: 0.036696622485327915
+ model: 0.05102814126676004
+ nonsemant: 0.019836012154231305
+ normal: 0.019836012154231305
+ plaintext: 0.03543207671049567
+ privaci: 0.036696622485327915
+ profil: 0.019836012154231305
+ scheme: 0.07278786537659318
+ semant: 0.019836012154231305
+ stealth: 0.04995327735815262
+ structur: 0.036696622485327915
+ text: 0.03543207671049567
+ threat: 0.05102814126676004
+ web: 0.019836012154231305
+ webbas: 0.019836012154231305
+ word: 0.019836012154231305
+
+N-grams list: 10
+ encryp scheme
+ web base commun
+ english plaintext stealth
+ stealth encryp
+ common privaci threat
+ nonsemant linguist featur
+ word frequenc distribu
+ normal english text
+ adversari model
+ webbas commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,66 @@
+File name: 9848499
+
+Graph edges count: 18
+ altern - solution: 1
+ data - gather: 1
+ gather - aggreg: 1
+ longitudin - perspect: 1
+ longitudin - studi: 1
+ multipl - snapshot: 1
+ popular - web: 1
+ privaci - damag: 1
+ privaci - diffusion: 2
+ privat - inform: 1
+ protec - techniqu: 1
+ secondari - privaci: 1
+ signific - limit: 1
+ technic - wai: 1
+ thirdparti - aggreg: 1
+ userrel - data: 1
+ userrel - inform: 1
+ web - site: 2
+
+PageRank scores count: 27
+ aggreg: 0.08757758232275127
+ altern: 0.023481998846446805
+ damag: 0.03579047990845934
+ data: 0.0334618483561867
+ diffusion: 0.04809896097047188
+ gather: 0.0519245699492055
+ inform: 0.053421547375666484
+ limit: 0.04344169786592659
+ longitudin: 0.023481998846446805
+ multipl: 0.023481998846446805
+ perspect: 0.0334618483561867
+ popular: 0.023481998846446805
+ privaci: 0.04344169786592659
+ privat: 0.023481998846446805
+ protec: 0.023481998846446805
+ secondari: 0.023481998846446805
+ signific: 0.023481998846446805
+ site: 0.06040744203248441
+ snapshot: 0.04344169786592659
+ solution: 0.04344169786592659
+ studi: 0.0334618483561867
+ technic: 0.023481998846446805
+ techniqu: 0.04344169786592659
+ thirdparti: 0.023481998846446805
+ userrel: 0.023481998846446805
+ wai: 0.04344169786592659
+ web: 0.04344169786592659
+
+N-grams list: 10
+ data gather aggreg
+ popular web site
+ thirdparti aggreg
+ web site
+ secondari privaci damag
+ privaci diffusion
+ aggreg
+ privat inform
+ userrel inform
+ altern solution
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

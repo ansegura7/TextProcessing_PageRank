@@ -1,0 +1,49 @@
+File name: 4595748
+
+Graph edges count: 11
+ 3d - anim: 1
+ childpar - model: 1
+ dialogu - expres: 1
+ easytounderstand - content: 1
+ electron - content: 1
+ interact - ehon: 1
+ questionansw - style: 1
+ storybook - world: 1
+ style - comprehens: 1
+ web - content: 1
+ world - easytounderstand: 1
+
+PageRank scores count: 17
+ 3d: 0.03432695567102762
+ anim: 0.0635048679914011
+ childpar: 0.03432695567102762
+ comprehens: 0.08830609346371855
+ content: 0.16774295975593537
+ dialogu: 0.03432695567102762
+ easytounderstand: 0.08830609346371855
+ ehon: 0.0635048679914011
+ electron: 0.03432695567102762
+ expres: 0.0635048679914011
+ interact: 0.03432695567102762
+ model: 0.0635048679914011
+ questionansw: 0.03432695567102762
+ storybook: 0.03432695567102762
+ style: 0.0635048679914011
+ web: 0.03432695567102762
+ world: 0.0635048679914011
+
+N-grams list: 10
+ world easytounderstand content
+ web content
+ electron content
+ questionansw style comprehens
+ content
+ childpar model
+ interact ehon
+ dialogu expres
+ storybook world
+ 3d anim
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

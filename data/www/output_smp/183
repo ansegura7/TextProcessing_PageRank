@@ -1,0 +1,71 @@
+File name: 183
+
+Graph edges count: 20
+ anonym - open: 1
+ eigentrust - algorithm: 1
+ experi - show: 1
+ fileshar - network: 2
+ global - trust: 3
+ ideal - environ: 1
+ inauthent - file: 3
+ malici - peer: 2
+ network - peertop: 1
+ open - natur: 1
+ p2p - network: 1
+ peertop - fileshar: 2
+ power - iter: 1
+ recent - experi: 1
+ reput - manag: 1
+ reput - system: 1
+ secur - method: 1
+ selfrepl - inauthent: 1
+ trust - valu: 2
+ uniqu - global: 1
+
+PageRank scores count: 30
+ algorithm: 0.02656393682330016
+ anonym: 0.014358884769351439
+ eigentrust: 0.014358884769351439
+ environ: 0.02656393682330016
+ experi: 0.02656393682330016
+ file: 0.03693823106915657
+ fileshar: 0.11857824347368197
+ global: 0.02656393682330016
+ ideal: 0.014358884769351439
+ inauthent: 0.02656393682330016
+ iter: 0.02656393682330016
+ malici: 0.014358884769351439
+ manag: 0.0204614107963258
+ method: 0.02656393682330016
+ natur: 0.03693823106915657
+ network: 0.12735545536594944
+ open: 0.02656393682330016
+ p2p: 0.014358884769351439
+ peer: 0.02656393682330016
+ peertop: 0.12261101024038885
+ power: 0.014358884769351439
+ recent: 0.014358884769351439
+ reput: 0.014358884769351439
+ secur: 0.014358884769351439
+ selfrepl: 0.014358884769351439
+ show: 0.03693823106915657
+ system: 0.0204614107963258
+ trust: 0.03693823106915657
+ uniqu: 0.014358884769351439
+ valu: 0.04575638117813453
+
+N-grams list: 10
+ peertop fileshar network
+ p2p network peertop
+ fileshar network
+ network
+ global trust valu
+ uniqu global trust
+ anonym open natur
+ recent experi show
+ selfrepl inauthent file
+ inauthent file
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,58 @@
+File name: 125048
+
+Graph edges count: 16
+ applic - area: 2
+ asser - intent: 1
+ case - studi: 1
+ graph - nameabl: 1
+ graph - proven: 1
+ inform - consum: 1
+ rdf - graph: 1
+ rdf - statem: 1
+ semant - web: 4
+ specif - graph: 1
+ taskspecif - trust: 1
+ trust - layer: 1
+ trust - polici: 1
+ web - applic: 1
+ web - publish: 1
+ web - trust: 1
+
+PageRank scores count: 21
+ applic: 0.04513397065428217
+ area: 0.0679761029321041
+ asser: 0.02961222787596425
+ case: 0.02961222787596425
+ consum: 0.05478262157053387
+ graph: 0.06736781841781866
+ inform: 0.02961222787596425
+ intent: 0.05478262157053387
+ layer: 0.05949158272422626
+ nameabl: 0.058243550703537185
+ polici: 0.05949158272422626
+ proven: 0.058243550703537185
+ publish: 0.04513397065428217
+ rdf: 0.02961222787596425
+ semant: 0.02961222787596425
+ specif: 0.02961222787596425
+ statem: 0.042197424723249055
+ studi: 0.05478262157053387
+ taskspecif: 0.02961222787596425
+ trust: 0.07030436434885179
+ web: 0.05478262157053387
+
+N-grams list: 10
+ taskspecif trust polici
+ rdf graph nameabl
+ semant web trust
+ semant web applic
+ semant web publish
+ graph proven
+ applic area
+ specif graph
+ semant web
+ asser intent
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

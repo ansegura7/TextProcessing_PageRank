@@ -1,0 +1,74 @@
+File name: 16387
+
+Graph edges count: 23
+ base - ontologi: 1
+ commerc - interac: 1
+ daml - base: 1
+ descrip - logic: 1
+ ecommerc - scenario: 1
+ electron - commerc: 1
+ import - object: 1
+ initi - experi: 1
+ logic - reason: 1
+ matchmak - prototyp: 1
+ messag - content: 1
+ messag - protocol: 1
+ ontologi - messag: 1
+ prototyp - implement: 1
+ realist - agent: 1
+ semant - web: 2
+ servic - advertis: 1
+ servic - descrip: 1
+ servic - matchmak: 1
+ servic - technologi: 1
+ softwar - framework: 1
+ web - servic: 1
+ web - technologi: 1
+
+PageRank scores count: 30
+ advertis: 0.02556201899198111
+ agent: 0.034278403142384596
+ base: 0.034278403142384596
+ commerc: 0.034278403142384596
+ content: 0.043622800063873056
+ daml: 0.018528866563451134
+ descrip: 0.02556201899198111
+ ecommerc: 0.018528866563451134
+ electron: 0.018528866563451134
+ experi: 0.034278403142384596
+ framework: 0.034278403142384596
+ implement: 0.05274696186409095
+ import: 0.018528866563451134
+ initi: 0.018528866563451134
+ interac: 0.04766550923447804
+ logic: 0.040256582706635076
+ matchmak: 0.02556201899198111
+ messag: 0.05904454941275747
+ object: 0.034278403142384596
+ ontologi: 0.04766550923447804
+ protocol: 0.043622800063873056
+ prototyp: 0.040256582706635076
+ realist: 0.018528866563451134
+ reason: 0.05274696186409095
+ scenario: 0.034278403142384596
+ semant: 0.018528866563451134
+ servic: 0.03309718789896459
+ softwar: 0.018528866563451134
+ technologi: 0.04013034032749456
+ web: 0.034278403142384596
+
+N-grams list: 10
+ ontologi messag content
+ descrip logic reason
+ web servic technologi
+ messag protocol
+ electron commerc interac
+ daml base ontologi
+ servic matchmak prototyp
+ prototyp implement
+ semant web technologi
+ servic descrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

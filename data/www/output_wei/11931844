@@ -1,0 +1,96 @@
+File name: 11931844
+
+Graph edges count: 32
+ applic - model: 1
+ applic - perform: 1
+ benchmark - specweb2005: 1
+ context - switch: 1
+ data - transfer: 2
+ extens - work: 1
+ fastcgi - protocol: 1
+ individu - softwar: 1
+ interprocess - commun: 1
+ kernel - space: 1
+ languag - runtim: 2
+ memori - copi: 1
+ optim - featur: 1
+ perform - improv: 2
+ php - runtim: 1
+ program - languag: 2
+ redund - process: 1
+ runtim - fastcgi: 1
+ scalabl - web: 1
+ sendfil - system: 1
+ serversid - applic: 1
+ server - runtim: 1
+ softwar - compon: 1
+ standard - web: 1
+ switch - overhead: 1
+ system - call: 1
+ transfer - methodologi: 1
+ user - space: 1
+ web - applic: 4
+ web - benchmark: 1
+ web - server: 3
+ zerocopi - data: 2
+
+PageRank scores count: 43
+ applic: 0.035339933785022835
+ benchmark: 0.015172002431893667
+ call: 0.03032926761033236
+ commun: 0.02181113511335855
+ compon: 0.03032926761033236
+ context: 0.011789802763977595
+ copi: 0.02181113511335855
+ data: 0.02181113511335855
+ extens: 0.011789802763977595
+ fastcgi: 0.06193686300691582
+ featur: 0.02181113511335855
+ improv: 0.034577686193198044
+ individu: 0.011789802763977595
+ interprocess: 0.011789802763977595
+ kernel: 0.011789802763977595
+ languag: 0.02181113511335855
+ memori: 0.011789802763977595
+ methodologi: 0.037569680232760104
+ model: 0.0268092746226123
+ optim: 0.011789802763977595
+ overhead: 0.03032926761033236
+ perform: 0.0268092746226123
+ php: 0.011789802763977595
+ process: 0.02181113511335855
+ program: 0.011789802763977595
+ protocol: 0.06443613631985605
+ redund: 0.011789802763977595
+ runtim: 0.05899654146228026
+ scalabl: 0.011789802763977595
+ sendfil: 0.011789802763977595
+ server: 0.02193640176772581
+ serversid: 0.011789802763977595
+ softwar: 0.02181113511335855
+ space: 0.0318324674627395
+ specweb2005: 0.02468600483108721
+ standard: 0.011789802763977595
+ switch: 0.02181113511335855
+ system: 0.02181113511335855
+ transfer: 0.03032926761033236
+ user: 0.011789802763977595
+ web: 0.0318324674627395
+ work: 0.02181113511335855
+ zerocopi: 0.011789802763977595
+
+N-grams list: 10
+ php runtim fastcgi
+ web server runtim
+ web applic perform
+ web applic model
+ program languag runtim
+ scalabl web applic
+ web applic
+ protocol
+ sendfil system call
+ context switch overhead
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,68 @@
+File name: 3944939
+
+Graph edges count: 22
+ comprehens - relev: 1
+ diversifi - search: 1
+ exact - question: 1
+ inform - peopl: 1
+ inform - searcher: 1
+ internet - user: 1
+ long - queri: 1
+ medic - inform: 4
+ medic - phrase: 1
+ medic - search: 1
+ medic - terminologi: 1
+ medic - web: 1
+ ordinari - internet: 1
+ plain - english: 1
+ relat - medic: 1
+ relev - inform: 1
+ search - engin: 3
+ search - result: 2
+ special - medic: 1
+ special - requir: 1
+ special - search: 1
+ web - search: 2
+
+PageRank scores count: 25
+ comprehens: 0.02290921441058314
+ diversifi: 0.02290921441058314
+ engin: 0.0626649487301327
+ english: 0.042382046659578815
+ exact: 0.02290921441058314
+ inform: 0.07970497513682051
+ internet: 0.042382046659578815
+ long: 0.02290921441058314
+ medic: 0.04887299074257737
+ ordinari: 0.02290921441058314
+ peopl: 0.05678382884373185
+ phrase: 0.028101969676981985
+ plain: 0.02290921441058314
+ queri: 0.042382046659578815
+ question: 0.042382046659578815
+ relat: 0.02290921441058314
+ relev: 0.042382046659578815
+ requir: 0.0294001584935817
+ result: 0.049413037290282846
+ search: 0.0779524202344109
+ searcher: 0.05678382884373185
+ special: 0.02290921441058314
+ terminologi: 0.028101969676981985
+ user: 0.05893395407122514
+ web: 0.028101969676981985
+
+N-grams list: 10
+ medic inform peopl
+ medic inform searcher
+ web search engin
+ special search engin
+ diversifi search result
+ comprehens relev inform
+ search engin
+ medic inform
+ search result
+ medic search
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

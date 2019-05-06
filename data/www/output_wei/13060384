@@ -1,0 +1,105 @@
+File name: 13060384
+
+Graph edges count: 38
+ applic - design: 1
+ applic - servic: 1
+ architectur - style: 1
+ broad - rang: 1
+ build - applic: 1
+ cloud - comput: 2
+ cloud - execu: 1
+ comput - platform: 1
+ core - idea: 1
+ design - deploy: 1
+ dynam - natur: 1
+ dynam - reconfigur: 1
+ elast - infinit: 1
+ execu - environ: 1
+ heterogen - platform: 1
+ heterogen - virtual: 1
+ infinit - scalabl: 1
+ liquid - architectur: 1
+ liquid - servic: 1
+ multicor - processor: 1
+ orient - architectur: 1
+ parallel - program: 2
+ position - paper: 1
+ processor - architectur: 1
+ program - framework: 1
+ program - model: 4
+ research - plan: 1
+ rest - architectur: 1
+ selfconfigur - runtim: 1
+ sequenti - comput: 1
+ servicebas - applic: 1
+ serviceori - system: 1
+ servic - orient: 1
+ tradition - program: 1
+ transpar - deploy: 1
+ virtual - environ: 1
+ web - servic: 1
+ web - servicebas: 1
+
+PageRank scores count: 46
+ applic: 0.03422362733586781
+ architectur: 0.07796804787238655
+ broad: 0.011179625099507656
+ build: 0.011179625099507656
+ cloud: 0.011179625099507656
+ comput: 0.027017427323810163
+ core: 0.011179625099507656
+ deploy: 0.04254827314375292
+ design: 0.025724666717251477
+ dynam: 0.011179625099507656
+ elast: 0.011179625099507656
+ environ: 0.03691605371399924
+ execu: 0.014347185544368158
+ framework: 0.016311073020181668
+ heterogen: 0.011179625099507656
+ idea: 0.020682306434089165
+ infinit: 0.020682306434089165
+ liquid: 0.011179625099507656
+ model: 0.03170541678220371
+ multicor: 0.011179625099507656
+ natur: 0.01593096576679841
+ orient: 0.04112287094356569
+ paper: 0.020682306434089165
+ parallel: 0.011179625099507656
+ plan: 0.020682306434089165
+ platform: 0.03889577899203705
+ position: 0.011179625099507656
+ processor: 0.020682306434089165
+ program: 0.03018498776867067
+ rang: 0.020682306434089165
+ reconfigur: 0.01593096576679841
+ research: 0.011179625099507656
+ rest: 0.011179625099507656
+ runtim: 0.020682306434089165
+ scalabl: 0.028759585568483445
+ selfconfigur: 0.011179625099507656
+ sequenti: 0.011179625099507656
+ servic: 0.03522734805183298
+ servicebas: 0.01593096576679841
+ serviceori: 0.011179625099507656
+ style: 0.07745246579103622
+ system: 0.020682306434089165
+ tradition: 0.011179625099507656
+ transpar: 0.011179625099507656
+ virtual: 0.01593096576679841
+ web: 0.011179625099507656
+
+N-grams list: 10
+ rest architectur style
+ multicor processor architectur
+ applic design deploy
+ liquid architectur
+ liquid servic orient
+ build applic servic
+ architectur
+ cloud comput platform
+ parallel program model
+ tradition program model
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,74 @@
+File name: 13064602
+
+Graph edges count: 24
+ aol - queri: 1
+ combin - probabl: 1
+ contextawar - queri: 1
+ context - observ: 3
+ countri - domain: 1
+ dynam - queri: 1
+ effici - contextawar: 1
+ partial - queri: 1
+ queri - context: 1
+ queri - log: 1
+ queri - pattern: 1
+ queri - string: 1
+ queri - sugges: 4
+ search - engin: 1
+ search - intent: 1
+ search - interac: 1
+ search - result: 1
+ sequenti - queri: 1
+ sugges - model: 1
+ sugges - system: 1
+ user - behavior: 1
+ user - locat: 1
+ user - profil: 1
+ web - search: 1
+
+PageRank scores count: 29
+ aol: 0.020296910501010998
+ behavior: 0.026047701809630782
+ combin: 0.020296910501010998
+ context: 0.03317688591003537
+ contextawar: 0.03754928442687035
+ countri: 0.020296910501010998
+ domain: 0.03754928442687035
+ dynam: 0.020296910501010998
+ effici: 0.020296910501010998
+ engin: 0.028276133441720946
+ intent: 0.028276133441720946
+ interac: 0.028276133441720946
+ locat: 0.026047701809630782
+ log: 0.03317688591003537
+ model: 0.0508190556592821
+ observ: 0.04849726352454107
+ partial: 0.020296910501010998
+ pattern: 0.03317688591003537
+ probabl: 0.03754928442687035
+ profil: 0.026047701809630782
+ queri: 0.12122329796728819
+ result: 0.028276133441720946
+ search: 0.03754928442687035
+ sequenti: 0.020296910501010998
+ string: 0.03317688591003537
+ sugges: 0.07181681213710848
+ system: 0.0508190556592821
+ user: 0.020296910501010998
+ web: 0.020296910501010998
+
+N-grams list: 10
+ queri sugges system
+ dynam queri sugges
+ queri context observ
+ queri sugges
+ effici contextawar queri
+ sequenti queri pattern
+ aol queri log
+ queri string
+ partial queri
+ sugges model
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

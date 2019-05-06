@@ -1,0 +1,38 @@
+File name: 8957477
+
+Graph edges count: 7
+ automat - checkpoint: 1
+ ruleset - version: 1
+ standard - web: 1
+ w3c - standard: 1
+ w3c - technologi: 1
+ wcag - formal: 1
+ web - access: 1
+
+PageRank scores count: 11
+ access: 0.16463286082336084
+ automat: 0.05717287290113023
+ checkpoint: 0.10576981486709092
+ formal: 0.10576981486709092
+ ruleset: 0.05717287290113023
+ standard: 0.08147134388411058
+ technologi: 0.08147134388411058
+ version: 0.10576981486709092
+ w3c: 0.05717287290113023
+ wcag: 0.05717287290113023
+ web: 0.12642351520262424
+
+N-grams list: 9
+ w3c standard web
+ access
+ automat checkpoint
+ wcag formal
+ ruleset version
+ w3c technologi
+ checkpoint
+ wcag
+ w3c
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

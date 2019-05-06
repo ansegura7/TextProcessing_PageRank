@@ -1,0 +1,94 @@
+File name: 7834486
+
+Graph edges count: 32
+ anycast - cdn: 2
+ anycast - featur: 1
+ anycast - mechan: 1
+ assign - problem: 1
+ attract - featur: 1
+ cdn - architectur: 1
+ cdn - network: 1
+ content - distribu: 1
+ control - mechan: 1
+ control - technologi: 1
+ distribu - network: 1
+ gener - assign: 1
+ inher - ip: 1
+ integr - part: 1
+ ip - anycast: 8
+ loadawar - anycast: 1
+ loadawar - ip: 1
+ load - awar: 1
+ main - reason: 1
+ multipl - instanc: 2
+ network - load: 1
+ oper - cdn: 1
+ oper - set: 1
+ practic - algorithm: 1
+ present - practic: 1
+ recent - develop: 1
+ redirec - requir: 1
+ regular - ip: 1
+ rout - control: 2
+ session - disrup: 1
+ side - effect: 1
+ unwant - side: 1
+
+PageRank scores count: 41
+ algorithm: 0.03323541598485161
+ anycast: 0.05272771292057361
+ architectur: 0.027093169013234275
+ assign: 0.023901076607181913
+ attract: 0.012919500868746981
+ awar: 0.058154139890629265
+ cdn: 0.03334980739879364
+ content: 0.012919500868746981
+ control: 0.023901076607181913
+ develop: 0.023901076607181913
+ disrup: 0.023901076607181913
+ distribu: 0.023901076607181913
+ effect: 0.03323541598485161
+ featur: 0.038840595268011105
+ gener: 0.012919500868746981
+ inher: 0.012919500868746981
+ instanc: 0.023901076607181913
+ integr: 0.012919500868746981
+ ip: 0.040373440214834314
+ load: 0.05321722237868505
+ loadawar: 0.012919500868746981
+ main: 0.012919500868746981
+ mechan: 0.03801697708762848
+ multipl: 0.012919500868746981
+ network: 0.047409084129338905
+ oper: 0.012919500868746981
+ part: 0.023901076607181913
+ practic: 0.023901076607181913
+ present: 0.012919500868746981
+ problem: 0.03323541598485161
+ reason: 0.023901076607181913
+ recent: 0.012919500868746981
+ redirec: 0.012919500868746981
+ regular: 0.012919500868746981
+ requir: 0.023901076607181913
+ rout: 0.012919500868746981
+ session: 0.012919500868746981
+ set: 0.018410288737964447
+ side: 0.023901076607181913
+ technologi: 0.023077458426799292
+ unwant: 0.012919500868746981
+
+N-grams list: 10
+ ip anycast mechan
+ load awar
+ regular ip anycast
+ loadawar ip anycast
+ inher ip anycast
+ network load
+ oper cdn network
+ ip anycast
+ anycast cdn
+ content distribu network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,64 @@
+File name: 9477690
+
+Graph edges count: 18
+ base - rank: 1
+ case - studi: 1
+ chain - base: 1
+ convex - optim: 1
+ experiment - result: 1
+ gener - framework: 1
+ individu - ranker: 1
+ label - data: 2
+ markov - chain: 2
+ optim - problem: 2
+ rank - accuraci: 1
+ rank - aggreg: 7
+ rank - result: 2
+ semidefinit - program: 1
+ supervis - learn: 1
+ supervis - rank: 3
+ unsupervis - learn: 1
+ unsupervis - method: 1
+
+PageRank scores count: 25
+ accuraci: 0.031487250898206344
+ aggreg: 0.07783242620346136
+ base: 0.06113045902350774
+ case: 0.023763055013997177
+ chain: 0.043961651775894776
+ convex: 0.023763055013997177
+ data: 0.043961651775894776
+ experiment: 0.023763055013997177
+ framework: 0.043961651775894776
+ gener: 0.023763055013997177
+ individu: 0.023763055013997177
+ label: 0.023763055013997177
+ learn: 0.03891200258542037
+ markov: 0.023763055013997177
+ method: 0.033862353394945977
+ optim: 0.043961651775894776
+ problem: 0.06113045902350774
+ program: 0.043961651775894776
+ rank: 0.09087289275540197
+ ranker: 0.043961651775894776
+ result: 0.05941004354431311
+ semidefinit: 0.023763055013997177
+ studi: 0.043961651775894776
+ supervis: 0.023763055013997177
+ unsupervis: 0.023763055013997177
+
+N-grams list: 10
+ supervis rank aggreg
+ rank aggreg
+ rank result
+ convex optim problem
+ markov chain base
+ rank accuraci
+ optim problem
+ experiment result
+ markov chain
+ semidefinit program
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,45 @@
+File name: 7234796
+
+Graph edges count: 11
+ data - format: 1
+ path - languag: 2
+ schema - compon: 1
+ schema - path: 1
+ schema - xml: 1
+ spath - xml: 1
+ type - system: 1
+ wellknown - xpath: 1
+ xml - develop: 1
+ xml - schema: 6
+ xpath - languag: 1
+
+PageRank scores count: 13
+ compon: 0.07554054389833759
+ data: 0.041093305731342
+ develop: 0.05450750299086797
+ format: 0.07602261560298268
+ languag: 0.16992199641966452
+ path: 0.07554054389833759
+ schema: 0.12157848928849783
+ spath: 0.041093305731342
+ system: 0.07602261560298268
+ type: 0.041093305731342
+ wellknown: 0.041093305731342
+ xml: 0.11046985376997828
+ xpath: 0.07602261560298268
+
+N-grams list: 10
+ xml schema xml
+ xml schema path
+ xml schema compon
+ wellknown xpath languag
+ path languag
+ xml schema
+ spath xml develop
+ languag
+ type system
+ data format
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

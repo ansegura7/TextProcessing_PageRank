@@ -1,0 +1,36 @@
+File name: 8952872
+
+Graph edges count: 7
+ engin - evalu: 1
+ evalu - model: 1
+ featur - paramet: 1
+ search - engin: 4
+ seventi - perform: 1
+ suitabl - search: 1
+ webbas - system: 1
+
+PageRank scores count: 11
+ engin: 0.12327631055207482
+ evalu: 0.15270568439766977
+ featur: 0.047920820428406154
+ model: 0.17772065216642544
+ paramet: 0.08865351779255137
+ perform: 0.08865351779255137
+ search: 0.08865351779255137
+ seventi: 0.047920820428406154
+ suitabl: 0.047920820428406154
+ system: 0.08865351779255137
+ webbas: 0.047920820428406154
+
+N-grams list: 7
+ search engin evalu
+ suitabl search engin
+ search engin
+ model
+ featur paramet
+ webbas system
+ seventi perform
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

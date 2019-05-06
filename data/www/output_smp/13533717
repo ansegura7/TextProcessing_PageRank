@@ -1,0 +1,110 @@
+File name: 13533717
+
+Graph edges count: 42
+ accur - user: 1
+ accur - web: 1
+ algorithm - smartsra: 1
+ apriorial - techniqu: 1
+ base - approach: 1
+ browser - smart: 1
+ construc - method: 1
+ discoveri - phase: 1
+ effici - version: 1
+ frequent - navig: 1
+ graph - problem: 1
+ larg - scale: 1
+ link - inform: 1
+ mapreduc - paradigm: 1
+ miner - framework: 1
+ miner - session: 1
+ mine - larg: 1
+ mine - problem: 1
+ multipl - web: 1
+ navig - base: 1
+ navig - pattern: 1
+ pattern - discoveri: 1
+ previou - session: 1
+ referr - inform: 1
+ scalabl - framework: 1
+ scale - web: 1
+ server - log: 2
+ session - concept: 1
+ session - construc: 2
+ similar - result: 1
+ simpl - session: 1
+ simul - data: 1
+ smart - miner: 3
+ usag - data: 1
+ usag - mine: 1
+ usag - pattern: 1
+ user - session: 1
+ web - graph: 2
+ web - page: 2
+ web - server: 2
+ web - site: 1
+ web - usag: 3
+
+PageRank scores count: 47
+ accur: 0.01087960539124226
+ algorithm: 0.01087960539124226
+ approach: 0.02739824625183277
+ apriorial: 0.01087960539124226
+ base: 0.019433695130106485
+ browser: 0.01087960539124226
+ concept: 0.034019863082461015
+ construc: 0.034019863082461015
+ data: 0.025465917800678976
+ discoveri: 0.031936097473064196
+ effici: 0.01087960539124226
+ framework: 0.03202207854311073
+ frequent: 0.01087960539124226
+ graph: 0.01884228720008586
+ inform: 0.0293749345563541
+ larg: 0.01777236329313593
+ link: 0.01087960539124226
+ log: 0.026895548871884646
+ mapreduc: 0.01087960539124226
+ method: 0.03979648901133411
+ mine: 0.016218253218123056
+ miner: 0.02798778486897071
+ multipl: 0.01087960539124226
+ navig: 0.02012726997379818
+ page: 0.01884228720008586
+ paradigm: 0.02012726997379818
+ pattern: 0.024772342956987284
+ phase: 0.0380252896643037
+ previou: 0.01087960539124226
+ problem: 0.033788306773778316
+ referr: 0.01087960539124226
+ result: 0.02012726997379818
+ scalabl: 0.01087960539124226
+ scale: 0.02598611490088624
+ server: 0.01884228720008586
+ session: 0.05444766515580883
+ similar: 0.01087960539124226
+ simpl: 0.01087960539124226
+ simul: 0.01087960539124226
+ site: 0.01884228720008586
+ smart: 0.02012726997379818
+ smartsra: 0.02012726997379818
+ techniqu: 0.02012726997379818
+ usag: 0.01884228720008586
+ user: 0.015503437682520218
+ version: 0.02012726997379818
+ web: 0.046839300996547095
+
+N-grams list: 10
+ previou session construc
+ simpl session concept
+ pattern discoveri phase
+ web server log
+ web usag data
+ session construc
+ web usag mine
+ accur user session
+ smart miner framework
+ accur web usag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

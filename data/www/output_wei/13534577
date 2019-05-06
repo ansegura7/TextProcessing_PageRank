@@ -1,0 +1,71 @@
+File name: 13534577
+
+Graph edges count: 21
+ articl - corpu: 1
+ blog - mine: 1
+ blog - post: 1
+ chronolog - sequenc: 1
+ correl - coeffici: 1
+ crosslanguag - blog: 1
+ high - correl: 1
+ new - articl: 2
+ post - count: 1
+ present - idea: 1
+ qualit - statem: 1
+ refer - corpu: 1
+ refer - new: 1
+ resourc - among: 1
+ share - knowledg: 1
+ thought - present: 1
+ trend - analysi: 1
+ trend - visual: 3
+ valuabl - resourc: 1
+ visual - peopl: 1
+ visual - system: 1
+
+PageRank scores count: 29
+ among: 0.05256329049263399
+ analysi: 0.024774728755031568
+ articl: 0.04518195378108335
+ blog: 0.0378006170695327
+ chronolog: 0.020432765983531193
+ coeffici: 0.05256329049263399
+ corpu: 0.06752135224045278
+ correl: 0.0378006170695327
+ count: 0.05145608998590139
+ crosslanguag: 0.020432765983531193
+ high: 0.020432765983531193
+ idea: 0.05256329049263399
+ knowledg: 0.0378006170695327
+ mine: 0.03649802823808259
+ new: 0.029116691526531943
+ peopl: 0.03465269406019493
+ post: 0.03649802823808259
+ present: 0.0378006170695327
+ qualit: 0.020432765983531193
+ refer: 0.020432765983531193
+ resourc: 0.0378006170695327
+ sequenc: 0.0378006170695327
+ share: 0.020432765983531193
+ statem: 0.0378006170695327
+ system: 0.03465269406019493
+ thought: 0.020432765983531193
+ trend: 0.020432765983531193
+ valuabl: 0.020432765983531193
+ visual: 0.033458654298032325
+
+N-grams list: 10
+ blog post count
+ thought present idea
+ high correl coeffici
+ valuabl resourc among
+ refer new articl
+ crosslanguag blog mine
+ trend visual peopl
+ trend visual system
+ refer corpu
+ new articl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

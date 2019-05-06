@@ -1,0 +1,44 @@
+File name: 4609161
+
+Graph edges count: 11
+ access - control: 2
+ control - rule: 1
+ knowledg - manag: 1
+ manag - issu: 1
+ rule - languag: 1
+ semant - rule: 2
+ semant - web: 1
+ servic - semant: 1
+ tradition - web: 1
+ web - servic: 3
+ web - technologi: 2
+
+PageRank scores count: 12
+ access: 0.03542130187545028
+ control: 0.06552940846958301
+ issu: 0.09112129907459583
+ knowledg: 0.03542130187545028
+ languag: 0.16445594783632494
+ manag: 0.06552940846958301
+ rule: 0.15180546383326782
+ semant: 0.10708970401759503
+ servic: 0.0843157627191781
+ technologi: 0.06801760910460215
+ tradition: 0.03542130187545028
+ web: 0.09587149084891901
+
+N-grams list: 10
+ semant rule languag
+ web servic semant
+ semant rule
+ access control rule
+ tradition web technologi
+ knowledg manag issu
+ web servic
+ web technologi
+ rule
+ access control
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

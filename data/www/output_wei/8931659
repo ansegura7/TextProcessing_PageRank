@@ -1,0 +1,47 @@
+File name: 8931659
+
+Graph edges count: 10
+ bar - line: 1
+ diagrammat - infer: 2
+ infer - engin: 1
+ infer - system: 2
+ pie - chart: 1
+ search - engin: 1
+ svg - imag: 1
+ wide - web: 1
+ world - wide: 1
+ xml - file: 2
+
+PageRank scores count: 16
+ bar: 0.039848575413428976
+ chart: 0.0737198645148436
+ diagrammat: 0.039848575413428976
+ engin: 0.09460715946071595
+ file: 0.0737198645148436
+ imag: 0.0737198645148436
+ infer: 0.0737198645148436
+ line: 0.0737198645148436
+ pie: 0.039848575413428976
+ search: 0.039848575413428976
+ svg: 0.039848575413428976
+ system: 0.08162316530517368
+ web: 0.10251046025104603
+ wide: 0.0737198645148436
+ world: 0.039848575413428976
+ xml: 0.039848575413428976
+
+N-grams list: 10
+ world wide web
+ diagrammat infer system
+ infer engin
+ search engin
+ xml file
+ svg imag
+ bar line
+ pie chart
+ web
+ system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

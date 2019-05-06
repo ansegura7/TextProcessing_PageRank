@@ -1,0 +1,89 @@
+File name: 13526913
+
+Graph edges count: 29
+ ajax - interac: 1
+ ajax - techniqu: 1
+ browserbas - network: 1
+ browser - exten: 1
+ cobrows - dynam: 1
+ cobrows - solution: 2
+ collabor - brows: 1
+ current - stateoftheart: 1
+ domlevel - cobrows: 1
+ dom - level: 1
+ dom - tree: 1
+ dynam - interac: 1
+ dynam - web: 2
+ import - aspect: 1
+ incom - data: 1
+ interact - web: 1
+ interac - part: 1
+ javascript - engin: 2
+ javascript - interac: 1
+ network - televi: 1
+ page - collabor: 1
+ peopl - atadist: 1
+ research - demonstr: 1
+ stateoftheart - solution: 1
+ static - web: 1
+ ui - event: 1
+ user - experi: 1
+ web - applic: 1
+ web - page: 5
+
+PageRank scores count: 39
+ ajax: 0.014732275769572171
+ applic: 0.036390804386713806
+ aspect: 0.027254710173708518
+ atadist: 0.027254710173708518
+ brows: 0.05354706634310923
+ browser: 0.014732275769572171
+ browserbas: 0.014732275769572171
+ cobrows: 0.027254710173708518
+ collabor: 0.0456644594982789
+ current: 0.014732275769572171
+ data: 0.027254710173708518
+ demonstr: 0.027254710173708518
+ dom: 0.014732275769572171
+ domlevel: 0.014732275769572171
+ dynam: 0.026315527593398287
+ engin: 0.020993492971640344
+ event: 0.027254710173708518
+ experi: 0.027254710173708518
+ exten: 0.027254710173708518
+ import: 0.014732275769572171
+ incom: 0.014732275769572171
+ interac: 0.03843880940090279
+ interact: 0.014732275769572171
+ javascript: 0.014732275769572171
+ level: 0.020993492971640344
+ network: 0.027254710173708518
+ page: 0.036390804386713806
+ part: 0.04740526376033954
+ peopl: 0.014732275769572171
+ research: 0.014732275769572171
+ solution: 0.04948203124105052
+ stateoftheart: 0.027254710173708518
+ static: 0.014732275769572171
+ techniqu: 0.020993492971640344
+ televi: 0.03789877941722441
+ tree: 0.020993492971640344
+ ui: 0.014732275769572171
+ user: 0.014732275769572171
+ web: 0.050961243805039136
+
+N-grams list: 10
+ page collabor brows
+ dynam web page
+ dynam interac part
+ cobrows dynam web
+ interact web applic
+ static web page
+ domlevel cobrows solution
+ current stateoftheart solution
+ web page
+ browserbas network televi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

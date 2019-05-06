@@ -1,0 +1,65 @@
+File name: 6330602
+
+Graph edges count: 18
+ common - search: 1
+ communitycontribut - collec: 1
+ contentbas - tool: 1
+ divers - view: 1
+ francisco - area: 1
+ gener - divers: 1
+ imag - search: 2
+ locationdriven - featur: 1
+ reallif - dataset: 1
+ repres - imag: 1
+ repres - set: 1
+ repres - view: 1
+ rich - media: 1
+ san - francisco: 1
+ search - result: 1
+ search - task: 1
+ unsupervis - method: 1
+ visual - featur: 1
+
+PageRank scores count: 26
+ area: 0.06112550529526668
+ collec: 0.043958089327985755
+ common: 0.02376112936647879
+ communitycontribut: 0.02376112936647879
+ contentbas: 0.02376112936647879
+ dataset: 0.043958089327985755
+ divers: 0.043958089327985755
+ featur: 0.06415504928949273
+ francisco: 0.043958089327985755
+ gener: 0.02376112936647879
+ imag: 0.030493449353647777
+ locationdriven: 0.02376112936647879
+ media: 0.043958089327985755
+ method: 0.043958089327985755
+ reallif: 0.02376112936647879
+ repres: 0.02376112936647879
+ result: 0.053459075909877994
+ rich: 0.02376112936647879
+ san: 0.02376112936647879
+ search: 0.06987752127858637
+ set: 0.030493449353647777
+ task: 0.053459075909877994
+ tool: 0.043958089327985755
+ unsupervis: 0.02376112936647879
+ view: 0.06785782528243567
+ visual: 0.02376112936647879
+
+N-grams list: 10
+ common search task
+ san francisco area
+ repres imag search
+ divers view
+ imag search
+ repres view
+ locationdriven featur
+ visual featur
+ search
+ unsupervis method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

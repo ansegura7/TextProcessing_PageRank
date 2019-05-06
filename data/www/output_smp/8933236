@@ -1,0 +1,44 @@
+File name: 8933236
+
+Graph edges count: 10
+ abstract - navig: 1
+ actual - present: 1
+ hypermedia - present: 1
+ inform - system: 1
+ present - gener: 3
+ rdf - data: 1
+ web - inform: 1
+ web - present: 1
+ wi - methodologi: 1
+ wi - web: 1
+
+PageRank scores count: 13
+ abstract: 0.04417778244098815
+ actual: 0.04417778244098815
+ data: 0.08172889751582806
+ gener: 0.16830768721025588
+ hypermedia: 0.04417778244098815
+ inform: 0.07093295193181158
+ methodologi: 0.0629533399784081
+ navig: 0.08172889751582806
+ present: 0.14603518208149144
+ rdf: 0.04417778244098815
+ system: 0.10447079158302798
+ web: 0.0629533399784081
+ wi: 0.04417778244098815
+
+N-grams list: 10
+ actual present gener
+ present gener
+ web present
+ hypermedia present
+ wi web inform
+ abstract navig
+ rdf data
+ wi methodologi
+ system
+ inform
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

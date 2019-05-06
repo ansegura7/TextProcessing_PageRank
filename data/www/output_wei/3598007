@@ -1,0 +1,68 @@
+File name: 3598007
+
+Graph edges count: 20
+ actual - servic: 1
+ averag - precision: 1
+ communityawar - search: 1
+ communitybas - evid: 1
+ communitybas - inform: 1
+ contentbas - rank: 1
+ current - interac: 1
+ current - search: 1
+ engin - current: 1
+ evidenti - sourc: 1
+ onlin - bookstor: 1
+ person - search: 1
+ queri - andi: 1
+ rank - strategi: 1
+ rank - techniqu: 1
+ search - engin: 1
+ search - servicesthat: 1
+ search - technologi: 1
+ specif - user: 1
+ user - inform: 1
+
+PageRank scores count: 27
+ actual: 0.02169240383164781
+ andi: 0.040130947088548446
+ averag: 0.02169240383164781
+ bookstor: 0.040130947088548446
+ communityawar: 0.02169240383164781
+ communitybas: 0.02169240383164781
+ contentbas: 0.02169240383164781
+ current: 0.06042075492715695
+ engin: 0.04556275902651632
+ evid: 0.030911675460098126
+ evidenti: 0.02169240383164781
+ inform: 0.0650229804853643
+ interac: 0.04737122245457566
+ onlin: 0.02169240383164781
+ person: 0.02169240383164781
+ precision: 0.040130947088548446
+ queri: 0.02169240383164781
+ rank: 0.040130947088548446
+ search: 0.08424830896837694
+ servic: 0.040130947088548446
+ servicesthat: 0.04556275902651632
+ sourc: 0.040130947088548446
+ specif: 0.02169240383164781
+ strategi: 0.0387480563442809
+ techniqu: 0.0387480563442809
+ technologi: 0.04556275902651632
+ user: 0.040130947088548446
+
+N-grams list: 10
+ current search technologi
+ person search servicesthat
+ communityawar search engin
+ specif user inform
+ current interac
+ contentbas rank strategi
+ communitybas inform
+ rank techniqu
+ actual servic
+ queri andi
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

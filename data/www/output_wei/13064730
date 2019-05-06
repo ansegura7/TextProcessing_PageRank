@@ -1,0 +1,68 @@
+File name: 13064730
+
+Graph edges count: 20
+ asynchron - commun: 2
+ choreographi - analysi: 1
+ choreographi - conform: 3
+ choreographi - specif: 1
+ comput - environ: 1
+ crucial - problem: 1
+ interac - behavior: 1
+ messagebas - interac: 1
+ messag - exchang: 1
+ open - problem: 1
+ organiz - boundari: 1
+ orient - comput: 1
+ reliabl - manner: 1
+ servic - orient: 1
+ softwar - infrastructur: 1
+ synchroniz - choreographi: 1
+ synchroniz - problem: 1
+ synchroniz - servic: 1
+ synchron - commun: 1
+ undecid - problem: 1
+
+PageRank scores count: 27
+ analysi: 0.027534166839288884
+ asynchron: 0.02260295540234414
+ behavior: 0.0581461027725303
+ boundari: 0.04181546749433666
+ choreographi: 0.02900712609967498
+ commun: 0.061027979586329176
+ comput: 0.06277311610135182
+ conform: 0.03739658971317838
+ crucial: 0.02260295540234414
+ environ: 0.0759601040884932
+ exchang: 0.04181546749433666
+ infrastructur: 0.04181546749433666
+ interac: 0.04181546749433666
+ manner: 0.04181546749433666
+ messag: 0.02260295540234414
+ messagebas: 0.02260295540234414
+ open: 0.02260295540234414
+ organiz: 0.02260295540234414
+ orient: 0.04725901258706787
+ problem: 0.08664466237565255
+ reliabl: 0.02260295540234414
+ servic: 0.02900712609967498
+ softwar: 0.02260295540234414
+ specif: 0.027534166839288884
+ synchron: 0.02260295540234414
+ synchroniz: 0.02260295540234414
+ undecid: 0.02260295540234414
+
+N-grams list: 10
+ servic orient comput
+ comput environ
+ crucial problem
+ open problem
+ undecid problem
+ synchroniz problem
+ interac behavior
+ problem
+ asynchron commun
+ synchron commun
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

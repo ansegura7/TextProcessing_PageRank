@@ -1,0 +1,64 @@
+File name: 13502857
+
+Graph edges count: 16
+ buzzbas - recommend: 2
+ buzz - queri: 3
+ chosen - buzz: 1
+ ecommerc - applic: 1
+ extern - entiti: 1
+ improv - activ: 1
+ inventori - inform: 1
+ larg - sourc: 1
+ limit - quantiti: 1
+ perdai - basi: 1
+ quantiti - merchandis: 1
+ queri - trend: 1
+ recommend - system: 2
+ semant - neighborhood: 1
+ singl - buzz: 1
+ user - curios: 1
+
+PageRank scores count: 27
+ activ: 0.04071235620010674
+ applic: 0.04071235620010674
+ basi: 0.04071235620010674
+ buzz: 0.05941803337312876
+ buzzbas: 0.022006679027084725
+ chosen: 0.022006679027084725
+ curios: 0.04071235620010674
+ ecommerc: 0.022006679027084725
+ entiti: 0.04071235620010674
+ extern: 0.022006679027084725
+ improv: 0.022006679027084725
+ inform: 0.04071235620010674
+ inventori: 0.022006679027084725
+ larg: 0.022006679027084725
+ limit: 0.022006679027084725
+ merchandis: 0.05661218179717546
+ neighborhood: 0.04071235620010674
+ perdai: 0.022006679027084725
+ quantiti: 0.04071235620010674
+ queri: 0.07251200739424417
+ recommend: 0.04071235620010674
+ semant: 0.022006679027084725
+ singl: 0.022006679027084725
+ sourc: 0.04071235620010674
+ system: 0.05661218179717546
+ trend: 0.08364188531219227
+ user: 0.022006679027084725
+
+N-grams list: 10
+ queri trend
+ chosen buzz queri
+ singl buzz queri
+ buzz queri
+ buzzbas recommend system
+ limit quantiti merchandis
+ queri
+ perdai basi
+ inventori inform
+ ecommerc applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

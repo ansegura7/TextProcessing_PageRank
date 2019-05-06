@@ -1,0 +1,71 @@
+File name: 13528329
+
+Graph edges count: 20
+ attack - detec: 2
+ confid - machin: 1
+ ddo - attack: 2
+ detec - mechan: 1
+ detec - perform: 1
+ effect - instanc: 1
+ effici - ddo: 1
+ fuzzi - cmean: 1
+ genet - algorithm: 1
+ high - detec: 1
+ instanc - selec: 2
+ knearest - neighbor: 1
+ lightweight - ddo: 2
+ network - environ: 1
+ previou - work: 1
+ real - network: 1
+ selec - method: 2
+ train - time: 1
+ transduct - confid: 1
+ web - server: 2
+
+PageRank scores count: 30
+ algorithm: 0.032945694587623406
+ attack: 0.05867895333309143
+ cmean: 0.032945694587623406
+ confid: 0.032945694587623406
+ ddo: 0.048082905614369294
+ detec: 0.08282280492075111
+ effect: 0.017808483560877518
+ effici: 0.017808483560877518
+ environ: 0.045812323960357414
+ fuzzi: 0.017808483560877518
+ genet: 0.017808483560877518
+ high: 0.017808483560877518
+ instanc: 0.032945694587623406
+ knearest: 0.017808483560877518
+ lightweight: 0.017808483560877518
+ machin: 0.045812323960357414
+ mechan: 0.053008175652196746
+ method: 0.05674895892718132
+ neighbor: 0.032945694587623406
+ network: 0.032945694587623406
+ perform: 0.053008175652196746
+ previou: 0.017808483560877518
+ real: 0.017808483560877518
+ selec: 0.045812323960357414
+ server: 0.032945694587623406
+ time: 0.032945694587623406
+ train: 0.017808483560877518
+ transduct: 0.017808483560877518
+ web: 0.017808483560877518
+ work: 0.032945694587623406
+
+N-grams list: 10
+ high detec perform
+ detec mechan
+ instanc selec method
+ effici ddo attack
+ lightweight ddo attack
+ effect instanc selec
+ real network environ
+ transduct confid machin
+ detec
+ lightweight ddo
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

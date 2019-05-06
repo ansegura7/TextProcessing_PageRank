@@ -1,0 +1,82 @@
+File name: 13240315
+
+Graph edges count: 26
+ causal - link: 1
+ classif - scheme: 1
+ collabor - tag: 1
+ collabor - verbos: 1
+ descript - keyword: 1
+ emerg - semant: 3
+ hierarch - classif: 1
+ largescal - folksonomi: 1
+ natur - hypothesi: 1
+ pragmat - differenti: 1
+ recent - research: 1
+ semant - develop: 1
+ semant - nois: 1
+ semant - precision: 1
+ semant - similar: 1
+ semant - structur: 2
+ similar - measur: 1
+ small - set: 1
+ start - tag: 1
+ stop - think: 1
+ system - interest: 1
+ tag - semant: 2
+ tag - system: 1
+ think - start: 1
+ usag - pattern: 1
+ verbos - recent: 1
+
+PageRank scores count: 35
+ causal: 0.01607886829205094
+ classif: 0.029745906340294236
+ collabor: 0.01607886829205094
+ descript: 0.01607886829205094
+ develop: 0.024954669895519147
+ differenti: 0.029745906340294236
+ emerg: 0.01607886829205094
+ folksonomi: 0.029745906340294236
+ hierarch: 0.01607886829205094
+ hypothesi: 0.029745906340294236
+ interest: 0.043731300956073804
+ keyword: 0.029745906340294236
+ largescal: 0.01607886829205094
+ link: 0.029745906340294236
+ measur: 0.037290337703242214
+ natur: 0.01607886829205094
+ nois: 0.024954669895519147
+ pattern: 0.029745906340294236
+ pragmat: 0.01607886829205094
+ precision: 0.024954669895519147
+ recent: 0.03555439751079764
+ research: 0.046300106176228935
+ scheme: 0.04136288868130104
+ semant: 0.06265271720095204
+ set: 0.029745906340294236
+ similar: 0.024954669895519147
+ small: 0.01607886829205094
+ start: 0.04136288868130104
+ stop: 0.01607886829205094
+ structur: 0.033830471498987345
+ system: 0.032532273722379844
+ tag: 0.05807084269527847
+ think: 0.029745906340294236
+ usag: 0.01607886829205094
+ verbos: 0.02291238731617259
+
+N-grams list: 10
+ semant similar measur
+ tag semant
+ collabor tag system
+ semant structur
+ semant precision
+ semant nois
+ semant develop
+ stop think start
+ hierarch classif scheme
+ emerg semant
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

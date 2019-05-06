@@ -1,0 +1,97 @@
+File name: 3611227
+
+Graph edges count: 33
+ commun - cost: 1
+ databas - system: 1
+ datadepend - paramet: 1
+ data - distribu: 1
+ diskbas - similar: 1
+ fast - parallel: 1
+ highdimension - data: 2
+ index - highdimension: 1
+ index - scheme: 1
+ low - commun: 1
+ lsh - forest: 3
+ mainmemorybas - index: 1
+ main - memori: 1
+ multipl - text: 1
+ parallel - mainmemorybas: 1
+ parallel - system: 1
+ peertop - system: 2
+ perform - guarante: 1
+ previou - design: 1
+ queri - overhead: 1
+ search - engin: 1
+ selftun - index: 1
+ selftun - natur: 1
+ similaritysearch - queri: 1
+ similar - index: 3
+ similar - search: 2
+ skew - data: 1
+ superior - perform: 1
+ text - corpora: 1
+ text - data: 1
+ web - search: 1
+ wellknown - techniqu: 1
+ wide - varieti: 1
+
+PageRank scores count: 43
+ commun: 0.02306009419300485
+ corpora: 0.022265455812029687
+ cost: 0.03206599584405675
+ data: 0.06095793819357372
+ databas: 0.012464915780002625
+ datadepend: 0.012464915780002625
+ design: 0.02306009419300485
+ diskbas: 0.012464915780002625
+ distribu: 0.06427916324454029
+ engin: 0.038730363065835154
+ fast: 0.012464915780002625
+ forest: 0.02306009419300485
+ guarante: 0.03206599584405675
+ highdimension: 0.03305565172769624
+ index: 0.04844879046516145
+ low: 0.012464915780002625
+ lsh: 0.012464915780002625
+ main: 0.012464915780002625
+ mainmemorybas: 0.022265455812029687
+ memori: 0.02306009419300485
+ multipl: 0.012464915780002625
+ natur: 0.017762504986503738
+ overhead: 0.03206599584405675
+ parallel: 0.02306009419300485
+ paramet: 0.02306009419300485
+ peertop: 0.012464915780002625
+ perform: 0.02306009419300485
+ previou: 0.012464915780002625
+ queri: 0.02306009419300485
+ scheme: 0.03305565172769624
+ search: 0.030900526218626503
+ selftun: 0.012464915780002625
+ similar: 0.02306009419300485
+ similaritysearch: 0.012464915780002625
+ skew: 0.012464915780002625
+ superior: 0.012464915780002625
+ system: 0.04345581263803414
+ techniqu: 0.02306009419300485
+ text: 0.02306009419300485
+ varieti: 0.02306009419300485
+ web: 0.012464915780002625
+ wellknown: 0.012464915780002625
+ wide: 0.012464915780002625
+
+N-grams list: 10
+ index highdimension data
+ skew data distribu
+ highdimension data
+ text data
+ diskbas similar index
+ web search engin
+ index scheme
+ similar index
+ low commun cost
+ parallel system
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

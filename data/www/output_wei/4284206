@@ -1,0 +1,96 @@
+File name: 4284206
+
+Graph edges count: 34
+ addit - priceprefer: 1
+ configur - web: 2
+ current - approach: 1
+ decision - theori: 1
+ declar - logicbas: 1
+ dynam - prefer: 1
+ dynam - web: 1
+ experiment - result: 1
+ extens - framework: 1
+ function - experiment: 1
+ function - polici: 1
+ ineffici - approach: 1
+ kei - challeng: 1
+ linear - program: 1
+ logicbas - match: 1
+ match - rule: 1
+ multiattribut - decision: 1
+ numer - servic: 1
+ optim - method: 1
+ optim - result: 1
+ optim - servic: 2
+ owl - ontologi: 1
+ preferencebas - selec: 1
+ priceprefer - function: 1
+ random - servic: 1
+ servic - attribut: 1
+ servic - configur: 3
+ servic - offer: 1
+ servic - request: 1
+ servic - selec: 4
+ theori - method: 1
+ total - time: 1
+ util - function: 1
+ web - servic: 6
+
+PageRank scores count: 41
+ addit: 0.012621849028524444
+ approach: 0.034078992377016
+ attribut: 0.019274908238849538
+ challeng: 0.023350420702770217
+ configur: 0.03258102665949973
+ current: 0.012621849028524444
+ decision: 0.023350420702770217
+ declar: 0.012621849028524444
+ dynam: 0.012621849028524444
+ experiment: 0.030981117306077527
+ extens: 0.012621849028524444
+ framework: 0.023350420702770217
+ function: 0.043198278300124904
+ ineffici: 0.012621849028524444
+ kei: 0.012621849028524444
+ linear: 0.012621849028524444
+ logicbas: 0.023350420702770217
+ match: 0.03246970662587913
+ method: 0.042903242579083144
+ multiattribut: 0.012621849028524444
+ numer: 0.012621849028524444
+ offer: 0.019274908238849538
+ ontologi: 0.023350420702770217
+ optim: 0.012621849028524444
+ owl: 0.012621849028524444
+ polici: 0.030981117306077527
+ prefer: 0.017986134865647332
+ preferencebas: 0.012621849028524444
+ priceprefer: 0.023350420702770217
+ program: 0.023350420702770217
+ random: 0.012621849028524444
+ request: 0.019274908238849538
+ result: 0.04163794165725179
+ rule: 0.040221099660521696
+ selec: 0.04996265754407061
+ servic: 0.07827129288430977
+ theori: 0.03246970662587913
+ time: 0.023350420702770217
+ total: 0.012621849028524444
+ util: 0.012621849028524444
+ web: 0.045680010813460036
+
+N-grams list: 10
+ configur web servic
+ web servic configur
+ optim servic selec
+ random servic selec
+ dynam web servic
+ web servic
+ servic configur
+ numer servic attribut
+ servic request
+ util function polici
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

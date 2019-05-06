@@ -1,0 +1,68 @@
+File name: 7466171
+
+Graph edges count: 20
+ coher - topic: 1
+ frequenc - analysi: 1
+ global - properti: 1
+ import - challeng: 1
+ minim - cluster: 1
+ model - method: 1
+ multigrain - model: 2
+ multigrain - topic: 2
+ onlin - review: 1
+ onlin - user: 1
+ opinionbas - summari: 1
+ previou - work: 1
+ product - opinion: 1
+ product - type: 1
+ ratabl - aspect: 2
+ standard - model: 1
+ standard - topic: 2
+ term - frequenc: 1
+ topic - model: 3
+ user - review: 2
+
+PageRank scores count: 27
+ analysi: 0.05616566962141392
+ aspect: 0.040391249290424
+ challeng: 0.040391249290424
+ cluster: 0.040391249290424
+ coher: 0.021833107724553515
+ frequenc: 0.040391249290424
+ global: 0.021833107724553515
+ import: 0.021833107724553515
+ method: 0.09875660451508668
+ minim: 0.021833107724553515
+ model: 0.09049823151827432
+ multigrain: 0.021833107724553515
+ onlin: 0.021833107724553515
+ opinion: 0.03111217850748876
+ opinionbas: 0.021833107724553515
+ previou: 0.021833107724553515
+ product: 0.021833107724553515
+ properti: 0.040391249290424
+ ratabl: 0.021833107724553515
+ review: 0.0575575302388542
+ standard: 0.021833107724553515
+ summari: 0.040391249290424
+ term: 0.021833107724553515
+ topic: 0.058949390856294484
+ type: 0.03111217850748876
+ user: 0.03111217850748876
+ work: 0.040391249290424
+
+N-grams list: 10
+ multigrain topic model
+ standard topic model
+ term frequenc analysi
+ standard model
+ multigrain model
+ onlin user review
+ method
+ model
+ user review
+ multigrain topic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

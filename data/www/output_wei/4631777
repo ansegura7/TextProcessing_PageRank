@@ -1,0 +1,70 @@
+File name: 4631777
+
+Graph edges count: 19
+ ajax - applic: 1
+ applic - model: 1
+ browser - interfac: 1
+ complex - research: 1
+ dramat - advanc: 1
+ inform - task: 1
+ nonprocedur - question: 1
+ power - platform: 1
+ research - behavior: 1
+ search - capabl: 1
+ sensemak - task: 2
+ standard - browser: 1
+ usag - pattern: 1
+ vacat - destin: 1
+ vagu - nonprocedur: 1
+ webbas - applic: 1
+ wide - rang: 1
+ wide - web: 1
+ world - wide: 1
+
+PageRank scores count: 30
+ advanc: 0.03727208622947516
+ ajax: 0.02014707363755414
+ applic: 0.05439709882139617
+ behavior: 0.05182834693260802
+ browser: 0.03727208622947516
+ capabl: 0.03727208622947516
+ complex: 0.02014707363755414
+ destin: 0.03727208622947516
+ dramat: 0.02014707363755414
+ inform: 0.02014707363755414
+ interfac: 0.05182834693260802
+ model: 0.06638460763574089
+ nonprocedur: 0.03727208622947516
+ pattern: 0.03727208622947516
+ platform: 0.03727208622947516
+ power: 0.02014707363755414
+ question: 0.05182834693260802
+ rang: 0.03598771028508108
+ research: 0.03727208622947516
+ search: 0.02014707363755414
+ sensemak: 0.02014707363755414
+ standard: 0.02014707363755414
+ task: 0.05439709882139617
+ usag: 0.02014707363755414
+ vacat: 0.02014707363755414
+ vagu: 0.02014707363755414
+ web: 0.03598771028508108
+ webbas: 0.02014707363755414
+ wide: 0.03727208622947516
+ world: 0.02014707363755414
+
+N-grams list: 10
+ ajax applic model
+ complex research behavior
+ standard browser interfac
+ vagu nonprocedur question
+ world wide web
+ inform task
+ sensemak task
+ webbas applic
+ wide rang
+ search capabl
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,65 @@
+File name: 4380826
+
+Graph edges count: 20
+ applic - type: 1
+ base - truth: 1
+ classif - accuraci: 1
+ clienttoserv - direc: 1
+ core - traffic: 1
+ flow - inform: 1
+ flow - statist: 3
+ miss - statist: 1
+ network - core: 2
+ network - traffic: 1
+ packet - trace: 2
+ partial - inform: 1
+ peertop - traffic: 1
+ recent - packet: 1
+ servertocli - direc: 1
+ servertocli - flow: 1
+ tcp - connec: 1
+ traffic - classif: 2
+ unidirec - flow: 1
+ unidirec - packet: 1
+
+PageRank scores count: 24
+ accuraci: 0.09839757244588407
+ applic: 0.022522711162910224
+ base: 0.022522711162910224
+ classif: 0.0892645426858516
+ clienttoserv: 0.022522711162910224
+ connec: 0.041667015651383914
+ core: 0.03209486340714707
+ direc: 0.05123916789562076
+ flow: 0.041667015651383914
+ inform: 0.05937549730322207
+ miss: 0.022522711162910224
+ network: 0.022522711162910224
+ packet: 0.05123916789562076
+ partial: 0.022522711162910224
+ peertop: 0.022522711162910224
+ recent: 0.022522711162910224
+ servertocli: 0.022522711162910224
+ statist: 0.05937549730322207
+ tcp: 0.022522711162910224
+ trace: 0.06607600387418787
+ traffic: 0.07851980179169575
+ truth: 0.041667015651383914
+ type: 0.041667015651383914
+ unidirec: 0.022522711162910224
+
+N-grams list: 10
+ classif accuraci
+ traffic classif
+ unidirec packet trace
+ recent packet trace
+ network core traffic
+ servertocli flow statist
+ unidirec flow inform
+ network traffic
+ flow statist
+ peertop traffic
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

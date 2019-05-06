@@ -1,0 +1,53 @@
+File name: 10524156
+
+Graph edges count: 14
+ api - network: 2
+ build - easi: 1
+ clear - idea: 1
+ data - api: 4
+ import - role: 1
+ interest - mashup: 1
+ mashup - build: 1
+ mashup - navig: 2
+ navig - system: 1
+ popular - api: 1
+ reallif - data: 1
+ sampl - network: 1
+ semanticbas - mashup: 2
+ system - smash: 1
+
+PageRank scores count: 18
+ api: 0.09305596221751203
+ build: 0.05838938754188665
+ clear: 0.02718947033382382
+ data: 0.05030052011757406
+ easi: 0.07682044974442746
+ idea: 0.05030052011757406
+ import: 0.02718947033382382
+ interest: 0.02718947033382382
+ mashup: 0.07341156990132432
+ navig: 0.05838938754188665
+ network: 0.1293980880024593
+ popular: 0.02718947033382382
+ reallif: 0.02718947033382382
+ role: 0.05030052011757406
+ sampl: 0.02718947033382382
+ semanticbas: 0.02718947033382382
+ smash: 0.09248685261658716
+ system: 0.07682044974442746
+
+N-grams list: 10
+ data api network
+ mashup build easi
+ reallif data api
+ system smash
+ semanticbas mashup navig
+ sampl network
+ data api
+ network
+ popular api
+ interest mashup
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

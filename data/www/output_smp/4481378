@@ -1,0 +1,61 @@
+File name: 4481378
+
+Graph edges count: 18
+ cluster - properti: 1
+ code - scheme: 1
+ collec - indic: 1
+ compres - ratio: 1
+ compres - sequenti: 1
+ data - structur: 1
+ dgap - pattern: 1
+ dgap - sequenti: 2
+ docum - collec: 1
+ index - compres: 2
+ indic - due: 1
+ invert - index: 1
+ invert - list: 3
+ pattern - id: 1
+ sequenti - pattern: 3
+ structur - updown: 1
+ updown - tree: 1
+ web - docum: 1
+
+PageRank scores count: 22
+ cluster: 0.022051902021600713
+ code: 0.022051902021600713
+ collec: 0.05672851795056783
+ compres: 0.04876226834526458
+ data: 0.022051902021600713
+ dgap: 0.022051902021600713
+ docum: 0.04079601873996131
+ due: 0.08178237295924658
+ id: 0.08643914374414667
+ index: 0.03142396038078101
+ indic: 0.07027114227958337
+ invert: 0.022051902021600713
+ list: 0.03142396038078101
+ pattern: 0.07574969614417171
+ properti: 0.04079601873996131
+ ratio: 0.04277586606833816
+ scheme: 0.04079601873996131
+ sequenti: 0.052147924427518456
+ structur: 0.04079601873996131
+ tree: 0.07027114227958337
+ updown: 0.05672851795056783
+ web: 0.022051902021600713
+
+N-grams list: 10
+ pattern id
+ indic due
+ dgap sequenti pattern
+ index compres sequenti
+ web docum collec
+ data structur updown
+ invert index compres
+ dgap pattern
+ compres ratio
+ pattern
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

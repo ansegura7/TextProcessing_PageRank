@@ -1,0 +1,93 @@
+File name: 58974
+
+Graph edges count: 29
+ aggress - search: 2
+ arbitrari - modal: 1
+ contentbas - retriev: 1
+ feedback - techniqu: 1
+ graph - model: 1
+ illustr - exampl: 1
+ import - trend: 1
+ inform - process: 1
+ knowledg - base: 3
+ layer - graph: 1
+ link - analysi: 1
+ lowlevel - featur: 1
+ media - object: 1
+ multifacet - knowledg: 3
+ multimedia - retriev: 2
+ multimod - data: 2
+ multimod - object: 1
+ prevail - paradigm: 1
+ progress - manner: 1
+ relev - feedback: 1
+ retriev - algorithm: 1
+ retriev - contentbas: 1
+ retriev - perform: 1
+ sampl - object: 1
+ search - mechan: 1
+ seed - object: 1
+ uniqu - relev: 1
+ user - behavior: 1
+ web - inform: 1
+
+PageRank scores count: 43
+ aggress: 0.013683876074261933
+ algorithm: 0.027472902569008018
+ analysi: 0.02531517073738457
+ arbitrari: 0.013683876074261933
+ base: 0.03520177120103882
+ behavior: 0.02531517073738457
+ contentbas: 0.027472902569008018
+ data: 0.01949952340582325
+ exampl: 0.02531517073738457
+ featur: 0.02531517073738457
+ feedback: 0.03520177120103882
+ graph: 0.02531517073738457
+ illustr: 0.013683876074261933
+ import: 0.013683876074261933
+ inform: 0.02531517073738457
+ knowledg: 0.02531517073738457
+ layer: 0.013683876074261933
+ link: 0.013683876074261933
+ lowlevel: 0.013683876074261933
+ manner: 0.02531517073738457
+ mechan: 0.03520177120103882
+ media: 0.013683876074261933
+ modal: 0.02531517073738457
+ model: 0.03520177120103882
+ multifacet: 0.013683876074261933
+ multimedia: 0.013683876074261933
+ multimod: 0.013683876074261933
+ object: 0.054393407395191176
+ paradigm: 0.02531517073738457
+ perform: 0.027472902569008018
+ prevail: 0.013683876074261933
+ process: 0.03520177120103882
+ progress: 0.013683876074261933
+ relev: 0.02531517073738457
+ retriev: 0.048667134968908114
+ sampl: 0.013683876074261933
+ search: 0.02531517073738457
+ seed: 0.013683876074261933
+ techniqu: 0.043605381595144925
+ trend: 0.02531517073738457
+ uniqu: 0.013683876074261933
+ user: 0.013683876074261933
+ web: 0.013683876074261933
+
+N-grams list: 10
+ multimedia retriev contentbas
+ retriev algorithm
+ retriev perform
+ layer graph model
+ aggress search mechan
+ uniqu relev feedback
+ web inform process
+ multifacet knowledg base
+ multimod object
+ sampl object
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,85 @@
+File name: 13753027
+
+Graph edges count: 29
+ bayesian - gener: 1
+ bayesian - model: 1
+ citat - network: 1
+ dens - network: 1
+ docum - collec: 1
+ docum - hierarchi: 1
+ experiment - result: 1
+ finegrain - distinc: 1
+ gener - model: 1
+ hierarch - group: 1
+ hierarch - multimod: 1
+ hierarch - structur: 1
+ hierarch - taxonomi: 1
+ larg - docum: 1
+ latent - hierarch: 1
+ latent - space: 1
+ link - hierarch: 1
+ multilevel - view: 1
+ multimod - approach: 1
+ network - connec: 1
+ network - corpora: 1
+ network - structur: 1
+ nonparametr - bayesian: 1
+ prior - latent: 1
+ relat - link: 1
+ similar - word: 1
+ space - model: 1
+ underli - mechan: 1
+ word - distribu: 1
+
+PageRank scores count: 35
+ approach: 0.039716190430649605
+ bayesian: 0.029908301123494976
+ citat: 0.01616664925594323
+ collec: 0.028877677233428593
+ connec: 0.028534135936739802
+ corpora: 0.028534135936739802
+ dens: 0.01616664925594323
+ distinc: 0.029908301123494976
+ distribu: 0.041588705210913963
+ docum: 0.029908301123494976
+ experiment: 0.01616664925594323
+ finegrain: 0.01616664925594323
+ gener: 0.028877677233428593
+ group: 0.027705342558478088
+ hierarch: 0.05429973318839932
+ hierarchi: 0.028877677233428593
+ larg: 0.01616664925594323
+ latent: 0.029908301123494976
+ link: 0.029908301123494976
+ mechan: 0.029908301123494976
+ model: 0.0779697285302572
+ multilevel: 0.01616664925594323
+ multimod: 0.027705342558478088
+ network: 0.04364995299104673
+ nonparametr: 0.01616664925594323
+ prior: 0.01616664925594323
+ relat: 0.01616664925594323
+ result: 0.029908301123494976
+ similar: 0.01616664925594323
+ space: 0.028877677233428593
+ structur: 0.04007282923927465
+ taxonomi: 0.027705342558478088
+ underli: 0.01616664925594323
+ view: 0.029908301123494976
+ word: 0.029908301123494976
+
+N-grams list: 10
+ bayesian gener model
+ latent hierarch structur
+ nonparametr bayesian model
+ hierarch multimod approach
+ link hierarch taxonomi
+ citat network corpora
+ dens network connec
+ similar word distribu
+ network structur
+ hierarch group
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

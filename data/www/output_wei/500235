@@ -1,0 +1,91 @@
+File name: 500235
+
+Graph edges count: 28
+ automat - detec: 1
+ bandwidth - consump: 1
+ cach - unit: 1
+ content - gener: 2
+ costeffect - cach: 1
+ data - structur: 1
+ disk - space: 1
+ dynam - content: 1
+ dynam - web: 1
+ effici - algorithm: 1
+ error - prone: 1
+ expens - error: 1
+ flag - fragment: 1
+ fragmentawar - model: 1
+ fragmentbas - content: 1
+ fragment - detec: 1
+ good - method: 1
+ manual - fragment: 1
+ maxim - fragment: 1
+ multipl - docum: 2
+ network - bandwidth: 1
+ person - characterist: 2
+ practic - algorithm: 1
+ signific - benefit: 1
+ space - util: 1
+ uniqu - featur: 1
+ web - page: 5
+ web - site: 2
+
+PageRank scores count: 42
+ algorithm: 0.03824227187422543
+ automat: 0.01416380439786127
+ bandwidth: 0.02620303813604335
+ benefit: 0.02620303813604335
+ cach: 0.02620303813604335
+ characterist: 0.02620303813604335
+ consump: 0.03643638681349812
+ content: 0.03222265500513439
+ costeffect: 0.01416380439786127
+ data: 0.01416380439786127
+ detec: 0.06894231790658972
+ disk: 0.01416380439786127
+ docum: 0.02620303813604335
+ dynam: 0.01416380439786127
+ effici: 0.01416380439786127
+ error: 0.02620303813604335
+ expens: 0.01416380439786127
+ featur: 0.02620303813604335
+ flag: 0.01416380439786127
+ fragment: 0.050281505612407504
+ fragmentawar: 0.01416380439786127
+ fragmentbas: 0.01416380439786127
+ gener: 0.0415530611522255
+ good: 0.01416380439786127
+ manual: 0.01416380439786127
+ maxim: 0.01416380439786127
+ method: 0.02620303813604335
+ model: 0.02620303813604335
+ multipl: 0.01416380439786127
+ network: 0.01416380439786127
+ page: 0.0264180244527966
+ person: 0.01416380439786127
+ practic: 0.01416380439786127
+ prone: 0.03643638681349812
+ signific: 0.01416380439786127
+ site: 0.019065492419835402
+ space: 0.02620303813604335
+ structur: 0.02620303813604335
+ uniqu: 0.01416380439786127
+ unit: 0.03643638681349812
+ util: 0.03643638681349812
+ web: 0.02018342126695231
+
+N-grams list: 10
+ fragment detec
+ fragmentbas content gener
+ automat detec
+ disk space util
+ expens error prone
+ network bandwidth consump
+ costeffect cach unit
+ content gener
+ maxim fragment
+ flag fragment
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

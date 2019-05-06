@@ -1,0 +1,59 @@
+File name: 3676187
+
+Graph edges count: 16
+ classif - perform: 1
+ experiment - result: 1
+ explicit - hyperlink: 1
+ explicit - link: 3
+ implicit - link: 4
+ larg - dataset: 1
+ macrof1 - measur: 1
+ page - classif: 2
+ queri - log: 1
+ relat - docum: 1
+ space - hyperlink: 1
+ spars - noisi: 1
+ webpag - classif: 1
+ web - page: 6
+ web - queri: 1
+ web - space: 1
+
+PageRank scores count: 22
+ classif: 0.083022303568971
+ dataset: 0.05222712210912882
+ docum: 0.05222712210912882
+ experiment: 0.028230876815745307
+ explicit: 0.028230876815745307
+ hyperlink: 0.07102418092227923
+ implicit: 0.028230876815745307
+ larg: 0.028230876815745307
+ link: 0.06422524475582057
+ log: 0.059026058275587476
+ macrof1: 0.028230876815745307
+ measur: 0.05222712210912882
+ noisi: 0.05222712210912882
+ page: 0.03622962524687314
+ perform: 0.09879983484937065
+ queri: 0.03622962524687314
+ relat: 0.028230876815745307
+ result: 0.05222712210912882
+ space: 0.03622962524687314
+ spars: 0.028230876815745307
+ web: 0.028230876815745307
+ webpag: 0.028230876815745307
+
+N-grams list: 10
+ classif perform
+ web page classif
+ web space hyperlink
+ web queri log
+ webpag classif
+ explicit hyperlink
+ explicit link
+ implicit link
+ classif
+ macrof1 measur
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

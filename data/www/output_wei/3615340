@@ -1,0 +1,70 @@
+File name: 3615340
+
+Graph edges count: 22
+ automat - text: 1
+ benchmark - data: 1
+ compar - studi: 1
+ comprehens - compar: 1
+ comprehens - experi: 1
+ control - experiment: 1
+ data - set: 1
+ experiment - result: 1
+ idf - factor: 1
+ machin - term: 1
+ scheme - tfrf: 1
+ support - vector: 1
+ term - space: 1
+ term - weight: 5
+ text - categor: 3
+ tfrf - scheme: 1
+ tf - factor: 1
+ vector - machin: 1
+ vital - step: 1
+ weight - scheme: 5
+ widelyus - benchmark: 1
+ widelyus - term: 1
+
+PageRank scores count: 27
+ automat: 0.012567119380997116
+ benchmark: 0.017908145117920892
+ categor: 0.032328914607615084
+ compar: 0.017908145117920892
+ comprehens: 0.012567119380997116
+ control: 0.012567119380997116
+ data: 0.02778904273122987
+ experi: 0.017908145117920892
+ experiment: 0.023249170854844663
+ factor: 0.03393122232869221
+ idf: 0.012567119380997116
+ machin: 0.032328914607615084
+ result: 0.032328914607615084
+ scheme: 0.22075104562880501
+ set: 0.03618780570254251
+ space: 0.018997046740036223
+ step: 0.023249170854844663
+ studi: 0.02778904273122987
+ support: 0.012567119380997116
+ term: 0.04538772253439371
+ text: 0.023249170854844663
+ tf: 0.012567119380997116
+ tfrf: 0.2002054977829147
+ vector: 0.023249170854844663
+ vital: 0.012567119380997116
+ weight: 0.044716756176192654
+ widelyus: 0.012567119380997116
+
+N-grams list: 10
+ tfrf scheme
+ term weight scheme
+ scheme
+ tfrf
+ widelyus term weight
+ support vector machin
+ automat text categor
+ control experiment result
+ term space
+ widelyus benchmark data
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

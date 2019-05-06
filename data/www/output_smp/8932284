@@ -1,0 +1,79 @@
+File name: 8932284
+
+Graph edges count: 25
+ alloc - schedul: 1
+ base - profit: 1
+ central - control: 1
+ class - sla: 1
+ infrastructur - compani: 1
+ larg - servic: 1
+ level - agreem: 1
+ manag - cost: 1
+ multipl - class: 1
+ oper - cost: 1
+ parti - servic: 1
+ perform - level: 1
+ profit - optim: 1
+ rapid - growth: 1
+ request - volum: 1
+ resourc - alloc: 1
+ schedul - polici: 1
+ servic - center: 1
+ servic - level: 1
+ servic - provid: 2
+ sla - base: 1
+ system - load: 1
+ web - environ: 1
+ web - servic: 1
+ web - system: 1
+
+PageRank scores count: 33
+ agreem: 0.05265841441384215
+ alloc: 0.029601482162657157
+ base: 0.05098855302517694
+ center: 0.02952592282380353
+ central: 0.016000801169003865
+ class: 0.029601482162657157
+ compani: 0.029601482162657157
+ control: 0.029601482162657157
+ cost: 0.04320216315631044
+ environ: 0.02053436150022163
+ growth: 0.029601482162657157
+ infrastructur: 0.016000801169003865
+ larg: 0.016000801169003865
+ level: 0.04312660381745681
+ load: 0.033455008444192254
+ manag: 0.016000801169003865
+ multipl: 0.016000801169003865
+ oper: 0.016000801169003865
+ optim: 0.06644071172334749
+ parti: 0.016000801169003865
+ perform: 0.016000801169003865
+ polici: 0.05098855302517694
+ profit: 0.05934107124040427
+ provid: 0.02952592282380353
+ rapid: 0.016000801169003865
+ request: 0.016000801169003865
+ resourc: 0.016000801169003865
+ schedul: 0.04116206100726245
+ servic: 0.047735723487528206
+ sla: 0.04116206100726245
+ system: 0.02053436150022163
+ volum: 0.029601482162657157
+ web: 0.016000801169003865
+
+N-grams list: 10
+ sla base profit
+ servic level agreem
+ parti servic provid
+ larg servic center
+ schedul polici
+ resourc alloc schedul
+ multipl class sla
+ servic provid
+ optim
+ web servic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

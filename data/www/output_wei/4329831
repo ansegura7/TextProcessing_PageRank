@@ -1,0 +1,59 @@
+File name: 4329831
+
+Graph edges count: 15
+ 1000page - random: 1
+ ad - link: 1
+ affili - program: 1
+ common - maintain: 1
+ human - interac: 1
+ hyperlink - downweight: 1
+ languag - model: 2
+ link - exchang: 1
+ maintain - ad: 1
+ model - disagr: 2
+ nepotist - link: 1
+ page - crawl: 1
+ random - sampl: 1
+ short - note: 1
+ target - page: 1
+
+PageRank scores count: 23
+ 1000page: 0.023497479381328994
+ ad: 0.06044726570846884
+ affili: 0.023497479381328994
+ common: 0.023497479381328994
+ crawl: 0.06044726570846884
+ disagr: 0.06044726570846884
+ downweight: 0.04347033685545864
+ exchang: 0.10412041518283757
+ human: 0.023497479381328994
+ hyperlink: 0.023497479381328994
+ interac: 0.04347033685545864
+ languag: 0.023497479381328994
+ link: 0.09485051270765714
+ maintain: 0.04347033685545864
+ model: 0.04347033685545864
+ nepotist: 0.023497479381328994
+ note: 0.04347033685545864
+ page: 0.04347033685545864
+ program: 0.04347033685545864
+ random: 0.04347033685545864
+ sampl: 0.06044726570846884
+ short: 0.023497479381328994
+ target: 0.023497479381328994
+
+N-grams list: 10
+ link exchang
+ 1000page random sampl
+ common maintain ad
+ languag model disagr
+ nepotist link
+ page crawl
+ affili program
+ short note
+ target page
+ hyperlink downweight
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

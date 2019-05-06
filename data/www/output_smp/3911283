@@ -1,0 +1,57 @@
+File name: 3911283
+
+Graph edges count: 17
+ applic - cluster: 1
+ applic - instanc: 4
+ chosen - placem: 1
+ cluster - technologi: 1
+ configur - placem: 1
+ control - schedul: 1
+ dynam - applic: 1
+ dynam - placem: 1
+ instanc - placem: 2
+ middlewar - cluster: 1
+ placem - algorithm: 1
+ resourc - demand: 1
+ resourc - util: 1
+ schedul - placem: 1
+ server - machin: 2
+ technologi - capabl: 1
+ web - applic: 2
+
+PageRank scores count: 19
+ algorithm: 0.15391649268089913
+ applic: 0.054593572971621915
+ capabl: 0.09323363657013477
+ chosen: 0.02399717493258106
+ cluster: 0.06759704213821427
+ configur: 0.02399717493258106
+ control: 0.02399717493258106
+ demand: 0.03419597427892801
+ dynam: 0.02399717493258106
+ instanc: 0.04719944344552037
+ machin: 0.04439477362527496
+ middlewar: 0.02399717493258106
+ placem: 0.15284625617449182
+ resourc: 0.02399717493258106
+ schedul: 0.04439477362527496
+ server: 0.02399717493258106
+ technologi: 0.08145466075006319
+ util: 0.03419597427892801
+ web: 0.02399717493258106
+
+N-grams list: 10
+ placem algorithm
+ applic instanc placem
+ control schedul placem
+ dynam placem
+ configur placem
+ chosen placem
+ middlewar cluster technologi
+ placem
+ dynam applic instanc
+ applic cluster
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

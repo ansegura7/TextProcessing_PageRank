@@ -1,0 +1,70 @@
+File name: 4592642
+
+Graph edges count: 19
+ cluster - probabilist: 1
+ content - agnost: 1
+ covisit - count: 1
+ domain - independ: 1
+ googl - new: 3
+ item - set: 1
+ latent - semant: 1
+ linear - model: 1
+ minhash - cluster: 1
+ minim - effort: 1
+ new - person: 1
+ onlin - collabor: 1
+ person - recommend: 1
+ probabilist - latent: 1
+ recommend - engin: 1
+ report - result: 1
+ scalabl - onlin: 1
+ semant - index: 1
+ system - setup: 1
+
+PageRank scores count: 30
+ agnost: 0.03245024860261528
+ cluster: 0.03245024860261528
+ collabor: 0.04512338623255557
+ content: 0.017540674920332584
+ count: 0.03245024860261528
+ covisit: 0.017540674920332584
+ domain: 0.017540674920332584
+ effort: 0.03245024860261528
+ engin: 0.06505189515563668
+ googl: 0.017540674920332584
+ independ: 0.03245024860261528
+ index: 0.07283478580262377
+ item: 0.017540674920332584
+ latent: 0.05589555321800482
+ linear: 0.017540674920332584
+ minhash: 0.017540674920332584
+ minim: 0.017540674920332584
+ model: 0.03245024860261528
+ new: 0.03245024860261528
+ onlin: 0.03245024860261528
+ person: 0.04512338623255557
+ probabilist: 0.04512338623255557
+ recommend: 0.05589555321800482
+ report: 0.017540674920332584
+ result: 0.03245024860261528
+ scalabl: 0.017540674920332584
+ semant: 0.06505189515563668
+ set: 0.03245024860261528
+ setup: 0.03245024860261528
+ system: 0.017540674920332584
+
+N-grams list: 10
+ latent semant index
+ recommend engin
+ person recommend
+ minhash cluster probabilist
+ scalabl onlin collabor
+ googl new person
+ recommend
+ googl new
+ report result
+ linear model
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

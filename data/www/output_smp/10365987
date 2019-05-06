@@ -1,0 +1,81 @@
+File name: 10365987
+
+Graph edges count: 27
+ algorithm - perform: 1
+ automat - block: 1
+ contain - page: 1
+ content - block: 2
+ draganddrop - action: 1
+ edit - distanc: 1
+ end - user: 1
+ experiment - result: 1
+ favorit - web: 1
+ googl - homepag: 1
+ homepag - live: 2
+ homepag - servic: 1
+ homepag - system: 1
+ immut - elem: 1
+ intens - manual: 1
+ manual - effort: 1
+ person - homepag: 2
+ servic - provid: 1
+ singl - page: 1
+ singl - web: 1
+ soft - window: 1
+ tree - edit: 1
+ web - content: 3
+ web - page: 3
+ web - person: 1
+ web - user: 1
+ window - live: 1
+
+PageRank scores count: 33
+ action: 0.032192617778176814
+ algorithm: 0.01740141501523071
+ automat: 0.01740141501523071
+ block: 0.054134442626834665
+ contain: 0.01740141501523071
+ content: 0.025813911586656302
+ distanc: 0.044765140126681
+ draganddrop: 0.01740141501523071
+ edit: 0.032192617778176814
+ effort: 0.044765140126681
+ elem: 0.032192617778176814
+ end: 0.01740141501523071
+ experiment: 0.01740141501523071
+ favorit: 0.01740141501523071
+ googl: 0.01740141501523071
+ homepag: 0.054134442626834665
+ immut: 0.01740141501523071
+ intens: 0.01740141501523071
+ live: 0.060103232204284165
+ manual: 0.032192617778176814
+ page: 0.048000715731075456
+ perform: 0.032192617778176814
+ person: 0.025813911586656302
+ provid: 0.04522999604413949
+ result: 0.032192617778176814
+ servic: 0.03273950709283386
+ singl: 0.01740141501523071
+ soft: 0.01740141501523071
+ system: 0.03273950709283386
+ tree: 0.01740141501523071
+ user: 0.04060511434960241
+ web: 0.03958821915964986
+ window: 0.032192617778176814
+
+N-grams list: 10
+ homepag live
+ person homepag system
+ person homepag servic
+ soft window live
+ singl web page
+ tree edit distanc
+ intens manual effort
+ web page
+ favorit web content
+ web user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

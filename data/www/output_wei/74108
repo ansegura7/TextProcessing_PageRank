@@ -1,0 +1,62 @@
+File name: 74108
+
+Graph edges count: 19
+ adapt - web: 2
+ automat - adap: 1
+ automat - context: 1
+ contextawar - adapt: 2
+ context - framework: 2
+ context - inform: 1
+ context - plugin: 2
+ context - process: 2
+ context - servic: 2
+ context - type: 1
+ person - behavior: 1
+ postprocess - web: 1
+ serviceglob - system: 1
+ servic - context: 1
+ servic - messag: 1
+ servic - platform: 1
+ servic - pre: 1
+ underli - infrastructur: 1
+ web - servic: 8
+
+PageRank scores count: 22
+ adap: 0.03827379528887501
+ adapt: 0.04968878686625878
+ automat: 0.026858803711491235
+ behavior: 0.04968878686625878
+ context: 0.06285577588837146
+ contextawar: 0.026858803711491235
+ framework: 0.03754428587890923
+ inform: 0.03220154479520023
+ infrastructur: 0.04968878686625878
+ messag: 0.05144078431098768
+ person: 0.026858803711491235
+ platform: 0.05144078431098768
+ plugin: 0.03754428587890923
+ postprocess: 0.026858803711491235
+ pre: 0.05144078431098768
+ process: 0.03754428587890923
+ servic: 0.11567990322610117
+ serviceglob: 0.026858803711491235
+ system: 0.04968878686625878
+ type: 0.03220154479520023
+ underli: 0.026858803711491235
+ web: 0.09192425570257876
+
+N-grams list: 10
+ web servic context
+ web servic platform
+ postprocess web servic
+ context servic pre
+ web servic
+ context servic
+ contextawar adapt web
+ automat context process
+ servic
+ context plugin
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

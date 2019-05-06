@@ -1,0 +1,119 @@
+File name: 13251515
+
+Graph edges count: 41
+ accur - webpag: 1
+ adjust - rand: 1
+ autom - data: 1
+ averag - precision: 1
+ cluster - method: 1
+ cluster - perform: 1
+ data - extrac: 1
+ distanc - function: 2
+ distinct - type: 1
+ dom - tree: 5
+ entir - websit: 1
+ extrac - method: 1
+ featur - present: 1
+ global - analysi: 1
+ good - path: 1
+ high - degre: 1
+ human - input: 1
+ import - portion: 1
+ induc - process: 1
+ kei - path: 2
+ page - content: 1
+ perfect - cluster: 1
+ poor - cluster: 1
+ popular - page: 1
+ primari - requir: 1
+ product - page: 3
+ product - titl: 1
+ rand - score: 1
+ refin - cluster: 1
+ result - cluster: 1
+ search - data: 1
+ search - log: 1
+ search - queri: 1
+ search - traffic: 1
+ similar - page: 1
+ superfici - featur: 1
+ tradition - cluster: 1
+ trivial - featur: 1
+ unsupervis - cluster: 1
+ webpag - cluster: 1
+ wrapper - induc: 2
+
+PageRank scores count: 57
+ accur: 0.009892796096797296
+ adjust: 0.009892796096797296
+ analysi: 0.018301672779074997
+ autom: 0.009892796096797296
+ averag: 0.009892796096797296
+ cluster: 0.07590247805267726
+ content: 0.03617053572891512
+ data: 0.020403891949644426
+ degre: 0.018301672779074997
+ distanc: 0.009892796096797296
+ distinct: 0.009892796096797296
+ dom: 0.009892796096797296
+ entir: 0.009892796096797296
+ extrac: 0.027236104253995058
+ featur: 0.0267105494613527
+ function: 0.018301672779074997
+ global: 0.009892796096797296
+ good: 0.009892796096797296
+ high: 0.009892796096797296
+ human: 0.009892796096797296
+ import: 0.009892796096797296
+ induc: 0.018301672779074997
+ input: 0.018301672779074997
+ kei: 0.009892796096797296
+ log: 0.011995015267366722
+ method: 0.06530203788508093
+ page: 0.030914987802491554
+ path: 0.0267105494613527
+ perfect: 0.009892796096797296
+ perform: 0.04215134926918512
+ poor: 0.009892796096797296
+ popular: 0.009892796096797296
+ portion: 0.018301672779074997
+ precision: 0.018301672779074997
+ present: 0.03259676313894709
+ primari: 0.009892796096797296
+ process: 0.025449217959011044
+ product: 0.009892796096797296
+ queri: 0.011995015267366722
+ rand: 0.018301672779074997
+ refin: 0.009892796096797296
+ requir: 0.018301672779074997
+ result: 0.009892796096797296
+ score: 0.025449217959011044
+ search: 0.009892796096797296
+ similar: 0.009892796096797296
+ superfici: 0.009892796096797296
+ titl: 0.014097234437936148
+ tradition: 0.009892796096797296
+ traffic: 0.011995015267366722
+ tree: 0.018301672779074997
+ trivial: 0.009892796096797296
+ type: 0.018301672779074997
+ unsupervis: 0.009892796096797296
+ webpag: 0.018301672779074997
+ websit: 0.018301672779074997
+ wrapper: 0.009892796096797296
+
+N-grams list: 10
+ tradition cluster method
+ poor cluster perform
+ accur webpag cluster
+ perfect cluster
+ unsupervis cluster
+ refin cluster
+ result cluster
+ cluster
+ superfici featur present
+ page content
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

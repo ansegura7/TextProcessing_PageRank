@@ -1,0 +1,79 @@
+File name: 3801417
+
+Graph edges count: 26
+ annot - tag: 1
+ automat - gener: 1
+ automat - tag: 1
+ empir - evalu: 1
+ form - metadata: 1
+ free - form: 1
+ import - step: 1
+ keywordbas - classif: 1
+ keyword - relev: 1
+ larg - scale: 2
+ metadata - annot: 1
+ orient - automat: 1
+ page - annot: 1
+ page - ptag: 1
+ person - annot: 1
+ person - tag: 1
+ person - viewpoint: 1
+ promis - result: 1
+ relev - keyword: 1
+ scale - automat: 1
+ semant - web: 2
+ social - bookmark: 1
+ tag - approach: 1
+ textual - content: 1
+ user - orient: 1
+ web - page: 4
+
+PageRank scores count: 32
+ annot: 0.05954645797629063
+ approach: 0.08984519287680719
+ automat: 0.05408841099431961
+ bookmark: 0.02414078657165049
+ classif: 0.02414078657165049
+ content: 0.02414078657165049
+ empir: 0.013049073822513779
+ evalu: 0.02414078657165049
+ form: 0.02414078657165049
+ free: 0.013049073822513779
+ gener: 0.03603664849509961
+ import: 0.013049073822513779
+ keyword: 0.08699382548342519
+ keywordbas: 0.013049073822513779
+ larg: 0.013049073822513779
+ metadata: 0.033568742408416695
+ orient: 0.02414078657165049
+ page: 0.033568742408416695
+ person: 0.013049073822513779
+ promis: 0.013049073822513779
+ ptag: 0.027315789346090878
+ relev: 0.08699382548342519
+ result: 0.02414078657165049
+ scale: 0.02414078657165049
+ semant: 0.013049073822513779
+ social: 0.013049073822513779
+ step: 0.02414078657165049
+ tag: 0.09034837535799223
+ textual: 0.013049073822513779
+ user: 0.013049073822513779
+ viewpoint: 0.01674631140555935
+ web: 0.02414078657165049
+
+N-grams list: 10
+ tag approach
+ keyword relev
+ relev keyword
+ person annot tag
+ web page annot
+ person tag
+ metadata annot
+ user orient automat
+ larg scale automat
+ tag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

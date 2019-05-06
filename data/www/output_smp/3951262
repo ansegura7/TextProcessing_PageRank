@@ -1,0 +1,56 @@
+File name: 3951262
+
+Graph edges count: 15
+ affin - rank: 3
+ data - set: 2
+ effici - web: 1
+ inform - retriev: 1
+ inform - rich: 1
+ rank - scheme: 1
+ realworld - data: 1
+ repres - docum: 1
+ scheme - affin: 1
+ search - result: 2
+ toi - data: 1
+ topic - coverag: 1
+ top - search: 1
+ web - search: 1
+ wide - coverag: 1
+
+PageRank scores count: 20
+ affin: 0.13181319763164634
+ coverag: 0.05338434504081677
+ data: 0.05338434504081677
+ docum: 0.036578162342781856
+ effici: 0.019771979644746952
+ inform: 0.019771979644746952
+ rank: 0.13181319763164634
+ realworld: 0.019771979644746952
+ repres: 0.019771979644746952
+ result: 0.07729113992877142
+ retriev: 0.028175070993764408
+ rich: 0.028175070993764408
+ scheme: 0.13181319763164634
+ search: 0.06766960033414644
+ set: 0.06514867292944121
+ toi: 0.019771979644746952
+ top: 0.019771979644746952
+ topic: 0.019771979644746952
+ web: 0.036578162342781856
+ wide: 0.019771979644746952
+
+N-grams list: 10
+ rank scheme affin
+ affin rank
+ top search result
+ search result
+ realworld data set
+ toi data set
+ scheme
+ rank
+ effici web search
+ topic coverag
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

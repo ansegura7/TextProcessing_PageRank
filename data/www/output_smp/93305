@@ -1,0 +1,45 @@
+File name: 93305
+
+Graph edges count: 10
+ adapt - web: 2
+ advanc - function: 1
+ current - softwar: 1
+ educ - applic: 1
+ educ - system: 2
+ engin - research: 1
+ learn - manag: 1
+ learn - situat: 2
+ manag - system: 1
+ softwar - engin: 1
+
+PageRank scores count: 14
+ adapt: 0.04306562663178351
+ advanc: 0.04306562663178351
+ applic: 0.0613685179502915
+ current: 0.04306562663178351
+ educ: 0.04306562663178351
+ engin: 0.11078632451026307
+ function: 0.07967140926879948
+ learn: 0.04306562663178351
+ manag: 0.0613685179502915
+ research: 0.13723400246550713
+ situat: 0.0613685179502915
+ softwar: 0.07967140926879948
+ system: 0.11353175820803926
+ web: 0.07967140926879948
+
+N-grams list: 10
+ current softwar engin
+ learn manag system
+ educ system
+ research
+ adapt web
+ advanc function
+ engin
+ educ applic
+ learn situat
+ web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

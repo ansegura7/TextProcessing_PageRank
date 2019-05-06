@@ -1,0 +1,68 @@
+File name: 13522731
+
+Graph edges count: 21
+ approxim - queri: 3
+ attribut - weight: 1
+ autonom - web: 1
+ contextu - prefer: 1
+ databas - workload: 1
+ experiment - result: 1
+ offlin - preprocess: 1
+ origin - queri: 2
+ preliminari - user: 1
+ preprocess - step: 1
+ queri - criteria: 1
+ queri - relax: 1
+ queri - result: 2
+ queri - time: 1
+ rank - method: 1
+ relax - order: 1
+ repres - order: 1
+ user - origin: 1
+ user - queri: 1
+ user - studi: 1
+ web - databas: 2
+
+PageRank scores count: 26
+ approxim: 0.02157534932950379
+ attribut: 0.02157534932950379
+ autonom: 0.02157534932950379
+ contextu: 0.02157534932950379
+ criteria: 0.03503513999844362
+ databas: 0.0555025861501485
+ experiment: 0.02157534932950379
+ method: 0.039914396259582006
+ offlin: 0.02157534932950379
+ order: 0.06969426525825909
+ origin: 0.03288442826971869
+ prefer: 0.039914396259582006
+ preliminari: 0.02157534932950379
+ preprocess: 0.039914396259582006
+ queri: 0.07917523922905781
+ rank: 0.02157534932950379
+ relax: 0.03503513999844362
+ repres: 0.02157534932950379
+ result: 0.06683397759746167
+ step: 0.0555025861501485
+ studi: 0.03288442826971869
+ time: 0.03503513999844362
+ user: 0.039914396259582006
+ web: 0.039914396259582006
+ weight: 0.039914396259582006
+ workload: 0.06875254755713
+
+N-grams list: 10
+ approxim queri result
+ user origin queri
+ queri result
+ databas workload
+ user queri
+ offlin preprocess step
+ autonom web databas
+ queri time
+ queri criteria
+ queri relax
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

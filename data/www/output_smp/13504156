@@ -1,0 +1,46 @@
+File name: 13504156
+
+Graph edges count: 11
+ comput - problem: 1
+ human - comput: 2
+ human - effort: 1
+ kemeni - rule: 1
+ major - search: 1
+ optim - rank: 1
+ rank - aggreg: 1
+ relev - rank: 1
+ result - human: 1
+ search - engin: 1
+ search - result: 2
+
+PageRank scores count: 14
+ aggreg: 0.1234724337325694
+ comput: 0.0775790158950178
+ effort: 0.0775790158950178
+ engin: 0.06693554924273205
+ human: 0.09436788263251934
+ kemeni: 0.03747266577619709
+ major: 0.03747266577619709
+ optim: 0.03747266577619709
+ problem: 0.10341482928696222
+ rank: 0.10117619759573214
+ relev: 0.03747266577619709
+ result: 0.06693554924273205
+ rule: 0.06932443168596461
+ search: 0.06932443168596461
+
+N-grams list: 10
+ optim rank aggreg
+ search result human
+ comput problem
+ major search engin
+ human comput
+ human effort
+ relev rank
+ search result
+ kemeni rule
+ human
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

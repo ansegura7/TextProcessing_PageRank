@@ -1,0 +1,77 @@
+File name: 5332662
+
+Graph edges count: 22
+ applic - clone: 1
+ applic - engin: 1
+ clone - rate: 1
+ clone - relat: 1
+ divers - purpos: 1
+ futur - mainten: 1
+ initi - result: 1
+ mainten - product: 1
+ posit - impact: 1
+ potenti - benefit: 1
+ present - view: 1
+ relat - problem: 1
+ reusebas - method: 1
+ reus - opportun: 1
+ similar - studi: 1
+ systemat - studi: 1
+ tight - schedul: 1
+ uniqu - challeng: 1
+ unstabl - requir: 1
+ web - applic: 4
+ web - engin: 1
+ web - technologi: 1
+
+PageRank scores count: 34
+ applic: 0.025023454156569896
+ benefit: 0.036072771576354
+ challeng: 0.036072771576354
+ clone: 0.030133763463220047
+ divers: 0.01949879544667784
+ engin: 0.0356584221731121
+ futur: 0.01949879544667784
+ impact: 0.036072771576354
+ initi: 0.01949879544667784
+ mainten: 0.036072771576354
+ method: 0.036072771576354
+ opportun: 0.036072771576354
+ posit: 0.01949879544667784
+ potenti: 0.01949879544667784
+ present: 0.01949879544667784
+ problem: 0.04695859362744225
+ product: 0.05016065128657874
+ purpos: 0.036072771576354
+ rate: 0.032305644918546365
+ relat: 0.032305644918546365
+ requir: 0.036072771576354
+ result: 0.036072771576354
+ reus: 0.01949879544667784
+ reusebas: 0.01949879544667784
+ schedul: 0.036072771576354
+ similar: 0.01949879544667784
+ studi: 0.052646747706030166
+ systemat: 0.01949879544667784
+ technologi: 0.025023454156569896
+ tight: 0.01949879544667784
+ uniqu: 0.01949879544667784
+ unstabl: 0.01949879544667784
+ view: 0.036072771576354
+ web: 0.01949879544667784
+
+N-grams list: 10
+ clone relat problem
+ mainten product
+ web applic engin
+ web applic clone
+ systemat studi
+ similar studi
+ clone rate
+ reusebas method
+ unstabl requir
+ posit impact
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

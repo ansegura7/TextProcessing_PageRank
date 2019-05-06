@@ -1,0 +1,59 @@
+File name: 104778
+
+Graph edges count: 18
+ experiment - studi: 1
+ impact - search: 1
+ larg - number: 1
+ page - access: 1
+ page - popular: 1
+ popular - evolu: 1
+ popular - page: 2
+ popular - recent: 1
+ real - web: 1
+ recent - studi: 1
+ search - engin: 7
+ search - result: 2
+ unfortun - trend: 1
+ web - data: 1
+ web - page: 3
+ web - search: 1
+ web - user: 1
+ worrisom - impact: 1
+
+PageRank scores count: 20
+ access: 0.05267813656844328
+ data: 0.04054460700928897
+ engin: 0.06578494361820086
+ evolu: 0.04402882553401277
+ experiment: 0.029103351823625997
+ impact: 0.05384120087370809
+ larg: 0.029103351823625997
+ number: 0.05384120087370809
+ page: 0.05547008071967574
+ popular: 0.05267813656844328
+ real: 0.029103351823625997
+ recent: 0.04402882553401277
+ result: 0.06578494361820086
+ search: 0.08630962775194084
+ studi: 0.09126570345552913
+ trend: 0.05384120087370809
+ unfortun: 0.029103351823625997
+ user: 0.04054460700928897
+ web: 0.05384120087370809
+ worrisom: 0.029103351823625997
+
+N-grams list: 10
+ web search engin
+ impact search engin
+ web page access
+ page popular recent
+ search result
+ search engin
+ real web data
+ experiment studi
+ web page
+ popular page
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,75 @@
+File name: 13063481
+
+Graph edges count: 23
+ approxim - knng: 1
+ arbitrari - similar: 1
+ data - mine: 1
+ data - structur: 1
+ effici - algorithm: 1
+ effici - knearest: 1
+ gener - similar: 1
+ global - index: 1
+ graph - construc: 1
+ import - oper: 1
+ knearest - neighbor: 1
+ knng - construc: 2
+ largescal - applic: 1
+ local - search: 1
+ machin - learn: 1
+ minim - space: 1
+ neighbor - graph: 1
+ relat - applic: 1
+ share - global: 1
+ similar - measur: 4
+ similar - search: 1
+ space - overhead: 1
+ web - relat: 1
+
+PageRank scores count: 31
+ algorithm: 0.025757617095059325
+ applic: 0.06186346983006354
+ approxim: 0.018075520768462687
+ arbitrari: 0.018075520768462687
+ construc: 0.09074143018378114
+ data: 0.018075520768462687
+ effici: 0.018075520768462687
+ gener: 0.018075520768462687
+ global: 0.03343971342165597
+ graph: 0.05204959177283633
+ import: 0.018075520768462687
+ index: 0.04649927717687027
+ knearest: 0.025757617095059325
+ knng: 0.03343971342165597
+ largescal: 0.018075520768462687
+ learn: 0.03343971342165597
+ local: 0.018075520768462687
+ machin: 0.018075520768462687
+ measur: 0.051262176899360176
+ mine: 0.025757617095059325
+ minim: 0.018075520768462687
+ neighbor: 0.03996949529926311
+ oper: 0.03343971342165597
+ overhead: 0.04649927717687027
+ relat: 0.03343971342165597
+ search: 0.04173637745438034
+ share: 0.018075520768462687
+ similar: 0.04880390607484925
+ space: 0.03343971342165597
+ structur: 0.025757617095059325
+ web: 0.018075520768462687
+
+N-grams list: 10
+ graph construc
+ approxim knng construc
+ knng construc
+ gener similar measur
+ arbitrari similar measur
+ web relat applic
+ similar measur
+ share global index
+ minim space overhead
+ construc
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

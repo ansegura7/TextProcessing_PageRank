@@ -1,0 +1,68 @@
+File name: 4447492
+
+Graph edges count: 22
+ chord - p2p: 1
+ discoveri - approach: 1
+ import - issu: 1
+ largescal - repositori: 1
+ link - network: 2
+ link - type: 1
+ mean - result: 1
+ oper - name: 1
+ p2p - applic: 1
+ p2p - network: 3
+ p2p - servic: 1
+ previou - p2p: 1
+ requir - web: 1
+ semanticlinkbas - infrastructur: 1
+ semant - link: 1
+ semant - match: 1
+ semant - servic: 1
+ servic - discoveri: 2
+ servic - link: 2
+ servic - oper: 1
+ servic - request: 1
+ web - servic: 2
+
+PageRank scores count: 25
+ applic: 0.03371714991770395
+ approach: 0.06120211246058331
+ chord: 0.02310976690726796
+ discoveri: 0.044814524180371
+ import: 0.02310976690726796
+ infrastructur: 0.04275306877844572
+ issu: 0.04275306877844572
+ largescal: 0.02310976690726796
+ link: 0.051362291470763585
+ match: 0.029657534197660547
+ mean: 0.02310976690726796
+ name: 0.05197759061951451
+ network: 0.0840372144386753
+ oper: 0.033962145543819475
+ p2p: 0.06239637064962349
+ previou: 0.02310976690726796
+ repositori: 0.04275306877844572
+ request: 0.033962145543819475
+ requir: 0.02310976690726796
+ result: 0.04275306877844572
+ semant: 0.02310976690726796
+ semanticlinkbas: 0.02310976690726796
+ servic: 0.07660502566977541
+ type: 0.03766241615731764
+ web: 0.04275306877844572
+
+N-grams list: 10
+ chord p2p network
+ servic link type
+ web servic discoveri
+ servic oper name
+ previou p2p servic
+ semant link network
+ semant servic link
+ p2p network
+ requir web servic
+ servic request
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

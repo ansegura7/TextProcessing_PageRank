@@ -1,0 +1,66 @@
+File name: 9638439
+
+Graph edges count: 19
+ addition - bidterm: 1
+ advertis - pervas: 1
+ ad - clickabl: 1
+ ad - match: 1
+ art - produc: 1
+ bidterm - consist: 1
+ bidterm - sugges: 2
+ commerci - search: 1
+ compar - precision: 1
+ conver - rate: 1
+ engin - advert: 1
+ intentdriven - bidterm: 1
+ largescal - bidterm: 1
+ match - difficult: 1
+ onlin - advertis: 1
+ preliminari - experi: 1
+ produc - system: 1
+ search - engin: 1
+ sugges - system: 1
+
+PageRank scores count: 26
+ ad: 0.020749991138024615
+ addition: 0.020749991138024615
+ advert: 0.06612244051020769
+ advertis: 0.03838748360534554
+ art: 0.020749991138024615
+ bidterm: 0.0736624685399874
+ clickabl: 0.029568737371685073
+ commerci: 0.020749991138024615
+ compar: 0.020749991138024615
+ consist: 0.04162102389102104
+ conver: 0.020749991138024615
+ difficult: 0.045883417903956926
+ engin: 0.05337935220256832
+ experi: 0.03838748360534554
+ intentdriven: 0.020749991138024615
+ largescal: 0.020749991138024615
+ match: 0.029568737371685073
+ onlin: 0.020749991138024615
+ pervas: 0.05337935220256832
+ precision: 0.03838748360534554
+ preliminari: 0.020749991138024615
+ produc: 0.03838748360534554
+ rate: 0.03838748360534554
+ search: 0.03838748360534554
+ sugges: 0.062492056644017475
+ system: 0.10649760034998317
+
+N-grams list: 10
+ art produc system
+ largescal bidterm sugges
+ intentdriven bidterm sugges
+ bidterm consist
+ commerci search engin
+ onlin advertis pervas
+ system
+ ad match difficult
+ addition bidterm
+ advert
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

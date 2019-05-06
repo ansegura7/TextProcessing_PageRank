@@ -1,0 +1,56 @@
+File name: 105768
+
+Graph edges count: 14
+ analog - video: 1
+ caption - data: 1
+ crossmedia - environ: 1
+ favorit - scene: 1
+ multipl - lod: 1
+ normal - web: 1
+ ona - normal: 1
+ tv2web - system: 1
+ tv - ona: 1
+ video - equip: 1
+ video - stream: 2
+ video - unit: 1
+ web - browser: 1
+ web - content: 3
+
+PageRank scores count: 21
+ analog: 0.02857938486803737
+ browser: 0.06728489234770894
+ caption: 0.02857938486803737
+ content: 0.06728489234770894
+ crossmedia: 0.02857938486803737
+ data: 0.052871862005869144
+ environ: 0.052871862005869144
+ equip: 0.043559745769700293
+ favorit: 0.02857938486803737
+ lod: 0.052871862005869144
+ multipl: 0.02857938486803737
+ normal: 0.07352046757302615
+ ona: 0.052871862005869144
+ scene: 0.052871862005869144
+ stream: 0.043559745769700293
+ system: 0.052871862005869144
+ tv: 0.02857938486803737
+ tv2web: 0.02857938486803737
+ unit: 0.043559745769700293
+ video: 0.052871862005869144
+ web: 0.0910717823051096
+
+N-grams list: 10
+ web browser
+ web content
+ tv ona normal
+ analog video equip
+ video unit
+ video stream
+ web
+ tv2web system
+ caption data
+ favorit scene
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

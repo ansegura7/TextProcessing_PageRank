@@ -1,0 +1,77 @@
+File name: 12003689
+
+Graph edges count: 22
+ address - data: 1
+ daili - basi: 1
+ facebook - social: 1
+ geograph - predic: 1
+ import - implic: 1
+ intrusion - detec: 1
+ ipbas - geoloc: 1
+ local - commun: 1
+ locationbas - servic: 1
+ locat - user: 1
+ onlin - data: 1
+ proxim - geographi: 1
+ reliabl - model: 1
+ secur - intrusion: 1
+ servic - secur: 1
+ social - media: 1
+ social - network: 1
+ social - relationship: 2
+ spars - set: 1
+ spatial - proxim: 1
+ time - onlin: 1
+ usersuppli - address: 1
+
+PageRank scores count: 34
+ address: 0.032002625945199176
+ basi: 0.032002625945199176
+ commun: 0.032002625945199176
+ daili: 0.017298716727134688
+ data: 0.07170318083397328
+ detec: 0.06415456143914942
+ facebook: 0.017298716727134688
+ geograph: 0.017298716727134688
+ geographi: 0.04450094878055398
+ geoloc: 0.032002625945199176
+ implic: 0.032002625945199176
+ import: 0.017298716727134688
+ intrusion: 0.05512452319060557
+ ipbas: 0.017298716727134688
+ local: 0.017298716727134688
+ locat: 0.017298716727134688
+ locationbas: 0.017298716727134688
+ media: 0.026366127411607786
+ model: 0.032002625945199176
+ network: 0.026366127411607786
+ onlin: 0.032002625945199176
+ predic: 0.032002625945199176
+ proxim: 0.032002625945199176
+ relationship: 0.026366127411607786
+ reliabl: 0.017298716727134688
+ secur: 0.04450094878055398
+ servic: 0.032002625945199176
+ set: 0.032002625945199176
+ social: 0.032002625945199176
+ spars: 0.017298716727134688
+ spatial: 0.017298716727134688
+ time: 0.017298716727134688
+ user: 0.032002625945199176
+ usersuppli: 0.017298716727134688
+
+N-grams list: 10
+ usersuppli address data
+ time onlin data
+ intrusion detec
+ spatial proxim geographi
+ locationbas servic secur
+ facebook social network
+ social relationship
+ social media
+ ipbas geoloc
+ locat user
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

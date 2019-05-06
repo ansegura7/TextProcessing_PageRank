@@ -1,0 +1,64 @@
+File name: 13536686
+
+Graph edges count: 17
+ ajaxstyl - applic: 1
+ browser - todai: 1
+ code - migrat: 1
+ execu - environ: 1
+ gui - featur: 1
+ instant - code: 1
+ internet - explor: 1
+ power - javascript: 1
+ predomin - languag: 1
+ program - applic: 1
+ signific - simplif: 1
+ todai - javascript: 1
+ w3c - standard: 1
+ web - browser: 2
+ xqueri - famili: 1
+ xqueri - plugin: 1
+ xqueri - program: 1
+
+PageRank scores count: 26
+ ajaxstyl: 0.02393921832467365
+ applic: 0.07040125122314443
+ browser: 0.044287553900646245
+ code: 0.044287553900646245
+ environ: 0.044287553900646245
+ execu: 0.02393921832467365
+ explor: 0.044287553900646245
+ famili: 0.030721996849997848
+ featur: 0.044287553900646245
+ gui: 0.02393921832467365
+ instant: 0.02393921832467365
+ internet: 0.02393921832467365
+ javascript: 0.09663364716983576
+ languag: 0.044287553900646245
+ migrat: 0.06158363914022296
+ plugin: 0.030721996849997848
+ power: 0.02393921832467365
+ predomin: 0.02393921832467365
+ program: 0.030721996849997848
+ signific: 0.02393921832467365
+ simplif: 0.044287553900646245
+ standard: 0.044287553900646245
+ todai: 0.06158363914022296
+ w3c: 0.02393921832467365
+ web: 0.02393921832467365
+ xqueri: 0.02393921832467365
+
+N-grams list: 10
+ todai javascript
+ instant code migrat
+ power javascript
+ browser todai
+ program applic
+ javascript
+ ajaxstyl applic
+ applic
+ predomin languag
+ execu environ
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

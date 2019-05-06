@@ -1,0 +1,89 @@
+File name: 13526913
+
+Graph edges count: 29
+ ajax - interac: 1
+ ajax - techniqu: 1
+ browserbas - network: 1
+ browser - exten: 1
+ cobrows - dynam: 1
+ cobrows - solution: 2
+ collabor - brows: 1
+ current - stateoftheart: 1
+ domlevel - cobrows: 1
+ dom - level: 1
+ dom - tree: 1
+ dynam - interac: 1
+ dynam - web: 2
+ import - aspect: 1
+ incom - data: 1
+ interact - web: 1
+ interac - part: 1
+ javascript - engin: 2
+ javascript - interac: 1
+ network - televi: 1
+ page - collabor: 1
+ peopl - atadist: 1
+ research - demonstr: 1
+ stateoftheart - solution: 1
+ static - web: 1
+ ui - event: 1
+ user - experi: 1
+ web - applic: 1
+ web - page: 5
+
+PageRank scores count: 39
+ ajax: 0.01449206654752144
+ applic: 0.021808483628743627
+ aspect: 0.02681032311291466
+ atadist: 0.02681032311291466
+ brows: 0.06371139789941406
+ browser: 0.01449206654752144
+ browserbas: 0.01449206654752144
+ cobrows: 0.02681032311291466
+ collabor: 0.05790509570810896
+ current: 0.01449206654752144
+ data: 0.02681032311291466
+ demonstr: 0.02681032311291466
+ dom: 0.01449206654752144
+ domlevel: 0.01449206654752144
+ dynam: 0.02208832476284726
+ engin: 0.02270423759111692
+ event: 0.02681032311291466
+ experi: 0.02681032311291466
+ exten: 0.02681032311291466
+ import: 0.01449206654752144
+ incom: 0.01449206654752144
+ interac: 0.031015639034822514
+ interact: 0.01449206654752144
+ javascript: 0.01449206654752144
+ level: 0.020651194830218052
+ network: 0.02681032311291466
+ page: 0.05107415195363238
+ part: 0.04085535972712057
+ peopl: 0.01449206654752144
+ research: 0.01449206654752144
+ solution: 0.052473357624150535
+ stateoftheart: 0.02681032311291466
+ static: 0.01449206654752144
+ techniqu: 0.020651194830218052
+ televi: 0.0372808411934989
+ tree: 0.020651194830218052
+ ui: 0.01449206654752144
+ user: 0.01449206654752144
+ web: 0.05164529704392133
+
+N-grams list: 10
+ page collabor brows
+ dynam web page
+ static web page
+ web page
+ cobrows dynam web
+ dynam interac part
+ domlevel cobrows solution
+ current stateoftheart solution
+ interact web applic
+ cobrows solution
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

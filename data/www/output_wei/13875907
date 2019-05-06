@@ -1,0 +1,79 @@
+File name: 13875907
+
+Graph edges count: 23
+ bandwidth - user: 1
+ bittorr - commun: 1
+ bittorr - protocol: 1
+ concert - record: 1
+ credit - system: 1
+ dime - moder: 1
+ download - privat: 1
+ econom - forc: 1
+ fileshar - commun: 1
+ free - leech: 1
+ fullfledg - economi: 1
+ halfyearlong - measur: 1
+ kei - observ: 1
+ live - concert: 1
+ low - bandwidth: 1
+ measur - studi: 1
+ minimum - ratio: 1
+ natur - experi: 1
+ privat - commun: 1
+ privat - fileshar: 1
+ ratio - enforc: 1
+ visit - frequenc: 1
+ year - privat: 1
+
+PageRank scores count: 35
+ bandwidth: 0.03180859820797236
+ bittorr: 0.01719383686917425
+ commun: 0.07561634532101971
+ concert: 0.03180859820797236
+ credit: 0.01719383686917425
+ dime: 0.01719383686917425
+ download: 0.01719383686917425
+ econom: 0.01719383686917425
+ economi: 0.03180859820797236
+ enforc: 0.044231145345950754
+ experi: 0.03180859820797236
+ fileshar: 0.0369237646765517
+ forc: 0.03180859820797236
+ free: 0.01719383686917425
+ frequenc: 0.03180859820797236
+ fullfledg: 0.01719383686917425
+ halfyearlong: 0.01719383686917425
+ kei: 0.01719383686917425
+ leech: 0.03180859820797236
+ live: 0.01719383686917425
+ low: 0.01719383686917425
+ measur: 0.03180859820797236
+ minimum: 0.01719383686917425
+ moder: 0.03180859820797236
+ natur: 0.01719383686917425
+ observ: 0.03180859820797236
+ privat: 0.046423359546770473
+ protocol: 0.024501217538573306
+ ratio: 0.03180859820797236
+ record: 0.044231145345950754
+ studi: 0.044231145345950754
+ system: 0.03180859820797236
+ user: 0.044231145345950754
+ visit: 0.01719383686917425
+ year: 0.01719383686917425
+
+N-grams list: 10
+ download privat commun
+ year privat fileshar
+ low bandwidth user
+ halfyearlong measur studi
+ live concert record
+ bittorr commun
+ ratio enforc
+ commun
+ kei observ
+ free leech
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

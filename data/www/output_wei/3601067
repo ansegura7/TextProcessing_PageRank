@@ -1,0 +1,75 @@
+File name: 3601067
+
+Graph edges count: 23
+ approach - respect: 1
+ inherit - hierarchi: 1
+ modelmap - approach: 1
+ natur - xml: 1
+ node - order: 1
+ queri - languag: 2
+ rdf - queri: 1
+ recent - initi: 1
+ semant - connec: 1
+ semant - level: 1
+ simpl - translat: 1
+ structuremap - approach: 1
+ structuremap - strategi: 1
+ trivial - xpath: 1
+ xmlrdf - syntax: 1
+ xml - docum: 1
+ xml - languag: 1
+ xml - queri: 2
+ xml - schema: 1
+ xpath - axi: 1
+ xpath - construct: 1
+ xpath - expres: 1
+ xpath - implement: 1
+
+PageRank scores count: 31
+ approach: 0.04785856584181639
+ axi: 0.029306797599288115
+ connec: 0.029977343439379498
+ construct: 0.029306797599288115
+ docum: 0.027652784527062702
+ expres: 0.029306797599288115
+ hierarchi: 0.03891795464059795
+ implement: 0.029306797599288115
+ inherit: 0.021036732238161052
+ initi: 0.03891795464059795
+ languag: 0.07198033486270376
+ level: 0.029977343439379498
+ modelmap: 0.021036732238161052
+ natur: 0.021036732238161052
+ node: 0.021036732238161052
+ order: 0.03891795464059795
+ queri: 0.052150059218401254
+ rdf: 0.021036732238161052
+ recent: 0.021036732238161052
+ respect: 0.061716513203704984
+ schema: 0.027652784527062702
+ semant: 0.021036732238161052
+ simpl: 0.021036732238161052
+ strategi: 0.029977343439379498
+ structuremap: 0.021036732238161052
+ syntax: 0.03891795464059795
+ translat: 0.03891795464059795
+ trivial: 0.021036732238161052
+ xml: 0.03891795464059795
+ xmlrdf: 0.021036732238161052
+ xpath: 0.03891795464059795
+
+N-grams list: 10
+ rdf queri languag
+ modelmap approach respect
+ natur xml queri
+ xml languag
+ xml queri
+ trivial xpath expres
+ languag
+ structuremap approach
+ xpath implement
+ xpath construct
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

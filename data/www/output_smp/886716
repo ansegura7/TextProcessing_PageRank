@@ -1,0 +1,83 @@
+File name: 886716
+
+Graph edges count: 29
+ access - content: 1
+ answer - fast: 1
+ central - system: 1
+ current - search: 2
+ dataqueri - load: 1
+ data - web: 1
+ fast - respons: 1
+ hand - internet: 1
+ high - avail: 1
+ high - qualiti: 1
+ high - queri: 1
+ internet - user: 1
+ larg - central: 1
+ main - challeng: 1
+ network - latenc: 1
+ petabyt - current: 1
+ qualiti - answer: 1
+ queri - process: 1
+ queri - throughput: 1
+ respons - time: 1
+ retriev - system: 1
+ scatter - data: 1
+ search - engin: 4
+ throughput - high: 1
+ time - high: 1
+ web - data: 2
+ web - retriev: 2
+ web - search: 1
+ web - site: 1
+
+PageRank scores count: 33
+ access: 0.01241859002637686
+ answer: 0.04375540402197974
+ avail: 0.036866837182392385
+ central: 0.022974391548797192
+ challeng: 0.022974391548797192
+ content: 0.022974391548797192
+ current: 0.022974391548797192
+ data: 0.03125960876204702
+ dataqueri: 0.01241859002637686
+ engin: 0.04661582407406552
+ fast: 0.04961068433271589
+ hand: 0.01241859002637686
+ high: 0.08628793535753015
+ internet: 0.022974391548797192
+ larg: 0.01241859002637686
+ latenc: 0.022974391548797192
+ load: 0.022974391548797192
+ main: 0.01241859002637686
+ network: 0.01241859002637686
+ petabyt: 0.01241859002637686
+ process: 0.028086997024178304
+ qualiti: 0.036866837182392385
+ queri: 0.036866837182392385
+ respons: 0.05458766993387287
+ retriev: 0.020703807239626684
+ scatter: 0.01241859002637686
+ search: 0.0402320400561043
+ site: 0.020703807239626684
+ system: 0.049545058996537154
+ throughput: 0.028086997024178304
+ time: 0.05881811302079379
+ user: 0.03194682284285447
+ web: 0.03898925747411682
+
+N-grams list: 10
+ high qualiti answer
+ fast respons time
+ high queri throughput
+ high avail
+ current search engin
+ web retriev system
+ web data web
+ search engin
+ larg central system
+ petabyt current search
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

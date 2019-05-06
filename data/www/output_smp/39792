@@ -1,0 +1,88 @@
+File name: 39792
+
+Graph edges count: 30
+ agent - contract: 1
+ applic - domain: 1
+ behavior - provision: 1
+ busi - contract: 1
+ complex - contract: 1
+ courteou - logic: 1
+ descrip - sweetdeal: 1
+ ebusi - applic: 1
+ excep - condition: 1
+ knowledg - descrip: 1
+ knowledg - represent: 2
+ late - deliveri: 1
+ logic - program: 1
+ practic - ebusi: 1
+ process - descrip: 1
+ process - knowledg: 2
+ program - knowledg: 1
+ rulebas - approach: 1
+ rule - ontologi: 1
+ search - select: 1
+ semant - web: 4
+ situat - courteou: 1
+ softwar - agent: 1
+ substanti - autom: 1
+ sweetdeal - approach: 1
+ web - ontologi: 1
+ web - servic: 2
+ web - standard: 1
+ web - xml: 1
+ xml - rule: 2
+
+PageRank scores count: 37
+ agent: 0.025057725275238987
+ applic: 0.03484378284894719
+ approach: 0.06770794642343436
+ autom: 0.025057725275238987
+ behavior: 0.013544716364994049
+ busi: 0.013544716364994049
+ complex: 0.013544716364994049
+ condition: 0.025057725275238987
+ contract: 0.057869800669437074
+ courteou: 0.025057725275238987
+ deliveri: 0.025057725275238987
+ descrip: 0.04309648752657499
+ domain: 0.04316193178659916
+ ebusi: 0.025057725275238987
+ excep: 0.013544716364994049
+ knowledg: 0.055988862838725804
+ late: 0.013544716364994049
+ logic: 0.03484378284894719
+ ontologi: 0.04401569335359952
+ practic: 0.013544716364994049
+ process: 0.013544716364994049
+ program: 0.04316193178659916
+ provision: 0.025057725275238987
+ represent: 0.03733998307145252
+ rule: 0.029583776903079038
+ rulebas: 0.013544716364994049
+ search: 0.013544716364994049
+ select: 0.025057725275238987
+ semant: 0.013544716364994049
+ servic: 0.018869482985982334
+ situat: 0.013544716364994049
+ softwar: 0.013544716364994049
+ standard: 0.018869482985982334
+ substanti: 0.013544716364994049
+ sweetdeal: 0.050176730762582784
+ web: 0.025057725275238987
+ xml: 0.018869482985982334
+
+N-grams list: 10
+ program knowledg represent
+ sweetdeal approach
+ process knowledg descrip
+ process descrip sweetdeal
+ knowledg represent
+ xml rule ontologi
+ agent contract
+ semant web ontologi
+ rulebas approach
+ situat courteou logic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

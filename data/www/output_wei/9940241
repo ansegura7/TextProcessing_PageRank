@@ -1,0 +1,91 @@
+File name: 9940241
+
+Graph edges count: 27
+ accur - person: 1
+ bilinear - model: 1
+ bilinear - regres: 1
+ coldstart - issu: 1
+ competit - approach: 1
+ comput - overhead: 1
+ content - profil: 1
+ data - set: 1
+ demograph - inform: 1
+ dynam - content: 2
+ featurebas - machin: 1
+ front - page: 1
+ largescal - data: 1
+ light - comput: 1
+ new - articl: 1
+ offlin - model: 1
+ onlin - retrain: 1
+ person - recommend: 2
+ person - task: 1
+ predict - bilinear: 2
+ realtim - manner: 1
+ recommend - system: 2
+ regres - model: 1
+ superior - perform: 1
+ tempor - characterist: 1
+ user - activ: 1
+ webbas - servic: 1
+
+PageRank scores count: 43
+ accur: 0.014404677198686414
+ activ: 0.02664865281756986
+ approach: 0.02664865281756986
+ articl: 0.02664865281756986
+ bilinear: 0.02664865281756986
+ characterist: 0.02664865281756986
+ coldstart: 0.014404677198686414
+ competit: 0.014404677198686414
+ comput: 0.02664865281756986
+ content: 0.02664865281756986
+ data: 0.02664865281756986
+ demograph: 0.014404677198686414
+ dynam: 0.014404677198686414
+ featurebas: 0.014404677198686414
+ front: 0.014404677198686414
+ inform: 0.02664865281756986
+ issu: 0.02664865281756986
+ largescal: 0.014404677198686414
+ light: 0.014404677198686414
+ machin: 0.02664865281756986
+ manner: 0.02664865281756986
+ model: 0.05984513171426762
+ new: 0.014404677198686414
+ offlin: 0.014404677198686414
+ onlin: 0.014404677198686414
+ overhead: 0.037056032093620794
+ page: 0.02664865281756986
+ perform: 0.02664865281756986
+ person: 0.02664865281756986
+ predict: 0.014404677198686414
+ profil: 0.037056032093620794
+ realtim: 0.014404677198686414
+ recommend: 0.029505580461976003
+ regres: 0.025730354646153607
+ retrain: 0.02664865281756986
+ servic: 0.02664865281756986
+ set: 0.037056032093620794
+ superior: 0.014404677198686414
+ system: 0.03948442059136601
+ task: 0.021955128830331207
+ tempor: 0.014404677198686414
+ user: 0.014404677198686414
+ webbas: 0.014404677198686414
+
+N-grams list: 10
+ predict bilinear model
+ largescal data set
+ light comput overhead
+ offlin model
+ accur person recommend
+ recommend system
+ predict bilinear regres
+ content profil
+ model
+ person recommend
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

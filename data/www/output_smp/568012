@@ -1,0 +1,82 @@
+File name: 568012
+
+Graph edges count: 27
+ addition - benefit: 1
+ commandlin - tool: 1
+ current - approach: 1
+ deploy - composi: 1
+ descrip - languag: 1
+ develop - infrastructur: 1
+ direct - access: 1
+ galax - xqueri: 1
+ integr - part: 1
+ interfac - languag: 1
+ main - contribu: 1
+ nativ - xml: 1
+ servic - call: 1
+ servic - deploy: 1
+ servic - descrip: 1
+ servic - develop: 2
+ servic - xml: 1
+ simpl - commandlin: 1
+ static - type: 1
+ web - servic: 9
+ xml - inform: 1
+ xml - languag: 1
+ xml - messag: 1
+ xqueri - languag: 1
+ xqueri - modul: 1
+ xqueri - processor: 1
+ xqueri - program: 1
+
+PageRank scores count: 34
+ access: 0.0347357175178795
+ addition: 0.01877606352317811
+ approach: 0.0347357175178795
+ benefit: 0.0347357175178795
+ call: 0.02468113550121763
+ commandlin: 0.0347357175178795
+ composi: 0.039755028699213095
+ contribu: 0.0347357175178795
+ current: 0.01877606352317811
+ deploy: 0.02468113550121763
+ descrip: 0.02468113550121763
+ develop: 0.02468113550121763
+ direct: 0.01877606352317811
+ galax: 0.01877606352317811
+ inform: 0.030290953880355166
+ infrastructur: 0.039755028699213095
+ integr: 0.01877606352317811
+ interfac: 0.01877606352317811
+ languag: 0.07461091302364094
+ main: 0.01877606352317811
+ messag: 0.030290953880355166
+ modul: 0.026157403495727507
+ nativ: 0.01877606352317811
+ part: 0.0347357175178795
+ processor: 0.026157403495727507
+ program: 0.026157403495727507
+ servic: 0.0347357175178795
+ simpl: 0.01877606352317811
+ static: 0.01877606352317811
+ tool: 0.048301423413375684
+ type: 0.0347357175178795
+ web: 0.01877606352317811
+ xml: 0.04064078949591902
+ xqueri: 0.0347357175178795
+
+N-grams list: 10
+ nativ xml languag
+ xqueri languag
+ simpl commandlin tool
+ web servic xml
+ interfac languag
+ galax xqueri processor
+ web servic call
+ web servic deploy
+ web servic develop
+ web servic descrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

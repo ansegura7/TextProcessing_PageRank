@@ -1,0 +1,56 @@
+File name: 8952289
+
+Graph edges count: 13
+ browser - exten: 1
+ experiment - result: 1
+ filter - unwant: 1
+ flashi - graphic: 1
+ high - level: 1
+ major - algorithm: 1
+ minim - user: 1
+ resourc - locat: 1
+ uniform - resourc: 1
+ unwant - imag: 1
+ user - feedback: 1
+ web - page: 1
+ weight - major: 1
+
+PageRank scores count: 22
+ algorithm: 0.07157762938230387
+ browser: 0.02782415136338343
+ experiment: 0.02782415136338343
+ exten: 0.05147468002225934
+ feedback: 0.07157762938230387
+ filter: 0.02782415136338343
+ flashi: 0.02782415136338343
+ graphic: 0.05147468002225934
+ high: 0.02782415136338343
+ imag: 0.07157762938230387
+ level: 0.05147468002225934
+ locat: 0.07157762938230387
+ major: 0.05147468002225934
+ minim: 0.02782415136338343
+ page: 0.05147468002225934
+ resourc: 0.05147468002225934
+ result: 0.05147468002225934
+ uniform: 0.02782415136338343
+ unwant: 0.05147468002225934
+ user: 0.05147468002225934
+ web: 0.02782415136338343
+ weight: 0.02782415136338343
+
+N-grams list: 10
+ minim user feedback
+ weight major algorithm
+ filter unwant imag
+ uniform resourc locat
+ web page
+ browser exten
+ flashi graphic
+ experiment result
+ high level
+ imag
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

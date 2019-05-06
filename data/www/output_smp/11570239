@@ -1,0 +1,85 @@
+File name: 11570239
+
+Graph edges count: 26
+ benchmark - dataset: 1
+ block - approach: 1
+ block - techniqu: 1
+ broken - link: 8
+ build - block: 1
+ central - build: 1
+ comprehens - analysi: 1
+ concis - defini: 1
+ data - consum: 1
+ data - idea: 1
+ featur - comparison: 1
+ gener - framework: 1
+ gener - solution: 1
+ heurist - featur: 1
+ instanc - match: 1
+ knowledg - base: 1
+ link - data: 3
+ link - problem: 4
+ machin - actor: 1
+ major - challeng: 1
+ major - threat: 1
+ match - problem: 1
+ structur - link: 1
+ timeintervalbas - block: 2
+ unresolv - issu: 1
+ widespread - adop: 1
+
+PageRank scores count: 38
+ actor: 0.02960142086820166
+ adop: 0.02960142086820166
+ analysi: 0.02960142086820166
+ approach: 0.039274885194489316
+ base: 0.02960142086820166
+ benchmark: 0.016000768036865762
+ block: 0.05476262860617307
+ broken: 0.016000768036865762
+ build: 0.02960142086820166
+ central: 0.016000768036865762
+ challeng: 0.02280109445253371
+ comparison: 0.04116197577483718
+ comprehens: 0.016000768036865762
+ concis: 0.016000768036865762
+ consum: 0.030604469014512685
+ data: 0.03436164935916923
+ dataset: 0.02960142086820166
+ defini: 0.02960142086820166
+ featur: 0.02960142086820166
+ framework: 0.02280109445253371
+ gener: 0.016000768036865762
+ heurist: 0.016000768036865762
+ idea: 0.030604469014512685
+ instanc: 0.016000768036865762
+ issu: 0.02960142086820166
+ knowledg: 0.016000768036865762
+ link: 0.04320207369953756
+ machin: 0.016000768036865762
+ major: 0.016000768036865762
+ match: 0.02960142086820166
+ problem: 0.059522857097140634
+ solution: 0.02280109445253371
+ structur: 0.016000768036865762
+ techniqu: 0.039274885194489316
+ threat: 0.02280109445253371
+ timeintervalbas: 0.016000768036865762
+ unresolv: 0.016000768036865762
+ widespread: 0.016000768036865762
+
+N-grams list: 10
+ broken link problem
+ timeintervalbas block techniqu
+ timeintervalbas block approach
+ link data consum
+ instanc match problem
+ central build block
+ structur link data
+ heurist featur comparison
+ link data
+ data idea
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

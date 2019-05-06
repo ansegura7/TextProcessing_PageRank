@@ -1,0 +1,90 @@
+File name: 92124
+
+Graph edges count: 32
+ abstract - syntax: 1
+ basic - syntax: 1
+ claus - rule: 1
+ coher - manner: 1
+ consider - express: 1
+ consist - problem: 1
+ exchang - syntax: 1
+ express - limit: 1
+ express - power: 2
+ formal - mean: 1
+ horn - claus: 1
+ modeltheoret - semant: 1
+ ontologi - consist: 1
+ ontologi - languag: 1
+ orl - rule: 4
+ owldl - modeltheoret: 1
+ owlweb - ontologi: 1
+ owl - dl: 1
+ owl - rdfxml: 1
+ owl - rule: 2
+ owl - xml: 1
+ present - syntax: 1
+ rdfxml - exchang: 1
+ rdf - graph: 1
+ reason - support: 1
+ rule - exten: 1
+ rule - languag: 2
+ semant - web: 1
+ syntax - basedon: 1
+ wepres - orl: 1
+ xml - present: 1
+ xml - syntax: 1
+
+PageRank scores count: 37
+ abstract: 0.013728425551332761
+ basedon: 0.08641982750168939
+ basic: 0.013728425551332761
+ claus: 0.025397587269965608
+ coher: 0.013728425551332761
+ consider: 0.013728425551332761
+ consist: 0.024522400141068143
+ dl: 0.016645715980990974
+ exchang: 0.027877284135175092
+ express: 0.025397587269965608
+ exten: 0.03915261164580408
+ formal: 0.013728425551332761
+ graph: 0.025397587269965608
+ horn: 0.013728425551332761
+ languag: 0.04994658623553946
+ limit: 0.024522400141068143
+ manner: 0.025397587269965608
+ mean: 0.025397587269965608
+ modeltheoret: 0.025397587269965608
+ ontologi: 0.025397587269965608
+ orl: 0.025397587269965608
+ owl: 0.013728425551332761
+ owldl: 0.013728425551332761
+ owlweb: 0.013728425551332761
+ power: 0.024522400141068143
+ present: 0.020802854843253928
+ problem: 0.034572465671240685
+ rdf: 0.013728425551332761
+ rdfxml: 0.016645715980990974
+ reason: 0.013728425551332761
+ rule: 0.0598216143399325
+ semant: 0.035316374730803526
+ support: 0.025397587269965608
+ syntax: 0.08551929641218428
+ web: 0.043747344072515765
+ wepres: 0.013728425551332761
+ xml: 0.016645715980990974
+
+N-grams list: 10
+ xml syntax basedon
+ owl rule languag
+ abstract syntax
+ basic syntax
+ horn claus rule
+ owlweb ontologi languag
+ syntax
+ orl rule
+ ontologi consist problem
+ semant web
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

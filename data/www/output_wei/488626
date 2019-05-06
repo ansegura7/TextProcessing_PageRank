@@ -1,0 +1,59 @@
+File name: 488626
+
+Graph edges count: 17
+ gener - queri: 1
+ human - judgment: 1
+ origin - queri: 2
+ origin - search: 1
+ origin - term: 1
+ queri - drift: 1
+ queri - expan: 1
+ queri - relax: 1
+ queri - substitu: 3
+ queri - sugges: 1
+ querycandid - pair: 1
+ relev - feedback: 1
+ search - queri: 1
+ substitu - web: 1
+ tfidf - retriev: 1
+ typic - substitu: 1
+ web - searcher: 1
+
+PageRank scores count: 21
+ drift: 0.03845436948559412
+ expan: 0.03845436948559412
+ feedback: 0.05076403562397927
+ gener: 0.02744001925620501
+ human: 0.02744001925620501
+ judgment: 0.05076403562397927
+ origin: 0.02744001925620501
+ pair: 0.05076403562397927
+ queri: 0.09070641365379267
+ querycandid: 0.02744001925620501
+ relax: 0.03845436948559412
+ relev: 0.02744001925620501
+ retriev: 0.05076403562397927
+ search: 0.033271023348148576
+ searcher: 0.1113146554845052
+ substitu: 0.08380708631214659
+ sugges: 0.03845436948559412
+ term: 0.033271023348148576
+ tfidf: 0.02744001925620501
+ typic: 0.02744001925620501
+ web: 0.09867604262152962
+
+N-grams list: 10
+ typic substitu web
+ gener queri substitu
+ queri substitu
+ origin search queri
+ queri expan
+ queri drift
+ queri sugges
+ queri relax
+ origin queri
+ searcher
+
+Rd for k = [1:10]: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

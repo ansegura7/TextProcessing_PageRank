@@ -1,0 +1,78 @@
+File name: 740593
+
+Graph edges count: 25
+ action - speed: 1
+ beaten - track: 1
+ browser - interfac: 1
+ browser - real: 1
+ case - peopl: 1
+ clientsid - web: 1
+ form - submis: 1
+ import - navig: 1
+ individu - page: 1
+ interact - activ: 1
+ longterm - clientsid: 1
+ navig - action: 1
+ navig - actionsã: 1
+ navig - elem: 1
+ nonscrol - web: 1
+ page - characterist: 1
+ page - request: 1
+ previou - studi: 1
+ real - estat: 1
+ time - user: 1
+ usag - studi: 1
+ web - navig: 3
+ web - page: 1
+ web - usag: 1
+ withinpag - navig: 2
+
+PageRank scores count: 32
+ action: 0.035900409915369275
+ actionsã: 0.035900409915369275
+ activ: 0.03256072348661337
+ beaten: 0.017600391073845065
+ browser: 0.017600391073845065
+ case: 0.017600391073845065
+ characterist: 0.03869227806070484
+ clientsid: 0.03256072348661337
+ elem: 0.035900409915369275
+ estat: 0.038918864762039894
+ form: 0.017600391073845065
+ import: 0.017600391073845065
+ individu: 0.017600391073845065
+ interact: 0.017600391073845065
+ interfac: 0.025080557280229215
+ longterm: 0.017600391073845065
+ navig: 0.06458830179361486
+ nonscrol: 0.017600391073845065
+ page: 0.04962796938084654
+ peopl: 0.03256072348661337
+ previou: 0.017600391073845065
+ real: 0.025080557280229215
+ request: 0.03869227806070484
+ speed: 0.04811573950190894
+ studi: 0.06202821490947987
+ submis: 0.03256072348661337
+ time: 0.017600391073845065
+ track: 0.03256072348661337
+ usag: 0.03466763696807824
+ user: 0.03256072348661337
+ web: 0.060237338450234726
+ withinpag: 0.017600391073845065
+
+N-grams list: 10
+ navig action speed
+ nonscrol web page
+ web navig
+ import navig elem
+ longterm clientsid web
+ individu page request
+ navig actionsã
+ usag studi
+ page characterist
+ withinpag navig
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

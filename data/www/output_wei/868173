@@ -1,0 +1,65 @@
+File name: 868173
+
+Graph edges count: 19
+ actual - data: 1
+ algorithm - construct: 1
+ complet - match: 1
+ composi - problem: 1
+ composi - servic: 1
+ construct - chain: 1
+ data - type: 1
+ directori - access: 1
+ exact - match: 1
+ failur - rate: 1
+ inputoutput - type: 1
+ input - type: 1
+ integr - algorithm: 1
+ partial - match: 3
+ requir - servic: 1
+ research - commun: 1
+ servic - composi: 2
+ servic - matchmak: 1
+ web - servic: 1
+
+PageRank scores count: 25
+ access: 0.0394765713777723
+ actual: 0.021338687231228268
+ algorithm: 0.0394765713777723
+ chain: 0.06799839419821278
+ commun: 0.0394765713777723
+ complet: 0.021338687231228268
+ composi: 0.07111334694659036
+ construct: 0.05489377290233473
+ data: 0.0394765713777723
+ directori: 0.021338687231228268
+ exact: 0.021338687231228268
+ failur: 0.021338687231228268
+ input: 0.021338687231228268
+ inputoutput: 0.021338687231228268
+ integr: 0.021338687231228268
+ match: 0.07575233967086036
+ matchmak: 0.046226017088909305
+ partial: 0.021338687231228268
+ problem: 0.05156185802049037
+ rate: 0.0394765713777723
+ requir: 0.021338687231228268
+ research: 0.021338687231228268
+ servic: 0.08783762631357842
+ type: 0.09116954119542278
+ web: 0.021338687231228268
+
+N-grams list: 10
+ servic composi servic
+ web servic composi
+ algorithm construct chain
+ actual data type
+ composi problem
+ inputoutput type
+ input type
+ requir servic
+ partial match
+ exact match
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

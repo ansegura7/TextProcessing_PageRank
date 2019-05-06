@@ -1,0 +1,82 @@
+File name: 10057110
+
+Graph edges count: 25
+ addition - metadata: 1
+ advanc - user: 1
+ bandwidth - requir: 1
+ clientserv - architectur: 1
+ complet - applic: 1
+ comput - memori: 1
+ data - set: 1
+ dynam - visual: 1
+ enterpr - applic: 1
+ fluid - lowlat: 1
+ hierarch - data: 1
+ high - comput: 1
+ interact - system: 1
+ largescal - data: 1
+ lowlat - navig: 1
+ progress - fashion: 1
+ respons - user: 1
+ sessionspecif - imag: 1
+ sophist - enterpr: 1
+ standard - web: 1
+ statedepend - dynam: 1
+ statedepend - visual: 1
+ user - experi: 2
+ web - architectur: 1
+ web - browser: 1
+
+PageRank scores count: 36
+ addition: 0.01620975421960164
+ advanc: 0.01620975421960164
+ applic: 0.0554778838165866
+ architectur: 0.042732964561424815
+ bandwidth: 0.01620975421960164
+ browser: 0.028954673474763423
+ clientserv: 0.01620975421960164
+ complet: 0.01620975421960164
+ comput: 0.029988045306263027
+ data: 0.043766336392924425
+ dynam: 0.02309889976293233
+ enterpr: 0.029988045306263027
+ experi: 0.053411140153587396
+ fashion: 0.029988045306263027
+ fluid: 0.01620975421960164
+ hierarch: 0.01620975421960164
+ high: 0.01620975421960164
+ imag: 0.029988045306263027
+ interact: 0.01620975421960164
+ largescal: 0.01620975421960164
+ lowlat: 0.029988045306263027
+ memori: 0.04169959272992521
+ metadata: 0.029988045306263027
+ navig: 0.04169959272992521
+ progress: 0.01620975421960164
+ requir: 0.029988045306263027
+ respons: 0.01620975421960164
+ sessionspecif: 0.01620975421960164
+ set: 0.053411140153587396
+ sophist: 0.01620975421960164
+ standard: 0.01620975421960164
+ statedepend: 0.01620975421960164
+ system: 0.029988045306263027
+ user: 0.043766336392924425
+ visual: 0.042732964561424815
+ web: 0.029988045306263027
+
+N-grams list: 10
+ largescal data set
+ respons user experi
+ advanc user experi
+ sophist enterpr applic
+ high comput memori
+ fluid lowlat navig
+ statedepend dynam visual
+ standard web browser
+ web architectur
+ complet applic
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,71 @@
+File name: 4447758
+
+Graph edges count: 23
+ ancestordescend - web: 1
+ approach - studi: 1
+ associ - rule: 1
+ discov - rule: 1
+ evolu - associ: 1
+ evolu - correl: 1
+ experiment - result: 1
+ mainten - process: 1
+ mainten - strategi: 1
+ mine - associ: 1
+ mirror - mainten: 2
+ mirror - site: 2
+ mirror - tool: 1
+ origin - site: 1
+ pagelevel - strategi: 1
+ preliminari - experiment: 1
+ sitelevel - mirror: 1
+ site - mainten: 1
+ web - commun: 1
+ web - directori: 3
+ web - directorystructur: 1
+ web - site: 2
+ wellknown - techniqu: 1
+
+PageRank scores count: 27
+ ancestordescend: 0.020772474619411542
+ approach: 0.020772474619411542
+ associ: 0.04725737975916126
+ commun: 0.025438862667843638
+ correl: 0.02960077633266145
+ directori: 0.034771638764707825
+ directorystructur: 0.025438862667843638
+ discov: 0.020772474619411542
+ evolu: 0.020772474619411542
+ experiment: 0.038429078045911357
+ mainten: 0.08554194073164899
+ mine: 0.020772474619411542
+ mirror: 0.038429078045911357
+ origin: 0.020772474619411542
+ pagelevel: 0.020772474619411542
+ preliminari: 0.020772474619411542
+ process: 0.05712779943036236
+ result: 0.0534371909584362
+ rule: 0.07859785084119843
+ site: 0.060827740678385395
+ sitelevel: 0.020772474619411542
+ strategi: 0.07478440285686216
+ studi: 0.038429078045911357
+ techniqu: 0.038429078045911357
+ tool: 0.027305417887216472
+ web: 0.038429078045911357
+ wellknown: 0.020772474619411542
+
+N-grams list: 10
+ mirror site mainten
+ mirror mainten process
+ mine associ rule
+ sitelevel mirror mainten
+ preliminari experiment result
+ discov rule
+ mirror site
+ web site
+ pagelevel strategi
+ ancestordescend web directori
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,81 @@
+File name: 8158094
+
+Graph edges count: 24
+ 2d - plot: 3
+ automat - categor: 1
+ autom - algorithm: 1
+ base - method: 1
+ current - digit: 1
+ data - valu: 2
+ digit - docum: 1
+ digit - librari: 3
+ docum - retriev: 2
+ effect - docum: 1
+ experiment - evalu: 1
+ imag - featur: 1
+ import - inform: 1
+ index - inform: 1
+ librari - figur: 1
+ librari - user: 1
+ line - curv: 1
+ machinelearn - base: 1
+ predefin - type: 1
+ result - suitabl: 1
+ retriev - servic: 1
+ semant - type: 1
+ solid - line: 1
+ textual - inform: 1
+
+PageRank scores count: 36
+ 2d: 0.01651601778888663
+ algorithm: 0.030554632909440264
+ autom: 0.01651601778888663
+ automat: 0.01651601778888663
+ base: 0.030554632909440264
+ categor: 0.030554632909440264
+ current: 0.01651601778888663
+ curv: 0.042487455761910854
+ data: 0.01651601778888663
+ digit: 0.030554632909440264
+ docum: 0.037047492402696315
+ effect: 0.01651601778888663
+ evalu: 0.030554632909440264
+ experiment: 0.01651601778888663
+ featur: 0.030554632909440264
+ figur: 0.03181372120306492
+ imag: 0.01651601778888663
+ import: 0.01651601778888663
+ index: 0.01651601778888663
+ inform: 0.05863186315054754
+ librari: 0.035994596268654803
+ line: 0.030554632909440264
+ machinelearn: 0.01651601778888663
+ method: 0.042487455761910854
+ plot: 0.030554632909440264
+ predefin: 0.01651601778888663
+ result: 0.01651601778888663
+ retriev: 0.0480063863311785
+ semant: 0.01651601778888663
+ servic: 0.057321446170388354
+ solid: 0.01651601778888663
+ suitabl: 0.030554632909440264
+ textual: 0.01651601778888663
+ type: 0.044593248029993905
+ user: 0.03181372120306492
+ valu: 0.030554632909440264
+
+N-grams list: 10
+ effect docum retriev
+ digit librari user
+ digit librari figur
+ machinelearn base method
+ solid line curv
+ docum retriev
+ current digit librari
+ textual inform
+ import inform
+ index inform
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

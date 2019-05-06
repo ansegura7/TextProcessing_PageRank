@@ -1,0 +1,56 @@
+File name: 4059849
+
+Graph edges count: 16
+ base - measur: 1
+ content - analysi: 1
+ content - link: 1
+ link - analysi: 1
+ link - base: 1
+ link - inform: 1
+ link - similar: 1
+ massiv - number: 1
+ page - pair: 1
+ rank - web: 1
+ relev - approxim: 1
+ search - tool: 1
+ semant - associ: 1
+ semant - similar: 3
+ similar - measur: 2
+ web - page: 2
+
+PageRank scores count: 19
+ analysi: 0.054287579838286054
+ approxim: 0.058126690657018164
+ associ: 0.03809654725493758
+ base: 0.04093415090356567
+ content: 0.03141983278757739
+ inform: 0.04093415090356567
+ link: 0.04477326172229777
+ massiv: 0.03141983278757739
+ measur: 0.1180335112154075
+ number: 0.058126690657018164
+ page: 0.08082751984604283
+ pair: 0.10012322465671379
+ rank: 0.03141983278757739
+ relev: 0.03141983278757739
+ search: 0.03141983278757739
+ semant: 0.03141983278757739
+ similar: 0.06096429430564625
+ tool: 0.058126690657018164
+ web: 0.058126690657018164
+
+N-grams list: 10
+ web page pair
+ semant similar measur
+ link base measur
+ similar measur
+ rank web page
+ link similar
+ link analysi
+ semant similar
+ search tool
+ relev approxim
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

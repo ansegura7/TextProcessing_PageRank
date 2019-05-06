@@ -1,0 +1,85 @@
+File name: 7176668
+
+Graph edges count: 26
+ autonom - system: 1
+ cleanlystructur - ontologi: 1
+ combin - effort: 1
+ full - power: 1
+ human - volunt: 1
+ infoboxclass - ontologi: 1
+ infoboxclass - schemata: 1
+ infobox - ontologi: 1
+ jointinfer - approach: 2
+ languag - text: 1
+ learn - problem: 1
+ learn - system: 1
+ logic - network: 1
+ machineharvest - objectattributevalu: 1
+ machin - learn: 2
+ markov - logic: 1
+ natur - languag: 1
+ numer - fact: 1
+ objectattributevalu - tripl: 1
+ ontologi - refin: 1
+ power - jointinfer: 1
+ queri - process: 1
+ rich - ontologi: 1
+ semant - knowledg: 1
+ train - data: 1
+ wikipedia - infobox: 2
+
+PageRank scores count: 38
+ approach: 0.04740978509101458
+ autonom: 0.014877742153850728
+ cleanlystructur: 0.014877742153850728
+ combin: 0.014877742153850728
+ data: 0.027523822984623848
+ effort: 0.027523822984623848
+ fact: 0.027523822984623848
+ full: 0.014877742153850728
+ human: 0.014877742153850728
+ infobox: 0.027523822984623848
+ infoboxclass: 0.014877742153850728
+ jointinfer: 0.038272991690781
+ knowledg: 0.027523822984623848
+ languag: 0.027523822984623848
+ learn: 0.027523822984623848
+ logic: 0.027523822984623848
+ machin: 0.014877742153850728
+ machineharvest: 0.014877742153850728
+ markov: 0.014877742153850728
+ natur: 0.014877742153850728
+ network: 0.038272991690781
+ numer: 0.014877742153850728
+ objectattributevalu: 0.027523822984623848
+ ontologi: 0.0698881937677138
+ power: 0.027523822984623848
+ problem: 0.026575366922315866
+ process: 0.027523822984623848
+ queri: 0.014877742153850728
+ refin: 0.07428270685640746
+ rich: 0.014877742153850728
+ schemata: 0.021200782569237287
+ semant: 0.014877742153850728
+ system: 0.03922144775308899
+ text: 0.038272991690781
+ train: 0.014877742153850728
+ tripl: 0.038272991690781
+ volunt: 0.027523822984623848
+ wikipedia: 0.014877742153850728
+
+N-grams list: 10
+ ontologi refin
+ power jointinfer approach
+ wikipedia infobox ontologi
+ jointinfer approach
+ infoboxclass ontologi
+ rich ontologi
+ cleanlystructur ontologi
+ machin learn system
+ natur languag text
+ markov logic network
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

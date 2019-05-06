@@ -1,0 +1,35 @@
+File name: 494960
+
+Graph edges count: 8
+ academ - new: 1
+ engin - todai: 1
+ gener - framework: 1
+ import - internet: 1
+ internet - activ: 1
+ new - search: 3
+ search - engin: 3
+ todai - new: 1
+
+PageRank scores count: 10
+ academ: 0.024035091233200478
+ activ: 0.061830272197408234
+ engin: 0.19111416919844054
+ framework: 0.04446491878142088
+ gener: 0.024035091233200478
+ import: 0.024035091233200478
+ internet: 0.04446491878142088
+ new: 0.20297472166128366
+ search: 0.19656360464529157
+ todai: 0.18648212103513268
+
+N-grams list: 6
+ new search engin
+ academ new search
+ todai new
+ engin
+ import internet activ
+ gener framework
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

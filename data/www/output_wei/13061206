@@ -1,0 +1,59 @@
+File name: 13061206
+
+Graph edges count: 18
+ access - pars: 1
+ data - publish: 2
+ detail - techniqu: 1
+ heterogen - structur: 1
+ heterogen - web: 1
+ link - data: 3
+ publish - paradigm: 1
+ relat - semant: 1
+ scalabl - integr: 1
+ scalabl - techniqu: 1
+ semant - web: 1
+ structur - data: 2
+ structur - heterogen: 1
+ tutori - aim: 1
+ uniform - access: 1
+ web - data: 1
+ web - research: 1
+ web - technologi: 1
+
+PageRank scores count: 20
+ access: 0.046018610935926754
+ aim: 0.046018610935926754
+ data: 0.0913560013345702
+ detail: 0.02487492483023068
+ heterogen: 0.03629311647408882
+ integr: 0.03544676788307872
+ link: 0.02487492483023068
+ paradigm: 0.11202332489783626
+ pars: 0.06399074412576843
+ publish: 0.10252752724022493
+ relat: 0.02487492483023068
+ research: 0.04737593194115785
+ scalabl: 0.02487492483023068
+ semant: 0.046018610935926754
+ structur: 0.04029949954432002
+ techniqu: 0.05659045398877479
+ technologi: 0.04737593194115785
+ tutori: 0.02487492483023068
+ uniform: 0.02487492483023068
+ web: 0.07941531883985777
+
+N-grams list: 10
+ link data publish
+ publish paradigm
+ heterogen structur data
+ structur heterogen web
+ relat semant web
+ uniform access pars
+ structur data
+ web research
+ link data
+ data
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

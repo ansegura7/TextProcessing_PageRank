@@ -1,0 +1,47 @@
+File name: 16334
+
+Graph edges count: 10
+ good - answer: 1
+ govern - inform: 1
+ net - search: 2
+ rank - aggreg: 1
+ search - result: 1
+ social - forc: 1
+ social - impact: 1
+ wide - web: 1
+ workplac - web: 1
+ world - wide: 1
+
+PageRank scores count: 16
+ aggreg: 0.07371986451484361
+ answer: 0.07371986451484361
+ forc: 0.056784219964136295
+ good: 0.03984857541342898
+ govern: 0.03984857541342898
+ impact: 0.056784219964136295
+ inform: 0.07371986451484361
+ net: 0.03984857541342898
+ rank: 0.03984857541342898
+ result: 0.10251046025104604
+ search: 0.07371986451484361
+ social: 0.03984857541342898
+ web: 0.13638174935246067
+ wide: 0.07371986451484361
+ workplac: 0.03984857541342898
+ world: 0.03984857541342898
+
+N-grams list: 10
+ world wide web
+ workplac web
+ search result
+ web
+ govern inform
+ net search
+ rank aggreg
+ good answer
+ social forc
+ social impact
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,58 @@
+File name: 1840610
+
+Graph edges count: 16
+ client - behavior: 1
+ client - interact: 2
+ educ - entertain: 1
+ entertain - audio: 1
+ entertain - video: 1
+ extens - analysi: 1
+ interact - behavior: 1
+ main - goal: 1
+ media - workload: 1
+ prestor - stream: 1
+ qualit - similar: 1
+ realist - synthet: 1
+ stream - media: 2
+ synthet - workload: 1
+ typic - client: 1
+ workload - class: 1
+
+PageRank scores count: 21
+ analysi: 0.04488878727127887
+ audio: 0.04334194392611993
+ behavior: 0.07922870953380719
+ class: 0.12241915380288658
+ client: 0.04488878727127887
+ educ: 0.024264209335826414
+ entertain: 0.04488878727127887
+ extens: 0.024264209335826414
+ goal: 0.04488878727127887
+ interact: 0.049701188789551105
+ main: 0.024264209335826414
+ media: 0.062419678516413446
+ prestor: 0.024264209335826414
+ qualit: 0.024264209335826414
+ realist: 0.024264209335826414
+ similar: 0.04488878727127887
+ stream: 0.04488878727127887
+ synthet: 0.04488878727127887
+ typic: 0.024264209335826414
+ video: 0.04334194392611993
+ workload: 0.1154764052553649
+
+N-grams list: 10
+ workload class
+ realist synthet workload
+ client interact behavior
+ typic client behavior
+ prestor stream media
+ workload
+ educ entertain video
+ stream media
+ client interact
+ entertain audio
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

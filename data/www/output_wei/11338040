@@ -1,0 +1,93 @@
+File name: 11338040
+
+Graph edges count: 30
+ align - sentim: 1
+ approach - sfa: 1
+ classif - algorithm: 1
+ classif - set: 1
+ common - latent: 1
+ crossdomain - data: 1
+ crossdomain - sentim: 3
+ domainindepend - word: 2
+ domainspecif - word: 2
+ extens - experi: 1
+ featur - align: 2
+ gener - solution: 1
+ label - work: 1
+ latent - space: 1
+ low - due: 1
+ previou - approach: 2
+ real - world: 1
+ review - blog: 1
+ robust - represent: 1
+ sentim - classif: 5
+ sentim - classifi: 2
+ sentim - data: 1
+ sentim - polar: 1
+ sourc - domain: 1
+ spectral - featur: 2
+ target - domain: 2
+ text - data: 1
+ tradition - classif: 1
+ unifi - cluster: 1
+ world - dataset: 1
+
+PageRank scores count: 42
+ algorithm: 0.035402302177445104
+ align: 0.035662501299383094
+ approach: 0.025646502392170544
+ blog: 0.025646502392170544
+ classif: 0.050680771556251704
+ classifi: 0.0238766819316706
+ cluster: 0.025646502392170544
+ common: 0.013862974266038131
+ crossdomain: 0.013862974266038131
+ data: 0.03359923825651988
+ dataset: 0.035662501299383094
+ domain: 0.03743003051830295
+ domainindepend: 0.013862974266038131
+ domainspecif: 0.013862974266038131
+ due: 0.025646502392170544
+ experi: 0.025646502392170544
+ extens: 0.013862974266038131
+ featur: 0.025646502392170544
+ gener: 0.013862974266038131
+ label: 0.013862974266038131
+ latent: 0.025646502392170544
+ low: 0.013862974266038131
+ polar: 0.018869828098854364
+ previou: 0.013862974266038131
+ real: 0.013862974266038131
+ represent: 0.025646502392170544
+ review: 0.013862974266038131
+ robust: 0.013862974266038131
+ sentim: 0.05301374646511307
+ set: 0.035402302177445104
+ sfa: 0.035662501299383094
+ solution: 0.025646502392170544
+ sourc: 0.013862974266038131
+ space: 0.035662501299383094
+ spectral: 0.013862974266038131
+ target: 0.013862974266038131
+ text: 0.013862974266038131
+ tradition: 0.013862974266038131
+ unifi: 0.013862974266038131
+ word: 0.03743003051830295
+ work: 0.025646502392170544
+ world: 0.025646502392170544
+
+N-grams list: 10
+ crossdomain sentim classif
+ sentim classif
+ tradition classif algorithm
+ sentim data
+ sentim classifi
+ previou approach sfa
+ spectral featur align
+ real world dataset
+ common latent space
+ sentim polar
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,75 @@
+File name: 375779
+
+Graph edges count: 25
+ baselin - method: 1
+ classif - model: 1
+ combin - defini: 1
+ conven - inform: 1
+ defini - candid: 1
+ defini - excerpt: 1
+ defini - rank: 3
+ defini - search: 1
+ enterpr - search: 1
+ experiment - result: 2
+ gener - model: 1
+ good - defini: 2
+ heurist - rule: 1
+ inform - retriev: 1
+ learn - method: 1
+ ordin - regres: 2
+ rank - defini: 1
+ rank - svm: 4
+ regres - model: 1
+ retriev - method: 1
+ search - system: 1
+ singl - combin: 1
+ supervis - learn: 1
+ svm - model: 2
+ tradition - approach: 1
+
+PageRank scores count: 29
+ approach: 0.032594521435040054
+ baselin: 0.017618660235156784
+ candid: 0.033453666445195825
+ classif: 0.017618660235156784
+ combin: 0.032594521435040054
+ conven: 0.017618660235156784
+ defini: 0.07451767341045473
+ enterpr: 0.017618660235156784
+ excerpt: 0.033453666445195825
+ experiment: 0.017618660235156784
+ gener: 0.017618660235156784
+ good: 0.017618660235156784
+ heurist: 0.017618660235156784
+ inform: 0.032594521435040054
+ learn: 0.032594521435040054
+ method: 0.0988252675915238
+ model: 0.10233672693814629
+ ordin: 0.017618660235156784
+ rank: 0.033453666445195825
+ regres: 0.032594521435040054
+ result: 0.032594521435040054
+ retriev: 0.04532400345494083
+ rule: 0.032594521435040054
+ search: 0.04842952764507908
+ singl: 0.017618660235156784
+ supervis: 0.017618660235156784
+ svm: 0.031836468990787424
+ system: 0.05878375976631884
+ tradition: 0.017618660235156784
+
+N-grams list: 10
+ rank svm model
+ ordin regres model
+ supervis learn method
+ enterpr search system
+ singl combin defini
+ defini search
+ classif model
+ gener model
+ baselin method
+ defini candid
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

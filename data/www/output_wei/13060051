@@ -1,0 +1,80 @@
+File name: 13060051
+
+Graph edges count: 26
+ adhoc - api: 1
+ client - design: 1
+ current - lb: 1
+ decentr - access: 2
+ feedbas - servic: 1
+ feed - subscrip: 1
+ gener - architectur: 1
+ gener - feedbas: 1
+ inform - share: 2
+ lb - servic: 1
+ lb - subscrip: 1
+ locationawar - devic: 1
+ locationbas - servic: 2
+ locationen - devic: 1
+ manag - protocol: 1
+ mashup - creation: 1
+ multipl - locationbas: 1
+ myriad - set: 1
+ offer - servic: 1
+ rest - protocol: 1
+ servic - manag: 2
+ servic - user: 1
+ standard - access: 1
+ subscrip - manag: 1
+ tile - feed: 1
+ user - experi: 1
+
+PageRank scores count: 33
+ access: 0.04018853820099637
+ adhoc: 0.014884643778146802
+ api: 0.027536590989571588
+ architectur: 0.021210617383859192
+ client: 0.014884643778146802
+ creation: 0.027536590989571588
+ current: 0.014884643778146802
+ decentr: 0.014884643778146802
+ design: 0.027536590989571588
+ devic: 0.04018853820099637
+ experi: 0.0469657645905829
+ feed: 0.027536590989571588
+ feedbas: 0.021210617383859192
+ gener: 0.014884643778146802
+ inform: 0.014884643778146802
+ lb: 0.027536590989571588
+ locationawar: 0.014884643778146802
+ locationbas: 0.027536590989571588
+ locationen: 0.014884643778146802
+ manag: 0.10309507406513467
+ mashup: 0.014884643778146802
+ multipl: 0.014884643778146802
+ myriad: 0.014884643778146802
+ offer: 0.014884643778146802
+ protocol: 0.11516740394493605
+ rest: 0.014884643778146802
+ servic: 0.08067476927755568
+ set: 0.027536590989571588
+ share: 0.027536590989571588
+ standard: 0.014884643778146802
+ subscrip: 0.049993797289850574
+ tile: 0.014884643778146802
+ user: 0.037742495073454244
+
+N-grams list: 10
+ manag protocol
+ offer servic manag
+ feed subscrip manag
+ locationbas servic user
+ rest protocol
+ multipl locationbas servic
+ gener feedbas servic
+ lb servic
+ user experi
+ lb subscrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

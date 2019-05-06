@@ -1,0 +1,111 @@
+File name: 6946624
+
+Graph edges count: 43
+ access - effect: 1
+ answer - retriev: 1
+ archiv - usabl: 1
+ build - block: 1
+ commun - qa: 3
+ commun - question: 1
+ crucial - build: 1
+ effect - answer: 1
+ effect - inform: 1
+ effect - paradigm: 1
+ factoid - qa: 1
+ factoid - question: 1
+ factual - answer: 1
+ factual - inform: 2
+ gener - rank: 1
+ gener - web: 1
+ immens - bodi: 1
+ inform - access: 1
+ inform - retriev: 2
+ knowledg - access: 1
+ larg - scale: 1
+ learn - framework: 1
+ manual - label: 1
+ media - commun: 1
+ media - content: 2
+ media - search: 1
+ obscur - piec: 1
+ popular - commun: 1
+ qa - archiv: 1
+ qa - benchmark: 1
+ qa - site: 2
+ question - answer: 1
+ rank - framework: 1
+ result - analysi: 1
+ scale - evalu: 1
+ search - result: 1
+ social - media: 5
+ standard - factoid: 1
+ unsubstanti - opinion: 1
+ web - search: 1
+ web - set: 1
+ wellform - factual: 1
+ wide - rang: 1
+
+PageRank scores count: 47
+ access: 0.029124569677707202
+ analysi: 0.03560553295397231
+ answer: 0.04734189041418349
+ archiv: 0.018196242819333328
+ benchmark: 0.018196242819333328
+ block: 0.027805871229604855
+ bodi: 0.01999644772585772
+ build: 0.01999644772585772
+ commun: 0.02424569286760249
+ content: 0.019307380946115327
+ crucial: 0.010808890662625796
+ effect: 0.03556477488867692
+ evalu: 0.027805871229604855
+ factoid: 0.01999644772585772
+ factual: 0.01999644772585772
+ framework: 0.033088716540963216
+ gener: 0.010808890662625796
+ immens: 0.010808890662625796
+ inform: 0.03221689852476779
+ knowledg: 0.010808890662625796
+ label: 0.01999644772585772
+ larg: 0.010808890662625796
+ learn: 0.010808890662625796
+ manual: 0.010808890662625796
+ media: 0.01999644772585772
+ obscur: 0.010808890662625796
+ opinion: 0.01999644772585772
+ paradigm: 0.020885578146781745
+ piec: 0.01999644772585772
+ popular: 0.010808890662625796
+ qa: 0.03476401014921192
+ question: 0.024459590680480855
+ rang: 0.01999644772585772
+ rank: 0.015402669194241757
+ result: 0.02917252034276061
+ retriev: 0.06930574352787652
+ scale: 0.01999644772585772
+ search: 0.021604270211923307
+ set: 0.017355025070178543
+ site: 0.02558359497604086
+ social: 0.010808890662625796
+ standard: 0.010808890662625796
+ unsubstanti: 0.010808890662625796
+ usabl: 0.026275697059059126
+ web: 0.015402669194241757
+ wellform: 0.010808890662625796
+ wide: 0.010808890662625796
+
+N-grams list: 10
+ factual inform retriev
+ answer retriev
+ effect inform access
+ commun qa site
+ wellform factual answer
+ commun qa archiv
+ knowledg access effect
+ question answer
+ popular commun qa
+ retriev
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,55 @@
+File name: 73158
+
+Graph edges count: 14
+ analog - reason: 1
+ automat - semant: 2
+ basic - premis: 1
+ data - mine: 1
+ discoveri - approach: 1
+ import - obstacl: 1
+ keyword - set: 2
+ link - network: 1
+ mine - algorithm: 1
+ relationship - discoveri: 1
+ semant - link: 1
+ semant - relationship: 7
+ semant - web: 1
+ web - page: 2
+
+PageRank scores count: 20
+ algorithm: 0.07547787525746863
+ analog: 0.029340281927101503
+ approach: 0.0865893456511987
+ automat: 0.029340281927101503
+ basic: 0.029340281927101503
+ data: 0.029340281927101503
+ discoveri: 0.06735183967540846
+ import: 0.029340281927101503
+ keyword: 0.029340281927101503
+ link: 0.04471947970389054
+ mine: 0.05427952156513778
+ network: 0.06735183967540846
+ obstacl: 0.05427952156513778
+ page: 0.06735183967540846
+ premis: 0.05427952156513778
+ reason: 0.05427952156513778
+ relationship: 0.04471947970389054
+ semant: 0.05427952156513778
+ set: 0.05427952156513778
+ web: 0.04471947970389054
+
+N-grams list: 10
+ semant link network
+ data mine algorithm
+ discoveri approach
+ automat semant relationship
+ web page
+ semant relationship
+ semant web
+ approach
+ import obstacl
+ keyword set
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

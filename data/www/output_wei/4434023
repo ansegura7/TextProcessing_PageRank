@@ -1,0 +1,67 @@
+File name: 4434023
+
+Graph edges count: 20
+ adapt - behavior: 1
+ adapt - web: 2
+ ant - coloni: 1
+ coloni - optim: 1
+ dynam - inform: 1
+ explicit - search: 1
+ inform - collec: 1
+ inform - retriev: 1
+ interfac - present: 1
+ internet - search: 1
+ largescal - studi: 1
+ optim - techniqu: 1
+ present - issu: 1
+ realist - user: 1
+ search - engin: 1
+ simul - adapt: 1
+ user - interest: 1
+ user - model: 1
+ user - studi: 2
+ web - site: 2
+
+PageRank scores count: 26
+ adapt: 0.039458073575088085
+ ant: 0.021328688418966534
+ behavior: 0.032508475931908164
+ collec: 0.03809836968837897
+ coloni: 0.039458073575088085
+ dynam: 0.021328688418966534
+ engin: 0.07027802834049472
+ explicit: 0.021328688418966534
+ inform: 0.039458073575088085
+ interest: 0.02971352905367275
+ interfac: 0.021328688418966534
+ internet: 0.021328688418966534
+ issu: 0.05486805095779141
+ largescal: 0.021328688418966534
+ model: 0.02971352905367275
+ optim: 0.05486805095779141
+ present: 0.039458073575088085
+ realist: 0.021328688418966534
+ retriev: 0.03809836968837897
+ search: 0.057587458731209636
+ simul: 0.021328688418966534
+ site: 0.05846371234708885
+ studi: 0.05622775484450052
+ techniqu: 0.06796653173308922
+ user: 0.039458073575088085
+ web: 0.04368826344484978
+
+N-grams list: 10
+ internet search engin
+ adapt web site
+ realist user studi
+ ant coloni optim
+ interfac present issu
+ simul adapt web
+ dynam inform collec
+ user studi
+ explicit search
+ inform retriev
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

@@ -1,0 +1,66 @@
+File name: 8816225
+
+Graph edges count: 18
+ activ - technolog: 1
+ companion - websit: 5
+ ecommerc - semant: 1
+ educ - object: 1
+ engin - approach: 1
+ epublish - ecommerc: 1
+ futur - companion: 1
+ inevit - delai: 1
+ potenti - model: 1
+ present - techniqu: 1
+ semant - web: 3
+ servic - scenario: 1
+ subject - area: 1
+ technolog - area: 1
+ textbook - author: 1
+ textbook - hypermedia: 1
+ web - servic: 1
+ web - technologi: 1
+
+PageRank scores count: 27
+ activ: 0.02122514755349481
+ approach: 0.0392665229739654
+ area: 0.07264306750183598
+ author: 0.030245835263730106
+ companion: 0.0392665229739654
+ delai: 0.0392665229739654
+ ecommerc: 0.0392665229739654
+ educ: 0.02122514755349481
+ engin: 0.02122514755349481
+ epublish: 0.02122514755349481
+ futur: 0.02122514755349481
+ hypermedia: 0.030245835263730106
+ inevit: 0.02122514755349481
+ model: 0.0392665229739654
+ object: 0.0392665229739654
+ potenti: 0.02122514755349481
+ present: 0.02122514755349481
+ scenario: 0.06370023960239966
+ semant: 0.0546016920813654
+ servic: 0.04997069652812336
+ subject: 0.02122514755349481
+ techniqu: 0.0392665229739654
+ technolog: 0.0392665229739654
+ technologi: 0.04997069652812336
+ textbook: 0.02122514755349481
+ web: 0.0676365858226554
+ websit: 0.0546016920813654
+
+N-grams list: 10
+ web servic scenario
+ semant web technologi
+ activ technolog area
+ semant web
+ epublish ecommerc semant
+ futur companion websit
+ companion websit
+ subject area
+ web
+ inevit delai
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

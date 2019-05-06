@@ -1,0 +1,100 @@
+File name: 9153337
+
+Graph edges count: 32
+ applic - onlin: 1
+ central - theme: 1
+ comput - platform: 1
+ concurr - control: 1
+ concurr - oper: 1
+ consist - control: 1
+ consist - mainten: 2
+ control - method: 1
+ effici - method: 1
+ good - perform: 1
+ largescal - avail: 2
+ larg - network: 1
+ larg - portion: 1
+ load - balanc: 1
+ lockfre - consist: 1
+ lockfre - mechan: 1
+ lock - serial: 1
+ maxim - onlin: 1
+ mirror - site: 4
+ network - latenc: 1
+ onlin - collabor: 2
+ perform - improv: 1
+ phase - lock: 1
+ scale - problem: 1
+ serial - etc: 1
+ share - docum: 1
+ socal - web: 1
+ strict - serializ: 1
+ throughput - bottleneck: 1
+ tradition - concurr: 1
+ webbas - servic: 1
+ web - scale: 1
+
+PageRank scores count: 47
+ applic: 0.012544872420607617
+ avail: 0.023208013978124095
+ balanc: 0.023208013978124095
+ bottleneck: 0.023208013978124095
+ central: 0.012544872420607617
+ collabor: 0.0413353546259021
+ comput: 0.012544872420607617
+ concurr: 0.023208013978124095
+ consist: 0.017876443199365852
+ control: 0.030005766721040845
+ docum: 0.023208013978124095
+ effici: 0.012544872420607617
+ etc: 0.03997580407731875
+ good: 0.012544872420607617
+ improv: 0.03227168430201309
+ larg: 0.012544872420607617
+ largescal: 0.012544872420607617
+ latenc: 0.027739849140068593
+ load: 0.012544872420607617
+ lock: 0.023208013978124095
+ lockfre: 0.012544872420607617
+ mainten: 0.020142360780338108
+ maxim: 0.012544872420607617
+ mechan: 0.017876443199365852
+ method: 0.048712915691008815
+ mirror: 0.012544872420607617
+ network: 0.017876443199365852
+ onlin: 0.03387115553564057
+ oper: 0.022408278361310357
+ perform: 0.023208013978124095
+ phase: 0.012544872420607617
+ platform: 0.023208013978124095
+ portion: 0.017876443199365852
+ problem: 0.03997580407731875
+ scale: 0.03227168430201309
+ serial: 0.03227168430201309
+ serializ: 0.023208013978124095
+ servic: 0.023208013978124095
+ share: 0.012544872420607617
+ site: 0.023208013978124095
+ socal: 0.012544872420607617
+ strict: 0.012544872420607617
+ theme: 0.023208013978124095
+ throughput: 0.012544872420607617
+ tradition: 0.012544872420607617
+ web: 0.023208013978124095
+ webbas: 0.012544872420607617
+
+N-grams list: 10
+ web scale problem
+ maxim onlin collabor
+ applic onlin collabor
+ phase lock serial
+ good perform improv
+ tradition concurr control
+ effici method
+ lockfre consist control
+ larg network latenc
+ method
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

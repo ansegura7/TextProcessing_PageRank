@@ -1,0 +1,88 @@
+File name: 9063415
+
+Graph edges count: 29
+ applic - regres: 1
+ busi - applic: 3
+ busi - process: 1
+ case - priorit: 2
+ coverag - model: 1
+ current - regres: 1
+ empir - result: 1
+ fault - detec: 1
+ hand - industri: 1
+ industri - serviceori: 1
+ multilevel - coverag: 1
+ orchestr - languag: 1
+ order - test: 1
+ previou - version: 1
+ priorit - techniqu: 2
+ process - xpath: 1
+ program - statem: 1
+ regres - test: 5
+ respect - coverag: 1
+ serviceori - busi: 3
+ servic - composi: 1
+ techniqu - order: 1
+ test - case: 4
+ test - research: 1
+ test - suit: 1
+ typic - regres: 1
+ web - servic: 1
+ workflow - step: 1
+ wrong - data: 1
+
+PageRank scores count: 38
+ applic: 0.02635638530668461
+ busi: 0.03567402579164119
+ case: 0.039875024676509545
+ composi: 0.028798942878122454
+ coverag: 0.030226295732140186
+ current: 0.011194924345237105
+ data: 0.020710610038688643
+ detec: 0.020710610038688643
+ empir: 0.011194924345237105
+ fault: 0.011194924345237105
+ hand: 0.011194924345237105
+ industri: 0.020710610038688643
+ languag: 0.020710610038688643
+ model: 0.03688727571755626
+ multilevel: 0.011194924345237105
+ orchestr: 0.011194924345237105
+ order: 0.05328719589868605
+ previou: 0.011194924345237105
+ priorit: 0.04508869532027022
+ process: 0.02635638530668461
+ program: 0.011194924345237105
+ regres: 0.0526292232428221
+ research: 0.039875024676509545
+ respect: 0.011194924345237105
+ result: 0.020710610038688643
+ servic: 0.020710610038688643
+ serviceori: 0.028798942878122454
+ statem: 0.020710610038688643
+ step: 0.020710610038688643
+ suit: 0.039875024676509545
+ techniqu: 0.049520320738393214
+ test: 0.10122387846714846
+ typic: 0.011194924345237105
+ version: 0.020710610038688643
+ web: 0.011194924345237105
+ workflow: 0.011194924345237105
+ wrong: 0.011194924345237105
+ xpath: 0.03359785185591902
+
+N-grams list: 10
+ test case priorit
+ current regres test
+ typic regres test
+ regres test
+ priorit techniqu order
+ test case
+ busi process xpath
+ serviceori busi applic
+ multilevel coverag model
+ busi applic
+
+Rd for k = [1:10]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

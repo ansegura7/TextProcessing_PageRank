@@ -1,0 +1,54 @@
+File name: 14426843
+
+Graph edges count: 14
+ map - platform: 1
+ map - relat: 1
+ popular - rdbtordf: 1
+ rdbtordf - map: 1
+ rdf - d2rq: 1
+ rdf - view: 1
+ readonli - rdf: 1
+ readwrit - semant: 1
+ relat - data: 1
+ relat - databas: 3
+ semant - web: 1
+ sparqlupd - statem: 1
+ sparql - queri: 1
+ virtual - rdf: 1
+
+PageRank scores count: 19
+ d2rq: 0.06409311184649066
+ data: 0.04312157424322422
+ databas: 0.0696738153057
+ map: 0.07677742967408485
+ platform: 0.062475861323472395
+ popular: 0.029845453711986335
+ queri: 0.05521408936717472
+ rdbtordf: 0.05521408936717472
+ rdf: 0.0805827250223631
+ readonli: 0.029845453711986335
+ readwrit: 0.029845453711986335
+ relat: 0.062475861323472395
+ semant: 0.05521408936717472
+ sparql: 0.029845453711986335
+ sparqlupd: 0.029845453711986335
+ statem: 0.05521408936717472
+ view: 0.06409311184649066
+ virtual: 0.029845453711986335
+ web: 0.07677742967408485
+
+N-grams list: 10
+ map relat databas
+ virtual rdf d2rq
+ readonli rdf view
+ popular rdbtordf map
+ readwrit semant web
+ relat databas
+ relat data
+ sparql queri
+ sparqlupd statem
+ rdf
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

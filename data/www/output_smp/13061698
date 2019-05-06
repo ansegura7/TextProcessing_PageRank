@@ -1,0 +1,71 @@
+File name: 13061698
+
+Graph edges count: 22
+ cost - function: 2
+ docum - retriev: 1
+ earli - learn: 1
+ improv - iterationdepend: 1
+ iterationdepend - cost: 1
+ latestag - learn: 1
+ learningtorank - problem: 1
+ multipl - measur: 1
+ multipl - object: 2
+ object - function: 2
+ open - problem: 1
+ rank - algorithm: 1
+ rank - model: 1
+ relev - measur: 2
+ scorecard - compar: 1
+ secondti - measur: 2
+ signific - improv: 1
+ size - model: 1
+ standard - web: 1
+ stateoftheart - rank: 1
+ toptier - measur: 2
+ web - relev: 1
+
+PageRank scores count: 28
+ algorithm: 0.03431095545926558
+ compar: 0.03553548920903643
+ cost: 0.061209880162565254
+ docum: 0.0192083725454251
+ earli: 0.0192083725454251
+ function: 0.09450291192925173
+ improv: 0.03553548920903643
+ iterationdepend: 0.04941353837310607
+ latestag: 0.0192083725454251
+ learn: 0.05186260587264777
+ learningtorank: 0.0192083725454251
+ measur: 0.1020276718215936
+ model: 0.05063807212287691
+ multipl: 0.0192083725454251
+ object: 0.027371930877230766
+ open: 0.0192083725454251
+ problem: 0.05186260587264777
+ rank: 0.03553548920903643
+ relev: 0.04941353837310607
+ retriev: 0.03553548920903643
+ scorecard: 0.0192083725454251
+ secondti: 0.0192083725454251
+ signific: 0.0192083725454251
+ size: 0.0192083725454251
+ standard: 0.0192083725454251
+ stateoftheart: 0.0192083725454251
+ toptier: 0.0192083725454251
+ web: 0.03553548920903643
+
+N-grams list: 10
+ cost function
+ relev measur
+ improv iterationdepend cost
+ multipl object function
+ multipl measur
+ secondti measur
+ toptier measur
+ standard web relev
+ measur
+ function
+
+Rd for k = [1:10]: [0, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

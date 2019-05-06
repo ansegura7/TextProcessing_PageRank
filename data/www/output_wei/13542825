@@ -1,0 +1,59 @@
+File name: 13542825
+
+Graph edges count: 16
+ bookmark - site: 1
+ delici - url: 4
+ engin - social: 1
+ essenc - bookmark: 1
+ extern - outlink: 1
+ good - content: 1
+ larg - scale: 1
+ previou - work: 1
+ qualiti - content: 1
+ satisfi - user: 1
+ scale - studi: 1
+ search - engin: 2
+ seed - url: 1
+ site - delici: 1
+ social - bookmark: 3
+ top - social: 1
+
+PageRank scores count: 22
+ bookmark: 0.09637163597074783
+ content: 0.0546746339129607
+ delici: 0.10709075615144949
+ engin: 0.03746224916258418
+ essenc: 0.020249864412207667
+ extern: 0.020249864412207667
+ good: 0.020249864412207667
+ larg: 0.020249864412207667
+ outlink: 0.03746224916258418
+ previou: 0.020249864412207667
+ qualiti: 0.020249864412207667
+ satisfi: 0.020249864412207667
+ scale: 0.03746224916258418
+ search: 0.020249864412207667
+ seed: 0.020249864412207667
+ site: 0.10216575498734332
+ social: 0.06930516095078075
+ studi: 0.05209277620040422
+ top: 0.020249864412207667
+ url: 0.12848939189131625
+ user: 0.03746224916258418
+ work: 0.03746224916258418
+
+N-grams list: 10
+ delici url
+ site delici
+ top social bookmark
+ social bookmark
+ seed url
+ url
+ search engin social
+ essenc bookmark
+ larg scale studi
+ bookmark
+
+Rd for k = [1:10]: [0, 0, 0, 4, 4, 4, 4, 4, 4, 4]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

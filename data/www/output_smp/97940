@@ -1,0 +1,75 @@
+File name: 97940
+
+Graph edges count: 24
+ construc - method: 1
+ core - assump: 1
+ creation - integr: 1
+ current - metadata: 1
+ databas - owner: 1
+ data - descrip: 1
+ deep - annot: 3
+ descrip - layer: 1
+ easi - creation: 1
+ integr - scenario: 1
+ manual - semant: 1
+ map - rule: 2
+ metadata - construc: 1
+ metadata - creation: 1
+ ontologi - map: 1
+ present - layer: 2
+ rdf - file: 1
+ semant - annot: 1
+ semant - data: 2
+ semant - queri: 1
+ semant - web: 2
+ static - web: 1
+ web - page: 4
+ web - servic: 1
+
+PageRank scores count: 30
+ annot: 0.04102377347104358
+ assump: 0.03383403997611842
+ construc: 0.03266813724721163
+ core: 0.018288670257361306
+ creation: 0.048213506965968746
+ current: 0.018288670257361306
+ data: 0.02547840375228647
+ databas: 0.018288670257361306
+ deep: 0.018288670257361306
+ descrip: 0.039945313446804805
+ easi: 0.018288670257361306
+ file: 0.03383403997611842
+ integr: 0.059270151178434746
+ layer: 0.0677875564059025
+ manual: 0.018288670257361306
+ map: 0.03383403997611842
+ metadata: 0.03383403997611842
+ method: 0.0460565869174912
+ ontologi: 0.018288670257361306
+ owner: 0.03383403997611842
+ page: 0.03572377398255483
+ present: 0.018288670257361306
+ queri: 0.02547840375228647
+ rdf: 0.018288670257361306
+ rule: 0.04704760423706196
+ scenario: 0.06866829875903084
+ semant: 0.03383403997611842
+ servic: 0.03572377398255483
+ static: 0.018288670257361306
+ web: 0.04102377347104358
+
+N-grams list: 10
+ data descrip layer
+ integr scenario
+ easi creation integr
+ ontologi map rule
+ static web page
+ manual semant annot
+ present layer
+ current metadata construc
+ metadata creation
+ map rule
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

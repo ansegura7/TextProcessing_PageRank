@@ -1,0 +1,52 @@
+File name: 4419906
+
+Graph edges count: 14
+ cluster - search: 2
+ cluster - system: 1
+ larg - number: 1
+ marketplac - search: 2
+ multifactor - cluster: 1
+ navig - pain: 1
+ onlin - marketplac: 1
+ result - set: 1
+ search - interfac: 1
+ search - result: 1
+ search - system: 1
+ small - window: 1
+ vast - repositori: 1
+ vast - result: 1
+
+PageRank scores count: 17
+ cluster: 0.061420806429596415
+ interfac: 0.0647954924044838
+ larg: 0.03320043590788995
+ marketplac: 0.061420806429596415
+ multifactor: 0.03320043590788995
+ navig: 0.03320043590788995
+ number: 0.061420806429596415
+ onlin: 0.03320043590788995
+ pain: 0.061420806429596415
+ repositori: 0.04731062116874319
+ result: 0.07890567766533704
+ search: 0.11151196410562539
+ set: 0.10027026192342643
+ small: 0.03320043590788995
+ system: 0.09089933513706229
+ vast: 0.03320043590788995
+ window: 0.061420806429596415
+
+N-grams list: 10
+ cluster search result
+ marketplac search interfac
+ vast result set
+ onlin marketplac search
+ cluster search
+ cluster system
+ navig pain
+ larg number
+ small window
+ multifactor cluster
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

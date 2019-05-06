@@ -1,0 +1,74 @@
+File name: 16387
+
+Graph edges count: 23
+ base - ontologi: 1
+ commerc - interac: 1
+ daml - base: 1
+ descrip - logic: 1
+ ecommerc - scenario: 1
+ electron - commerc: 1
+ import - object: 1
+ initi - experi: 1
+ logic - reason: 1
+ matchmak - prototyp: 1
+ messag - content: 1
+ messag - protocol: 1
+ ontologi - messag: 1
+ prototyp - implement: 1
+ realist - agent: 1
+ semant - web: 2
+ servic - advertis: 1
+ servic - descrip: 1
+ servic - matchmak: 1
+ servic - technologi: 1
+ softwar - framework: 1
+ web - servic: 1
+ web - technologi: 1
+
+PageRank scores count: 30
+ advertis: 0.02556201899198111
+ agent: 0.034278403142384596
+ base: 0.034278403142384596
+ commerc: 0.034278403142384596
+ content: 0.043622800063873056
+ daml: 0.018528866563451134
+ descrip: 0.02556201899198111
+ ecommerc: 0.018528866563451134
+ electron: 0.018528866563451134
+ experi: 0.034278403142384596
+ framework: 0.034278403142384596
+ implement: 0.05274696186409095
+ import: 0.018528866563451134
+ initi: 0.018528866563451134
+ interac: 0.04766550923447804
+ logic: 0.040256582706635076
+ matchmak: 0.02556201899198111
+ messag: 0.05904454941275747
+ object: 0.034278403142384596
+ ontologi: 0.04766550923447804
+ protocol: 0.043622800063873056
+ prototyp: 0.040256582706635076
+ realist: 0.018528866563451134
+ reason: 0.05274696186409095
+ scenario: 0.034278403142384596
+ semant: 0.018528866563451134
+ servic: 0.03309718789896459
+ softwar: 0.018528866563451134
+ technologi: 0.04013034032749456
+ web: 0.034278403142384596
+
+N-grams list: 10
+ ontologi messag content
+ descrip logic reason
+ web servic technologi
+ messag protocol
+ electron commerc interac
+ daml base ontologi
+ servic matchmak prototyp
+ prototyp implement
+ semant web technologi
+ servic descrip
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

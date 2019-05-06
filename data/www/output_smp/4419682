@@ -1,0 +1,106 @@
+File name: 4419682
+
+Graph edges count: 37
+ busi - comput: 1
+ byte - code: 3
+ byte - codedriven: 1
+ care - analysi: 1
+ codedriven - parser: 1
+ comput - infrastructur: 2
+ current - widelyus: 1
+ deploy - complex: 1
+ finegrain - composi: 1
+ flexibl - express: 1
+ grammarbas - parser: 1
+ heavi - perform: 1
+ highperform - interpret: 1
+ interoper - due: 1
+ interpret - approach: 1
+ interpret - overhead: 1
+ interpret - parser: 2
+ kei - advantag: 1
+ parser - balanc: 1
+ parser - gener: 1
+ pars - technologi: 1
+ pars - xml: 1
+ performancecrit - aspect: 1
+ perform - demand: 1
+ perform - gap: 1
+ perform - penalti: 1
+ robust - scalabl: 1
+ scalabl - infrastructur: 1
+ schemadirect - pars: 1
+ schema - compil: 1
+ simpl - tool: 1
+ special - byte: 1
+ special - schema: 1
+ tradition - interpret: 1
+ widelyus - pars: 1
+ xmlbase - comput: 1
+ xml - pars: 2
+
+PageRank scores count: 48
+ advantag: 0.02084989526563049
+ analysi: 0.02084989526563049
+ approach: 0.019891927104777198
+ aspect: 0.02084989526563049
+ balanc: 0.030332732280402154
+ busi: 0.011270213657097562
+ byte: 0.016060054461364028
+ care: 0.011270213657097562
+ code: 0.018095736803177272
+ codedriven: 0.018095736803177272
+ compil: 0.024921259949256987
+ complex: 0.02084989526563049
+ composi: 0.02084989526563049
+ comput: 0.03042957687416342
+ current: 0.011270213657097562
+ demand: 0.017177683982359533
+ deploy: 0.011270213657097562
+ due: 0.02084989526563049
+ express: 0.02084989526563049
+ finegrain: 0.011270213657097562
+ flexibl: 0.011270213657097562
+ gap: 0.017177683982359533
+ gener: 0.030332732280402154
+ grammarbas: 0.011270213657097562
+ heavi: 0.011270213657097562
+ highperform: 0.011270213657097562
+ infrastructur: 0.05485776497592238
+ interoper: 0.011270213657097562
+ interpret: 0.03042957687416342
+ kei: 0.011270213657097562
+ overhead: 0.019891927104777198
+ pars: 0.07538472751472425
+ parser: 0.0448529849960108
+ penalti: 0.017177683982359533
+ perform: 0.02084989526563049
+ performancecrit: 0.011270213657097562
+ robust: 0.011270213657097562
+ scalabl: 0.02084989526563049
+ schema: 0.016060054461364028
+ schemadirect: 0.011270213657097562
+ simpl: 0.011270213657097562
+ special: 0.011270213657097562
+ technologi: 0.043308730909773926
+ tool: 0.02084989526563049
+ tradition: 0.011270213657097562
+ widelyus: 0.02084989526563049
+ xml: 0.043308730909773926
+ xmlbase: 0.011270213657097562
+
+N-grams list: 10
+ schemadirect pars xml
+ xml pars
+ current widelyus pars
+ xmlbase comput infrastructur
+ busi comput infrastructur
+ robust scalabl infrastructur
+ tradition interpret parser
+ grammarbas parser gener
+ byte codedriven parser
+ pars
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

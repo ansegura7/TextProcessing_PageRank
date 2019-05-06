@@ -1,0 +1,58 @@
+File name: 963138
+
+Graph edges count: 17
+ aggreg - model: 1
+ basic - research: 1
+ content - aggreg: 1
+ content - model: 1
+ content - repurpos: 1
+ finegrain - compon: 1
+ learn - content: 1
+ learn - object: 2
+ object - compon: 1
+ object - content: 1
+ onthefli - access: 1
+ ontologybas - learn: 1
+ ontologybas - solution: 1
+ research - issu: 1
+ scorm - content: 1
+ sentenc - imag: 1
+ solid - basi: 1
+
+PageRank scores count: 20
+ access: 0.0537532007954039
+ aggreg: 0.05393380065415738
+ basi: 0.0537532007954039
+ basic: 0.02905578421373184
+ compon: 0.07607349103109003
+ content: 0.08780476390738427
+ finegrain: 0.02905578421373184
+ imag: 0.0537532007954039
+ issu: 0.07474600488982516
+ learn: 0.041404492504567875
+ model: 0.09977753121019114
+ object: 0.0525183299663203
+ onthefli: 0.02905578421373184
+ ontologybas: 0.02905578421373184
+ repurpos: 0.05393380065415738
+ research: 0.0537532007954039
+ scorm: 0.02905578421373184
+ sentenc: 0.02905578421373184
+ solid: 0.02905578421373184
+ solution: 0.041404492504567875
+
+N-grams list: 10
+ learn object content
+ scorm content aggreg
+ ontologybas learn content
+ basic research issu
+ content repurpos
+ object compon
+ finegrain compon
+ model
+ learn object
+ onthefli access
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 9, 9]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]

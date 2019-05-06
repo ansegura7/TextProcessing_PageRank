@@ -1,0 +1,96 @@
+File name: 11006514
+
+Graph edges count: 32
+ data - set: 1
+ data - structur: 1
+ detail - evalu: 1
+ docum - collec: 1
+ docum - identifi: 3
+ effect - techniqu: 1
+ end - effect: 1
+ fast - end: 1
+ fast - heurist: 1
+ fulltext - invert: 1
+ good - compres: 1
+ graph - partition: 1
+ identifi - assign: 2
+ index - compres: 1
+ index - data: 1
+ index - size: 2
+ index - web: 1
+ invert - index: 3
+ involv - approach: 1
+ larg - data: 1
+ local - sensit: 1
+ previou - work: 1
+ process - perform: 1
+ queri - process: 1
+ salesman - comput: 1
+ salesman - problem: 1
+ scalabl - techniqu: 1
+ search - engin: 1
+ sensit - hash: 1
+ signific - reduc: 1
+ spars - graph: 1
+ web - search: 1
+
+PageRank scores count: 43
+ approach: 0.025343173187057193
+ assign: 0.03029194146480012
+ collec: 0.01952109286030081
+ compres: 0.03283182400734759
+ comput: 0.01952109286030081
+ data: 0.03283182400734759
+ detail: 0.01369901253354443
+ docum: 0.01369901253354443
+ effect: 0.03029194146480012
+ end: 0.01952109286030081
+ engin: 0.04065125996020286
+ evalu: 0.025343173187057193
+ fast: 0.01369901253354443
+ fulltext: 0.01369901253354443
+ good: 0.01369901253354443
+ graph: 0.025343173187057193
+ hash: 0.03524070974254304
+ heurist: 0.01952109286030081
+ identifi: 0.01952109286030081
+ index: 0.03524070974254304
+ invert: 0.025343173187057193
+ involv: 0.01369901253354443
+ larg: 0.01369901253354443
+ local: 0.01369901253354443
+ partition: 0.03524070974254304
+ perform: 0.03524070974254304
+ previou: 0.01369901253354443
+ problem: 0.01952109286030081
+ process: 0.025343173187057193
+ queri: 0.01369901253354443
+ reduc: 0.025343173187057193
+ salesman: 0.01369901253354443
+ scalabl: 0.01369901253354443
+ search: 0.031708526384304034
+ sensit: 0.025343173187057193
+ set: 0.027652537736667156
+ signific: 0.01369901253354443
+ size: 0.02118766335383483
+ spars: 0.01369901253354443
+ structur: 0.027652537736667156
+ techniqu: 0.0510913234321373
+ web: 0.02118766335383483
+ work: 0.025343173187057193
+
+N-grams list: 10
+ invert index web
+ queri process perform
+ fulltext invert index
+ local sensit hash
+ larg data set
+ search engin
+ index compres
+ scalabl techniqu
+ docum identifi assign
+ fast end effect
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+
+MRR for k = [1:10]: [0.04962406015037594, 0.06917293233082707, 0.08621553884711768, 0.10012531328320792, 0.11170426065162911, 0.11984962406015028, 0.12532760472610072, 0.12936895810955937, 0.1337131519274375, 0.13649510681465543]

@@ -1,0 +1,86 @@
+File name: 11806298
+
+Graph edges count: 24
+ anf - algorithm: 1
+ approxim - neighborhood: 1
+ breakthrough - improv: 1
+ broadword - program: 1
+ clearcut - character: 1
+ complex - network: 1
+ function - ng: 1
+ good - confid: 1
+ hyperloglog - counter: 1
+ inform - statist: 1
+ larg - graph: 2
+ multicor - parallel: 1
+ neighborhood - function: 5
+ nonloc - structur: 1
+ proper - social: 1
+ reachabl - node: 1
+ shortestpath - index: 1
+ small - error: 1
+ social - network: 1
+ standard - workstat: 1
+ structur - index: 1
+ surpris - fact: 1
+ talk - decomposi: 1
+ web - graph: 1
+
+PageRank scores count: 41
+ algorithm: 0.02850358124387316
+ anf: 0.015407341212904413
+ approxim: 0.015407341212904413
+ breakthrough: 0.015407341212904413
+ broadword: 0.015407341212904413
+ character: 0.02850358124387316
+ clearcut: 0.015407341212904413
+ complex: 0.015407341212904413
+ confid: 0.02850358124387316
+ counter: 0.02850358124387316
+ decomposi: 0.02850358124387316
+ error: 0.02850358124387316
+ fact: 0.02850358124387316
+ function: 0.0396353852701966
+ good: 0.015407341212904413
+ graph: 0.041599821274841915
+ hyperloglog: 0.015407341212904413
+ improv: 0.02850358124387316
+ index: 0.05273162530116535
+ inform: 0.015407341212904413
+ larg: 0.015407341212904413
+ multicor: 0.015407341212904413
+ neighborhood: 0.02850358124387316
+ network: 0.05273162530116535
+ ng: 0.04909741869257152
+ node: 0.02850358124387316
+ nonloc: 0.015407341212904413
+ parallel: 0.02850358124387316
+ program: 0.02850358124387316
+ proper: 0.015407341212904413
+ reachabl: 0.015407341212904413
+ shortestpath: 0.015407341212904413
+ small: 0.015407341212904413
+ social: 0.02850358124387316
+ standard: 0.015407341212904413
+ statist: 0.02850358124387316
+ structur: 0.02850358124387316
+ surpris: 0.015407341212904413
+ talk: 0.015407341212904413
+ web: 0.015407341212904413
+ workstat: 0.02850358124387316
+
+N-grams list: 10
+ neighborhood function ng
+ proper social network
+ nonloc structur index
+ approxim neighborhood function
+ neighborhood function
+ shortestpath index
+ complex network
+ web graph
+ larg graph
+ index
+
+Rd for k = [1:10]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+MRR for k = [1:10]: [0.05338345864661654, 0.07631578947368421, 0.09411027568922295, 0.10745614035087722, 0.11993734335839595, 0.1277067669172931, 0.13221804511278176, 0.1368233082706765, 0.14066624895572252, 0.14314745196324122]
