@@ -1,10 +1,4 @@
 # Text Processing: PageRank
-
-## Author Info
-- Created By: Andres Segura Tinoco
-- Created On: June 27, 2018
-
-## Abstract
 The goal of this project is to use PageRank to derive a ranking of words in a document based on their PageRank scores. The PageRank score of a word serves as an indicator of the importance of the word in the text. Also compare the MRR of the above PageRank algorithm with the MRR of a ranking of words based on their TF-IDF ranking scheme.
 
 The project name is: **HW2_PageRank** and it was created using the Eclipse IDE. The program solves all the questions in a single execution (run).
@@ -50,12 +44,12 @@ A .JAR file of the program was created. The JAR name is: KD_HW2_v1.7.jar and you
 
 Therefore, to run the program you should go into the HW2 directory on your machine and then execute the following command:
 ~~~
-    cd HW2
+    cd jar_folder
     java -jar KD_HW2_v1.7.jar data/ [UNIGRAMS|NGRAMS] [DIRECT|BY_TOKENS]
 ~~~
 Execution examples:
 ~~~
-    cd HW2
+    cd jar_folder
     java -jar KD_HW2_v1.7.jar data/ UNIGRAMS DIRECT
     java -jar KD_HW2_v1.7.jar data/ UNIGRAMS BY_TOKENS
     java -jar KD_HW2_v1.7.jar data/ NGRAMS DIRECT			(DEFAULT CONFIGURATION)
@@ -109,4 +103,9 @@ The .JAR program must be run with Java 7 or higher.
 2. The results of TF-IDF were always better than those obtained by PageRanks.
 3. The way in which the n-grams are created (unigrams, bigrams or trigrams) and the way in which they compare with the exits of the gold-standard files (directly or by tokens) have a marked influence on the results of the MRR.
 
----
+## Authors
+- Created By: Andres Segura Tinoco
+- Created On: June 27, 2018
+
+## License
+This project is licensed under the terms of the MIT license.
