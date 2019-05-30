@@ -40,9 +40,9 @@ follows:
 - Remove stop-words
 
 ## Program Execution Rules
-A .JAR file of the program was created. The JAR name is: KD_HW2_v1.7.jar and you must send the path of the "data/www/" directory as a parameter, the n-grams size and the comparison type as parameters.
+The project has an executable in the 'jar' folder. The JAR name is: KD_HW2_v1.7.jar and you must send the path of the "data/www/" directory as a parameter, the n-grams size and the comparison type as parameters.
 
-Therefore, to run the program you should go into the HW2 directory on your machine and then execute the following command:
+Therefore, to run the program you should go into the jar directory on your machine and then execute the following command:
 ~~~
     cd jar_folder
     java -jar KD_HW2_v1.7.jar data/ [UNIGRAMS|NGRAMS] [DIRECT|BY_TOKENS]
