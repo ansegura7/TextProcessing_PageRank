@@ -15,7 +15,7 @@ For this project, it was used the WWW collection consisting of titles and abstra
 ## Algorithms
 - Simple PageRank: run PageRank on each word graph corresponding to each document in the collection as
 follows:
-    - Initialization: s = [s(V1), . . . , s(Vn)] = [1/n, . . . , 1/n], where n = |V|.
+    - Initialization: s = [s(V1), . . . , s(Vn)] = [1/n, . . . , 1/n], where n = &#124;V&#124;.
     - Score nodes in a graph using their PageRank obtained by iteratively computing the equation.
     - Where α is a damping factor (α = 0.85) and p =  [1/n, . . . , 1/n].
 
