@@ -1,2 +1,5 @@
 title: Text Processing & PageRank
+description: Use the PageRank and TF-IDF algorithms to calculate the relevance of the terms of the document collection
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
